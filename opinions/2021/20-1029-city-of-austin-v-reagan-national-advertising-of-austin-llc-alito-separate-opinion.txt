@@ -1,0 +1,114 @@
+City of Austin v. Reagan National Advertising of Austin, LLC — No. 20-1029 — October Term 2021 — decided 4/21/22 — Opinion of Alito, J.
+Citation: 596 U.S. 61
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r22_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+lisions near a variable message sign' ” (alteration omitted)).
+They add that on-premises signs are less likely to cause acci-
+dents. Id., at 23 (“[A] 2014 study found no evidence that on
+premises digital signs led to an increase in crashes”). The
+City further says that billboards cause more visual clutter
+than on-premises signs because the latter are “typically
+`small in size' and integrated into the premises.” Reply
+Brief 19.
+I would leave for the courts below to weigh these harms
+and interests, and any alternatives, in the first instance,
+without a strong presumption of unconstitutionality.
+Justice Alito , concurring in the judgment in part and
+dissenting in part.
+I agree with the majority that we must reverse the deci-
+sion of the Court of Appeals holding that the provisions of
+the Austin City Code regulating on- and off-premises signs
+are facially unconstitutional. Ante, at 69. The Court of Ap-
+peals reasoned that those provisions impose content-based
+restrictions and that they cannot satisfy strict scrutiny, but
+the Court of Appeals did not apply the tests that must be
+met before a law is held to be facially unconstitutional.
+“Normally, a plaintiff bringing a facial challenge must `estab-
+lish that no set of circumstances exists under which the [law]
+would be valid,' or show that the law lacks `a plainly legiti-
+mate sweep.' ” Americans for Prosperity Foundation v.
+Bonta, 594 U. S. –––, ––– (2021) (citation omitted). A some-
+what less demanding test applies when a law affects freedom
+of speech. Under our First Amendment “overbreadth” doc-
+trine, a law restricting speech is unconstitutional “if a sub-
+stantial number of its applications are unconstitutional,
+judged in relation to the statute's plainly legitimate sweep.”
+United States v. Stevens, 559 U. S. 460, 473 (2010) (internal
+quotation marks omitted).
+In this case, the Court of Appeals did not apply either of
+those tests, and it is doubtful that they can be met. Many
+(and possibly the great majority) of the situations in which
+ADVERTISING OF AUSTIN, LLC
+Opinion of Alito, J.
+the relevant provisions may apply involve commercial
+speech, and under our precedents, regulations of commercial
+speech are analyzed differently. See Sorrell v. IMS Health
+Inc., 564 U. S. 552, 571–572 (2011).
+It is also questionable whether those code provisions are
+unconstitutional as applied to most of respondents' bill-
+boards. It appears that most if not all of those billboards
+are located off-premises in both the usual sense of that term, 1
+and in the sense in which the term is used in the Austin code.
+See Austin, Tex., City Code § 25–10–3(11) (2016) (a sign is
+off-premises if it “advertis[es] a business, person, activity,
+goods, products, or services not located on the site where the
+sign is installed” or if it “directs persons to any location not
+on that site”). The record contains photos of some of these
+billboards, see App. 130–147, and all but one appears to be
+located on otherwise vacant land. Thus, they are clearly off-
+premises signs, and because they were erected before the
+enactment of the code provisions at issue, the only relevant
+restriction they face is that they cannot be digitized. 2 The
+distinction between a digitized and non-digitized sign is not
+based on content, topic, or subject matter. Even if the mes-
+sage on a billboard were written in a secret code, an observer
+would have no trouble determining whether it had been
+digitized.
+Because the Court of Appeals erred in holding that the
+code provisions are facially unconstitutional, I agree that we
+should reverse that decision. On remand, the lower courts
+1 In ordinary usage, a sign that is attached to or located in close proxim-
+ity to a building is not described as located “off-premises.” The distinc-
+tion between on- and off-premises signs is based solely on location, and
+that is why such a classification is not content-based. See Reed v. Town
+of Gilbert, 576 U. S. 155, 175 (2015) (Alito , J., concurring).
+2 A grandfathered sign can be maintained at its existing location, but
+the owner cannot “increase the degree of the existing nonconformity,”
+“change the method or technology used to convey a message,” or “increase
+the illumination of the sign.” Austin, Tex., City Code §§ 25–10–152(A)–(B).
+should determine whether those provisions are unconstitu-
+tional as applied to each of the billboards at issue.
+Today's decision, however, goes further and holds flatly
+that “[t]he sign code provisions challenged here do not dis-
+criminate” on the basis of “ `the topic discussed or the idea
+or message expressed,' ” ante, at 73–74, and that categorical
+statement is incorrect. The provisions defining on- and off-
+premises signs clearly discriminate on those grounds, and
+at least as applied in some situations, strict scrutiny should
+be required.
+As the Court notes, under the provisions in effect when
+petitioner's applications were denied, a sign was considered
+to be off-premises if it “advertis[ed],” among other things, a
+“person, activity, . . . or servic[e] not located on the site
+where the sign is installed” or if it “direct[ed] persons to any
+location not on that site.” Austin, Tex., City Code § 25–10–
+3(11). Consider what this definition would mean as applied
+to signs posted in the front window of a commercial estab-
+lishment, say, a little coffee shop. If the owner put up a sign
+advertising a new coffee drink, the sign would be classified
+as on-premises, but suppose the owner instead mounted a
+sign in the same location saying: “Contribute to X's legal
+defense fund” or “Free COVID tests available at Y phar-
+macy” or “Attend City Council meeting to speak up about Z.”
+All those signs would appear to fall within the definition of
+an off-premises sign and would thus be disallowed. See also
+post, at 88–89 (Thomas, J., dissenting). Providing disparate
+treatment for the sign about a new drink and the signs about
+social and political matters constitutes discrimination on the
+basis of topic or subject matter. The code provisions
+adopted in 2017 are worded differently, but the new wording
+may not rule out similar results. 3
+3 The amended code now defines “off-premise[s] sign” as “a sign that
+displays any message directing attention to a business, product, service,
+profession, commodity, activity, event, person, institution, or other com-
+mercial message which is generally conducted, sold, manufactured,

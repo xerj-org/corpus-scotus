@@ -1,0 +1,547 @@
+Gutierrez v. Saenz — No. 23-7809 — October Term 2024 — decided 6/26/25 — Thomas, J., dissenting
+Citation: 606 U.S. 305
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r59_g31h.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Thomas,
+J., dissenting
+Justice Thomas, dissenting.
+I join Justice Alito's principal dissent because I agree
+that Ruben Gutierrez lacks standing to bring a federal suit
+alleging that Texas's post-conviction DNA testing proce-
+dures violate due process. 1 I write separately to emphasize
+that this Court has no business intervening in this case in
+the first place. The Constitution does not require any State
+to establish procedures for state prisoners to challenge the
+validity of their convictions after trial. Yet, Gutierrez's suit
+rests on the premise that the Fourteenth Amendment's Due
+Process Clause gives him a “liberty interest” in Texas's
+voluntarily created procedures. That premise cannot be
+squared with any principled reading of the Due Process
+Clause. I therefore disagree with our decision to grant cer-
+tiorari and revive Gutierrez's challenge. Our intervention
+serves no purpose other than to exacerbate the already egre-
+gious delays endemic to capital litigation.
+I
+A
+The Texas Constitution provides capital defendants the
+right to a trial by jury. Art. 1, § 10. It further provides
+that, after a defendant is convicted and sentenced, he may
+1 I agree that the Court “fagrantly distorts the standard” that this
+Court articulated in Reed v. Goertz, 598 U. S. 230 (2023), by deeming irrele-
+vant the independent grounds that the Texas courts have given for deny-
+ing DNA testing to Gutierrez. Post, at 346–348 (Alito, J., dissenting).
+I also continue to believe that Reed made “chaos” of our standing doctrine.
+598 U. S., at 255 (Thomas, J., dissenting). Even if the Texas courts had
+not articulated alternative grounds for denying Gutierrez testing, “an ab-
+stract declaration” that Texas's limits on DNA testing are unconstitutional
+cannot redress any injury because it does not compel any “change in con-
+duct” on the part of the district attorney. Id., at 249. Gutierrez's real
+dispute is with the Texas courts for denying his motions for testing, but
+the Rooker-Feldman doctrine prohibits parties from attacking state-court
+judgments in federal district court. See Reed, 598 U. S., at 244–252
+(Thomas, J., dissenting); Rooker v. Fidelity Trust Co., 263 U. S. 413 (1923);
+District of Columbia Court of Appeals v. Feldman, 460 U. S. 462 (1983).
+
+Thomas, J
+., dissenting
+fle a direct appeal to the Texas Court of Criminal Appeals
+(TCCA), the State's highest court for criminal cases. Art.
+5, § 5(b). Texas law also allows prisoners sentenced to death
+to challenge their conviction and sentence collaterally by fl-
+ing a petition for habeas corpus in their court of conviction.
+Tex. Code Crim. Proc. Ann., Art. 11.071 (Vernon Cum. Supp.
+2024). Even if the prisoner's trial was error free, he may
+obtain habeas relief under state law if he produces newly
+discovered evidence establishing that he is actually innocent
+of the offense. Ex parte Mayhugh, 512 S. W. 3d 285, 295
+(Tex. Crim. App. 2016).
+Chapter 64 of the Texas Code of Criminal Procedure fur-
+ther allows convicted defendants to seek testing of DNA evi-
+dence that was in the possession of the State during trial.
+Arts. 64.01(a)(2)(a–1), (b) (Vernon 2018). Upon the defend-
+ant's motion, the convicting court may order testing if cer-
+tain conditions are met, including that the evidence still
+exists in a testable condition, that the defendant can show
+that he likely would not have been convicted had he obtained
+exculpatory results from DNA testing, and that the defend-
+ant can show that he is not bringing the motion unreasonably
+to delay his execution. Art. 64.03(a). Defendants who ob-
+tain DNA testing may use the results to support their state
+habeas petitions. Thacker v. State, 177 S. W. 3d 926, 927
+(Tex. Crim. App. 2005) (per curiam ).
+B
+A Texas jury convicted Gutierrez and sentenced him to
+death for the 1998 robbery and murder of Escolastica Har-
+rison. Having thrice failed to obtain DNA testing under
+Chapter 64 in state court, he now claims that several of
+Chapter 64's restrictions on obtaining DNA testing violate
+the Due Process Clause of the Fourteenth Amendment. See
+ante, at 311–313.
+To make sense of Gutierrez's claim, we must first under-
+stand what rights the Due Process Clause protects. The
+Clause provides that no State shall “deprive any person of
+
+Thomas,
+J., dissenting
+life, liberty, or property, without due process of law.” Amdt.
+14, § 1. In other words, the State cannot decide to take
+away an individual's life, liberty, or property unless it ad-
+heres to certain procedures. But, the Due Process Clause
+does not protect all rights—only life, liberty, and property.
+Thus, the first step in any due process analysis is to deter-
+mine whether the right that the individual asserts falls
+within one of these three categories. See Board of Regents
+of State Colleges v. Roth, 408 U. S. 564, 570–571 (1972). If
+it does not, the “requirements” of due process do not
+“apply.” Ibid.
+By seeking to execute Gutierrez and to imprison him until
+his execution, Texas undoubtedly seeks to deprive Gutierrez
+of his life and liberty. Yet, Gutierrez rightly does not base
+his due process claim on either of these deprivations, because
+he has received far more than the process required to justify
+them. Under our precedents, Texas must conduct a trial
+before it can imprison or execute a person as punishment for
+a crime. See Herrera v. Collins, 506 U. S. 390, 398–399
+(1993). But, the “State is not required by the Federal Con-
+stitution to provide . . . a right to appellate review.” Griffn
+v. Illinois, 351 U. S. 12, 18 (1956) (plurality opinion); accord,
+id., at 21 (Frankfurter, J., concurring in judgment); McKane
+v. Durston, 153 U. S. 684, 687 (1894). Nor need it provide
+“[p]ostconviction relief,” which “is even further removed
+from the criminal trial.” Pennsylvania v. Finley, 481 U. S.
+551, 556–557 (1987). Texas thus gave Gutierrez at his 1999
+trial all the process necessary to imprison and execute him.
+The ensuing quarter century of direct and collateral review
+has been additional process above the constitutional floor.
+Gutierrez instead asserts that he has a distinct “ `liberty
+interest' ” in Texas's “state-created right to postconviction”
+relief. Ante, at 314. In Gutierrez's view, part of the “lib-
+erty” that Texas prisoners enjoy under the Fourteenth
+Amendment is a right to obtain release pursuant to Texas's
+habeas statute, which the State takes away every time its
+
+Thomas, J
+., dissenting
+courts deny habeas relief. Thus, Gutierrez contends, if
+Texas law does not afford prisoners sufficient procedural
+rights to bolster their habeas petitions—such as, in his case,
+access to DNA testing—the State has deprived them of lib-
+erty without the due process of law. 2
+Gutierrez bases his asserted interest on this Court's deci-
+sion in District Attorney's Office for Third Judicial Dist. v.
+Osborne, 557 U. S. 52 (2009). There, the Court concluded
+that a prisoner has a “postconviction liberty interest” under
+the Due Process Clause if state law grants him “an entitle-
+ment . . . to prove his innocence even after a fair trial has
+proved otherwise.” Id., at 67–68.
+II
+The Fourteenth Amendment does not protect Gutierrez's
+asserted “liberty interest.” As originally understood, “lib-
+erty” in the Fourteenth Amendment likely referred only to
+freedom from physical restraint. It did not include entitle-
+2 Gutierrez also claims that executive clemency is a “liberty interest”
+that he cannot be denied without access to DNA testing. But, “noncapital
+defendants do not have a liberty interest in traditional state executive
+clemency.” District Attorney's Office for Third Judicial Dist. v. Osborne,
+557 U. S. 52, 67 (2009); see Connecticut Bd. of Pardons v. Dumschat, 452
+U. S. 458, 464 (1981). In Ohio Adult Parole Authority v. Woodard, 523
+U. S. 272 (1998), Chief Justice Rehnquist concluded for a plurality of the
+Court that the same is true of capital defendants, because trial and sen-
+tencing extinguish the defendant's “interest in not being executed in ac-
+cord with his sentence.” Id., at 281. When applying for clemency, the
+“defendant in effect accepts the finality of the death sentence for purposes
+of adjudication, and appeals for clemency as a matter of grace.” Id., at
+282. Justice O'Connor, in contrast, left open the possibility that “some
+minimal procedural safeguards apply to clemency proceedings,” such that
+a due process violation “might” occur if “a state official flipped a coin to
+determine whether to grant clemency.” Id., at 289 (opinion concurring in
+part and concurring in judgment). But, even if Justice O'Connor's view
+is correct, Gutierrez plainly cannot rely on it to establish a due process
+violation. DNA testing is not necessary to make the Texas clemency
+process less arbitrary than a coin fip.
+
+ments to government-created benefits. This Court's con-
+trary precedent stems from a conscious, policy-based rejec-
+tion of the Due Process Clause's original meaning.
+A
+The original meaning of “liberty” in the Fourteenth
+Amendment was likely far narrower than our precedents
+currently hold. The term originally appears to have re-
+ferred only to freedom from physical restraint. But, in the
+Lochner era, the Court began to hold that “liberty” includes
+fundamental rights generally. See Lochner v. New York,
+198 U. S. 45 (1905). This Court has since adhered to that
+broader meaning.
+As with any legal text, we must construe the Fourteenth
+Amendment according to the ordinary meaning of its terms
+at the time of its enactment. Gibbons v. Ogden, 9 Wheat. 1,
+188–189 (1824); T. Cooley, Constitutional Limitations 55
+(1868). We may not defer to “demonstrably erroneous”
+precedents that are inconsistent with the Amendment's orig-
+inal meaning. Gamble v. United States, 587 U. S. 678, 717–
+718 (2019) (Thomas, J., concurring).
+When the Fourteenth Amendment was adopted in 1868,
+its Due Process Clause was understood to embody an “old
+. . . principle” dating back to Magna Carta, the great 13th-
+century charter of English liberties. Munn v. Illinois, 94
+U. S. 113, 123–124 (1877). Magna Carta provided that a
+“free man” may not be “prosecute[d],” “imprisoned,” or “de-
+stroyed” except “by the law of the land.” Magna Carta, ch.
+39 (1215), in A. Howard, Magna Carta: Text and Commen-
+tary 43 (1964). A century later, a statute interpreting this
+“law of the land” provision stated that “no Man” shall be
+“imprisoned” or “put to Death, without being brought in An-
+swer by due Process of the Law.” 28 Edw. III, c. 3 (1354);
+see also 1 E. Coke, The Second Part of the Institutes of
+the Laws of England 50 (1642) (interpreting “by the Law of
+the Land” to be equivalent to “by due Process of the Com-
+mon law”).
+
+Thomas, J
+., dissenting
+Blackstone referred to Magna Carta's “law of the land”
+provision as protecting the three “absolute rights of every
+Englishman”: the “right of personal security,” including
+“life”; “the right of personal liberty”; and “the right of
+private property.” 1 W. Blackstone, Commentaries on
+the Laws of England 123, 125 (1765) (Blackstone). This for-
+mulation “heavily” influenced the founding generation of
+America. Obergefell v. Hodges, 576 U. S. 644, 724 (2015)
+(Thomas, J., dissenting). Many early state constitutions
+contained provisions “that replicated Magna Carta's lan-
+guage, but were modified to refer specifically to `life, liberty,
+or property.' ” Ibid., and n. 3 (collecting examples). And,
+the Fifth Amendment similarly prohibited the Federal Gov-
+ernment from depriving any person “of life, liberty, or prop-
+erty, without due process of law.”
+“Liberty” in the Fifth Amendment likely refers only to
+freedom from physical restraint. Blackstone defined “the
+right of personal liberty” as “the power of loco-motion, of
+changing situation, or removing one's person to whatsoever
+place one's own inclination may direct; without imprisonment
+or restraint, unless by due course of law.” 1 Blackstone 130.
+Following Blackstone, “[s]tate decisions interpreting [state
+due process] provisions between the founding and the ratifi-
+cation of the Fourteenth Amendment almost uniformly con-
+strued the word `liberty' to refer only to freedom from physi-
+cal restraint.” Obergefell, 576 U. S., at 724–725 (Thomas, J.,
+dissenting) (citing C. Warren, The New “Liberty” Under the
+Fourteenth Amendment, 39 Harv. L. Rev. 431, 441–445 (1926)
+(Warren)). In light of this history, “it is hard to see how
+the `liberty' protected by the [Fifth Amendment] could be
+interpreted to include anything broader.” 576 U. S., at 725
+(Thomas, J., dissenting).
+“If the Fifth Amendment uses `liberty' in this narrow
+sense, then the Fourteenth Amendment likely does as well.”
+Ibid. When the language of a provision “is obviously trans-
+planted from another legal source, it brings the old soil with
+it.” Taggart v. Lorenzen, 587 U. S. 554, 560 (2019) (internal
+
+Thomas,
+J., dissenting
+quotation marks omitted). Applying that well-established
+principle, this Court has long recognized the Fourteenth
+Amendment's due process protections as having “the same
+sense” as the Fifth Amendment's. Hurtado v. California,
+110 U. S. 516, 534–535 (1884); accord, Slaughter-House Cases,
+16 Wall. 36, 80–81 (1873); Hibben v. Smith, 191 U. S. 310, 325
+(1903); Malinski v. New York, 324 U. S. 401, 415 (1945) (opin-
+ion of Frankfurter, J.). 3
+It was not until the Lochner era that this Court adopted
+a broader understanding of “liberty.” During that period,
+stretching from 1897 to 1937, this Court relied on the “legal
+fiction” of “substantive” due process to invalidate disfavored
+social and economic legislation by States. McDonald v. Chi-
+cago, 561 U. S. 742, 811 (2010) (Thomas, J., concurring in part
+and concurring in judgment). Under that fiction, the Due
+Process Clauses forbade all government infringement on
+“certain `fundamental' liberty interests . . . , no matter what
+process is provided.” Reno v. Flores, 507 U. S. 292, 302
+(1993). To make the fiction work, the Court reinterpreted
+the Clauses' guarantee of “ `process' ” to encompass “sub-
+stance,” a notion that “strains credulity for even the most
+casual user of words.” McDonald, 561 U. S., at 811 (opinion
+of Thomas, J.).
+3 Some decisions of this Court, while recognizing the general principle
+that the Fifth and Fourteenth Amendments' Due Process Clauses should
+be read together, have left open the possibility “that questions may arise
+in which different constructions and applications of [the Clauses] may be
+proper.” French v. Barber Asphalt Paving Co., 181 U. S. 324, 328 (1901).
+Even assuming that caveat is correct, however, reading “liberty” in the
+Fourteenth Amendment to mean fundamental rights generally, see infra
+this page and 329, would appear to render the Fourteenth Amendment so
+broad that it would destroy the general rule that the Fifth and Fourteenth
+Amendments should be read coextensively. And, even if “liberty” in the
+Fourteenth Amendment were entirely decoupled from its meaning in the
+Fifth Amendment, I am aware of nothing showing that the term was un-
+derstood to encompass government entitlements before the 1970s. See
+infra, at 331–334.
+
+Thomas, J
+., dissenting
+The Court's embrace of substantive due process also re-
+quired it to jettison the concept of “liberty” as only freedom
+from restraint, so that it could encompass other rights that
+the Court deemed “fundamental.” In Allgeyer v. Louisi-
+ana, 165 U. S. 578 (1897), this Court's first substantive due
+process decision under the Fourteenth Amendment, the
+Court for the first time broadened the definition of “liberty”
+to include the freedom of contract. Id., at 589; see Warren
+445–449 (tracing the interpretation of “liberty” from the
+Fourteenth Amendment's ratification to Allgeyer). By the
+height of the Lochner era, the Court had stretched the term
+to cover “those privileges long recognized at common law as
+essential to the orderly pursuit of happiness by free men.”
+Meyer v. Nebraska, 262 U. S. 390, 399 (1923). These privi-
+leges included “the right of the individual to contract, to en-
+gage in any of the common occupations of life, to acquire
+useful knowledge, to marry, establish a home and bring up
+children,” and “to worship God according to the dictates of
+his own conscience.” Ibid.
+This Court eventually repudiated Lochner's muscular ver-
+sion of substantive due process—at least for economic rights.
+See Ferguson v. Skrupa, 372 U. S. 726, 730 (1963); West Coast
+Hotel Co. v. Parrish, 300 U. S. 379 (1937). But, the Court
+continues to treat Meyer's definition of “liberty” as authori-
+tative. E. g., Roth, 408 U. S., at 572.
+B
+Gutierrez's claim of a state-created “liberty interest” in ob-
+taining post-conviction relief is inconsistent with the original
+understanding of “liberty.” From the founding through the
+Lochner era, “liberty” was understood to be a natural, pre-
+political right. Such an understanding is fundamentally in-
+compatible with a “right” bestowed by the government.
+Blackstone squarely framed life, liberty, and property as
+natural rights that existed before government. In an ac-
+count “heavily influenced” by the political theories of John
+
+Locke, Obergefell, 576 U. S., at 726–727, n. 4 (Thomas, J.,
+dissenting), Blackstone explained that, in the state of nature,
+every man has the “power of acting as [he] thinks ft, without
+any restraint or control.” 1 Blackstone 121. When man
+“enters into society, [he] gives up a part of his natural lib-
+erty” to enjoy the rest of it in security. Ibid. Thus, the
+liberty that each man enjoys as “a member of society, is no
+other than natural liberty so far restrained by human laws
+. . . as is necessary and expedient for the general advantage
+of the publick.” Ibid. This includes “the absolute rights”
+of life, liberty, and property, which exist in the “state of na-
+ture, and which every man is intitled to enjoy whether out
+of society or in it.” Id., at 119 (emphasis deleted). In other
+words, according to Blackstone, life, liberty, and property are
+rights that predate government and that were not surren-
+dered when government was established; they are not enti-
+tlements that the government can bestow by positive law.
+Founding-era Americans shared this understanding of lib-
+erty. The Lockean “idea of civil liberty as natural liberty
+constrained by human law” “permeated the 18th-century po-
+litical scene in America.” Obergefell, 576 U. S., at 726–728
+(Thomas, J., dissenting). For instance, the Virginia Decla-
+ration of Rights of 1776—“the first of the colonial bills of
+rights,” Klopfer v. North Carolina, 386 U. S. 213, 225
+(1967)—proclaimed that “all men . . . by nature” possess the
+“inherent rights” of “life,” “liberty,” and “property,” which
+they retain “when they enter into a state of society.” § I, in
+1 Milestone Documents in American History 154 (P. Finkel-
+man ed. 2008) (Finkelman). Similarly, the Declaration of In-
+dependence asserts that the “unalienable Rights” of “Life,
+Liberty, and the pursuit of Happiness” come from the “Cre-
+ator,” and that, “to secure these rights, Governments are
+instituted among Men.” ¶2.
+The understanding of liberty as a natural right persisted
+until well after the enactment of the Fourteenth Amend-
+ment. Even as this Court expanded the notion of “liberty”
+
+Thomas, J
+., dissenting
+in the Lochner era, it remained faithful to the idea of liberty
+as “individual freedom from governmental action, not as a
+right to a particular governmental entitlement.” Oberge-
+fell, 576 U. S., at 726 (Thomas, J., dissenting). None of the
+liberties enumerated in Meyer, for instance, could be charac-
+terized as state-created benefits. See 262 U. S., at 399. To
+the contrary, when interpreting the Due Process Clauses, the
+Court distinguished between rights inherent to the individ-
+ual and privileges established by the government. The
+Court recognized, for example, that a prisoner's statutory
+entitlement to early release on parole was a “privilege” that
+“comes as an act of grace to one convicted of a crime,” not
+a right protected by the Due Process Clauses. Escoe v.
+Zerbst, 295 U. S. 490, 492–493 (1935).
+In short, entitlements established by the government can-
+not be “liberty” under the Due Process Clause of the Four-
+teenth Amendment. Gutierrez thus has no “liberty inter-
+est” in Texas's state-created right to post-conviction relief.
+C
+Gutierrez rests the legitimacy of his due process claim on
+Osborne, which concluded that a prisoner has a “ `liberty in-
+terest' ” when state law gives him “an entitlement . . . to
+prove his innocence even after a fair trial has proved other-
+wise.” 557 U. S., at 67. But, Osborne did not base this con-
+clusion on the original meaning of “liberty” in the Four-
+teenth Amendment. It instead relied on a line of cases
+ultimately tracing back to Goldberg v. Kelly, 397 U. S. 254
+(1970), where this Court relied on policy considerations to
+redefine “property” to include government entitlements.
+Scholars generally agree that the term “property” in the
+Due Process Clauses originally referred only to those inter-
+ests traditionally recognized as property at common law.
+See, e. g., 1 K. Hickman & R. Pierce, Administrative Law
+§ 7.4, pp. 903–904 (7th ed. 2024); G. Lawson, Federal Adminis-
+trative Law 350 (1998); L. Tribe, American Constitutional
+
+Thomas,
+J., dissenting
+Law § 10–8, pp. 680–681 (2d ed. 1988). Property at common
+law did not include entitlements to government benefits.
+See 2 Blackstone 16–19, 384–399; J. Kent, Commentaries on
+American Law 324–330, 613–614 (W. Browne ed. 1894)
+(Kent). And, consistent with their general view of civil lib-
+erties, Americans at the founding and in the early Republic
+viewed property—like liberty—as a natural, pre-political
+right. See, e. g., Virginia Declaration of Rights, § I, in
+Finkelman 154; Calder v. Bull, 3 Dall. 386, 388–389 (1798)
+(opinion of Chase, J.); H. Baldwin, A General View of the
+Origin and Nature of the Constitution and Government of
+the United States 136 (1837); Kent 203.
+The understanding of property as a natural right per-
+sisted through the ratification of the Fourteenth Amend-
+ment. After the Civil War, this Court held that a statute-of-
+limitations defense was not “property” within the meaning
+of the Constitution because it “is the creation of conventional
+law,” not a “natural right.” Campbell v. Holt, 115 U. S. 620,
+629 (1885). And, state-court decisions in the years leading
+up to and immediately following the Amendment's ratifica-
+tion continued to recognize property as a natural right.
+See, e. g., People v. Quant, 12 How. Pr. 83, 89 (NY Sup. Ct.
+1855); Sherman v. Buick, 32 Cal. 241, 249 (1867); Munn v.
+People, 69 Ill. 80, 96 (1873), aff'd, 94 U. S. 113 (1877).
+Consistent with this view, “it has traditionally been held”
+that the Due Process Clauses do not apply where it is “possi-
+ble to characterize [the asserted] private interest . . . as a
+mere privilege subject to the [government's] plenary power.”
+Cafeteria & Restaurant Workers v. McElroy, 367 U. S. 886,
+895 (1961). Thus, from the antebellum period to the 1960s,
+this Court consistently recognized that government employ-
+ment, veterans' benefits, admission to the country as an
+alien, and other government-created entitlements are not
+property or otherwise cognizable interests under the Due
+Process Clauses. See, e. g., United States ex rel. Knauff v.
+Shaughnessy, 338 U. S. 537, 542 (1950); Oceanic Steam Nav.
+
+Thomas, J
+., dissenting
+Co. v. Stranahan, 214 U. S. 320, 340–343 (1909); Buttfeld v.
+Stranahan, 192 U. S. 470, 497 (1904); Taylor v. Beckham, 178
+U. S. 548, 576 (1900); Crenshaw v. United States, 134 U. S.
+99, 104 (1890); United States v. Teller, 107 U. S. 64, 68 (1883);
+Butler v. Pennsylvania, 10 How. 402, 416 (1851); Kendall v.
+United States ex rel. Stokes, 12 Pet. 524, 592–593 (1838).
+In the 1960s, Professor Charles Reich of the Yale Law
+School published two articles proposing a radical reinterpre-
+tation of the concept of property. See Individual Rights and
+Social Welfare: The Emerging Legal Issues, 74 Yale L. J.
+1245 (1965) (Individual Rights); The New Property, 73 Yale
+L. J. 733 (1964) (The New Property). Taking direct aim at
+the Framers' understanding, Reich argued that “[p]roperty
+is not a natural right but a deliberate construction by soci-
+ety” that could be redefned to meet contemporary social
+needs. Id., at 771. In his view, the rise of “the welfare
+state” and the dependence it fostered meant that “each man
+cannot be wholly the master of his own destiny.” Id., at 786.
+Thus, he concluded, to protect the now-dependent citizenry
+from arbitrary government power, the legal system must
+“mak[e government] benefits into rights” akin to traditional
+property rights. Ibid. In other words, “[w]e must create a
+new property.” Id., at 787.
+This Court embraced Reich's vision in 1970, holding that
+“welfare benefits” are property under the Fourteenth
+Amendment's Due Process Clause because they “are a mat-
+ter of statutory entitlement for persons qualified to receive
+them.” Goldberg, 397 U. S., at 261–262. The Court dis-
+missed any distinction between “a `privilege' and . . . a
+`right,' ” and did not attempt to ground its conclusion in the
+text or history of the Due Process Clause. Id., at 262 (some
+internal quotation marks omitted). The Court instead gave
+a sociological justification, “simply highlight[ing] the social
+importance of `entitlements,' which had come to make up
+`[m]uch of the existing wealth in this country,' and which only
+the poor had been theretofore unable to effectively enforce.”
+
+Thomas,
+J., dissenting
+Williams v. Reed, 604 U. S. 168, 182, n. (2025) (Thomas, J.,
+dissenting); see Goldberg, 397 U. S., at 262, and n. 8 (citing
+Individual Rights 1255; The New Property).
+Soon after Goldberg 's radical redefnition of “property” to
+include government-created entitlements, this Court rede-
+fined “liberty” along similar lines. The Court held that, in
+at least some circumstances, the denial of parole triggered
+the Due Process Clause because “a person's liberty is equally
+protected, even when the liberty itself is a statutory creation
+of the State.” Wolff v. McDonnell, 418 U. S. 539, 558 (1974);
+accord, Meachum v. Fano, 427 U. S. 215, 226 (1976). To jus-
+tify this shift, the Court relied on “the accepted due process
+analysis as to property.” Wolff, 418 U. S., at 557–558; ac-
+cord, Meachum, 427 U. S., at 226 (citing Goldberg, 397 U. S.
+254); see also Evitts v. Lucey, 469 U. S. 387, 400–401 (1985)
+(citing Goldberg, 397 U. S., at 262).
+As with property, the Court's redefnition of “liberty” was
+a conscious break with the past. The Court rejected the
+inquiry of “whether [a] parolee's liberty is a `right' or a `privi-
+lege' ” as “hardly useful any longer.” Morrissey v. Brewer,
+408 U. S. 471, 482 (1972) (emphasis added). It expressly re-
+pudiated its earlier case law holding that probation, as “an
+`act of grace,' ” triggers no due process protections. See
+Gagnon v. Scarpelli, 411 U. S. 778, 782, n. 4 (1973) (quoting
+Escoe, 295 U. S., at 492). And, seemingly to obfuscate the
+awkwardness of referring to a government-created entitle-
+ment as “liberty,” the Court began to speak instead of “lib-
+erty interests.” Kenosha v. Bruno, 412 U. S. 507, 515 (1973)
+(internal quotation marks omitted). Although it is now
+standard terminology in due process litigation, the phrase
+did not appear in the United States Reports before Goldberg.
+Osborne relied on this line of cases to recognize a “liberty
+interest” in post-conviction procedures. Invoking the lan-
+guage of Goldberg, the Court asserted that a prisoner has a
+“liberty interest” in a State's post-conviction procedures if
+those procedures confer “an entitlement . . . to prove his
+
+Thomas, J
+., dissenting
+innocence” after trial. 557 U. S., at 67 (emphasis added).
+And, to establish that an entitlement of this kind can give
+rise to a viable due process claim, the Court cited Connecti-
+cut Bd. of Pardons v. Dumschat, 452 U. S. 458, 463 (1981),
+and Wolff, 418 U. S., at 556–558, both of which relied on this
+Court's post-Goldberg redefnition of “property.” 4 See 557
+U. S., at 68.
+Osborne thus cannot support Gutierrez's asserted “liberty
+interest.” We may, consistent with the judicial power, defer
+to earlier decisions that “apply traditional tools of construc-
+tion and arrive at different,” but reasonable, “interpretations
+of legal texts.” Gamble, 587 U. S., at 721 (Thomas, J., con-
+curring). But, Osborne rests on nothing more than Gold-
+berg's abandonment of the Due Process Clause's original
+meaning.
+III
+We should correct the error we made in Osborne, which
+seriously undermines States' interests in finality and in pro-
+viding relief to compelling claims of actual innocence. At
+the very least, we should cease finding novel ways to revive
+due process challenges to post-conviction DNA testing pro-
+cedures, as the Court does today.
+In enacting Chapter 64, Texas has voluntarily chosen to
+prioritize claims of actual innocence at a significant cost to
+its interest in finality. Thanks in no small part to decisions
+of this Court, capital cases today are routinely plagued by
+decades-long delays between sentencing and execution, with
+much of the litigation concerning convoluted procedural is-
+sues having little or nothing to do with the guilt or innocence
+of the defendant. See Baze v. Rees, 553 U. S. 35, 69–70
+4 Wolff invoked “the accepted due process analysis as to property” to
+hold that a “statutory right to good time” credits constituted a liberty
+interest. 418 U. S., at 557–558. Dumschat relied on Wolff and Meachum
+v. Fano, 427 U. S. 215, 226 (1976), to establish that a “ `state-created right' ”
+can be a cognizable liberty interest. 452 U. S., at 463. Meachum cited
+Goldberg for that point. 427 U. S., at 226.

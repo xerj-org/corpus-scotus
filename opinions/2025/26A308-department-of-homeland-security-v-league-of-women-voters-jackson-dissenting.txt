@@ -1,0 +1,462 @@
+Department of Homeland Security v. League of Women Voters — No. 26A308 — October Term 2025 — decided 9/25/26 — JACKSON, J., dissenting
+Citation: 609/2
+Source: https://www.supremecourt.gov/opinions/25pdf/26a308_pok0.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 26A308
+DEPARTMENT OF HOMELAND SECURITY, ET AL. v.
+LEAGUE OF WOMEN VOTERS, ET AL.
+ON APPLICATION FOR STAY
+[September 25, 2026]
+ JUSTICE JACKSON, with whom J USTICE SOTOMAYOR and
+JUSTICE KAGAN join, dissenting.
+Since 2005, States have used a Department of Homeland
+Security (DHS) database called Systematic Alien Verifica-
+tion for Entitlements (SAVE) to ensure that registered vot-
+ers are American citizens. For most of its life, SAVE con-
+sisted almost entirely of immigration records from DHS.  In
+2025, however, DHS and the So cial Security Administra -
+tion (SSA) decided to conne ct SSA’s database of master
+files, including all its sensitive information, to SAVE. A
+group of organizations sued, arguing that the modifications
+to SAVE violated various federal privacy laws, and that the
+staleness of SSA’s citizenship records risked disenfranchis-
+ing recently naturalized U. S. citizens.  After months of lit-
+igation, the District Court agreed and vacated the modifi -
+cations.
+The D. C. Circuit denied a stay of the District Court’s or-
+der while reviewing the pending appeal.  But, without full
+briefing or oral argument, this Court now grants one—ren-
+dering questionable interim rulings about two statutory
+provisions it has never before interpreted.  The Court also
+focuses only on the harms the Government will purportedly
+suffer absent a stay, disregarding the harms that the mod-
+ified SAVE system has caused, and will likely continue to
+cause, to lawful voters. The Court thus misuses its equita-
+ble powers. Accordingly, I respectfully dissent.
+
+2 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+I
+A
+SAVE is a database that “provides point in time immigra-
+tion status and U. S. citizenship information to federal,
+state, local, territorial, and tribal agencies.”  Application for
+Stay 5 (internal quotation marks omitted).  It was created
+in 1986 to help States verify eligibility for federally funded
+benefits like Medicaid and food stamps, which are typically
+limited to citizens and lawful immigrants. See Immigration
+Reform and Control Act of 1986, §121, 100 Stat. 3391, note
+following 42 U. S. C. §1320b–7; see also 42 U. S. C. §1320b–
+7. Since 2005, States have used SAVE for voter-verification
+purposes too. Application for Stay 6.  Twenty-seven States
+currently use SAVE for that purpose.  Ibid.
+Until 2025, SAVE did not have access to natural-born cit-
+izens’ records, and it only accessed immigration and natu-
+ralization records in DHS’s systems (and occasionally, in
+systems at the State Department and the Department of
+Justice). Users could also only conduct individual searches,
+usually by way of a person’s alien-identification number.
+835 F. Supp. 3d 79, 102–103 (DC 2026).  In 2025, however,
+President Trump signed an Executive Order purporting to
+target voting by noncitizens in federal elections that, among
+other things, directed SSA to share its databases with state
+and local election officials for the purposes of voter verifica-
+tion. The Order required this information-sharing even
+though the Social Security Act dictates that “[s]ocial secu-
+rity account numbers and related records . . . shall be confi-
+dential, and no authorized person shall disclose any such
+social security account number or related record.”
+42 U. S. C. §405(c)(2)(C)(viii)(I); see Exec. Order No. 14248,
+90 Fed. Reg. 14007 (2025).
+To comply with the Executive Order, DHS and SSA
+agreed to overhaul SAVE and link SSA’s master social se-
+curity files, which are held in a database called
+NUMIDENT, to SAVE.  NUMIDENT contains information
+
+3  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+about natural-born U. S. citizens as well as naturalized cit-
+izens and noncitizens—not just social security numbers
+(SSNs) but also “names, dates and places of birth, citizen-
+ship indicators, death records, and information obtained
+while processing requests for SSNs.” 835 F. Supp. 3d, at
+101. With the modified SAVE system, a state user can sub-
+mit bulk queries using full or partial SSNs as well as alien-
+identification numbers. Id., at 102–103.  If a query is in -
+conclusive, a State might resp ond by asking the voter to
+provide proof of citizenship in  order to remain registered,
+and it might strike the voter from the rolls if she fails to
+timely do so. Id., at 108–109.
+Before the overhaul, DHS had recognized SAVE as the
+sort of database that was covered by the federal Privacy
+Act. That Act requires agencies to publish a so-called sys-
+tem of records notice (SORN) anytime it “establish[es]” or
+“modifie[s]” any system of records containing personal iden-
+tifying information.  5 U. S. C. §552a(e)(4).  The agency is
+then prohibited from disclosing anyone’s information in the
+system without consent, §552a(b), unless (among other
+things) the disclosure is for a “routine use,” §552a(b)(3).
+“[A]t least 30 days prior” to adopting a new routine use,
+however, the Act requires that an agency publish a SORN
+and offer a 30-day comment period.  §552a(e)(11).
+When DHS had modified SAVE in the past, it had pub -
+lished a timely SORN and complied with the Act’s comment
+requirements.  See 835 F. Supp. 3d, at 100 & n. 1.  But this
+time, neither DHS nor SSA published a SORN or invited
+comments. Instead, on May 22, 2025, they simply an-
+nounced that the modified SAVE system was ready.  See
+id., at 101.
+B
+Several organizations (Respondents here) promptly sued
+DHS and SSA under the Administrative Procedure Act
+(APA), alleging that the SAVE modifications were arbitrary
+
+4 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+and capricious and violated the Privacy Act’s procedural
+and substantive requirements. Class Action Complaint in
+No. 1:25–cv–3501 (D DC), ECF Doc. 1, ¶¶204–218.  In fall
+of 2025, DHS and SSA belatedly published SORNs that an-
+nounced new “routine uses” covering the NUMIDENT in -
+formation and offered a 30-day comment period.
+835 F. Supp. 3d, at 102; see Notice of a Modified System of
+Records, 90 Fed. Reg. 48948 (2025); Notice of a Modified
+System of Records, 90 Fed. Reg. 50879. The SORNs
+claimed that the new routine us es would not go into effect
+for 30 days. Id., at 40849, 50880.  But the modified SAVE
+system (which involved disclosures that were covered by
+the newly announced routine uses) had already been in op-
+eration since May. See 835 F. Supp. 3d, at 100–101.
+So, Respondents filed an amended complaint, further al -
+leging that the modifications to SAVE violated the Social
+Security Act’s confidentiality provision at 42 U. S. C.
+§405(c)(2)(C)(viii)(I). First Amended Complaint in No.
+1:25–cv–3501, ECF Doc. 61, ¶204. And they bolstered their
+Privacy Act claims, arguing that SSA’s disclosures of
+NUMIDENT information did not count as a “routine use”
+under the Act, and regardless, DHS and SSA had unlaw-
+fully failed to timely publish a SORN, or provide a public
+comment period, before sharing that information. Id., at
+¶¶218–235. Respondents also claimed that outdated SSA
+data put some of their recently naturalized members at risk
+of either being deregistered to vote or having to verify their
+citizenship before being allowed to cast ballots in the 2026
+primary or general elections.  Id., at ¶¶168–170.
+The parties then litigated the case to summary judgment,
+where the Government asserted that a provision of the Ille-
+gal Immigration Reform and Immigrant Responsibility Act
+of 1996 (IIRIRA), 8 U. S. C. §1373, gave DHS and SSA the
+authority to implement their modifications to SAVE regard-
+less of the requirements of the Social Security Act and the
+Privacy Act. That statut ory section provides that
+
+5  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+“[n]otwithstanding any other provision of Federal, State, or
+local law,” no “government entity” or “official,” “person[,] or
+agency,” may “prohibit, or in any way restrict,” the ex-
+change of citizenship information with DHS. §§1373(a)–(b).
+It also obligates DHS to respond to state and local officials’
+inquiries regarding a person’s citizenship status. §1373(c).
+The District Court rejected the Government’s argument
+that §1373 overrode the Social Security Act and the Privacy
+Act and granted summary judgment to Respondents, con-
+cluding that the modified SAVE system violated both laws,
+as well as the APA. 835 F. Supp. 3d, at 119–120, 130, 134–
+136. The District Court then vacated the modifications to
+SAVE.  Id., at 138. At that point, the Government sought
+a stay in the District Court, where it raised several new ar-
+guments about why the Social Security Act’s confidentiality
+provision did not apply to the modified SAVE system.  See
+No. 1:25–cv–3501 (D DC, July 8, 2026), App. to Application
+for Stay 81a–84a (App.) (describing the Government’s argu-
+ments).1  The District Court denied the stay and refused to
+consider the forfeited arguments in that posture, but in-
+vited the Government to raise them via a Rule 52(b) motion
+to reopen the judgment. See id., at 85a, n. 3.
+The Government did not take the District Court up on
+that invitation. Instead, it requested an emergency stay
+from the D. C. Circuit, even though it was too late for States
+to use SAVE for systematic voter-list maintenance in ad-
+vance of the 2026 elections. See 52 U. S. C. §20507(c)(2)(A)
+——————
+1 Specifically, the Government claimed that the confidentiality provi-
+sion did not apply because the info rmation disclosed through the modi-
+fied SAVE system was collected pursuant to the original Social Security
+Act of 1935, and the confidentiality provision only restricted disclosures
+of information “obtained or maintained” pursuant to laws enacted “on or
+after October 1, 1990.”  App.  81a–82a; see 42 U. S. C.
+§405(c)(2)(C)(viii)(I).  The Governme nt also claimed that NUMIDENT
+records disclosed through the modified SAVE system did not count as
+“social security numbers [or] related records” under the provision. App.
+81a–82a.
+
+6 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+(prohibiting States from “s ystematically remov[ing] the
+names of ineligible voters” from their rolls during the 90
+days prior to any primary or general election). 2  A divided
+panel of the D. C. Circuit denied the requested stay. No.
+26–5243 (Sept. 4, 2026), App. 102a; see also id., at 133a
+(Katsas, J., dissenting).
+The Government now asks this Court to stay the District
+Court’s ruling. Per the oft-repeated stay factors, a stay ap -
+plicant must demonstrate that it is “likely to succeed on the
+merits” of its appeal, that it  will be “irreparably injured”
+absent a stay, and that the equities weigh in its favor.  Nken
+v. Holder, 556 U. S. 418, 426 (2009) (internal quotation
+marks omitted); see also Hollingsworth v. Perry, 558 U. S.
+183, 190 (2010) (per curiam).
+II
+The majority concludes that the Government has made
+the necessary “strong showing” of likely success on the mer-
+its, Nken, 556 U. S., at 426 (internal quotation marks omit-
+ted), because two IIRIRA provisions that we have never be-
+fore interpreted likely authorize the modifications to SAVE
+and displace any other statutory restrictions on the disclo-
+sure of citizenship information.  See ante, at 4–5; 8 U. S. C.
+§§1373(a)–(b).3  As the majority sees things, Congress’s
+“prohibiting interference with the disclosure of information
+regarding citizenship status to DHS” in §§1373(a) and (b)
+“necessarily authorize[s] DHS to request and receive that
+information” from SSA, regardless of whether some other
+law prohibits disclosure. Ante, at 4. The majority thus
+treats §1373 as essentially ov erriding the limits that
+——————
+2 In fact, as the D. C. Circuit recognized, the Government had conceded
+that the “90-day limitation was ‘fatal’ to a claim of imminent harm prem-
+ised on systematic voter-roll maintenance.”  No. 26–5243 (CADC, Sept.
+4, 2026), App. 131a.
+3 The per curiam  properly rejects the Gove rnment’s threshold argu -
+ment that Respondents lack standing to sue.  See ante, at 3; see also
+Application for Stay 11–18.
+
+7  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+privacy laws impose on the sharing of citizenship infor-
+mation with DHS. But that “back-of-the-napkin assess -
+ment,” Noem v. Doe, 605 U. S. 961, 962 (2025) (JACKSON, J.,
+dissenting from grant of stay), is implausible.
+For starters, the majority misreads the statutory text.
+Subsections 1373(a) and (b) bar “government entit[ies] or
+official[s]” (in §1373(a)) and “person[s] or agenc[ies]” (in
+§1373(b)) from “prohibit[ing], or in any way restrict[ing],”
+the exchange of citizenship information with DHS, “not -
+withstanding any other provision” of law.  These provisions
+do not affirmatively grant any power.  Nor do they override
+any explicit statutory limits on information-sharing.  Ra -
+ther, both provisions bar government entities or employees
+from interfering with otherwise lawful exchanges of citizen-
+ship information, notwithstanding that such interference
+may be permitted under some other law.  When a law im -
+poses an express restriction on disclosure, it is that law—
+not an “entity,” “official,” “person,” or “agency”—that is do -
+ing the “prohibit[ing]” or “restrict[ing].”  Neither §1373(a)
+nor (b) has anything to say in that circumstance.4
+Statutory context confirms that this reading is the better
+one. Another part of IIRIRA lets SSA respond to citizen-
+ship-status inquiries to verify an individual’s employment
+eligibility. See Illegal Immigration Reform and Immigrant
+Responsibility Act of 1996, §§404(e), (h), 110 Stat. 3009–
+546, 3009–665, note following 8 U. S. C. §1324a.  But those
+provisions put strict limits on what information SSA can
+disclose—limits that would be meaningless if §1373 means
+——————
+4 This means the “impossible predic ament” that causes the majority
+angst—i.e., the problem of agencies being forced to choose between, on
+the one hand, “disclosing information consistent with section 1373 but in
+violation of legislation like the Social Security Act and Privacy Act” and,
+on the other, “withholding that info rmation consistent with those Acts
+but in violation of section 1373,” ante, at 4–5—is no predicament at all.
+DHS and SSA may exchange information consistent with the Social Se -
+curity and Privacy Acts, but may not exchange information in violation
+of those laws.
+
+8 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+what the majority says it means.  See ibid.; see also
+835 F. Supp. 3d, at 136; No. 26–5243 (CADC, Sept. 4, 2026),
+App. 121a.
+IIRIRA’s enactment history also supports this view.  Sec-
+tion 1373 was passed to respond to a particular problem:
+state and local agencies refusing to cooperate with federal
+officials in enforcing immigration laws.  See H. R. Rep. No.
+104–725, p. 383 (1996); S. Rep. No. 104–249, pp. 19–20
+(1996). The language Congress ultimately chose sweeps
+more broadly, insofar as it covers federal, state, and local
+officials alike. But there is no reason to believe that Con-
+gress meant to repeal laws t hat would otherwise prohibit
+federal agencies from disclosing citizenship information.
+Contemporaneous Executive Branch practice reflects this
+same understanding.  Addressing the provision at issue
+here, the Office of Legal Counsel once maintained that
+§1373(a) does “not clearly invest governmental officials or
+entities with the affirmative authority to disclose infor-
+mation in circumstances where they otherwise would be
+prohibited from doing so by a federal statute.”  Relationship
+Between Illegal Immigration Reform and Immigrant Re -
+sponsibility Act of 1996 and Statutory Requirement for
+Confidentiality of Census Information, 23 Op. OLC 5 (Supp.
+1999).
+Finally, “common sense” weighs in favor of this interpre-
+tation, Biden v. Nebraska, 600 U. S. 477, 512 (2023)
+(BARRETT, J., concurring), because it harmonizes §§1373(a)
+and (b) with existing restrictions on disclosures of citizen -
+ship information. Under the per curiam ’s reading, by con-
+trast, those provisions trump any such restrictions and give
+SSA the authority to share whatever citizenship infor-
+mation it wants. In the three decades since Congress en-
+acted IIRIRA, the Government has never invoked §1373 in
+that way—even as it has repeatedly refined the SAVE pro-
+gram. And when an agency “ ‘claim[s] to discover in a long-
+extant statute an unheralded power’ representing a
+
+9  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+‘transformative expansion in its regulatory authority,’” this
+Court’s recent practice has been to ask for a clear state-
+ment, absent from §1373, conferring such a power.  See, e.g.,
+West Virginia  v. EPA, 597 U. S. 697, 724 (2022) (quoting
+Utility Air Regulatory Group v. EPA, 573 U. S. 302, 324
+(2014); alteration omitted); see also Learning Resources,
+Inc. v. Trump, 607 U. S 229, 245–246 (2026) (opinion of
+ROBERTS, C. J.).
+In response to all this, the per curiam just insists that its
+interpretation is required by  another provision of IIRIRA:
+§1373(c). Ante, at 5. That provision plainly vests DHS with
+authority to respond to citize nship-status queries submit-
+ted by state and local agencies.  8 U. S. C. §1373(c).  But it
+does not empower SSA (or any other non-DHS agency) to do
+anything, let alone share information that other laws make
+confidential. And even as to DHS, §1373(c) does not contain
+the “clearly expressed congressional intention” necessary to
+displace other laws restricting disclosures.  Epic Systems
+Corp. v. Lewis, 584 U. S. 497, 510 (2018) (internal quotation
+marks omitted). In fact, just the opposite, insofar as that
+provision only authorizes disclosures “for . . . purpose[s] au-
+thorized by law.” §1373(c).
+As a result, nothing in §1373 authorizes the modified
+SAVE system or overrides the provisions of the Social Se-
+curity Act and the Privacy Act that Respondents say the
+Government has violated. And the Government puts for-
+ward no nonforfeited arguments that the modifications to
+SAVE in fact complied with the Social Security Act’s confi-
+dentiality provision. See Application for Stay 30–33; No.
+26–5243 (CADC, Sept. 4, 2026), App. 113a–120a. 5  These
+——————
+5 Recall that the Government failed to argue, at the summary judg -
+ment stage, that the Social Security  Act’s confidentiality provision did
+not apply to the modified SAVE system  on its own terms. Instead, the
+Government raised those arguments for the first time in its stay motion
+before the District Court. See n. 1, supra. There is little reason to forgive
+such a forfeiture in the stay contex t, where the party asking this Court
+
+10 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+are reasons enough to find that the Government is unlikely
+to succeed on the merits of its appeal, so I would not reach
+the Government’s arguments regarding the Privacy Act and
+the APA.6
+III
+As I noted previously, a stay applicant must also show
+“that it will suffer irreparable harm while the case pro-
+ceeds, and that, on balance, the equities . . . favor a stay.”
+Trump v. California, 609 U. S. ___, ___ (2026) (dissenting
+opinion) (slip op., at 6). The majority’s analysis of those fac-
+tors is faulty.
+ First, the per curiam finds that the Government is irrep-
+arably harmed absent a stay because the District Court “set
+aside an important federal program.”  Ante, at 5.  But if the
+Government has failed to show that modified SAVE com -
+ports with the Social Security  Act, then disabling the Gov -
+ernment from using that program is not a cognizable harm.
+It cannot be that the Government is “injured whenever [it]
+is prevented from” violating the law.  Trump v. Orr, 607
+U. S. ___, ___ (2025) (JACKSON, J., dissenting from grant of
+stay) (slip op., at 10); see also California, 609 U. S., at ___,
+——————
+to exercise its equitable discretion is the party who failed to properly
+raise its arguments below. See State Railroad Tax Cases, 92 U. S. 575,
+616 (1876) (“[H]e who seeks equity at the hands of the court must first
+do equity”); see also Ohio v. EPA, 603 U. S. 279, 298–299 (2024).
+6 Notably, however, Respondents’ claim that the Government ignored
+the procedural requirements of the Pr ivacy Act (which it obviously did)
+should not be affected even under the per curiam ’s reading of §1373.
+Subsections 1373(a) and (b) apply only to “prohibit[ions]” or “re-
+strict[ions]” on the exchange of citizenship information with DHS.  The
+portions of the Privacy Act requiring agencies to publish SORNs and to
+provide 30-day comment periods before implementing new routine uses
+do not “prohibit” or “restrict” anything.  See 5 U. S. C. §552a(e)(4), (11).
+Nor do they affect DHS’s ability to respond to citizenship-status inquiries
+as required under §1373(c).  The per curiam’s failure to grapple with this
+point is yet another indication that its interpretation of §1373 is mis -
+taken.
+
+11  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+___–___ (JACKSON, J., dissenting) (slip op., at 8–9).  And an-
+yway, the Government’s purported harm is substantially
+mitigated by its ability to use the pre-2025 version of SAVE.
+Next, in balancing the equities, the majority only looks at
+one side of the scale—the judicial equivalent of expecting a
+seesaw with weight applied on only one side to work
+properly. In the per curiam’s view, the sole harm here is
+that the District Court’s order “inhibits the Federal Govern-
+ment’s efforts to assist state and local agencies in the proper
+administration of the midterm elections.”  Ante, at 6. As a
+threshold matter, this overvalues the harm to the Govern-
+ment, since States cannot us e SAVE to systematically
+strike people from the voter rolls within 90 days of an elec-
+tion in any event.  See 52 U. S. C. §20507(c)(2)(A); see also
+No. 26–5243 (CADC, Sept. 4, 2026), App. 131a.  It is hard
+to see how the Government is harmed pending the comple-
+tion of the court proceedings below when SAVE’s applica-
+tion to the upcoming elections will already be limited.
+Even more concerning is the majority’s omission of any
+consideration of the harms that might occur if the modified
+SAVE system is allowed to continue operating.  See Califor-
+nia, 609 U. S., at ___ (J ACKSON, J., dissenting) (slip op., at
+10). The District Court highlighted such harms, noting the
+risk that States might cancel the voter registrations of at
+least some recently naturalized  citizens or force such per-
+sons to provide proof of citizenship before voting.
+835 F. Supp. 3d, at 108–109.  That court also found that
+those harms have already materialized in Texas, where one
+of Respondents’ members “had  her voter registration re-
+voked without her knowledge,” and two more “had to pro-
+vide proof of citizenship to maintain registered voter sta-
+tus.” Id., at 113. But the per curiam ’s purported balancing
+fails to address, much less account for, the demonstrated
+harms of issuing a stay. See Orr, 607 U. S., at ___
+(JACKSON, J., dissenting) (slip op., at 3).
+
+12 DEPARTMENT OF HOMELAND SECURITY v.
+LEAGUE OF WOMEN VOTERS
+JACKSON, J., dissenting
+* * *
+The Government has not shown that it is entitled to the
+“‘extraordinary’ ” remedy of a stay pending appeal.  Doe,
+605 U. S., at 963 (JACKSON, J., dissenting) (quoting Graves
+v. Barnes, 405 U. S. 1201, 1203 (1972) (Powell, J., in cham-
+bers)). But if there is a bright side to today’s opinion decid-
+ing otherwise, it is that the per curiam will likely have min-
+imal short-term impact, as States will at most conduct
+individualized voter-roll maintenance using the modified
+SAVE system ahead of the November elections.  See ante,
+at 6. In my view, however, the harm caused by burdening
+or disenfranchising even a few lawful voters outweighs the
+nonexistent harm that the Government experiences when
+it is prevented from taking an action that it likely lacks the
+authority to take.  This imbalance, along with the Govern-
+ment’s improbable merits arguments, should have com-
+pelled the Court to deny the stay.

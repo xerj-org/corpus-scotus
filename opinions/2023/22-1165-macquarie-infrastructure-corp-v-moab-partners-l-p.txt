@@ -1,0 +1,297 @@
+Macquarie Infrastructure Corp. v. Moab Partners, L. P. — No. 22-1165 — October Term 2023 — decided 4/12/24 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 601 U.S. 257
+Source: https://www.supremecourt.gov/opinions/23pdf/601us2r13_8mjp.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Linda T. Coberly argued the cause for petitioners. With
+her on the briefs were Richard W. Reinthaler , John E.
+Schreiber, Kerry C. Donovan, Lauren Gailey , Christopher
+M. Paparella, and Bruce C. Bishop . Kannon K. Shanmu-
+gam and William T. Marks fled briefs for Barclays Capital
+Inc., respondent under this Court's Rule 12.6, urging vacatur.
+David C. Frederick argued the cause for respondent Moab
+Partners, L. P. With him on the brief were Joshua D. Bran-
+son, Salvatore J. Graziano , Lauren Amy Ormsbee , Jesse L.
+Jensen, William E. Freeland, Lori Marks-Esterman, and
+John G. Moon.
+Ephraim A. McDowell argued the cause for the United
+States as amicus curiae urging affirmance. With him on
+the brief were Solicitor General Prelogar , Deputy Solicitor
+General Stewart, Megan Barbero, Michael A. Conley, Jef-
+frey A. Berger , and Rachel M. McKenzie.*
+Justice Sotomayor delivered the opinion of the Court.
+Securities and Exchange Commission (SEC) Rule 10b–5(b)
+makes it unlawful to omit material facts in connection with
+buying or selling securities when that omission renders
+“statements made” misleading. Separately, Item 303 of
+SEC Regulation S–K requires companies to disclose certain
+information in periodic filings with the SEC. The question
+*Briefs of amici curiae urging reversal were fled for the Securities
+Industry and Financial Markets Association et al. by William M. Jay ,
+Andrew Kim, Kevin Carroll, Tyler S. Badgley , and Jesse Lempel; for the
+Society for Corporate Governance by Mary Eaton and Meredith E.
+Kotler; and for the Washington Legal Foundation by Lyle Roberts, George
+E. Anhang, Cory L. Andrews, and John M. Masslon II . Lawrence S.
+Ebner, Eric B. Boettcher , and Raff Melkonian fled a brief for the Atlan-
+tic Legal Foundation as amicus curiae urging vacatur.
+Briefs of amici curiae urging affirmance were fled for Consumer Advo-
+cates by Hannah Kieschnick, Sean Domnick, and Jeffrey R. White;
+for Former SEC Officials by John Paul Schnapper-Casteras, Carol V.
+Gilden, Daniel P . Chiplock, and Laura H. Posner; for Institutional Inves-
+tors by Kevin K. Russell, Lawrence M. Rolnick, and Richard A. Bod-
+nar; and for Law and Business Professors by J. Robert Brown, Jr.,
+pro se.
+260 MA CQUARIE INFRASTRUCTURE CORP. v.
+MOAB PARTNERS, L. P.
+Opinion of the Court
+in this case is whether the failure to disclose information
+required by Item 303 can support a private action under
+Rule 10b–5(b), even if the failure does not render any “state-
+ments made” misleading. The Court holds that it cannot.
+Pure omissions are not actionable under Rule 10b–5(b).
+I
+A
+Section 10(b) of the Securities Exchange Act of 1934 makes
+it “unlawful for any person . . . [t]o use or employ, in connec-
+tion with the purchase or sale of any security . . . , any manip-
+ulative or deceptive device or contrivance in contravention
+of such rules and regulations as the [SEC] may prescribe.”
+48 Stat. 891, 15 U. S. C. § 78j(b). Rule 10b–5 implements
+this prohibition and makes it unlawful for issuers of regis-
+tered securities to “make any untrue statement of a material
+fact or to omit to state a material fact necessary in order to
+make the statements made, in the light of the circumstances
+under which they were made, not misleading.” 17 CFR
+§ 240.10b–5(b) (2022). This Court “has found a right of ac-
+tion implied in the words of [§ 10(b)] and its implementing
+regulation.” Stoneridge Investment Partners, LLC v.
+Scientifc-Atlanta, Inc., 552 U. S. 148, 157 (2008).
+Section 13(a) of the Exchange Act requires issuers to fle
+periodic informational statements. See 15 U. S. C. §§ 78m(a)
+(1), 78l(b)(1). These statements include the “Management's
+Discussion and Analysis of Financial Conditions and Results
+of Operations” (MD&A), in which companies must “[f]urnish
+the information required by Item 303 of Regulation S–K.”
+See SEC Form 10–K; SEC Form 10–Q. Item 303, in turn,
+requires companies to “[d]escribe any known trends or un-
+certainties that have had or that are reasonably likely to
+have a material favorable or unfavorable impact on net sales
+or revenues or income from continuing operations.” 17
+CFR § 229.303(b)(2)(ii) (2022).
+B
+Macquarie Infrastructure Corporation owns infrastructure-
+related businesses, including a subsidiary that operates large
+“bulk liquid storage terminals” within the United States.
+These terminals handle and store liquid commodities, such as
+petroleum, biofuels, chemicals, and oil products. One liquid
+commodity stored in these terminals is No. 6 fuel oil, a high-
+sulfur fuel oil that is a byproduct of the refining process. In
+2016, the United Nations' International Maritime Organiza-
+tion formally adopted IMO 2020, a regulation that capped
+the sulfur content of fuel oil used in shipping at 0.5% by the
+beginning of 2020. No. 6 fuel oil typically has a sulfur con-
+tent closer to 3%. In the ensuing years, Macquarie did not
+discuss IMO 2020 in its public offering documents. In Feb-
+ruary 2018, however, Macquarie announced that the amount
+of storage capacity contracted for use by its subsidiary's cus-
+tomers had dropped in part because of the structural decline
+in the No. 6 fuel oil market. Macquarie's stock price fell
+around 41%.
+Moab Partners, L. P. sued Macquarie and various officer
+defendants, alleging, among other things, a violation of
+§ 10(b) and Rule 10b–5. The crux of Moab's argument was
+that Macquarie's public statements “were false and mislead-
+ing” because it “concealed from investors that [its subsid-
+iary's] single largest product . . . was No. 6 fuel oil,” which
+“faced a near-cataclysmic ban on the bulk of its worldwide
+use through IMO 2020.” City of Riviera Beach Gen. Em-
+ployees Retirement System v. Macquarie Infrastructure
+Corp., 2021 WL 4084572, *6 (SDNY, Sept. 7, 2021) (internal
+quotation marks omitted). In Moab's view, Macquarie had
+“ `a duty to disclose' the extent to which [its subsidiary's]
+storage capacity was devoted to No. 6 fuel oil,” ibid., but
+instead, Macquarie “violated disclosure obligations under
+Item 303,” id., at *10, and therefore violated § 10(b) and Rule
+10b–5. The District Court dismissed Moab's complaint,
+262 MA CQUARIE INFRASTRUCTURE CORP. v.
+MOAB PARTNERS, L. P.
+Opinion of the Court
+concluding in relevant part that Moab had not “actually
+plead[ed] an uncertainty that should have been disclosed” or
+“in what SEC filing or filings Defendants were supposed to
+disclose it.” Ibid.
+The Second Circuit reversed. The court reasoned that
+there are “two circumstances which impose a duty on a cor-
+poration to disclose omitted facts.” 2022 WL 17815767, *1
+(Dec. 20, 2022). First, a duty arises when there is “ ` “a stat-
+ute or regulation requiring disclosure,” ' . . . such as Ite[m]
+303.” Ibid. (quoting Stratte-McClure v. Morgan Stanley ,
+776 F. 3d 94, 101 (CA2 2015)). Second, “[e]ven when there
+is no existing independent duty to disclose information, once
+a company speaks on an issue or topic, there is a duty to tell
+the whole truth.” 2022 WL 17815767, *1 (internal quotation
+marks omitted). “Crediting [Moab's] allegations as true,
+IMO 2020's significant restriction of No. 6 fuel oil use was
+known to [Macquarie] and reasonably likely to have material
+effects on [Macquarie's] financial condition or results of oper-
+ation.” Id., at *3. Because Moab had “adequately alleged
+a `known trend[ ] or uncertaint[y]' that gave rise to a duty to
+disclose under Item 303,” id., at *2 (alterations in original),
+the court applied its binding precedent to conclude that Mac-
+quarie's Item 303 violation alone could sustain Moab's § 10(b)
+and Rule 10b–5 claim. See ibid. (“The failure to make a
+material disclosure required by Item 303 can serve as the
+basis . . . for a claim under Section 10(b)”).
+The courts of appeals disagree on whether a failure to
+make a disclosure required by Item 303 can support a private
+claim under § 10(b) and Rule 10b–5(b) in the absence of
+an otherwise-misleading statement. 1 This Court granted
+1 Compare Stratte-McClure v. Morgan Stanley , 776 F. 3d 94, 101 (CA2
+2015) (“Item 303's affirmative duty to disclose in Form 10–Qs can serve as
+the basis for a securities fraud claim under Section 10(b)”), with In re Nvidia
+Corp. Securities Litigation, 768 F. 3d 1046, 1056 (CA9 2014) (“Item 303 does
+not create a duty to disclose for purposes of Section 10(b) and Rule 10b–5”);
+see also Oran v. Stafford, 226 F. 3d 275, 288 (CA3 2000) (“[T]he `demonstra-
+certiorari to resolve that disagreement. 600 U. S. –––
+(2023).
+II
+Rule 10b–5(b) makes it unlawful “[t]o make any untrue
+statement of a material fact or to omit to state a material
+fact necessary in order to make the statements made, in the
+light of the circumstances under which they were made, not
+misleading.” 17 CFR § 240.10b–5(b). This Rule accom-
+plishes two things. It prohibits “any untrue statement of a
+material fact”—i.e ., false statements or lies. Ibid. It also
+prohibits omitting a material fact necessary “to make the
+statements made . . . not misleading.” Ibid. This case
+turns on whether this second prohibition bars only half-
+truths or instead extends to pure omissions.
+A pure omission occurs when a speaker says nothing, in
+circumstances that do not give any particular meaning to
+that silence. Take the simplest example. If a company fails
+entirely to fle an MD&A, then the omission of particular
+information required in the MD&A has no special signif-
+cance because no information was disclosed. Half-truths, on
+the other hand, are “representations that state the truth only
+so far as it goes, while omitting critical qualifying informa-
+tion.” Universal Health Services, Inc. v. United States
+ex rel. Escobar, 579 U. S. 176, 188 (2016); see also Omnicare,
+Inc. v. Laborers Dist. Council Constr. Industry Pension
+Fund, 575 U. S. 175, 192 (2015) (“[L]iteral accuracy is not
+enough: An issuer must as well desist from misleading inves-
+tors by saying one thing and holding back another”). “A
+classic example of an actionable half-truth in contract law is
+the seller who reveals that there may be two new roads near
+a property he is selling, but fails to disclose that a third po-
+tential road might bisect the property.” Universal Health
+tion of a violation of the disclosure requirements of Item 303 does not lead
+inevitably to the conclusion that such disclosure would be required under
+Rule 10b–5. Such a duty to disclose must be separately shown' ”).
+264 MA CQUARIE INFRASTRUCTURE CORP. v.
+MOAB PARTNERS, L. P.
+Opinion of the Court
+Services, 579 U. S., at 188–189. In other words, the differ-
+ence between a pure omission and a half-truth is the differ-
+ence between a child not telling his parents he ate a whole
+cake and telling them he had dessert.
+Rule 10b–5(b) does not proscribe pure omissions. The
+Rule prohibits omitting material facts necessary to make the
+“statements made . . . not misleading.” Put differently, it
+requires disclosure of information necessary to ensure that
+statements already made are clear and complete (i.e ., that
+the dessert was, in fact, a whole cake). This Rule therefore
+covers half-truths, not pure omissions. Logically and by its
+plain text, the Rule requires identifying affirmative asser-
+tions (i.e ., “statements made”) before determining if other
+facts are needed to make those statements “not misleading.”
+See, e.g., 6 Oxford English Dictionary 857 (1933) (def. 3) (de-
+fining “statement” as a “written or oral communication set-
+ting forth facts, arguments, demands, or the like”); Webster's
+New International Dictionary 2461 (2d ed. 1942) (defining
+“statement” as the “[a]ct of stating, reciting, or presenting,
+orally or on paper”). It once again “bears emphasis that
+§ 10(b) and Rule 10b–5(b) do not create an affirmative duty
+to disclose any and all material information. Disclosure is
+required under these provisions only when necessary `to
+make . . . statements made, in the light of the circumstances
+under which they were made, not misleading.' ” Matrixx
+Initiatives, Inc. v. Siracusano, 563 U. S. 27, 44 (2011) (quot-
+ing Rule 10b–5(b)).
+Statutory context confirms what the text plainly provides.
+Congress imposed liability for pure omissions in § 11(a) of the
+Securities Act of 1933. Section 11(a) prohibits any registra-
+tion statement that “contain[s] an untrue statement of a ma-
+terial fact or omit[s] to state a material fact required to be
+stated therein or necessary to make the statements therein
+not misleading.” 15 U. S. C. § 77k(a). By its terms, in addi-
+tion to proscribing lies and half-truths, this section also cre-
+ates liability for failure to speak on a subject at all. See
+Omnicare, 575 U. S., at 186, n. 3 (“Section 11's omissions
+clause also applies when an issuer fails to make mandated
+disclosures—those `required to be stated'—in a registration
+statement”). There is no similar language in § 10(b) or Rule
+10b–5(b). Cf. Ernst & Ernst v. Hochfelder, 425 U. S. 185,
+208 (1976) (“The express recognition of a cause of action
+premised on negligent behavior in § 11 stands in sharp con-
+trast to the language of § 10(b)”). Neither Congress in
+§ 10(b) nor the SEC in Rule 10b–5(b) mirrored § 11(a) to cre-
+ate liability for pure omissions. That omission (unlike a
+pure omission) is telling. Cf. Blue Chip Stamps v. Manor
+Drug Stores, 421 U. S. 723, 734 (1975) (“When Congress
+wished to provide a remedy . . . it had little trouble in doing
+so expressly”).
+“Silence, absent a duty to disclose, is not misleading under
+Rule 10b–5.” Basic Inc. v. Levinson, 485 U. S. 224, 239,
+n. 17 (1988). Even a duty to disclose, however, does not au-
+tomatically render silence misleading under Rule 10b–5(b).
+Today, this Court confirms that the failure to disclose infor-
+mation required by Item 303 can support a Rule 10b–5(b)
+claim only if the omission renders affirmative statements
+made misleading.
+Moab and the United States suggest that a plaintiff does
+not need to plead any statements rendered misleading by a
+pure omission because reasonable investors know that Item
+303 requires an MD&A to disclose all known trends and un-
+certainties. That argument fails, however, because it reads
+the words “statements made” out of Rule 10b–5(b) and shifts
+the focus of that Rule and § 10(b) from fraud to disclosure.
+See Chiarella v. United States, 445 U. S. 222, 234–235 (1980)
+(“Section 10(b) is aptly described as a catchall provision, but
+what it catches must be fraud”). It would also render § 11(a)'s
+pure omission clause superfluous by making every omission
+of a fact “required to be stated” a misleading half-truth.
+Moab also contends that without private liability for pure
+omissions under Rule 10b–5(b), there will be “broad immu-
+266 MA CQUARIE INFRASTRUCTURE CORP. v.
+MOAB PARTNERS, L. P.
+Opinion of the Court
+nity any time an issuer fraudulently omits information Con-
+gress and the SEC require it to disclose.” Brief for Re-
+spondent Moab Partners, L. P. 1. That is not so. For one
+thing, private parties remain free to bring claims based on
+Item 303 violations that create misleading half-truths. For
+another, the SEC retains authority to prosecute violations of
+its own regulations. The Exchange Act requires that issu-
+ers fle reports “in accordance with such rules and regula-
+tions as the Commission may prescribe,” 15 U. S. C. § 78m(a),
+and the SEC can investigate “whether any person has vio-
+lated . . . any provision of [the Exchange Act], [or] the rules
+or regulations thereunder,” § 78u(a)(1), including Item 303. 2
+* * *
+Pure omissions are not actionable under Rule 10b–5(b).
+The judgment of the Court of Appeals for the Second Circuit
+is vacated, and the case is remanded for further proceedings
+consistent with this opinion.
+It is so ordered.
+2 Moab and the United States spill much ink fghting the question pre-
+sented, insisting that this case is about half-truths rather than pure omis-
+sions. The Court granted certiorari to address the Second Circuit's pure
+omission analysis, not its half-truth analysis. See Pet. for Cert. i
+(“Whether . . . a failure to make a disclosure required under Item 303 can
+support a private claim under Section 10(b), even in the absence of an
+otherwise-misleading statement” (emphasis added)); see also 2022 WL
+17815767, *1 (Dec. 20, 2022) (distinguishing between these “two circum-
+stances”). The Court does not opine on issues that are either tangential
+to the question presented or were not passed upon below, including what
+constitutes “statements made,” when a statement is misleading as a half-
+truth, or whether Rules 10b–5(a) and 10b–5(c) support liability for pure
+omissions.

@@ -1,0 +1,77 @@
+Vidal v. Elster — No. 22-704 — October Term 2023 — decided 6/13/24 — Opinion of Thomas, J.
+Citation: 602 U.S. 286
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r33_qqm4.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+None of this is to say that the Government cannot innovate
+when it comes to trademark law. A frm grounding in tradi-
+tional trademark law is sufficient to justify the content-based
+trademark restriction before us, but we do not opine on what
+may be required or sufficient in other cases. To be sure, as
+Justice Barrett observes, a case presenting a content-
+based trademark restriction without a historical analogue
+may require a different approach. Post, at 324. But, we
+need not develop such a comprehensive theory to address
+the relatively simple case before us today. See post, at 311
+(Kavanaugh, J., concurring in part).
+We conclude that the names clause is of a piece with a
+common-law tradition regarding the trademarking of names.
+We see no reason to disturb this longstanding tradition,
+which supports the restriction of the use of another's name
+in a trademark.
+III
+Our colleagues would address the names clause with two
+analogies. Neither is compelling in this case. Under both
+analogies, the test would boil down to what a judge believes
+is “reasonable in light of the purpose” of trademark law.
+quire a historical twin. Cf. New York State Rife & Pistol Assn., Inc. v.
+Bruen, 597 U. S. 1, 30 (2022). Nor do Justice Barrett's examples
+undercut the names clause's historical grounding, as they raise different
+aspects of trademarking names. For example, she relies upon cases that
+concern trademarks containing “the name of a famous person, long since
+dead.” Barrows v. Knight, 6 R. I. 434, 438 (1860); see also Stephano Bros.,
+Inc. v. Stamatopoulos, 238 F. 89, 93 (CA2 1916) (“In this case the name
+adopted is a famous Egyptian historical character, who lived at least 1,000
+years before the Christian era”). The part of the names clause that we
+address concerns only “a particular living individual['s]” name. § 1052(c)
+(emphasis added). And, her other examples concern names that had be-
+come generic or descriptive words. See Messerole v. Tynberg, 4 Abb. Pr.
+(N. S.) 410, 414 (N.Y . Ct. Com. Pl. 1868) (treating “the word `Bismarck' ”
+as “a popular term and one in general use”); Medlar & Holmes Shoe Co.
+v. Delsarte Mfg. Co., 46 A. 1089, 1091 (CC NJ 1900) (treating the name of
+the deceased French artist Delsarte as “a generic or descriptive term”).
+Post, at 329 (opinion of Sotomayor, J.); see post, at 318–319
+(opinion of Barrett, J.). But, no matter the approach
+taken, we all agree that the names clause does not violate
+the First Amendment.
+Justice Sotomayor would pull “strands of precedent” to-
+gether to conclude that heightened scrutiny does not apply
+to trademark registration because it is a Government initia-
+tive or benefit. Post, at 331. This conclusion rests primar-
+ily upon cases in which the Government provides a cash sub-
+sidy or conditions the use of a public payroll to collect union
+dues. See post, at 331–332. But, those cases “occupy a spe-
+cial area of First Amendment case law, and they are far re-
+moved from the registration of trademarks.” Tam, 582 U. S.,
+at 241 (plurality opinion). The Government-beneft cases are
+an ill ft for the names clause, and we would not graft this
+precedent, which Justice Sotomayor acknowledges is not
+controlling, onto this trademark dispute. Post, at 332.
+Justice Barrett, echoed by Justice Sotomayor, would
+import the test that we have used for a “limited public
+forum.” Our precedents hold that the Government “may
+create a forum that is limited to use by certain groups or
+dedicated solely to the discussion of certain subjects.”
+Pleasant Grove City v. Summum, 555 U. S. 460, 470 (2009).
+Justice Barrett provides little explanation for why that
+approach makes sense in the trademark context—she simply
+declares that the limited public forum framework “is apt”
+due to the content-based nature of trademark law. Post,
+at 317. Although she attempts to cabin the analogy to the
+content-based nature, the limited public forum test is quite
+obviously about creating a forum. And, there is reason to
+doubt that the federal trademark register is analogous to a
+limited public forum. To start, unlike a speaker in a limited
+public forum, a markholder does not communicate with cus-
+tomers on the register. Rather, as the Government ac-
+knowledges, the register “is a way of warning potential in-
+fringers that they risk liability if they use the same or

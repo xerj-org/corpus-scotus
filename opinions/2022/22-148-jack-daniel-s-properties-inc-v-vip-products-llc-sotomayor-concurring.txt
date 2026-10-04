@@ -1,0 +1,74 @@
+Jack Daniel’s Properties, Inc. v. VIP Products LLC — No. 22-148 — October Term 2022 — decided 6/08/23 — Sotomayor, J., concurring
+Citation: 599 U.S. 140
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r35_3f14.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+IV
+Today's opinion is narrow. We do not decide whether the
+Rogers test is ever appropriate, or how far the “noncom-
+mercial use” exclusion goes. On infringement, we hold only
+that Rogers does not apply when the challenged use of
+a mark is as a mark. On dilution, we hold only that the
+noncommercial exclusion does not shield parody or other
+commentary when its use of a mark is similarly source-
+identifying. It is no coincidence that both our holdings turn
+on whether the use of a mark is serving a source-designation
+function. The Lanham Act makes that fact crucial, in its
+effort to ensure that consumers can tell where goods come
+from.
+For the reasons stated, we vacate the judgment below and
+remand for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor , with whom Justice Alito joins,
+concurring.
+I join the Court's opinion in full. I write separately to
+emphasize that in the context of parodies and potentially
+other uses implicating First Amendment concerns, courts
+should treat the results of surveys with particular caution.
+As petitioner did here, plaintiffs in trademark infringement
+cases often commission surveys that purport to show that
+consumers are likely to be confused by an allegedly infring-
+ing product. Like any other evidence, surveys should be
+understood as merely one piece of the multifaceted likelihood
+of confusion analysis. See, e. g., Uncommon, LLC v. Spigen,
+Inc., 926 F. 3d 409, 425 (CA7 2019). Courts should also care-
+fully assess the methodology and representativeness of sur-
+veys, as many lower courts already do. See, e. g., Water
+Pik, Inc. v. Med-Systems, Inc., 726 F. 3d 1136, 1144–1150
+(CA10 2013); Starbucks Corp. v. Wolfe's Borough Coffee, Inc.,
+588 F. 3d 97, 117 (CA2 2009).
+When an alleged trademark infringement involves a par-
+ody, however, there is particular risk in giving uncritical or
+undue weight to surveys. Survey answers may reflect a
+mistaken belief among some survey respondents that all par-
+odies require permission from the owner of the parodied
+mark. Some of the answers to the survey in this case illus-
+trate this potential. See App. 81–82, n. 25 (“ `I'm sure the
+dog toy company that made this toy had to get [Jack Daniel's]
+permission and legal rights to essentially copy the[ir] prod-
+uct in dog toy form' ”); ibid. (“ `The bottle is mimicked after
+the Jack Daniel BBQ sauce. So they would hold the patent
+therefore you would have to ask permission to use the
+image' ”); see also Anheuser-Busch, Inc. v. Balducci Publica-
+tions, 28 F. 3d 769, 772–773, 775 (CA8 1994) (describing a
+similar situation). Plaintiffs can point to this misunder-
+standing of the legal framework as evidence of consumer con-
+fusion. Cleverly designed surveys could also prompt such
+confusion by making consumers think about complex legal
+questions around permission that would not have arisen or-
+ganically out in the world.
+Allowing such survey results to drive the infringement
+analysis would risk silencing a great many parodies, even
+ones that by other metrics are unlikely to result in the confu-
+sion about sourcing that is the core concern of the Lanham
+Act. See ante, at 147, 153, 156–157. Well-heeled brands
+with the resources to commission surveys would be handed
+an effective veto over mockery. After all, “[n]o one likes to
+be the butt of a joke, not even a trademark.” 6 J. McCarthy,
+Trademarks and Unfair Competition § 31:153 (5th ed. 2023).
+This would upset the Lanham Act's careful balancing of “the
+needs of merchants for identification as the provider of goods
+with the needs of society for free communication and discus-
+sion.” P. Leval, Trademark: Champion of Free Speech, 27
+Colum. J. L. & Arts 187, 210 (2004). Courts should thus
+ensure surveys do not completely displace other likelihood-
+of-confusion factors, which may more accurately track the

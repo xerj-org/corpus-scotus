@@ -1,0 +1,571 @@
+Patel v. Garland — No. 20-979 — October Term 2021 — decided 5/16/22 — opinion of the Court — author Barrett (listing code AB)
+Citation: 596 U.S. 328
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r31_5367.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+a dissenting opinion, in which Breyer, Sotomayor, and Kagan, JJ.,
+joined, post, p. 347.
+Mark C. Fleming argued the cause for petitioners. With
+him on the briefs were Ira J. Kurzban, John P . Pratt, Ed-
+ward F. Ramos, and Thomas G. Sprankling.
+Austin L. Raynor argued the cause for respondent in sup-
+port of petitioners. With him on the brief were Solicitor
+General Prelogar, Acting Solicitor General Fletcher, Dep-
+uty Solicitor General Gannon, Deputy Assistant Attorney
+General Harrington, Donald E. Keener, John W. Blakeley,
+and Sara J. Bayram.
+Taylor A. R. Meehan, by appointment of the Court, 594
+U. S. –––, argued the cause and fled a brief as amicus curiae
+in support of the judgment below.*
+Justice Barrett delivered the opinion of the Court.
+Congress has comprehensively detailed the rules by which
+noncitizens may enter and live in the United States. When
+noncitizens violate those rules, Congress has provided proce-
+dures for their removal. At the same time, there is room
+for mercy: Congress has given the Attorney General power
+to grant relief from removal in certain circumstances.
+Federal courts have a very limited role to play in this proc-
+ess. With an exception for legal and constitutional ques-
+tions, Congress has barred judicial review of the Attorney
+General's decisions denying discretionary relief from re-
+moval. We must decide how far this bar extends—specifi-
+cally, whether it precludes judicial review of factual findings
+that underlie a denial of relief. It does.
+*Briefs of amici curiae urging reversal were fled for the American
+Immigration Council et al. by Kathleen Hartnett and Adam S. Gershen-
+son; for the American Immigration Lawyers Association by Romy Lerner,
+Rebecca Sharpless, and Maureen Sweeney; for Former Executive Office
+for Immigration Review Judges by Richard W. Mark and Amer S. Ahmed;
+for Law Professors by Holly L. Henderson-Fisher and David E. Carney;
+and for the National Immigration Litigation Alliance et al. by Mary Ken-
+ney, Charles Roth, Matthew P . Gordon, and Will M. Conley.
+I
+A
+A noncitizen who enters the United States illegally or who
+otherwise violates its laws may be removed from the coun-
+try. 8 U. S. C. §§ 1182, 1227, 1229a. Removal proceedings
+are conducted by immigration judges in the United States
+Department of Justice who exercise the authority of the
+Attorney General. § 1229a(a)(1); 8 CFR §§ 1240.1(a)(1),
+1245.2(a)(1)(i) (2021). If an immigration judge decides that
+a noncitizen is removable, the judge is authorized to order
+the removal of the noncitizen from the United States. 8
+U. S. C. § 1229a(c)(5).
+Being found removable is not always the end of the story,
+though, because Congress has authorized relief from removal
+in certain contexts. For example, the Attorney General has
+discretion to adjust the status of an eligible noncitizen who
+entered the United States illegally to that of lawful perma-
+nent resident, forgiving the illegal entry and protecting the
+noncitizen from removal on that ground. See § 1255(i). (As
+with authority over removal generally, the Attorney General
+has delegated to immigration judges the ability to grant re-
+lief from removal. 8 CFR § 1240.1(a)(1)(ii).) To be eligible
+for such relief, a noncitizen must show that he satisfies vari-
+ous threshold requirements established by Congress. Yet
+eligibility only gets a noncitizen so far. Because relief from
+removal is always “ `a matter of grace,' ” even an eligible non-
+citizen must persuade the immigration judge that he merits
+a favorable exercise of discretion. INS v. St. Cyr, 533 U. S.
+289, 308 (2001). And if the judge decides that denial would
+be appropriate regardless of eligibility, the judge need not
+address eligibility at all. See INS v. Bagamasbad, 429 U. S.
+24, 25–26 (1976) (per curiam ).
+Congress has sharply circumscribed judicial review of the
+discretionary-relief process. Title 8 U. S. C. § 1252(a)(2)(B)
+provides:
+“Notwithstanding any other provision of law (statu-
+tory or nonstatutory), including section 2241 of title 28,
+or any other habeas corpus provision, and sections 1361
+and 1651 of such title, and except as provided in subpara-
+graph (D), and regardless of whether the judgment, deci-
+sion, or action is made in removal proceedings, no court
+shall have jurisdiction to review—
+“(i) any judgment regarding the granting of relief
+under section 1182(h), 1182(i), 1229b, 1229c, or 1255 of
+this title.”
+This bar has an important qualification: “Nothing in subpara-
+graph (B) . . . shall be construed as precluding review of
+constitutional claims or questions of law raised upon a peti-
+tion for review fled with an appropriate court of appeals
+in accordance with this section.” § 1252(a)(2)(D). Notably,
+this qualification does not preserve review of questions of
+fact.
+B
+Pankajkumar Patel and his wife Jyotsnaben entered the
+United States illegally in the 1990s. In 2007, Patel applied
+to United States Citizenship and Immigration Services
+(USCIS) (a component of the Department of Homeland Secu-
+rity (DHS)) for adjustment of status under § 1255(i). See 8
+CFR § 245.2(a)(1) (giving USCIS authority over applications
+for adjustment of status made outside of removal proceed-
+ings). If granted, this adjustment would have excused Pa-
+tel's illegal entry and made him a lawful permanent resident.
+(Patel's wife, the other petitioner in this case, applied for
+derivative adjustment of status based on Patel's application.)
+While his request to USCIS was pending, Patel also applied
+for a Georgia driver's license. On that application, he
+checked a box falsely stating that he was a United States
+citizen.
+USCIS denied Patel's application for adjustment of status
+because of that misrepresentation. One of the eligibility re-
+quirements for adjustment is that the noncitizen be stat-
+utorily admissible for permanent residence. 8 U. S. C.
+§ 1255(i)(2)(A). USCIS decided that Patel failed to satisfy
+this requirement. Section 1182(a)(6)(C)(ii)(I) renders inad-
+missible an “alien who falsely represents, or has falsely rep-
+resented, himself or herself to be a citizen of the United
+States for any purpose or benefit under” state or federal law.
+The Board of Immigration Appeals (BIA) has interpreted
+this provision to apply when a noncitizen (1) makes a false
+representation of citizenship (2) that is material to a purpose
+or benefit under the law (3) with the subjective intent of
+obtaining the purpose or benefit. Matter of Richmond, 26
+I. & N. Dec. 779, 786–787 (2016). Applying this test, USCIS
+concluded that Patel had violated § 1182(a)(6)(C)(ii)(I) and
+was therefore ineligible for status adjustment.
+Several years later, DHS initiated removal proceedings
+against the Patels because they were present in the United
+States without having been admitted—the same illegal entry
+that Patel had sought to remedy in his initial application
+for adjustment of status. See § 1182(a)(6)(A)(i). Patel con-
+ceded that he was removable on that ground but sought re-
+lief from removal by repeating his request for discretionary
+adjustment to lawful permanent resident status.
+Now before an Immigration Judge, Patel's request for re-
+lief raised the same question that had been at issue in his
+application before USCIS: whether the misrepresentation of
+citizenship on his driver's license application rendered him
+ineligible for discretionary adjustment. He conceded that
+he had checked the “citizen” box on that application. But
+he argued that he had done so by accident—and therefore
+without the subjective intent that the BIA has interpreted
+§ 1182(a)(6)(C)(ii)(I) to require.
+The Immigration Judge concluded otherwise. The judge
+explained that Patel was evasive when asked exactly how he
+had made a mistake. And though Patel testifed that he had
+provided his alien registration number on his application,
+which would have identified him as a noncitizen, the actual
+application showed that he had not. The judge also noted
+that Patel had falsely represented his manner of entry into
+the United States on an application for asylum. Based on
+this evidence, the judge found that Patel's testimony was not
+credible and that he had intentionally represented that he
+was a citizen. The judge accordingly denied Patel's applica-
+tion for adjustment of status and ordered that he and his
+wife be removed from the United States. Patel appealed
+the decision to the BIA, which determined that the judge's
+factual findings were not clearly erroneous and dismissed
+the appeal.
+Patel petitioned the Eleventh Circuit for review, arguing
+that any reasonable judge would have been “compelled to
+conclude” that his testimony was credible and that he had
+made an honest mistake on the form. See § 1252(b)(4)(B)
+(“[A]dministrative findings of fact are conclusive unless any
+reasonable adjudicator would be compelled to conclude to the
+contrary”). A panel of that court held that it lacked juris-
+diction to consider Patel's claim because federal law prohibits
+judicial review of “any judgment regarding the granting of
+relief ” under § 1255, the adjustment-of-status provision.
+§ 1252(a)(2)(B)(i). And the factual determinations of which
+Patel sought review—whether he had testifed credibly and
+whether he had subjectively intended to misrepresent him-
+self as a citizen—each qualified, in the panel's view, as a
+“judgment regarding the granting of relief.” See Patel v.
+United States Atty. Gen., 917 F. 3d 1319, 1327 (2019).
+On rehearing en banc, both Patel and the Government ar-
+gued that the panel had erred. Patel contended that the bar
+on judicial review applied only to the ultimate decision to
+grant or deny adjustment of status—not to any subsidiary
+decisions regarding an applicant's eligibility to be considered
+for relief. The Government argued that the bar applied not
+only to the ultimate decision to grant or deny relief but also
+to any discretionary determinations made at the eligibility
+stage. And in the Government's view, the Immigration
+Judge's factual findings were “nondiscretionary” determina-
+tions to which the bar did not apply.
+A majority of the full Eleventh Circuit agreed with the
+panel decision and held that all factual determinations made
+as part of considering a request for discretionary relief fall
+within § 1252(a)(2)(B)(i)'s prohibition on judicial review.
+Patel v. United States Atty . Gen., 971 F. 3d 1258, 1272–1273
+(2020). In reaching this conclusion, the Eleventh Circuit
+deepened a split among the courts of appeals as to the scope
+of § 1252(a)(2)(B)(i).1
+We granted certiorari to resolve the conflict. 594 U. S.
+––– (2021). Because the Government has continued to take
+the position that § 1252(a)(2)(B)(i) does not prohibit review of
+the fact determinations at issue, we invited Taylor A. R.
+Meehan to brief and argue this case, as amicus curiae , in
+support of the judgment below. 594 U. S. ––– (2021). She
+has ably discharged her responsibilities.
+II
+Section 1252(a)(2)(B)(i) strips courts of jurisdiction to re-
+view “any judgment regarding the granting of relief” under
+1 The Fourth and Seventh Circuits appear to interpret § 1252(a)(2)(B)(i)
+the way that the Eleventh Circuit does. See Jean v. Gonzales, 435 F. 3d
+475, 480 (CA4 2006); Cevilla v. Gonzales, 446 F. 3d 658, 660–661 (CA7
+2006). Other Courts of Appeals distinguish between discretionary and
+nondiscretionary judgments but do so in a way that seems to preclude all
+review of fact questions. See Castro v. Holder, 727 F. 3d 125, 128–129
+(CA1 2013); Rosario v. Holder, 627 F. 3d 58, 61 (CA2 2010); Arambula-
+Medina v. Holder, 572 F. 3d 824, 828 (CA10 2009). The remainder to
+weigh in on the question take the Government's position. See Mendez-
+Moranchel v. Ashcroft, 338 F. 3d 176, 178–179 (CA3 2003); Garcia-
+Melendez v. Ashcroft, 351 F. 3d 657, 661 (CA5 2003); Santana-Albarran v.
+Ashcroft, 393 F. 3d 699, 703 (CA6 2005); Ortiz-Cornejo v. Gonzales, 400
+F. 3d 610, 612 (CA8 2005); Mamigonian v. Biggs, 710 F. 3d 936, 943–946
+(CA9 2013).
+§ 1255. The outcome of this case largely turns on the scope
+of the word “judgment,” an issue on which the parties and
+amicus have three competing views.
+Amicus maintains that “judgment” means any authorita-
+tive decision. See Webster's Third New International Dic-
+tionary 1223 (1993) (“a formal utterance or pronouncing of
+an authoritative opinion after judging,” or “an opinion so
+pronounced”); 8 Oxford English Dictionary 294 (2d ed. 1989)
+(“[t]he pronouncing of a deliberate opinion upon a person or
+thing, or the opinion pronounced”). Under this broad def-
+nition, § 1252(a)(2)(B)(i)'s prohibition “encompasses any and
+all decisions relating to the granting or denying” of discre-
+tionary relief. Brief for Court-Appointed Amicus Curiae
+22–23. Factual findings fall within this category, amicus
+says, so the courts lack jurisdiction to review them.
+The Government argues that, at least when used outside
+the context of a final judgment of a court, “judgment” does
+not refer to just any decision. According to the Govern-
+ment, § 1252(a)(2)(B)(i)'s use of “judgment” refers exclusively
+to a decision that requires the use of discretion. Brief for
+Respondent 16–18. On this approach, some eligibility deter-
+minations are reviewable and others are not. For example,
+the determination that a noncitizen's removal would not re-
+sult in exceptional and extremely unusual hardship for a
+spouse, parent, or child involves discretion (which makes it
+an unreviewable “judgment”), but the decision that an appli-
+cant has fewer than 10 years of continuous presence in the
+United States does not (which makes it reviewable). See
+id., at 42 (citing 971 F. 3d, at 1296 (Martin, J., dissenting));
+but see Trejo v. Garland, 3 F. 4th 760 (CA5 2021) (concluding
+to the contrary that hardship is nondiscretionary and so re-
+viewable); Singh v. Rosen, 984 F. 3d 1142 (CA6 2021) (same).
+The Government classifies the factual findings at issue in
+this case—the Immigration Judge's conclusions that Patel's
+testimony was not credible and that he had lied on the
+form—as nondiscretionary and therefore outside the juris-
+dictional bar.2
+Patel agrees with the Government that “judgment” im-
+plies an exercise of discretion, but unlike the Government,
+he would not sift through eligibility determinations to clas-
+sify them as discretionary or nondiscretionary. Instead,
+Patel reads the phrase “regarding the granting of relief” to
+focus the jurisdictional bar narrowly on a single discretion-
+ary judgment: the immigration judge's decision whether to
+grant relief to an applicant eligible to receive it. Every-
+thing else, Patel says, is reviewable. Justice Gorsuch
+adopts Patel's approach, rejecting the Government's inter-
+pretation as well as amicus'. See post, at 354–355 (dissent-
+ing opinion).
+A
+Amicus' interpretation is the only one that fts § 1252(a)
+(2)(B)(i)'s text and context. The provision does not restrict
+itself to certain kinds of decisions. Rather, it prohibits re-
+view of any judgment regarding the granting of relief under
+§ 1255 and the other enumerated provisions. As this Court
+has “repeatedly explained,” “ ` “the word `any' has an expan-
+sive meaning.” ' ” Babb v. Wilkie, 589 U. S. –––, –––, n. 2
+(2020); see also Webster's Third New International Diction-
+ary, at 97 (defining “any” as “one or some indiscriminately of
+whatever kind”). Here, “any” means that the provision ap-
+plies to judgments “ `of whatever kind' ” under § 1255, not just
+discretionary judgments or the last-in-time judgment. See
+United States v. Gonzales, 520 U. S. 1, 5 (1997). Similarly, the
+2 Prior to 2001, the Government took the position that amicus now de-
+fends. Tr. of Oral Arg. 52–53. It adopted its current understanding as
+a matter of constitutional avoidance following this Court's decision in INS
+v. St. Cyr, 533 U. S. 289 (2001). Tr. of Oral Arg. 53–54. Though the Gov-
+ernment says that Congress' subsequent amendments to other parts of
+§ 1252, see infra, at 339, “ameliorat[ed] the constitutional concerns,” it has
+not reverted to its original interpretation of § 1252(a)(2)(B)(i), Tr. of Oral
+Arg. 54.
+use of “regarding” “in a legal context generally has a broaden-
+ing effect, ensuring that the scope of a provision covers not
+only its subject but also matters relating to that subject.”
+Lamar, Archer & Cofrin, LLP v. Appling, 584 U. S. –––, –––
+(2018); see also Webster's Third New International Diction-
+ary, at 1911 (defining “regarding” as “with respect to” or “con-
+cerning”). Thus, § 1252(a)(2)(B)(i) encompasses not just “the
+granting of relief” but also any judgment relating to the grant-
+ing of relief. That plainly includes factual findings.
+Section 1252(a)(2)(D), which preserves review of constitu-
+tional claims and questions of law, reinforces that conclusion.
+Congress added this subparagraph after we suggested in
+St. Cyr that barring review of all legal questions in removal
+cases could raise a constitutional concern. See 533 U. S.,
+at 300, 314. The amendment is precise. While Congress
+could have responded to St. Cyr by lifting § 1252's prohibi-
+tions on judicial review altogether, it instead excised only
+the legal and constitutional questions that implicated our
+concern. See § 1252(a)(2)(D) (“Nothing in subparagraph (B)
+or (C)” or other similar provisions “shall be construed as pre-
+cluding review of constitutional claims or questions of law”);
+§§ 1252(a)(2)(B), (C) (continuing to prohibit review “except as
+provided in subparagraph (D)”). And if Congress made such
+questions an exception, it must have left something within
+the rule. The major remaining category is questions of fact.
+No surprise, then, that we have already relied on subpara-
+graph (D) to all but settle that judicial review of factfinding
+is unavailable. In Guerrero-Lasprilla v. Barr, 589 U. S. –––
+(2020), we had to decide whether subparagraph (C)—which
+bars review of “any final order of removal against an alien
+who is removable by reason of having committed” certain
+criminal offenses—prohibits review of how a legal standard
+applies to undisputed facts. Our answer turned on whether
+such an application counts as a question of law for purposes
+of subparagraph (D). Id., at ––– – –––. In holding that it
+does, we explained that subparagraph (D) “will still forbid
+appeals of factual determinations” themselves under subpar-
+agraph (C). Id., at ––– – –––. Had we thought otherwise,
+we would simply have said that questions of fact, like ques-
+tions of law, are reviewable—end of story.
+Nasrallah v. Barr, 590 U. S. ––– (2020), addresses Patel's
+situation even more directly. There, we held that a court
+has jurisdiction to review a factual challenge to an order de-
+nying relief under the Convention Against Torture, because
+that order falls outside of subparagraph (C)'s prohibition on
+reviewing final orders of removal. In reaching that conclu-
+sion, we emphasized that our decision would have “no effect”
+on those orders that do fall within a jurisdiction-stripping
+provision—including “orders denying discretionary relief”
+under § 1252(a)(2)(B). Id., at –––. And so, we explained, a
+noncitizen “may not bring a factual challenge to orders deny-
+ing discretionary relief, including . . . adjustment of status.”
+Ibid. We adhere to that view today.
+B
+In contrast to amicus' straightforward interpretation,
+both the Government's and Patel's arguments read like elab-
+orate efforts to avoid the most natural meaning of the text.
+1
+We begin with the Government's argument that “judg-
+ment” refers exclusively to a “discretionary” decision, which
+the Government describes as a decision that is “subjective
+or evaluative.” Brief for Respondent 12. According to the
+Government, this requirement is evident in definitions like
+this one: “ `the mental or intellectual process of forming an
+opinion or evaluation by discerning and comparing,' ” or “ `an
+opinion or estimate so formed.' ” Id., at 16–17 (quoting
+Webster's Third New International Dictionary, at 1223).
+The Government's argument is subtle, to say the least, given
+that none of the definitions it cites expressly references dis-
+cretion. Evidently, the nature of the decisionmaking proc-
+ess does the work: If the process occurs as the definitions
+describe, then the decision it yields is discretionary and
+counts as a judgment. And the Government says that the
+factual findings in this case do not ft that description.
+We do not see how the Government's cited definitions
+narrow the feld in the way that the Government claims.
+Rather than delineating a special category of discretionary
+determinations, they simply describe the decisionmaking
+process. That process might involve a matter that the Gov-
+ernment treats as “subjective” or one that it deems “objec-
+tive.” Either counts as a judgment, even under the defni-
+tions that the Government offers.
+Take the credibility determination at issue in this case. It
+is easily described as an “opinion or evaluation” formed “by
+discerning and comparing” the evidence presented. The
+Immigration Judge weighed Patel's testimony, reviewed doc-
+uments, and considered Patel's history to conclude that he
+was an evasive and untrustworthy witness. Using the word
+“judgment” to describe that kind of credibility determination
+is perfectly natural—in fact, we have used it this way our-
+selves. See, e. g., Teva Pharmaceuticals USA, Inc. v. San-
+doz, Inc., 574 U. S. 318, 327 (2015) (discussing “ `credibility
+judgments' ” about a witness). It is just as natural in other
+factfinding contexts, like the Immigration Judge's determina-
+tion that Patel lied on his driver's license application. Find-
+ing that fact involved the same exercise of evaluating con-
+flicting evidence to make a judgment about what happened.
+So to succeed, the Government must do more than point
+to the word “judgment.” It must show that in context, the
+kind of judgment to which § 1252(a)(2)(B)(i) refers is discre-
+tionary. But the text of the provision stops that argument
+in its tracks because the bar on review applies to “ any judg-
+ment.” Had Congress intended instead to limit the jurisdic-
+tional bar to “discretionary judgments,” it could easily have
+used that language—as it did elsewhere in the immigration
+code. See, e. g., § 1226(e) (“The Attorney General's discre-
+tionary judgment regarding the application of this section
+shall not be subject to review” (emphasis added)); § 1252(b)
+(4)(D) (“[T]he Attorney General's discretionary judgment
+whether to grant relief under section 1158(a) of this title
+shall be conclusive unless manifestly contrary to the law and
+an abuse of discretion” (emphasis added)). We express no
+view about what “discretionary judgment” means in those
+provisions—the point is simply that the absence of any refer-
+ence to discretion in § 1252(a)(2)(B)(i) undercuts the Govern-
+ment's efforts to read it in.
+The Government claims that Kucana v. Holder, 558 U. S.
+233 (2010), which interpreted neighboring provision
+§ 1252(a)(2)(B)(ii), supports its argument. That provision
+bars review of
+“any other decision or action of the Attorney General or
+the Secretary of Homeland Security the authority for
+which is specified under this subchapter to be in the dis-
+cretion of the Attorney General or the Secretary of
+Homeland Security, other than the granting of relief
+under section 1158(a) of this title.”
+We explained in Kucana that “[t]he proximity of clauses (i)
+and (ii), and the words linking them—`any other decision'—
+sugges[t] that Congress had in mind decisions of the same
+genre, i. e., those made discretionary by legislation.” Id., at
+246–247. “Read harmoniously,” we said, “both clauses con-
+vey that Congress barred court review of discretionary deci-
+sions only when Congress itself set out the Attorney Gener-
+al's discretionary authority in the statute.” Id., at 247.
+This reference to barring review of discretionary decisions,
+the Government says, implies that review of nondiscretion-
+ary decisions is allowed.
+Kucana 's discussion is inapposite. That opinion ad -
+dressed whether the Attorney General could unilaterally
+proscribe review of decisions “declared discretionary by the
+Attorney General himself through regulation.” Id., at 237.
+In drawing the comparison between clauses (i) and (ii), we
+thus focused on the fact that each form of relief identified in
+clause (i) was entrusted to the Attorney General's discretion
+by statute . Id., at 246. We neither said nor implied any-
+thing about review of eligibility decisions made in the course
+of exercising that statutory discretion.
+In short, the Government is wrong about both text and
+context. A “judgment” does not necessarily involve discre-
+tion, nor does context indicate that only discretionary judg-
+ments are covered by § 1252(a)(2)(B)(i).
+2
+Unlike the Government, Patel interprets § 1252(a)(2)(B)(i)
+to prohibit review of only the ultimate grant or denial of
+relief, leaving all eligibility determinations reviewable.
+That, Patel says, is because the provision specifies the kind
+of judgment to which the bar applies: “any judgment regard-
+ing the granting of relief .” Eligibility determinations—
+which Patel characterizes as “first-step decisions”—are not
+judgments regarding the granting of relief because eligibility
+is a necessary but insufficient condition for relief. The only
+judgment that can actually grant relief is what Patel de-
+scribes as the “second-step decision” whether to grant the
+applicant the “ ` “grace” ' ” of relief from removal. Brief for
+Petitioners 20 (quoting St. Cyr, 533 U. S., at 308). So, Patel
+argues, that is the sole judgment to which the bar applies.
+Like the Government, Patel cannot square his interpreta-
+tion with the text of § 1252(a)(2)(B)(i). He claims that his is
+the only interpretation that makes sense of “regarding the
+granting of relief”; as he sees it, “any judgment regarding
+the granting of relief” must narrow the meaning of “judg-
+ment” to include only the decision “whether to grant relief.”
+Brief for Petitioners 22–25, 37–39. To be sure, the reference
+to “the granting of relief ” appears to constrain the provision
+from sweeping in judgments that have nothing to do with
+that subject. But as even the Government acknowledges,
+§ 1252(a)(2)(B)(i) does not stop at just the grant or denial of
+relief; it extends to any judgment “regarding” that ultimate
+decision. See Brief for Respondent 18–20. Patel's inter-
+pretation to the contrary reads “regarding” out of the stat-
+ute entirely.
+Context further undermines Patel's position. He cannot
+explain why the bar in subparagraph (B) should be read dif-
+ferently from subparagraph (C)'s prohibition on reviewing
+final orders of removal for certain criminal offenses. Patel
+acknowledges that this bar on review of a “final order” also
+precludes review of its factual support, including the very
+kind of factfinding at issue in this case. Reply Brief for
+Petitioners 7; Guerrero-Lasprilla, 589 U. S., at ––– – –––.
+But if Congress had wanted to achieve that effect in subpara-
+graph (B), he argues, it could have used “final order” there
+too, rather than “judgment.” Reply Brief for Petitioners 7.
+Yet Patel ignores a simple explanation for the shift in termi-
+nology. Subparagraph (B) bars review of only one facet of
+the removal process (consideration of discretionary relief)
+whereas subparagraph (C) prohibits review of the entire pro-
+ceeding (removal based on a criminal offense). Each statu-
+tory label describes its target, but otherwise, the provisions
+preclude judicial review in the same way and bear the same
+relationship to subparagraph (D). Given those similarities,
+we see no reason to think that subparagraph (B) would allow
+a court to review the factual underpinnings of a decision
+when subparagraph (C) prohibits just that.
+C
+Patel and the Government object that our interpretation
+of § 1252(a)(2)(B)(i) would arbitrarily prohibit review of some
+factual determinations made in the discretionary-relief con-
+text that would be reviewable if made elsewhere in removal
+proceedings. In this case, for example, the question whether
+Patel intended to falsely claim to be a citizen on his driver's
+license application relates to whether he is statutorily inad-
+missible, which is both an obstacle to discretionary relief and
+an independent ground for removal. Presumably because
+Patel openly acknowledged that he was removable for enter-
+ing the country illegally, the Government did not premise
+his removal on the contested claim that he had intentionally
+misrepresented his citizenship. But if the Government had
+taken that route, the Immigration Judge's determinations
+would have been reviewable in the ordinary course.
+That distinction is not arbitrary. It reflects Congress'
+choice to provide reduced procedural protection for discre-
+tionary relief, the granting of which is “ `not a matter of right
+under any circumstances, but rather is in all cases a matter
+of grace.' ” St. Cyr, 533 U. S., at 308. That reduced protec-
+tion is reflected in the burden of proof too: The Government
+bears the burden of proving removability by clear and con-
+vincing evidence, while an applicant bears the burden of
+establishing eligibility for discretionary relief. Compare
+§ 1229a(c)(3)(A) with § 1229a(c)(4)(A). For both judicial re-
+view and the burden of proof, the context in which a fact is
+found explains the difference in protection afforded.
+Patel and the Government also briefly suggest that inter-
+preting § 1252(a)(2)(B)(i) as we do will have the unintended
+consequence of precluding all review of USCIS denials of
+discretionary relief. Those decisions are made outside of
+the removal context, and subparagraph (D) preserves review
+of legal and constitutional questions only when raised in a
+petition for review of a final order of removal. If the juris-
+dictional bar is broad and subparagraph (D) is inapplicable,
+Patel and the Government say, USCIS decisions will be
+wholly insulated from judicial review.
+The reviewability of such decisions is not before us, and
+we do not decide it. But it is possible that Congress did, in
+fact, intend to close that door. 3 The post-St. Cyr amend-
+3 The parties do not address the independent question whether a USCIS
+denial of adjustment of status made before the initiation of removal pro-
+ceedings satisfies threshold finality and exhaustion requirements for re-
+ments expressly extended the jurisdictional bar to judg-
+ments made outside of removal proceedings at the same time
+that they preserved review of legal and constitutional ques-
+tions made within removal proceedings. See §§ 1252(a)(2)(B),
+(D). And foreclosing judicial review unless and until re-
+moval proceedings are initiated would be consistent with
+Congress' choice to reduce procedural protections in the con-
+text of discretionary relief. See Lee v. USCIS, 592 F. 3d
+612, 620 (CA4 2010) (“To the extent Congress decided to per-
+mit judicial review of a constitutional or legal issue bearing
+upon the denial of adjustment of status, it intended for the
+issue to be raised to the court of appeals during removal
+proceedings”). So it would be difficult to maintain that this
+consequence conflicts with the statutory structure, and nei-
+ther Patel nor the Government goes so far. Instead, they
+urge us to interpret § 1252(a)(2)(B)(i) to avoid the risk of this
+result. Yet we inevitably swerve out of our lane when we
+put policy considerations in the driver's seat. As we have
+emphasized many times before, policy concerns cannot trump
+the best interpretation of the statutory text. See, e. g., Niz-
+Chavez v. Garland, 593 U. S. –––, ––– (2021); Jay v. Boyd,
+351 U. S. 345, 357 (1956).
+D
+As a last resort, Patel and the Government insist that the
+statute is ambiguous enough to trigger the presumption that
+Congress did not intend to foreclose judicial review. We
+disagree.
+Because “ `executive determinations generally are subject
+to judicial review,' ” Guerrero-Lasprilla, 589 U. S., at –––,
+we presume that review is available when a statute is silent.
+See Reno v. Catholic Social Services, Inc., 509 U. S. 43, 56
+view. There appears to be disagreement on this question in the courts of
+appeals. Compare Cardoso v. Reno, 216 F. 3d 512, 517–518 (CA5 2000);
+McBrearty v. Perryman, 212 F. 3d 985, 987 (CA7 2000), with Pinho v.
+Gonzales, 432 F. 3d 193, 200–202 (CA3 2005); Cabaccang v. USCIS, 627
+F. 3d 1313, 1317 (CA9 2010).

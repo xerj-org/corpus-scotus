@@ -1,0 +1,63 @@
+Babcock v. Kijakazi — No. 20-480 — October Term 2021 — decided 1/13/22 — Gorsuch, J., dissenting
+Citation: 595 U.S. 77
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r6_ihdk.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the same theme to distinguish between service in different
+capacities.
+More importantly, though, Babcock's functional test is
+inconsistent with the choices that Congress made in the stat-
+utory scheme. Determining whether Babcock's techni-
+cian employment was service “as” a member of the Na-
+tional Guard does not turn on factors like whether he wore
+his uniform to work. It turns on how Congress classified
+the job—and as already discussed, Congress classified dual-
+status technicians as “civilian.” Babcock dismisses that dis-
+tinction as one drawn for purposes of “administrative book-
+keeping,” but bookkeeping matters when it comes to pay
+and benefits.
+* * *
+Babcock's civil-service pension payments fall outside the
+Social Security Act's uniformed-services exception because
+they are based on service in his civilian capacity. We there-
+fore affirm the judgment of the Court of Appeals.
+It is so ordered.
+Justice Gorsuch, dissenting.
+As the only dissenter on this narrow question of statutory
+interpretation, I confess trepidation. Still, I cannot help but
+find compelling the arguments advanced by the petitioner
+before us and by the Eighth Circuit in Petersen v. Astrue,
+633 F. 3d 633, 637–638 (2011).
+Dual-status military technicians hold “a unique position in
+federal employment.” Ante, at 80. Not only do they some-
+times serve on active duty, as the petitioner did. Babcock
+v. Commissioner of Social Security , 959 F. 3d 210, 212 (CA6
+2020). By statute, they spend the rest of their time working
+for the Guard—on matters ranging from training others
+to administration to equipment maintenance. 10 U. S. C.
+§ 10216(a)(1)(C); 32 U. S. C. § 709(a). At all times, they must
+“maintain membership” in the National Guard and wear a
+Guard uniform while on the job. 10 U. S. C. § 10216(a)(1)(B);
+32 U. S. C. § 709(b). The authority to discharge or discipline
+these individuals, too, rests with the Adjutant General.
+§§ 709(d), (f). Given these features of their employment, I
+would hold that dual-status technicians “serv[e] as” members
+of the National Guard in all the work they perform for this
+country day in and day out. 42 U. S. C. § 415(a)(7)(A)(III).
+I appreciate the analogy to police officers moonlighting as
+private security guards. Ante, at 84. But to my mind dual-
+status technicians are more like part-time police officers em-
+ployed in their outside hours by the same police department
+to train recruits, administer the precinct office, and repair
+squad cars—all on the condition that they wear their police
+uniforms and maintain their status as officers. I suspect
+most reasonable officers in that situation would consider the
+totality of their work to constitute “service as . . . member[s]”
+of the police force. So too here I expect most Guardsmen
+who serve as “dual-status technicians”—who come to work
+every day for the Guard, in a Guard uniform, and subject to
+Guard discipline—would consider all of their work to repre-
+sent “service as . . . member[s]” of the National Guard. I
+would honor that reasonable understanding and would not
+curtail servicemembers' Social Security benefits based pri-
+marily on implications extracted from other, separate “book-
+keeping” statutes. Ante, at 85.

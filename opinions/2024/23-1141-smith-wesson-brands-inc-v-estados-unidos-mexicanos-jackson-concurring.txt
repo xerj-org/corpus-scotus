@@ -1,0 +1,112 @@
+Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos — No. 23-1141 — October Term 2024 — decided 6/05/25 — Jackson, J., concurring
+Citation: 605 U.S. 280
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r38_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+MEXICANOS
+Jackson, J., concurring
+ory of the case—that, as a factual matter, the defendant gun
+manufacturers committed criminal aiding and abetting. See
+ante, at 294–298.
+In future cases, courts should more fully examine the
+meaning of “violation” under the PLCAA. It seems to me
+that the PLCAA at least arguably requires not only a plausi-
+ble allegation that a defendant has committed a predicate
+violation, but also an earlier finding of guilt or liability in an
+adjudication regarding the “violation.” Allowing plaintiffs
+to proffer mere allegations of a predicate violation would
+force many defendants in PLCAA litigation to litigate their
+criminal guilt in a civil proceeding, without the full panoply
+of protections that we otherwise afford to criminal defend-
+ants. And, these defendants might even include ones who
+were cleared in an earlier proceeding, such as through a non-
+charging decision or a not-guilty or not-liable verdict. Such
+collateral adjudication would be at best highly unusual, and
+would likely raise serious constitutional questions that would
+counsel in favor of a narrower interpretation. See United
+States v. Jin Fuey Moy, 241 U. S. 394, 401 (1916) (“A statute
+must be construed, if fairly possible, so as to avoid not only
+the conclusion that it is unconstitutional but also grave
+doubts upon that score”). Particularly given the PLCAA's
+aim of protecting gun manufacturers from litigation, see
+§ 7901, this issue warrants careful consideration.
+Justice Jackson, concurring.
+The Court holds that Mexico's complaint fails to plausibly
+allege that gun manufacturers aided or abetted violations of
+firearms laws, as necessary to trigger the predicate excep-
+tion to the Protection of Lawful Commerce in Arms Act
+(PLCAA), 15 U. S. C. § 7903(5)(A)(iii). I agree. I write
+separately to explain that, in my view, the complaint's core
+faw is its failure to allege any nonconclusory statutory viola-
+tions in the first place.
+Tellingly, that failure exposes Mexico's lawsuit as precisely
+what Congress passed PLCAA to prevent. PLCAA was
+Congress's response to a food of civil lawsuits that sought to
+hold the firearms industry responsible for downstream law-
+breaking by third parties. Ante, at 285–287, 298–299. Ac-
+tivists had deployed litigation in an effort to compel firearms
+manufacturers and associated entities to adopt safety meas-
+ures and practices that exceeded what state or federal stat-
+utes required. H. R. Rep. No. 109–124, pp. 18–20 (2005).
+Congress expressed concern that these lawsuits “attempt[ed]
+to use the judicial branch to circumvent the Legislative
+branch.” § 7901(a)(8). PLCAA embodies Congress's ex-
+press rejection of such efforts—stymying those who, as Con-
+gress put it, sought “to accomplish through litigation that
+which they have been unable to achieve by legislation.”
+H. R. Rep. No. 109–124, at 18. Put differently, PLCAA re-
+flects Congress's view that the democratic process, not litiga-
+tion, should set the terms of gun control.
+Viewed in light of this objective, Congress's inclusion of
+the predicate exception makes perfect sense. The exception
+allows lawsuits to proceed—despite PLCAA's general grant
+of immunity—if the complaint alleges that a gun manufac-
+turer or seller “knowingly violated a State or Federal stat-
+ute applicable to the sale or marketing of the product, and
+the violation was a proximate cause of the harm for which
+relief is sought.” § 7903(5)(A)(iii). By tying the exception
+to statutory violations, Congress kept the door open to civil
+liability—but only liability flowing from duties that the Peo-
+ple, rather than the courts, had chosen to impose.
+PLCAA's predicate exception might well be triggered by
+aiding and abetting another's violation of a firearms statute,
+as the provision's two examples make clear. First, § 7903(5)
+(A)(iii)(I) describes, for example, aiding and abetting “any
+person in making any false or fictitious oral or written state-
+ment with respect to any fact material to the lawfulness of
+MEXICANOS
+Jackson, J., concurring
+the sale or other disposition of a qualified product”—conduct
+that violates 18 U. S. C. §§ 922(m), 923(g), or 924(a)(3)(A).
+Likewise, § 7903(5)(A)(iii)(II) covers aiding and abetting
+“any other person to sell or otherwise dispose of a qualified
+product, knowing, or having reasonable cause to believe, that
+the actual buyer of the qualified product was prohibited from
+possessing or receiving a firearm or ammunition under” 18
+U. S. C. §§ 922(g) and (n)—sales that breach §§ 922(b), (d), or
+(t)(1), for instance. Critically, both predicate-exception ex-
+amples relate to the aiding and abetting of particular statu-
+tory violations.
+All that Mexico alleges here is that frearms-industry-wide
+practices—though lawful on their own—facilitated dealers'
+unspecified downstream violations. Mexico does not tether
+its claims to alleged statutory breaches. Ante, at 294. Nor
+does it identify the dealers who would be the principals for
+any underlying statutory violations, as the Court observes.
+Ante, at 295–296, and n. 5. At bottom, then, Mexico merely
+faults the industry writ large for engaging in practices that
+legislatures and voters have declined to prohibit. Ante, at
+297–298.
+It is for these reasons that I view Mexico's allegations as
+insufficient to satisfy PLCAA's predicate exception, regard-
+less of whether the business practices described might suffice
+to establish aiding-and-abetting or other forms of vicarious
+liability in distinct statutory or common-law contexts. Cf.
+Twitter, Inc. v. Taamneh, 598 U. S. 471, 507 (2023) (Jackson,
+J., concurring). Devoid of nonconclusory allegations about
+particular statutory violations, Mexico's lawsuit seeks to
+turn the courts into common-law regulators. But Congress
+passed PLCAA to preserve the primacy of the political
+branches—both state and federal—in deciding which duties
+to impose on the firearms industry. Construing PLCAA's
+predicate exception to authorize lawsuits like the one Mexico
+fled here would distort that basic design.

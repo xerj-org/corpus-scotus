@@ -1,0 +1,902 @@
+Wolford v. Lopez — No. 24-1046 — October Term 2025 — decided 6/25/26 — opinion of the Court — author Alito (listing code A)
+Citation: 609 U.S. 185
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1046_nmio.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+SUPREME COURT OF THE UNITED STATES
+No. 24–1046
+JASON WOLFORD, ET AL., PETITIONERS v. ANNE E.
+LOPEZ, ATTORNEY GENERAL OF HAWAII
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE ALITO delivered the opinion of the Court.
+For years, the State of Hawaii made it almost impossible
+to obtain a license to carry a firearm.  Four years ago, how-
+ever, this Court held in New York State Rifle & Pistol Assn.,
+Inc. v. Bruen, 597 U. S. 1 (2022), that the Second and Four-
+teenth Amendments protect the right to carry handguns
+outside the home for self-defense. Hawaii responded by re-
+placing its old law on carry permits with new laws that
+achieved a similar result.  On a large portion of the land
+within the State’s boundaries, possession of a firearm is
+now flatly prohibited. And the law now before us severely
+burdens the ability to carry a firearm in much of the rest of
+the State by prohibiting firearms on private property with-
+out the express and affirmative consent of the property
+owner.
+This law departs sharply from the standard common-law
+rule on access to private prope rty held open to the public.
+Under that rule, everyone, including those lawfully carrying
+firearms, may enter unless expressly prohibited from doing
+so. By contrast, under the new Hawaii law, no one carrying
+a firearm may enter without the property owner’s express
+authorization. The effect of this new rule is to impose
+
+severe restrictions on the daily activities of residents who
+have satisfied the State’s rigorous requirements for the is-
+suance of a carry permit.  When these permit holders leave
+home in the morning, not only must they take care to avoid
+all the territory where the possession of a gun is prohibited
+outright, but they may also be barred from entering many
+places that people routinely visit in the course of their daily
+routines, such as gas stations, convenience stores, restau-
+rants, coffee shops, drug stor es, grocery stores, “big box”
+stores, home improvement stores, barber shops or hair sa-
+lons, dry cleaners, and laundromats.
+This regime hobbles what the Second Amendment pro-
+tects: the right of Americans to carry arms for self-defense
+as they go about their daily lives.  We hold that the law is
+unconstitutional.
+I
+When Hawaii adopted the law now before us, it did so
+against the backdrop of this Court’s Second Amendment de-
+cisions, and many of the arguments that the State1 now ad-
+vances were addressed in those decisions. We therefore
+begin with an overview of that body of law.
+A
+1
+The Second Amendment provides: “A well regulated Mi-
+litia, being necessary to the security of a free State, the
+right of the people to keep and bear Arms, shall not be in-
+fringed.” For more than two ce nturies after the ratification
+of the Second Amendment, this Court had few occasions to
+examine its meaning. Such an occasion arose in District of
+Columbia v. Heller, 554 U. S. 570 (2008).
+The case was brought by Dick Heller, a resident of the
+District of Columbia whose story highlighted the reason
+why the right to keep and bear arms for self-defense was
+——————
+1 For simplicity, we refer to respondent as “the State.”
+
+3  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+included in the Bill of Rights. Id., at 575. In light of the
+exceptionally high rate of violent crime in Washington,
+D. C.,2 Heller wanted to keep a firearm in his home to de-
+fend himself in case of a burglary or home invasion.  Id., at
+575–576. He had all the hallmarks of a citizen who would
+handle a firearm safely and responsibly. He was a special
+D. C. police officer who provided security at the Thurgood
+Marshall Judiciary Building and was authorized under
+D. C. law to carry a handgun while on duty . Ibid. But the
+District, which made it virtua lly impossible for a resident
+to keep a handgun at home for self-defense, denied his ap-
+plication for a permit. Ibid. Unwilling to accept this plight,
+Heller sued in federal court to vindicate his Second Amend-
+ment right. Ibid.
+When his case reached this Court, we provided our first
+thorough exploration of the Second Amendment’s meaning.
+We rejected the argument that the Second Amendment
+right extends only to members of a state militia and held
+instead that the Second Amendment, like other provisions
+of the Bill of Rights, protects an individual right enjoyed by
+“‘the people.’ ”  Id., at 579–581.  Our opinion went on to ex-
+plain the meaning of the Second Amendment’s other key
+terms. The phrase “to keep and bear Arms,” we held, signi-
+fies what its terms mean in ordinary usage—that is, to
+“have” and “carry Arms.”  Id., at 583–585. And “Arms,” we
+explained, refers to implements used for offense or defense.
+Id., at 581. We added that handguns, which are “over-
+whelmingly chosen by American society” for self-defense,
+fall squarely into this category. Id., at 628.
+We also identified the Amendment’s “central” concern: se-
+curing the fundamental right of self-defense.   Id ., at 577,
+581, 599, 628, 635. In late 18th century America, the need
+——————
+2 See, e.g., Brief for Buckeye Firearms Foundation et al. as Amici Cu-
+riae 8–11, Brief for Criminologists et al. as Amici Curiae 6–17, and Brief
+for Academics as Amicus Curiae 5–17, in District of Columbia v. Heller,
+O. T. 2007, No. 07–290.
+
+for firearms for self-defense was acute.  There were no po-
+lice forces, and most Americans lived in rural areas, often
+in homes located miles from the closest neighbor. 3  If these
+homes were attacked, the residents were on their own, and
+their survival might well depend on the availability of a
+firearm to ward off assailants.  In light of this reality, it is
+not surprising that the right to keep and bear arms was in-
+cluded among the other treasured liberties protected by the
+Bill of Rights.4
+But while the founding generation cherished the Second
+Amendment right, they did not think it was absolute.  Hel-
+ler explained—and later cases have reiterated—that the
+Second Amendment “codified a pre-existing right.”  Id ., at
+592. And this right, as understood at the time, was not an
+“unlimited” right “to keep and carry any weapon whatso-
+ever in any manner whatsoever and for whatever purpose.”
+Id., at 592, 626.  Similarly, Heller warned that “nothing in
+our opinion should be taken to cast doubt on longstanding
+prohibitions on the possession of firearms by felons and the
+mentally ill, or laws forbidding the carrying of firearms in
+sensitive places such as schools and government buildings.”
+Id., at 626; see also McDonald v. Chicago, 561 U. S. 742,
+786 (2010) (opinion of A LITO, J.); United States v. Rahimi,
+602 U. S. 680, 699 (2024).
+2
+Because the Second Amendment protects a right that al-
+ready existed when the Amendment was adopted, Heller in-
+structed courts to ascertain the scope of the right by looking
+to history. And to emphasize the point, Heller emphatically
+——————
+3 See, e.g., C. Cramer, Armed in Americ a: The Remarkable Story of
+How and Why Guns Became as American as Apple Pie 3 (2006).
+4As Heller noted, most Americans in the late 18th century also “un-
+doubtedly thought” that the codified Second Amendment was “important
+for hunting,” 554 U. S., at 599, which, particularly for those moving west,
+was an important source of sustenance.
+
+5  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+rejected the ahistorical and “judge-empowering ‘interest-
+balancing inquiry’ ” suggested in the dissent.  554 U. S., at
+634. Heller acknowledged that the history-based analysis
+it prescribed would not always be easy, but it found that
+mode of analysis necessary to prevent judges from balanc-
+ing away the right that the Second Amendment was
+adopted to protect, id., at 635—which is precisely what the
+dissent did.5
+B
+Heller concerned an ordinance adopted by the District of
+Columbia, and therefore the decision did not govern the
+States. But since virtually all the provisions of the Bill of
+Rights had been held to appl y equally to the Federal Gov-
+ernment and the States, it was inevitable that the Court
+would have to decide whether the Second Amendment right
+merited similar treatment. Two years after Heller, that
+question came before us in McDonald.
+The case was brought by residents of Chicago, a city, like
+Washington, D. C., with a high rate of violent crime. 6  The
+lead plaintiff, Otis McDonald, was a man in his late seven-
+ties who lived in a dangerous neighborhood and had been
+subjected to violent threats from drug dealers.  McDonald,
+561 U. S., at 751. A city ordinance effectively barred
+McDonald and the other plaintiffs from possessing guns in
+their homes for self-defense, and they contended that the
+——————
+5 That dissent assumed for the sake  of argument that the Second
+Amendment protects a private citizen’s right to keep a firearm in the
+home for self-defense, but then concluded that D. C. law, which made it
+virtually impossible to have a gun for that purpose, was nevertheless
+constitutional because it was adequate ly tailored to serve the District’s
+interest in protecting  public safety.  See Heller, 554 U. S., at 692–693
+(opinion of Breyer, J.).
+6 See Brief for Heartland Institute as Amicus Curiae 6–10, and Brief
+for Buckeye Firearms Foundation et al. as Amici Curiae 8–15, in McDon-
+ald v. Chicago, O. T. 2008, No. 08–1521.
+
+fundamental right recognized in Heller  should apply
+throughout the country.  561 U. S., at 752–753.
+The city of Chicago opposed nationwide application of
+Heller, arguing that law enforcement needs and public atti-
+tudes about guns varied from State to State and city to city
+and that States and cities should have leeway to regulate
+gun possession as their lawmakers saw fit.  See Brief for
+Respondent in McDonald v. Chicago , O. T. 2009, No. 08–
+1521, pp. 24–31.  The Court, however, disagreed.  The plu-
+rality opinion, joined by four Justices, concluded that the
+Second Amendment right, like nearly all the rights pro-
+tected by the First, Fourth, Fifth, Sixth, and Eighth
+Amendments, should apply equally to the Federal Govern-
+ment and the States. McDonald, 561 U. S., at 750.  Follow-
+ing a body of precedent dating back more than a century,
+the plurality concluded that the provision of the Fourteenth
+Amendment that did this work was the Due Process Clause.
+Id., at 767–787.  J USTICE THOMAS, who provided the deci-
+sive fifth vote, reached a similar result based on the Four-
+teenth Amendment’s Privileges or Immunities Clause. Id.,
+at 805–806 (opinion concurring in part and concurring in
+judgment). But either way, McDonald settled the question
+whether the Second Amendment embodies a uniform na-
+tional standard or one that varies from one locale to an -
+other.
+C
+After McDonald, 12 years elapsed before the Court’s next
+major Second Amendment decision: Bruen. In the interim,
+lower courts rejected nearly all Second Amendment claims
+based on reasoning that resembled that in Justice Breyer’s
+Heller dissent. See Bruen, 597 U. S., at 18–19, 26.
+In Bruen, we considered one such decision, which upheld
+a New York law that severely restricted the right to carry a
+handgun outside the home for self-defense.  In doing so, we
+
+7  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+fleshed out the process of historical analysis required in a
+Second Amendment case. See id ., at 10.
+That analysis, we held, involves two steps.  First, a court
+must determine whether the law before it clashes with the
+“plain text” of the Amendment’s language.  Id., at 24. This
+inquiry entails three subsidiary questions.  First, does the
+law apply to “the people”—which is to say, to “all members
+of the political community”? Heller, 554 U. S., at 580.  Sec-
+ond, does it concern any form of “Arms,” i.e. , any weapon
+customarily used for offensive or defensive purposes?  See
+id., at 584.  Third, does the law place any restrictions on
+either the “keep[ing]” ( i.e., possession) or the “bear[ing]”
+(i.e., carrying) of arms? See Bruen, 597 U. S., at 32–33.
+If a challenged law falls with in the plain text of the Sec-
+ond Amendment, it is presumptively unconstitutional, id.,
+at 24—which means that it may  violate the preexisting
+right that the Amendment codified.  But because that right
+was not in every way coterminous with the Amendment’s
+literal language, further analysis may be needed.  Specifi-
+cally, the relevant government—federal, state, or local—
+may be able to show that its challenged law did not infringe
+the historical understanding of the codified right.  See ibid.
+A variety of sources, including scholarship, may aid this
+inquiry. See id., at 34–60.  But often, the best evidence may
+be what Bruen called historical analogues. Id., at 28. These
+are old legal rules from which a court may draw a strong
+inference that the modern law at issue is consistent with
+the codified right. A party  defending against a Second
+Amendment claim may rely on a single analogue or a group
+of analogues. Bruen identified three important inquiries
+that courts should undertake in evaluating proffered ana-
+logues. The first is the number of jurisdictions in which
+they were adopted. See id., at 67 (“[W]e will not stake our
+interpretation . . . upon a law in effect in a single State, or
+a single city” (citing Heller, 554 U. S., at 632)).  The second
+is the extent to which they were well-accepted.  This
+
+acceptance may be express, as when judicial decisions ex-
+plicitly acknowledged the rule’s legality.  Or the acceptance
+may be tacit, as when a restriction on the keeping or carry-
+ing of arms was “open, widespread, and unchallenged.”
+Bruen, 597 U. S., at 36 (internal quotation marks omitted).
+The third is whether any analogue or collection of ana-
+logues is “relevantly similar” to the modern law.  Id., at 29.
+Determining whether this condition is met requires consid-
+eration of “how” the analogue restricted the keeping or
+bearing of arms—that is, whether it imposed a restriction
+similar to that imposed by the challenged law. Ibid. And a
+court must also consider “why” the analogue restricted the
+keeping or bearing of arms—that is, whether its rationale
+was similar to that of the new law.  Ibid.  In order to be
+sufficiently similar to the modern law being challenged, a
+putative analogue need not be a “dead ringer” or “historical
+twin.” Id., at 30. Particularly when the modern law ad-
+dresses a situation that could not have arisen when the Sec-
+ond or Fourteenth Amendment was adopted, it is too much
+to demand such a close match. But the “how” and “why” of
+the historical analogue and modern regulation must be
+close enough to enable a court to say: “Because this histori-
+cal law was understood to be compatible with the right cod-
+ified by the Second Amendment, we can infer that the re-
+striction imposed by the modern law is likewise consistent
+with that right.”  Making this determination is far more dis-
+ciplined than the “interest-balancing,” “judge-empowering”
+standard that Heller emphatically rejected, but it is not me-
+chanical. Bruen, 597 U. S., at 22 (quoting Heller, 554 U. S.,
+at 634; internal quotation marks omitted).  It undeniably
+necessitates an exercise of judgment.
+Applying this framework, Bruen held that the challenged
+New York law, which broadly prohibited law-abiding citi-
+zens from carrying commonly used firearms in public for
+self-defense, violated the Second and Fourteenth Amend-
+ments. 597 U. S., at 38.  We found that the State’s proffered
+
+9  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+analogues were critically different from the challenged law
+and that the “overwhelming weight” of historical evidence
+supported the “right of the public to peaceably carry hand-
+guns for self-defense.” Id., at 62, 66.
+In addition to holding that New York’s law violated the
+Second Amendment, we pointed out that six other jurisdic-
+tions had adopted statutory provisions like New York’s.  See
+id., at 15, n. 2. One of those jurisdictions was Hawaii. 7
+D
+In Bruen, the law at issue concerned conduct that could
+have occurred when the Second and Fourteenth Amend-
+ments were adopted—carrying a handgun outside the home
+for self-defense. By contrast, in our most recent Second
+Amendment case, United States v.  Rahimi, 602 U. S. 680,
+the law in question, 18 U. S. C. §922(g)(8), involved conduct
+that was distinctively modern: the possession of a firearm
+by a person against whom a domestic violence restraining
+order had been issued, see Rahimi, 602 U. S., at 684–685.
+Accordingly, application of step two of the Bruen framework
+called for a more difficult exercise of judgment.  In the end,
+however, the majority was satisfied that the two analogues
+identified by the Federal Government, though not “dead
+ringers” of §922(g)(8), were sufficiently similar to support
+the provision’s constitutionality because the challenged
+regulation was “consistent with the principles that under -
+pin our regulatory tradition.”  Rahimi, 602 U. S., at 692,
+698–699.
+The dissent applied the same test but came to the oppo -
+site conclusion, see id., at 747 (opinion of T HOMAS, J.), ex-
+hibiting how Heller’s history-based methodology—true to
+the warning contained in that ground-breaking decision—
+is not mechanical, see 554 U. S., at 626–628, 635.
+——————
+7 The other five were California, the District of Columbia, Maryland,
+Massachusetts, and New Jersey.  Bruen, 597 U. S., at 15, n. 2.
+
+II
+A
+With this background in mind, we turn to the Hawaii law
+challenged in this case. Before Bruen, Hawaii issued fire-
+arms carry licenses only in “exceptional case[s].”  Haw. Rev.
+Stat. §§134–2 (Cum. Supp. 2018), 134–9(a) (2011).  Indeed,
+it appears that from 2000 to 2018, only four such licenses
+were issued. See Young v. Hawaii, 896 F. 3d 1044, 1071, n.
+21 (CA9 2018), reh’g en banc, 992 F. 3d 765 (2021), cert.
+granted, judgt. vacated, 597 U. S. 916 (2022).  After Bruen,
+Hawaii and four of the other fi ve States called out by our
+decision adopted a new method of restricting law-abiding
+citizens from carrying firearms for self-defense by flipping
+the default rule on private property open to the public.
+At common law, opening up private property to the gen-
+eral public implies a “license to all persons to enter,” mean-
+ing that “no person is a trespasser by merely entering
+therein” unless the property owner has given “due notice”
+that such a person is banned.  Commonwealth v. Power, 48
+Mass. 596, 602 (1844); see also,  e.g. , State v. Steele, 106
+N. C. 766, 780–783, 11 S. E. 478, 484–485 (1890); Barney v.
+Oyster Bay & Huntington Steamboat Co., 67 N. Y. 301, 302–
+303 (1876); Jencks v. Coleman, 13 F. Cas. 442, 443–444 (No.
+7,258), (CC RI 1835) (Story, J.).
+After Bruen, Hawaii and four other States singled out in
+that decision flipped this default rule. Rather than allow-
+ing all to enter private property open to the public unless
+specifically prohibited, these new laws provided that no one
+carrying a firearm may enter without express authoriza-
+tion. See Cal. Penal Code Ann. §26230(a)(26) (West Supp.
+2026); Haw. Rev. Stat. §134–9.5(a) (2023); Md. Crim. Law
+Code Ann. §6–411(d) (Supp. 2025); N. J. Stat. Ann. §2C:58–
+4.6(a)(24) (West 2024); N. Y. Penal Law Ann. §265.01–d(1)
+(West 2025).
+
+11  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+B
+Hawaii’s new default rule is part of a tight web of laws
+that severely restricts the carrying of firearms for self-de-
+fense. To start, carrying a handgun for self-defense re-
+quires a special license, and obtaining that license is a rig-
+orous process. Haw. Rev. Stat. §134–9.  Applicants must
+first complete a detailed app lication that requires the dis -
+closure of medical information.  §134–9(g).8  They must then
+successfully complete an extensive training course in which
+they demonstrate competency in firearm safety and live-fire
+shooting, as well as an understanding of the law and avail-
+able mental-health resources.  §§134–9(d), (e). And they
+must demonstrate the “essential character or temperament
+necessary to be entrusted with a firearm.” §134–9(h).
+But even for those who fulfill these stringent require-
+ments, Hawaii imposes two additional restrictions on car-
+rying firearms. The first bans the possession of a firearm
+in significant categories of places: “[a]ny [state-owned]
+building” or “adjacent grounds and parking areas”; “[a]ny
+public or private hospital” or “other place at which medical
+or health services are custom arily provided”; any “restau -
+rant serving alcohol”; any “stadium, movie theater, or con-
+cert hall”; any “public library property”; “any public or pri-
+vate” college or university; “any public school, charter
+school,” or private school; any “beach, playground,” or park;
+“any bank or financial institut ion”; any “amusement park,
+aquarium, carnival, circus, fair, museum, water park, or
+——————
+8 See Hawai’i Police Dept., Firearm Servs., https://www.
+hawaiipolice.gov/services/firearm-services/#license-to-carry (archived at
+https://perma.cc/A4G8-AEYB); License to Carry (Concealed and Uncon -
+cealed) Application Processing, https://www.hawaiipolice.gov/wp-
+content/uploads/PM-12.3-License-to-Carry-Concealed-and-Unconcealed-
+Application.pdf (archived at https://perma.cc/MX8Z-3DMC); Authoriza-
+tion for Use or Disclosure of Protected Health Information (PHI),
+https://www.hawaiipolice.gov/wp-content/uploads/Authorization-for-Use-
+or-Disclosure-of-PHI.pdf (archived at https://perma.cc/H7AL-C8ED).
+
+zoo”; and any “public gathering, public assembly, or special
+event conducted on property open to the public.”  §134–
+9.1(a).9  Some of these places are owned by the State, but
+many of the categories includ e privately owned property.
+So even if the owner of such a place wanted to admit indi-
+viduals who are carrying a gun for self-defense, the owner
+could not do so.
+The second restriction—the one at issue in this case—
+generally prohibits licensed individuals from carrying a
+firearm, even if unloaded or inoperable, “on private prop -
+erty of another.” §134–9.5(a).  Certain categories of individ-
+uals, such as police officers, are exempt, §§134–9.5(d), 134–
+11(a), but the ban otherwise applies unless “express author-
+ization” has been given “by the owner, lessee, operator, or
+manager of the property,” §134–9.5(a). Such authorization
+must take one of two forms: “clear and conspicuous signage”
+that confers such consent or “[u]nambiguous written or ver-
+bal authorization” to carry a firearm on the premises from
+“the owner, lessee, operator, or manager of the property” or
+an agent of such a person. §134–9.5(b).
+III
+Petitioners—three residents of Maui County who possess
+concealed-carry permits and an organizational plaintiff
+with members who have such permits—contend that these
+restrictions violate their rights  under the U. S. Constitu -
+tion, and they filed suit in federal court, seeking both tem-
+porary and permanent injunctive relief.  The District Court
+declined such relief with respect to private property that is
+closed to the public, but it enjoined enforcement of the new
+——————
+9 In the decision below, six judges stated that “Hawaii’s law prohibits,
+presumptively or outright , the carrying of a handgun on 96.4% of the
+publicly accessible land in Maui County.”  125 F. 4th 1230, 1233 (CA9
+2025) (VanDyke, J., dissenting from denial of reh’g en banc).  The State
+challenges this figure, arguing that  it includes “sensitive-place” re-
+strictions, such as those for public parks, beaches, and schools.  Brief for
+Respondent 41.
+
+13  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+default rule as applied to private property that is open  to
+the public.
+A panel of the Ninth Circuit reversed that injunction, and
+the full Ninth Circuit denied rehearing en banc.  Judge
+VanDyke, joined by five other judges, issued an opinion dis-
+senting from the denial of rehearing en banc.  125 F. 4th
+1230, 1231 (2025). Judge Collins, joined by Judge Bress,
+likewise filed a dissent. Ibid.  We granted certiorari to de-
+cide whether Hawaii may prohibit licensed concealed-carry
+permit holders from carrying handguns on private property
+open to the public unless the property owner gives express
+permission.  606 U. S. 1066 (2025).
+IV
+A
+As with any Second Amendment challenge, we began by
+asking whether the restrictions imposed by the challenged
+law fall within the plain text of the Second Amendment, see
+Bruen, 597 U. S., at 17, and we find that this requirement
+is easily met.
+No party disputes that petitioners are among “the people”
+protected by the Second Amendm ent or that they seek to
+“bear,” i.e., to carry, “arms.”  Therefore, “the plain text of
+the Second Amendment protects” what petitioners want to
+do: carry handguns for self-defense.  Id., at 32.
+Petitioners and the United States argue that the new de-
+fault rule was enacted to undermine our decision in Bruen,
+but whatever the purpose of the new law, the shift from the
+old common-law rule unquestionably imposed a new and
+significant burden on the exercise of the right that this
+Court recognized in Bruen. To be sure, owners of establish-
+ments that are open to the public can admit or exclude per-
+sons who are carrying guns for self-defense under either the
+common-law rule or Hawaii’s substitute.  As a practical
+matter, however, the choice between these two default rules
+is often outcome-determinative with respect to Hawaiians’
+
+Second Amendment rights.  For establishments where the
+owner either pays no attention or does not care about such
+issues, the choice of default rule will determine where
+carry-permit holders may lawfully carry firearms.
+More broadly, Hawaii’s new default rule burdens those
+wishing to exercise their Seco nd Amendment right.  Some
+proprietors who do not themselves object to entry by carry-
+permit holders may be reluctant to post a sign welcoming
+such individuals for fear of alienating other customers. So
+under Hawaii’s new default rule, a proprietor in this cate-
+gory may only be willing to consent discreetly to the entry
+of permit holders who make the effort to inquire.  This ar-
+rangement imposes a new burden on permit holders who
+will have to somehow obtain permission to carry a firearm
+on the property before stepping foot on it.
+To see what Hawaii’s new default rule means in practice,
+consider its impact on a resident of Hawaii whose situation
+is like that of Jaime Caetano, a young Boston woman who
+wanted to carry a weapon to defend herself from a violent
+ex-boyfriend but was criminally prosecuted when she used
+a non-lethal weapon to fend him off.  See Caetano v. Mas-
+sachusetts, 577 U. S. 411, 412–413 (2016) (A LITO, J., con-
+curring in judgment).  Suppose our hypothetical young
+woman, after clearing all the hurdles needed to get a Ha-
+waiian carry permit, leaves he r home on a weekday morn-
+ing and carries a handgun on her person or in a purse.  On
+the way to work, she intends to fill up her car at a gas sta-
+tion. During her lunch break, she plans to walk to a fast-
+food restaurant and then buy some items at a large drug
+store. After work, she wants to pick up clothes at a dry
+cleaner and then shop for groceries.  Unless each of these
+establishments has posted a sign saying “Guns Welcome”
+or something to that effect, each visit could expose her to
+criminal liability.
+Imagine what our hypothetical young woman will have to
+do when she drives to the supermarket after work. When
+
+15  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+she arrives, she will violate the literal terms of the Hawaii
+law merely by pulling into the parking lot while having her
+handgun concealed on her person.  She can minimize the
+length of her violation by disarming as soon as she arrives.
+But in removing the handgun from her person, she must
+take care not to let anyone se e it for even a moment.  Oth-
+erwise, she could be charge d with “recklessly caus[ing]
+alarm to another person by failing to conceal the firearm,
+even briefly.” Haw. Rev. Stat. §134–9.7.  Once she has re -
+moved the handgun from her person, she cannot leave it in
+her car without locking it in what amounts to a safe.  See
+§134–9.3.
+Instead of going through all this, she may choose to re-
+main armed when she enters the supermarket and
+promptly search for someone who is authorized to provide
+the consent that the law demands.  This will prolong the
+violation of the terms of the Hawaii law, and finding some-
+one who can provide consent may not be easy. For example,
+it is most unlikely that the supermarket employee who is
+gathering up shopping carts in the parking lot or the em-
+ployee who is restocking shelves will possess that authority.
+During all the time this search goes on, our hypothetical
+young woman will be violating the terms of the statute, and
+if that is brought to the attention of the police (say, by a
+store employee or customer who hears her ask for permis-
+sion to enter), she may be charged with a criminal offense
+or lose her license.  §134–9.7.  And in the end, she may be
+unable to shop because she cannot find anyone who has
+been authorized by management to consent.
+When our hypothetical young woman visits the restau-
+rant at lunch, her situation may be even more difficult. Un-
+less her place of employment has a gun locker where she
+can store her gun, she may be unable to leave it behind
+when she leaves the building. See §134–10.5.  And if she
+disarms before leaving work, she will be vulnerable for that
+period of time.  Even this short period of vulnerability can
+
+be deadly: Ms. Caetano was approached by her abusive boy-
+friend right after leaving work.  See Caetano , 577 U. S., at
+413 (ALITO, J., concurring in judgment).
+If our hypothetical young woman remains armed during
+the lunch break, she will violate the terms of the law if she
+sets foot inside any establishment without a “Guns Wel-
+come” sign, even if she immediately seeks someone who can
+provide authorization to stay. And as was the case with the
+supermarket, finding such a person may not be easy.  Thus,
+by the end of an ordinary day, our hypothetical young
+woman could be a criminal at least six times over. In short,
+Hawaii’s law severely hampers the ability of a law-abiding
+citizen to exercise the right Bruen recognized.
+Hawaii nonetheless argues that petitioners’ challenge
+fails at the first step of Bruen’s two-step framework because
+“the right to bear arms did not encompass the right to
+armed entry onto private property without the owner’s con-
+sent.” Brief for Respondent 9. The State then launches into
+a lengthy discussion of historical materials and precedents
+that, it contends, supports this argument. Id., at 9–27.
+We will discuss all these authorities, but they are out of
+place at Bruen’s first step. At that stage, as we have ex-
+plained, the question is simply whether a challenged law
+falls within the Second Amendment’s “plain text.”  597
+U. S., at 24. We therefore move on to the second step.
+B
+At this second step, the inquiry mandated by Heller and
+Bruen turns to an exploration of the historical understand-
+ing of the scope of the right the Constitution codified.  Ha -
+waii’s first argument on this score is based on “Hawai’i’s
+particular customs and laws.”  Brief for Respondent 24. The
+State starts with the undisputed principle that the owner
+of private property is generally free to exclude anyone from
+entering without consent. See Florida v. Jardines, 569
+U. S. 1, 7–8 (2013).  It acknowledges that an owner’s
+
+17  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+consent need not always be express and that there are cir-
+cumstances in which consent may be inferred.  See id., at 8.
+But the State contends that, whatever the situation in other
+parts of the country, in Hawaii, opening private property to
+the public does not implicitly include any armed individuals
+among those who may enter.10
+In support of this argument, the State recounts its long
+history of antipathy to the private possession of firearms.
+It tells us that one of the very first written laws of the King-
+dom of Hawaii, issued in 1833 by King Kamehameha III,
+prohibited the possession of all deadly weapons. 11  L a t e r
+laws adopted before and afte r Hawaii became part of the
+United States continued to heavily restrict the possession
+and carriage of firearms.  See, e.g., Act of May 25, 1852, §1,
+1852 Haw. Sess. Laws 19 (limiting the right to carry any
+deadly weapon in public); Haw. Rev. Laws, ch. 209, §3089
+(1905), as amended by Act of Mar. 19, 1913, §1, 1913 Haw.
+Sess. Laws 25.  And prior to Bruen, Hawaii permitted public
+carry only in “exceptional” cases “when an applicant
+show[ed] reason to fear injury to the applicant’s person or
+property.” Haw. Rev. Stat. §134–9(a) (2022).  Then, in the
+wake of Bruen , Hawaii passed the statute at issue in this
+case, and the State contends that this law continues a Ha-
+waiian tradition and shows that Hawaiians disfavor the
+carrying of guns in their midst.  Accordingly, the State
+maintains, its new default rule merely expresses the cir-
+cumstances under which implied consent may be reasona -
+bly inferred in Hawaii.
+——————
+10 The State curiously suggests that the concept of private property
+that is open to the public is too fuzzy for use in ascertaining implied con-
+sent.  Brief for Respondent 20–21.  But Hawaiian law uses that familiar
+concept in a variety of contexts. See, e.g., Haw. Rev. Stat. §§708–813,
+708–814 (2025) (definition of criminal trespass); §489–2 (2019) (public
+accommodations law).
+11 See Translation of the Constituti on and Laws of the Hawaiian Is-
+lands, Established in the Reign of Kamehameha III, in Hawaiian Laws
+1841–1842, ch. 42, p. 98 (1842).
+
+This argument is little different from the central argu-
+ment offered by the city of Chicago in McDonald, and Ha-
+waii’s version fares no better.  As the plurality explained in
+McDonald, the Second Amendment has the same meaning
+in all parts of the United States.  561 U. S., at 784–785.  It
+cannot give way to “the spirit of Aloha” in Hawaii, contra,
+State v. Wilson, 154 Haw. 8, 27, 543 P. 3d 440, 459 (2024),
+any more than it can yield to the spirit of the Big Apple
+(Bruen) or the Windy City ( McDonald). It applies in the
+same way to our 50th State (where about 8% of adults pos-
+sess guns) and our 49th State (where the figure is roughly
+59%).12  Merely local attitudes can neither shrink nor in -
+flate the meaning of fundamental Bill of Rights guarantees
+that apply to the States through the Fourteenth Amend -
+ment.13
+When we assess whether a challenged law is consistent
+with the right the Second Amendment codified, we seek the
+general understanding of that codified right at the relevant
+point in time.  An outlier legal rule adopted in a few locales
+——————
+12 RAND, Gun Ownership in America, https://www.rand.org/
+research/gun-policy/gun-ownership.html (archived at
+https://perma.cc/WR9W-YCSN).
+13 The principal dissent’s main argume nt is that “[t]his case is about
+property rights, not gun rights.”  Post, at 6 (opinion of JACKSON, J.).  Be-
+cause a State is generally free to alter traditional property-law principles
+as it chooses, the dissent contends th at Hawaii’s alteration of the tradi-
+tional rule on access to private proper ty open to the public does not in-
+fringe Second Amendment rights.  Th is argument fails because States
+may not adopt property-law rules that violate constitutional rights. For
+example, a State may not adopt property-law rules that violate the free-
+dom of speech. See, e.g., Reed v. Town of Gilbert , 576 U. S. 155, 159
+(2015) (ordinance regulating signs on private property); City of Ladue v.
+Gilleo, 512 U. S. 43, 45 (1994) (similar). Nor may a State adopt zoning
+rules that violate the equal pr otection of the laws.  See, e.g., Buchanan
+v. Warley, 245 U. S. 60 (1917).  Likewise, a State may not “ ‘sidestep the
+Takings Clause’ ” by enacting a law purporting to extinguish a property
+interest. Tyler v. Hennepin County, 598 U. S. 631, 638–639 (2023).  The
+right protected by the Second Amendment is entitled to no less protection
+than other constitutional rights.
+
+19  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+is not enough.  See supra, at 7–8; Bruen , 597 U. S., at 39
+(“‘[T]he language of the Constitution cannot be interpreted
+safely except by reference to the common law and to British
+institutions as they were when the instrument was framed
+and adopted’ ” (emphasis deleted)).  And as we have ex-
+plained, “overwhelming evidence” shows an “enduring
+American tradition permitting public carry.”  Id., at 67.  Ha-
+waii’s prohibitions on public carry represent a distinct out-
+lier.14
+C
+1
+With this preliminary question out of the way, we turn to
+Hawaii’s main argument: that analogous colonial and early
+state laws support the constitutionality of the State’s new
+law. These old laws, however, are vastly different from Ha-
+waii’s new default rule. They consist almost entirely of laws
+that prohibited unauthorized hunting of deer or small game
+on someone else’s private property.15
+——————
+14 The State also argues that Florida v. Jardines, 569 U. S. 1 (2013),
+and McKee v. Gratz, 260 U. S. 127 (1922), support its argument that the
+scope of the constitutional right to keep and bear arms may vary from
+place to place, but that is incorrect. Jardines , a Fourth Amendment case,
+had nothing to do with variations in property norms across different lo -
+calities.  And McKee addressed common-law trespass, not any constitu-
+tional question.
+15 Some of these laws applied only to “enclosed” land, and petitioners
+and some of their amici argue that such proper ty was not open to the
+public. See Brief for Petitioners 31; Brief for United States as Amicus
+Curiae 30. On the other hand, the State and some of its amici contend
+that the term “enclosed land” was understood at the time to include some
+property that was generally open to the public.  See Brief for Respondent
+31; M. Brady, Property v. Guns: The Level-of-Generality Problem in Wol-
+ford, Stan. L. Rev. Online (forthcoming 2026) (last revised Feb. 27, 2026)
+https://www.stanfordlawreview.org/online/property-v-guns-the-level-of-
+generality-problem-in-wolford/ (a rchived at https://perma.cc/J7Y3-
+WC5G). For the sake of argument, we will assume that the latter inter-
+pretation is correct and that the State’s analogues were well-known and
+
+The State’s earliest analogue is a 1721 Pennsylvania law
+entitled “An Act to Prevent the Killing of Deer  Out of Sea-
+son, and Against Carrying of Guns and Hunting By Persons
+Not Qualified.” This statute made it unlawful to “carry any
+gun or hunt on the improved or inclosed lands of any plan-
+tation, other than his own,” without securing “license or
+permission from the owner of such lands or plantation.”
+1721 Pa. Laws, ch. 246, §3, in 3 The Statutes at Large of
+Pennsylvania From 1682 to 1801, pp. 254–225 (J. Mitchell
+& H. Flanders eds. 1896).  The law’s stated purpose was to
+prevent “divers[e] Abuses, Damages and Inconveniences”
+that “ha[d] ar[i]se[n] by Persons carrying Guns, and pre-
+suming to hunt on other people’s lands.” §2, at 255. As the
+Third Circuit observed, that law “appears to be primarily
+focused on preventing Pennsylvanians from hunting on
+their neighbors’ land, not on restricting the right to publicly
+carry a gun.”  Lara  v. Commissioner Pa. State Police, 125
+F. 4th 428, 443 (2025).
+A 1722 New Jersey statute contains nearly identical lan-
+guage. See An Act to Prevent the Killing of Deer out of Sea-
+son, and against Carrying of Guns and Hunting by Persons
+not Qualified, 1722 N. J. Laws pp. 100–101 (no person shall
+“carry any [g]un, or [h]unt on the [i]mproved or [i]nclosed
+[l]ands in any [p]lantatio[n] . . . other than his own”).  And
+a 1728 Maryland statute and a 1763 New York law fall into
+the same category. The Maryland law, titled “An Act to En-
+courage the Destroying of Wol ves, Crows, and Squirrels,”
+made it unlawful to “come to hunt with Guns or Dogs,
+within any Inclosed Grounds, Islands, Peninsula’s, or
+Necks fenced across from Water to Water, without Leave or
+Licence from the Proprietors thereof, first had and ob-
+tained.” 1728 Md. Laws p. 13. And the New York law, titled
+——————
+accepted. Even so, they are far too different from Hawaii’s default rule
+to permit us to infer that the default rule is consistent with the codified
+Second Amendment right.  See infra, this page and 21–22.
+
+21  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+“An Act to Prevent Hunting with Fire-Arms in the City of
+New-York, and the Liberties Thereof,” made it unlawful to
+“carry, shoot, or discharge any  Musket, Fowling-Piece, or
+other Fire-Arm whatsoever, into, upon, or through any Or-
+chard, Garden, CornField, or other inclosed Land whatso-
+ever.” 1763 N. Y. Laws ch. 1233, §1.  All these laws tar-
+geted unauthorized hunting and focused on land where
+game could be found.
+A 1771 New Jersey law followed this tradition.  Titled “An
+act for the preservation of deer, and other game, and to pre-
+vent trespassing with guns,” this law provided that a per-
+son could not “carry any gun on any lands not his own, and
+for which the owner pays taxes, or is in his lawful posses-
+sion, unless he hath license or permission in writing from
+the owner or owners, or legal possessor.” 1771 N. J. Laws
+pp. 25–26.16
+In sum, the State’s analogues principally targeted unau-
+thorized hunting. Their coverage differed sharply from that
+of the Hawaii law now before us. They applied to land
+where game could be found, not retail establishments that
+residents of cities and suburbs frequent as part of their
+daily routines.  They had little if any impact on the Second
+Amendment’s central objective: protecting the fundamental
+right to self-defense.  And their obvious aim was to prevent
+the distinctive harms and risks associated with unauthor-
+ized hunting. That conduct often entailed the theft of pri-
+vate property: The poacher t ook game that the property
+——————
+16 And because New Jersey taxed only “improved land” at the time, the
+prohibition on carrying guns on taxed land was in effect a prohibition
+against armed trespass on “improved land” closed to the public.  B. Saw-
+ers, Keeping Up With the Joneses, 111 Mich. L. Rev. First Impressions
+21, 25–26 (2013).  Indeed, the very text of the statute targets “tres-
+pass[ers],” so its regulation of impr oved land naturally referred to pri-
+vate property closed to the public.  1771 N. J. Laws §1, pp. 26–27.  This
+inference becomes even clearer from the fact that a separate provision of
+the statute targeted hunting on “unimproved” lands not closed to the
+public. §6.
+
+owner might have otherwise harvested.  It involved the fir-
+ing of guns, which created a risk of inadvertently inflicting
+death or serious injury on the owner of the property, others
+who were authorized to use the property, and livestock.  At
+a minimum, the sound of the gunshots could surprise,
+alarm, or disturb the tranquility of others on the property.
+The conduct restricted by the Hawaii law has none of
+these effects. Others on the premises will not even notice a
+person peacefully carrying a concealed weapon in the man-
+ner demanded by Hawaiian law.
+To test whether these analogues are “relevantly similar”
+to the challenged Hawaii law, we may ask the question set
+out earlier: “Because it was accepted that prohibiting unau-
+thorized hunting on private land was consistent with the
+Second Amendment right, can we  infer that it is also con-
+sistent with that right to ban a person who is lawfully car-
+rying a concealed handgun for self-defense from entering a
+gas station, coffee shop, grocery store, or other private prop-
+erty open to the public without express and unambiguous
+consent?” The question answers itself. The gap between
+the State’s anti-poaching analogues and its new rule is just
+too wide.
+2
+The State’s two remaining analogues are even weaker.
+The first is an 1893 Oregon law that prohibited anyone
+“other than an officer on lawful business, [from] being
+armed . . . or trespass[ing] upon any enclosed premises or
+lands without the consent of the owner.”  1893 Ore. Laws
+p. 79. On its face, it is not clear that this statute is relevant
+to the issue before us.  For on e thing, even if commercial
+establishments that are open to the public were considered
+“enclosed” at the time of the adoption of the Bill of Rights,
+see n. 13, supra, no Oregon authority shows that the Oregon
+statute used the term to refer to such establishments.  To
+the contrary, Oregon courts have interpreted the phrase
+
+23  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+“enclosed land” as outdoor land surrounded by a “visible or
+distinctive line that demonstrates its separation from con-
+tiguous properties,” such that a hunter would know to seek
+permission before hunting.  See State v. Kimble , 236 Ore.
+App. 613, 619–620, 273 P. 3d 871, 874, (2010).  It is thus
+unlikely that the 1893 Oregon law used the term “enclosed”
+to refer to businesses open to the public rather than to pri-
+vate lands on which poaching was a problem.  Moreover, the
+statute does not demand that consent be express. But even
+if this provision is read as Hawaii would have it, a lone stat-
+ute adopted nearly a century after the adoption of the Sec -
+ond Amendment and well after the adoption of the Four -
+teenth Amendment sheds little if any light on the meaning
+of the Second Amendment right.
+Finally, we come to the State’s most remarkable ana-
+logue, an 1865 Louisiana statute that made it unlawful “for
+any person or persons to carry fire-arms on the premises or
+plantations of any citizen, without the consent of the owner
+or proprietor, other than in lawful discharge of a civil or
+military order.” 1865 La. Acts No. 10, §1, p. 14.  Regardless
+of this provision’s pedigree, it has no probative value for
+present purposes. As we have said, in considering the pro-
+bative value of a historical analogue, we must consider
+whether it was widespread, well-known, and widely ac -
+cepted. See Bruen, 597 U. S., at 35.  Because this statute
+was neither widespread nor wide ly accepted, it carries no
+weight.
+We could stop there, but there is another reason for re-
+jecting Hawaii’s reliance on this statute.  It was adopted by
+the Louisiana Legislature between the end of the Civil War
+and the beginning of Reconstruction.  When the war ended,
+the legislatures in defeated Confederate States quickly en-
+acted so-called Black Codes that aimed to perpetuate the
+
+subjugation of blacks.17 The statute Hawaii cites was part
+of Louisiana’s Black Code, and it provided a tool for disarm-
+ing blacks and thus leaving them defenseless against at -
+tacks. See 125 F. 4th, at 1239 (VanDyke, J., dissenting from
+denial of reh’g en banc).
+As we laid out in McDonald, the right to keep and bear
+arms was crucially important for vulnerable blacks during
+this period.  See 561 U. S., at 757, 771, 776–779; id., at 843–
+846 (opinion of THOMAS, J.).  And this was well-understood
+by the Republicans in Congress who were responsible for
+drafting, approving, and securing the ratification of the
+Fourteenth Amendment.  The Republican Party Platforms
+of 1856 and 1860 called for protection of the right to keep
+and bear arms for self-defense.  Unless we put history en-
+tirely out of our minds, Hawaii’s claim that this tainted ar-
+tifact illuminates the original understanding of the right to
+keep and bear arms cannot be taken seriously.
+* * *
+The Hawaii law at issue here violates the constitutional
+right to keep and bear arms.  Therefore, the judgment of the
+Court of Appeals for the Ninth Circuit is reversed, and the
+case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.
+——————
+17 See, e.g., E. Foner, The Second Founding: How the Civil War and
+Reconstruction Remade the Constitution 47–49 (2019).

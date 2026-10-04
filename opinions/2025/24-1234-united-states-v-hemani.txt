@@ -1,0 +1,713 @@
+United States v. Hemani — No. 24-1234 — October Term 2025 — decided 6/18/26 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 608 U.S. 772
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1234_new_6k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+SUPREME COURT OF THE UNITED STATES
+No. 24–1234
+UNITED STATES, PETITIONER v. ALI
+DANIAL HEMANI
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+ JUSTICE GORSUCH delivered the opinion of the Court.
+Ali Hemani uses marijuana a few times a week.  That fact
+alone, the government says, means he is automatically
+banned from possessing a firearm under federal law.  And
+because Mr. Hemani admits he owns a gun despite this ban,
+the government now seeks to prosecute him, imprison him
+for up to 15 years, and disarm him for life.  This case poses
+the question whether the government’s prosecution of Mr.
+Hemani is consistent with the Second Amendment.
+I
+The federal Gun Control Act prohibits various categories
+of people from possessing guns.  These categories, listed in
+18 U. S. C. §922(g), include individuals convicted of crimes
+“punishable by imprisonment for a term exceeding one
+year,” §922(g)(1), fugitives from justice, §922(g)(2), and
+those convicted of domestic vi olence crimes, §922(g)(9).
+This case concerns another of the statute’s provisions—
+§922(g)(3). Under its terms, anyone who is an “unlawful
+user of ” or “addicted to” a “controlled substance” is auto-
+matically banned from possessing a gun.  And for defying
+
+this ban, an individual can face up to 15 years in federal
+prison, §924(a)(8), and disarmament for life, §922(g)(1).1
+ To define the term “contro lled substance,” §922(g)(3) re-
+lies on the Controlled Substances Act (CSA).  Enacted to
+protect “the health and genera l welfare of the American
+people,” 21 U. S. C. §801(2), the CSA sets forth five sched-
+ules of “controlled substances” subject to varying degrees of
+regulation, §802.  They range from Schedule I drugs with a
+high potential for abuse and no currently accepted medical
+uses (like heroin) to Schedule  V drugs with the lowest po-
+tential for abuse and many accepted medical uses (like
+Robitussin with codeine).  §§802, 812.  By incorporating the
+CSA definition of the term “controlled substance,” 18
+U. S. C. §922(g)(3) makes it illegal for anyone who unlaw-
+fully uses any drug found on any of the CSA’s schedules to
+possess a firearm for any reason, upon threat of imprison-
+ment and permanent disarmament.
+ Convictions for violations of  §922(g)(3) account for only
+about 5% of all §922(g) convictions.  Congressional Re-
+search Service, Guns and Drugs: A Brief History of 18
+U. S. C. §922(g)(3) (2026).  But, the government insists, a
+conviction is warranted in th is case, and the facts giving
+rise to it unfolded this way.
+ Mr. Hemani is a dual citizen of the United States and Pa-
+kistan who was born in Texas and has spent most of his life
+there.  In recent years, he has lived in the Dallas area with
+his parents and worked a stable job.  But, suspecting Mr.
+Hemani and his family members of terrorism-related activ-
+ities, the government conducted a search of the family home
+in 2022.  Throughout the process, Mr. Hemani proved coop-
+erative.  He surrendered a gun he kept in the house and
+——————
+1 Because Congress adopted §922(g) pursuant to the Commerce Clause,
+the statute requires the government to show that a firearm possessed in
+violation of the statute’s terms “has been shipped or tr ansported in in-
+terstate or foreign commerce.”  As that element is not in dispute here, we
+do not discuss it further.
+
+3  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+pointed agents to some marijuana on the property.  He also
+consented to an interview, te lling law enforcement agents
+that he used marijuana “about every other day.” Record on
+Appeal 381. After the agents found cocaine in his parents’
+closet, Mr. Hemani claimed ownership of that as well,
+though he maintained that his mother had hidden it from
+him and that he had not used any recently.
+More than six months after the search, the government
+brought a single-charge indictment against Mr. Hemani.
+The charge had nothing to do with terrorism—the reason
+for the search in the first place.  Nor did the charge involve
+possession of cocaine, drug trafficking, or anything like
+that. Instead, relying solely on his admitted use of mariju-
+ana about every other day, the government prosecuted Mr.
+Hemani for knowingly possessing a gun in his home while
+being an “unlawful user” of a controlled substance.  Id., at
+12. For that alone, the government claimed, Mr. Hemani
+faced up to 15 years in prison and disarmament for life. No
+matter that the government did not assert Mr. Hemani was
+a drug addict.2  No matter that it did not contend his drug
+use had ever led him to pose a danger to himself or others.
+No matter, too, that the government did not claim Mr. He-
+mani had done anything with his gun other than possess it
+in his home.
+Mr. Hemani moved to dismiss the indictment, arguing
+that the government’s effort to enforce §922(g)(3) against
+him violated the Second Amendment.  The district court
+granted the motion and, after an unsuccessful appeal to the
+Fifth Circuit, the government asked us to review the case.
+We agreed to do so. 607 U. S. 992 (2025).
+II
+The Second Amendment protects the right of “all Ameri-
+cans” to keep and bear firearms for self-defense. District of
+——————
+2 For this reason, §922(g)(3)’s disarmament of drug “addict[s]” is not
+before us and we have no occasion to pass on it.
+
+Columbia v. Heller, 554 U. S. 570, 581 (2008).  Of course,
+like most individual rights, the Second Amendment has its
+limits. Id., at 626. American legislatures have long regu-
+lated the possession and use of firearms to some degree.
+See New York State Rifle & Pistol Assn., Inc. v. Bruen, 597
+U. S. 1, 17 (2022). But when the government crosses the
+line from permissible regulation into unconstitutional in -
+fringement, courts have a duty to say so in the cases before
+them—no less in the Second Amendment context than in
+any other. See ibid.; Heller, 554 U. S., at 606.
+To determine when the government infringes the Second
+Amendment, we begin by asking whether the Amendment’s
+terms cover the conduct in question.  Bruen, 597 U. S., at
+24. If so, the Constitution “presumptively” protects it.  Ibid.
+To overcome that presumption, the government then bears
+the burden of showing its regulatory efforts are “consistent
+with the Nation’s historical tradition of firearm regulation.”
+Ibid.
+Our cases demand this attention to history, we have said,
+because the Second Amendment was designed to codify a
+“pre-existing” individual righ t and guard against its later
+erosion by majoritarian legislation or judicial fiat.  Id., at
+25 (emphasis deleted). At the same time, we have recog-
+nized that “[t]he regulatory challenges posed by firearms
+today are not always the same” as those earlier generations
+faced. Id., at 27.  Accordingly, to show that a contemporary
+regulation is consistent with this Nation’s historical tradi -
+tion of firearm regulation, we  do not require the govern-
+ment to point to a “historical twin” or “precis[e] . . . histori-
+cal precursors.” United States v. Rahimi, 602 U. S. 680, 692
+(2024) (internal quotation marks omitted).  Instead, we
+have said, “the appropriate analysis involves considering
+whether the challenged regulation is consistent with the
+principles that underpin our regulatory tradition.”  Ibid.
+And, to that end, the government may “reaso[n] by anal-
+ogy,” showing that its contemporary regulation is
+
+5  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+“relevantly similar” to ones “well-established” in the Na-
+tion’s history. Bruen, 597 U. S., at 28–30.
+While we have not yet had cause to “exhaustive[ly] sur-
+vey” the features that may render a modern law “relevantly
+similar” to historical ones, we have said two play a “ ‘cen-
+tral’” role. Id., at 29. Call them the “why” and “how.” Ibid.;
+see also Rahimi, 602 U. S., at 692. The more closely a con-
+temporary law mirrors a well-established historical ana-
+logue in purpose and operation, the more likely it is to be
+upheld. Conversely, the more a modern law diverges from
+traditional laws in purpose and operation, the less likely it
+is to survive review. See Bruen, 597 U. S., at 29; Rahimi,
+602 U. S., at 692.
+The government accepts all this.  It agrees, too, that
+§922(g)(3)’s unlawful user pr ovision burdens conduct pre -
+sumptively protected by the Second Amendment.  After all,
+that statute bans a class of people including Mr. Hemani
+from possessing essentially any firearm for any purpose.  As
+a result, the government acknowledges, it has a burden to
+carry.
+The burden the government sets for itself in this case is
+a considerable one. As the government construes §922(g)(3)
+and seeks to apply it here, the law automatically bans an
+individual from possessing a gun from the moment he be -
+comes an unlawful user of any controlled substance until he
+ceases being one.  The law, says the government, doesn’t
+require anything more. It doesn’t matter what controlled
+substance an individual uses, in what amounts he does so,
+or whether his drug use has ever made him a danger to him-
+self or others. It doesn’t even matter why he keeps a gun or
+how safely he does so. And for violating this automatic ban,
+the government insists, an individual like Mr. Hemani may
+be sent to prison for up to 15 years and disarmed for life.
+To meet its burden of showing a law like that is consistent
+with the Nation’s tradition of firearm regulation, the gov-
+ernment relies on an analogy to what it calls “habitual
+
+drunkard” laws.  These laws, the government submits, en -
+joy deep roots in the country’s history and are “relevantly
+similar” to the regulation it wishes to enforce against Mr.
+Hemani. Bruen, 597 U. S., at 29.
+In truth, the habitual drunkard laws the government in-
+vokes fall into three general categories.  First are vagrancy
+laws. Both at the founding and in the decades following it,
+vagrants—a group that sometimes included habitual
+drunkards—could be “confine[d] in a workhouse” or
+“jail[ed].” Brief for United States 19. Second are civil-com-
+mitment statutes. Around the same time, many States al-
+lowed courts to appoint guardi ans for various individuals,
+including habitual drunkards, or authorized their “com-
+mit[ment] to asylums.” Id., at 21.  Third are surety laws.
+Under them, judicial officers, again in the founding era and
+later, could compel habitual dr unkards and others to post
+surety bonds to ensure their good behavior.  “A person who
+failed to post bond,” the government explains, “would be
+jailed, while a person who posted bond and then misbe-
+haved would forfeit the bond.” Id., at 22.
+These laws, the government insists, mirror §922(g)(3)’s
+unlawful user provision in three important respects. Two
+might be said to concern the “why” associated with these
+laws, the last their “how.” First, the government says, his-
+torical laws targeted habitual drunkards for the same rea-
+son §922(g)(3) targets unlawful users—because they regu-
+larly use intoxicants.  See id., at 17 (calling habitual
+drunkards and unlawful users “closely analogous”).  Sec-
+ond, the government submits, habitual drunkard laws re-
+stricted the liberties of people to the same end §922(g)(3)
+does—to protect the public from “unusually dangerous” in-
+dividuals who commit “violent crime[s].” Id., at 11, 13–14,
+22, 34.  Finally, the government argues, the historical laws
+it cites operated in practice much like §922(g)(3) works—
+the former allowed governments to detain people in places
+where they could not bear arms while §922(g)(3)
+
+7  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+temporarily disarms unlawful users. All told, the govern-
+ment contends, because historical habitual drunkard laws
+resemble §922(g)(3)’s unlawful user provision in so many
+pertinent respects, that provision must be constitutional as
+applied in this case and others.
+We disagree. We appreciate that drugs and guns can
+sometimes make for a dangerous mix.  We appreciate, too,
+that the government’s effort to analogize a modern statute
+addressing drug use to historical laws must be approached
+with a sensitivity to the fact that many drugs well known
+today were unknown in early Am erica.  As we have put it,
+the Second Amendment “can, and must, apply to circum -
+stances beyond those the Fo unders specifically antici-
+pated.” Bruen, 597 U. S., at 28. But, even taking all that
+into account, the government cannot carry the burden it has
+set for itself. We decide case s “based on the historical rec-
+ord” and arguments “compiled by the parties” before us.  Id.,
+at 26, n. 6.  And the habitual drunkard laws on which the
+government relies here differ dramatically from §922(g)(3)’s
+unlawful user provision on every single metric the govern-
+ment invites us to consider: They targeted different kinds
+of people, did so for different purposes, and operated in dif-
+ferent ways. Whether any one of these problems taken in
+isolation would prove fatal to the government’s cause, we
+need not decide. Taken cumulatively, we hold, they cer-
+tainly do. And, apart from pointing to habitual drunkard
+laws, the government has not even attempted to prove that
+any other specific historical principle might justify its pros-
+ecution in this case.3
+——————
+3 As in Bruen, we need not decide today “whether courts should primar-
+ily rely on the prevailing understanding of an individual right when the
+Fourteenth Amendment was ratified in 1868” or when the Bill of Rights
+was ratified in 1791.  New York State Rifle & Pistol Assn., Inc. v. Bruen,
+597 U. S. 1, 37–38 (2022).  For reasons explored below, the government
+cannot establish that the Second Amendment at either point in time per-
+mitted anything like its prosecution here.
+
+A
+Start with the government’s first point of comparison.  In
+its view, the reason why vagrancy, civil-commitment, and
+surety laws targeted habitual drunkards is “closely analo-
+gous” to the reason why §922(g)(3)’s unlawful user provision
+targets unlawful users:  Both groups regularly use intoxi-
+cants. Brief for United States 17.  It’s a claim difficult to
+square with the historical record.
+Around the time of the founding and for decades following
+it, a habitual drunkard was, as one court put it, someone
+who “for any considerable part of his time [was] intoxicated
+to such a degree as to deprive him of his ordinary reasoning
+faculties.” In re Tracy, 1 Paige Ch. 580, 582–583 (N. Y. Ch.
+1829). A regular or even frequent drinker did not usually
+fit the bill. A “man who [was] intoxicated or drunk one-half
+his time” was more like it. See Ludwick v. Commonwealth,
+18 Pa. 172, 175 (1851). In an early American medical trea-
+tise, Dr. Benjamin Rush, a signer of the Declaration of In -
+dependence, offered this description from a habitual drunk-
+ard about the depths of his condition: “ ‘Were a keg of rum
+in one corner of a room, and were a cannon constantly dis-
+charging balls between me and it, I could not refrain from
+passing before that cannon, in order to get at the rum.’ ”
+Medical Inquiries and Observations, Upon the Diseases of
+the Mind 266 (1812).
+Just consider how some of the statutes the government
+relies on defined the term. To qualify as a habitual drunk-
+ard under an early Arkansas law, someone had to drink to
+such excess that he was “incapable of conducting [his] own
+affairs.” Ark. Rev. Stat., ch. 78, §1 (1838) (W. Ball & S.
+Roane eds.) (Ball & Roane).  A statute in the Minnesota Ter-
+ritory required an individual to be “mentally incompetent.”
+Minn. Terr. Rev. Stat., ch. 67, §12 (1851).  A Connecticut
+law spoke of a person who had “lost the power of self-con -
+trol.” Act of July 25, 1874, §1, in 1874 Conn. Pub. Acts 256.
+And in a statute governing the District of Columbia,
+
+9  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+Congress defined a habitual drunkard as “any person who,
+by the use of intoxicating liquors . . . has lost self-control, or
+become incapable of proper attention to the care and man -
+agement of his affairs, or habitually or periodically neglect-
+ful thereof, or dangerous to himself or others.”  Act of Mar.
+30, 1876, §9, 19 Stat. 10–11.
+Had habitual drunkard laws applied to those who simply
+drank regularly, many notable early Americans could have
+faced trouble. John Adams took “a tankard of hard cider”
+with his “daily breakfast.”  W. Rorabaugh, The Alcoholic
+Republic 6 (1979) (Rorabaugh). Some say James Madison
+“consumed a pint of whiskey daily.”  D. Okrent, Last Call:
+The Rise and Fall of Prohibition 8 (2010); but see M. Will-
+Weber, Mint Juleps with Tedd y Roosevelt: The Complete
+History of Presidential Drinking 29 (2014) (arguing Madi-
+son “championed wine . . . as a healthier and more respect-
+able choice”). George Washington often drank three glasses
+of madeira in the evening—“not enough to be considered a
+heavy drinker in his day.”  Id., at 5.  Thomas Jefferson en-
+joyed “3 or 4 glasses [of wine] at dinner.”  J. Gabler, Pas-
+sions: The Wines and Travels of Thomas Jefferson 223
+(1995). In fact, just a few days before the framers signed
+the Constitution, a farewell party gathered for General
+Washington at Philadelphia’s City Tavern where 55 guests
+are said to have ordered 54 bottles of madeira, 60 bottles of
+wine, 8 bottles of “Old stock,” 22 bottles of porter, 8 bottles
+of cider, 12 bottles of beer, and 7 large bowls of punch.  Na-
+tional Park Service, C. Hershey, Historic Furnishings Plan:
+City Tavern 64–65 (1974).
+There was, in short, a “culture of copious drinking” in
+early America. D. Korostyshevsky, Incapable of Managing
+His Estate: Habitual Drunkards and the Expansion of
+Guardianship in the Nineteenth-Century United States, 43
+Law & Hist. Rev. 795, 800 (2025).  Indeed, in 1829 the “sec-
+retary of war estimated that three-quarters of the nation’s
+laborers drank . . . at least 4 ounces of distilled spirits”
+
+every day. Rorabaugh 15. Even the American Temperance
+Society called those who drank 12 ounces of hard liquor
+daily mere “ ‘occasional drunkards.’” Id., at 11.  As the So-
+ciety saw things, it took 24 ounces to qualify as a “ ‘con-
+firmed drunkar[d].’ ”  Ibid.
+Given all this, it seems the government’s historical laws
+targeted habitual drunkards not merely because they regu-
+larly used intoxicants, or even sometimes used them to ex-
+cess. Instead, those laws focused on habitual drunkards be-
+cause their drinking rendered them practically
+incapacitated and incapable of managing their affairs.  And
+that hardly compares to whom §922(g)(3)’s unlawful user
+provision targets on the government’s account. To be sure,
+the government construes the term “unlawful user” to em-
+brace only “habitual or regular” users, not those who use
+drugs irregularly. Brief for United States 23–25. But even
+on that understanding, §922( g)(3) automatically disarms
+anyone who regularly uses any amount of any controlled
+substance for anything other than its “prescribed purpose.”
+Tr. of Oral Arg. 57.  The law, the government insists, does
+not require it to show that a particular individual is regu-
+larly incapacitated, much less incapable of conducting his
+affairs or a threat to himself or others.  Put simply, on the
+government’s telling, §922(g)(3) sweeps in large numbers of
+people without regard to whether their substance use has
+the kind of incapacitating effect on them that historical ha-
+bitual drunkard laws normally required.
+This case illustrates the disconnect. The government
+considers Mr. Hemani an unlawful user of a controlled sub-
+stance because he admits to using marijuana about every
+other day. But how much marijuana does Mr. Hemani use,
+in what potency, and to what effect? Is he routinely unable
+to manage his affairs, a risk to himself or his family?  Or
+does he use a mild gummy as a sleep aid a few times a week?
+We do not know and, the government says, it doesn’t
+
+11  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+matter. The government asks us to analogize him to a ha-
+bitual drunkard all the same.
+Nor does the government’s theory stop at Mr. Hemani.  It
+extends equally to a husband who regularly takes his wife’s
+prescription Ambien to sleep and a college student who rou-
+tinely uses a friend’s Adderall to cram for exams.  Id ., at
+56–58. The drug involved makes no difference.  Nor, again,
+does it matter how much an individual uses or the effects it
+has on him.  That someone regularly uses any substance
+found on any of the CSA’s five schedules for anything other
+than its “prescribed purpose” is enough.  Id., at 57. Without
+more, the government asks us to analogize all such persons
+to habitual drunkards.  To state the analogy is to expose its
+deficiency.
+B
+This divergence is not the government’s only problem.
+The government faces more trouble yet when it comes to its
+next argument.  It contends that §922(g)(3) disarms unlaw-
+ful drug users to protect the public from “unusually danger-
+ous” individuals who will “misuse . . . firearms” to commit
+“violent crime[s].” Brief for United States 11, 13–14, 22, 34.
+And, the government submits, early American vagrancy,
+civil-commitment, and surety laws shared a similar pur-
+pose. But even spotting the government its assertion about
+§922(g)(3)’s aims (something we will return to later), the
+government misapprehends the purposes animating the
+historical analogues it invokes.  Usually, they had little to
+do with protecting the public from categorically violent and
+unusually dangerous persons.
+Begin with the vagrancy laws.  As a rule, they targeted
+individuals who “did not meet the societal expectation of
+work.” W. Quigley, Reluctant  Charity: Poor Laws in the
+Original Thirteen States, 31 U. Rich. L. Rev. 111, 169
+(1997) (Quigley). Routinely, that category included not just
+habitual drunkards but also “Vagabonds, Common
+
+Beggars,” “pipers, fidlers, . . . stubborn servants or children,
+[and] common nightwalkers.” Act of Oct. 1727, 7 Public
+Records of the Colony of Connecticut from May, 1726, to
+May, 1735, Inclusive 127–128 (C. Hoadly ed. 1873)
+(Hoadly).4  Add to that list perhaps any others who would
+not “provide for themselves or the support of their families.”
+Id., at 128. Some laws confined vagrants to workhouses
+where they could be “se[t] to work.” Ibid.; see also Quigley
+156–157, 168–169.  Other statutes authorized short jail
+terms. See, e.g., Hittell 1288. Either way, laws like these
+might have sought to promote productivity and suppress
+any number of real or perceived vices.  But they scarcely
+focused on protecting the public from a “categor[y]” of “un-
+usually dangerous” persons. Brief for United States 10–11.
+A similar story unfolds when it comes to what the govern-
+ment describes as civil-commitment laws. Consider the
+first such law the government cites: an 1827 Act in the
+Michigan Territory. Act of Apr. 12, 1827, in 1827 Mich.
+Terr. Laws 60. Worried that habitual drunkards “often-
+times . . . waste[d] their estates by excessive drinking . . .
+and thereby involve[d] themselves and [their] families in
+distress, misery, and ruin,” that law permitted a probate
+judge to assign a guardian to a habitual drunkard to “take
+care of such person, and [his] estate.” Id., at 58, 60. Or
+consider a law the government cites from later in the 19th
+century. It authorized courts to confine habitual drunkards
+——————
+4 See also, e.g., Act of June 29, 1700, §2, in 1 Acts and Resolves of the
+Province of the Mass. Bay 378 (1869) (including “stubborn children or
+servants”); Act of May 14, 1718, in 2 Laws of N. H. 266 (A. Batchellor ed.
+1913) (including “such as neglect their Callings, Mispend what they earn,
+and do not provide for themselves”); Act of June 10, 1799, §§1, 3, in Laws
+of the State of N. J. 473–474 (1821) (including those who did “not give a
+good account of themselves,” who “leave their families to be maintained
+by the city,” or who “pretend to use . . . crafty science”); 2 Codes and Stat-
+utes of the State of Cal. 1288 (T. Hittell ed. 1876) (Hittell) (including “idle
+or dissolute person[s] . . . who lodg[e] in any barn, shed, shop, outhouse,
+[or] vessel”).
+
+13  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+to asylums in order to “preven[t them] from using intoxicat-
+ing liquors” and “refor[m]” them. Act of May 1, 1890, §2, in
+1890 Iowa Acts 67. By their own terms, laws like these did
+not seek to protect the public from violence so much as to
+protect habitual drunkards from themselves and their fam-
+ilies from financial devastation.5
+Last, turn to the surety laws. In Rahimi, we rejected a
+facial challenge to §922(g)(8), a provision that prohibits fire-
+arm possession by certain individuals subject to domestic
+violence restraining orders. In reaching that decision, we
+analogized the modern statute in part to historical surety-
+of-the-peace laws. 602 U. S., at 695–696.  Those laws gen -
+erally required an individual shown to pose a specific threat
+of violence to post a bond and pledge to “keep the peace.”
+Id., at 695–697 (internal quotation marks omitted); see also
+J. Parker, Conductor Generalis 397 (1788) (Parker) (sure-
+ties of the peace applied to those who posed “some present
+or future danger”). Failure to post a bond meant jail, and
+disturbing the peace after posting a bond meant forfeiting
+it. Rahimi, 602 U. S., at 695. Some surety-of-the-peace
+laws, we held, were designed  to prevent “violence” and
+——————
+5 See also, e.g., Ball & Roane 456 (permitting probate courts to appoint
+guardians for habitual drunkards and others “incapable of conducting
+their own affairs . . . to provide for th e safe keeping of such persons, the
+maintenance of themselves and their families, and the education of their
+children”); Minn. Terr. Rev. Stat., ch. 67, §12, p. 278 (allowing a probate
+judge to appoint guardians for those “mentally incompetent to have the
+care and management of their own property”); Ga. Code §1803 (1861)
+(similar); Act of Feb. 21, 1872, §1, in  1872 Ill. Laws 477 (similar); Act of
+Apr. 1, 1870, §1, in 1869–1870 Cal. Stat. 585 (providing that “[t]he Home
+for the care of the Inebriate of San Francisco shall always be kept open
+for the reception and care of inebriates”); Act of Apr. 17, 1873, §3, in 1873
+Miss. Laws 62 (explaining that the object of civil confinement was “refor-
+mation and recovery from such pernicious habit of drunkenness”); Act of
+Mar. 5, 1860, §7, in 1860 Md. Laws ch. 386 (permitting confinement of a
+habitual drunkard as “necessary for his or her complete reformation”);
+19 Stat. 10–11 (similar).
+
+“targeted the misuse of firearms,” much as §922(g)(8) seeks
+to do. Id., at 695–696.
+Notably, the government d oesn’t rely on surety-of-the-
+peace statutes in this case.  And that makes sense. To war-
+rant the imposition of a surety of the peace, just being a
+habitual drunkard wasn’t usually enough.  So in this case
+the government directs us to a different kind of surety stat-
+ute—one that required certain individuals to post sureties
+of “good behavior.” Brief for United States 22 (internal quo-
+tation marks omitted). Under those laws, a judicial officer
+could impose a surety of good behavior on individuals who
+threatened a “scandal.” Parker 410.  And a scandal could
+include anything from “haunting bawdy houses” to “eves-
+dropp[ing]” to, yes, being a “common drunkar[d].”  Ibid. In
+fact, one surety statute targeted those who had “a common
+practice of getting drunk, and prophane cursing and swear-
+ing, and b lasphemy, to the great dishonour of Almighty
+God.” 1 Del. Laws 173 (1797). But what does any of this
+prove? To impose a surety of good behavior did not nor-
+mally require a showing that an individual posed a threat
+of violence.  Instead, these laws usually sought to protect
+the community from scandals “against good morals.”  5 N.
+Dane, A General Abridgment and Digest of American Law
+301 (1824) (emphasis deleted); see also Parker 410. And
+that is nothing like the purpose the government ascribes to
+§922(g)(3)’s unlawful user provision.
+C
+The government’s difficulties do not end with the “why”
+comparisons it invites us to make.  They also extend to the
+“how.” “Even when a law regulates arms-bearing for a per-
+missible reason,” we have said, “it may not be compatible
+with the [Second Amendment] if it does so to an extent be-
+yond what was done at the founding.”  Rahimi, 602 U. S.,
+at 692. And the way habitual drunkard statutes worked in
+
+15  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+the past differs significantly from how §922(g)(3)’s unlawful
+user provision works today.
+The historical laws the government identifies usually
+provided some form of process before an individual lost any
+of his liberties, even temporarily. Normally, a vagrant
+could be sent to a workhouse or jail only upon a “conviction.”
+E.g., Hoadly 128–129. Generally, a habitual drunkard
+could be assigned a guardian or committed to an asylum
+only after proceedings before a probate court or something
+like it.  See, e.g., Ball & Roane 456.  And, typically, surety
+statutes required a proceeding before a justice of the peace
+or a comparable officer before a bond could be ordered (or,
+if a bond wasn’t posted, before a jail sentence could be im -
+posed). E.g., Acts and Laws of the State of Conn. 189 (E.
+Babcock ed. 1786); see also Rahimi, 602 U. S., at 699.
+None of that holds true for §922(g)(3).  On the govern-
+ment’s account, the statute automatically divests an indi-
+vidual of his constitutional right to bear arms the moment
+he becomes an unlawful user and until he ends his drug
+use—all without any pre-deprivat ion process. To be sure,
+and as the government highlights, an unlawful user who
+violates this ban is entitled to “a full-dress criminal trial”
+before he can be imprisoned or permanently disarmed.
+Brief for United States 26.  But be that as it may, §922(g)(3)
+offers an unlawful user no pre-deprivation process before
+his “ ‘temporary disarmament,’ ” the very burden the gov-
+ernment says is akin to the burden vagrancy, civil-commit-
+ment, and surety laws imposed on habitual drunkards.
+6Ibid.
+——————
+6 Certain other provisions of §922, such as subsections (g)(1) (disarm-
+ing convicted felons) and (g)(4) (disarming any person “adjudicated as a
+mental defective” or “committed to a mental institution”), involve some
+manner of pre-deprivation process before an individual’s Second Amend-
+ment rights are lost.  For that reason, they differ from subsection (g)(3)
+and “nothing in our opin ion should be taken to cast doubt” on them.
+
+D
+We see one more problem yet with the government’s sub-
+mission.  Recall its claim about §922(g)(3)’s “why.”  The gov-
+ernment argues that, consistent with historical laws,
+§922(g)(3)’s unlawful user provision disarms individuals
+who are, as a “category,” “violen[t]” and “unusually danger-
+ous.” Brief for United States 4, 10–11.  So far, we have spot-
+ted the government its assertion about §922(g)(3)’s purpose.
+But there are at least two reasons to doubt it has estab -
+lished even that much.
+The first has to do with §922(g)(3)’s reliance on the CSA.
+The former does not define its own category of people to dis-
+arm. Instead, according to the government, it disarms an -
+yone who regularly uses any drug found on any CSA sched-
+ule for something other than its “prescribed purpose.”  Tr.
+of Oral Arg. 57. The CSA, in turn, was adopted to protect
+“the health and general welfare of the American people.”  21
+U. S. C. §801(2).  Drugs can be added to its schedules for a
+variety of reasons having little or nothing to do with their
+potential to induce violence—reasons that include “[t]he
+state of current scientific kn owledge” about a substance,
+whether that substance “is an immediate precursor” to an-
+other controlled substance, and the risk to “public health.”
+§811(c). Without question, some unlawful users of con-
+trolled substances can pose a risk of violence. But, by de-
+fining its scope through the CSA—a statute animated by a
+variety of other concerns—it is  far from obvious that 18
+U. S. C. §922(g)(3) confines its reach to those who are cate-
+gorically and unusually dangerous.
+——————
+District of Columbia v. Heller, 554 U. S. 570, 626 (2008).  Likewise, our
+conclusion today should not be taken to suggest “that the Second Amend-
+ment prohibits the enactment of laws banning the possession of guns by
+categories of persons thought by a legislature to present a special danger
+of misuse.” United States v. Rahimi, 602 U. S. 680, 698 (2024).  The
+problem in this case is simply that the historic al evidence the govern-
+ment presents does not support the categorical restriction it urges.
+
+17  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+The second reason has to do with the government’s ap-
+proach to the drug at issue here . As this case came to us,
+marijuana was listed on Schedule I—a schedule reserved
+for drugs with “a high potential for abuse” with “no cur-
+rently accepted medical use.”  21 U. S. C. §812(b)(1).  But
+after we heard oral argument, the government moved some
+marijuana products to Schedule III, 91 Fed. Reg. 22714
+(2026), a schedule that applies to drugs with a lower poten-
+tial for dependence and abuse and for which a “currently
+accepted medical use” exists, §812(b)(3).  Years before that,
+too, the Department of Justice issued a memorandum di-
+recting federal prosecutors nationwide to curtail their en-
+forcement efforts against marijuana users even while all
+marijuana products remained on Schedule I.  Attorney Gen-
+eral Memo (Aug. 29, 2013).
+Seismic changes followed that memorandum.  While ma-
+rijuana use largely remained unlawful under federal law,
+the number of federal offenders sentenced for possession of
+marijuana dwindled. See United States Sentencing Com-
+mission, Interactive Data Analyzer.  And most States re -
+sponded by legalizing marijuana use to one degree or an-
+other as a matter of state law. See Nat. Conf. of State
+Legislatures, State Medical Cannabis Laws (June 27, 2025)
+(“Forty states, three territories and the District of Colum -
+bia” have legalized some marijuana use).  As a result, some
+surveys suggest there now may be more adults in this coun-
+try who regularly use marijuana than consume alcohol.
+See, e.g., J. Caulkins, Changes in Self-Reported Cannabis
+Use in the United States from 1979 to 2022, 119 Addiction
+1648 (2024) (finding, for the first time in 2022, more indi-
+viduals who self-report daily or near-daily marijuana use
+than alcohol use). Whatever one thinks of these develop -
+ments, the federal government has not just tolerated them;
+it helped fuel them. All of which leaves it awkwardly posi-
+tioned to suggest that the millions of Americans who now
+
+regularly use marijuana are categorically and unusually
+dangerous.
+In saying this much, we do  not question that sometimes
+an individual’s unlawful use of marijuana (or any other con-
+trolled substance) may render him a danger to others.  But,
+again, the government disclaims the need to show anything
+like that in this case. Instead, it asks us to conclude that
+anyone who regularly uses marijuana is categorically vio-
+lent and dangerous without any further showing. All based
+on little more than its current say-so, one at odds with its
+own regulatory actions.  And affording the government that
+kind of “broad power to designate any group as dangerous
+and thereby disqualify its members from having a gun”
+would risk allowing it to “quickly swallow” the Second
+Amendment. Kanter v. Barr, 919 F. 3d 437, 465 (CA7 2019)
+(Barrett, J., dissenting).
+*
+In many respects, this case is a narrow one. We do not
+address efforts to ban addicts, see n. 2, supra, or those pres-
+ently intoxicated, from possessing a firearm.  We do not ad-
+dress other prophylactic laws Congress might adopt after
+determining that users of a particular drug pose a special
+risk of misusing firearms. See n. 6, supra. We do not ad-
+dress 18 U. S. C. §922(g)(1)’s provision disarming individu-
+als convicted of felonies (often including drug-related ones).
+Ibid.  We do not even address whether the government
+could bring a prosecution under §922(g)(3) accompanied by
+individualized proof that the defendant’s use of marijuana
+(or any other drug) renders him a danger to himself or oth-
+ers. Or proof that a certain drug always renders its users
+dangerous because of its potency or for some other reason.
+None of those issues is before us and we do not pass on them
+either way.
+All that is before us is one, if surely ambitious, theory.
+The government maintains that it may automatically strip
+
+19  Cite as: 608 U. S. ____ (2026)
+Opinion of the Court
+Mr. Hemani of his Second Amendment right to possess a
+firearm because he uses marijuana a few times a week.
+More than that, because he possessed a gun despite this
+prohibition, the government insists it may imprison him for
+up to 15 years and disarm him for life. According to the
+government, none of this turns on how much marijuana Mr.
+Hemani uses or what effect it has on him.  It makes no dif-
+ference either if he keeps a firearm only in his home for self-
+defense, never misuses a gun while intoxicated, and never
+poses a danger to himself or others as a result of his mari-
+juana use. The only thing the government must show, it
+says, is that an individual like Mr. Hemani regularly uses
+any amount of any controlled substance.
+To square that expansive theory with the Second Amend-
+ment, the government invites us to draw an analogy be-
+tween its present regulation and historical laws addressing
+habitual drunkards. Those laws, the government contends,
+demonstrate a tradition of fi rearm regulation consistent
+with its effort to disarm any regular user of any controlled
+substance without any further showing.  But the govern-
+ment’s analogy fails under every measure it asks us to con-
+sider: The historical laws on which it relies targeted differ-
+ent kinds of people, did so for different reasons, and
+operated in different ways.  And faced with all these short-
+comings in the government’s submission, we cannot say it
+has carried its conceded burde n of showing its prosecution
+of Mr. Hemani complies with the Second Amendment.
+The judgment of the Fifth Circuit is affirmed.
+It is so ordered.

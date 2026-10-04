@@ -1,0 +1,74 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — Kavanaugh, J., concurring in part
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+brief, Zubaydah claims already to have “abundant evidence”
+of his “detention and torture on Polish soil.” Brief for Re-
+spondents 11. Similarly, at argument, Zubaydah's counsel
+represented that Polish authorities have “interviewed 62
+people” and “amassed 43 volumes of documents.” Tr. of
+Oral Arg. 44. His counsel further explained: “We're simply
+trying to supplement information” the Polish prosecutor “al-
+ready has.” Id., at 66. In light of these admissions, it is
+clear that Zubaydah has already “adduce[d] the essential
+facts” that he believes are necessary to support the Polish
+prosecution. Reynolds, 345 U. S., at 11. His desire “simply
+. . . to supplement” a foreign investigation, Tr. of Oral Arg.
+66, cannot establish the “immediat[e] and essentia[l]” need
+required to overcome the Government's formal invocation of
+the state-secrets privilege, Burr, 25 F. Cas., at 37.
+* * *
+I would hold that Abu Zubaydah has demonstrated only
+“a dubious showing of necessity” for the discovery he seeks
+in this case. Reynolds, 345 U. S., at 11. For that reason
+alone, dismissal of Zubaydah's discovery application is re-
+quired. I, therefore, join only Part IV of the Court's
+opinion.
+Justice Kavanaugh, with whom Justice Barrett joins,
+concurring in part.
+I join all but Part II–B–2 of the Court's opinion. I add
+this brief concurrence simply to be clear about my under-
+standing of how the “formula of compromise” articulated in
+Reynolds works in practice. United States v. Reynolds, 345
+U. S. 1, 9 (1953).
+For the state secrets privilege to apply , the relevant gov-
+ernment agency head must first assert the privilege. The
+court must then determine that the “circumstances indicat[e]
+a reasonable possibility” that state secrets are involved.
+Id., at 11. That threshold judicial inquiry is not demanding
+because, as our precedent and this case illustrate, those cir-
+cumstances are typically self-evident when the Executive
+Branch asserts the state secrets privilege. See, e. g., id., at
+10; Totten v. United States, 92 U. S. 105, 106–107 (1876).
+At that point, the court must accept the Executive
+Branch's assertion of privilege without further inquiry if the
+requester has shown only a “dubious” need for the requested
+information. Reynolds, 345 U. S., at 11. In many state se-
+crets disputes, the case ends there—again, this case proves
+the point. See Part III, ante. If the requester has demon-
+strated a “strong” need for the information, the court may
+under certain circumstances review the requested docu-
+ments in camera to confirm that the information falls within
+the privilege. Reynolds, 345 U. S., at 10−11. To be clear,
+however, even if the requester has a strong need, a court
+should nonetheless not demand to examine the evidence—
+even “alone, in chambers”—if the Government can “satisfy
+the court, from all the circumstances of the case, that there
+is a reasonable danger that compulsion of the evidence will
+expose military matters which, in the interest of national
+security, should not be divulged.” Id., at 10; see also id., at
+11, n. 26 (noting that in Totten, “[t]he action was dismissed
+on the pleadings” because “it was so obvious” that “the very
+subject matter of the action, a contract to perform espionage,
+was a matter of state secret”).
+In all events, once the court determines that the requested
+information falls within the state secrets privilege, “even the
+most compelling necessity” cannot overcome the privilege.
+Reynolds, 345 U. S., at 11; see also Totten, 92 U. S. 105. The
+privilege is absolute, not qualified.
+In state secrets cases, a court's review from start to finish
+must be deferential to the Executive Branch. As this Court
+has long explained, the courts “have traditionally shown the
+utmost deference to Presidential responsibilities” in cases in-
+volving “military or diplomatic secrets,” United States v.
+Nixon, 418 U. S. 683, 710 (1974), and “have been reluctant to

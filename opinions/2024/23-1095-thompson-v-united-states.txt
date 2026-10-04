@@ -1,0 +1,284 @@
+Thompson v. United States — No. 23-1095 — October Term 2024 — decided 3/21/25 — opinion of the Court — author Roberts (listing code R)
+Citation: 604 U.S. 408
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r18_9p6b.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+cipal Deputy Assistant Attorney General Argentieri, Dep-
+uty Solicitor General Feigin, and Sofa M. Vickery .*
+Chief Justice Roberts delivered the opinion of the
+Court.
+Patrick Thompson took out three loans totaling $219,000
+from the same bank. Later, Thompson told the Federal De-
+posit Insurance Corporation (FDIC) that he had “borrowed
+. . . $110,000” from the bank. Thompson was indicted under
+18 U. S. C. § 1014 for making “false statement[s]” to the
+FDIC. Thompson argued that his statements were not false
+because he had in fact taken out a loan for $110,000 just as
+he said. Both the District Court and the Seventh Circuit
+held that they did not need to consider that argument. In
+their view, the prohibition in § 1014 against “false state-
+ment[s]” extends to misleading ones as well, and Thompson's
+statements were at least misleading in failing to mention the
+additional loans. The question presented is whether § 1014
+criminalizes statements that are misleading but not false.
+I
+A
+Between 2011 and 2014, Patrick Thompson took out three
+loans from the Washington Federal Bank for Savings.
+Thompson first borrowed $110,000 in 2011 to make an equity
+contribution to a law firm. Thompson then borrowed
+$20,000 from the Bank in 2013 and another $89,000 in 2014,
+resulting in a total loan balance of $219,000. In 2017, the
+Bank failed, and the FDIC became responsible for collecting
+the Bank's outstanding loans. As part of that process, the
+FDIC's loan servicer—Planet Home Lending—sent Thomp-
+son an invoice in February 2018 listing a balance due of
+*Briefs of amici curiae urging reversal were fled for the National Asso-
+ciation of Criminal Defense Lawyers by Steven F. Molo , Eugene A. Soko-
+loff, and Jeffrey T. Greene; and for Joel S. Johnson, pro se.
+$269,120.58, which consisted of the $219,000 Thompson had
+borrowed plus interest.
+On February 23, 2018, Thompson called the customer serv-
+ice line of Planet Home Lending. During the call, which was
+recorded, Thompson told the customer service agent that he
+had “no idea where the 269 number comes from.” App. 52.
+Thompson said, “I borrowed the money, I owe the money—
+but I borrowed . . . I think it was $110,000.” Id., at 56.
+Thompson agreed with the agent that he was claiming a “dis-
+crepancy,” and said that he was “disput[ing]” the balance
+listed on the invoice. Id., at 53, 61. The agent told Thomp-
+son that Planet Home Lending would research the issue.
+Id., at 62.
+On March 1, 2018, Thompson received a call from two
+FDIC contractors. The call was not recorded, but the con-
+tractors took notes. According to those notes, Thompson
+mentioned borrowing $110,000 for “home improvement.”
+Id., at 138.
+Thompson and the FDIC ultimately agreed to settle
+Thompson's debt for $219,000—the principal amount of his
+loans.
+B
+Thompson was later charged with two counts of violat-
+ing 18 U. S. C. § 1014. That statute prohibits “knowingly
+mak[ing] any false statement or report . . . for the purpose of
+infuencing in any way the action of . . . the Federal Deposit
+Insurance Corporation . . . upon any . . . loan.” Count one
+of the indictment alleged that on the February 23 phone call,
+Thompson “falsely stated he only owed . . . $110,000 to [the
+Bank] and that any higher amount was incorrect, when [he]
+then knew he had received $219,000.” App. 4. Count two
+alleged that on the March 1 phone call, Thompson “falsely
+stated that he only owed $110,000 to [the Bank], that any
+higher amount was incorrect, and that these funds were for
+home improvement, when [he] then knew he had received
+$219,000 from [the Bank] and the $110,000 was paid to a law
+frm as [his] capital contribution.” Id., at 5.
+The jury found Thompson guilty on both counts. He
+moved for acquittal or a new trial, arguing that a “conviction
+for false statements cannot be sustained where, as here, the
+alleged statements are literally true, even if misleading.”
+Defendant's Post-Trial Motion for Judgment of Acquittal and
+for New Trial in No. 1:21–cr–00279 (ND Ill., Mar. 17, 2022),
+ECF Doc. 154, p. 7. Thompson argued that his statements
+about borrowing $110,000 were literally true because he had
+in fact borrowed that amount of money from the Bank, even
+though he later borrowed more. Id., at 10–11.*
+The District Court denied Thompson's motion. It found
+that “the Seventh Circuit does not require literal falsity in
+Section 1014 cases.” App. to Pet. for Cert. 52a (citing
+United States v. Freed, 921 F. 3d 716, 723 (CA7 2019)). The
+District Court acknowledged that “Thompson's argument
+would have more traction” in the Sixth Circuit, where “a
+Section 1014 conviction cannot rest on material omissions or
+implied misrepresentations.” App. to Pet. for Cert. 52a (cit-
+ing United States v. Kurlemann, 736 F. 3d 439 (CA6 2013)).
+But the District Court concluded that Thompson had “failed
+to direct the Court to a Supreme Court case or Seventh Cir-
+cuit case that holds that a Section 1014 conviction requires a
+literally false statement.” App. to Pet. for Cert. 52a. The
+District Court therefore found it unnecessary to “address the
+Government's argument that Thompson's statements were
+literally false,” because “literal falsity is not required to sus-
+tain a Section 1014 conviction.” Id., at 56a.
+The Seventh Circuit affirmed. Like the District Court,
+the Seventh Circuit concluded that it “need not decide
+whether Thompson's statements were literally true because
+his argument runs headfrst into [Seventh Circuit] prece-
+*Thompson did not argue that his alleged statement about “home im-
+provement” was a true statement. See also Tr. of Oral Arg. 28 (“That is
+a false statement.”).
+dent.” 89 F. 4th 1010, 1016 (2024). According to the panel,
+the Seventh Circuit had “already decided [in Freed] that
+§ 1014 criminalizes misleading representations.” Ibid. The
+panel found that Thompson's statements were misleading be-
+cause “the implication of his statements was that he owed
+[the Bank] no more than $110,000.” Id., at 1017. The panel
+acknowledged the Sixth Circuit's contrary holding in United
+States v. Kurlemann, 736 F. 3d 439, but it concluded that
+it was bound by Seventh Circuit precedent. 89 F. 4th, at
+1017–1018.
+We granted certiorari to determine whether § 1014 crimi-
+nalizes statements that are misleading but not false. 603
+U. S. 948 (2024).
+II
+A
+We start with the text. Section 1014 criminalizes “know-
+ingly mak[ing] any false statement or report.” It does not
+use the word “misleading.” Yet false and misleading are
+two different things. A misleading statement can be true.
+See Peel v. Attorney Registration and Disciplinary
+Comm'n of Ill., 496 U. S. 91, 102 (1990) (noting that a “state-
+ment, even if true, could be misleading”). And a true state-
+ment is obviously not false. See Victor v. Nebraska, 511
+U. S. 1, 10 (1994) (“[T]o suppose that the same proposition is
+both true and false . . . is manifestly absurd.” (quoting 1
+Works of James Wilson 519 (J. Andrews ed. 1896))). So basic
+logic dictates that at least some misleading statements are
+not false.
+The Government agrees with this principle, and even sug-
+gested an example at oral argument: If a tennis player says
+she “won the championship” when her opponent forfeited,
+her statement—even if true—might be misleading because
+it could lead people to think she had won a contested match.
+Tr. of Oral Arg. 69. The Government also agreed at oral
+argument with another example: If a doctor tells a patient,
+“I've done a hundred of these surgeries,” when 99 of those
+patients died, the statement—even if true—would be mis-
+leading because it might lead people to think those surgeries
+were successful. Id., at 71.
+Given that some misleading statements are also true, it is
+significant that the statute uses only the word “false.” If
+that word means anything, it means “not true,” both today
+and in 1948 when the statute was enacted. Black's Law Dic-
+tionary 742 (12th ed. 2024) (“Untrue <a false statement>”);
+id., at 721 (4th ed. 1951) (“Not true”). Just as a matter of
+plain text, then, a statement that is misleading but true is
+by definition not a “false statement.”
+Adding “any” before “false statement” does not change
+that result. Contra, Brief for United States 19–20. Cer-
+tainly, “any” has an “expansive meaning.” Department of
+Housing and Urban Development v. Rucker, 535 U. S. 125,
+131 (2002) (quoting United States v. Gonzales, 520 U. S. 1, 5
+(1997)). But “[e]xpansive, yes; transformative, no.” Free-
+man v. Quicken Loans, Inc., 566 U. S. 624, 635 (2012). A
+statute that applies to “any Ford owner” does not cover all
+car owners, because the car must still be a Ford. So too a
+statute that applies to “any false statement” does not cover
+all misleading statements, because the statement must still
+be false. See Brogan v. United States, 522 U. S. 398, 400
+(1998) (defining “ `any' false statement” as “a false statement
+`of whatever kind' ” (quoting Gonzales, 520 U. S., at 5; empha-
+sis added)).
+The Government wisely agrees that “false” means “not
+true.” Brief for United States 14. But, dictionary in hand,
+the Government notes that “false” can also mean “deceitful.”
+Id., at 15 (quoting Black's Law Dictionary 748 (3d ed. 1933);
+alterations omitted). And, thesaurus in the other hand, the
+Government adds that “false and misleading have long been
+considered synonyms.” Brief for United States 26 (citing
+Webster's Dictionary of Synonyms 327, 549–550 (1942)).
+Absent from the Government's account, however, is the fact
+that some misleading statements are not false, as the Gov-
+ernment acknowledged at oral argument. Tr. of Oral Arg.
+68. Given that fact, the Government's textual arguments
+simply point out the “substantial overlap” between the two
+terms. Brief for United States 26. That overlap is beside
+the point. Certainly, the statute's prohibition on “false
+statement[s]” could reach some statements that are “mis-
+lead[ing],” “deceitful,” “deceptive,” or “mendacious,” id., at
+15, but only because those particular statements are also
+false. Regardless of whether other adjectives apply, the
+only relevant question according to the text of the statute is
+whether the statement is “false.”
+B
+Statutory context confirms that § 1014 does not cover all
+misleading statements. Again, the statute uses the word
+“false.” It does not use “misleading.” Many other statutes
+do, including other criminal statutes in Title 18 of the U. S.
+Code. See, e. g., 18 U. S. C. § 1038(a) (“convey false or mis-
+leading information”); § 1365(b) (“renders materially false or
+misleading the labeling of . . . a consumer product”); § 1515(b)
+(“making a false or misleading statement”); see also Securi-
+ties Act of 1933, 48 Stat. 84–85, as amended, 15 U. S. C.
+§ 77q(a)(2) (prohibiting obtaining property through “any un-
+true statement of a material fact” or “any omission” that
+renders a statement “misleading”). Interpreting the word
+“false” to include “misleading” would make the inclusion of
+“misleading” in those statutes superfluous. See Gustafson
+v. Alloyd Co., 513 U. S. 561, 574 (1995) (“[T]he Court will
+avoid a reading which renders some words altogether
+redundant.”).
+Context from the time of enactment of § 1014 further con-
+frms that the statute does not reach all misleading state-
+ments. As we explained in a previous case, “Congress origi-
+nally enacted § 1014 as part of its recodifcation of the federal
+criminal code in 1948.” United States v. Wells, 519 U. S. 482,
+492 (1997). Eleven of the thirteen provisions brought to-
+gether by § 1014 prohibited “false” statements, and none
+used the word “misleading,” see 7 U. S. C. §§ 1026(a), 1514(a)
+(1946 ed.); 12 U. S. C. §§ 596, 981, 1122, 1138d(a), 1248, 1312,
+1441(a), 1467(a) (1946 ed.); 15 U. S. C. § 616(a) (1946 ed.).
+These predecessor statutes were all enacted in the decades
+prior to 1948. Many other statutes enacted in the same pe-
+riod used the phrase “false or misleading.” See, e. g., Perish-
+able Agricultural Commodities Act, 1930, § 2(4), 46 Stat. 532;
+Public Utility Act of 1935, § 16(a), 49 Stat. 829; Federal Food,
+Drug, and Cosmetic Act of 1938, § 602(a), 52 Stat. 1054. The
+language of these other statutes shows that when Congress
+intended to cover all misleading statements, “it knew how to
+do so.” Custis v. United States, 511 U. S. 485, 492 (1994).
+C
+Precedent supports our reading of the text. For example,
+in United States v. Wells, 519 U. S. 482, we held that § 1014
+does not incorporate a materiality requirement because the
+statute does not “so much as mention materiality,” whereas
+many other statutes do. Id., at 490, 492. The same logic
+suggests that § 1014 does not reach all misleading
+statements.
+Our decision in Williams v. United States, 458 U. S. 279
+(1982), is also instructive. The defendant in that case depos-
+ited several bad checks, then was convicted under § 1014 on
+the theory that he falsely represented having more money
+than he had. See id., at 283. We reversed the conviction
+because the defendant's “course of conduct did not involve
+the making of a `false statement' ” for the “simple reason”
+that “a check is not a factual assertion at all, and therefore
+cannot be characterized as `true' or `false.' ” Id., at 284.
+That logic shows that a conviction under § 1014 requires at
+least two things: (1) the defendant made a statement, and (2)
+that statement can be characterized as “false” and not
+“true.” The dissent in Williams observed that this reason-
+ing “would apply equally to material omissions.” Id., at 296
+(opinion of Marshall, J.). Precisely so. If a material omis-
+sion renders a statement misleading, § 1014 still does not
+cover that statement unless it can be characterized as “false”
+and not “true.” A statement that is true but misleading
+does not ft the bill.
+The Government contends that one of our precedents
+points in the opposite direction. In Kay v. United States,
+303 U. S. 1 (1938), this Court described a predecessor statute
+to § 1014 as “secur[ing] protection against false and mislead-
+ing representations,” even though that statute used only the
+word “false.” Id., at 7 (emphasis added); see also id., at 3,
+n. 1. Indeed, as the Government points out, this Court used
+the word “misleading” (or “mislead”) several times through-
+out the opinion. Id., at 6, 7, 8. But nearly every time the
+word appears, it describes a person's intent while making
+a false statement, not the statement itself. See id., at 5–6
+(“making false statements with intent to mislead”); id., at 6
+(“falsely with intent to mislead”); id., at 7 (“false statements
+designed to mislead”). And in describing the statute as “se-
+cur[ing] protections against false and misleading representa-
+tions,” the Court used the word “and” rather than “or.” Id.,
+at 7; see also id., at 8. Kay thus did not suggest that
+misleading statements were independently unlawful under
+§ 1014's predecessor. Instead, the Government's argument
+about Kay again comes down to the overlap between false
+and misleading. Certainly, a statute that criminalizes
+“false” statements also criminalizes statements that are both
+false and misleading, or false statements made with intent
+to mislead. But the question before us is whether such a
+statute also criminalizes statements that are misleading but
+not false. The answer to that question must be no.
+III
+The Government argues that we should affirm on the al-
+ternative basis that Thompson's statements were false. But

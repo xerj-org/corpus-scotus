@@ -1,0 +1,425 @@
+Badgerow v. Walters — No. 20-1143 — October Term 2021 — decided 3/31/22 — Breyer, J., dissenting
+Citation: 596 U.S. 1
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r20_f2ag.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+to properly enforce arbitral awards. In our turn, we must
+respect that evident congressional choice.
+* * *
+For the reasons stated, we reverse the judgment of the
+Court of Appeals for the Fifth Circuit and remand the case
+for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Breyer, dissenting.
+When interpreting a statute, it is often helpful to consider
+not simply the statute's literal words, but also the statute's
+purposes and the likely consequences of our interpretation.
+Otherwise, we risk adopting an interpretation that, even if
+consistent with text, creates unnecessary complexity and
+confusion. That, I fear, is what the majority's interpretation
+here will do. I consequently dissent.
+I
+The question presented arises in the context of the Fed-
+eral Arbitration Act (FAA). 9 U. S. C. § 1 et seq. The ques-
+tion is technical and jurisdictional: How does a federal court
+determine whether it has jurisdiction to consider a motion to
+confirm or vacate an arbitration award? The FAA contains
+several sections that seem to empower a federal court to
+take certain specified actions related to arbitration proceed-
+ings. These include Section 4, which gives “any United
+States district court” the power to “order” parties to a writ-
+ten arbitration agreement to “proceed” to arbitration; Sec-
+tion 5, which gives “the court” the power to “designate and
+appoint an arbitrator”; Section 7, which gives “the United
+States district court for the district” in which an arbitrator
+is sitting the power to “compel the attendance” of witnesses
+whom the arbitrator has “summoned”; Section 9, which gives
+“the United States court in and for the district within which”
+an arbitration award “was made” the power to enter an
+“order confirming the award”; Section 10, which gives “the
+United States court in and for the district wherein the [arbi-
+tration] award was made” the power to “make an order va-
+cating the award”; and Section 11, which gives “the United
+States court in and for the district wherein the [arbitration]
+award was made” the power to “modifi[y] or correc[t] the
+award.” 9 U. S. C. §§ 4, 5, 7, 9, 10, 11. (Here, as throughout,
+I have simplifed the descriptions of the FAA's sections; the
+Appendix, infra, contains the full relevant statutory lan-
+guage.) This case directly concerns jurisdiction under Sec-
+tions 9 and 10, but the Court's reasoning applies to all the
+sections just mentioned.
+At first blush, one might wonder why there is any question
+about whether a federal court has jurisdiction to consider
+requests that it act pursuant to these sections. The sec-
+tions' language seems explicitly to give federal courts the
+power to take such actions. Why does that language itself
+not also grant jurisdiction to act? The answer, as the Court
+notes, is that we have held that the FAA's “authorization of
+a petition does not itself create jurisdiction.” Ante, at 4.
+“Rather, the federal court must have what we have called
+an `independent jurisdictional basis' to resolve the matter.”
+Ibid. (quoting Hall Street Associates, L. L. C. v. Mattel, Inc.,
+552 U. S. 576, 582 (2008)).
+We made clear how this works in Vaden v. Discover Bank,
+556 U. S. 49 (2009), a case involving Section 4. As just
+noted, Section 4 gives a district court the power to order
+parties (who have entered into a written arbitration agree-
+ment) to submit to arbitration. We held “that a federal
+court should determine its jurisdiction by `looking through'
+a § 4 petition to the parties' underlying substantive contro-
+versy.” Id., at 62. The court asks whether it would have
+jurisdiction over that controversy, namely, whether that un-
+derlying substantive controversy involves a federal question
+or diversity (a dispute between parties from different States
+with a value of more than $75,000). See 28 U. S. C. §§ 1331,
+1332. If so, then the federal court has jurisdiction over a
+Section 4 petition asking the court to order the parties to
+resolve that controversy in arbitration.
+The Vaden Court gave two reasons for adopting this “look-
+through” approach. The first, as the majority today empha-
+sizes, was textual. See 556 U. S., at 62. Section 4 says that
+a party seeking arbitration may petition for an order compel-
+ling arbitration from
+“any United States district court which, save for [the
+arbitration] agreement, would have jurisdiction . . . in a
+civil action . . . of the subject matter of a suit arising out
+of the controversy between the parties.” (Emphasis
+added.)
+The words “save for [the arbitration] agreement,” we rea-
+soned, tell a court not to find jurisdiction by looking to the
+petition to enforce the agreement itself, but instead to the
+underlying controversy between the parties. See id., at
+62–63.
+The second reason, which the majority today neglects, was
+practical. Id., at 65. To find jurisdiction only where the
+petition to enforce an arbitration agreement itself estab-
+lished federal jurisdiction, we explained, would result in “cu-
+rious practical consequences,” including unduly limiting the
+scope of Section 4 and hinging jurisdiction upon distinctions
+that were “ `totally artificial.' ” Ibid. (quoting 1 I. MacNeil,
+R. Speidel, & T. Stipanowich, Federal Arbitration Law
+§ 9.2.3.3, p. 9:21 (1995) (hereinafter MacNeil)).
+Today, the majority holds that this look-through approach
+does not apply to Section 9 or 10 because those sections lack
+Section 4's “save for” language. Ante, at 5. This reasoning
+necessarily extends to Sections 5, 7, and 11 as well, for those
+sections, too, lack Sections 4's “save for” language. Ibid.
+(“Without [Section 4's] statutory instruction, a court may
+look only to the application actually submitted to it in assess-
+ing its jurisdiction”). Although this result may be consist-
+ent with the statute's text, it creates what Vaden feared—
+curious consequences and artificial distinctions. See 556
+U. S., at 65. It also creates what I fear will be consequences
+that are overly complex and impractical.
+II
+I would use the look-through approach to determine juris-
+diction under each of the FAA's related provisions—Sections
+4, 5, 7, 9, 10, and 11. Doing so would avoid the same kinds
+of “curious practical consequences” that drove the Vaden
+Court to adopt the look-through approach in the first place.
+Ibid.; see also Cortez Byrd Chips, Inc. v. Bill Harbert Constr.
+Co., 529 U. S. 193, 202 (2000) (rejecting interpretation of the
+FAA that “would create anomalous results”). Most notably,
+this approach would provide a harmonious and compara-
+tively simple jurisdiction-determining rule—advantages that
+the majority's jurisdictional scheme seems to lack. Cf.
+Hertz Corp. v. Friend, 559 U. S. 77, 94 (2010) (rejecting
+“[c]omplex jurisdictional tests” in favor of “straightforward”
+and “[s]imple jurisdictional rules”).
+Consider some of the likely consequences of the majority's
+reading, which applies the look-through approach only to
+Section 4 (where the “save for” language appears), but not
+to the FAA's other sections (where it does not appear).
+First, consider Section 5. That section says that, upon
+application of one of the parties to an arbitration agreement,
+“the court shall designate and appoint an arbitrator.” 9
+U. S. C. § 5 (emphasis added). What happens when the look-
+through approach shows that the underlying controversy
+raises a federal question, but the application to appoint an
+arbitrator raises no federal question and does not establish
+diversity? A party could ask a federal judge to order arbi-
+tration under Section 4, but they could not then ask that
+same (or any other) federal judge to appoint an arbitrator
+for that very same arbitration under Section 5. That does
+not seem to be what Congress had in mind for these neigh-
+boring provisions—provisions that appear to assume that a
+judge can appoint an arbitrator in tandem with ordering par-
+ties to arbitration. Moreover, how is a federal court to de-
+termine, for diversity jurisdiction purposes, the amount at
+stake in a motion to appoint an arbitrator without a look-
+through approach? Surely not by assessing the value of the
+arbitrator's request for pay.
+Second, consider Section 7. It says that “upon petition
+the United States district court for the district in which” an
+arbitrator is sitting “may compel the attendance” of persons
+whom the arbitrator has “summoned.” § 7. Suppose that
+the underlying substantive controversy does not qualify for
+federal jurisdiction, meaning that a federal court would not
+have jurisdiction to order arbitration under Section 4. If
+arbitration proceeds by other means, can a federal judge
+nonetheless compel the attendance of a witness at that arbi-
+tration, based on diversity jurisdiction, if a request to do so
+shows that the summoned witness lives out of State? If
+there are two witnesses, one in State and one out of State,
+can the federal judge compel the attendance of the second,
+but not the first? Why would Congress have wanted parties
+to toggle between federal and state court when seeking judi-
+cial enforcement of summons issued during a single
+arbitration?
+And at a more basic level, who are the relevant parties to a
+Section 7 request when determining, for diversity purposes,
+whether the Section 7 dispute is between citizens of different
+States? The arbitrator and summoned witness? The par-
+ties in arbitration? Only the “summoning” party and the
+witness? Compare Washington National Insurance Co. v.
+OBEX Group LLC, 958 F. 3d 126, 134 (CA2 2020) (evaluating
+diversity based on summoning party and witness), with
+Amgen, Inc. v. Kidney Center of Del. Cty. Ltd., 95 F. 3d 562,
+567–568 (CA7 1996) (evaluating diversity based on parties in
+arbitration). And assume that a federal court finds it does
+have jurisdiction over a Section 7 request, even though the
+underlying controversy involves neither a federal question
+nor diversity. “Why would Congress have wanted federal
+courts to intervene to enforce a subpoena issued in an arbi-
+tration proceeding involving a controversy that itself is not
+important enough, from a federalism standpoint, to warrant
+federal-court oversight?” Maine Community Health Op-
+tions v. Albertsons Cos., 993 F. 3d 720, 726 (CA9 2021) (Wat-
+ford, J., concurring).
+Moreover, diversity jurisdiction requires not only that the
+relevant parties be from different States but also that the
+amount in controversy exceed $75,000. See 28 U. S. C.
+§ 1332(a). How does a federal judge determine whether
+summoning a witness is itself worth $75,000? By examining
+the value of what the witness might say? By accounting for
+travel expenses? See Maine Community Health, 993 F. 3d,
+at 723–724. As courts have recognized, there is “very little
+case law to guide [them] in determining whether enforce-
+ment of an arbitration subpoena against a third party will
+enable someone to recover more than $75,000 in an arbitra-
+tion dispute with a different party.” Id., at 726 (Watford, J.,
+concurring). These and other jurisdiction-related questions
+do not arise if a federal judge can simply follow Vaden's prin-
+ciple for all FAA motions: Look through the motions and
+determine whether there is federal jurisdiction over the un-
+derlying substantive controversy. See 556 U. S., at 62–63.
+Third, consider now Sections 9 and 10, the FAA sections
+directly before us, along with Section 11. Section 9 gives
+“the United States court in and for the district within which
+[an arbitration] award was made” the power to issue “an
+order confirming the award.” Section 10 gives the same
+court the power to “vacat[e]” the award for certain specified
+reasons. And Section 11 gives that court the power to
+“modifi[y] or correc[t] the award.” Where the parties' un-
+derlying dispute involves a federal question (but the parties
+are not diverse), the majority holds that a party can ask a
+federal court to order arbitration under Section 4, but it can-
+not ask that same court to confirm, vacate, or modify the
+order resulting from that arbitration under Section 9, 10, or
+11. But why prohibit a federal court from considering the
+results of the very arbitration it has ordered and is likely
+familiar with? Why force the parties to obtain relief—con-
+cerning arbitration of an underlying federal-question dis-
+pute—from a state court unfamiliar with the matter?
+Or suppose that a party asks a federal court to vacate an
+arbitration award under Section 10 because the arbitrator
+“refus[ed] to hear evidence pertinent and material to the con-
+troversy.” § 10(a)(3). To determine at least one important
+aspect of diversity jurisdiction—the amount in contro -
+versy—must the court not look to the underlying dispute?
+The same question arises with respect to a Section 11 motion
+to modify an arbitral award on the ground that it “is imper-
+fect in matter of form not affecting the merits of the contro-
+versy.” § 11(c).
+The majority says that these and other problems require
+only that the parties bring their FAA requests to state
+courts. Ante, at 17–18. But we cannot be sure that state
+courts have the same powers under the FAA that federal
+courts have. The FAA says nothing about state courts; it
+only explicitly mentions federal courts. See § 7 (“United
+States district court”); § 9 (“the United States court”); § 10
+(same); § 11 (same). We have never held that the FAA provi-
+sions I have discussed apply in state courts, and at least one
+Member of this Court has concluded that they do not apply
+there. See, e. g., DIRECTV, Inc. v. Imburgia, 577 U. S.
+47, 59 (2015) (Thomas, J ., dissenting). State courts have
+reached similar conclusions. See, e. g., Cable Connection,
+Inc. v. DIRECTV, Inc., 44 Cal. 4th 1334, 1351, 190 P. 3d 586,
+597 (2008) (holding that §§ 4, 10, and 11 apply only in federal
+court); In re Beck's Superior Hybrids, Inc., 940 N. E. 2d
+352, 362–363 (Ind. App. 2011) (same for § 7); Henderson v.
+Summerville Ford-Mercury Inc., 405 S. C. 440, 450, 748 S. E.
+2d 221, 226 (2013) (same for § 9).
+Relatedly, the majority also notes, correctly, that Section
+9, 10, and 11 disputes about the enforceability of arbitral
+awards “typically involve only state law.” Ante, at 9. It
+thus makes sense, the majority says, that these disputes
+would belong primarily in state court. See ante, at 18. But
+the same can be said for Section 4 disputes about the enforce-
+ability of arbitration agreements. These, too, typically in-
+volve only questions of state law. That the dispute does not
+implicate federal questions thus does not explain why Con-
+gress would have wanted more federal court involvement at
+the Section 4 stage than during the later stages.
+It may be possible to eliminate some of these problems
+by using a federal-question lawsuit or Section 4 motion as a
+jurisdictional anchor. If a party to an arbitration agreement
+files a lawsuit in federal court but then is ordered to resolve
+the claims in arbitration, the federal court may stay the suit
+and possibly retain jurisdiction over related FAA motions.
+See § 3; Vaden, 556 U. S., at 65. Similarly, some courts have
+held that if a federal court adjudicates a Section 4 motion
+to order arbitration, the court retains jurisdiction over any
+subsequent, related FAA motions. See Maine Community
+Health, 993 F. 3d, at 725 (Watford, J., concurring); see also
+McCormick v. America Online , Inc., 909 F. 3d 677, 684 (CA4
+2018). But, as Vaden points out, to turn jurisdiction over
+these later motions on the presence or absence of a federal
+lawsuit or Section 4 motion is to turn jurisdiction on a “ `to-
+tally artificial distinction' ”—particularly when the very pur-
+pose of arbitration is to avoid litigation. 556 U. S., at 65
+(quoting 1 MacNeil § 9.2.3.3, at 9:21).
+I relate these practical difficulties in part to illustrate a
+more fundamental point. The majority has tried to split
+what is, or should be, a single jurisdictional atom—a single
+statute with connected parts, which parts give federal
+judges the power to facilitate a single arbitration proceeding
+from start to finish: to order arbitration; appoint an arbitra-
+tor; summon witnesses; and confirm, vacate, or modify an
+arbitration award. The need for simplicity, comprehension,
+workability, and fairness all suggest that these interrelated
+provisions should follow the same basic jurisdictional ap-
+proach, namely, as Vaden explains, the look-through
+approach.
+III
+The majority's interpretation is also at odds with what this
+Court has said about the purposes underlying the FAA. We
+have recognized that the statute reflects a clear “ `policy of
+rapid and unobstructed enforcement of arbitration agree-
+ments.' ” Cortez Byrd Chips, 529 U. S., at 201 (quoting
+Moses H. Cone Memorial Hospital v. Mercury Constr. Corp.,
+460 U. S. 1, 23 (1983)); see also id., at 22 (“Congress' clear
+intent, in the Arbitration Act, [was] to move the parties to
+an arbitrable dispute out of court and into arbitration as
+quickly and easily as possible”).
+We have thus interpreted the FAA to avoid “unnecessarily
+complicating the law and breeding litigation from a statute
+that seeks to avoid it.” Allied-Bruce Terminix Cos. v. Dob-
+son, 513 U. S. 265, 275 (1995). “Why,” we asked, “would
+Congress intend a test that risks the very kind of costs and
+delay through litigation . . . that Congress wrote the Act to
+help the parties avoid?” Id., at 278. In other words, the
+FAA is a “sphere” in which “uniformity in and of itself pro-
+vides [a] real advantage.” Ante, at 17.
+IV
+The majority's main point is straightforward: The text of
+the statute compels the result. As the majority rightly
+points out, we cannot disregard the statutory text or “ `over-
+come a clear statutory directive.' ” Ante, at 16 (quoting
+Brief for Respondents 44). A statute that says it applies
+only to “fsh” does not apply to turnips. The majority also
+rightly points out that the “save for” language setting forth
+the look-through approach appears only in Section 4, and
+does not appear in any of the later sections.
+That fact, however, does not produce the “clear statutory
+directive” upon which the majority relies. Nothing in the
+text prohibits us from applying Section 4's look-through ap-
+proach to the succeeding sections. The statute does not say
+that Section 4's jurisdictional rule applies only to Section
+4, or that the same look-through approach does not apply
+elsewhere. Nor does any other section provide its own ju-
+risdictional rule that would suggest Section 4's rule should
+not apply there.
+Moreover, when we consider Section 4's text setting forth
+the look-through approach, we “consider not only the bare
+meaning of the word[s] but also [their] placement and pur-
+pose in the statutory scheme.” Bailey v. United States, 516
+U. S. 137, 145 (1995), superseded by statute on other grounds
+as stated in Welch v. United States, 578 U. S. 120, 133 (2016).
+Various aspects of the FAA's text and structure suggest that
+Section 4's jurisdictional rule should apply throughout. Sec-
+tion 5, for example, which grants the power to appoint an
+arbitrator, simply refers to “the court.” Those words, most
+naturally read, refer to the same court to which the immedi-
+ately preceding section—Section 4—refers: a “United States
+district court” with jurisdiction as determined by the look-
+through approach. Requests under the FAA's various sec-
+tions are also generally described in the text as “applica-
+tions” or “motions.” See § 4 (“application”); § 5 (same); § 9
+(same); § 10 (same); § 11 (same); see also § 6; § 12 (“motion
+to vacate, modify, or correct”); § 13 (“application to confirm,
+modify, or correct”). This implies that the requests are all
+constituent parts of one broader enforcement proceeding, not
+standalone disputes meriting individual jurisdictional inquir-
+ies. See, e. g., In re Wild, 994 F. 3d 1244, 1257 (CA11 2021)
+(en banc) (“the term `motion' has never been commonly un-
+derstood to denote a vehicle for initiating a new and free-
+standing lawsuit”); A Modern Dictionary of the English Lan-
+guage 446 (1911) (“motion in court” means “an application to
+a court . . . to have a rule or order made which is necessary
+to the progress of the action”).
+And, more importantly, all the sections describe connected
+components of a single matter: a federal court's arbitration-
+related enforcement power. One can read these sections as
+a single whole, with each section providing one enforcement
+tool, and one section—Section 4—providing both an enforce-
+ment tool and a jurisdictional rule applicable to the entire
+toolbox. Read this way, the FAA provides one set of com-
+plementary mechanisms through which a federal court might
+facilitate a single arbitration—but only when the underlying
+substantive controversy is one that, jurisdictionally speak-
+ing, could be brought in a federal court had the parties not
+agreed to arbitrate. There is no language in any of the sec-
+tions that states, or suggests, that we cannot interpret the
+Act in this way.
+In brief, the text does not prevent us from reading the
+statute in a way that better reflects the statute's structure
+and better fulflls the statute's basic purposes. See Allied
+Bruce, 513 U. S., at 279 (adopting interpretation of FAA that
+“the statute's language permits” and that is more consistent
+with “[t]he Act's history”); Pierce v. Underwood, 487 U. S.
+552, 563 (1988) (adopting outcome “that the text of the stat-
+ute permits, and sound judicial administration counsels”).
+V
+The FAA's legislative history reinforces the view of the
+statute that I have just described. The Senate Report on
+the bill that became the FAA refers to the FAA's general
+purposes. It makes clear Congress' hope to avoid proce-
+dural complexity. It refers to parties' “desire to avoid the
+delay and expense of litigation.” S. Rep. No. 536, 68th
+Cong., 1st Sess., 3 (1924). Proponents of the bill thought it
+would successfully serve that purpose because it would pro-
+vide “very simple machinery”; “simplify legal matters”; offer
+“speedy” and “plain justice”; and allow “no opportunity for
+technical procedure.” Joint Hearings on S. 1005 et al. before
+the Subcommittees of the Committees on the Judiciary, 68th
+Cong., 1st Sess., 16, 26, 27, 36 (1924) (hereinafter Joint Hear-
+ings). These general purposes support a simplifed jurisdic-
+tional rule.
+The language of the House Report suggests more. It sug-
+gests that the bill created a single jurisdictional procedure,
+not a set of different procedures with distinct jurisdictional
+rules. The Report says that the bill “provides a procedure
+in the Federal courts for” enforcement of arbitration agree-
+ments. H. R. Rep. No. 96, 68th Cong., 1st Sess., 2 (1924)
+(emphasis added). “The procedure ,” the Report continues,
+“is very simple, . . . reducing technicality, delay, and ex-
+pense . . . .” Ibid. (emphasis added). That singular proce-
+dure, the Report explains, encompasses not only the initial
+request for a federal court to order arbitration under Section
+4, but subsequent requests to vacate or modify an arbitration
+award under Sections 10 and 11 as well. See ibid.
+The principal drafter of the bill made the same point yet
+more explicitly. He testifed that under the FAA, “Federal
+courts are given jurisdiction to enforce [arbitration] agree-
+ments whenever . . . they would normally have jurisdiction
+of a controversy between the parties.” Joint Hearings 34
+(statement of Julius H. Cohen) (emphasis added). Immedi-
+ately following, he said that “such enforcement” includes the
+power to appoint arbitrators under Section 5, which, of
+course, lacks Section 4's “save for” language. Ibid. And he
+then proceeded to discuss the FAA's other sections, all with-
+out suggesting that their jurisdictional requirements were
+any different. Ibid.; see also id., at 35–36.
+Together, this history reinforces the interpretation of the
+statute that I would adopt. It suggests that Congress in-
+tended a single approach for determining jurisdiction of the

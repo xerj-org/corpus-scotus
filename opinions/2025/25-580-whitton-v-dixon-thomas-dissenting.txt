@@ -1,0 +1,428 @@
+Whitton v. Dixon — No. 25-580 — October Term 2025 — decided 6/01/26 — Thomas, J., dissenting
+Citation: 608 U.S. 493
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r41_4gc5.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+assess in the first instance. We likewise express no view on
+the State's argument that Whitton failed to exhaust his Gig-
+lio claim in the state courts. The Court of Appeals “[did]
+not address” that argument because it concluded that “the
+claim fails on the merits,” 2025 WL 1305158, *15, n. 10, and
+we are “a court of review, not of first view,” Cutter v. Wilkin-
+son, 544 U. S. 709, 718, n. 7 (2005). The Court of Appeals
+is of course free to address that argument on remand. We
+therefore grant the petition for writ of certiorari, vacate the
+judgment of the Court of Appeals, and remand the case for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Thomas, with whom Justice Alito joins except
+as to Part III–B, dissenting.
+A Florida jury convicted Gary Whitton of stabbing his
+friend to death. The Supreme Court of Florida rejected his
+motion for a new trial because of the “overwhelming evi-
+dence against” him. Whitton v. State, 161 So. 3d 314, 334
+(2014) (per curiam ). When Whitton challenged his convic-
+tion in federal court, the District Court denied his habeas
+petition, and the Eleventh Circuit affirmed in a 64-page opin-
+ion. This Court now vacates the Eleventh Circuit's judg-
+ment because of one-and-a-half sentences in its opinion. In
+rejecting one of Whitton's claims—which would fail on other
+grounds anyway—the Eleventh Circuit mentioned a fact that
+was notable but certainly not dispositive to its analysis: DNA
+testing had since further confirmed that Whitton is guilty.
+Because the Eleventh Circuit mentioned that fact, this Court
+summarily vacates. I respectfully dissent.
+I
+A
+On the night of October 9, 1990, Gary Whitton murdered
+his friend James Maulden. Maulden, who was intoxicated,
+asked Whitton to drive him to a bank. Whitton helped
+Maulden withdraw his account's entire balance, $1,135.88,
+and drove them to a motel. At check-in, Whitton gave the
+motel clerk a false license plate number for his car, but the
+clerk noticed that Whitton was lying and recorded the cor-
+rect number. Because Maulden was still intoxicated when
+they arrived, Whitton helped him from the car to his room.
+The next morning, the police found Maulden dead in his
+room. He had suffered a fractured skull, three fatal stab
+wounds to his chest, and stab wounds to his shoulder, cheek,
+neck, scalp, and back. Blood had sprayed all over the floor,
+furniture, walls, and ceiling.
+The license plate from the car at the motel led the police
+to Whitton. He told the police that he had dropped Maulden
+off at the motel, but he initially denied having returned later
+that night. He eventually admitted that this story was a lie
+and that he had returned to the room, but he then claimed
+that Maulden was already dead when he arrived. The police
+arrested Whitton and seized, among other things, his boots.
+Whitton's boots had blood spatter in them consistent with
+a stabbing that created “ `forceful bloodshed.' ” App. to Pet.
+for Cert. 4a; see Tr. of State Court Proceedings in Whitton
+v. Secretary, Fla. Dept. of Corrections, No. 4:15–cv–00200
+(ND Fla.), ECF Doc. 73–2, p. 927. Whitton hypothesized
+that the blood had seeped upwards into his socks through
+the bottom of his boots when he happened upon Maulden's
+already-dead body. But, the blood spatter showed that
+Maulden was again lying: The blood had fowed downward.
+See ECF Doc. 73–2, p. 927; App. to Pet. for Cert. 4a. 1
+At trial, the State introduced even more evidence against
+Whitton. At 2:37 a.m. on the night of Maulden's murder,
+Whitton purchased a car wash ticket. The day after the
+murder, Whitton paid off hundreds of dollars' worth of debt.
+1 The police could not examine Whitton's socks because, as Whitton ad-
+mitted, he had thrown them out the window of his car after he left the
+motel.
+And, two witnesses—Jake Ozio and Kenneth McCullough—
+testifed that Whitton confessed to the murder. When Ozio
+gave that testimony, he denied that he had been arrested
+before.
+The evidence at trial also included the blood spatter that
+the police discovered. The blood found in Whitton's boots
+matched Maulden's blood type but not Whitton's. Whitton's
+car also contained blood that matched Maulden's blood type.
+But, Whitton called a DNA analyst who said that the blood
+on the boots did not match Maulden's DNA.
+Whitton took the stand in his own defense. He testifed
+that he gave a false license plate number to the motel be-
+cause he was worried about being held liable for any damage
+that Maulden caused. He testifed that he did not know how
+much money Maulden had withdrawn and that he received
+$200 from someone else around the same time. He testifed
+that he returned to the motel late that night because a friend
+had told him that Maulden's mother was looking for him.
+And, he testifed that he fed the scene after only a minute,
+without calling the police, because he was in shock and did
+not want to get involved. As to the blood in his boots, Whit-
+ton continued to claim that he “assume[d] that it would have
+gotten on the bottom of [the boots] through the holes in the
+bottom of them.” ECF Doc. 73–3, p. 127.
+Whitton's story to the jury quickly fell apart. When the
+prosecutor asked why the blood had fowed downward in the
+boots, Whitton testifed, “I don't know how it got there.”
+Id., at 128. When the prosecutor asked about the blood
+spots in his car, Whitton testifed that they “could have been
+there when [he] bought the car . . . I have no idea.” Id., at 141.
+When the prosecutor asked about the bank withdrawal,
+Whitton admitted that he had signed Maulden's form to
+withdraw money and that he knew that Maulden was with-
+drawing the entire account. And, although Whitton testi-
+fed that he had called Maulden's mother repeatedly, she tes-
+tified at trial that she was at home the entire afternoon and
+evening and never received a call from Whitton.
+The jury convicted Whitton of murdering and robbing
+Maulden. It unanimously recommended a death sentence.
+The trial court sentenced Whitton to death, and the Supreme
+Court of Florida affirmed. Whitton v. State, 649 So. 2d 861
+(1994) (per curiam ).
+In 2002, the State retested the blood on Whitton's boots
+and confirmed that it belonged to Maulden. Contrary to
+Whitton's DNA analyst's testimony at trial, the blood in the
+right boot matched the “ `DNA profle of James Maulden.' ”
+App. to Pet. for Cert. 6a, n. 5. The testing also identified
+Maulden as a DNA contributor to blood found on the left
+boot.
+B
+Whitton fled a motion for postconviction relief in state
+court in 1997. As relevant here, Whitton brought a claim
+under Giglio v. United States, 405 U. S. 150 (1972). To suc-
+ceed on a Giglio claim, a defendant must prove that the
+prosecutor presented false testimony against him; that the
+prosecutor knew that the testimony was false; and that there
+is a “reasonable likelihood” that the false testimony affected
+the verdict. Id., at 154 (internal quotation marks omitted).
+Whitton's Giglio claim was based on testimony about his con-
+fession to Ozio. Whitton argued that Ozio had falsely testi-
+fed “that Whitton confessed to him in prison”; that the State
+knew that the testimony was false; and that the false testi-
+mony was material. Whitton, 161 So. 3d, at 323. He did
+not make any claims about Ozio's description of his own crim-
+inal record.
+The Supreme Court of Florida denied Whitton's motion for
+postconviction relief. It concluded that Whitton had failed
+to show either that Ozio's testimony about Whitton's confes-
+sion was false or that the prosecutor knew that it was false.
+Id., at 323–324. The court also rejected a separate claim
+regarding other testimony. In so doing, the court relied on
+the “overwhelming evidence against Whitton” presented at
+trial even apart from his confessions. Id., at 334. It did
+not rely on the DNA test results from 2002 confirming that
+the blood on Whitton's boot was Maulden's.
+C
+Whitton then petitioned a federal court for a writ of ha-
+beas corpus. A state prisoner generally cannot receive fed-
+eral habeas relief based on claims that he did not present in
+state court. Instead, before bringing a claim in habeas, he
+must have “exhausted the remedies available” in state court.
+28 U. S. C. § 2254(b)(1)(A). And, for a “claim that was adju-
+dicated on the merits in State court proceedings,” the federal
+court may not grant relief unless the state-court decision
+“was contrary to, or involved an unreasonable application of,
+clearly established Federal law” or “was based on an unrea-
+sonable determination of the facts.” § 2254(d). Under
+these strict standards, a federal court cannot grant habeas
+relief unless the state court “blundered so badly that every
+fairminded jurist would disagree with the decision.” Klein
+v. Martin, 607 U. S. 213, 221 (2026) (per curiam ) (internal
+quotation marks and alteration omitted).
+As relevant here, Whitton again claimed that Ozio falsely
+testifed that Whitton had confessed to him. The District
+Court allowed discovery and held an evidentiary hearing.
+Ozio testifed that he had not actually heard Whitton confess.
+He also clarified in his May 17, 2021, deposition that, al-
+though he had testifed that he had not previously been ar-
+rested, he did have a juvenile record. Ozio then testifed to
+the same effect at the evidentiary hearing.
+In response to this clarification regarding Ozio's juvenile
+record, Whitton did not bring a new claim in state court
+based on Ozio's inconsistent statements. He instead added
+a new federal habeas claim, arguing that Ozio's testimony
+about his prior record also entitled him to a new trial under
+Giglio. Whitton did not address his failure to present this
+claim to the state courts, nor did he request a stay of federal
+proceedings to rectify it. The District Court denied Whit-
+ton's federal habeas petition.
+The Eleventh Circuit affirmed. In federal habeas pro-
+ceedings, when a prisoner raises an unexhausted claim, the
+court cannot enter relief for the prisoner, but it can rule on
+the merits against the prisoner without addressing exhaus-
+tion. See § 2254(b)(2). The Eleventh Circuit exercised that
+discretion and rejected Whitton's new Giglio claim on the
+merits. See App. to Pet. for Cert. 35a, n. 10. That claim
+failed, the Eleventh Circuit held, because the Supreme Court
+of Florida had reasonably concluded that the State had mar-
+shaled “overwhelming evidence” of Whitton's guilt apart
+from Ozio's testimony. Id., at 36a–37a. That conclusion
+was reasonable, the Eleventh Circuit continued, for several
+reasons:
+“[T]he motel clerk saw Whitton's car parked at the
+motel, and Whitton admitted he was at the motel; Whit-
+ton's boots and his car were stained with blood that,
+after later retesting, matched Maulden's DNA; the blood
+stains on and inside Whitton's boots are consistent with
+a `stabbing or a beating'; Whitton could not explain the
+downward blood spatter on the inside of his boots; and
+Whitton's car contained a power and gas receipt and a
+car wash ticket for 2:37 a.m. October 10, 1990, the night
+of the murder.” Id., at 40a.
+Two pages later, the Eleventh Circuit addressed Whitton's
+argument that “the DNA evidence” at trial supported him.
+Id., at 42a. Relying on evidence presented to the jury, the
+Eleventh Circuit explained why a fairminded jurist may not
+be persuaded. The court cited evidence that traces of blood
+can be washed off and that Whitton had purchased a car
+wash ticket the night of the murder and told an officer that
+he had attempted to wash his boots. The Eleventh Circuit
+then added a single additional aside on a point that some
+would find notable in this context: “Also, after retesting the
+DNA on Whitton's boots, the State confirmed that the inside
+of Whitton's right boot contained blood from a `mixture of
+two or more individuals,' with the `major donor' matching
+`the DNA profle of James Maulden.' ” Ibid. (citations omit-
+ted). The Eleventh Circuit did not claim to ascribe any par-
+ticular legal weight to this fact.
+Whitton petitioned for a writ of certiorari, claiming that
+the Eleventh Circuit erred in its analysis of his claim based
+on Ozio's testimony about his criminal record. He asked the
+Court to resolve a purported Circuit split over whether
+courts can assess prejudice based on evidence that the State
+discovered only after trial.
+The Court summarily vacates the judgment below because
+of the one-and-a-half sentences in the Eleventh Circuit's
+opinion briefly mentioning the 2002 DNA test results.
+II
+I would not grant Whitton such relief. If the Eleventh
+Circuit erred at all in mentioning the DNA test results, it
+was harmless for at least two reasons. First, the court thor-
+oughly examined the overwhelming evidence against Whit-
+ton, which was more than sufficient to justify its decision.
+Second, Whitton had not even exhausted his claim in state
+court, so the Eleventh Circuit could not have ruled for him
+anyway. Because we do not “tower above” lower courts as
+an “impregnable citade[l] of technicality,” we should not
+have exercised our summary powers to vacate here. Kot-
+teakos v. United States, 328 U. S. 750, 759 (1946) (internal
+quotation marks omitted).
+First, the evidence against Whitton at trial more than jus-
+tified the Eleventh Circuit's decision. The Supreme Court
+of Florida concluded that, apart from Ozio's testimony and
+the 2002 test results, the State had presented “overwhelming
+evidence against Whitton.” Whitton, 161 So. 3d, at 334.
+That conclusion, all agree, must be reviewed by the federal
+habeas court deferentially under § 2254(d). Only if the Su-
+preme Court of Florida's conclusion “was so lacking in justi-
+fication that there was an error . . . beyond any possibility for
+fairminded disagreement” could the Eleventh Circuit have
+granted relief on Whitton's Giglio claim, which required a
+showing that Ozio's allegedly false testimony made a differ-
+ence in his trial. Davis v. Ayala, 576 U. S. 257, 269–270
+(2015) (internal quotation marks omitted).
+The Eleventh Circuit made clear that the testimony made
+no difference even before its brief mention of the DNA evi-
+dence. As the Eleventh Circuit explained, Whitton ad-
+mitted to being at the motel; blood that matched Maulden's
+blood type had stained Whitton's boots and car; “Whitton
+could not explain the downward blood spatter on the inside
+of his boots; and Whitton's car contained a power and gas
+receipt and a car wash ticket for 2:37 a.m. October 10, 1990,
+the night of the murder.” App. to Pet. for Cert. 40a. That
+analysis more than establishes all that is necessary to resolve
+this claim: The Supreme Court of Florida's conclusion that
+the evidence presented at trial against Whitton was over-
+whelming was not “so lacking in justification” as to “pre-
+clud[e] even the possibility for fairminded dispute.” Klein,
+607 U. S., at 221 (internal quotation marks omitted).
+Second, the Eleventh Circuit was not even allowed to rule
+for Whitton regardless of the evidence because he failed to
+exhaust this claim before the state courts. Federal courts
+cannot grant habeas relief, no matter how meritorious the
+underlying claim, unless “the applicant has exhausted the
+remedies available in” state court, if such remedies are avail-
+able and adequate. § 2254(b)(1)(A). Whitton does not deny
+that state-court remedies were available. Yet, he never
+sought state remedies for his claim based on Ozio's charac-
+terization of his criminal record.
+This exhaustion failure barred federal habeas relief, but
+Whitton never addressed it in the District Court. Nor did
+he ask for a stay of federal proceedings to enable him to cure
+the problem. Cf. Rhines v. Weber, 544 U. S. 269, 276–278
+(2005). If he asked for a stay now, it would be an abuse of
+discretion to grant it—Whitton discovered the factual basis
+for this claim in May 2021, at the latest, and he has still not
+exhausted his claim in state court, so it is likely too late for
+him to even attempt to do so. See Mungin v. State, 320 So.
+3d 624, 625–626 (Fla. 2020) (per curiam ). In such circum-
+stances, federal courts can and do simply deny the habeas
+claim. See McBride v. Skipper, 76 F. 4th 509, 512–513 (CA6
+2023) (federal court need not consider a stay when petitioner
+does not ask for one); Banks v. Allison, 140 F. 4th 1181, 1185–
+1189 (CA9 2025) (federal court need not consider a stay after
+petitioner fails to pursue state remedies for over a year while
+federal petition is pending); Sears v. Warden, GDCP , 73
+F. 4th 1269, 1306 (CA11 2023) (per curiam ) (federal court
+need not consider a stay when petitioner's claim would be
+procedurally barred in state court). 2
+We do not intervene based on “technicalit[ies]” that do not
+“really affec[t]” the outcome of a case. Kotteakos, 328 U. S.,
+at 759, 761. Instead, on a petition for a “writ of certiorari
+in any case,” this Court must ignore “errors or defects which
+do not affect the substantial rights of the parties.” 28
+2 Moreover, it is not even clear that the Eleventh Circuit lacked the
+discretion to use the DNA test results as a basis for denying relief. The
+only reason that the test results were before the Eleventh Circuit is that
+the State had argued that habeas relief could be denied on an alternative
+ground: Given the new evidence confirming Whitton's guilt, “law and jus-
+tice” did not “require” relief. 28 U. S. C. § 2243; see Answer Brief for
+Respondents-Appellees in Whitton v. Secretary, Fla. Dept. of Corrections,
+No. 23–10786 (CA11), ECF Doc. 31, p. 72. Under this Court's precedents,
+a state prisoner cannot obtain relief unless he “ `persuade[s] a federal ha-
+beas court that law and justice require' ” relief. Shinn v. Martinez Rami-
+rez, 596 U. S. 366, 377 (2022). That inquiry turns on “equitable and pru-
+dential considerations,” such as “the States' powerful and legitimate
+interest in punishing the guilty.” Brown v. Davenport, 596 U. S. 118, 132
+(2022) (internal quotation marks omitted).
+U. S. C. § 2111; see United States v. Lane, 474 U. S. 438, 444
+(1986). This Court therefore, in most cases, declines to ex-
+ercise its certiorari authority when it is “evident that the
+resolution of the conflict could not change the result reached
+below.” S. Shapiro, K. Geller, T. Bishop, E. Hartnett, & D.
+Himmelfarb, Supreme Court Practice, p. 4–18 (11th ed. 2019).
+Yet, the Court today elects to intervene in that exact
+posture.
+Fortunately, though, the Court's decision will have no real-
+world effect. The Eleventh Circuit can reissue a virtually
+identical opinion after deleting one sentence on page 42 and
+one part of one sentence on page 40, where the Eleventh
+Circuit discussed the 2002 DNA tests. See App. to Pet. for
+Cert. 40a, 42a. Or it can deny relief because Whitton failed
+to exhaust a claim based on Ozio's criminal record. Or it
+might consider using its “equitable discretion” to deny relief
+because of the conclusive evidence of Whitton's guilt, includ-
+ing the DNA test results. Edwards v. Vannoy, 593 U. S.
+255, 289 (2021) (Gorsuch, J ., concurring); see Shinn v. Mar-
+tinez Ramirez, 596 U. S. 366, 377 (2022).
+III
+This Court has increasingly granted summary relief in cer-
+tain cases based on lower court errors that seemingly had no
+effect on the outcome of the case. See Pitts v. Mississippi,
+607 U. S. 1 (2025) (per curiam ) (granting summary vacatur
+for man who sexually abused his daughter after likely harm-
+less trial error); Doe v. Dynamic Physical Therapy, LLC ,
+607 U. S. 11 (2025) (per curiam ) (granting summary vacatur
+after likely harmless state intermediate appellate court
+error). It would be one thing if this practice reflected the
+Court's consistent commitment to correcting legal error in
+all cases. But, in reality, this Court routinely declines to
+provide relief to law-abiding Americans when it would actu-
+ally matter, even after lower courts conspicuously fout this
+Court's precedents in ruling against them.
+A
+Consider Boston Parent Coalition for Academic Excel-
+lence Corp. v. The School Committee , 604 U. S. ––– (2024).
+In that case, the Boston School Committee implemented an
+admissions policy to reduce the number of white and Asian
+students at their elite exam schools. The committee made
+its racist intent clear. One member said that she was
+“ `[s]ick of . . . whites,' ” while another mocked the names of
+Asian students after forgetting to mute himself on a Zoom
+hearing. Id., at ––– (Alito, J., dissenting from denial of cer-
+tiorari). Despite this clearly unconstitutional race discri-
+mination, the First Circuit ruled against parents who had
+challenged the affirmative-action policy. And, in a near-
+identical case, the Fourth Circuit did the same. Coalition
+for TJ v. Fairfax County School Board, 601 U. S. ––– (2024).
+Yet, even when presented with multiple opportunities to vin-
+dicate the rights of families to pursue education for their
+children on color-blind terms, this Court “refused to correct
+a glaring constitutional error.” Boston Parent Coalition,
+604 U. S., at ––– (Alito, J., dissenting); see also Coalition for
+TJ, 601 U. S., at ––– – ––– (same).
+B
+Or consider Beck v. United States, 607 U. S. ––– (2025).
+In that case, Air Force Staff Sergeant Cameron Beck drove
+home to lunch with his family in Missouri and was killed in
+a car crash by a negligent driver. Because the driver was
+a federal employee and Beck was serving in the military, the
+lower courts had denied Beck's widow any relief. They did
+so based on an atextual exception to liability of this Court's
+creation, which has been widely acknowledged as “difficult
+. . . to justify.” Id., at ––– (Sotomayor , J., statement re-
+specting denial of certiorari); see id., at ––– – ––– (Thomas,
+J., dissenting from denial of certiorari). Even worse, our
+own precedent had squarely held that this exception did not
+apply to a case like Beck's. See Brooks v. United States,
+337 U. S. 49, 50–51 (1949). Yet, this Court, as in many simi-
+lar cases, refused to even take Beck's widow's case. See,
+e. g., Carter v. United States, 604 U. S. ––– (2025) (Thomas,
+J., dissenting from denial of certiorari); Clendening v. United
+States, 598 U. S. 1045 (2022) (same); Doe v. United States, 593
+U. S. 979 (2021) (same); Lanus v. United States, 570 U. S. 932
+(2013) (same).
+C
+Or consider Speech First, Inc. v. Whitten, 604 U. S. –––
+(2025). In that case, the Court declined to hear a student
+association's challenge to Indiana University's “bias response
+team,” which fields anonymous complaints about student
+speech and considers whether to refer the accused to campus
+offices or the police. Id., at ––– – ––– (Thomas, J., dissenting
+from denial of certiorari). “[O]ver 450 universities” report-
+edly had “similar bias-reporting schemes.” Speech First,
+Inc. v. Sands, 601 U. S. –––, ––– (2024) (Thomas, J., dissent-
+ing). Under these university policies, an untold number of
+American students with “unpopular” views had to “self-cen-
+sor their discussion of these views out of fear that others will
+likely report them” to the bias response team. Speech First,
+Inc. v. Whitten, 604 U. S., at ––– (internal quotation marks
+omitted). Lower courts had held that these students did not
+even have standing to bring a lawsuit in federal court, in
+plain tension with this Court's precedents. See Laird v.
+Tatum, 408 U. S. 1, 11 (1972). Yet, the Court refused to hear
+these students' case.
+* * *
+It is unfortunate that the Court chose to intervene at the
+request of a convicted murderer to correct the Eleventh Cir-
+cuit's inconsequential foot fault. What makes it even worse
+is that the Court does so even while it refuses to correct far
+more consequential errors for law-abiding citizens, such as
+the discriminated-against families in Boston, Staff Sergeant
+Beck's widow, and the students seeking to challenge univer-
+sity censorship.
+I respectfully dissent.

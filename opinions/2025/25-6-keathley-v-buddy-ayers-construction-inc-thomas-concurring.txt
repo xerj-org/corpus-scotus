@@ -1,0 +1,202 @@
+Keathley v. Buddy Ayers Construction, Inc. — No. 25-6 — October Term 2025 — decided 6/11/26 — THOMAS, J., concurring
+Citation: 608 U.S. 647
+Source: https://www.supremecourt.gov/opinions/25pdf/25-6_d1o2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25–6
+THOMAS KEATHLEY, PETITIONER v. BUDDY AYERS
+CONSTRUCTION, INCORPORATED
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 11, 2026]
+JUSTICE THOMAS, with whom J USTICE GORSUCH joins,
+concurring.
+The Court’s opinion correctly concludes that the Fifth
+Circuit’s approach to judicial estoppel is not defensible on
+its own terms. I join it in full.  I write separately to express
+doubt about the foundation of the doctrine of judicial estop-
+pel. Judicial estoppel generally prevents a party from as-
+serting a position in one lawsuit that contradicts its posi-
+tion in a previous proceeding.  Lower federal courts have
+applied this doctrine broadly without clear authority to do
+so, and with only limited support from this Court’s prece -
+dents. In a future case, we should reexamine it.
+I
+The doctrine of judicial estoppel entered the mainstream
+in the federal courts only in the past few decades.  See Brief
+for American Association for Justice as Amicus Curiae 7–9.
+By all accounts, it was first recognized in an 1857 decision
+of the Tennessee Supreme Court. See Hamilton v. Zimmer-
+man, 37 Tenn. 39; see D. Henkin, Judicial Estoppel—Beat-
+ing Shields Into Swords and Back Again, 139 U. Pa. L. Rev.
+1711, 1719 (1991). A century later, judicial estoppel was
+still “the minority viewpoint which has encountered inhos -
+pitable reception outside the State of Tennessee.”  Parkin-
+son v. California Co., 233 F. 2d 432, 437–438 (CA10 1956).
+
+As late as 1980, the D. C. Circuit declined to apply judicial
+estoppel because it “ha[d] not been followed by anything ap-
+proaching a majority of jurisdictions, nor [was] there a dis-
+cernible modern trend in that direction.” Konstantinidis v.
+Chen, 626 F. 2d 933, 938.
+Despite its slow and late start, judicial estoppel has now
+become commonplace in the Courts of Appeals. 1  As gener-
+ally understood, the doctrine can bar a party’s suit based on
+its representations in an entirely unrelated suit against an-
+other party.  In the Fifth Circuit, for example, judicial es-
+toppel can bar a claim whenever it is inconsistent with a
+prior position that the party took; a court accepted the prior
+position; and the party’s inconsistency was not inadvertent.
+In re Flugence, 738 F. 3d 126, 129 (2013) ( per curiam). In
+this way, judicial estoppel reaches much further than the
+older doctrine of “equitable es toppel,” which requires the
+party invoking the doctrine to prove that it was itself the
+object of a previous representation, that it relied on the pre-
+vious representation, and that  it was prejudiced by the
+change in positions. See Konstantinidis, 626 F. 2d, at 937.
+Cases such as this one show the doctrine’s breadth: The
+Fifth Circuit applied judicial estoppel to foreclose a lawsuit
+against a defendant because the plaintiff failed to mention
+——————
+1 Every Court of Appeals has recognized it in one form or another.  See,
+e.g., Perry v. Blum, 629 F. 3d 1, 8 (CA1 2010); Clark v. AII Acquisition,
+LLC, 886 F. 3d 261, 266 (CA2 2018); Ryan Operations G. P. v. Santiam-
+Midwest Lumber Co. , 81 F. 3d 355, 358–359 (CA3 1996); Lowery v.
+Stovall, 92 F. 3d 219, 223 (CA4 1996); In re Coastal Plains, Inc., 179 F. 3d
+197, 204 (CA5 1999); Reynolds v. Commissioner, 861 F. 2d 469, 472, 474
+(CA6 1988); Cannon-Stokes v. Potter, 453 F. 3d 446, 447–448 (CA7 2006);
+Stallings v. Hussmann Corp., 447 F. 3d 1041, 1047 (CA8 2006); Milton
+H. Greene Archives, Inc. v. Marilyn Monroe LLC, 692 F. 3d 983, 986 (CA9
+2012); Eastman v. Union Pacific R. Co. , 493 F. 3d 1151, 1156 (CA10
+2007); Slater v. United States Steel Corp. , 871 F. 3d 1174, 1180 (CA11
+2017) (en banc);  Marshall v. Honeywell Tech. Systems, Inc. , 828 F. 3d
+923, 931 (CADC 2016); Data Gen. Corp. v. Johnson, 78 F. 3d 1556, 1565
+(CA Fed. 1996).
+
+3  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+the cause of action on a form in prior bankruptcy proceed-
+ings involving an entirely unrelated set of parties. As a re -
+sult, the defendant was relieved of all liability for injuring
+the plaintiff, regardless of whether his conduct was tortious
+and regardless of whether he was in any manner affected
+by the plaintiff ’s other proceedings.  Other jurisdictions ap-
+ply judicial estoppel in similar circumstances.  See, e.g.,
+Slater v. United States Steel Corp. , 871 F. 3d 1174, 1176
+(CA11 2017) (en banc); Spaine v. Community Contacts, Inc.,
+756 F. 3d 542, 547 (CA7 2014); Ah Quin v. County of Kauai
+Dept. of Transp. , 733 F. 3d 267, 271 (CA9 2013); Payless
+Wholesale Distributors, Inc. v. Alberto Culver  (P. R.) Inc.,
+989 F. 2d 570, 571–572 (CA1 1993).
+II
+Despite the widespread modern adoption of judicial es-
+toppel, its foundation remains questionable.
+It is unclear what gives federal courts the authority to
+bar suits based on judicial estoppel.  Often, as in the case
+below, federal courts treat judi cial estoppel as a matter of
+federal law and feel free to craft their own standards and
+extend the doctrine to new contexts.2  But, the doctrine ap-
+pears to have no basis in any statute, any Federal Rule of
+Civil Procedure, or any traditional inherent power of fed-
+eral courts. Although the doctrine purports to punish liti-
+gants to “protect the integrity of the judicial process,” Ed-
+wards v. Aetna Life Ins. Co., 690 F. 2d 595, 598 (CA6 1982),
+the courts of appeals have not justified it as an exercise of
+the traditional sanctioning power that courts have been
+held to have in other contexts, see, e.g., Link v. Wabash
+R. Co., 370 U. S. 626, 629–630 (1962).  And, although
+——————
+2 2025 WL 673434, *4–5 (CA5, Mar. 3, 2025) (per curiam) (case below);
+see also Ryan Operations G. P. , 81 F. 3d, at 358; John S. Clark Co. v.
+Faggert & Frieden, P. C. , 65 F. 3d 26, 28–29 (CA4 1995); Patriot Cine -
+mas, Inc. v. General Cinema Corp., 834 F. 2d 208, 215 (CA1 1987); Warda
+v. Commissioner, 15 F. 3d 533, 538, n. 4 (CA6 1994).
+
+federal courts often assume that the doctrine can arise from
+their general equitable authority, see Slater, 871 F. 3d, at
+1187–1188; Ryan Operations G. P. v. Santiam-Midwest
+Lumber Co., 81 F. 3d 355, 365 (CA3 1996); In re Flugence ,
+738 F. 3d, at 131–132, that “equitable authority is not free-
+wheeling,” and requires for its use “a founding-era anteced-
+ent,” Trump v. CASA, Inc. , 606 U. S. 831, 841, 846–847
+(2025); see also Trump v. Hawaii, 585 U. S. 667, 716 (2018)
+(THOMAS, J., concurring).  Judicial estoppel appears to lack
+such an antecedent.3
+This Court’s precedents do not justify the current state of
+judicial-estoppel doctrine, ei ther.  The Court has appar-
+ently enforced judicial estoppel only a single time, in an
+original-jurisdiction case that did not resemble many of the
+cases in which lower courts now apply it.  See New Hamp-
+shire v. Maine, 532 U. S. 742 (2001). 4  Because New
+——————
+3 The Courts of Appeals sometimes instead treat judicial estoppel as a
+matter of substantive state law in diversity cases, an approach that
+raises its own set of questions, such as in what sense the doctrine is sub-
+stantive and whose law governs. E.g., Kirk v. Schaeffler Group USA,
+Inc., 887 F. 3d 376, 383 (CA8 2018).  The choice of law for judicial estop-
+pel is a source of deep confusion.  See N. Frazer, Reassessing the Doctrine
+of Judicial Estoppel: The Implications of the Judicial Integrity Rationale,
+101 Va. L. Rev. 1501, 1503 (2015); 18B C. Wright, A. Miller, & E. Cooper,
+Federal Practice and Procedure §4477.8, p. 591 (3d ed. 2019) (“The ques-
+tion . . . cannot be fully answered”).  But, this approach would at least
+cohere with the treatment of the related, but distinct doctrine of equita-
+ble estoppel, which is generally treate d as a substantive question gov -
+erned by the applicable state law under Erie R. Co. v. Tompkins, 304
+U. S. 64 (1938).  Cf. Arthur Andersen LLP v. Carlisle, 556 U. S. 624, 631
+(2009); see Petro Harvester Operating Co. v. Keith, 954 F. 3d 686, 698
+(CA5 2020).
+4 New Hampshire cited the Court’s 1895 decision in Davis v. Wakelee,
+156 U. S. 680, for the proposition that “ ‘[w]here a party assumes a cer -
+tain position in a legal proceeding, and succeeds in maintaining that po-
+sition, he may not thereafter, simply because his interests have changed,
+assume a contrary position, especially if it be to the prejudice of the party
+who has acquiesced in the posi tion formerly taken by him.’ ” 532 U. S.,
+at 749 (quoting Davis, 156 U. S., at 689).  But, Davis does not appear to
+
+5  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+Hampshire was an original-jurisdiction case, the Court un-
+derstood itself to have greater flexibility in adjudicating the
+dispute than lower courts have in ordinary diversity ac-
+tions. Cf. Massachusetts v. Missouri, 308 U. S. 1, 15 (1939)
+(explaining, even after Erie, that controversies between
+States are decided based on “the accepted principles of the
+common law or equity systems of jurisprudence”).  Moreo-
+ver, the Court applied the doctrine based on prior litigation
+between the same two parties. It estopped New Hampshire
+from adopting a new position after it had taken the opposite
+position in a previous suit against the same party before the
+same Court: New Hampshire “convinced this Court to ac -
+cept one interpretation” of a decree in a case against Maine,
+“benefited from that interpretation,” and then “urge[d] an
+inconsistent interpretation to gain an additional advantage
+at Maine’s expense.” 532 U. S., at 755.  Given these facts,
+the Court’s decision may well have been justifiable as a
+matter of equitable estoppel.
+New Hampshire certainly does not ordain that judicial es-
+toppel should apply in cases like Keathley’s, in which his
+inconsistency was between, on the one hand, representa-
+tions to creditors in a bankruptcy court, and, on the other
+hand, representations in a separate tort suit against a
+stranger to those bankruptcy proceedings.  At a minimum,
+it is difficult to see how application of this doctrine in cases
+such as this one serves any equitable purpose, or how an
+interest in “the integrity of the judicial process” could jus-
+tify it. Id., at 749 (internal quotation marks omitted).
+——————
+be a judicial-estoppel case.  The Co urt did not invoke the doctrine, and
+the facts appear to have satisfied th e distinctive elements of equitable
+estoppel: mutuality of parties and reliance by the nonestopped party.
+156 U. S., at 690.  Davis also rejected the argument that an honest mis-
+take could prevent estoppel, ibid., which is consistent with equitable es-
+toppel but, as the Court explains, not judicial estoppel, ante, at 7.
+
+III
+Judicial estoppel has secured widespread acceptance in
+the Courts of Appeals without any clear authority in stat-
+utes, rules of procedure, or this Court’s precedents.  In a
+future case, this doctrine merits a closer look.

@@ -1,0 +1,936 @@
+Hunter v. United States — No. 24-1063 — October Term 2025 — decided 6/18/26 — THOMAS, J., dissenting
+Citation: 608 U.S. 713
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1063new_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 24–1063
+MUNSON P. HUNTER, III, PETITIONER v.
+UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+JUSTICE THOMAS, dissenting.
+Munson Hunter deceived others to make himself nearly
+half-a-million dollars.  The Government charged him with
+10 counts of fraud. If a jury had convicted him of all 10
+counts, Hunter could have rece ived a 300-year sentence.
+Instead, Hunter knowingly and voluntarily made an agree-
+ment with the Government.  Under the agreement, the Gov-
+ernment would dismiss nine counts.  In exchange, Hunter
+would plead guilty to the remaining one and waive his right
+to appeal his sentence unless it exceeded the statutory max-
+imum—a 30-year prison term followed by up to 5 years of
+supervised release. Thanks to the agreement, Hunter re-
+ceived a 51-month prison term, followed by three years of
+supervised release, less than 2% of the prison time to which
+the indictment exposed him. Now, Hunter wants to keep
+his reduced sentence but take back the appeal waiver, and
+the Court holds that he may be able to do so.
+I see no basis for excusing Hunter from his appeal waiver.
+Defendants could not appeal fe deral criminal sentences at
+all for more than 100 years after the founding; only then did
+Congress create the statutory right to do so.  “Like many
+constitutional and statutory rights, the right to appeal can
+be waived by the defendant, and once that choice is finally
+made, the defendant is bound by the decision.”  Garza v.
+Idaho, 586 U. S. 232, 257 (2019) (T HOMAS, J., dissenting).
+
+The Court today creates a “miscarriage-of-justice” excep -
+tion to this rule. But, it cannot identify any source of law
+for its exception.  Neither the contract-law principles that
+Hunter invoked nor this Court’s supposed “supervisory
+power” give it the authority to  override Hunter’s appeal
+waiver.
+Without any source of law to justify its decision, the Court
+appears to rest on its policy concern that holding defend-
+ants to their waivers may sometimes lead to unfair results
+or make federal courts look bad.  But, policy concerns are
+not rules of decision in courts  of law.  Because I would de-
+cide Hunter’s case based on law rather than policy, I re-
+spectfully dissent.
+I
+The Government charged Hunter with 10 counts of wire
+fraud, bank fraud, and conspiracy to commit wire and bank
+fraud. 18 U. S. C. §§1343, 1344, 1349.  Each count carried
+a statutory maximum sentence of 30 years in prison.  If the
+jury had convicted Hunter of all 10 counts, the District
+Court could have made the sentences run consecutively.
+See §3584(a).
+The Government and Hunter reached a plea agreement.
+Hunter promised to plead guilty to one count of wire fraud.
+In exchange, the Government promised to dismiss the nine
+remaining counts. The agreement noted that Congress had
+authorized, as punishment for the one count that Hunter
+was pleading guilty to, a prison term of up to 30 years, so
+the deal reduced Hunter’s statutory maximum sentence
+from 300 years to 30 years. The agreement also noted that
+the court could impose a term of supervised release, which
+“is a form of postconfinement monitoring that permits a de-
+fendant a kind of conditional liberty by allowing him to
+serve part of his sentence outside of prison.”  Mont v. United
+States, 587 U. S. 514, 523 (2019) (internal quotation marks
+omitted). One statutorily authorized condition for a term of
+
+3  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+supervised release is the requirement that the defendant
+“undergo available medical, ps ychiatric, or psychological
+treatment.” §3563(b)(9).
+As part of the plea agreement, Hunter waived his right to
+appeal. The agreement confirmed that Hunter knew that
+he had a statutory right to appeal and that by signing the
+agreement he “knowingly and voluntarily waive[d]” that
+right. App. to Pet. for Cert. 6a.  It stipulated that Hunter
+knew that this waiver was “made in exchange for the con -
+cessions made by the United States in this plea agreement.”
+Id., at 8a. It clarified that Hunter knew that the District
+Court “has authority to impose any sentence up to and in-
+cluding the statutory maximum set for the offense,” and
+that “a sentence has not yet been determined by the Court.”
+Id., at 7a, 10a. And, it provided two exceptions: He could
+appeal to raise an ineffective-assistance-of-counsel claim or
+to challenge a sentence that exceeded the statutory maxi-
+mum. Id., at 5a–8a, 10a; see Brief for United States 30.
+The District Court discussed the appeal waiver with
+Hunter, as required by the Federal Rules of Criminal Pro-
+cedure. When the Federal Rules address appeal waivers,
+they merely require the District Court to inform the defend-
+ant of and ensure that the defendant “understands” the
+“terms of any plea-agreement provision waiving the right to
+appeal.” Fed. Rule Crim. Proc. 11(b)(1)(N).  The District
+Court carefully adhered to that requirement:
+“The Court: The maximum sentence that you face if you
+plead guilty is 30 years in prison. . . . Your term of su-
+pervised release will be subject to a number of condi-
+tions that will be monitored by a probation officer. . . .
+Do you understand that?
+“The Defendant: Yes, sir. . . .
+“The Court: If the sentence that I impose is greater
+than the sentence that you now expect or greater than
+the sentence that your lawyer or anyone else may have
+
+predicted, you will be bound by your guilty plea today,
+regardless of your sentence. . . . Do you understand
+that?
+“The Defendant: Yes, Your Honor.
+“[The Court:] Paragraph 5 says . . . ‘[d]efendant know-
+ingly and voluntarily waives the right to appeal or col-
+laterally attack the conviction and sentence except that
+the defendant does not waive the right to raise a claim
+of ineffective assistance of counsel.’ . . . “Have you dis-
+cussed that provision with your lawyer?
+“The Defendant: No. Well, I understand it, Your Honor.
+“The Court: Well, let me just  be sure.  You’re going to
+be sentenced if I accept your guilty plea.  The most fre-
+quent basis for an appeal is complaining of this sen-
+tence. It’s very unlikely that you could appeal that un-
+der this waiver. Basically yo u’re agreeing to whatever
+sentence I impose. Do you understand that?
+“The Defendant: Yes, Your Honor.” App. 8–11 (para-
+graph breaks omitted).
+After the District Court accepted the agreement, the Pro-
+bation Office recommended that the court require Hunter
+to undergo psychiatric treatment as a condition of his su -
+pervised release, due to his self-reported mental health
+problems. At the sentencing hearing, Hunter objected to
+this recommendation. The District Court responded that
+Hunter “should take” any drugs that his doctor may even-
+tually prescribe, but it reassured Hunter that if he objected
+to any prescribed treatment, he could raise his concerns
+with his probation officer and then with the court.  App. to
+Pet. for Cert. 24a. 1  Before Hunter could be sent to prison
+for violating his supervised-release conditions, the District
+——————
+1 By law, Hunter can move for modifi cation of his supervised-release
+conditions “at any time.”  18 U. S. C. §3583(e)(2).
+
+5  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+Court would have to revoke the supervised-release term af-
+ter separate proceedings. §3583(e)(3). 2
+The District Court sentenced Hunter to 51 months in
+prison and included as a condition of supervised release
+that Hunter “must take all mental health medications that
+are prescribed by [his] treating physician.”  Id., at 35a.
+Notwithstanding his appeal waiver, Hunter appealed his
+sentence. He argued that the mental-health supervised-re-
+lease condition violates his substantive due-process rights
+under Cruzan v. Director, Mo. Dept. of Health, 497 U. S. 261
+(1990). The Fifth Circuit dismissed Hunter’s appeal be -
+cause of the appeal waiver.  At this time, there is no evi-
+dence that Hunter has been prescribed any medication to
+which he objects or that the District Court has had any rea-
+son to consider revocation proceedings.  See Reply Brief 18.3
+The Court granted certiorari, 607 U. S. 961 (2025), and now
+announces a new rule, invalidating any appeal waiver that
+an appellate court concludes would result in a miscarriage
+of justice.
+II
+For over 100 years after the founding, federal criminal
+defendants had no right to appeal their sentences.
+——————
+2 Appeals of a district court’s revocation of supervised release, courts
+have held, are not barred by a standard waiver of sentencing appeals in
+a plea agreement. See United States  v. Carruth, 528 F. 3d 845, 846
+(CA11 2008) (per curiam); United States v. Lonjose, 663 F. 3d 1292, 1299–
+1302 (CA10 2011); cf. United States v. Scallon, 683 F. 3d 680, 683–684,
+and n. 4 (CA5 2012) (per curiam) (reserving this question).
+3 Because Hunter cannot say whether he will ever be prescribed ob-
+jected-to medication, he has conceded that his claim is not ripe under
+binding Fifth Circuit precedent.  Brief for Appellant in No. 24–20211
+(CA5), ECF Doc. 19, p. 15, n. 4 (citing United States v. Ellis, 720 F. 3d
+220, 227 (2013) (per curiam), and United States v. Carmichael, 343 F. 3d
+756, 761 (2003)).  Hunter may well lack Article III standing under our
+precedents. See Trump v. New York, 592 U. S. 125, 131–132 (2020) (per
+curiam).  The Court nonetheless proceeds to the merits without address-
+ing its jurisdiction.
+
+Although Congress has now authorized such appeals, de-
+fendants remain free to decline to exercise that statutory
+right or to affirmatively waive it, just like many other pro-
+cedural rights.  Hunter’s knowing and voluntary waiver of
+his statutory appeal rights in his valid plea agreement re-
+quired dismissal of his appeal.
+A
+Defendants may waive their right to appeal, and when
+they do so in valid plea agreements, those waivers must be
+enforced.
+1
+Defendants can waive constitutional and statutory proce-
+dural rights.  “A criminal defendant may knowingly and
+voluntarily waive many of the most fundamental protec-
+tions afforded by the Constitution.”  United States v. Mez-
+zanatto, 513 U. S. 196, 201 (1995).  They often waive such
+rights through plea agreements, which always entail waiv-
+ing the constitutional rights to  trial by jury, to confront
+one’s accusers, and to avoid self-incrimination. See Boykin
+v. Alabama, 395 U. S. 238, 243 (1969).  If defendants can
+waive constitutional procedural rights, it has long followed
+that the “same principle, a fortiori, applies to a mere statu-
+tory or common-law right.”  1 J. Bishop, Commentaries on
+the Law of Criminal Procedure §118, p. 71 (2d ed. 1872)
+(Bishop); see also People v. Rathbun, 21 Wend. 509, 542
+(N. Y. Sup. Ct. 1839) (noting that because the “prisoner may
+even waive his right to a trial,” he also has the lesser power
+to “waive any matter of form or substance”); Shutte v.
+Thompson, 15 Wall. 151, 159 (1873) (“A party may waive
+any provision, either of a contract or of a statute, intended
+for his benefit”); People v. Lightner, 49 Cal. 226, 228 (1874)
+(“As a general rule a defendant may waive any statutory
+right or proceeding”).
+
+7  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+The right to appeal a sentence is a mere statutory right
+of modern origin. For much of American history, federal
+criminal defendants had no right to appeal at all.  Trial-
+court judges have always been oath-bound to sentence de-
+fendants according to the law. But, for more than a century
+after the founding, when they made mistakes—even mis-
+takes “apparent on the record”—federal defendants could
+not go to an appeals court “to revise the sentences of inferior
+courts in criminal cases.”  Ex parte Watkins, 7 Pet. 568, 574
+(1833); see United States  v. Sanges , 144 U. S. 310, 319
+(1892) (“For a long time after the adoption of the Constitu-
+tion, Congress made no provision for bringing any criminal
+case . . . by writ of error”).  Then, as now, the Constitution
+provided no right to appeal.  See McKane v. Durston , 153
+U. S. 684, 687 (1894); Jones v. Barnes, 463 U. S. 745, 751
+(1983). Even defendants sentenced to death could not ap -
+peal until 1889.  It was thus “100 years before the defendant
+in a criminal case, even a capital case, was afforded appel-
+late review as of right.” Carroll v. United States, 354 U. S.
+394, 400 (1957) (emphasis deleted) . Only after that did
+Congress eventually give all federal defendants a right to
+appeal. Abney v. United States , 431 U. S. 651, 656, n. 3
+(1977); Carroll, 354 U. S., at 400–401.
+Congress has now provided defendants a path to seek ap-
+pellate review of sentences if they so choose. A defendant
+“may file a notice of appeal.”  18 U. S. C. §3742(a) (emphasis
+added); see also 28 U. S. C. §1291.  But, the right to appeal
+“depends on assertion,” so the defendant can “forfei[t]” his
+right to appeal by declining to file one or can waive it ex-
+pressly. United States v. Wegner, 58 F. 3d 280, 282 (CA7
+1995). Because a criminal defendant’s right to appeal is “a
+mere statutory . . . right” that he is free to not invoke at all,
+
+Bishop §118, he plainly “may waive” it, Shutte, 15 Wall., at
+159.4
+2
+Waivers in plea agreements are strictly enforced.  In San-
+tobello v. New York, 404 U. S. 257 (1971), the State waived
+its right to make a sentenci ng recommendation as part of
+the defendant’s guilty plea. Id., at 258.  But, the State rec-
+ommended the statutory maxi mum at sentencing anyway,
+and the trial judge imposed the statutory maximum sen-
+tence. Id., at 259–260.  On appeal, this Court held that the
+defendant should either be free to “withdraw his plea of
+guilty” or be entitled to “specific performance of the agree-
+ment,” meaning a new sentencing in which the State kept
+its promise. Id., at 263.  Likewise, in Ricketts v. Adamson,
+483 U. S. 1 (1987), the defendant agreed to plead guilty to
+——————
+4 To be sure, not all statutory rights can be waived.  For instance, the
+“substantive right” under Title VII to be free from discrimination in the
+workplace “may not be prospectively waived.”  14 Penn Plaza LLC v. Py-
+ett, 556 U. S. 247, 265 (2009).  But, deciding to resolve Title VII claims
+“by way of arbitration instead of litigation does not waive” the underlying
+substantive “right to be free from  workplace . . . discrimination.” Ibid.
+Such a decision “waives only the righ t to seek relief” in one forum as
+opposed to another.  Id., at 265–266.
+An appeal waiver does not waive an y substantive right, such as the
+right to be free from cruel or unusual punishment or to receive a sentence
+below some limit.  It instead waives one procedural mechanism for seek-
+ing relief in which those underlying substantive rights can be “vindi-
+cat[ed]” in one particular forum.  Id., at 265. It thus resembles any num-
+ber of procedural protecti ons that parties routinel y waive in litigation.
+See, e.g., United States  v. Mezzanatto, 513 U. S. 196, 202–203 (1995)
+(Federal Rules of Evidence); id., at 201–202 (Federal Rules of Criminal
+Procedure); Mallory v. Norfolk Southern R. Co., 600 U. S. 122, 144, and
+n. 10 (2023) (plurality opinion) (personal jurisdiction); Mitsubishi Motors
+Corp. v. Soler Chrysler-Plymouth, Inc., 473 U. S. 614, 640 (1985) (holding
+that agreement to arbitrate is enforceable); The Bremen  v. Zapata Off-
+Shore Co., 407 U. S. 1, 15 (1972) (holding that forum-selection clause is
+enforceable).
+
+9  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+second-degree murder and testify against his co-conspira-
+tors in exchange for the State’s promise to drop a first-de -
+gree murder charge.  Id., at 3. The defendant was sen -
+tenced for second-degree murder. Id., at 4.  During the
+retrial for his co-conspirator, the Court held, the defendant
+faced a “choice”: “He could submit to the State’s request
+that he testify at the retrial . . . or . . . his breach of the
+agreement would restore the parti es to their original posi-
+tions and he could be prosecuted for first-degree murder.”
+Id., at 11. The defendant decide d not to testify, and he was
+prosecuted and convicted for first-degree murder. The
+Court upheld this conviction, concluding that the State
+could “enforce the agreement.” Id., at 12.
+Accordingly, when defendants waive their statutory ap-
+peal rights in plea agreements, those waivers are enforcea-
+ble. Given that defendants c an waive constitutional rights
+gratuitously, they can certainly waive statutory rights in
+exchange for enforceable benefits in plea agreements—such
+as the sentencing recommendation in Santobello. And, if
+defendants are bound by gratuitous waivers, they can also
+be held to ones from which they benefited—such as the
+promise to testify in Ricketts. Bargained-for waivers of stat-
+utory rights thus not only are valid; they must be enforced
+to ensure that both sides to the agreement receive what
+they bargained for.5  A defendant who waives his statutory
+appeal right in a plea agreement is therefore “bound by the
+decision.” Garza, 586 U. S., at 257 (THOMAS, J., dissenting).
+The defendant remains bound even though he cannot
+know exactly what his sentence will be when he signs his
+waiver. When the defendant knowingly agrees to waive his
+appeal right, his waiver is knowing precisely because he is
+made aware of the uncertainty.  See Fed. Rule Crim. Proc.
+——————
+5 Because plea agreements involve an exchange of promises, this Court
+has often analogized plea agr eements to contracts.  See, e.g., Puckett v.
+United States, 556 U. S. 129, 137 (2009).
+
+11(b)(1) (requiring the court to ensure the defendant “un-
+derstands” the appeal waiver and the variability of the pos-
+sible sentence).  Many other waivers entail similar uncer-
+tainties. For instance, every plea agreement waives the
+right to trial.  And, defendants remain bound by their plea
+even when later developments could lead them to regret
+their waiver in retrospect.  See Brady v. United States, 397
+U. S. 742, 756–757 (1970) (holding that guilty pleas are en-
+forceable even after a favorable change in law); United
+States v. Ruiz, 536 U. S. 622, 629–630 (2002) (holding that
+guilty pleas are enforceable even after it is discovered that
+the Government withheld impeachment evidence); Tollett
+v. Henderson, 411 U. S. 258, 266–267 (1973) (holding that
+guilty pleas are enforceable even after it is discovered that
+the defendant would have had a claim based on an uncon-
+stitutionally selected grand jury).
+At every stage, defendants waive rights despite uncer-
+tainty about the consequences.  A defendant of course “may
+waive his right to remain silent, his right to a jury trial, or
+his right to counsel even if the defendant does not know the
+specific questions the authorities intend to ask, who will
+likely serve on the jury, or the particular lawyer the State
+might otherwise provide.” Ruiz, 536 U. S., at 629–630.  A
+defendant has long been able to waive a wide range of pro-
+cedural rights, such as the right to an arraignment or the
+right to object to jurors or the right to challenge the consti-
+tutionality of the grand jury, “no matter how much this may
+subsequently prejudice him.”  F. Wharton, Criminal Plead-
+ing and Practice §733, p. 504 (9th ed. 1889).
+B
+These well-established principles required dismissal of
+Hunter’s appeal.  Hunter kn owingly and voluntarily en-
+tered into his plea agreement, which contained an express
+appeal waiver. The text of the appeal waiver barred all sen-
+tencing appeals. It included two exceptions that, all agree,
+
+11  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+are not implicated here. The District Court carefully en-
+sured that Hunter had full awareness of the appeal waiver’s
+consequences.  Hunter stood in open court, was asked by a
+judge whether he understood that he was “waiving or giving
+up [his] right to appeal,” and answered “Yes, Your Honor.”
+App. 12. Further, the plea agreement rested on mutually
+beneficial promises from both Hunter and the Government:
+Hunter would plead guilty and would not appeal except in
+limited circumstances, and the Government would dismiss
+nine counts and reduce Hunter’s maximum sentencing ex-
+posure by 270 years.  The Government then upheld its end
+of the bargain.
+If Hunter wants to retain the significant benefits he re-
+ceived through his plea agreement, he cannot renege on the
+agreement now.6  Hunter waived his right to appeal, and
+his claim is covered by his appeal waiver, which he know-
+ingly and voluntarily agreed to as part of an enforceable
+plea agreement. See Garza, 586 U. S., at 251 (THOMAS, J.,
+dissenting). It is irrelevant that he may not have expected
+one particular supervised-release condition when he signed
+the agreement.7
+——————
+6 Hunter may well come to regret seeking to appeal his sentence after
+a favorable deal.  As both counsel conceded and the Court does not dis -
+pute, the Government can generally seek to void plea agreements in their
+entirety after defendants breach appeal waivers, which may enable the
+Government to allege a breach an d seek convictions on the dropped
+counts.  Tr. of Oral Arg. 6–7, 60–61; see also App. to Pet. for Cert. 7a.
+7 In any event, Hunter should not ha ve been surprised by the mental-
+health-treatment supervised-release condition that he now challenges.
+While his appeal was pending, Hunter filed a separate motion to vacate
+his sentence, claiming that his “history of autism and cognitive disorders
+called into question the validity of his guilty plea.”  No. 4:23–cr–00085
+(SD Tex.), ECF Doc. 179, p. 5. Hunter described himself as a “severely
+impaired individual” and noted that it had been “extensively shown”
+throughout the litigation that he had mental health problems.  Id., at
+13–14.
+
+III
+The Court does not dispute these principles; it just cre-
+ates an exception to them. Although Hunter’s briefing in
+this Court primarily argued that various contract-law prin-
+ciples excused him from his waiver, the Court wisely does
+not endorse that theory; it does not even mention it. 8  In -
+stead of importing contract-law defenses, the Court creates
+a free-floating “miscarriage-o f-justice” exception, which
+permits appeals despite valid appeal waivers when any of
+at least four different factual scenarios arise at sentencing.
+Ante, at 12–13.
+The Court, however, fails to identify any basis in law for
+its exception. It identifies no constitutional text, statute, or
+Federal Rule of Criminal Procedure that even suggests its
+miscarriage-of-justice exception. And, it identifies no estab-
+lished common-law or equitable doctrine that resembles it.
+The Court instead grounds its exception in the need to avoid
+“bring[ing] the judicial system into disrepute.” Ante, at 1,
+11. Because federal courts have a “role . . . in approving and
+implementing appeal waivers,” the Court argues, this
+Court must create appropriate rules for enforcing them,
+——————
+8 Hunter argued that a plea agreement is a contract and that an amal-
+gamation of various contract-law doctrines—including voidness for pub-
+lic policy, unconscionability, frustration of purpose, and the implied duty
+of good faith—made his appeal waiv er an unenforceable contract.  See
+Brief for Petitioner 9–34; Tr. of Oral Arg. 46 (noting that Hunter went
+“all in on this contract thing”).  Hunter claims that the “best” contract-
+law principle going for him “is frustrat ion of purpose.” Tr. of Oral Arg.
+13. But, the frustration-of-purpose doctrine requires that postagreement
+developments render the contract “virtually worthless” before they void
+a contract. Restatement (Secon d) of Contracts §265, Comment a (1979).
+The plea agreement was not rendered worthless when the District Court
+included a mental-health treatment supervised-release condition.  The
+plea agreement still achieved a cruc ial purpose for Hunter—it reduced
+his maximum exposure from 10 counts and 300 years to 1 count and 30
+years.  Hunter’s other contract-law arguments are further afield, and it
+is also unclear what role contract law could even play when the defend -
+ant has also waived the right in court.
+
+13  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+which should advance the court system’s own “ ‘institu-
+tional interest.’”  Ante, at 8–9. 9
+Of course, the Court’s desire for a particular legal rule
+does not give it the right to create it. “Our duty is to apply
+the law, not to make it.”  Pine Grove v. Talcott, 19 Wall. 666,
+677 (1874).  Thus, concerns about public perception of the
+judiciary provide no justification for the Court’s decision.
+The power to change the law to avoid outcomes that the
+people do not like “lies with the people, and not with the
+judiciary.” Ibid.
+——————
+9 The Court does not claim that an y traditional common-law doctrine
+supports its miscarriage-of-justice exception.  Instead, it recognizes itself
+as creating a new rule based on its authority over the lower courts that
+administer plea agreements and its policy and institutional concerns.
+Ante, at 8–13 (majority opinion).
+JUSTICE BARRETT, for her part, adopts a sounder methodology.  See
+ante, at 1 (concurring opinion).  But, in my view, the common-law-of-
+waiver principles she invokes cannot ju stify this decision either for sev-
+eral reasons.  First, if today’s decision could be justified as an act of com-
+mon-law finding rather than policymak ing, one would expect to find a
+more robust tradition of decisions a pplying a similar rule in similar sit-
+uations.  Yet, neither J USTICE BARRETT nor the Court can point to any.
+See infra, at 22–23.  Second, JUSTICE BARRETT cites authorities explain-
+ing that certain rights may never be waived.  Ante, at 2; see infra, at 22.
+That general principle is true as far as it goes.  But, common-law doc-
+trines require rules with identifiable content for judges to apply, not only
+general principles.  It is not entirely clear how the general principle that
+some rights cannot be waived leads to the Court’s granular rule under
+which appeals can be waived, but those waivers become void if any of
+four specific factual scenarios later occur at sentencing.  Third, this body
+of law precluded waivers of certain procedures that implicated the “sub-
+stantial” features “of the legal tribunal” or the “fundamental mode of its
+proceeding.”  R. Bowers, Law of Waiver §397, p. 394 (1914).  It is not clear
+to me that appeals of sentencing errors—appeals that did not even exist
+until 100 years after the founding and that must be asserted by the de-
+fendant—are sufficiently fundamenta l to criminal procedure for these
+doctrines to have any purchase.  In any event, Hunter never developed
+an argument along these lines, which may explain why the Court, on my
+reading, declined to adopt it.
+
+To the extent that one can infer any source of law from
+the Court’s opinion, it appears to be its so-called supervi-
+sory power over lower federal co urts.  See Tr. of Oral Arg.
+97–99, 116–118. The Court’s reasoning today is reminis-
+cent of its precedents purporting to exercise that power.
+Like the Court’s decision today, see ante, at 10–12, these
+supervisory-power decisions have justified themselves
+based on general “considerations of justice not limited to the
+strict canons” of law. McNabb v. United States, 318 U. S.
+332, 341 (1943).  And, like the Court’s decision today, see
+ante, at 1, 9–11, prior supervisory-power decisions have jus-
+tified themselves based on “public perception of the integ-
+rity” of the courts.  Young v. United States ex rel. Vuitton et
+Fils S. A. , 481 U. S. 787, 811 (1987) (plurality opinion).
+Thus, though the Court conspicuously avoids mentioning
+its name, the supervisory power appears to be the only con-
+ceivable source of authority for the Court’s decision.
+The supervisory power of th e Supreme Court, however,
+cannot justify the Court’s misc arriage-of-justice exception
+for four reasons.  First, it is doubtful that the power exists.
+Second, even if it did, it still would not extend to vitiating
+provisions in valid plea agreements, as the Court’s rule ef-
+fectively does. Third, the congressionally authorized rule-
+making process has addressed appeal waivers, so this Court
+should not circumvent that process.  Finally, the two prec -
+edents that the Court relies on as justifying a miscarriage-
+of-justice exception do no such thing.  In the end, the Court
+has nothing but policy arguments, but even there, its anal-
+ysis is unpersuasive.
+A
+The Court has never identifi ed a source for its alleged
+general supervisory power to dictate to lower courts proce-
+dural rules not required by th e Constitution, Congress, or
+the Federal Rules. Cf. United States v. Tsarnaev, 595 U. S.
+302, 315, and n. 1 (2022).  Like Justice Scalia, “I do not see
+
+15  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+the basis for any direct authority to supervise lower courts.”
+Bank of Nova Scotia  v. United States, 487 U. S. 250, 264
+(1988) (concurring opinion); see also Western Pacific R.
+Corp. v. Western Pacific R. Co. , 345 U. S. 247, 273 (1953)
+(Jackson, J., dissenting) (describing “this Court’s exercise of
+its vague supervisory powers over federal courts”).  Instead,
+“the Constitution’s structure cuts against, and history rules
+out, the proposition that the Supreme Court possesses in-
+herent supervisory power over inferior court procedure.”  A.
+Barrett, The Supervisory Power of the Supreme Court, 106
+Colum. L. Rev. 324, 387 (2006).
+The Court “has been remarkably vague about the source
+of its supervisory authority.”  Id., at 333. The Court’s first
+exercise of this power came in McNabb v. United States, 318
+U. S. 332 (1943). That decision asserted that this Court can
+“formulat[e]” rules for lower courts based on “considera-
+tions of justice not limited to the strict canons” of the law.
+Id., at 341. This new assertion of power looked nothing like
+traditional, unwritten procedural law, in which judges
+merely applied rules whose content had long been settled
+by common-law authorities.  Instead, when the Court exer-
+cised this new supervisory powe r, it “self-consciously for-
+mulate[d] its own standard.”  Barrett, 106 Colum. L. Rev.,
+at 376.10 As legal justification for this novel approach, the
+——————
+10 The supervisory power is thus distinct from two legitimate traditions
+of unwritten procedural law, neither of which provide any support for the
+Court’s holding today.  First, the Court has recognized that courts have
+“ ‘inherent’ ” and “ancient” authority to manage their own courtroom and
+enforce their orders. Link v. Wabash R. Co. , 370 U. S. 626, 630 (1962).
+For example, courts in some circumstances have inherent authority to
+sanction parties, ibid., or to stay proceedings, Landis v. North American
+Co., 299 U. S. 248, 254 (1936).  Second, courts can enforce general com-
+mon-law or equitable procedural rules with an “identifiable content . . .
+settled by tradition or emergent consensus.”  A. Barrett, Procedural Com-
+mon Law, 94 Va. L. Rev. 813, 884 (2008).  For example, doctrines of pre-
+clusion may derive from longstanding common-law principles.  See ibid.
+
+McNabb Court provided an analysis-free string cite of prior
+decisions, but none of them provided for anything like the
+modern supervisory power.  R. Pushaw, The Inherent Pow-
+ers of Federal Courts and the Structural Constitution, 86
+Iowa L. Rev. 735, 780–781, and n. 242 (2001) (analyzing the
+cited cases); see McNabb, 318 U. S., at 341.  In short, the
+supervisory power had a late and unconvincing start.
+The supervisory power’s only “arguable basis” in the Con-
+stitution’s text comes from its “establishment of this Court
+as ‘supreme,’ as distinct from the ‘inferior Courts’ that Con-
+gress has discretion to create.” Tsarnaev, 595 U. S., at 326
+(BARRETT, J., concurring). But, that aspect of Article III’s
+structure does not justify a general supervisory power.
+That this Court is in some respects “supreme” over other
+federal courts—we review their judgments—does not re-
+motely entail “that the Constitution requires across-the-
+board subordination of inferior courts” to the Supreme
+Court. Barrett, 106 Colum. L. Rev., at 365.  Instead, any
+“viable claim to supervisory aut hority” over an area of law
+must be “rooted in history.”  Id., at 366.
+History does not suggest that the Supreme Court has in-
+herent authority to create ne w procedural rules for lower
+federal courts, either. At the founding, consistent practice
+revealed “that the framers viewed the establishment of
+rules of procedure as a legislative function” that was some-
+times explicitly “delegated by Congress to the courts.” S.
+Beale, Reconsidering Supervisory Power in Criminal Cases:
+Constitutional and Statutory Limits on the Authority of the
+Federal Courts, 84 Colum. L. Rev. 1433, 1467 (1984); cf. 3
+J. Story, Commentaries on the Constitution of the United
+States §§1752, 1768 (1833) (explaining that “it is for con-
+gress alone to furnish the rules of proceeding, to direct the
+——————
+The Court makes no claim that its miscarriage-of-justice exception is
+necessary for managing its own courtroom or has been derived from any
+established common-law doctrine.
+
+17  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+process, to declare the nature and effect of the process,”
+while courts have “incidental powers” to regulate only in-
+ternal matters, such as their “own officers” and disruptions
+to the judicial process).  Early Congresses prescribed many
+procedural rules for federal courts, required them to follow
+state law on other procedural matters, and often delegated
+to the Supreme Court the authority to formally promulgate
+additional procedural rules. W. Baude, J. Goldsmith, J.
+Manning, J. Pfander, & A. Tyler, Hart and Wechsler’s The
+Federal Courts and the Federal System 727–733 (8th ed.
+2025); Wayman v. Southard, 10 Wheat. 1, 22–23, 42–45
+(1825); Judiciary Act of 1789, 1 Stat. 81–90; Process Act of
+1789, ch. 21, 1 Stat. 94; Process Act of 1792, 1 Stat. 276.  It
+was “not until the twentieth century” that this Court
+“claimed the right to prescribe procedure for inferior federal
+courts” while deciding cases and controversies—instead of
+acting under a delegated rulemaking authority. Barrett,
+106 Colum. L. Rev., at 387.  History thus provides no sup -
+port for the Court’s inherent supervisory authority to create
+a new rule invalidating appeal waivers.11
+B
+Even if this Court had a general supervisory power, it
+could not justify the Court’s new miscarriage-of-justice
+——————
+11 The Rules Enabling Act has further undermined any argument for
+the supervisory power.  The Act ex pressly delegates rulemaking power
+to the Supreme Court subject to a co mprehensive process for exercising
+it, complete with the creation of Rules Committees to consider and de-
+velop new rules in a particular way.  28 U. S. C. §2073. Even if the Court
+had inherent authority to supervise lower courts in the absence of Con-
+gressional action, it “may well be that the detailed scheme of supervisory
+rulemaking prescribed by the Rule s Enabling Act extinguishes the
+Court’s ability to act outside that process.”  A. Barrett, The Supervisory
+Power of the Supreme Court, 106 Co lum. L. Rev. 324, 387 (2006); see
+Mohawk Industries, Inc. v. Carpenter, 558 U. S. 100, 115 (2009) (THOMAS,
+J., concurring in part and concurring in judgment) (explaining that Con-
+gress “ ‘designat[ed] rulemaking, “not ex pansion by court decision,” as
+the preferred means of determining’ ” judicial procedures).
+
+exception to appeal waivers. The supervisory power
+“deal[s] strictly with the co urts’ power to control their own
+procedures,” but does not aut horize setting substantive
+standards. United States v. Williams, 504 U. S. 36, 45–47
+(1992). When it has been invoked, it has had the more lim -
+ited scope of protecting judicial “proceedings,” Degen  v.
+United States, 517 U. S. 820, 823 (1996), through “rules of
+evidence and procedure that are binding” in lower courts,
+Dickerson v. United States, 530 U. S. 428, 437 (2000).  The
+typical supervisory power cases thus govern issues related
+to trial administration, such as jury selection rules and pro-
+cesses, Thiel v. Southern Pacific Co. , 328 U. S. 217, 225
+(1946); Rosales-Lopez v. United States, 451 U. S. 182, 192
+(1981) (plurality opinion), warnings to pro se litigants of the
+consequences of their actions, Castro v. United States , 540
+U. S. 375, 382–383 (2003), the introduction of certain
+tainted evidence, McNabb, 318 U. S., at 345, or the appoint-
+ment of a prosecutor in contempt proceedings,  Young, 481
+U. S., at 808–809.  Likewise, when addressing appellate
+courts, the supervisory power has been used to require clear
+explanations to litigants of en  banc rehearing procedures.
+Western Pacific R. Corp., 345 U. S., at 267–268.
+The Court’s decision today exercises a different kind of
+power. Hunter maintains that his plea agreement is a bind-
+ing contract, and the appeal waiver it includes is generally
+enforceable as a matter of contract law.  See Brief for Peti -
+tioner 2, 32; Tr. of Oral Arg. 44.  In ruling for him, the Court
+therefore appears to empower lower courts to rewrite an
+otherwise binding agreement made by two parties.  The
+parties agreed to permit appeals only for sentences that ex-
+ceed the statutory maximum or that were tainted by inef-
+fective assistance of counsel. Now, the Court has revised
+that contract and the waiver so that the defendant can also
+appeal a sentence after a miscarriage of justice.  The power
+to supervise the federal courts’ own internal processes can-
+not justify such an act.
+
+19  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+The Court tries to solve this problem through an indirect
+chain of reasoning.  Plea agreements are approved by dis-
+trict courts, and the process by which they do so, the Court
+says, involves a measure of discretion.  Ante, at 8–9.  Thus,
+the Court continues, the question whether to enforce an ap-
+peal waiver in a plea agreement, once under consideration
+in the court of appeals, is linked to the district court’s initial
+discretionary process to approve the agreement itself. Ante,
+at 9. So, the Court seems to think, it follows that the Su-
+preme Court has inherent supe rvisory power to prescribe
+rules for enforcing appeal waivers in the courts of appeals,
+flowing from its ability to supervise that initial plea agree-
+ment approval process in the district courts.
+That logic overlooks what is at issue here. The Court’s
+supervisory authority may hav e been understood to reach
+the judicial procedure for accepting the plea agreement it-
+self, see McCarthy v. United States, 394 U. S. 459, 464
+(1969), but it does not follow that it includes the power to
+change the substantive provisions of valid plea agreements
+once they have been approved and made binding.  This case
+illustrates the problem: Hunter is not challenging anything
+related to the District Court’s approval of his plea agree-
+ment. To the contrary, he seems to hope that the agreement
+is still binding, as he suggests that he would resist any ef-
+fort by the Government to reinstate the nine counts it
+dropped. See Tr. of Oral Arg. 6–7.  He instead simply wants
+the agreement changed by the Court of Appeals to permit
+his appeal. But, the supervisory power does not permit ei-
+ther rewriting the parties’ contract or changing plea-bar-
+gaining law. 12
+——————
+12 The Court cannot escape this problem by framing its rule as address-
+ing the enforceability of the agr eement.  Generally, the question
+“whether a particular agreement is enforceable” has been understood as
+“one of substance, not procedure.” Bassidiji v. Goe, 413 F. 3d 928, 936
+(CA9 2005); MediaNews Group, Inc. v. McCarthey, 494 F. 3d 1254, 1260
+
+C
+Even if the Court could recharacterize its rule as proce-
+dural, it was not the Court’s place to promulgate it.  The
+committee responsible for deve loping the Federal Rules of
+Criminal Procedure has declined to advance a rule like this
+one, and Congress established that rulemaking process to
+evaluate the costs and benefits of various policy proposals.
+“Whatever the scope” of this  Court’s supervisory power,
+it does not include “the power to . . . circumvent” the Fed-
+eral Rules of Criminal Procedure.  Carlisle v. United States,
+517 U. S. 416, 426 (1996); see Tsarnaev, 595 U. S., at 315–
+316. The Rules Enabling Act establishes a reticulated pro-
+cess for this Court to alter lower courts’ procedures.  In this
+process, the Judicial Conference’s Rules Committees recom-
+mend Rules of practice, procedure, and evidence after an
+extensive public process, 28 U. S. C. §2073, so that the
+Rules “dra[w] on the collective experience of bench and bar,”
+Mohawk Industries, Inc. v. Carpenter, 558 U. S. 100, 114
+(2009). Then, before the Supreme Court adopts the recom -
+mendations as binding rules, it must first transmit them to
+Congress. §2074. Because this process enables “thorough”
+consideration of the policy issues, this Court is ill equipped
+to second-guess those policy judgments while it is merely
+hearing one case. Shannon v. United States, 512 U. S. 573,
+587 (1994) (describing statutes). Recent involvement by the
+Rules Committee on an issue therefore “counsels hesitation
+in invoking our supervisory powers.”  Ibid.
+The Rules Committee has recently addressed appeal
+waivers. In fact, it has paid close attention to them, ad-
+vanced rules in this area, and declined to adopt a rule like
+——————
+(CA10 2007) (similar); cf. Perry v. Thomas, 482 U. S. 483, 492–493, n. 9
+(1987) (noting that validity, revoc ability, and enforceability of contracts
+are generally state-law questions in federal court); Chalk v. T–Mobile
+USA, Inc., 560 F. 3d 1087, 1092 (CA9 2009) (holding that “unconsciona-
+bility” is a state-law question); Hines v. National Entertainment Group,
+LLC, 140 F. 4th 322, 327–328 (CA6 2025) (similar).
+
+21  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+the Court’s.  In 1996, the Rules Committee proposed what
+is now Federal Rule of Criminal Procedure 11(b)(1)(N),
+which requires district courts to explain appeal waivers to
+the defendant before accepting a plea agreement containing
+one. See N. King & M. O’Neill, Appeal Waivers and the
+Future of Sentencing Policy, 55 Duke L. J. 209, 222 (2005).
+Some immediately objected that such a rule would imply
+general acceptance of appeal waivers, which they opposed
+because of the risk that significant trial-judge errors would
+be shielded from review.  Id., at 222–223.  The Rules Com-
+mittee approved the recommendation anyway, which this
+Court accepted and Congress allowed. Appeal waivers, now
+seemingly approved of by the Federal Rules, continued to
+become more prevalent. Id., at 224.13  The Rules Committee
+has remained focused on appeal waivers in the years since.
+In 2015, the Committee heard a proposal to prevent courts
+from accepting appeal waivers before sentencing.  Advisory
+Committee on Criminal Rules, Draft Minutes, pp. 37–38
+(Mar. 16–17, 2015). But, the Committee unanimously
+agreed not to pursue it. Ibid. And, at the meeting earlier
+this year, a member proposed requiring further disclosure
+to defendants about the consequences of appeal waivers.
+Advisory Committee on Criminal Rules, Minutes, pp. 71–
+72, (Jan. 6, 2026) (noting it was taken under advisement).
+But, even after hearing such proposals, the Rules Commit -
+tee has not advanced any recommendation to preclude de -
+fendants from waiving certain appeals.
+By effectively legislating a new rule in this area, the
+Court intrudes on the calibrated policymaking process es-
+tablished by the Rules Enabling Act.  The Rules Committee
+stands equipped to weigh policy tradeoffs, collect data, en -
+gage in a “thorough and exhaustive review” of the issue, and
+——————
+13 Although the Advisory Committee said that it was not taking a posi-
+tion on the validity of appeal waiver s, the new Rule in practice “solidi-
+fied” them. K. Bennardo, Post-Sen tencing Appellate Waivers, 48 U.
+Mich. J. L. Reform 347, 358–359, n. 59 (2015).
+
+craft a rule that achieves fairness for all parties.  Shannon,
+512 U. S., at 587.  Therefore, this Court should have “hesti-
+tat[ed]” before creating a new rule that the Rules Commit -
+tee “could have included” in its deliberations on appeal
+waivers, but ultimately “chose not to.” Ibid.
+D
+Finally, the sparse precedents that the Court relies on do
+not justify its miscarriage-of-justice exception.  See ante, at
+9–10.
+In Mezzanatto, 513 U. S. 196, a defendant sought to be
+excused from his waiver of certain evidentiary protections.
+The District Court held him to his waiver. The defendant
+was convicted, and on appeal, this Court upheld the convic-
+tion and the enforcement of the waiver.  Id., at 199, 210–
+211. Mezzanatto’s holding, then, provides no support for
+the Court’s exception that it creates today.  In fact, Mezza-
+natto’s reasoning emphasized that “we have presumed that
+statutory provisions are subject to waiver,” and that waiv-
+ers of evidentiary protections are “‘liberally enforced.’”  Id.,
+at 201, 202. So, the Court today must turn to a single par-
+agraph of dicta in Mezzanatto, which suggested that
+“[t]here may be some evidentiary provisions that are so fun-
+damental to the reliability of the factfinding process that
+they may never be waived,” before concluding that no such
+provision was implicated. Id., at 204. In its decision today,
+however, the Court makes clear that it does not believe that
+the right to appeal a sentence is so fundamental that it
+“may never be waived.”  See ante, at 11–13. The Court in-
+stead confirms that the right to appeal almost always can
+be waived, but the waiver becomes unenforceable in the
+rare circumstance of a miscarriage of justice.  Because Mez-
+zanatto’s dicta addresses only protections that can never be
+waived, it cannot support the Court’s rule.
+In Wheat v. United States , 486 U. S. 153 (1988), this
+Court declined to enforce a different kind of waiver, but it
+
+23  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+did so based on a requirement in the Federal Rules.  There,
+a defendant sought to retain counsel who was currently rep-
+resenting his co-conspirators.  The Government objected to
+the joint representation due to the risk of a conflict of inter-
+est. Brief for United States in Wheat v. United States, O. T.
+1987, No. 87–4, pp. 3, 7.  The defendant waived his right to
+a conflict-free counsel. The Dis trict Court refused to accept
+the waiver and rejected the defendant’s choice of counsel.
+This Court affirmed. Central to its reasoning, the Court
+explained that “the Federal Rules of Criminal Procedure di-
+rect trial judges to investigate specially” cases with joint
+representations that may create conflicts of interest “ ‘to
+protect each defendant’s right to counsel.’ ”  Wheat, 486
+U. S., at 161 (quoting Fed. Rule Crim. Proc. 44(c)).  The
+Notes of the Advisory Committee even suggested that a dis-
+trict court could order that defendants be separately repre-
+sented. 486 U. S., at 161.  So, the Court affirmed a District
+Court for doing what the Federal Rules called for.  But,
+here, the Court remands for evaluation of whether enforce-
+ment of a waiver will result in a miscarriage of justice, even
+though the Federal Rules say nothing about miscarriages
+of justice.
+E
+Without any legal justification for its rule, the Court ap-
+peals primarily to the policy instinct that unfairness could
+result from its farfetched hypotheticals.  Surely, the Court
+reasons, a defendant must be able to appeal a sentence se-
+lected by an orangutan. Ante, at 10–11.  I disagree with any
+insinuation that the only thing stopping federal judges from
+violating their oaths is the possibility of a sentencing ap-
+peal. I also disagree with the assumption that the problem
+of possibly erroneous trial courts can only be solved by pos-
+sibly erroneous appellate judges.  The Government even
+notes that it can decline to enforce waivers if an egregious
+injustice occurs. Brief for United States 31. There were no
+
+criminal appeals for over 100 years of American history,
+and our legal system did not descend into chaos.
+Moreover, the Court’s policy reasoning overlooks im-
+portant drawbacks to its approach.  For one thing, it is not
+obvious that this rule will provide fairness to defendants.
+After all, “in the long term,” uncertainty about whether an
+appeal waiver will be enforced “eliminate[s] a bargaining
+tool to convince the government  to drop pending charges.”
+Portis v. United States, 33 F. 4th 331, 336 (CA6 2022).  De-
+fendants like Hunter, therefore, may have to forgo other
+valuable consideration to obtain similarly lenient sen -
+tences. A “sounder” approach is “to permit the interested
+parties to enter into knowing and voluntary negotiations
+without any arbitrary limits on their bargaining chips.”
+Mezzanatto, 513 U. S., at 208.  For another, the Court’s ap-
+proach may lead to a flood of new meritless sentencing ap-
+peals. One study concluded that, as of 2003, 65% of plea
+agreements in federal cases contained appeal waivers.
+King, 55 Duke L. J., at 231.  Of agreements with a waiver,
+80% waived both direct appeals and collateral attacks un-
+der §2255. Id., at 243.  If these numbers have remained
+steady over the two decades since—and I have no reason to
+doubt it—the consequences of today’s decision for the fed -
+eral courts of appeals are sobering.  Last year, over 76,000
+defendants pleaded guilty. Admin. Office of the U. S.
+Courts, U. S. District Courts–Criminal Statistical Tables
+for the Fed. Judiciary (2026) (Table D–4). Over the last 10
+years, more than 680,000 defendants have pleaded guilty.14
+Between defendants who can appeal and prisoners who can
+collaterally attack already-final sentences, it is not hard to
+imagine a hundred thousand claims that should be barred
+by waivers that will now be filed in reliance on the Court’s
+exception. The Court’s efforts to keep this exception narrow
+——————
+14 Admin. Office of the U. S. Courts, U. S. District Courts–Criminal
+Statistical Tables for the Fed. Judiciary (2015–2025) (Table D–4).
+
+25  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., dissenting
+may make it hard to succeed on these claims, accord, ante,
+at 1 (KAVANAUGH, J., concurring), but a miscarriage of jus-
+tice will always be easy to allege.  The courts of appeals will
+now have to sift through many appeals even though miscar-
+riages of justice are, as the Court admits, “rare.”  Ante, at
+13 (majority opinion).
+Ultimately, though, how I weigh the tradeoffs between
+the risk of a rogue district court judge issuing a lawless sen-
+tence, the diminished utility of the appeal-waiver bargain-
+ing chip, and the potential flood of new appeals should not
+matter. In the absence of a legal principle saying otherwise,
+Hunter’s plea agreement and appeal waiver are valid and
+should be enforced.
+IV
+Hunter knowingly and volunt arily agreed to waive his
+appeal rights, and the exceptions he preserved are not im -
+plicated here. Accordingly, I would enforce his agreement
+and dismiss his appeal. I respectfully dissent.

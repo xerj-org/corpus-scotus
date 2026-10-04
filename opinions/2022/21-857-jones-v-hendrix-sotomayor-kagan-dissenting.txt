@@ -1,0 +1,73 @@
+Jones v. Hendrix — No. 21-857 — October Term 2022 — decided 6/22/23 — Sotomayor and Kagan, JJ., dissenting
+Citation: 599 U.S. 465
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r42_2b35.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the precise question this case presents. Typically, we find
+clear-statement rules appropriate when a statute implicates
+historically or constitutionally grounded norms that we
+would not expect Congress to unsettle lightly. See, e. g., Al-
+abama Assn. of Realtors v. Department of Health and
+Human Servs., 594 U. S. –––, ––– (2021) (per curiam ) (pre-
+sumption that Congress does not casually assign executive
+agencies “powers of vast economic and political significance”
+or “significantly alter the balance between federal and state
+power” (internal quotation marks omitted)); Landgraf v.
+USI Film Products, 511 U. S. 244, 265–266 (1994) (presump-
+tion against statutory retroactivity); Atascadero State Hos-
+pital v. Scanlon, 473 U. S. 234, 243 (1985) (presumption
+against abrogation of state sovereign immunity). But, as
+shown above in discussing Jones' Suspension Clause argu-
+ment, there is no historical or constitutional norm of permit-
+ting one convicted of a crime by a court of competent juris-
+diction to collaterally attack his sentence based on an alleged
+error of substantive statutory law. As far as history and
+the Constitution are concerned, “there is nothing incongru-
+ous about a system in which this kind of error—the applica-
+tion of a since-rejected statutory interpretation—cannot be
+remedied after final judgment.” George v. McDonough, 596
+U. S. –––, ––– (2022). A fortiori, there is nothing fundamen-
+tally surprising about Congress declining to make such er-
+rors remediable in a second or successive collateral attack.
+IV
+We affirm the judgment of the Court of Appeals.
+It is so ordered.
+Justice Sotomayor and Justice Kagan, dissenting.
+We respectfully dissent. As Justice Jackson explains,
+today's decision yields disturbing results. See post, at 516–
+517 (dissenting opinion). A prisoner who is actually innocent,
+imprisoned for conduct that Congress did not criminalize, is
+forever barred by 28 U. S. C. § 2255(h) from raising that
+claim, merely because he previously sought postconviction
+relief. It does not matter that an intervening decision of
+this Court confirms his innocence. By challenging his con-
+viction once before, he forfeited his freedom.
+Though we agree with Justice Jackson that this is not
+the scheme Congress designed, we see the matter as the So-
+licitor General does. As all agree, Congress enacted § 2255
+to “afford federal prisoners a remedy identical in scope to
+federal habeas corpus.” Davis v. United States, 417 U. S.
+333, 343 (1974). To ensure that equivalence, Congress built
+in a saving clause, allowing recourse to habeas when the
+“remedy by motion” under § 2255 is “inadequate or ineffec-
+tive” compared to the remedy it replaced: an “application
+for a writ of habeas corpus.” § 2255(e). So, as this Court
+has explained, if § 2255 bars a claim cognizable at habeas,
+such that the remedies are not “commensurate,” the saving
+clause kicks in, and the prisoner may “proceed in federal ha-
+beas corpus.” Sanders v. United States, 373 U. S. 1, 14–15
+(1963); see United States v. Hayman, 342 U. S. 205, 223
+(1952).
+With that understanding in mind, consider a prisoner who,
+having already fled a motion for postconviction relief, dis-
+covers that a new decision of this Court establishes that his
+statute of conviction did not cover his conduct. He is out of
+luck under § 2255, because § 2255(h) will bar his claim. But
+that claim is cognizable at habeas, where we have long held
+that federal prisoners can collaterally attack their convic-
+tions in successive petitions if they can make a colorable
+showing that they are innocent under an intervening deci-
+sion of statutory construction. See Davis, 417 U. S., at 344–
+347; McCleskey v. Zant, 499 U. S. 467, 493–495 (1991). Con-
+gress did not abrogate that principle in § 2255(h). Thus, we
+have precisely the kind of mismatch the saving clause was
+designed to address.

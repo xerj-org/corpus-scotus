@@ -1,0 +1,112 @@
+United States v. Tsarnaev — No. 20-443 — October Term 2021 — decided 3/04/22 — Barrett, J., concurring
+Citation: 595 U.S. 302
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r14_l64n.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+spite the risk of evidentiary minitrials. See post, at 338–
+341. But many of those cases focused on the defendant's
+own conduct, not someone else's. See ibid. In such cases,
+the Government need only put on evidence tending to show
+that the defendant committed the past bad act. See, e. g.,
+United States v. Umaña, 750 F. 3d 320, 348–349 (CA4 2014).
+Here, the evidentiary showing would be substantially more
+complex and confusing. No one alleges that Dzhokhar par-
+ticipated in the Waltham murders, and, as the District Court
+reasonably concluded, the evidence available sheds little light
+on what role (if any) Tamerlan actually played. See App.
+650. To make his point at sentencing, then, Dzhokhar would
+first have to show, without any surviving witnesses, what
+role Tamerlan actually played. Then, he would have to es-
+tablish that he learned of the Waltham crimes before plan-
+ning the bombings. Finally, he would have to explain how
+his knowledge of Tamerlan's role in a nearly 2-year-old vio-
+lent robbery affected his own role in the bombings. What-
+ever other courts might think about an inquiry into a defend-
+ant's own prior bad acts, this District Court reasonably
+thought that the Waltham murder inquiry risked confusing
+the jury in these proceedings. We see no basis to disturb
+that conclusion.
+III
+Dzhokhar Tsarnaev committed heinous crimes. The Sixth
+Amendment nonetheless guaranteed him a fair trial before
+an impartial jury. He received one. The judgment of the
+United States Court of Appeals for the First Circuit is
+reversed.
+It is so ordered.
+Justice Barrett, with whom Justice Gorsuch joins,
+concurring.
+In this case, the First Circuit asserted “supervisory
+power” to impose a procedural rule on the District Court.
+Because that rule (which required a district court to ask
+media-content questions on request in high-profle prosecu-
+tions) conflicts with our cases (which hold that a district
+court has broad discretion to manage jury selection), I agree
+with the Court that the First Circuit erred.
+I write separately to note my skepticism that the courts
+of appeals possess such supervisory power in the first place.
+Article III's grant of “[t]he judicial Power” imbues each
+federal court with the inherent authority to regulate its
+own proceedings. U. S. Const., Art. III, § 1; Chambers v.
+NASCO, Inc., 501 U. S. 32, 43 (1991) (“It has long been under-
+stood that `[c]ertain implied powers must necessarily result
+to our Courts of justice from the nature of their institution,'
+powers `which cannot be dispensed with in a Court, because
+they are necessary to the exercise of all others' ” (quoting
+United States v. Hudson, 7 Cranch 32, 34 (1812))). This au-
+thority permits federal courts to handle a range of matters,
+big and small, that fall in the gaps of governing statutes and
+formally adopted procedural rules. See, e. g., Link v. Wa-
+bash R. Co., 370 U. S. 626 (1962) (a district court can dismiss
+a case sua sponte for failure to prosecute); Hazel-Atlas Glass
+Co. v. Hartford-Empire Co., 322 U. S. 238 (1944) (a court of
+appeals can vacate its judgment upon discovering fraud).
+But here, the First Circuit did not adopt a rule regulat-
+ing its own proceedings—it adopted a blanket rule that all
+district courts in its jurisdiction must follow on pain of
+reversal.
+In fairness to the First Circuit, we have suggested that
+the courts of appeals possess authority to dictate procedural
+rules for district courts. See, e. g., Cuyler v. Sullivan, 446
+U. S. 335, 346, n. 10 (1980) (citing Courts of Appeals decisions
+requiring district courts to inquire into potential conflicts of
+interest and referring to this as “a desirable practice”); Cupp
+v. Naughten, 414 U. S. 141, 146 (1973) (suggesting in dicta
+that a court of appeals may require a district court “to follow
+procedures deemed desirable from the viewpoint of sound
+judicial practice although in nowise commanded by statute
+or by the Constitution”).* Understandably, then, the First
+Circuit followed our lead. But before we go further down
+this road, we should reexamine the map. Not only have we
+failed to identify a source for this supposed authority, it is
+unclear that any exists.
+To be sure, this Court has squarely asserted supervisory
+power to regulate procedure in lower federal courts. See
+McNabb v. United States, 318 U. S. 332 (1943). While we
+have not justified this power either, it has an at least argu-
+able basis: the Constitution's establishment of this Court as
+“supreme,” as distinct from the “inferior Courts” that Con-
+gress has discretion to create. Art. III, § 1. Much like the
+grant of “[t]he judicial Power” carries with it inherent au-
+thority over local procedure, this Court's designation as “su-
+preme” might carry with it some inherent authority to pre-
+scribe procedural rules for inferior federal courts. But see
+ante, at 315, n. 1. In the end, this argument might be unsup-
+ported by the Constitution's structure and history. Still, the
+text of Article III makes it plausible.
+*In dissent, Justice Breyer asserts that “our precedents clearly rec-
+ognize the existence of” the courts of appeals' supervisory power. Post,
+at 342. But the cases cited by Justice Breyer reflect our sometimes
+imprecise use of the term “supervisory power.” Rather than using the
+term to refer to a court of appeals' authority to impose procedures on an
+inferior court, two of the cited cases use it to refer to a court's power to
+“supervise” its own proceedings. See Ortega-Rodriguez v. United States,
+507 U. S. 234, 249–250 (1993) (addressing a court of appeals' ability to dis-
+miss an appeal of a former fugitive); Thomas v. Arn, 474 U. S. 140, 142
+(1985) (a court of appeals may “establish a rule that the failure to fle
+objections to the magistrate's report waives the right to appeal the district
+court's judgment”). And in the third case, United States v. Hasting, 461
+U. S. 499 (1983), the Court operated on the assumption that the Court of
+Appeals had exercised “its supervisory powers to discipline the prosecu-
+tors of its jurisdiction,” not to regulate district courts. Id., at 505 (empha-
+sis added). The bottom line is that these cases do not address, much less
+endorse, the kind of supervisory authority that the First Circuit asserted
+here.

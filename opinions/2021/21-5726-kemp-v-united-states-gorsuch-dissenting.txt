@@ -1,0 +1,78 @@
+Kemp v. United States — No. 21-5726 — October Term 2021 — decided 6/13/22 — Gorsuch, J., dissenting
+Citation: 596 U.S. 528
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r38_e29f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Sotomayor, concurring.
+I join the Court's opinion holding that the term “mistake”
+in Federal Rule of Civil Procedure 60(b)(1) encompasses a
+judge's mistake of law. I write separately to make two
+points.
+First, I join the Court's opinion with the understanding
+that nothing in it casts doubt on the availability of Rule
+60(b)(6) to reopen a judgment in extraordinary circum-
+stances, including a change in controlling law. See, e. g.,
+Buck v. Davis, 580 U. S. 100, 126, 128 (2017) (concluding that
+the petitioner was “entitle[d] to relief under Rule 60(b)(6)”
+because of a change in law and intervening developments of
+fact); Gonzalez v. Crosby, 545 U. S. 524, 531 (2005) (“[A] mo-
+tion might contend that a subsequent change in substantive
+law is a `reason justifying relief,' Fed. Rule Civ. Proc.
+60(b)(6), from the previous denial of a claim”); Polites v.
+United States, 364 U. S. 426, 433 (1960) (leaving open that a
+“clear and authoritative change” in the law governing judg-
+ment in a case may present extraordinary circumstances).
+Today's decision does not purport to disturb these settled
+precedents.
+Second, I do not understand the Court's opinion to break
+any new ground as to Rule 60(c)(1), which requires that all
+Rule 60(b) motions be “made within a reasonable time.”
+See 11 C. Wright, A. Miller, & M. Kane, Federal Practice and
+Procedure § 2866 (3d ed. 2022) (“What constitutes reasonable
+time necessarily depends on the facts in each individual
+case”).
+Justice Gorsuch, dissenting.
+The Court took this case to determine whether a district
+court's mistake of law is correctable under Federal Rule of
+Civil Procedure 60(b)(1) or 60(b)(6).
+From the start, granting review was a questionable use of
+judicial resources. The answer matters only under rare
+circumstances: A losing party fails to appeal or secure relief
+under Rule 59(e), opting instead to fle a Rule 60(b) motion.
+That motion comes more than a year after judgment but—
+piling contingency on contingency—within what the court
+would otherwise deem a “reasonable time.” Rule 60(c)(1).
+By petitioner's own (uncontested) count, his is the first peti-
+tion ever to present today's question for this Court's review.
+See Pet. for Cert. 24; Brief in Opposition 26. Beyond even
+that, an alternative route exists to resolve the question
+posed here. Congress has adopted the Rules Enabling Act.
+See 28 U. S. C. §§ 2071–2077. Under its terms, a committee
+composed of judges and practitioners may recommend to this
+Court any warranted clarifcations to the Federal Rules of
+Civil Procedure. § 2073. Those recommendations gener-
+ally take effect upon our approval and absent congressional
+objection. § 2074.
+Undeterred, the Court takes up and resolves this case any-
+way. It holds that Rule 60(b)(1), not Rule 60(b)(6), applies.
+In an unexpected twist, the Court adopts a further position
+neither party saw ft to advance. Going forward, every judi-
+cial legal error—not just an inadvertent or obvious “mis-
+take”—is fodder for collateral attack under Rule 60(b)(1).
+And what is the basis for all this? A mysterious 1946
+amendment deleting the word “ `his.' ” See ante, at 535.
+Respectfully, I would have dismissed the writ of certiorari
+as improvidently granted. Not only does this case fail to
+meet our usual standards for review. See Supreme Court
+Rule 10. At bottom, this dispute presents a policy question
+about the proper balance between finality and error correc-
+tion. Should a district court be able to clean up a legal error
+through a collateral proceeding on any reasonable timeline
+within a year of judgment? Or do Rule 59(e) and the appel-
+late process provide the necessary corrective measures in
+ordinary cases, with Rule 60(b)(6) as a last, narrow avenue to
+relief? Questions like these are best resolved not through
+a doubtful interpretive project focused on a pronoun dropped
+in 1946, but through the rulemaking process. There, policy
+interests on both sides can be accounted for and weighed in
+light of the “collective experience of bench and bar.” Mo-
+hawk Industries, Inc. v. Carpenter, 558 U. S. 100, 114 (2009).

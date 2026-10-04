@@ -1,0 +1,214 @@
+Chevron USA Inc. v. Plaquemines Parish — No. 24-813 — October Term 2025 — decided 4/17/26 — Jackson, J., concurring in judgment
+Citation: 608 U.S. 1
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r25_2q24.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ance of federal duties. Accordingly, we vacate the judgment
+of the Fifth Circuit and remand the case for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+Justice Alito took no part in the decision of this case.
+Justice Jackson, concurring in the judgment.
+The Court correctly holds that the underlying lawsuit is
+“for or relating to” Chevron's acts done “under color of [fed-
+eral] office.” 28 U. S. C. § 1442(a)(1); see ante, at 15–16.
+But I disagree with the majority's conclusion that the federal
+officer removal statute's “for or relating to” language re-
+quires only an indirect relationship between the conduct tar-
+geted by the lawsuit and the asserted federal duties. See
+ante, at 11. In my view, the statute demands more.
+Understood in the context of its statutory and legislative
+history, § 1442(a)(1) requires a causal nexus between the tar-
+geted conduct and the federal duties, as I explain below.
+Chevron satisfies the causal-nexus requirement on the facts
+presented here, so I agree that the Fifth Circuit's ruling
+must be vacated. I therefore respectfully concur only in the
+majority's judgment.
+I
+A
+Since 1948, Congress has authorized federal officers, and
+people acting under federal officers, to remove lawsuits
+brought “for any act under color of [federal] office.” Act of
+June 25, 1948, § 1442(a)(1), 62 Stat. 938. We interpreted this
+statutory language to require “a causal connection between
+the charged conduct and asserted official authority.” Will-
+ingham v. Morgan, 395 U. S. 402, 409 (1969) (internal quota-
+tion marks omitted). In other words, we held that the fed-
+eral directive giving rise to the authority to act must be a
+but-for cause of the conduct challenged by the lawsuit. See
+Maryland v. Soper, 270 U. S. 9, 33 (1926) (explaining that,
+under a similar statute, a federal official could remove a
+prosecution to federal court if the case was “based on or
+arises out of the acts he did under authority of federal law
+in the discharge of his duty and only by reason thereof”);
+accord, Willingham, 395 U. S., at 409.
+Congress amended the federal officer removal statute in
+2011, adding the “or relating to” language. See Removal
+Clarification Act of 2011, § 2(b), 125 Stat. 545. The question
+the Court answers today is what this addition means.
+B
+In responding to this inquiry, the majority considers in
+isolation the “ordinary meaning” of the phrase “relating to.”
+Ante, at 11 (internal quotation marks omitted). Based on
+our case law interpreting that phrase in other contexts, the
+majority concludes that this language requires only an indi-
+rect relationship between the conduct alleged in the lawsuit
+and the asserted federal duties. Ante, at 10–12. Accord-
+ingly, in the majority's view, Congress's addition of “or relat-
+ing to” jettisoned the causal-nexus test in favor of a looser
+standard. Ante, at 11, and n. 3.
+I think the Court should interpret the “relating to” addi-
+tion primarily by determining what Congress intended to
+accomplish with this amendment. Learning Resources, Inc.
+v. Trump, 607 U. S. 229, 310–311 (2026) (Jackson, J., concur-
+ring in part and concurring in judgment). Indeed, the
+Court's “fundamental task” in interpreting federal statutes
+is to give effect to Congress's intent. R. Katzmann, Judging
+Statutes 31 (2014) (Katzmann); see Pennington v. Coxe, 2
+Cranch 33, 59 (1804) (opinion for the Court by Marshall, C. J.)
+(“It is the duty of the court to discover the intention of the
+legislature, and to respect that intention”). And the Court
+faithfully discharges this duty when it considers all reliable
+evidence of Congress's intent—including statutory and legis-
+lative history. See United States v. Hansen, 599 U. S. 762,
+775 (2023) (“Statutory history is an important part of [the]
+context” in which we interpret text); Katzmann 38 (“Legisla-
+tive history . . . can help [judges] understand what the law
+means”).
+Here, the statutory and legislative history is clear: Con-
+gress did not set out to change the causal-nexus requirement
+with its 2011 amendment. Rather, the “relating to” addition
+was motivated by a problem entirely separate from the
+causal-nexus requirement.
+At the time of the amendment, 40 States had laws author-
+izing private parties to compel document production or
+depositions before they commenced a lawsuit. See Removal
+Clarification Act of 2010: Hearing on H. R. 5281 before the
+Subcommittee on Courts and Competition Policy of the
+House Committee on the Judiciary, 111th Cong., 2d Sess., 1
+(2010) (House Hearings).* Federal officers were sometimes
+the target of such presuit discovery proceedings. H. R. Rep.
+No. 112–17, pt. 1, pp. 3–4 (2011) (H. R. Rep.). Courts were
+split, however, on whether federal officers could remove
+presuit discovery proceedings to federal court under
+§ 1442(a)(1). House Hearings, at 1–2; compare Price v. John-
+son, 600 F. 3d 460, 462 (CA5 2010) (reviewing District Court
+order determining such a proceeding was not removable),
+with In re Subpoena In Collins, 524 F. 3d 249, 251 (CADC
+2008) (determining such a proceeding was removable).
+Congress amended the federal officer removal statute to
+clarify that presuit discovery proceedings targeting federal
+officers were removable. H. R. Rep., at 4. Congress made
+substantive changes to that end; for example, it specifically
+stated that “any proceeding” in which “a judicial order, in-
+cluding a subpoena for testimony or documents, is sought or
+issued” was removable. § 2(a)(1), 125 Stat. 545 (codified at
+28 U. S. C. § 1442(d)(1)); see H. R. Rep., at 4.
+*The House Hearings were for a predecessor bill proposed the year
+before the Removal Clarification Act was passed. That predecessor bill
+included the “or relating to” language that was ultimately enacted. See
+H. R. 5281, 111th Cong., 2d Sess., § 2(b)(2) (2010).
+Congress also made several “conforming amendments.”
+§ 2(b), 125 Stat. 545. The addition of the “or relating to”
+language to § 1442(a)(1) was one of them. 125 Stat. 545 (re-
+ferring to this change as a “conforming amendment”); accord,
+House Hearings, at 44 (describing this as a “minor chang[e]
+to existing § 1442(a) [to] make it consistent” with the substan-
+tive changes). The addition of “or relating to” was not a
+substantive change.
+C
+That the addition of “or relating to” was a “conforming
+amendment” is meaningful. Congress rarely changes the
+substance of a statute through “mere conforming amend-
+ment[s].” INS v. Stevic, 467 U. S. 407, 428 (1984). Such
+amendments are typically “minor tweak[s],” intended to har-
+monize or clarify amended statutory provisions. Cyan, Inc.
+v. Beaver County Employees Retirement Fund, 583 U. S.
+416, 430 (2018); accord, Stevic, 467 U. S., at 428. Thus, it
+would be passing strange to conclude that “Congress made a
+radical—but entirely implicit—change” to the standard for
+federal officer removal through a conforming amendment.
+Director of Revenue of Mo. v. CoBank ACB, 531 U. S. 316,
+324 (2001).
+And indeed, the legislative history here confirms that Con-
+gress did no such thing. It makes crystal clear that the Re-
+moval Clarification Act was “not changing the underlying
+removal law,” but was instead simply clarifying that § 1442
+would apply “anytime a legal demand is made on a Federal
+officer for any act done under their official capacity.” House
+Hearings, at 2; see id., at 13 (testimony of the House General
+Counsel that the bill “does not alter the standard for general
+removal for Federal officer removal under [§ ]1442”); id., at
+17 (“[U]nder the terms of the bill . . . , each of the currently
+existing requirements of the federal officer removal statute
+still must be met for removal to be permitted”); 157 Cong.
+Rec. 2792 (2011) (statement of Rep. Jackson Lee that the bill
+“does not make any changes to the underlying removal law”).
+Moreover, the history establishes that Congress knew the
+removal law it was amending required a causal nexus. See
+H. R. Rep., at 3 (“Federal officers . . . must demonstrate a
+causal connection between the charged conduct and asserted
+official authority”). So, with full knowledge of the causal-
+nexus test, Congress made only a “conforming” change—it
+did not alter the substantive requirements for removal.
+This is not to say that the “or relating to” language served
+no purpose. By adding it, Congress confirmed that sub-
+poena enforcement and presuit discovery proceedings “fall
+within the scope of Section 1442.” House Hearings, at 20
+(testimony of the House General Counsel).
+The nature of presuit discovery proceedings necessitated
+such confirmation. Presuit discovery proceedings seek to
+get information, not to accuse the target of engaging in un-
+lawful conduct. Thus, to describe a subpoena or a deposi-
+tion as being “for” unlawful conduct is factually inaccurate.
+If the statute permitted removal of only those proceedings
+that are “for” federally directed conduct, then arguably that
+statutory provision would not authorize removal of presuit
+discovery proceedings. But presuit discovery proceedings
+are “related to” a defendant's federally directed conduct.
+See Brief for Former Governor John Bel Edwards as Amicus
+Curiae 12–13. So, “[b]ecause the amended § 1442 would
+now include proceedings that do not seek to impose civil lia-
+bility or a criminal penalty on the federal officer, [the statute]
+allows removal not only in proceedings `for' acts under color
+of the federal office but also in proceedings `relating to' such
+acts.” House Hearings, at 68 (statement of Arthur D. Hell-
+man, University of Pittsburgh School of Law).
+In short, by adding “or relating to,” Congress confirmed
+that the substantive changes “broaden[ed] the universe of
+acts that enable Federal officers to remove to Federal court.”
+H. R. Rep., at 6. The amendment clarified that presuit dis-
+covery proceedings were squarely within “the universe of
+acts” that a federal officer could remove. But Congress did
+not intend to change any of the underlying removal require-
+ments—including the causal-nexus test.
+II
+Although the majority and I interpret the “for or relating
+to” requirement differently, we agree that the state lawsuit
+here satisfies this requirement. The lawsuit targets Chev-
+ron's crude-oil production activities. And as the majority
+explains, Chevron's predecessor contracted with the Federal
+Government during the Second World War to produce avia-
+tion gasoline (“avgas”), a product refined from crude oil.
+Ante, at 6–8.
+Chevron used much of the crude oil it pumped from its
+Louisiana oil fields to refine into avgas during the war. This
+was no accident. The crude oil from Chevron's Louisiana
+fields was particularly well-suited for refining into avgas, and
+the Federal Government pushed its refners, including Chev-
+ron, to produce more and more avgas. Ante, at 13. This in
+turn demanded an ever-increasing supply of crude oil. Ibid.
+Chevron therefore produced crude oil, at least in part, to
+meet the demands of its federal contracts—satisfying the
+causal-nexus requirement.
+The Fifth Circuit erred in concluding that the removal
+statute's “for or relating to” requirement was not met under
+the circumstances presented here. It faulted Chevron for
+failing to identify a specific contractual directive “pertaining
+to oil production.” Plaquemines Parish v. BP America
+Production Co., 103 F. 4th 324, 341 (2024). But Chevron's
+federal contracts can be a but-for cause of the challenged
+crude-oil production without specifically directing that pro-
+duction. Because the Fifth Circuit's contractual-directive
+demand goes a step further than even the causal-nexus test,
+I agree with the majority that the Fifth Circuit's judgment
+must be vacated.

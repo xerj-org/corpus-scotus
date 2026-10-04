@@ -1,0 +1,111 @@
+Caniglia v. Strom — No. 20-157 — October Term 2020 — decided 5/17/21 — opinion of the Court — author Thomas (listing code T)
+Citation: 593 U.S. 194
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r33_4i29.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+Decades ago, this Court held that a warrantless search of
+an impounded vehicle for an unsecured firearm did not vio-
+late the Fourth Amendment. Cady v. Dombrowski, 413
+U. S. 433 (1973). In reaching this conclusion, the Court ob-
+served that police officers who patrol the “public highways”
+are often called to discharge noncriminal “community care-
+taking functions,” such as responding to disabled vehicles or
+investigating accidents. Id., at 441. The question today is
+whether Cady's acknowledgment of these “caretaking” du-
+ties creates a standalone doctrine that justifies warrantless
+searches and seizures in the home. It does not.
+I
+During an argument with his wife at their Rhode Island
+home, Edward Caniglia (petitioner) retrieved a handgun
+from the bedroom, put it on the dining room table, and asked
+his wife to “shoot [him] now and get it over with.” She de-
+clined, and instead left to spend the night at a hotel. The
+next morning, when petitioner's wife discovered that she
+could not reach him by telephone, she called the police (re-
+spondents) to request a welfare check.
+Respondents accompanied petitioner's wife to the home,
+where they encountered petitioner on the porch. Petitioner
+spoke with respondents and confirmed his wife's account of
+the argument, but denied that he was suicidal. Respond-
+ents, however, thought that petitioner posed a risk to himself
+or others. They called an ambulance, and petitioner agreed
+Knudsen of Montana, Mike Hunter of Oklahoma, Alan Wilson of South
+Carolina, Jason R. Ravnsborg of South Dakota, and Ken Paxton of Texas;
+and for the National Association of Counties et al. by John J. Korzen and
+Lisa Soronen.
+Briefs of amici curiae were fled for the Pacific Legal Foundation by
+Daniel Woislaw and Steven M. Simpson; and for the Project for Privacy &
+Surveillance Accountability et al. by Gene C. Schaerr, Erik S. Jaffe, Han-
+nah C. Smith, Kathryn E. Tarbert, Scott D. Goodwin, and Mahesha
+P . Subbaraman.
+to go to the hospital for a psychiatric evaluation—but only
+after respondents allegedly promised not to confscate his
+firearms. Once the ambulance had taken petitioner away,
+however, respondents seized the weapons. Guided by pe-
+titioner's wife—whom they allegedly misinformed about
+his wishes—respondents entered the home and took two
+handguns.
+Petitioner sued, claiming that respondents violated the
+Fourth Amendment when they entered his home and seized
+him and his firearms without a warrant. The District Court
+granted summary judgment to respondents, and the First
+Circuit affirmed solely on the ground that the decision to
+remove petitioner and his firearms from the premises fell
+within a “community caretaking exception” to the warrant
+requirement. 953 F. 3d 112, 121–123, 131, and nn. 5, 9 (2020).
+Citing this Court's statement in Cady that police officers
+often have noncriminal reasons to interact with motorists on
+“public highways,” 413 U. S., at 441, the First Circuit extrap-
+olated a freestanding community-caretaking exception that
+applies to both cars and homes. 953 F. 3d, at 124 (“Threats
+to individual and community safety are not confined to the
+highways”). Accordingly, the First Circuit saw no need to
+consider whether anyone had consented to respondents' ac-
+tions; whether these actions were justified by “exigent cir-
+cumstances”; or whether any state law permitted this kind
+of mental-health intervention. Id., at 122–123. All that
+mattered was that respondents' efforts to protect petitioner
+and those around him were “distinct from `the normal work
+of criminal investigation,' ” fell “within the realm of reason,”
+and generally tracked what the court viewed to be “sound
+police procedure.” Id., at 123–128, 132–133. We granted
+certiorari. 592 U. S. ––– (2020).
+II
+The Fourth Amendment protects “[t]he right of the people
+to be secure in their persons, houses, papers, and effects,
+against unreasonable searches and seizures.” The “ `very
+core' ” of this guarantee is “ `the right of a man to retreat
+into his own home and there be free from unreasonable gov-
+ernmental intrusion.' ” Florida v. Jardines, 569 U. S. 1, 6
+(2013).
+To be sure, the Fourth Amendment does not prohibit all
+unwelcome intrusions “on private property,” ibid.—only “un-
+reasonable” ones. We have thus recognized a few permissi-
+ble invasions of the home and its curtilage. Perhaps most
+familiar, for example, are searches and seizures pursuant
+to a valid warrant. See Collins v. Virginia, 584 U. S.
+–––, ––– – ––– (2018). We have also held that law enforce-
+ment officers may enter private property without a warrant
+when certain exigent circumstances exist, including the need
+to “ `render emergency assistance to an injured occupant
+or to protect an occupant from imminent injury.' ” Ken-
+tucky v. King, 563 U. S. 452, 460, 470 (2011); see also Brig-
+ham City v. Stuart, 547 U. S. 398, 403–404 (2006) (listing
+other examples of exigent circumstances). And, of course,
+officers may generally take actions that “ `any private citi-
+zen might do' ” without fear of liability. E. g., Jardines, 569
+U. S., at 8 (approaching a home and knocking on the front
+door).
+The First Circuit's “community caretaking” rule, however,
+goes beyond anything this Court has recognized. The deci-
+sion below assumed that respondents lacked a warrant or
+consent, and it expressly disclaimed the possibility that they
+were reacting to a crime. The court also declined to con-
+sider whether any recognized exigent circumstances were
+present because respondents had forfeited the point. Nor
+did it find that respondents' actions were akin to what a pri-
+vate citizen might have had authority to do if petitioner's
+wife had approached a neighbor for assistance instead of
+the police.
+Neither the holding nor logic of Cady justified that ap-
+proach. True, Cady also involved a warrantless search for

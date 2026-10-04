@@ -1,0 +1,109 @@
+Samia v. United States — No. 22-196 — October Term 2022 — decided 6/23/23 — Jackson, J., dissenting
+Citation: 599 U.S. 635
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r46_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+out Mary's name for a blank space or the word “deleted.”
+But no worries—the government now has a functionally
+equivalent placeholder at its (Court-sanctioned) disposal. It
+can simply replace Mary's name with “a woman,” and the
+Bruton issue will go away. But contrary to today's decision,
+the serious Sixth Amendment problem remains. Now, de-
+fendants in joint trials will not have the chance to confront
+some of the most damaging witnesses against them. And a
+constitutional right once guaranteeing that opportunity will
+no longer. It will become, in joint trials, a shell of its former
+self. I respectfully dissent.
+Justice Jackson, dissenting.
+I join Justice Kagan’s dissent in full, and agree, in par-
+ticular, with her insight that the majority's bottom-line view
+is that “Bruton should go.” Ante, at 666. I am writing to
+emphasize that most of the force of the Court's argument (to
+the extent that it is at all forceful) comes from the majority
+having improperly reframed the constitutional standard that
+applies to the admission of incriminating testimonial state-
+ments of a codefendant during a joint criminal trial.
+Under the majority's approach, the default rule is that a
+nontestifying codefendant's incriminating confession is ad-
+missible, so long as it is accompanied by a limiting instruc-
+tion. Ante, at 644, 647, 655. Thus, for present purposes,
+the majority repeatedly calls Bruton v. United States, 391
+U. S. 123 (1968), a “ `narrow exception' ” to this default rule.
+Ante, at 647, 650, 652–653. And the thrust of the majority's
+holding is that the so-called Bruton exception is—and must
+be—narrow: Bruton is a pesky deviation that requires the
+exclusion of otherwise admissible evidence (hence, the ease
+with which the majority contemplates dispensing with that
+precedent).
+That approach inverts the constitutional principles that
+govern this case. Under our well-established Sixth Amend-
+ment precedents, the Court's analysis must, instead, start
+from the premise that the introduction of Stillwell's inculpa-
+tory confession during the joint trial threatened Samia's
+Confrontation Clause rights. The introduction of a “testi-
+monial” statement from an unavailable declarant violates the
+Confrontation Clause unless the defendant had a prior oppor-
+tunity for cross-examination. Crawford v. Washington, 541
+U. S. 36, 59, 68 (2004). And, here, there is no dispute that
+Stillwell's statement to law enforcement was testimonial,
+that Stillwell was an unavailable declarant, and that Samia
+had no opportunity to cross-examine Stillwell. Therefore,
+the default presumption in this case should have been that
+Stillwell's confession was not admissible at his and Samia's
+joint trial, because the statement implicated Samia on its
+face, and Samia could not cross-examine the declarant.*
+When the Government attempted to nonetheless introduce
+Stillwell's inculpatory confession notwithstanding Samia's in-
+ability to cross-examine him, it sought an exception from the
+Confrontation Clause's exclusion mandate. Before today,
+this Court had never held that a limiting instruction, com-
+bined with a redaction that merely replaces the defendant's
+name, sufficiently “cures” the constitutional problem. In
+Bruton, the Court rejected the idea of an exception en-
+tirely—it entertained permitting such an exception in light
+of a limiting instruction given at trial, but the Court ulti-
+mately declined to adopt one. 391 U. S., at 137 (“[I]n the
+context of a joint trial we cannot accept limiting instructions
+as an adequate substitute for petitioner's constitutional right
+of cross-examination”). Then, in Gray v. Maryland, 523
+*Contrary to the Government's suggestion (see Brief for United States
+12, 32), a codefendant's confession implicates a defendant's Sixth Amend-
+ment rights even if it does “not directly accuse [the defendant] of wrongdo-
+ing,” but “rather . . . is inculpatory only when taken together with other
+evidence,” Melendez-Diaz v. Massachusetts, 557 U. S. 305, 313 (2009).
+That conclusion follows from the text of the Sixth Amendment, which
+guarantees the right of the accused to “confron[t]” “witnesses against him”
+(emphasis added), not just those witnesses who “ `facially incriminat[e]' ”
+him, contra, ante, at 647–648.
+U. S. 185 (1998), the Government tried again to get an excep-
+tion to the Confrontation Clause—this time adding an obvi-
+ous redaction of the defendant's name in the confession on
+top of the limiting instruction—but this Court once again
+rebuffed such efforts. Id., at 188. Indeed, the only prior
+case in which this Court has permitted an exception to the
+baseline confrontation rule of exclusion was one in which the
+confession at issue arguably was not even “against” the de-
+fendant in the first place, as it did not incriminate the ac-
+cused in any way until the defendant herself introduced evi-
+dence that rendered the confession inculpatory. Richardson
+v. Marsh, 481 U. S. 200, 206, 208, 211 (1987).
+Collectively, our precedents properly recognize the neces-
+sary narrowness of any exception to the default Bruton prin-
+ciple that the Government's introduction of an inculpatory
+confession during a joint trial poses a substantial constitu-
+tional problem. Not anymore. With today's ruling, the ma-
+jority fails to acknowledge what is the default rule and what
+is the exception. And it thereby sets the stage for consider-
+able erosion of the Confrontation Clause right that Bruton
+protects.
+Properly understood, the Bruton question actually raises
+two distinct issues: one about whether there is a Confronta-
+tion Clause problem in the first place, and a second about
+potential cures (like redactions and limiting instructions) for
+that constitutional dilemma. The majority skips over the
+first question today; its analysis essentially assumes that
+there is no Sixth Amendment problem in the first place,
+which then allows for an unwarranted expansion of what
+should be a narrow exception to the default principle of ex-
+clusion. In other words, the Court has now turned our Bru-
+ton cases on their head in a manner that risks undermining
+a core Sixth Amendment right.

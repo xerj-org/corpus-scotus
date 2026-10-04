@@ -1,0 +1,151 @@
+Cox Communications, Inc. v. Sony Music Entertainment — No. 24-171 — October Term 2025 — decided 3/25/26 — 942 (Ginsburg, J., concurring). These two bases for contributory liabil-
+Citation: 607 U.S. 583
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r22_k4lo.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+942 (Ginsburg, J., concurring). These two bases for contributory liabil-
+ity track patent law. See 35 U. S. C. §§ 271(b), (c).
+Cox Communications, Inc., is an Internet service provider serving
+approximately 6 million subscribers, each associated with a unique In-
+ternet Protocol (IP) address. Internet service providers like Cox have
+limited knowledge about how their services are used; they know which
+IP address corresponds to which subscriber account but cannot distin-
+guish individual users or directly control how services are used. Cox
+contractually prohibits subscribers from using their connection to post,
+copy, transmit, or disseminate content that infringes copyrights.
+Sony Music Entertainment and other major music copyright owners
+enlisted MarkMonitor to track copyright infringement across the In-
+ternet. MarkMonitor's software detects when copyrighted works are
+illegally uploaded or downloaded and traces the activity to particular IP
+addresses. During the roughly 2-year period at issue, MarkMonitor
+sent Cox 163,148 notices identifying IP addresses of Cox subscribers
+associated with infringement.
+Sony sued Cox in Federal District Court, advancing two theories of
+secondary copyright liability. First, Sony alleged that Cox contributed
+to its users' infringement by continuing to provide Internet service to
+subscribers whose IP addresses Cox knew were associated with in-
+fringement. Second, Sony alleged that Cox was vicariously liable for
+ENTERTAINMENT
+Syllabus
+its users' infringement. The jury found in favor of Sony on both theo-
+ries, found Cox's infringement willful, and awarded $1 billion in statu-
+tory damages. The District Court denied Cox's post-trial motion for
+judgment as a matter of law in relevant part. The Fourth Circuit af-
+firmed as to contributory liability, reasoning that supplying a product
+with knowledge that the recipient will use it to infringe copyrights is
+exactly the sort of culpable conduct sufficient for contributory infringe-
+ment. The Fourth Circuit reversed as to vicarious liability. This
+Court granted Cox's petition for certiorari as to contributory liability.
+Held: The provider of a service is contributorily liable for a user's infringe-
+ment only if it intended that the provided service be used for infringe-
+ment, which can be shown only if the party induced the infringement or
+the provided service is tailored to that infringement; Cox neither in-
+duced its users' infringement nor provided a service tailored to infringe-
+ment; accordingly, Cox is not contributorily liable for the infringement
+of Sony's copyrights. Pp. 592–596.
+(a) “The Copyright Act does not expressly render anyone liable for
+infringement committed by another.” Sony Corp. of America v. Uni-
+versal City Studios, Inc., 464 U. S. 417, 434. Ordinarily, when Congress
+intends to impose secondary liability, it does so expressly. Central
+Bank of Denver, N. A. v. First Interstate Bank of Denver, N. A., 511
+U. S. 164, 176–177. The Court's precedents have recognized specific
+forms of secondary copyright liability that predated the Copyright Act,
+but the Court is loath to expand such liability beyond those precedents.
+Under this Court's precedents, the intent required for contributory
+liability can be shown only if the party induced the infringement or the
+provided service is tailored to that infringement. See Grokster, 545
+U. S., at 930; Sony, 464 U. S., at 440–441.
+A provider induces infringement if it actively encourages infringe-
+ment through specific acts, as in Grokster, where fle-sharing software
+companies promoted and marketed their software as a tool to infringe
+copyrights. See 545 U. S., at 926. A service is tailored to infringement
+if it is “not capable of `substantial' or `commercially signifcant' nonin-
+fringing uses.” Id., at 942 (Ginsburg, J., concurring). For example, in
+Sony, the Court held that sale of the Betamax video tape recorder to
+the general public did not constitute contributory infringement. It rea-
+soned that the tape recorder was “capable of substantial noninfringing
+uses” because it could be used to record copyrighted television programs
+for later personal viewing, which would not constitute infringement—
+even though it could also be used to reproduce and sell copyrighted
+programming, which would constitute infringement. 464 U. S., at 449,
+456. The Court has repeatedly made clear—see Kalem Co. v. Harper
+Brothers, 222 U. S. 55, Sony, and Grokster—that mere knowledge that
+a service will be used to infringe is insufficient to establish the required
+intent to infringe. Pp. 592–594.
+(b) Cox neither induced its users' infringement nor provided a service
+tailored to infringement. As for inducement, Cox did not “induce” or
+“encourage” its subscribers to infringe in any manner, Grokster, 545
+U. S., at 930; Sony provided no “evidence of express promotion, market-
+ing, and intent to promote” infringement, id., at 926; and Cox repeatedly
+discouraged copyright infringement by sending warnings, suspending
+services, and terminating accounts. As for providing a service tailored
+to infringement, Cox's Internet service was clearly “capable of `substan-
+tial' or `commercially signifcant' noninfringing uses,” id., at 942; Cox
+simply provided Internet access, which is used for many purposes other
+than copyright infringement.
+The Fourth Circuit's holding went beyond the two forms of liability
+recognized in Grokster and Sony by holding that “supplying a product
+with knowledge that the recipient will use it to infringe copyrights
+is . . . sufficient for contributory infringement.” 93 F. 4th 222, 236.
+This holding went beyond the two bases for contributory liability recog-
+nized in the Court's precedent and conficted with the Court's repeated
+admonition that contributory liability cannot rest only on a provider's
+knowledge of infringement and insufficient action to prevent it.
+Pp. 595–596.
+(c) Sony argues that the Digital Millennium Copyright Act safe har-
+bor—under which Internet service providers cannot be secondarily lia-
+ble for certain forms of copyright infringement if they have imple-
+mented “a policy that provides for the termination in appropriate
+circumstances of subscribers and account holders” who “are repeat in-
+fringers,” 17 U. S. C. § 512(i)(1)(A)—would have no effect if Internet
+service providers are not liable for providing Internet service to known
+infringers. The DMCA does not expressly impose liability for Internet
+service providers who serve known infringers; it merely creates new
+defenses from liability for such providers. The DMCA itself made clear
+that failure to comply with the safe-harbor rules “shall not bear ad-
+versely upon . . . a defense by the service provider,” as here, “that the
+service provider's conduct is not infringing.” § 512( l). P. 596.
+93 F. 4th 222, reversed and remanded.
+Thomas, J., delivered the opinion of the Court, in which Roberts, C. J.,
+and Alito, Kagan, Gorsuch, Kavanaugh, and Barrett, JJ., joined.
+Sotomayor, J., fled an opinion concurring in the judgment, in which Jack-
+son, J., joined, post, p. 596.
+ENTERTAINMENT
+Syllabus
+E. Joshua Rosenkranz argued the cause for petitioners.
+With him on the briefs were Christopher J. Cariello, Alexan-
+dra Bursak, Edward Williams, Abigail Colella, Kamilyn Y .
+Choi, Roman Martinez, Sarang V. Damle, and Brent T. F.
+Murphy.
+Deputy Solicitor General Stewart argued the cause for the
+United States as amicus curiae urging reversal. With him
+on the brief were Solicitor General Sauer , Principal Deputy
+Assistant Attorney General Roth, Aaron Z. Roper , and Dan-
+iel Tenny.
+Paul D. Clement argued the cause for respondents. With
+him on the brief were Erin E. Murphy, Kevin Wynosky,
+Matthew J. Oppenheim, Scott A. Zebrak, and Jeffrey M.
+Gould.*
+*Briefs of amici curiae urging reversal were fled for Altice USA, Inc.,
+et al. by Joshua D. Branson, Scott H. Angstreich, Derek C. Reinbold,
+Elana R. Beale , and William M. Herberer; for the American Civil Liber-
+ties Union et al. by Rebecca Tushnet, Mark Lemley , Jennifer Granick,
+Evelyn Danforth-Scott, Cecillia D. Wang , and Eden B. Heilman; for the
+Common Sense Copyright Coalition et al. by Thomas M. Johnson, Jr.;
+for the Computer & Communications Industry Association by Jonathan
+Band, Matt Schruers, and Ali Sternburg; for the Electronic Frontier
+Foundation et al. by Michael Barclay and Mitchell L. Stoltz; for Engine
+Advocacy et al. by Benjamin W. Berkowitz; for Google LLC et al. by
+Andrew J. Pincus, Archis A. Parasharami, and A. John P . Mancini; for
+Grande Communications Networks, LLC, by Daniel L. Geyser and Rich-
+ard L. Brophy; for Intellectual Property Law Scholars by Alfred C. Yen,
+pro se; for the Internet Society by Raechel Keay Anglin; for Public Knowl-
+edge by John Bergmayer and Meredith Rose; and for X Corp. by Andrew
+H. Schapiro, William F. Patry, and Jessica A. Rose.
+Briefs of amici curiae urging affirmance were fled for the Association
+of Amicus Counsel by Robert J. Rando and Charles E. Miller; for the
+Authors Guild, Inc., et al. by Kevin Amer; for the Copyright Alliance by
+Robert H. Rotstein, Eleanor M. Lackman, and Eric J. Schwartz; for For-
+mer Members of Congress et al. by Jacqueline C. Charlesworth; for Intel-
+lectual Property Law Scholars by Nancy E. Wolff; for the National Center
+on Sexual Exploitation by Hyland Hunt and Dana Kaersvang; for the
+National Music Publishers' Association et al. by Shannen W. Coffn and

@@ -1,0 +1,46 @@
+E.M.D. Sales, Inc. v. Carrera — No. 23-217 — October Term 2024 — decided 1/15/25 — Gorsuch, J., concurring
+Citation: 604 U.S. 45
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r06_5ifl.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tablishing a violation and because plaintiffs in those cases
+may have low incomes. But in Title VII cases too, employ-
+ers control “most of the cards,” and plaintiffs may be low-
+income. Murray v. UBS Securities, LLC , 601 U. S. 23, 36
+(2024) (quotation marks omitted). Yet the preponderance
+standard applies in those cases. So too here.
+* * *
+We hold that the preponderance-of-the-evidence standard
+applies when an employer seeks to show that an employee is
+exempt from the minimum-wage and overtime-pay provi-
+sions of the Fair Labor Standards Act. The employees
+argue that we should still affirm because they would not
+qualify as outside salesmen even under a preponderance
+standard. But our usual practice is to leave matters of that
+sort for remand. We see no persuasive reason to stray from
+that usual practice here. We therefore reverse the judg-
+ment of the Court of Appeals and remand the case for fur-
+ther proceedings consistent with this opinion.
+It is so ordered.
+Justice Gorsuch, with whom Justice Thomas joins,
+concurring.
+Sometimes, the Constitution or Congress provides a par-
+ticular standard of proof. See ante, at 50–51. If not, courts
+must find one. As in other contexts, they do so by examin-
+ing the legal backdrop against which Congress has legislated.
+See, e. g., Dixon v. United States, 548 U. S. 1, 17 (2006); cf.
+Astoria Fed. Sav. & Loan Assn. v. Solimino, 501 U. S. 104,
+108 (1991) (“Congress is understood to legislate against a
+background of common-law adjudicatory principles”). In
+civil cases, those background legal principles typically re-
+quire proof by a preponderance of the evidence. See ante, at
+49–50. Occasionally, though, the default “common-law rule”
+provides instead for a “heightened standard of proof.” Mi-
+crosoft Corp. v. i4i L. P ., 564 U. S. 91, 116 (2011) (Thomas, J.,
+concurring in judgment). Either way, courts apply the de-
+fault standard unless Congress alters it or the Constitution
+forbids it. See, e. g., Octane Fitness, LLC v. ICON Health &
+Fitness, Inc., 572 U. S. 545, 557–558 (2014). To do otherwise
+would be to “choose sides in a policy debate,” ante, at 53,
+rather than to declare the law as our judicial duty requires.
+Our decision today is consistent with this understanding, and
+I am pleased to join it.

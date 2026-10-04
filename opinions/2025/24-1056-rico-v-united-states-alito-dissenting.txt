@@ -1,0 +1,118 @@
+Rico v. United States — No. 24-1056 — October Term 2025 — decided 3/25/26 — Alito, J., dissenting
+Citation: 607 U.S. 609
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r23_4g15.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Alito, dissenting.
+This case is much simpler than the Court's opinion sug-
+gests, and we have no need to consider whether petitioner's
+term of supervised release was “tolled” when she absconded
+and evaded supervision.
+I
+I will start with what is undisputed. In December 2017,
+petitioner began a 42-month term of supervised release and,
+during that time, was required not to use illegal drugs or
+commit any other crimes and was ordered to notify her pro-
+bation officer if her address changed. In May 2018, she
+moved without telling her probation officer, and a warrant
+was issued for her arrest. She remained a fugitive until
+January 2023, but during the intervening months, she com-
+mitted three state-law criminal offenses, including a drug
+crime in January 2022. The sentencing judge, exercising his
+authority under 18 U. S. C. §§ 3583(e)(3) and (h), revoked
+petitioner's term of supervised release, sent her back to
+prison for 16 months, and required her to serve a new 2-year
+term of supervised release after her release from confinement.
+In determining the length of petitioner's new term of im-
+prisonment, the judge turned first to the Sentencing Guide-
+lines. Without the January 2022 drug offense, the sentenc-
+ing range recommended by the Guidelines was 8 to 14
+months, but with the drug offense the range jumped to 33 to
+36 months. The judge started with the higher range, but
+he made a large downward “variance” and set her sentence
+at 16 months, just 2 months longer than the top of the range
+that would have applied if the drug offense were disregarded.
+II
+The question before us is whether the sentencing judge's
+consideration of the drug offense was lawful, and based on
+the terms of the Sentencing Reform Act of 1984, it clearly
+was. Under 18 U. S. C. § 3583(e), the judge was permitted
+to take into account most of the factors set out in § 3553(a),
+and several of those factors permitted consideration of the
+January 2022 drug crime. For example, imprisoning peti-
+tioner for 16 months could deter her from committing crimi-
+nal offenses, including drug crimes, during and after her new
+2-year term of supervised release. See § 3553(a)(2)(B). The
+16-month term could also deter others from violating super-
+vised release and committing serious crimes. See ibid.
+And by confining petitioner for 16 months, the sentence pro-
+tected the public from crimes that petitioner, a serial recidi-
+vist, might have committed if she were not in prison. See
+§ 3553(a)(2)(C).1
+Although the Sentencing Reform Act plainly authorized
+the sentencing judge to consider the January 2022 drug of-
+fense, petitioner challenges her sentence based on her inter-
+pretation of the Sentencing Guidelines. That argument
+should be rejected for at least two reasons. First, the Sen-
+tencing Commission cannot take away important authority
+that the Sentencing Reform Act unequivocally gives to dis-
+trict courts. Second, the Sentencing Guidelines, properly
+read, do not prevent a judge from considering all crimes
+that a prisoner commits after absconding from supervised
+release.
+Petitioner's contrary argument rests on what she under-
+stands to be the combined operation of several provisions of
+the Sentencing Guidelines. At the time of her sentencing,
+§ 7B1.1 set out several grades of supervised released viola-
+tions, ranging from Grade A for the worst transgressions
+(including drug felonies) to Grade C for the least serious.
+United States Sentencing Commission, Guidelines Manual
+1 Even petitioner concedes that the “supervisee's conduct after the expi-
+ration of the term can still be considered by the sentencing court as part
+of the relevant 18 U. S. C. § 3553(a) analysis when selecting the appropriate
+revocation sentence.” Brief for Petitioner 46 (emphasis in original).
+§ 7B1.1 (Nov. 2023). Section 7B1.4(a) provided recom -
+mended ranges of imprisonment for each violation grade.
+Petitioner contends that a supervised release violation is
+one that occurs while a prisoner is on supervised release and
+that she was no longer on supervised release when she com-
+mitted the drug crime in January 2022 because her term of
+supervised release continued to run while she was a fugitive
+and thus expired in 2021. As a result, she maintains, the
+drug offense should not have been considered in calculating
+the sentence recommended by the Guidelines.
+I am bemused by the notion that petitioner was on super-
+vised release when she was evading all supervision. (I sup-
+pose she was on “unsupervised supervised release.”) And
+it seems strange to regard a crime committed after the expi-
+ration of “unsupervised supervised release” as a non-event.
+By that logic, if petitioner had gone on a murder spree after
+the expiration of the period of unsupervised supervised re-
+lease, the sentencing judge would have been required to put
+that out of his mind.
+As I see it, however, the whole debate about whether peti-
+tioner's term of supervised release continued to run or was
+“tolled” while she was on the lam is pointless. The Guide-
+lines are merely advisory, and this Court has made it clear
+that a judge is allowed to impose a sentence outside the rec-
+ommended Guidelines range when that range “fails properly
+to reflect § 3553(a) considerations.” Rita v. United States,
+551 U. S. 338, 351 (2007).
+That is what the judge did here, and it makes no difference
+that he started with the 33-to-36-month range and then var-
+ied downward to 16 months instead of starting with the
+lower range of 8 to 14 months and varying upward by 2
+months based on the drug crime. Not only was this permit-
+ted by the Guidelines, but the judge stated that Rico's sen-
+tence was imposed “regardless of the applicable sentencing
+guideline range.” App. to Pet. for Cert. 35a. By taking
+petitioner's January 2022 drug crime into account in this
+way, the judge acted in conformity with the Sentencing Re-
+form Act, the Sentencing Guidelines, and the authority that
+this Court recognized in Rita.2
+I would therefore affirm.
+2 Contrary to the Court's argument, see ante, at 622, n., I do not contend
+that we should affirm based on harmless error. Rather, the District
+Judge made no error at all.

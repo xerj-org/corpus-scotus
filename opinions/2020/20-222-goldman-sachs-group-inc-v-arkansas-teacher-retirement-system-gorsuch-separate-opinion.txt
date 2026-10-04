@@ -1,0 +1,328 @@
+Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System — No. 20-222 — October Term 2020 — decided 6/21/21 — Opinion of Gorsuch, J.
+Citation: 594 U.S. 113
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r52_3e04.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+RETIREMENT SYSTEM
+Opinion of Gorsuch, J.
+Circuit that it now urges here, and the Second Circuit did
+not reject the proposition that this Court now adopts.
+Thus, the argument Goldman seeks to press on remand is
+unpreserved, and nothing in the Second Circuit's opinion
+misstates the law. Because affirmance is appropriate under
+these circumstances, I respectfully dissent from Part II–A–
+2 of the Court's opinion and from the judgment of the Court.
+Justice Gorsuch, with whom Justice Thomas and
+Justice Alito join, concurring in part and dissenting in
+part.
+I join all but Part II–B of the Court's opinion. There,
+the Court holds that the defendant, rather than the plaintiff,
+“bear[s] the burden of persuasion on price impact.” Ante,
+at 124. Respectfully, I disagree.
+We start from common ground. Basic Inc. v. Levinson,
+485 U. S. 224, 245–247 (1988), sought to import fraud on the
+market theory from economics into securities litigation. In
+doing so, Basic posited two things—first, in an efficient mar-
+ket a company's stock price generally reflects any public and
+material information about the company; second, investors
+generally rely on a company's stock price as an indicator of
+the frm's true value. Ibid. Given these economic assump-
+tions, the Court held that securities fraud plaintiffs can
+presumptively meet their burden of proving reliance on an
+alleged misrepresentation by proving four things: (1) the de-
+fendant's alleged misrepresentation was publicly known; (2)
+it was material; (3) the stock traded in an efficient market;
+and (4) the plaintiff purchased the stock at the market price
+between the time the misrepresentation was made and the
+truth was revealed. See Halliburton Co. v. Erica P . John
+Fund, Inc., 573 U. S. 258, 277–278 (2014) (Halliburton II ).
+The presumption of reliance not only helps a plaintiff prove
+one of the essential elements of a securities fraud claim.
+Certain class actions require that “questions of law or fact
+common to class members predominate over any questions
+affecting only individual members.” Fed. Rule Civ.
+Proc. 23(b)(3). So to the extent a court is able to presume
+reliance by everyone who purchased an affected stock, Basic
+can help avoid individualized questions that otherwise might
+stand in the way of proceeding with a securities fraud action
+on a classwide basis. Erica P . John Fund, Inc. v. Hallibur-
+ton Co., 563 U. S. 804, 809–811 (2011) (Halliburton I ).
+At the same time, Basic's presumption of reliance has only
+ever been just that. Everyone accepts that, if a defendant
+undermines one of the assumptions on which it rests, the
+presumption dissipates. So, for example, if the defendant's
+alleged misrepresentation did not actually affect the market
+price, there can be no ground for presuming anyone relied
+on that misrepresentation when purchasing the stock. Hal-
+liburton II, 573 U. S., at 279. Similarly, if a particular plain-
+tiff did not care about the integrity of the market price when
+purchasing a stock, there is no basis for presuming that indi-
+vidual's reliance. Id., at 276.
+Before us, the only meaningful dispute concerns what bur-
+den a defendant bears when it comes to rebutting the Basic
+presumption. Does the defendant carry only a burden of
+production, or does the defendant sometimes carry a burden
+of persuasion? In my view, only a burden of production is
+involved.
+Start with what we have said about presumptions like
+Basic's. This Court has long recognized that a “ ` “presump-
+tion” properly used refers only to a device for allocating the
+production burden.' ” Texas Dept. of Community Affairs v.
+Burdine, 450 U. S. 248, 255, n. 8 (1981). Throughout the law,
+courts have sometimes created presumptions to help plain-
+tiffs prove their cases when direct evidence can be hard to
+come by. See Basic, 485 U. S., at 245. These presumptions
+operate by allowing the plaintiff to prove only certain speci-
+fed “predicate fact[s]” at the outset. St. Mary's Honor Cen-
+ter v. Hicks, 509 U. S. 502, 506 (1993). If the plaintiff does
+so, an inference or “presumption” arises that the plaintiff has
+RETIREMENT SYSTEM
+Opinion of Gorsuch, J.
+met its burden of persuasion, at least “in the absence” of
+some competing “explanation.” Ibid. (internal quotation
+marks omitted). At that point, the defendant bears a bur-
+den of production to present evidence that, if “taken as
+true,” would “permit the conclusion” that the presumption
+in the plaintiff's favor is mistaken. Id., at 509 (emphasis
+deleted). If the defendant produces such evidence, the pre-
+sumption “drops from the case.” Id., at 507 (internal quota-
+tion marks omitted). “[T]he trier of fact” then “proceeds to
+decide the ultimate question.” Id., at 511. Throughout this
+whole back-and-forth process, the burden of persuasion
+never shifts: The “plaintiff at all times bears the ultimate
+burden of persuasion” to prove all aspects of its cause of
+action. Ibid. (internal quotation marks omitted).
+The Court has explained that nearly “all presumptions”
+operate in this way. Id., at 507. The Federal Rules of Evi-
+dence confirm the point too. Rule 301, titled “Presumptions
+in Civil Cases Generally,” provides that “the party against
+whom a presumption is directed has the burden of producing
+evidence to rebut the presumption,” but “the burden of per-
+suasion . . . remains on the party who had it originally.”
+Again, a burden of production may shift to the defendant,
+but never the burden of persuasion.
+Title VII practice offers a familiar illustration of these
+principles. There, the plaintiff bears the ultimate burden
+of proving that his employer intentionally discriminated
+against him because of his race or some other unlawful fac-
+tor. See St. Mary's Honor Center , 509 U. S., at 511. But
+because direct evidence of intentional discrimination can be
+“elusive,” the Court has created a presumption. See id., at
+506 (internal quotation marks omitted). If a plaintiff proves
+certain “predicate fact[s]”—for example, that he is black, that
+he was fred from a job for which he was qualified, and that
+the job remained open and was ultimately filled by a white
+person—an inference or presumption of intentional discrimi-
+nation arises. Ibid. At that point, the defendant bears the
+burden of producing evidence that, if accepted as true, shows
+it fred the plaintiff for only legitimate business reasons.
+Id., at 506–507. Should that happen, the presumption of in-
+tentional discrimination disappears and the trier of fact must
+weigh the parties' competing proof. Id., at 510–511. None
+of that means the plaintiff's indirect evidence of discrimina-
+tion also disappears. It simply means the trier of fact must
+consider any inferences arising from that indirect evidence
+while also considering the defendant's evidence and any
+other proof the plaintiff submits. See id., at 511. “[A]t all
+times” throughout the litigation, however, the plaintiff bears
+the “ultimate burden of persuading the trier of fact that he
+has been the victim of intentional discrimination.” Id., at
+507–508 (brackets and internal quotation marks omitted).
+Since the Court first started tangling with the fraud on
+the market theory in Basic, it has followed these traditional
+rules. Consistently, our decisions have “made clear” that
+Basic's “presumption” of reliance is “just that.” Hallibur-
+ton I, 563 U. S., at 811. Much as the Court said it created
+the Title VII presumption to help prove the “elusive” ques-
+tion of intentional discrimination, Basic said it created its
+presumption of reliance to relieve “an unnecessarily unrealis-
+tic evidentiary burden” on securities fraud plaintiffs. 485
+U. S., at 245. And when creating its presumption Basic ex-
+pressly cited Rule 301. Ibid.
+The process Basic outlined matches traditional under-
+standings too. The Court explained that a plaintiff's ability
+to prove certain “threshold facts”—about market operations
+and the publicity of the misstatement—gives rise to a “pre-
+sumption” of reliance. See id., at 248, and n. 27. After such
+a showing, the Court continued, a defendant may then pro-
+ceed to “rebut the presumption.” Id., at 248. Nowhere in
+any of this did Basic suggest the order of operations govern-
+ing its presumption should differ in any way from those
+governing others commonly found in the law and subject to
+Rule 301. Nor is there any doubt which party has the burden
+RETIREMENT SYSTEM
+Opinion of Gorsuch, J.
+of persuasion on the question of reliance in securities fraud
+cases like ours. From start to finish, the plaintiff has the
+burden to satisfy that essential element of its claim. Basic's
+presumption of reliance thus “does not shift” any burden of
+persuasion—that always “remains” with the plaintiff. Fed.
+Rule Evid. 301; see also St. Mary's Honor Center , 509 U. S.,
+at 506–508.
+Consider how all this works in routine securities fraud
+cases. Once a plaintiff proves the four “predicate facts”
+Basic specified, see supra, at 130, a presumption of reliance
+attaches. At that point, the defendant bears the burden of
+producing evidence that, if believed, would support a finding
+that the plaintiff did not actually rely on its alleged misrepre-
+sentation. As we have seen, a defendant might do so by
+producing evidence suggesting that its alleged misrepresen-
+tation did not have an impact on market price or that the
+plaintiff was indifferent to the alleged misrepresentation.
+Upon such a showing, the presumption of reliance drops from
+the case and the trier of fact must decide the question of
+reliance vel non, cognizant of the fact the plaintiff bears the
+burden of proving reliance like any other essential elements
+of its claim. Again, that does not mean the plaintiff's indi-
+rect proof disappears. A court may still infer from the
+Basic predicates that a particular misstatement was incorpo-
+rated into the stock price and that the plaintiff relied on the
+integrity of that price. Both sides are free to present addi-
+tional proof too. It's simply that a court no longer must find
+reliance. See St. Mary's Honor Center , 509 U. S., at 511.
+The Court disputes none of this. It does not even try to
+defend on the merits its unusual suggestion that the defend-
+ant carries some burden of persuasion in a plaintiff's claim
+for securities fraud. Instead, the Court contends only that
+precedent ties our hands.
+Primarily, the Court points to a single clause in a single
+sentence in Basic observing that a defendant may rebut the
+presumption of reliance with “[a]ny showing that severs the
+link between the alleged misrepresentation” and the stock
+price. See ante, at 125 (quoting Basic, 485 U. S., at 248; em-
+phasis deleted). The Court then splices that clause together
+with another clause in a preceding sentence explaining that,
+before Basic, lower courts had said a defendant rebuts the
+fraud on the market presumption by showing “that the mis-
+representation in fact did not lead to a distortion of price.”
+Ante, at 125 (quoting Basic, 485 U. S., at 248; emphasis
+deleted).
+But what does this prove? Surely this language confirms
+an important and by now familiar point: Once a defendant
+produces evidence that, if believed, shows that fraud on the
+market theory does not hold in its particular case because its
+alleged misrepresentation in fact failed to affect the stock
+price, the presumption of reliance drops away. On the
+Court's reading today, however, this language doesn't just
+carry that obvious meaning. We are told it also must mean
+that Basic intended to shift the “burden of persuasion” with
+respect to “price impact” to the defendant—at least “at class
+certifcation”—because the “mere production of some evi-
+dence relevant to price impact would rarely accomplish th[e]
+feat” of “in fact” “ sever[ing] the link between a misrepresen-
+tation and the price paid” for the stock. Ante, at 125–126
+(internal quotation marks omitted; emphasis deleted).
+That much does not follow. Not only has this Court often
+said it is a mistake to parse terms in a judicial opinion with
+the kind of punctilious exactitude due statutory language.
+See Reiter v. Sonotone Corp., 442 U. S. 330, 341 (1979).
+Even read for all they are worth, the handful of words on
+which the Court rests its entire holding today—a “showing”
+that “in fact” “sever[s] the link”—cannot begin to carry the
+weight the Court assigns them. See ante, at 125 (emphasis
+deleted). These terms do not even appear together in
+Basic: The Court has to pluck the phrase “in fact” from one
+sentence and the phrase “[a] showing that severs the link”
+from another, and then combine them to create a new clause
+RETIREMENT SYSTEM
+Opinion of Gorsuch, J.
+that appears nowhere in the U. S. Reports—a “showing”
+that “in fact sever[s] the link.” Ante, at 125 (internal quota-
+tion marks omitted). Even then, the Court's newly hand-
+crafted phrase does not so much as mention the terms
+“burden of persuasion” or “price impact.”
+The hard truth is that in the 30-plus years since Basic this
+Court has never (before) suggested that plaintiffs are re-
+lieved from carrying the burden of persuasion on any aspect
+of their own causes of action. To the contrary, when discuss-
+ing the presumption it created, Basic expressly referenced
+Rule 301 and invoked its normal order of operations. And
+this Court has long explained that presumptions “properly
+used” refer only to devices “for allocating the production
+burden,” and not the burden of persuasion. Burdine, 450
+U. S., at 255, n. 8 (internal quotation marks omitted). Are
+we really to believe that Basic—while referencing tradi-
+tional understandings embodied in Rule 301 and just seven
+years after Burdine—secretly meant to depart from tradi-
+tional and “proper” understandings about how presumptions
+work? Thanks to spliced clauses found in two sentences this
+Court has never before read that way? All while using
+words that carry another and much more natural meaning?
+To state the theory is to refute it.
+If Basic doesn't command today's result, the Court offers
+a backup theory. Separately, it insists, Halliburton II re-
+quires us to shift a burden of persuasion to the defendant.
+Specifically, the Court points to the fact that Halliburton II
+reaffirmed Basic's holding that a plaintiff need not show reli-
+ance “directly,” but may do so “presumptively” by carrying
+the burden of proving the four Basic factual predicates. 573
+U. S., at 278. A decision holding that the defendant merely
+bore the burden of producing evidence suggesting a lack of
+price impact at class certifcation, the Court now submits,
+“would be nearly indistinguishable from the regime that
+Halliburton II rejected.” Ante, at 126.
+That much does not follow either. Like Basic, Hallibur-
+ton II concerned what facts a plaintiff must produce to gen-
+erate a presumption of reliance. This case is about what
+defendants must do to rebut that presumption. Deciding
+one does not resolve the other. To say these issues are “in-
+distinguishable” is to miss the entire point of a presumption:
+It allows the plaintiff to state a prima facie case based on
+inference and requires the defendant to bear the burden of
+producing evidence in response; once the defendant does so,
+the presumption has served its purpose and drops from the
+case. At that point, the factfnder now has the benefit of
+evidence from both sides and must decide the case with ref-
+erence to the plaintiff's burden of persuasion. Nothing in
+Halliburton II suggests a departure from these principles,
+let alone that some burden of persuasion secretly shifts to
+the defendant in a plaintiff's claim for securities fraud. To
+the contrary, that decision arose in the class certifcation
+context and expressly reaffirmed that “[t]he Basic presump-
+tion does not relieve plaintiffs of the burden of proving”
+they have satisfied “the predominance requirement of Rule
+23(b)(3).” 573 U. S., at 276.
+The Court has no answer to any of this. Instead, it re-
+plies only by touting the fact that two Court of Appeals deci-
+sions have read Basic and Halliburton II as it does. Ante,
+at 126. But this is a non sequitur. The Court does not sug-
+gest that a pair of lower court opinions represents some ro-
+bust judicial consensus. Nor does the Court suggest those
+opinions free us from having to interpret the law for our-
+selves. After all, “[o]ur duty is to follow the law as we find
+it, not to follow rotely whatever lower courts might once
+have said about it.” BP p.l.c. v. Mayor and City Council of
+Baltimore, 593 U. S. 230, 244 (2021). The fact remains that
+nothing in our prior decisions has ever placed a burden of
+persuasion on the defendant with respect to any aspect of
+the plaintiff's case. It is incumbent on the plaintiff to prove
+RETIREMENT SYSTEM
+Opinion of Gorsuch, J.
+reliance, not the defendant to disprove it. If a majority of
+the Court today really believes some novel new burden of
+persuasion should be placed on the defendant, it ought to
+say so. Past decisions—by this Court or others—cannot be
+blamed for today's result.
+Perhaps recognizing the incongruity of its conclusion, the
+Court goes out of its way to downplay its significance.
+We're told that “on the ground” today's holding “is unlikely
+to make much difference” because “[i]n most securities-fraud
+class actions . . . the plaintiffs and defendants submit compet-
+ing expert evidence on price impact.” Ante, at 126. And
+in cases like these, “[t]he district court's task,” according to
+the Court, “is simply to assess all the evidence of price im-
+pact” and “determine whether it is more likely than not that
+the alleged misrepresentations had a price impact.” Ante,
+at 126-127.
+This is a curious disavowal. Obviously, the Court thinks
+the issue important enough to spend the time and effort to
+rejigger the burden of persuasion. Now, though, it says
+none of this matters because most cases come down to a dis-
+pute over evidence of price impact irrespective of the pre-
+sumption. The Court's suggestion that the burden of per-
+suasion will “rarely” make a “difference” misses the point
+too. The whole reason we allocate the burden of persuasion
+is to resolve close cases by providing a tie breaker where the
+burden does make a difference. That close cases may not be
+common ones is no justification for indifference about how
+the law resolves them.
+Respectfully, I dissent.

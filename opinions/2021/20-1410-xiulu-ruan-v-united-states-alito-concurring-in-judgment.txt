@@ -1,0 +1,443 @@
+Xiulu Ruan v. United States — No. 20-1410 — October Term 2021 — decided 6/27/22 — Alito, J., concurring in judgment
+Citation: 597 U.S. 450
+Source: https://www.supremecourt.gov/opinions/21pdf/597us2r60_8oka.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+We conclude that § 841's “knowingly or intentionally”
+mens rea applies to the “except as authorized” clause. This
+means that in a § 841 prosecution in which a defendant meets
+his burden of production under § 885, the Government must
+prove beyond a reasonable doubt that the defendant know-
+ingly or intentionally acted in an unauthorized manner. We
+vacate the judgments of the Courts of Appeals below and
+remand the cases for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Alito , with whom Justice Thomas joins, and
+with whom Justice Barrett joins as to Parts I–A, I–B,
+and II, concurring in the judgment.
+In criminal law, the distinction between the elements of an
+offense and an affirmative defense is well-known and impor-
+tant. In these cases, however, the Court recognizes a new
+hybrid that has some characteristics of an element and some
+characteristics of an affirmative defense. The consequences
+of this innovation are hard to foresee, but the result may
+well be confusion and disruption. That risk is entirely
+unnecessary.
+We granted certiorari in these cases to decide whether a
+physician may be convicted of dispensing or distributing
+drugs by prescription under a provision of the Controlled
+Substances Act of 1970 (CSA), 21 U. S. C. § 841(a), if he or
+she believed in good faith that the prescription was within
+the course of professional practice. In my view, there is a
+straightforward answer to this question. The CSA contains
+an exception for prescriptions issued in the course of profes-
+sional practice, and this exception is a carry-over from the
+CSA's predecessor, the Harrison Narcotics Act of 1914, 38
+Stat. 785. In interpreting the Harrison Act, this Court held
+that a registered physician acts “in the course of his profes-
+sional practice” when the physician writes prescriptions “in
+good faith.” Linder v. United States, 268 U. S. 5, 17–18
+(1925). I would hold that this rule applies under the CSA
+and would therefore vacate the judgments below and remand
+for further proceedings.
+The Court declines to adopt this approach and instead
+takes a radical new course. It holds that the mental state
+expressed by the terms “knowingly or intentionally” in
+§ 841(a) applies to the provision's “[e]xcept as authorized”
+proviso. It bases this conclusion not on anything in the lan-
+guage of the CSA, but instead on the “presumption, trace-
+able to the common law, that Congress intends to require
+a defendant to possess a culpable mental state.” Rehaif v.
+United States, 588 U. S. –––, ––– (2019).
+The Court's analysis rests on an obvious conceptual mis-
+take. A culpable mental state—or, to use the traditional
+Latin term, “mens rea”—is the mental state an accused must
+have in relation to the elements of an offense. But the au-
+thorizations in the CSA that excuse acts that are otherwise
+unlawful under § 841(a) are not elements of the offenses cre-
+ated by that provision. They are affirmative defenses.
+The presumption that elements must be accompanied by a
+culpable mental state—which I will call “the mens rea
+canon”—provides no guidance on what a defendant must
+prove to establish an affirmative defense. And for that rea-
+son, that canon does not help to decide whether there is a
+good-faith defense in § 841(a) prosecutions of physicians.
+The Court does not claim that the “[e]xcept as authorized”
+proviso actually constitutes an element of dispensing or dis-
+tributing a controlled substance. But it concludes, based on
+a vague four-part test, that the proviso is “sufficiently like
+an element in respect to the matter at issue here as to war-
+rant similar legal treatment.” Ante, at 464. How many
+other affirmative defenses might warrant similar treatment,
+the Court does not say. It leaves prosecutors, defense attor-
+neys, and the lower courts in the dark. I cannot accept this
+cavalier treatment of an important question.
+Nor can I accept the Court's conclusion that once a defend-
+ant produces evidence that his or her conduct was “author-
+ized,” “the Government must prove beyond a reasonable
+doubt that the defendant knowingly or intentionally acted in
+an unauthorized manner.” Ante, at 457. We did not grant
+certiorari on the question of the burden of proof applicable
+to authorizations to dispense or distribute controlled sub-
+stances. No party has briefed this issue, and its resolution
+is not essential to our decision in these cases. In keeping
+with our normal practice, I would not address this question.
+But because the Court volunteers its own answer, I will offer
+one as well. As I see it, the text of the CSA does not show
+that Congress intended to deviate from the common-law rule
+that the burden of proving “affirmative defenses—indeed,
+`all . . . circumstances of justification, excuse or alleviation'—
+rest[s] on the defendant.” Patterson v. New York, 432 U. S.
+197, 202 (1977) (quoting 4 W. Blackstone Commentaries
+*201). And absolutely nothing in the text of the statute in-
+dicates that Congress intended to impose a burden on the
+Government to disprove all assertions of authorization
+beyond a reasonable doubt.
+I
+A
+As relevant here, § 841(a)(1) provides that “[e]xcept as au-
+thorized by this subchapter, it shall be unlawful for any per-
+son knowingly or intentionally . . . to manufacture, distrib-
+ute, or dispense, or possess with intent to manufacture,
+distribute, or dispense, . . . a controlled substance.” Accord-
+ing to the Court's reasoning, the terms “knowingly or inten-
+tionally” in § 841(a)(1) apply to the “except as authorized”
+proviso at the beginning of the provision. But it is hard to
+see how this could be true.
+As a matter of elementary syntax, the adverbs “know-
+ingly” and “intentionally” are most naturally understood to
+modify the verbs that follow, i. e., “manufacture,” “distrib-
+ute,” etc., and not the introductory phrase “except as author-
+ized.” That phrase, in turn, clearly modifes the term
+“unlawful.”
+The Court does not suggest otherwise. It does not claim
+that “knowingly or “intentionally” modifes the introductory
+proviso in a grammatical sense. (If it did, the introductory
+phrase would clearly be an element, and for reasons that I
+will explain, infra, at 472–473, 21 U. S. C. § 885 unmistakably
+rules that out.) Instead, the Court pointedly uses different
+terminology. It repeatedly says that the phrase “knowingly
+or intentionally” “ applies” to the introductory phrase, ante,
+at 454, 457, 458, 461, 468 (emphasis added). And it reaches
+this conclusion based on grounds that have nothing to do
+with grammar or syntax.
+Specifically, the Court relies on a substantive canon of in-
+terpretation—the mens rea canon. Under this canon, the
+Court interprets criminal statutes to require a mens rea for
+each element of an offense “even where `the most grammati-
+cal reading of the statute' does not support” that interpreta-
+tion. Rehaif, 588 U. S., at ––– (quoting United States v. X-
+Citement Video , Inc., 513 U. S. 64, 70 (1994)).* But until
+*Why we have held that the mens rea canon allows courts to ignore
+obvious textual evidence of congressional intent is not obvious. In our
+constitutional system, it is Congress that has the power to define the ele-
+ments of criminal offenses, not the federal courts. Liparota v. United
+States, 471 U. S. 419, 424 (1985); see also United States v. Davis, 588 U. S.
+–––, ––– (2019) (“Only the people's elected representatives in the legisla-
+ture are authorized to `make an act a crime' ” (quoting United States v.
+Hudson, 7 Cranch 32, 34 (1812))). The mens rea canon is legitimate when
+it is used to determine what elements Congress intended to include in the
+definition of an offense. See, e. g., Staples v. United States, 511 U. S. 600,
+605 (1994) (explaining that the canon is founded on an inference of congres-
+sional intent). But applying that canon to override the intentions of Con-
+gress would be inconsistent with the Constitution's separation of powers.
+Federal courts have no constitutional authority to re-write the statutes
+Congress has passed based on judicial views about what constitutes
+“sound” or “just” criminal law. Cf. X-Citement Video , 513 U. S., at 80–
+82 (Scalia, J., dissenting) (criticizing our mens rea canon precedents for
+“convert[ing a] rule of interpretation into a rule of law” binding on
+Congress).
+today, this canon has been applied only to elements, and the
+“except as authorized” introductory phrase in § 841(a)(1) is
+plainly not an element.
+“The definition of the elements of a criminal offense is en-
+trusted to the legislature, particularly in the case of federal
+crimes, which are solely creatures of statute.” Liparota v.
+United States, 471 U. S. 419, 424 (1985). See also Dixon v.
+United States, 548 U. S. 1, 7 (2006). But authorization to
+dispense or distribute a controlled substance lacks the most
+basic features of an element of an offense. For one thing, it
+is black-letter law that an indictment must allege “the ele-
+ments of the offense charged.” Hamling v. United States,
+418 U. S. 87, 117 (1974). So if lack of authorization were
+an element, it would be necessary to allege that in every
+§ 841(a)(1) indictment. But § 885 says that it is not “neces-
+sary for the United States to negative any exemption or ex-
+ception set forth in [the relevant subchapter] in any . . . in-
+dictment.” Beyond that, the prosecution bears the burden
+of producing evidence with respect to every element of a
+crime. Patterson, 432 U. S., at 215. But § 885(a)(1) also
+provides that “the burden of going forward with the evi-
+dence with respect to any such exemption or exception shall
+be upon the person claiming its benefit.” It could hardly
+be more obvious that Congress did not cast the “except as
+authorized” introductory proviso as an element of distribut-
+ing or dispensing a controlled substance.
+Instead, that proviso clearly creates an affirmative de-
+fense—that is, a “justification or excuse which is a bar to the
+imposition of criminal liability” on conduct that satisfies the
+elements of an offense. 1 W. LaFave, Substantive Criminal
+Law § 1.8(c) (3d ed. 2018). Section 841(a)(1) has two main
+parts: a principal clause generally prohibiting “knowingly or
+intentionally” doing certain things with respect to controlled
+substances (i.e ., manufacturing them, distributing them,
+etc.), and a proviso indicating that these acts are unlawful
+“except as authorized” by other statutory provisions. As
+we have long held, the default rule for interpreting provi-
+sions with this structure is that “ `an exception made by a
+proviso or other distinct clause' ” designates an affirmative
+defense that the Government has no duty to “ `negative.' ”
+Dixon, 548 U. S., at 13 (quoting McKelvey v. United States,
+260 U. S. 353, 357 (1922)); see also United States v. Dickson,
+15 Pet. 141, 165 (1841) (calling this “the general rule of law
+which has always prevailed”). When this rule applies, it is
+“ `incumbent on one who relies on such an exception to set it
+up and establish it.' ” Dixon, 548 U. S., at 13 (quoting Mc-
+Kelvey, 260 U. S., at 357).
+The CSA explicitly incorporates this default rule. As
+noted, § 885(a)(1) provides that the prosecution need not
+“negative any exemption or exception set forth in this sub-
+chapter in any complaint, information, indictment, or other
+pleading or in any trial, hearing, or other proceeding.”
+(Emphasis added.) Short of using the words “affirmative
+defense,” there is no clearer way of indicating that authoriza-
+tion constitutes an affirmative defense.
+On the most natural reading, then, § 841(a)(1) creates an
+offense that has as its elements (1) knowingly or intention-
+ally (2) distributing or dispensing (3) a controlled substance.
+The “[e]xcept as authorized” proviso recognizes an affr-
+mative defense that excuses or justifies conduct that other-
+wise would fall within § 841(a)(1)'s general prohibition. The
+mens rea canon does not speak to the constituents of that
+defense.
+B
+While the Court does not claim that the “[e]xcept as au-
+thorized” proviso is an element of a § 841(a)(1) offense, the
+Court argues that the proviso is “sufficiently like an element
+in respect to the matter at issue here” for the mens rea
+canon to apply, ante, at 464. The Court provides four rea-
+sons for this conclusion: “[T]he language of § 841 (which ex-
+plicitly includes a `knowingly or intentionally' provision); the
+crucial role authorization (or lack thereof ) plays in distin-
+guishing morally blameworthy conduct from socially neces-
+sary conduct; the serious nature of the crime and its penal-
+ties; and the vague, highly general language of the
+regulation defining the bounds of prescribing authority.”
+Ibid. Not one of these reasons withstands scrutiny.
+“[T]he language of § 841.” The Court notes that this pro-
+vision expressly sets out a mens rea that applies to the ele-
+ments of the offense, ibid., but the vast majority of criminal
+statutes share this characteristic. Therefore, this feature
+does not set § 841 apart.
+“[T]he crucial role authorization (or lack thereof) plays
+in distinguishing morally blameworthy conduct from so-
+cially necessary conduct.” The Court claims that authori-
+zation separates out morally blameworthy innocent conduct;
+but something very similar may be said about most, if not
+all, affirmative defenses. Take the common-law defense of
+duress. Duress “excuse[s] criminal conduct where the actor
+was under an unlawful threat of imminent death or serious
+bodily injury” and the “threat caused the actor to engage
+in conduct violating the literal terms of the criminal law.”
+United States v. Bailey, 444 U. S. 394, 409 (1980). But a per-
+son who acts under duress is not “morally blameworthy”—
+that is part of what it means to say that duress excuses
+otherwise-criminal conduct. Similarly, individuals who kill
+or wound another person in self-defense to prevent their own
+death or serious injury are not considered morally blame-
+worthy. No one supposes that these defenses are hybrids,
+or that the mens rea canon is a guide to their content.
+It is unclear why the Court thinks that § 841(a)'s affrma-
+tive defense is different. There are hints in the Court's
+opinion that it has crafted a special rule for doctors—for ex-
+ample, the Court describes their conduct in writing prescrip-
+tions as not just “innocent,” but “socially beneficial” and “so-
+cially necessary.” Ante, at 459, 464. But § 841(a) is not a
+doctor-specifc provision. Section 841(a)'s proviso presum-
+ably applies in the same way for all § 841(a) defendants—
+whether they are drug dealers accused of selling heroin or
+are physicians charged with abusing their authority to pre-
+scribe painkillers.
+“[T]he serious nature of the crime and its penalties.”
+The Court also suggests that authorization is “like an ele-
+ment” because dispensing or distributing a controlled sub-
+stance is a felony that carries a substantial sentence. But
+would all felonies qualify? If not, where would the Court
+draw the line? The Court provides no answers.
+“[T]he vague , highly general language of the regulation
+defining prescribing authority.” As the Court explains, the
+regulation defining the authority of physicians to prescribe
+controlled substances allows them to issue a prescription “for
+a legitimate medical purpose . . . in the usual course of . . .
+professional practice.” 21 CFR § 1306.04(a) (2021). But
+§ 841(a) applies to many other types of violations and many
+other categories of defendants. Is the proviso a hybrid ele-
+ment/defense only for doctors? Would its status change if
+the regulation were reframed in more specific terms? How
+can the status of a phrase in a statute depend upon an imple-
+menting regulation? The Court provides no answer to
+these or any other questions naturally raised by its ipse dixit
+that the exception in § 841(a) is “sufficiently like” an element
+to require that it be treated as such in some respects but
+not others.
+C
+The Court also errs in holding that, if a § 841(a)(1) defend-
+ant “meets the burden of producing evidence that his or her
+conduct was `authorized,' ” the Government has the burden
+to “prove beyond a reasonable doubt that the defendant
+knowingly or intentionally acted in an unauthorized man-
+ner,” ante, at 457. As noted, the common-law rule was that
+the defendant had the burden of production and persuasion
+on any affirmative defense. And the Court has held that
+when Congress does not address the burden of proof in the
+text of a statute, “we presume that Congress intended to
+preserve the common-law rule.” Smith v. United States,
+568 U. S. 106, 112 (2013); see also Dixon, 548 U. S., at 13–14.
+The Court identifies one and only one reason for deviating
+from this background rule—the fact that § 885(a)(1) states
+that “the burden of going forward with the evidence with
+respect to any . . . exemption or exception shall be upon the
+person claiming its benefit.” Because this provision does
+not say expressly that a defendant also has the burden of
+persuasion, the Court infers that Congress meant to allocate
+that burden to the prosecution. That inference is unwar-
+ranted. Section 885(a)(1) explicitly relieves the Government
+of the burden of “negativ[ing]” exceptions “in any trial.”
+And it is hard to see how the Government does not have
+the burden to “negative” exceptions if it must affirmatively
+disprove a prima facie case of authorization any time a de-
+fendant satisfies the initial burden of production.
+But even if one credits the majority's assumption that the
+CSA partly deviates from the common-law rule by shifting
+the burden of persuasion to the Government, the majority's
+further holding that the Government must carry that burden
+with proof “beyond a reasonable doubt” comes out of thin
+air. The usual rule is that affirmative defenses must be
+proved “by a preponderance of the evidence.” Id., at 17.
+But the majority does not identify a single word in §§ 841(a)
+(1), 885(a)(1), or any other provision of the CSA that even
+suggests that the statute imposes a burden of disproving au-
+thorization defenses beyond a reasonable doubt.
+The only thing that could conceivably justify reading a
+reasonable-doubt requirement into a statute that says noth-
+ing on the subject is the principle that an ambiguous statute
+must be interpreted, when possible, to avoid unconstitution-
+ality. See A. Scalia & B. Garner, Reading Law: The Inter-
+pretation of Legal Texts 247–251 (2012). But the Court does
+not claim that it would be unconstitutional for Congress to
+require the Government to prove lack of authorization by
+only a preponderance of the evidence. Indeed, the Court
+does not even claim that it would be unconstitutional to shift
+the burden of persuasion to the defendant. Nor could it.
+Our precedents establish that governments are “foreclosed
+from shifting the burden of proof to the defendant only `when
+an affirmative defense . . . negate[s] an element of the
+crime.' ” Smith, 568 U. S., at 110 (quoting Martin v. Ohio,
+480 U. S. 228, 237 (1987) (Powell, J., dissenting)). And we
+have held that when an affirmative defense instead justifies
+or “ `excuse[s] conduct that would otherwise be punishable,' ”
+the “Government has no constitutional duty to overcome the
+defense beyond a reasonable doubt.” 568 U. S., at 110 (quot-
+ing Dixon, 548 U. S., at 6).
+The authorization defense made available to prescribing
+physicians by the CSA plainly does not negate any of the
+defining elements of dispensing or distributing a controlled
+substance in violation of § 841(a)(1). As a result, the Court
+has no basis for reading a requirement to disprove authoriza-
+tion into the CSA. And at a minimum, even if the Govern-
+ment must bear the ultimate burden of persuasion once the
+burden of production is satisfied, the CSA should be read to
+preserve a traditional preponderance-of-the-evidence stand-
+ard for authorization defenses.
+II
+My analysis thus far establishes that authorization is an
+affirmative defense to liability under § 841(a)(1), and the con-
+stituents of that defense cannot be identified through brute-
+force application of a canon designed to identify the elements
+of an offense. In my view, the contours of that defense can
+be elucidated only by examining the text, structure, and his-
+tory of the provisions of the CSA that define it. I turn to
+that task now.
+The authorization relied on by the petitioners in these
+cases permits physicians registered with the federal Drug
+Enforcement Administration to prescribe controlled sub-
+stances to patients by prescription. §§ 822(b), 823(f), 829(a).
+As we have previously interpreted it, this authorization does
+not allow physicians to dispense controlled substances by
+prescription for any reason they choose; instead, the authori-
+zation “is limited to the dispensing and use of drugs `in
+the course of professional practice or research.' ” United
+States v. Moore, 423 U. S. 122, 141 (1975) (quoting § 802(20)
+(1970 ed.)).
+The notion of action taken “in the course of professional
+practice” is not defined in the CSA, but our precedents hold
+that when Congress employs a term of art “obviously trans-
+planted from another legal source,” it “brings the old soil
+with it.” George v. McDonough, 596 U. S. –––, ––– (2022)
+(quoting Taggart v. Lorenzen, 587 U. S. –––, ––– (2019); in-
+ternal quotation marks omitted). And the notion that a
+prescription is authorized if it is issued in the course of pro-
+fessional practice is directly traceable to the Harrison Act,
+which prohibited “any person” from distributing or dispens-
+ing coca leaves or opium “except in pursuance of a written
+order” issued by a practitioner “in the course of his pro-
+fessional practice only.” § 2, 38 Stat. 786. Arguably, the
+phrase “in the course of . . . professional practice” could have
+been read to refer only to conduct that conforms to the
+standards of medical practice as a purely objective matter.
+But our Harrison Act precedents interpreted that phrase to
+refer to “ bona fde medical practice,” which meant that any
+prescription issued “in good faith” qualified as an authorized
+act of dispensing one of the drugs proscribed by the statute.
+Linder, 268 U. S., at 17–18; see also Boyd v. United States,
+271 U. S. 104, 107 (1926); Webb v. United States, 249 U. S. 96,
+99 (1919).
+Nothing in the CSA suggests that Congress intended to
+depart from the preexisting understanding of action “in the
+course of professional practice.” We have previously held
+that the CSA incorporates settled understandings of “the ex-
+emption given to doctors” to dispense controlled substances
+“ `in the course of . . . professional practice' ” under the Har-
+rison Act. Moore, 423 U. S., at 139–140 (quoting 38 Stat.
+786). And the language of the CSA supports the same con-
+clusions that we previously reached about the Harrison Act.
+As our CSA precedents have explained, to act “in the course
+of professional practice” is to engage in the practice of medi-
+cine—or, as we have put it, to “act `as a physician.' ” Moore,
+423 U. S., at 141. For a practitioner to “practice medicine,”
+he or she must act for a medical purpose—which means aim-
+ing to prevent, cure, or alleviate the symptoms of a disease
+or injury—and must believe that the treatment is a medically
+legitimate means of treating the relevant disease or injury.
+But acting “as a physician” does not invariably mean act-
+ing as a good physician, as an objective understanding of the
+“in the course of professional practice” standard would sug-
+gest. A doctor who makes negligent or even reckless mis-
+takes in prescribing drugs is still “acting as a doctor”—he or
+she is simply acting as a bad doctor . The same cannot be
+said, however, when a doctor knowingly or purposefully is-
+sues a prescription to facilitate “addiction and recreational
+abuse,” Gonzales v. Oregon, 546 U. S. 243, 274 (2006). Ob-
+jectives of that kind are alien to medical practice, and a doc-
+tor who prescribes drugs for those purposes is not “acting
+as a physician” in any meaningful sense.
+I would thus hold that a doctor who acts in subjective good
+faith in prescribing drugs is entitled to invoke the CSA's au-
+thorization defense. Under the correct understanding of
+that defense, a doctor acts “in the course of professional
+practice” in issuing a prescription under the CSA if—but
+only if—he or she believes in good faith that the prescription
+is a valid means of pursuing a medical purpose. A doctor
+who knows that he or she is acting for a purpose foreign to
+medicine—such as facilitating addiction or recreational drug
+abuse—is not protected by the CSA's authorization to dis-
+tribute controlled substances by prescription. Such doctors
+may be convicted of unlawfully distributing or dispensing a
+controlled substance under § 841(a)(1).
+Based on this holding, I would vacate the judgments of the
+Courts of Appeals below. And like the Court, I would leave
+it to those courts to determine on remand whether the in-
+structions provided in petitioners' respective trials ade-
+quately described the good-faith defense and whether any
+errors in the instructions were harmless.

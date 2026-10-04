@@ -1,0 +1,150 @@
+Consumer Financial Protection Bureau v. Community Financial Services Assn. of America, Ltd. — No. 22-448 — October Term 2023 — decided 5/16/24 — Kagan, J., concurring
+Citation: 601 U.S. 416
+Source: https://www.supremecourt.gov/opinions/23pdf/601us2r21_7648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+at 466. According to the dissent, the Bureau is different be-
+cause “[i]ts powers are broad and vast,” “[i]t does not collect
+fees,” and “it is permitted to keep and invest surplus funds.”
+Ibid. But, it is unclear why these differences matter under
+the dissent's theory. After all, to make a valid appropria-
+tion, Congress must designate the objects for which the ap-
+propriated funds may be used—as it did here. See 12
+U. S. C. § 5497(c)(1). Although there may be other constitu-
+tional checks on Congress' authority to create and fund an
+administrative agency, specifying the source and purpose is
+all the control the Appropriations Clause requires.
+V
+The statute that authorizes the Bureau to draw money
+from the combined earnings of the Federal Reserve System
+to carry out its duties satisfies the Appropriations Clause.
+Accordingly, we reverse the judgment of the Court of Ap-
+peals and remand the case for further proceedings consistent
+with this opinion.
+It is so ordered.
+Justice Kagan, with whom Justice Sotomayor , Jus-
+tice Kavanaugh, and Justice Barrett join, concurring.
+I join in full the Court's opinion holding that the funding
+mechanism for the Consumer Financial Protection Bureau
+complies with the Appropriations Clause. As the Court de-
+tails, that conclusion emerges from the Clause's “text, the his-
+tory against which that text was enacted, and congressional
+practice immediately following ratification.” Ante, at 426.
+At its inception, the Clause required only that Congress
+“identify a source of public funds and authorize the expendi-
+ture of those funds for designated purposes.” Ibid. The
+Clause otherwise granted Congress “a wide range of discre-
+tion.” Ante, at 431. The result was “significant variety” in
+appropriations—most notably, as to their specifcity, dura-
+tion, and funding source. Ante, at 434; see ante, at 432–434.
+NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+Kagan, J., concurring
+The CFPB's funding scheme, if transplanted back to the late-
+18th century, would have ft right in.
+I write separately to note that the same would have been
+true at any other time in our Nation's history. “ `Long set-
+tled and established practice' may have `great weight' ” in
+interpreting constitutional provisions about the operation of
+government. Chiafalo v. Washington, 591 U. S. 578, 592–
+593 (2020) (quoting The Pocket Veto Case , 279 U. S. 655, 689
+(1929)); see also The Federalist No. 37, p. 229 (C. Rossiter ed.
+1961). And here just such a tradition supports everything
+the Court says about the Appropriations Clause's meaning.
+The founding-era practice that the Court relates became the
+19th-century practice, which became the 20th-century prac-
+tice, which became today's. For over 200 years now, Con-
+gress has exercised broad discretion in crafting appropria-
+tions. Sometimes it has authorized the expenditure of a
+sum certain for an itemized purpose on an annual basis.
+And sometimes it has departed from that model in one or
+more ways. All the flexibility and diversity evident in the
+founding period has thus continued unabated, making it ever
+more obvious that the CFPB's funding accords with the
+Constitution.
+For one thing, Congress has never thought it necessary to
+designate specific amounts for specific items. Over the
+years, many appropriations have instead given the Execu-
+tive leeway to decide how to allocate funds, up to a ceiling,
+among a set of activities. As the Court shows, the First
+Congress made appropriations of “sums not exceeding ”
+stated amounts for “broad categories” of purposes; the Ex-
+ecutive then decided the level of funding it would use for all
+things within a category. Ante, at 432–433. In instituting
+those “lump-sum grants,” the First Congress created a tem-
+plate for later ones to follow. Ante, at 432. Examples of
+such grants “abound in our history.” Clinton v. City of New
+York, 524 U. S. 417, 467 (1998) (Scalia, J., concurring in part and
+dissenting in part). During the Civil War, Congress author-
+ized the allocation of $76.5 million for various expenses “as
+the exigencies of the [Army] may require.” Act of Feb. 25,
+1862, ch. 32, 12 Stat. 344–345. In the Depression, Congress
+made $950 million available “for such projects and/or pur-
+poses” as the President “in his discretion may prescribe.”
+Act of Feb. 15, 1934, ch. 13, 48 Stat. 351. More recent exam-
+ples include an appropriation not to exceed $135 million for
+uses that the Secretaries of Defense and Energy determine
+are “necessary for Atomic Energy Defense Activities.” Act
+of Nov. 29, 1989, § 1605(a), 103 Stat. 1598. The constitution-
+ality of such measures, Justice Scalia observed, “has never
+seriously been questioned”—in part because of their preva-
+lence. Clinton, 524 U. S., at 467. Our government practice
+has been “replete with instances of general appropriations”
+to be “expended as directed by designated government agen-
+cies.” Cincinnati Soap Co. v. United States, 301 U. S. 308,
+322 (1937). The CFPB's authority to take and allocate mon-
+eys up to a statutory cap is just one more instance to add to
+the list.
+Similarly, Congress has never thought appropriations
+must be annual, or even time-limited. (Appropriations that
+are time-limited themselves show variety: Most are annual,
+but some last for longer periods—say, two or fve years.*)
+“Standing ” appropriations—those making funds “always
+available for specified purposes” without “requir[ing] re-
+peated [legislative] action”—have a long history. GAO, Prin-
+ciples of Federal Appropriations Law, p. 2–10 (rev. 4th ed.
+2016). As the Court notes, the First Congress, by setting up
+fee-based schemes, provided the Customs Service and Post
+Office with indefinite funding. See ante, at 433–434, 437.
+And in doing so, that Congress again inspired its succes-
+sors. Standing appropriations proliferated during the 19th
+*See, e. g., Foreign Operations, Export Financing, and Related Pro-
+grams Appropriations Act, 2001, § 101(a), 114 Stat. 1900 et seq. (2-year
+appropriations); Military Construction Appropriations Act of 1986, 99
+Stat. 1024 (5-year appropriations).
+NITY FINANCIAL SERVICES ASSN. OF AMERICA, LTD.
+Kagan, J., concurring
+century; by 1880, 138 statutes making them were on the
+books. See S. Rep. No. 334, 46th Cong., 2d Sess., 4–7 (1880)
+(listing statutes). And the growth has not stopped: By Fis-
+cal Year 2022, spending that does not require periodic appro-
+priations (whether annual or longer) accounted for nearly
+two-thirds of the federal budget. See Congressional Budget
+Office, The Accuracy of CBO's Budget Projections for Fiscal
+Year 2022, p. 3 (Jan. 2023). Frequently, too, standing ap-
+propriations do not designate specific sums of money, thus
+combining one type of flexibility with another. They in-
+stead may provide the sums “necessary for purposes of” a
+program—such as to provide unemployment assistance or
+give scholarships to veterans' dependents. 15 U. S. C.
+§ 9023(d)(3); see 20 U. S. C. § 1070h(f). So again, Congress's
+non-time-limited grant to the CFPB for amounts (up to a
+cap) “reasonably necessary to carry out” its duties falls
+within an established tradition. 12 U. S. C. § 5497(a).
+And “flexible approaches to appropriations” have been
+particularly common in the sphere of financial regulation.
+Ante, at 433. There, Congress's adoption of assessment-
+based funding mechanisms (similar to those the First Con-
+gress used for the Customs Service and Post Office, see
+supra, at 443) has meant that regulators do not have to seek
+yearly legislative funding. And they generally may devote
+the funds they collect to any of a range of activities. For
+example, the Office of the Comptroller of the Currency has
+authority to levy assessments on banks as “necessary or ap-
+propriate to carry out [its] responsibilities.” 12 U. S. C. § 16;
+see also Act of Feb. 19, 1875, ch. 89, 18 Stat. 329. Similarly,
+the Federal Reserve Board assesses Federal Reserve Banks
+for whatever amount is “sufficient to pay its estimated ex-
+penses.” 12 U. S. C. § 243; see also Federal Reserve Act, 38
+Stat. 261 (1913). Indeed, not a single federal bank regulator
+is currently, or has been for a long while, funded by standard
+congressional appropriations. The CFPB received from
+those regulators most of the powers it wields today. So it

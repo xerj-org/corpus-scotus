@@ -1,0 +1,169 @@
+Trump v. Cook — No. 25A312 — October Term 2025 — decided 6/29/26 — BARRETT, J., dissenting
+Citation: 609 U.S. 528
+Source: https://www.supremecourt.gov/opinions/25pdf/25a312_5468.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 25A312
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, APPLICANT v. LISA D. COOK, MEMBER
+OF THE BOARD OF GOVERNORS OF THE
+FEDERAL RESERVE SYSTEM, ET AL.
+ON APPLICATION FOR STAY
+[June 29, 2026]
+JUSTICE BARRETT, dissenting.
+The Court chooses to answer a series of difficult merits
+questions, most of which were not addressed by the D. C.
+Circuit below or almost any ot her court before today.  See
+ante, at 1 (ALITO, J., dissenting). What kind of “cause” must
+the President assert before he can remove Lisa Cook from
+the Board of Governors of the Federal Reserve?  Does the
+statute require that he afford her process?  If so, what kind?
+Can she challenge her removal by asserting an ultra vires
+claim? May a court issue a preliminary injunction to keep
+her in office during the litigation?  And then, the biggest
+issue: Is the removal restriction in the Federal Reserve Act
+constitutional?
+All these questions are complicated and important, but
+the last is in a league of its own.  And unlike the other is -
+sues, the constitutional status of the Federal Reserve is en-
+tirely outside the scope of th is case.  The Government ex-
+pressly waived any constitutional challenge to the removal
+restriction, so the parties did not brief it. Application 2, n. 1
+(“This application does not contest the constitutionality of
+the Federal Reserve Board’s for-cause removal provision”);
+see also Reply Brief 13; Supp. Brief for Applicant 1. And
+the lower courts approached this case from the start on the
+assumption that the removal restriction is consistent with
+
+Article II.  We ordinarily do not jump ahead of the lower
+courts to decide waived issues.  See Cutter v. Wilkinson, 544
+U. S. 709, 718, n. 7 (2005); cf. Trump v. Illinois, 607 U. S.
+___ (2025) (reaching an issue of statutory interpretation de-
+cided by the District Court and addressed by the parties in
+supplemental briefing). Nonetheless, the Court raises and
+settles the constitutional issue—and does so based on a con-
+clusory analogy to the First and Second Banks of the United
+States. Ante, at 22–23.
+Even assuming that the Court is right on the merits, the
+issue warrants much more than a few paragraphs. As
+JUSTICE  THOMAS points out, the differences between the
+Federal Reserve and our early national banks are more sig-
+nificant than the majority lets on. Ante, at 3–6, 27 (dissent-
+ing opinion); see also A. Bamzai & A. Nielson, Article II and
+the Federal Reserve, 109 Cornell L. Rev. 843, 905–908
+(2024); L. Menand, The Unitary Executive and the Federal
+Reserve, 94 Ford. L. Rev. 2089, 2119–2121 (2026).  And the
+Court’s holding is in serious tension with Trump v. Slaugh-
+ter, which we also decide today. ___ U. S. ___ (2026).
+Slaughter announces a categorical rule: Whenever “an
+agency ‘executes’ a congressi onal mandate against private
+parties, it exercises executive power” and must be subject
+to plenary executive control—“no ifs, ands, or quasis about
+it.” Id., at ___ (slip op., at 22).  Yet here, the Court claims a
+special exception “‘sanctioned by history’” and based on the
+Federal Reserve’s role in setting monetary policy.  Ante,
+at 24.  How can history support both a categorical rule and
+a carveout?  See Slaughter, ___ U. S., at ___ (S OTOMAYOR,
+J., dissenting) (slip op., at 46). Do all the Federal Reserve’s
+existing regulatory powers have the requisite connection to
+monetary policy? If not, are they grandfathered in?  Cf.
+ante, at 23, n. 6 (opinion of the Court) (“In upholding the
+constitutionality of the Federal Reserve as currently struc-
+tured and with its existing en forcement authorities, we do
+not suggest that Congress could assign the Federal Reserve
+
+3  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., dissenting
+additional regulatory powers that are attenuated from
+monetary policy” (emphasis added)). And is the Federal Re-
+serve unique, or might history sanction other exceptions
+too? The Court does not say.
+For present purposes, though, the most significant prob-
+lem is that the Court decides this issue at all—not to men-
+tion the many others covered in its opinion. While a modest
+approach would have been appropriate, the Court chooses
+to go big. Its opinion sets precedent on a series of important
+issues, with implications that extend well beyond this case.
+I agree with J USTICE ALITO that the Court should have
+limited itself to the issues supporting the District Court’s
+injunction. Ante, at 4–5 (dissenting opinion).  Addressing
+these errors would have permitted the litigation to proceed,
+and the lower courts could have taken first cut at the many
+other difficult and novel legal issues.  Had the Court de-
+clined to go further, it may never have needed to reach
+those other issues anyway.  For instance, if the President
+ultimately satisfied the Federal Reserve Act, 12 U. S. C.
+§242, the Court may never have needed to address whether
+Cook could assert an ultra vires claim.
+Putting aside my difficulties with the opinion’s scope,
+there is a disconnect between its holding and its disposition
+line.  The Court does not rule out mortgage fraud as suffi-
+cient cause for removal under §242; instead, it denies a stay
+on the “narrow groun[d]” that the President has not yet pro-
+vided Cook enough process. Ante, at 17. The President re-
+mains free to “tr[y] again,” the Court says, so long as he
+gives Cook proper notice and an opportunity to respond.
+Ante, at 25–26, and n. 8.
+But if the Court wanted to leave the President in that po-
+sition, it should not have denied the stay.  Recall that the
+District Court held that Cook’s alleged mortgage fraud, as
+pre-office conduct, does not constitute cause for removal un-
+der §242. 804 F. Supp. 3d 14, 30 (DC 2025) (“[T]he Court
+finds that permissible cause for removal of a Federal
+
+Reserve Governor extends only to concerns about the Board
+member’s ability to effectively and faithfully execute their
+statutory duties, in light of events that have occurred while
+they are in office”).  So it entered a preliminary injunction
+barring defendants Jerome Powell and the Board of Gover-
+nors “from effectuating in any manner Plaintiff ’s removal
+from her position as a member of the Board of Governors on
+the basis of the grounds stated in the President’s letter of
+August 25, 2025 .” App. to Application 23a (emphasis
+added). The President’s letter clearly stated those
+“grounds”: “[T]here is sufficient reason to believe you may
+have made false statements on one or more mortgage agree-
+ments.” See Attachment to Complaint in No. 1:25–cv–
+02903 (D DC), ECF Doc. 1–3, p. 2.  As it stands, then, the
+President has no way to remove Cook for her alleged mort-
+gage fraud.  That is true even if he gives Cook a full-blown
+judicial trial (process far exceeding what the Court re-
+quires, ante, at 18–19), and satisfies the Court’s “substan -
+tial threshold for ‘cause’ ” (by demonstrating that the mort-
+gage fraud truly implies an unfitness for the office, ante,
+at 14).
+To get around this problem, the Court adopts an implau-
+sibly narrow reading of the injunction: It interprets the in-
+junction “to forbid the implementation of ‘the President’s
+letter of August 25’ in which he purported to fire Cook—but
+not to forbid the President from trying again, if he chooses
+to do so.” Ante, at 26, n. 8.  In other words, the injunction
+stops the President from “firing her by that letter,” not “fir-
+ing her for mortgage fraud.” But that is simply not what
+the injunction says. It forbids Cook’s removal based on “the
+grounds” stated in the President’s August 25th letter— i.e.,
+mortgage fraud.  And the D. C. Circuit’s order denying the
+stay left that broad injunction in place—as does the Court’s.
+We have repeatedly found t hat the President suffers ir-
+reparable harm when he is barred from firing a subordi-
+nate. See Trump v. Wilcox, 605 U. S. ___, ___ (2025) (slip
+
+5  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., dissenting
+op., at 1); Trump v. Boyle, 606 U. S. ___, ___ (2025) (slip op.,
+at 1).  In my view, that harm is somewhat lessened here
+because the Government has conceded for purposes of this
+litigation that the President cannot remove Cook or any
+other member of the Board of Governors for policy reasons.
+See Application 26.  Still, the District Court’s order blocks
+the President from removing Cook for mortgage fraud, and
+that is so even if he satisfies the requirements that the
+Court’s opinion sets out.  Under our precedent, that signifi-
+cant interference with the President’s removal authority
+clears the “irreparable harm” threshold.
+For these reasons, I respectfully dissent from the denial
+of the stay application.

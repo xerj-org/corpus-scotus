@@ -1,0 +1,150 @@
+Ramos v. Louisiana — No. 18-5924 — October Term 2019 — decided 4/20/20 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 590 U.S. 83
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=99 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+context of summary affrmances, “ `unexplicated' ” decisions
+may “ `settl[e] the issues for the parties, [but they are] not to
+be read as a renunciation by this Court of doctrines pre-
+viously announced in our opinions.' ” 55 Much the same may
+be said here. Apodaca's judgment line resolved that case
+for the parties in that case. It is binding in that sense. But
+stripped from any reasoning, its judgment alone cannot be
+read to repudiate this Court's repeated pre-existing teach-
+ings on the Sixth and Fourteenth Amendments. 56
+B
+1
+There's another obstacle the dissent must overcome.
+Even if we accepted the premise that Apodaca established a
+precedent, no one on the Court today is prepared to say it
+was rightly decided, and stare decisis isn't supposed to be
+the art of methodically ignoring what everyone knows to be
+true.57 Of course, the precedents of this Court warrant our
+deep respect as embodying the considered views of those
+who have come before. But stare decisis has never been
+treated as “an inexorable command.” 58 And the doctrine is
+“at its weakest when we interpret the Constitution” 59 be-
+55 Mandel v. Bradley, 432 U. S. 173, 176 (1977) (per curiam ) (quoting
+Fusari v. Steinberg, 419 U. S. 379, 392 (1975) (Burger, C. J., concurring);
+see also Bush v. Vera, 517 U. S. 952, 1001–1002 (1996) (Thomas, J., concur-
+ring in judgment).
+56 The dissent foats a different theory when it suggests this Court's
+denials of certiorari in cases seeking to clarify Apodaca is evidence of
+Apodaca's precedential force. Post, at 145–146. But “[t]he significance
+of a denial of a petition for certiorari ought no longer . . . require discus-
+sion. This Court has said again and again and again that such a denial
+has no legal significance whatever bearing on the merits of the claim.”
+Darr v. Burford, 339 U. S. 200, 226 (1950) (Frankfurter, J., dissenting).
+57 R. Cross & J. Harris, Precedent in English Law 1 (4th ed. 1991) (attrib-
+uting this aphorism to Jeremy Bentham).
+58 Pearson v. Callahan, 555 U. S. 223, 233 (2009) (internal quotation
+marks omitted).
+59 Agostini v. Felton, 521 U. S. 203, 235 (1997).
+cause a mistaken judicial interpretation of that supreme law
+is often “practically impossible” to correct through other
+means.60 To balance these considerations, when it revisits a
+precedent this Court has traditionally considered “the qual-
+ity of the decision's reasoning; its consistency with related
+decisions; legal developments since the decision; and reliance
+on the decision.” 61 In this case, each factor points in the
+same direction.
+Start with the quality of the reasoning. Whether we look
+to the plurality opinion or Justice Powell's separate concur-
+rence, Apodaca was gravely mistaken; again, no Member of
+the Court today defends either as rightly decided. Without
+repeating what we've already explained in detail, it's just
+an implacable fact that the plurality spent almost no time
+grappling with the historical meaning of the Sixth Amend-
+ment's jury trial right, this Court's long-repeated statements
+that it demands unanimity, or the racist origins of Louisiana's
+and Oregon's laws. Instead, the plurality subjected the
+Constitution's jury trial right to an incomplete functionalist
+analysis of its own creation for which it spared one para-
+graph. And, of course, fve Justices expressly rejected the
+plurality's conclusion that the Sixth Amendment does not re-
+quire unanimity. Meanwhile, Justice Powell refused to fol-
+low this Court's incorporation precedents. Nine Justices
+(including Justice Powell) recognized this for what it was;
+eight called it an error.
+Looking to Apodaca's consistency with related decisions
+and recent legal developments compounds the reasons for
+concern. Apodaca sits uneasily with 120 years of preceding
+case law. Given how unmoored it was from the start, it
+might seem unlikely that later developments could have done
+more to undermine the decision. Yet they have. While
+60 Payne v. Tennessee, 501 U. S. 808, 828 (1991) (internal quotation
+marks omitted).
+61 Franchise Tax Bd. of Cal. v. Hyatt, 587 U. S. 230, 248 (2019).
+Justice Powell's dual-track theory of incorporation was al-
+ready foreclosed in 1972, some at that time still argued that
+it might have a role to play outside the realm of criminal
+procedure. Since then, the Court has held otherwise.62
+Until recently, dual-track incorporation attracted at least a
+measure of support in dissent. But this Court has now
+roundly rejected it. 63 Nor has the plurality's rejection of
+the Sixth Amendment's historical unanimity requirement
+aged more gracefully. As we've seen, in the years since
+Apodaca, this Court has spoken inconsistently about its
+meaning—but nonetheless referred to the traditional una-
+nimity requirement on at least eight occasions.64 In light
+of all this, calling Apodaca an outlier would be perhaps too
+suggestive of the possibility of company.
+When it comes to reliance interests, it's notable that nei-
+ther Louisiana nor Oregon claims anything like the prospec-
+tive economic, regulatory, or social disruption litigants seek-
+ing to preserve precedent usually invoke. No one, it seems,
+has signed a contract, entered a marriage, purchased a home,
+or opened a business based on the expectation that, should a
+crime occur, at least the accused may be sent away by a 10-
+to-2 verdict.65 Nor does anyone suggest that nonunanimous
+verdicts have “become part of our national culture.” 66 It
+would be quite surprising if they had, given that nonunani-
+62 McDonald, 561 U. S., at 765–766.
+63 Timbs, 586 U. S., at 150. Contrary to the dissent's suggestion, this
+Court's longstanding rejection of dual-track incorporation does not neces-
+sarily imply that the Fourteenth Amendment renders the entire Bill of
+Rights applicable to the States. See post, at 156–157. The scope of an
+incorporated right and whether a right is incorporated at all are two dif-
+ferent questions. See Timbs, 586 U. S., at 150 (“[I]f a Bill of Rights pro-
+tection is incorporated, there is no daylight between the federal and state
+conduct it prohibits or requires”).
+64 See n. 35, supra.
+65 Cf. Leegin Creative Leather Products, Inc. v. PSKS, Inc., 551 U. S.
+877, 925–926 (2007) (Breyer , J., dissenting).
+66 Dickerson v. United States, 530 U. S. 428, 443 (2000).
+mous verdicts are insufficient to convict in 48 States and fed-
+eral court.
+Instead, the only reliance interests that might be asserted
+here fall into two categories. The first concerns the fact
+Louisiana and Oregon may need to retry defendants con-
+victed of felonies by nonunanimous verdicts whose cases are
+still pending on direct appeal. The dissent claims that this
+fact supplies the winning argument for retaining Apodaca
+because it has generated “enormous reliance interests” and
+overturning the case would provoke a “crushing” “tsunami”
+of follow-on litigation. 67
+The overstatement may be forgiven as intended for dra-
+matic effect, but prior convictions in only two States are po-
+tentially affected by our judgment. Those States credibly
+claim that the number of nonunanimous felony convictions
+still on direct appeal are somewhere in the hundreds, 68 and
+retrying or plea bargaining these cases will surely impose a
+cost. But new rules of criminal procedures usually do, often
+affecting significant numbers of pending cases across the
+whole country. For example, after United States v. Booker
+held that the Federal Sentencing Guidelines must be advi-
+sory rather than mandatory, this Court vacated and re-
+manded nearly 800 decisions to the courts of appeals. Similar
+consequences likely followed when Crawford v. Washing-
+ton overturned prior interpretations of the Confrontation
+Clause69 or Arizona v. Gant changed the law for searches
+incident to arrests.70 Our decision here promises to cause
+less, and certainly nothing before us supports the dissent's
+67 Post, at 140, 158.
+68 Brief for State of Oregon as Amicus Curiae 13 (“In 2018 alone . . .
+there were 673 felony jury trials in Oregon, and studies suggest that as
+many as two-thirds of those cases would have had a non-unanimous ver-
+dict”). At most, Oregon says the number of cases remaining on direct
+appeal and affected by today's decision “easily may eclipse a thousand.”
+Id., at 12.
+69 541 U. S. 36, 60–63 (2004).
+70 556 U. S. 332, 345–347 (2009).

@@ -1,0 +1,186 @@
+Roman Catholic Diocese of Brooklyn v. Cuomo — No. 20A87 — October Term 2020 — decided 11/25/20 — Breyer, J., dissenting
+Citation: 592 U.S. 14
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=54 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+study and analysis reflecting their best efforts to fulfill their
+responsibility under the Constitution.
+One solo concurrence today takes aim at my concurring
+opinion in South Bay. See ante, at 23–25 (opinion of Gor-
+such, J.). Today's concurrence views that opinion with dis-
+favor because “[t]o justify its result, [it] reached back 100
+years in the U. S. Reports to grab hold of our decision in
+Jacobson v. Massachusetts, 197 U. S. 11 (1905).” Ante, at
+23. Today's concurrence notes that Jacobson “was the first
+case South Bay cited on the substantive legal question be-
+fore the Court,” and “it was the only case cited involving a
+pandemic.” Ante, at 25. And it suggests that, in the wake
+of South Bay, some have “mistaken this Court's modest deci-
+sion in Jacobson for a towering authority that overshadows
+the Constitution during a pandemic.” Ibid. But while Ja-
+cobson occupies three pages of today's concurrence, it war-
+ranted exactly one sentence in South Bay. What did that
+one sentence say? Only that “[o]ur Constitution principally
+entrusts `[t]he safety and the health of the people' to the
+politically accountable officials of the States `to guard and
+protect.' ” South Bay, 590 U. S., at 967 (Roberts, C. J., con-
+curring in denial of application for injunctive relief) (quoting
+Jacobson, 197 U. S., at 38). It is not clear which part of this
+lone quotation today's concurrence finds so discomfting.
+The concurrence speculates that there is so much more to
+the sentence than meets the eye, invoking—among other in-
+terpretive tools—the new “first case cited” rule. But the
+actual proposition asserted should be uncontroversial, and
+the concurrence must reach beyond the words themselves to
+find the target it is looking for.
+Justice Breyer , with whom Justice Sotomayor and
+Justice Kagan join, dissenting.
+New York regulations designed to fight the rapidly spread-
+ing—and, in many cases, fatal—COVID–19 virus permit the
+Governor to identify hot spots where infection rates have
+spiked and to designate those hot spots as red zones, the
+immediately surrounding areas as orange zones, and the outly-
+ing areas as yellow zones. Brief in Opposition in No. 20A87,
+p. 12. The regulations impose restrictions within these
+zones (with the strictest restrictions in the red zones and the
+least strict restrictions in the yellow zones) to curb transmis-
+sion of the virus and prevent spread into nearby areas.
+Ibid. In October, the Governor designated red, orange, and
+yellow zones in parts of Brooklyn and Queens. Brief in Op-
+position in Agudath Israel of America v. Cuomo, O. T. 2020,
+No. 20A90, pp. 10–11 (Brief in Opposition in No. 20A90).
+Among other things, the restrictions in these zones limit the
+number of persons who can be present at one time at a gath-
+ering in a house of worship to: the lesser of 10 people or 25%
+of maximum capacity in a red zone; the lesser of 25 people
+or 33% of maximum capacity in an orange zone; and 50% of
+maximum capacity in a yellow zone. Id., at 8–9.
+Both the Roman Catholic Diocese of Brooklyn and Agu-
+dath Israel of America (together with Agudath Israel of Kew
+Garden Hills and its employee and Agudath Israel of Madi-
+son and its rabbi) brought lawsuits against the Governor of
+New York. They claimed that the fxed-capacity restric-
+tions of 10 people in red zones and 25 people in orange zones
+were too strict—to the point where they violated the First
+Amendment's protection of the free exercise of religion.
+Both parties asked a Federal District Court for a prelimi-
+nary injunction that would prohibit the State from enforcing
+these red and orange zone restrictions.
+After receiving evidence and hearing witness testi -
+mony, the District Court in the Diocese's case found
+that New York's regulations were “crafted based on science
+and for epidemiological purposes.” 495 F. Supp. 3d 118,
+131 (EDNY 2020). It wrote that they treated “reli -
+gious gatherings . . . more favorably than similar gatherings”
+with comparable risks, such as “public lectures, concerts
+or theatrical performances.” Id., at 129. The court also
+recognized the Diocese's argument that the regulations
+treated religious gatherings less favorably than what the
+State has called “essential businesses,” including, for exam-
+ple, grocery stores and banks. Id., at 130. But the court
+found these essential businesses to be distinguishable from
+religious services and declined to “second guess the State's
+judgment about what should qualify as an essential busi-
+ness.” Ibid. The District Court denied the motion for a
+preliminary injunction. The Diocese appealed, and the Dis-
+trict Court declined to issue an emergency injunction pend-
+ing that appeal. The Court of Appeals for the Second Cir-
+cuit also denied the Diocese's request for an emergency
+injunction pending appeal, but it called for expedited briefing
+and scheduled a full hearing on December 18 to address the
+merits of the appeal. This Court, unlike the lower courts,
+has now decided to issue an injunction that would prohibit
+the State from enforcing its fxed-capacity restrictions on
+houses of worship in red and orange zones while the parties
+await the Second Circuit's decision. I cannot agree with
+that decision.
+For one thing, there is no need now to issue any such in-
+junction. Those parts of Brooklyn and Queens where the
+Diocese's churches and the two applicant synagogues are lo-
+cated are no longer within red or orange zones. Brief in
+Opposition in No. 20A90, at 17. Thus, none of the applicants
+are now subject to the fxed-capacity restrictions that they
+challenge in their applications. The specific applicant
+houses of worship are now in yellow zones where they can
+hold services up to 50% of maximum capacity. And the ap-
+plicants do not challenge any yellow zone restrictions, as the
+conditions in the yellow zone provide them with more than
+the relief they asked for in their applications.
+Instead, the applicants point out that the State might re-
+impose the red or orange zone restrictions in the future.
+But, were that to occur, they could refle their applications
+here, by letter brief if necessary. And this Court, if neces-
+sary, could then decide the matter in a day or two, perhaps
+even in a few hours. Why should this Court act now with-
+out argument or full consideration in the ordinary course
+(and prior to the Court of Appeals' consideration of the mat-
+ter) when there is no legal or practical need for it to do so?
+I have found no convincing answer to that question.
+For another thing, the Court's decision runs contrary to
+ordinary governing law. We have previously said that an
+injunction is an “extraordinary remedy.” Nken v. Holder,
+556 U. S. 418, 428 (2009) (internal quotation marks omitted).
+That is especially so where, as here, the applicants seek an
+injunction prior to full argument and contrary to the lower
+courts' determination. Here, we consider severe restric-
+tions. Those restrictions limit the number of persons who
+can attend a religious service to 10 and 25 congregants (irre-
+spective of mask-wearing and social distancing). And those
+numbers are indeed low. But whether, in present circum-
+stances, those low numbers violate the Constitution's Free
+Exercise Clause is far from clear, and, in my view, the appli-
+cants must make such a showing here to show that they are
+entitled to “the extraordinary remedy of injunction.” Ibid.
+(internal quotation marks omitted).
+COVID–19 has infected more than 12 million Americans
+and caused more than 250,000 deaths nationwide. At least
+26,000 of those deaths have occurred in the State of New
+York, with 16,000 in New York City alone. And the number
+of COVID–19 cases is many times the number of deaths.
+The Nation is now experiencing a second surge of infections.
+In New York, for example, the 7-day average of new con-
+firmed cases per day has risen from around 700 at the end of
+the summer to over 4,800 last week. Nationwide, the num-
+ber of new confirmed cases per day is now higher than it has
+ever been. Brief in Opposition in No. 20A87, at 1; COVID in
+the U. S.: Latest Map and Case Count (Nov. 24, 2020), http://
+www.nytimes.com/interactive/2020/us/coronavirus-us-cases .
+html#states; New York COVID Map and Case Count (Nov. 24,
+2020), http://www.nytimes.com/interactive/2020/us/new-york-
+coronavirus-cases.html.
+At the same time, members of the scientific and medical
+communities tell us that the virus is transmitted from person
+to person through respiratory droplets produced when a per-
+son or group of people talk, sing, cough, or breathe near each
+other. Brief in Opposition in No. 20A87, at 3 (citing the
+World Health Organization); Brief of the American Medical
+Association as Amici Curiae 5–6. Thus, according to ex-
+perts, the risk of transmission is higher when people are in
+close contact with one another for prolonged periods of time,
+particularly indoors or in other enclosed spaces. Id., at
+3–6. The nature of the epidemic, the spikes, the uncertain-
+ties, and the need for quick action, taken together, mean that
+the State has countervailing arguments based upon health,
+safety, and administrative considerations that must be bal-
+anced against the applicants' First Amendment challenges.
+That fact, along with others that Justice Sotomayor de-
+scribes, means that the applicants' claim of a constitutional
+violation (on which they base their request for injunctive re-
+lief) is far from clear. See post, p. 38 (dissenting opinion).
+(All of these matters could be considered and discussed in
+the ordinary course of proceedings at a later date.) At the
+same time, the public's serious health and safety needs,
+which call for swift government action in ever changing cir-
+cumstances, also mean that it is far from clear that “the bal-
+ance of equities tips in [the applicants'] favor,” or “that an
+injunction is in the public interest.” Winter v. Natural Re-
+sources Defense Council, Inc., 555 U. S. 7, 20 (2008).
+Relevant precedent suggests the same. We have pre-
+viously recognized that courts must grant elected officials
+“broad” discretion when they “undertake to act in areas
+fraught with medical and scientific uncertainties.” South
+Bay United Pentecostal Church v. Newsom, 590 U. S. 965, 967
+(2020) (Roberts, C. J., concurring in denial of application for
+injunctive relief) (alteration omitted). That is because the
+“Constitution principally entrusts the safety and the health of
+the people to the politically accountable officials of the States.”
+Ibid. (alterations and internal quotation marks omitted).

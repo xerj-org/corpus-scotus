@@ -1,0 +1,327 @@
+United States v. Sineneng-Smith — No. 19-67 — October Term 2019 — decided 5/07/20 — opinion of the Court — author Ginsburg (listing code G)
+Citation: 590 U.S. 371
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=387 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Ginsburg delivered the opinion of the Court.
+This case concerns 8 U. S. C. § 1324, which makes it a fed-
+eral felony to “encourag[e] or induc[e] an alien to come to,
+enter, or reside in the United States, knowing or in reckless
+disregard of the fact that such coming to, entry, or residence
+is or will be in violation of law.” § 1324(a)(1)(A)(iv). The
+crime carries an enhanced penalty if “done for the pur-
+pose of commercial advantage or private financial gain.”
+§ 1324(a)(1)(B)(i).1
+Respondent Evelyn Sineneng-Smith operated an immigra-
+tion consulting frm in San Jose, California. She was in-
+dicted for multiple violations of § 1324(a)(1)(A)(iv) and (B)(i).
+Her clients, most of them from the Philippines, worked with-
+out authorization in the home health care industry in the
+United States. Between 2001 and 2008, Sineneng-Smith as-
+sisted her clients in applying for a “labor certifcation” that
+once allowed certain aliens to adjust their status to that of
+lawful permanent resident permitted to live and work in the
+United States. § 1255(i)(1)(B)(ii).
+There was a hindrance to the efficacy of Sineneng-Smith's
+advice and assistance. To qualify for the labor-certifcation
+dispensation she promoted to her clients, an alien had to
+be in the United States on December 21, 2000, and apply
+for certification before April 30, 2001. § 1255(i)(1)(C).
+Sineneng-Smith knew her clients did not meet the
+application-fling deadline; hence, their applications could not
+fense Lawyers et al. by Elliott Schulder and Stephen R. Sady; for Reli-
+gious Organizations by Anton Metlitsky and Jeremy Girton; and for The
+Rutherford Institute et al. by Erin Glenn Busby, Lisa R. Eskow, Michael
+F. Sturley, John W. Whitehead, David D. Cole , Esha Bhandari, Cecillia
+D. Wang, and Nicole G. Berner.
+A brief of amicus curiae was fled for Eugene Volokh by Mr. Volokh,
+pro se.
+1 For violations of 8 U. S. C. § 1324(a)(1)(A)(iv), the prison term is “not
+more than 5 years,” § 1324(a)(1)(B)(ii); if “the offense was done for . . .
+private financial gain,” the prison term is “not more than 10 years,”
+§ 1324(a)(1)(B)(i).
+put them on a path to lawful residence. 2 Nevertheless, she
+charged each client $5,900 to fle an application with the De-
+partment of Labor and another $900 to fle with the U. S.
+Citizenship and Immigration Services. For her services in
+this regard, she collected more than $3.3 million from her
+unwitting clients.
+In the District Court, Sineneng-Smith urged unsuccess-
+fully, inter alia, that the above-cited provisions, properly
+construed, did not cover her conduct, and if they did, they
+violated the Petition and Free Speech Clauses of the First
+Amendment as applied. See Motion to Dismiss in No. 10–
+cr–414 (ND Cal.), pp. 7–13, 20–25; Motion for Judgt. of Ac-
+quittal in No. 10–cr–414 (ND Cal.), pp. 14–19, 20–25. She
+was convicted on two counts under § 1324(a)(1)(A)(iv) and
+(B)(i), and on other counts (filing false tax returns and mail
+fraud) she does not now contest. Throughout the District
+Court proceedings and on appeal, she was represented by
+competent counsel.
+On appeal from the § 1324 convictions to the Ninth Circuit,
+both on brief and at oral argument, Sineneng-Smith essen-
+tially repeated the arguments she earlier presented to the
+District Court. See Brief for Appellant in No. 15–10614
+(CA9), pp. 11–28. The case was then moved by the appeals
+panel onto a different track. Instead of adjudicating the
+case presented by the parties, the appeals court named three
+amici and invited them to brief and argue issues framed by
+the panel, including a question Sineneng-Smith herself never
+raised earlier: “Whether the statute of conviction is over-
+broad . . . under the First Amendment.” App. 122–124. In
+2 Sineneng-Smith argued that labor-certifcation applications were often
+approved despite expiration of the statutory dispensation, and that an ap-
+proved application, when submitted as part of a petition for adjustment
+of status, would place her clients in line should Congress reactivate the
+dispensation. See Motion for Judgt. of Acquittal in No. 10–cr–414 (ND
+Cal.), p. 16.
+the ensuing do over of the appeal, counsel for the parties
+were assigned a secondary role. The Ninth Circuit ulti-
+mately concluded, in accord with the invited amici's ar-
+guments, that § 1324(a)(1)(A)(iv) is unconstitutionally over-
+broad. 910 F. 3d 461, 485 (2018). The Government
+petitioned for our review because the judgment of the Court
+of Appeals invalidated a federal statute. Pet. for Cert. 24.
+We granted the petition. 588 U. S. 948 (2019).
+As developed more completely hereinafter, we now hold
+that the appeals panel departed so drastically from the prin-
+ciple of party presentation as to constitute an abuse of dis-
+cretion. We therefore vacate the Ninth Circuit's judgment
+and remand the case for an adjudication of the appeal at-
+tuned to the case shaped by the parties rather than the case
+designed by the appeals panel.
+I
+In our adversarial system of adjudication, we follow the
+principle of party presentation. As this Court stated in
+Greenlaw v. United States, 554 U. S. 237 (2008), “in both civil
+and criminal cases, in the first instance and on appeal . . . ,
+we rely on the parties to frame the issues for decision and
+assign to courts the role of neutral arbiter of matters the
+parties present.” Id., at 243. In criminal cases, departures
+from the party presentation principle have usually occurred
+“to protect a pro se litigant's rights.” Id., at 244; see, e. g.,
+Castro v. United States, 540 U. S. 375, 381–383 (2003) (affirm-
+ing courts' authority to recast pro se litigants' motions to
+“avoid an unnecessary dismissal” or “inappropriately strin-
+gent application of formal labeling requirements, or to create
+a better correspondence between the substance of a pro se
+motion's claim and its underlying legal basis” (citation omit-
+ted)). But as a general rule, our system “is designed around
+the premise that [parties represented by competent counsel]
+know what is best for them, and are responsible for advanc-
+ing the facts and argument entitling them to relief.” Id.,
+at 386 (Scalia, J., concurring in part and concurring in
+judgment).3
+In short: “[C]ourts are essentially passive instruments of
+government.” United States v. Samuels, 808 F. 2d 1298,
+1301 (CA8 1987) (Arnold, J., concurring in denial of reh'g en
+banc). They “do not, or should not, sally forth each day
+looking for wrongs to right. [They] wait for cases to come
+to [them], and when [cases arise, courts] normally decide only
+questions presented by the parties.” Ibid.
+The party presentation principle is supple, not ironclad.
+There are no doubt circumstances in which a modest initiat-
+ing role for a court is appropriate. See, e. g., Day v. McDon-
+ough, 547 U. S. 198, 202 (2006) (federal court had “authority,
+on its own initiative,” to correct a party's “evident miscalcu-
+lation of the elapsed time under a statute [of limitations]”
+absent “intelligent waiver”). 4 But this case scarcely fts
+that bill. To explain why that is so, we turn first to the
+proceedings in the District Court.
+In July 2010, a grand jury returned a multicount indict-
+ment against Sineneng-Smith, including three counts of vio-
+lating § 1324, three counts of mail fraud in violation of
+18 U. S. C. § 1341, and two counts of willfully subscribing
+to a false tax return in violation of 26 U. S. C. § 7206(1).
+Sineneng-Smith pleaded guilty to the tax-fraud counts, App.
+to Pet. for Cert. 78a–79a, and did not pursue on appeal the
+two mail-fraud counts on which she was ultimately convicted.
+3 See Kaplan, Civil Procedure—Reflections on the Comparison of Sys-
+tems, 9 Buffalo L. Rev. 409, 431–432 (1960) (U. S. system “exploits the
+free-wheeling energies of counsel and places them in adversary confronta-
+tion before a detached judge”; “German system puts its trust in a judge
+of paternalistic bent acting in cooperation with counsel of somewhat muted
+adversary zeal”).
+4 In an addendum to this opinion, we list cases in which this Court has
+called for supplemental briefing or appointed amicus curiae in recent
+years. None of them bear any resemblance to the redirection ordered by
+the Ninth Circuit panel in this case.
+We therefore concentrate this description on her defenses
+against the § 1324 charges.
+Before trial, Sineneng-Smith moved to dismiss the § 1324
+counts. Motion to Dismiss in No. 10–cr–414 (ND Cal.).
+She asserted first that the conduct with which she was
+charged—advising and assisting aliens about labor
+certifcations—is not proscribed by § 1324(a)(1)(A)(iv) and
+(B)(i). Being hired to fle lawful applications on behalf of
+aliens already residing in the United States, she maintained,
+did not “encourage” or “induce” them to remain in this coun-
+try. Id., at 7–13. Next, she urged, alternatively, that clause
+(iv) is unconstitutionally vague and therefore did not provide
+fair notice that her conduct was prohibited, id., at 13–18, or
+should rank as a content-based restraint on her speech, id.,
+at 22–24. She further asserted that she has a right safe-
+guarded to her by the Petition and Free Speech Clauses of
+the First Amendment to fle applications on her clients' be-
+half. Id., at 20–25. Nowhere did she so much as hint that
+the statute is infirm, not because her own conduct is pro-
+tected, but because it trenches on the First Amendment shel-
+tered expression of others.
+The District Court denied the motion to dismiss, holding
+that Sineneng-Smith could “encourag[e]” noncitizens to re-
+main in the country, within the meaning of § 1324(a)(1)(A)(iv),
+“[b]y suggesting to [them] that the applications she would
+make on their behalf, in exchange for their payments, would
+allow them to eventually obtain legal permanent residency
+in the United States.” App. to Pet. for Cert. 73a. The
+court also rejected Sineneng-Smith's constitutional argu-
+ments, reasoning that she was prosecuted, not for filing cli-
+ents' applications, but for falsely representing to noncitizens
+that her efforts, for which she collected sizable fees, would
+enable them to gain lawful status. Id., at 75a.
+After a 12-day trial, the jury found Sineneng-Smith guilty
+on the three § 1324 counts charged in the indictment, along
+with the three mail-fraud counts. App. 118–121. Sineneng-
+Smith then moved for a judgment of acquittal. She re-
+newed, “almost verbatim,” the arguments made in her mo-
+tion to dismiss, App. to Pet. for Cert. 65a, and the District
+Court rejected those arguments “[f]or the same reasons as
+the court expressed in its order denying Sineneng-Smith's
+motion to dismiss,” ibid. She simultaneously urged that the
+evidence did not support the verdicts. Motion for Judgt. of
+Acquittal in No. 10–cr–414 (ND Cal.), at 1–14. The District
+Court found the evidence sufficient as to two of the three
+§ 1324 counts and two of the three mail-fraud counts. App.
+to Pet. for Cert. 67a. 5
+Sineneng-Smith's appeal to the Ninth Circuit from the Dis-
+trict Court's § 1324 convictions commenced unremarkably.
+On brief and at oral argument, she reasserted the self-
+regarding arguments twice rehearsed, initially in her motion
+to dismiss, and later in her motion for acquittal. Brief for
+Appellant in No. 15–10614 (CA9), at 9–27, 35–41; Recording
+of Oral Arg. (Apr. 18, 2017), at 37:00–39:40; see supra, at 377.
+With the appeal poised for decision based upon the parties'
+presentations, the appeals panel intervened. It ordered fur-
+ther briefing, App. 122–124, but not from the parties. In-
+stead, it named three organizations—“the Federal Defender
+Organizations of the Ninth Circuit (as a group)[,] the Immi-
+grant Defense Project[,] and the National Immigration Proj-
+ect of the National Lawyers Guild”—and invited them to fle
+amicus briefs on three issues:
+“1. Whether the statute of conviction is overbroad or
+likely overbroad under the First Amendment, and if so,
+whether any permissible limiting construction would
+cure the First Amendment problem?
+“2. Whether the statute of conviction is void for
+vagueness or likely void for vagueness, either under the
+5 The court sentenced Sineneng-Smith to 18 months on each of the re-
+maining counts; three years of supervised release on the § 1324 and mail-
+fraud counts; and one year of supervised release on the filing of false tax
+returns count, all to run concurrently. She was also ordered to pay
+$43,550 in restitution, a $15,000 fne, and a $600 special assessment.
+First Amendment or the Fifth Amendment, and if so,
+whether any permissible limiting construction would
+cure the constitutional vagueness problem?
+“3. Whether the statute of conviction contains an im-
+plicit mens rea element which the Court should enunci-
+ate. If so: (a) what should that mens rea element be;
+and (b) would such a mens rea element cure any serious
+constitutional problems the Court might determine
+existed?” Ibid.
+Counsel for the parties were permitted, but “not re-
+quired,” to fle supplemental briefs “ limited to responding
+to any and all amicus/amici briefs.” Id., at 123 (emphasis
+added). Invited amici and amici not specifically invited to
+fle were free to “brief such further issues as they, respec-
+tively, believe the law and the record calls for.” Ibid. The
+panel gave invited amici 20 minutes for argument, and allo-
+cated only 10 minutes to Sineneng-Smith's counsel. Reargu-
+ment Order in No. 15–10614 (CA9), Doc. No. 92. Of the
+three specified areas of inquiry, the panel reached only the
+first, holding that § 1324(a)(1)(A)(iv) was facially overbroad
+under the First Amendment, 910 F. 3d, at 483–485, and was
+not susceptible to a permissible limiting construction, id., at
+472, 479.
+True, in the redone appeal, Sineneng-Smith's counsel
+adopted without elaboration counsel for amici's overbreadth
+arguments. See Supplemental Brief for Appellant in
+No. 15–10614 (CA9), p. 1. How could she do otherwise?
+Understandably, she rode with an argument suggested by
+the panel. In the panel's adjudication, her own arguments,
+differently directed, fell by the wayside, for they did not
+mesh with the panel's overbreadth theory of the case.
+II
+No extraordinary circumstances justified the panel's take-
+over of the appeal. Sineneng-Smith herself had raised a
+vagueness argument and First Amendment arguments hom-
+ing in on her own conduct, not that of others. Electing not
+Addendum to opinion of the Court
+to address the party-presented controversy, the panel pro-
+jected that § 1324(a)(1)(A)(iv) might cover a wide swath of
+protected speech, including political advocacy, legal advice,
+even a grandmother's plea to her alien grandchild to remain
+in the United States. 910 F. 3d, at 483–484. 6 Nevermind
+that Sineneng-Smith's counsel had presented a contrary the-
+ory of the case in the District Court, and that this Court has
+repeatedly warned that “[i]nvalidation for [First Amend-
+ment] overbreadth is `strong medicine' that is not to be `casu-
+ally employed.' ” United States v. Williams, 553 U. S. 285,
+293 (2008) (quoting Los Angeles Police Dept. v. United Re-
+porting Publishing Corp., 528 U. S. 32, 39 (1999)).
+As earlier observed, see supra, at 376, a court is not hide-
+bound by the precise arguments of counsel, but the Ninth
+Circuit's radical transformation of this case goes well beyond
+the pale.
+* * *
+For the reasons stated, we vacate the Ninth Circuit's judg-
+ment and remand the case for reconsideration shorn of the
+overbreadth inquiry interjected by the appellate panel and
+bearing a fair resemblance to the case shaped by the parties.
+It is so ordered.
+Addendum of cases, 2015–2020, in which this Court called for
+supplemental briefing or appointed
+amicus curiae
+This Court has sought supplemental briefing: to determine
+whether a case presented a controversy suitable for the
+6 The Solicitor General maintained that the statute does not reach pro-
+tected speech. Brief for United States 32. In the Government's view,
+§ 1324(a)(1)(A)(iv) should be construed to prohibit only speech facilitating
+or soliciting illegal activity, thus falling within the exception to the First
+Amendment for speech integral to criminal conduct. Id., at 22–26, 31
+(citing United States v. Williams, 553 U. S. 285, 298 (2008)).
+Addendum to opinion of the Court
+Court's review, Trump v. Mazars USA, LLP , 590 U. S. 921
+(ordering briefing on application of political question doctrine
+and related justiciability principles); Frank v. Gaos, 586
+U. S. 995 (2018) (ordering briefing on Article III standing);
+Wittman v. Personhuballah, 576 U. S. 1093 (2015) (same);
+Docket Entry in Gloucester County School Bd. v. G. G., O. T.
+2016, No. 16–273 (Feb. 23, 2017) (ordering briefing on inter-
+vening Department of Education and Department of Justice
+guidance document); Kingdomware Technologies, Inc. v.
+United States, 577 U. S. 970 (2015) (ordering briefing on
+mootness); to determine whether the case could be resolved
+on a basis narrower than the question presented, Zubik v.
+Burwell, 578 U. S. 901 (2016) (ordering briefing on whether
+the plaintiffs could obtain relief without entirely invalidating
+challenged federal regulations); and to clarify an issue or ar-
+gument the parties raised, Google LLC v. Oracle America,
+Inc., 590 U. S. 928 (ordering further briefing on the parties'
+dispute over the standard of review applicable to the ques-
+tion presented); Babb v. Wilkie, 589 U. S. 1164 (2020) (order-
+ing briefing on an assertion counsel made for the first time
+at oral argument about alternative remedies available to the
+plaintiff ); Sharp v. Murphy, reported sub nom. Carpenter
+v. Murphy, 586 U. S. 1046 (2018) (ordering briefing on the
+implications of the parties' statutory interpretations).
+In rare instances, we have ordered briefing on a constitu-
+tional issue implicated, but not directly presented, by the
+question on which we granted certiorari. See Jennings v.
+Rodriguez, 580 U. S. 1040 (2016) (in a case about availability
+of a bond hearing under a statute mandating detention of
+certain noncitizens, briefing ordered on whether the Consti-
+tution requires such a hearing); Johnson v. United States,
+574 U. S. 1069 (2015) (in a case involving interpretation of
+the Armed Career Criminal Act's residual clause, briefing
+ordered on whether that clause is unconstitutionally vague).
+But in both cases, the parties had raised the relevant consti-
+tutional challenge in lower courts; the question was not in-

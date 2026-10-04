@@ -1,0 +1,109 @@
+Wooden v. United States — No. 20-5279 — October Term 2021 — decided 3/07/22 — Kavanaugh, J., concurring
+Citation: 595 U.S. 360
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r16_d1pf.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+subject a person to a 15-year minimum sentence for illegally
+possessing a gun.
+III
+For the reasons stated, Wooden's ten burglary convictions
+were for offenses committed on a single occasion. They
+therefore count only once under ACCA. We reverse the
+judgment of the Sixth Circuit and remand the case for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor, concurring.
+I join the opinion of the Court because on the facts of
+this case, it is clear that Wooden's prior convictions did not
+take place “on occasions different from one another,” as re-
+quired for the sentencing enhancement to apply. 18 U. S. C.
+§ 924(e)(1). Justice Gorsuch raises questions about the
+clarity of the record below, but in my view, those questions
+only underscore the Government's failure to carry its burden
+of proving the enhancement's application. See Pereida v.
+Wilkinson, 592 U. S. –––, ––– (2021) (citing Johnson v. United
+States, 559 U. S. 133, 137 (2010)). I agree with Justice
+Gorsuch, however, that the rule of lenity provides an inde-
+pendent basis for ruling in favor of a defendant in a closer
+case, and I join Parts II–IV of his opinion concurring in the
+judgment.
+Justice Kavanaugh, concurring.
+I join the Court's opinion in full. In light of Justice
+Gorsuch's thoughtful concurrence in the judgment, I write
+separately to briefly explain why the rule of lenity has appro-
+priately played only a very limited role in this Court's crimi-
+nal case law. And I further explain how another principle—
+the presumption of mens rea —can address Justice
+Gorsuch's important concern, which I share, about fair no-
+tice in federal criminal law.
+A common formulation of the rule of lenity is as follows:
+If a federal criminal statute is grievously ambiguous, then
+the statute should be interpreted in the criminal defendant's
+favor. See Ocasio v. United States, 578 U. S. 282, 295, n. 8
+(2016). Importantly, the rule of lenity does not apply when
+a law merely contains some ambiguity or is difficult to deci-
+pher. As this Court has often said, the rule of lenity applies
+only when “ `after seizing everything from which aid can be
+derived,' ” the statute is still grievously ambiguous. Ibid.
+(quoting Muscarello v. United States, 524 U. S. 125, 138–139
+(1998)); see Shular v. United States, 589 U. S. –––, –––, –––
+(2020) (Kavanaugh, J., concurring). The rule “comes into
+operation at the end of the process of construing what Con-
+gress has expressed, not at the beginning as an overriding
+consideration of being lenient to wrongdoers.” Callanan v.
+United States, 364 U. S. 587, 596 (1961). Our repeated use of
+the term “grievous ambiguity” underscores that point. See,
+e. g., Shaw v. United States, 580 U. S. 63, 71 (2016); Salman
+v. United States, 580 U. S. 39, 51 (2016); Abramski v. United
+States, 573 U. S. 169, 188, n. 10 (2014).
+Properly applied, the rule of lenity therefore rarely if ever
+plays a role because, as in other contexts, “hard interpretive
+conundrums, even relating to complex rules, can often be
+solved.” Kisor v. Wilkie, 588 U. S. –––, ––– (2019); see also
+Chevron U. S. A. Inc. v. Natural Resources Defense Council,
+Inc., 467 U. S. 837, 843, n. 9 (1984). And if “a reviewing
+court employs all of the traditional tools of construction, the
+court will almost always reach a conclusion about the best
+interpretation of the [law] at issue.” Kisor, 588 U. S., at –––
+(Kavanaugh, J., concurring in judgment).
+In short, because a court must exhaust all the tools of stat-
+utory interpretation before resorting to the rule of lenity,
+and because a court that does so often determines the best
+reading of the statute, the rule of lenity rarely if ever comes
+into play. In other words, “if lenity invariably comes in
+`last,' it should essentially come in never.” D. Kahan, Len-
+ity and Federal Common Law Crimes, 1994 S. Ct. Rev. 345,
+386. As I see it, that explains why this Court rarely relies
+on the rule of lenity, at least as a decisive factor.
+I would not upset our rule of lenity case law by making
+the ambiguity trigger any easier to satisfy. For example, I
+would not say that any front-end ambiguity in the statute
+justifies resort to the rule of lenity even before exhausting
+the tools of statutory interpretation. One major problem
+with that kind of ambiguity trigger is that ambiguity is in
+the eye of the beholder and cannot be readily determined on
+an objective basis. Applying a looser front-end ambiguity
+trigger would just exacerbate that problem, leading to sig-
+nificant inconsistency, unpredictability, and unfairness in ap-
+plication. See B. Kavanaugh, Fixing Statutory Interpreta-
+tion, 129 Harv. L. Rev. 2118, 2136–2139 (2016).
+For those reasons, I would not alter our rule of lenity case
+law. That said, I very much agree with Justice Gorsuch
+about the importance of fair notice in federal criminal law.
+But as I see it, that concern for fair notice is better addressed
+by other doctrines that protect criminal defendants against
+arbitrary or vague federal criminal statutes—in particular,
+the presumption of mens rea.
+The deeply rooted presumption of mens rea generally re-
+quires the Government to prove the defendant's mens rea
+with respect to each element of a federal offense, unless Con-
+gress plainly provides otherwise. See Rehaif v. United
+States, 588 U. S. –––, ––– (2019); see also Flores-Figueroa v.
+United States, 556 U. S. 646, 652 (2009); W. Eskridge, Inter-
+preting Law: A Primer on How To Read Statutes and the
+Constitution 350–351 (2016); A. Scalia & B. Garner, Reading
+Law: The Interpretation of Legal Texts 303–312 (2012). In
+addition, with respect to federal crimes requiring “willful-
+ness,” the Court generally requires the Government to prove
+that the defendant was aware that his conduct was unlawful.
+See Bryan v. United States, 524 U. S. 184, 191–193 (1998);
+Cheek v. United States, 498 U. S. 192, 201–203 (1991).

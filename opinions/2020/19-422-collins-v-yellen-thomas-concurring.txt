@@ -1,0 +1,361 @@
+Collins v. Yellen — No. 19-422 — October Term 2020 — decided 6/23/21 — Thomas, J., concurring
+Citation: 594 U.S. 220
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r55_5468.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+The judgment of the Court of Appeals is affirmed in part,
+reversed in part, and vacated in part, and the case is re-
+manded for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Thomas, concurring.
+I join the Court's opinion in full. I agree that the Direc-
+tors were properly appointed and could lawfully exercise
+executive power. And I agree that, to the extent a Govern-
+ment action violates the Constitution, the remedy should ft
+the injury. But I write separately because I worry that
+the Court and the parties have glossed over a fundamental
+problem with removal-restriction cases such as these: The
+Government does not necessarily act unlawfully even if a
+removal restriction is unlawful in the abstract.
+I
+As discussed in more detail by the Court, Congress cre-
+ated the Federal Housing Finance Agency (FHFA) in 2008.
+Housing and Economic Recovery Act of 2008, 12 U. S. C.
+§ 4501 et seq. The FHFA is “an independent agency.”
+§ 4511(a). Among other things, it supervises and regulates
+Fannie Mae and Freddie Mac, two companies created by
+Congress to provide liquidity and stability to the mortgage
+market. See § 4511(b). In the midst of the 2008 financial
+crisis, the FHFA's Director exercised his statutory authority
+under § 4617(a)(1) to appoint the Agency as conservator of
+Fannie Mae and Freddie Mac. As conservator, the Agency
+in effect had full control over the companies.
+The FHFA used this control to have the companies enter
+into several agreements with the Treasury Department to
+secure fnancing to keep both companies afoat. Relevant
+here, the FHFA and Treasury signed two agreements,
+known as the Third Amendments, requiring the companies
+to pay a quarterly dividend to Treasury of nearly all their
+net worth minus a predetermined capital reserve.
+Shareholders of the companies sued the FHFA, the Direc-
+tor, Treasury, and the Secretary of the Treasury. They
+advanced four theories about why the adoption and enforce-
+ment of the Third Amendments violated the law: (1) The
+FHFA's conduct exceeded its statutory authority; (2) Treas-
+ury's conduct exceeded its statutory authority; (3) Treasury's
+conduct was arbitrary and capricious; and (4) the FHFA's
+structure violated the “Separation of Powers” because the
+President could fre the FHFA Director only “for cause.”
+App. 116–117; § 4512(b)(2).
+The District Court rejected their claims. The Fifth Cir-
+cuit affirmed the dismissal of claims two and three, and the
+shareholders did not seek review of that decision. The Fifth
+Circuit reinstated the statutory claim, but today we correctly
+reverse that decision. Ante, at 237–242. The Fifth Circuit
+also held that the shareholders are entitled to judgment on
+the separation-of-powers claim. Collins v. Mnuchin, 938
+F. 3d 553, 587 (2019)
+II
+For the shareholders to prevail, identifying some conflict
+between the Constitution and a statute is not enough. They
+must show that the challenged Government action at issue—
+the adoption and implementation of the Third Amendment—
+was, in fact, unlawful. See California v. Texas, 593 U. S.
+659, 668–673 (2021). Modern standing doctrine reflects this
+principle: To have standing, a plaintiff must allege an injury
+traceable to an “allegedly unlawful” action (or threatened ac-
+tion) and seek a remedy to redress that action. Allen v.
+Wright, 468 U. S. 737, 751 (1984); accord, Virginia v. Ameri-
+can Booksellers Assn., Inc., 484 U. S. 383, 392 (1988); contra,
+938 F. 3d, at 586 (tracing injury to the removal restriction).
+Here, before a court can provide relief, it must conclude that
+either the adoption or implementation of the Third Amend-
+ment was unlawful.1
+The parties simply assume that the lawfulness of agency
+action turns on the lawfulness of the removal restriction.
+Our recent precedents have not clearly questioned this
+premise, and on this premise, the Court correctly resolves
+the remaining legal issues. But in the future, parties and
+courts should ensure not only that a provision is unlawful
+but also that unlawful action was taken.
+This suit provides a good example. The shareholders
+largely neglect the issue of lawfulness to focus on remedy,
+but their briefing appears premised on several theories of
+unlawfulness.2 First, that the removal restriction renders
+1 Another limit on the judicial power is relevant: A party seeking relief
+must have a legal right to redress. See Cohens v. Virginia, 6 Wheat. 264,
+405 (1821) (explaining that Article III “does not extend the judicial power
+to every violation of the constitution which may possibly take place”).
+The judicial power extends only “to `a case in law or equity,' in which a
+right, under such law, is asserted.” Ibid. We have indicated that indi-
+viduals may have an implied private right of action under the Constitution
+to seek equitable relief to “ `preven[t] entities from acting unconstitution-
+ally.' ” Free Enterprise Fund v. Public Company Accounting Oversight
+Bd., 561 U. S. 477, 491, n. 2 (2010). This includes “Appointments Clause
+or separation-of-powers claim[s].” Ibid. I assume the shareholders have
+brought such a cause of action here and have a legal right to obtain equita-
+ble relief if they can show they suffered an injury traceable to a Govern-
+ment action that violates the Constitution. The shareholders did not raise
+the Administrative Procedure Act (APA) in count four of their complaint,
+but now contend their “constitutional claim is cognizable under the APA,”
+which permits a “ `reviewing court [to] hold unlawful and set aside agency
+action found to be contrary to constitutional right, power, privilege, or
+immunity.' ” Brief for Collins et al. 74 (quoting 5 U. S. C. § 706; ellipses
+omitted; emphasis in original). Even assuming they raised their constitu-
+tional claim under the APA, it would not change the analysis; the
+shareholders would need to show they suffered an injury traceable to a
+Government action that violates the Constitution.
+2 Because the shareholders allege the Government acted unlawfully, be-
+cause their alleged injury can be traced to those allegedly unlawful ac-
+all Agency actions void because the Directors serve in viola-
+tion of the Constitution's structural provisions, similar to
+Appointments Clause cases, see Lucia v. SEC, 585 U. S.
+237, 251 (2018) (holding that an Administrative Law Judge
+was unlawfully appointed), and other separation-of-powers
+cases, e. g., Bowsher v. Synar, 478 U. S. 714, 727–736 (1986)
+(holding that the Comptroller General was not an executive
+officer and could not exercise executive power granted to
+him by statute). Second, that even if the Director is in the
+Executive Branch and the removal restriction is just unen-
+forceable, the mere existence of the law somehow taints all
+of the Director's actions. Third, that “when FHFA's single
+Director exercises Executive Power without meaningful
+oversight from the President, he exercises authority that
+was never properly his.” Brief for Collins et al. 64.
+Fourth, that the statutory provision that gave the Director
+the power to adopt and implement the Third Amendments
+must fall if the statutory removal restriction is unlawful.
+§ 4617(b)(2)(J)(ii).
+As the Court's reasoning makes clear, however, all these
+theories appear to fail on the merits.
+A
+I begin with whether the FHFA Director may lawfully
+exercise executive authority. The shareholders suggest
+that the removal restriction inherently renders the Agency's
+actions void. In support, they point to our Appointments
+Clause cases and our other separation-of-powers cases. But
+the cases on which they rely prove quite the opposite.
+Consider our separation-of-powers cases, which set out a
+two-part analysis to determine whether an official can law-
+fully exercise a statutory power at all. First, we ask in
+what branch (if any) an official is located. Second, we deter-
+tions, and because this Court might be able to redress that injury, I agree
+with the Court that they have standing. See Steel Co. v. Citizens for
+Better Environment, 523 U. S. 83, 89 (1998).
+mine whether the statutory power possessed by the official
+belongs to that branch. In Bowsher, the Court determined
+that the Comptroller General of the United States was “an
+officer of the Legislative Branch” based on other statutes
+dating back to 1945 declaring him as such, the expressed
+views of other Comptrollers General, the fact that only Con-
+gress could remove the Comptroller General, and the struc-
+ture of the office. 478 U. S., at 727–732. In light of this
+legislative identity, the Court held the Comptroller General
+could not lawfully exercise executive powers assigned to him
+by statute. Id., at 732–735.3
+Assuming the shareholders raise a Bowsher-type argu-
+ment, I agree with the Court that the FHFA Director is
+an executive official who can lawfully “carry out the func-
+tions of the office.” Ante, at 258–259, and n. 25 (discussing
+Bowsher). The statutory scheme creates a common type of
+executive officer—an individual nominated by the President
+and confirmed by the Senate, who heads an agency exercis-
+ing executive powers and who reports to the President.
+The only statutory powers assigned to the Director are exec-
+utive. No party contends the office of the FHFA Director
+is a nonexecutive office. No statute refers to him as a non-
+executive officer. And the statutory scheme recognizes that
+3 See also Stern v. Marshall, 564 U. S. 462, 503 (2011) (bankruptcy
+judges, as Article I officers, cannot exercise exclusive Article III power);
+Clinton v. City of New York, 524 U. S. 417, 438–441, 448–449 (1998) (the
+President, an Article II officer, cannot exercise Article I line-item-veto
+power); Morrison v. Olson, 487 U. S. 654, 677–679 (1988) (a law cannot
+give a court powers that violated Article III); Glidden Co. v. Zdanok, 370
+U. S. 530, 584 (1962) (plurality opinion) (concluding after exhaustive analy-
+sis that two courts were Article III courts); id., at 585–588 (Clark, J.,
+concurring in result) (agreeing “in light of the congressional power exer-
+cised and the jurisdiction enjoyed, together with the characteristics of its
+judges”); American Ins. Co. v. 356 Bales of Cotton, 1 Pet. 511, 546 (1828)
+(a territorial court is an Article I court and admiralty jurisdiction can be
+exercised only by Article III courts, but Article IV removes this limitation
+with respect to the Territories).
+the President can remove the officer (but only “for cause”).
+§ 4512(b)(2). In fact, the Court concludes that the removal
+restriction is unconstitutional in part because the FHFA
+Director is an executive officer whom the President needs to
+be able to control. See ante, at 250–256.
+Our cases demonstrate that the existence of a removal re-
+striction, without more, usually does not take an otherwise
+executive officer outside the Executive Branch. True, stat-
+utory provisions governing who can remove an officer (and
+when) can provide evidence of the branch to which that off-
+cer belongs. E. g., Bowsher, 478 U. S., at 727–728, and n. 5;
+American Ins. Co. v. 356 Bales of Cotton, 1 Pet. 511, 546
+(1828). But they generally are not dispositive. In many
+cases, it is obvious that the officer is executive, and it is the
+removal restriction—not the officer's exercise of executive
+powers—that is the problem. E. g., Free Enterprise Fund
+v. Public Company Accounting Oversight Bd., 561 U. S. 477,
+492–508 (2010) (holding unconstitutional tenure provisions
+protecting executive officer, but concluding “the existence of
+the Board does not violate the separation of powers”); cf.
+Myers v. United States, 272 U. S. 52, 108, 176 (1926). 4
+The Appointments Clause cases do not help the sharehold-
+ers either. These cases also ask whether an officer can law-
+fully exercise the statutory power of his office at all in light
+of the rule that an officer must be properly appointed before
+he can legally act as an officer. Lucia, 585 U. S., at 251;
+Ryder v. United States, 515 U. S. 177, 182–183 (1995). Oth-
+erwise, the official's authority to exercise the powers of the
+4 I agree with Justice Gorsuch that a court must look at more than
+the label to determine in what branch an officer sits. Post, at 277, n. 1
+(opinion concurring in part). To answer this question, courts have histori-
+cally looked at various factors. See n. 3, supra. Here, everything about
+the Director's position, except the removal restriction, indicates he is an
+executive officer. See also ante, at 259, n. 25 (opinion of the Court). As the
+Court correctly explains, “the removal restriction . . . violates the separation
+of powers” because the Director is an executive officer. Ante, at 256.
+office generally is legally defcient. Id., at 179, 182–183.
+Here, “[a]ll the officers who headed the FHFA during the
+time in question were properly appointed.” Ante, at 257.
+There is thus no barrier to them exercising power in the
+first instance.
+B
+The mere existence of an unconstitutional removal provi-
+sion, too, generally does not automatically taint Government
+action by an official unlawfully insulated. It is true the
+removal restriction here is unlawful. But while the share-
+holders are correct that the Constitution authorizes the
+President to dismiss the FHFA Director for any reason, no
+statute can take that Presidential power away. See Seila
+Law LLC v. Consumer Financial Protection Bureau, 591
+U. S. 197, 252 (2020) (Thomas, J., concurring in part and dis-
+senting in part) (“In the context of a constitutional challenge,
+. . . if a party argues that a statute and the Constitution
+conflict, then courts must resolve that dispute and . . . follow
+the higher law of the Constitution” (internal quotation marks
+omitted)); ante, at 259–260.
+That the Constitution automatically trumps an inconsist-
+ent statute creates a paradox for the shareholders. Had the
+removal restriction not conficted with the Constitution, the
+law would never have unconstitutionally insulated any Direc-
+tor. And while the provision does conflict with the Consti-
+tution, the Constitution has always displaced it and the Pres-
+ident has always had the power to fre the Director for any
+reason. So regardless of whether the removal restriction
+was lawful or not, the President always had the legal power
+to remove the Director in a manner consistent with the Con-
+stitution.5 Brief for Harrison as Amicus Curiae 15–16.
+5 In Seila Law, the Court did not address whether an officer acts unlaw-
+fully if protected by an unlawful removal restriction. See ante, at 258–259,
+and nn. 23–24. That is because the Government in effect conceded the
+issue. Seila Law, 591 U. S., at 232 (plurality opinion); id., at 254 (opinion of
+Moreover, no Director has ever purported to occupy the
+office and exercise its powers despite a Presidential attempt
+at removal. No court, for example, has enjoined an attempt
+by the President to remove the Director. 6 So every Direc-
+tor is a lawfully appointed executive officer whom the Presi-
+dent may remove in a manner consistent with the Constitu-
+tion but did not attempt to do so.
+C
+Another possible theory the shareholders seem to rely on
+is that a misunderstanding about the correct state of the law
+makes an otherwise constitutional action unconstitutional.
+Thus, if the President or Director misunderstood the cir-
+cumstances under which the President could have removed
+the Director, then that creates a defect in authority.
+But nothing in the Constitution, history, or our case law sup-
+ports this expansive view of unlawfulness. The Constitu-
+tion does not transform unfamiliarity with the Vesting Clause
+Thomas, J.). Perhaps we should have addressed it then. Post, at 280–
+281, n. 2 (opinion of Gorsuch, J.).
+I continue to adhere to the views that I expressed in Seila Law: A
+combination of statutes can produce a separation-of-powers violation that
+renders Government action unlawful. See 591 U. S., at 258 (opinion con-
+curring in part and dissenting in part). In remedying such a separation-
+of-powers violation, courts cannot purport to rewrite the statute to avoid
+the violation. Ibid.; post, at 281, n. 2 (opinion of Gorsuch, J.) (“[W]e
+cannot divine `which of the provisions' Congress would have kept and
+which it would have scrapped . . . had it known its actual choice was
+unconstitutional,” “absent statutory direction from Congress”). How-
+ever, I respectfully part ways with Justice Gorsuch, because, on the
+merits, I am uncertain whether the unlawful removal restriction here com-
+bines with any other statutory provision in a way that renders the Govern-
+ment action at issue unlawful.
+6 A removal restriction may unconstitutionally insulate an officer such
+that his actions are unlawful. If the President tries to remove an official
+but a court blocks this action, then that official is not lawfully occupying
+his office and would likely be acting without authority. Cf. ante, at 259.
+But that circumstance has not arisen here.
+into a legal violation when an executive officer acts with
+authority.7
+Perhaps the better understanding of this argument is the
+Director might have acted differently if he knew that he
+served at the pleasure of the President. That may be true,
+but it is not enough for a party to show that an official acted
+differently because he or another official incorrectly inter-
+preted the Vesting Clause—the party must show that the
+official acted unlawfully. If the President vetoed a bill on
+the ground that he believed it to be unconstitutional, this
+Court could not undo that lawful act simply because an in-
+jured plaintiff persuasively establishes that the President
+was mistaken.
+Sure enough, we have not held that a misunderstanding
+about authority results in a constitutional defect where the
+action was otherwise lawful. Absent such authority in a
+“constitutional cas[e], our watchword [should be] caution.”
+Hernández v. Mesa, 589 U. S. 93, 101 (2020). We should be
+reluctant to create a new restriction on a coequal branch and
+enforce it through a new private right of action. Id., at 101–
+102. Doing so places great stress upon “the Constitu-
+tion's separation of legislative and judicial power.” Id., at
+100.
+Seila Law and Free Enterprise do not help the sharehold-
+ers on the lawfulness of the Government actions question.
+Ante, at 243, 258–259. In Seila Law , the Government in
+effect “conceded that [its] actions were unconstitutional” if the
+7 The APA might permit this type of lawsuit in allowing an individual
+to challenge an agency action as “arbitrary, capricious, an abuse of discre-
+tion, or otherwise not in accordance with law.” 5 U. S. C. § 706(2)(A).
+There is a colorable argument that a Government official's misunderstand-
+ing about the scope of the President's removal authority would render
+an agency action arbitrary or capricious in certain cases. However, the
+shareholders did not bring this constitutional challenge as an arbitrary
+and capricious claim against the FHFA. And if they had, we would need
+to consider the interaction between this statutory claim and the Act's anti-
+injunction provision. Cf. ante, at 237.
+removal restriction was unconstitutional. 591 U. S., at 255
+(opinion of Thomas, J.). So the Court assumed “that [peti-
+tioner] `sustain[ed] injury' from an executive act that alleg-
+edly exceeds the official's authority.” Id., at 211; ante, at
+258–259. In Free Enterprise , we considered a similar chal-
+lenge to a removal restriction without questioning the plain-
+tiffs' standing “where plaintiffs claimed injury from allegedly
+unlawful agency oversight.” Ante, at 243. And then we as-
+sumed that the agency lacked the authority to act lawfully if
+the removal restriction there were invalid.
+D
+The shareholders' briefing strongly implies one final argu-
+ment: The statutory provision giving the FHFA the power
+to act as conservator, 12 U. S. C. § 4617(b)(2)(J)(ii), cannot
+be severed from the removal restriction. Brief for Collins
+et al. 77–79. Thus, the argument goes, if the removal provi-
+sion is unlawful, then § 4617(b)(2)(j)(ii) is too and the FHFA
+Directors acted without statutory authority.
+Assuming that the unlawfulness of one provision can cause
+another to be unlawful, this inquiry is just a question of
+statutory interpretation. See Seila Law , 591 U. S., at 257
+(opinion of Thomas, J.); Lea, Situational Severability, 103 Va.
+L. Rev. 735, 764–776 (2017). The Recovery Act contains no
+inseverability clause. Contra, 4 U. S. C. § 125 (inseverability
+clause). Nor does it contain any fallback provision stating
+that § 4617(b)(2)(j)(ii) should be altered if the removal clause
+is found unlawful. Without something in the statutory text
+or structure to show that § 4617(b)(2)(j)(ii)'s lawfulness rises
+or falls based on the removal restriction, this argument is
+also unconvincing.
+* * *
+I do not understand the parties to have sought review of
+these issues in this Court. So the Court correctly resolves
+the legal issues presented. That being said, I seriously
+doubt that the shareholders can demonstrate that any rele-

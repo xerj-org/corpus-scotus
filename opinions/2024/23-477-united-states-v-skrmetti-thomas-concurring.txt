@@ -1,0 +1,750 @@
+United States v. Skrmetti — No. 23-477 — October Term 2024 — decided 6/18/25 — Thomas, J., concurring
+Citation: 605 U.S. 495
+Source: https://www.supremecourt.gov/opinions/24pdf/605us2r48_m648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+The judgment of the United States Court of Appeals for
+the Sixth Circuit is affirmed.
+It is so ordered.
+Justice Thomas, concurring.
+A Tennessee law prevents children from receiving certain
+medical interventions if administered to treat gender dys-
+phoria. See Prohibition on Medical Procedures Performed
+on Minors Related to Sexual Identity, S. B. 1, 113th Gen.
+Assem., 1st Extra. Sess.; Tenn. Code Ann. § 68–33–101 et seq.
+(2023) (SB1). The United States and private plaintiffs chal-
+lenged the law on Equal Protection Clause grounds, arguing
+that it discriminates based on sex and fails heightened scru-
+tiny. Today, the Court correctly concludes that SB1 does
+not classify on the basis of sex and thus is subject only to
+rational-basis review. I join the Court's opinion in full. I
+write separately to address some additional arguments made
+in defense of Tennessee's law.
+I
+Before this Court, the United States and the private plain-
+tiffs asserted that, under the reasoning of Bostock v. Clayton
+County, 590 U. S. 644 (2020), SB1 discriminates on the basis
+of sex. See Brief for United States 22, 27–28; 1 Brief for Re-
+spondents in Support of Petitioner 18, 24–25. In Bostock,
+the Court held that, in the context of Title VII of the Civil
+Rights Act of 1964, “homosexuality and transgender status
+are inextricably bound up with sex,” such that discriminat-
+ing on the basis of either characteristic amounts to discrimi-
+nation “because of” sex under that statute. 590 U. S., at
+660–661, 665. The United States and the private plaintiffs
+have argued that Bostock's “fundamental insight about the
+nature of sex discrimination applies in the equal-protection
+1 The United States changed its position following oral argument, but it
+neither withdrew its briefs nor sought to dismiss the case.
+context” too. Brief for United States 27. I would reject
+that argument for several reasons.
+While I continue to think that the Bostock majority's logic
+“fails on its own terms,” see 590 U. S., at 689–699 (Alito , J.,
+dissenting), I see in any event no reason to import Bostock's
+Title VII analysis into the Equal Protection Clause. The
+Bostock Court recognized that “other federal . . . laws that
+prohibit sex discrimination” were not before it, id., at 681
+(majority opinion), and thus rested its analysis on what it
+took to be the ordinary meaning of the relevant statutory
+terms—“ `because of,' ” “ `otherwise . . . discriminate
+against,' ” and “individual”—within the context of Title VII,
+id., at 656–659; see 42 U. S. C. § 2000e–2(a)(1).
+The Equal Protection Clause includes none of this lan-
+guage. See Amdt. 14, § 1 (“No State shall . . . deny to any
+person within its jurisdiction the equal protection of the
+laws”). “That such differently worded provisions should
+mean the same thing is implausible on its face.” Students
+for Fair Admissions, Inc. v. President and Fellows of Har-
+vard College, 600 U. S. 181, 308 (2023) (Gorsuch, J., concur-
+ring); cf. Department of Ed. v. Louisiana, 603 U. S. 866, 867
+(2024) (per curiam ) (unanimously holding that “preliminary
+injunctive relief” was warranted to enjoin a rule extending
+Bostock's reasoning to Title IX of the Education Amend-
+ments of 1972). 2
+2 Justice Sotomayor acknowledges that “the Equal Protection Clause
+and Title VII use different words,” but deems this an irrelevant “differ-
+ence in wording” because the Court's equal protection precedents and
+Title VII both prohibit sex discrimination. Post, at 591, n. 9 (dissenting
+opinion). An abstract similarity between the purposes of the Constitu-
+tion and a statute is not a license to import the statute's interpretation
+into the Constitution, much less to ignore the Constitution's text. Accord,
+e. g., A. Scalia, A Matter of Interpretation 38 (1997) (“What I look for in
+the Constitution is precisely what I look for in a statute: the original mean-
+ing of the text”).
+Extending the Bostock framework here would depart dra-
+matically from this Court's Equal Protection Clause juris-
+prudence. We have faced sexual-orientation claims in the
+equal protection context for decades. See, e. g., Obergefell
+v. Hodges, 576 U. S. 644 (2015); United States v. Windsor, 570
+U. S. 744 (2013); Romer v. Evans, 517 U. S. 620 (1996). “But
+in those cases, the Court never suggested that sexual orien-
+tation discrimination is just a form of sex discrimination”
+warranting heightened constitutional scrutiny. Bostock, 590
+U. S., at 797 (Kavanaugh, J., dissenting). For example,
+while pregnancy is undeniably “bound up with sex,” id., at
+661 (majority opinion), the Court has rejected the contention
+that the exclusion of pregnancy-related conditions from dis-
+ability benefits violates the Equal Protection Clause, see
+Geduldig v. Aiello, 417 U. S. 484, 494 (1974); see also Dobbs
+v. Jackson Women's Health Organization, 597 U. S. 215, 236
+(2022) (“[T]he regulation of a medical procedure that only
+one sex can undergo does not trigger heightened constitu-
+tional scrutiny”).
+Applying Bostock's reasoning to the Equal Protection
+Clause would also invite sweeping consequences. Many
+statutes “regulate medical procedures defined by sex.”
+L. W. v. Skrmetti, 83 F. 4th 460, 482 (CA6 2023) (collecting
+examples, including laws referencing testicular and prostate
+cancer). If heightened scrutiny applied to such laws, then
+“[a]ny person with standing to challenge” such a decision
+could “haul the State into federal court and compel it to es-
+tablish by evidence (presumably in the form of expert testi-
+mony) that there is an `exceedingly persuasive justifcation'
+for the classification.” United States v. Virginia, 518 U. S.
+515, 597 (1996) (Scalia, J., dissenting). Given the ensuing po-
+tential for “high-cost, high-risk lawsuit[s],” ibid., States
+might simply decline to adopt or enforce sex-based medical
+laws or regulations, even where such rules would be best
+medical practice. The burden of skeptical judicial review is
+therefore far from the “modest step” of requiring a State to
+“show its work” that the dissent posits. Post, at 607 (opin-
+ion of Sotomayor, J.).3
+And, if Bostock's reasoning applies to sex, it is difficult to
+see why it would not apply to other protected characteristics.
+Race presumably would be a but-for cause of—or, at least,
+“inextricably bound up with,” 590 U. S., at 660–661—a uni-
+versity's decision to credit “an applicant's discussion of how
+race affected his or her life,” Students for Fair Admissions,
+Inc., 600 U. S., at 230. Under Bostock's reasoning, such an
+essay is permissible only if it can survive our “daunting”
+strict-scrutiny standard. 600 U. S., at 206; but see, e. g.,
+Washington v. Davis, 426 U. S. 229, 239 (1976) (noting that
+the Court has “never held that the constitutional standard
+for adjudicating claims of invidious racial discrimination is
+identical to the standards applicable under Title VII”).
+The Constitution compels none of this. While the major-
+ity concludes that SB1 does not discriminate based on sex
+even under Bostock's incorrect reasoning, see ante, at 519–
+520, I would make clear that, in constitutional challenges,
+courts need not engage Bostock at all.
+II
+The Court rightly rejects efforts by the United States and
+the private plaintiffs to accord outsized credit to claims about
+medical consensus and expertise. The United States as-
+serted that “the medical community and the nation's leading
+3 I assume for purposes of this opinion that government-sponsored sex
+discrimination triggers heightened scrutiny under the Equal Protection
+Clause. As I have noted elsewhere, however, “[i]t is possible that the
+Equal Protection Clause does not prohibit discriminatory legislative classi-
+fications” at all. United States v. Vaello Madero, 596 U. S. 159, 178, n. 4
+(2022) (concurring opinion). And, even if it does, the Court “routinely
+applied rational-basis review” to sex-discrimination claims “until the
+1970's,” Virginia, 518 U. S., at 575 (Scalia, J., dissenting), which might
+suggest that the application of heightened scrutiny to such claims is a
+departure from the Fourteenth Amendment's original understanding.
+But, the parties have not briefed the issue, so I do not pass upon it here.
+hospitals overwhelmingly agree” with the Government's po-
+sition that the treatments outlawed by SB1 can be medically
+necessary. Brief for United States 35; see also Brief for Re-
+spondents in Support of Petitioner 5 (asserting that “[e]very
+major medical association in the United States” supports this
+position). The implication of these arguments is that courts
+should defer to so-called expert consensus.
+There are several problems with appealing and deferring
+to the authority of the expert class. First, so-called experts
+have no license to countermand the “wisdom, fairness, or
+logic of legislative choices.” FCC v. Beach Communica-
+tions, Inc., 508 U. S. 307, 313 (1993). Second, contrary to
+the representations of the United States and the private
+plaintiffs, there is no medical consensus on how best to treat
+gender dysphoria in children. Third, notwithstanding the
+alleged experts' view that young children can provide in-
+formed consent to irreversible sex-transition treatments,
+whether such consent is possible is a question of medical eth-
+ics that States must decide for themselves. Fourth, there
+are particularly good reasons to question the expert class
+here, as recent revelations suggest that leading voices in this
+area have relied on questionable evidence, and have allowed
+ideology to influence their medical guidance.
+Taken together, this case serves as a useful reminder that
+the American people and their representatives are entitled
+to disagree with those who hold themselves out as experts,
+and that courts may not “sit as a super-legislature to weigh
+the wisdom of legislation.” Day-Brite Lighting, Inc. v. Mis-
+souri, 342 U. S. 421, 423 (1952). By correctly concluding
+that SB1 warrants the “paradigm of judicial restraint,”
+Beach Communications, 508 U. S., at 314, the Court re-
+serves to the people of Tennessee the right to decide for
+themselves.
+A
+The views of self-proclaimed experts do not “shed light on
+the meaning of the Constitution.” Dobbs, 597 U. S., at 272–
+273. Thus, whether “major medical organizations” agree
+with the result of Tennessee's democratic process is irrele-
+vant. Post, at 582, n. 5 (opinion of Sotomayor, J.). To hold
+otherwise would permit elite sentiment to distort and stife
+democratic debate under the guise of scientific judgment, and
+would reduce judges to mere “spectators . . . in construing
+our Constitution.” 83 F. 4th, at 479.
+Just a few Terms ago, this Court acknowledged the impor-
+tance of reserving to the democratic process the right to
+decide controversial medical questions. In Dobbs, the re-
+spondents sought to invoke the authority of “overwhelming
+medical consensus” and “numerous major medical organiza-
+tions” to dispatch with Mississippi's asserted interest in min-
+imizing pain for the unborn. Brief for Respondents, O. T.
+2021, No. 19–1932, pp. 31–32. The Court pointedly rejected
+the notion that a consensus among popular expert groups
+could remove “the mitigation of fetal pain” from the “legiti-
+mate interests” of the people. 597 U. S., at 301.
+Rational-basis review is critical to safeguarding these le-
+gitimate interests. Under this level of review, courts ask
+only whether a law is “rationally related to a legitimate gov-
+ernmental interest.” Department of Agriculture v. Mo-
+reno, 413 U. S. 528, 533 (1973). That deferential standard is
+not only legally compelled in this case, but is practically es-
+sential for preserving “the original constitutional proposition
+that courts do not substitute their social and economic beliefs
+for the judgment of legislative bodies.” Ferguson v.
+Skrupa, 372 U. S. 726, 730 (1963). When legislation does not
+cross constitutional lines, States must have leeway to effect
+the judgment of their citizens—no matter whether experts
+disagree. And, when this Court has nonetheless given ex-
+alted status to expert opinion, it has been to our detriment:
+Past deference to expertise provided the theory of eugenics
+“added legitimacy and considerable momentum,” with “[t]his
+Court thr[owing] its prestige behind the eugenics movement
+in its 1927 decision upholding the constitutionality of Virgin-
+ia's forced-sterilization law.” Box v. Planned Parenthood of
+Ind. and Ky., Inc., 587 U. S. 490, 499–500 (2019) (Thomas, J.,
+concurring) (citing Buck v. Bell, 274 U. S. 200 (1927)). For-
+tunately, we do not repeat that mistake today.
+B
+Before this Court, the United States asserted that “over-
+whelming evidence” supports the use of puberty blockers
+and cross-sex hormones for treating pediatric gender dys-
+phoria, and that this view represents “the overwhelming
+consensus of the medical community.” Pet. for Cert. 2, 7.
+These claims are untenable. “[T]he concept of gender dys-
+phoria as a medical condition is relatively new and the use
+of drug treatments that change or modify a child's sex char-
+acteristics is even more recent.” 83 F. 4th, at 472. The
+treatments at issue are subject to a rapidly evolving debate
+that demonstrates a lack of medical consensus over their
+risks and benefits. Under these conditions, it is imperative
+that courts treat state legislation with “a strong presumption
+of validity,” Beach Communications, 508 U. S., at 314, and
+in turn protect States' ability to enact “high-stakes medical
+policies, in which compassion for the child points in both di-
+rections,” 83 F. 4th, at 472.
+1
+SB1 prohibits puberty blockers, cross-sex hormones, and
+surgery for the purpose of treating gender dysphoria in chil-
+dren. See Tenn. Code Ann. §§ 68–33–102(5)(A)–(B), 68–33–
+103(a). The United States and the dissent have described
+these medications and procedures as “gender-affirming
+care.” Brief for United States 2; post, at 581 (opinion of So-
+tomayor, J.). But, that “sanitized description” obscures the
+nature of the medical interventions at issue. Stenberg v.
+Carhart, 530 U. S. 914, 983 (2000) (Thomas, J., dissenting).
+I therefore begin with an overview of the treatments regu-
+lated under SB1.
+Puberty Blockers. Puberty blockers are powerful syn-
+thetic drugs “designed to slow the development of male and
+female physical features.” 83 F. 4th, at 467. The Food and
+Drug Administration (FDA) initially approved these drugs
+“to treat prostate cancer; endometriosis, a painful disease
+that causes uterine tissue to grow elsewhere in the body;
+and the unusually early onset of puberty,” also known as
+“precocious puberty.” M. Twohey & C. Jewett, Pressing
+Pause on Puberty, N. Y . Times, Nov. 14, 2022, pp. A14–A15
+(Twohey 2022).
+For purposes of treating gender dysphoria, however, pu-
+berty blockers generally are administered “off-label,” mean-
+ing without FDA authorization for the specific use. See 2
+App. 838–839; 83 F. 4th, at 478. Although it is neither un-
+usual nor unlawful for drugs to be used off-label, the FDA
+has recognized that “just because a drug has been approved
+for one class of patients doesn't mean it's safe for another.”
+Twohey 2022, at A15. That admonition is important here:
+To treat precocious puberty, puberty blockers are adminis-
+tered until the age appropriate for puberty; to treat gender
+dysphoria, however, puberty blockers are administered to
+stop puberty throughout the years it would normally occur.
+See 2 App. 677. The “use of drugs to suppress normal pu-
+berty has multiple organ system effects whose long-term
+consequences have not been investigated.” Ibid.
+This absence of evidence is a “major drawback” in assess-
+ing the effects of puberty blockers on children with gender
+dysphoria. G. Betsi, P. Goulia, S. Sandhu, & P. Xekouki, Pu-
+berty Suppression in Adolescents With Gender Dysphoria:
+An Emerging Issue With Multiple Implications, Frontiers in
+Endocrinology 16 (2024). “The existing studies are limited
+in number, of small sample size, uncontrolled, observational,
+usually short-term, [and] potentially subject to bias.” Ibid.;
+see also, e. g., C. Terhune, R. Respaut, & M. Conlin, As More
+Transgender Children Seek Medical Care, Families Confront
+Many Unknowns, Reuters (Oct. 6, 2022), https://www.
+reuters.com/investigates/special-report/usa-transyouth-care
+(“No clinical trials have established [puberty blockers']
+safety for such off-label use”).
+It is undisputed, however, that these treatments carry
+risks. Research suggests that, aside from interrupting a
+child's normal pubertal development, puberty blockers may
+lead to decreased bone density and impacts on brain develop-
+ment. See, e. g., 2 App. 678–680; M. Cretella, Gender Dys-
+phoria in Children, 32 Issues in L. & Med. 287, 297 (2017).
+And, “[d]espite widespread assertions that puberty blockers
+are `fully reversible,' ” it is unclear whether “patients ever
+develop normal levels of fertility if puberty blockers are ter-
+minated after a `prolonged delay of puberty.' ” 2 App. 678.
+At bottom, “[t]here remains considerable uncertainty regard-
+ing the effects of puberty blockers in individuals experienc-
+ing” gender dysphoria. A. Miroshnychenko et al., Puberty
+Blockers for Gender Dysphoria in Youth: A Systematic Re-
+view and Meta-Analysis, Online First, Archives of Disease
+in Childhood (Jan. 24, 2025) (draft, at 1), https://adc.bmj.com/
+content/110/6/429.4
+Cross-sex hormones. Following puberty blockers, the
+next stage of sex-transition treatments for children involves
+cross-sex hormones. This treatment is also typically “off-
+label,” 2 App. 780, and requires “very high doses” of hor-
+mones of the opposite sex, id., at 769. For example, one of
+the organizations that sets standards for pediatric sex-
+transition treatment recommends raising transitioning fe-
+males' levels of testosterone “6 to 100 times higher than na-
+4 While the United States addressed the risks of puberty blockers “in
+and of themselves,” Tr. of Oral Arg. 46, the vast majority of gender dys-
+phoric children treated with puberty blockers progress to cross-sex-
+hormone treatment. See, e. g., 2 App. 554 (citing study in which “98% of
+those who started puberty suppression progressed to cross-sex hormone
+therapy”). A discussion of puberty blockers' risks therefore should not
+exclude the risks presented by cross-sex hormones.
+tive female testosterone levels.” Id., at 774. For males
+seeking to transition into females, the organization recom-
+mends raising levels of estradiol, a type of estrogen, to “2 to
+43 times above the normal range.” Id., at 780.
+Prescribing such high doses of testosterone to girls in-
+duces “hyperandrogenism,” which can cause increased car-
+diovascular risk, “irreversible changes to the vocal cords,”
+“clitoromegaly and atrophy of the lining of the uterus and
+vagina,” as well as “ovarian and breast cancer.” Id., at 772–
+779. Giving high doses of estrogen to boys induces “hyper-
+estrogenemia,” which can produce similarly severe side ef-
+flects including, among other things, increased cardiovascular
+risk, breast cancer, and sexual dysfunction. Id., at 779–781.
+And, for girls and boys alike, “it is generally accepted, even
+by advocates of transgender hormone therapy, that hormonal
+treatment impairs fertility, which may be irreversible.” Id.,
+at 520–521; accord, W. Hembree et al., Endocrine Treatment
+of Gender-Dysphoric/Gender-Incongruent Persons: An En-
+docrine Society Clinical Practice Guideline, 102 J. Clinical
+Endocrinology & Metabolism 3869, 3882 (2017) (ES
+Guidelines).
+Surgery. SB1 also bans “[s]urgically removing, modify-
+ing, altering, or entering into tissues, cavities, or organs” as
+a treatment for gender dysphoria. Tenn. Code Ann. § 68–
+33–102(5)(A). The District Court concluded that the plain-
+tiffs lacked standing to challenge SB1's ban on sex-transition
+surgery for minors, see ante, at 508, and the parties do not
+address this provision's constitutionality here. But, the
+United States has taken the position that “surgery is essen-
+tial and medically necessary to alleviate gender dysphoria.”
+Amended Complaint in Intervention in Boe v. Marshall, No.
+2:22–cv–00184 (MD Ala., May 4, 2022), ECF Doc. 92, p. 9,
+¶39. The practice therefore warrants brief discussion.
+Sex-transitioning surgeries for girls include “the surgical
+removal of the breasts” and “phalloplasty,” that is, an “at-
+temp[t] to create a pseudo-penis” by transplanting “a roll of
+skin and subcutaneous tissue” from another area of the body
+“to the pelvis.” 2 App. 784–785; see also Lange v. Houston
+Cty., 101 F. 4th 793, 802 (CA11) (Brasher, J., dissenting) (“[A]
+natal woman's phalloplasty `involves removal of the uterus,
+ovaries, and vagina, and creation of a neophallu[s] and scro-
+tum with scrotal prostheses,' which `is a multistage recon-
+structive procedure' ”), vacated and reh'g en banc granted,
+110 F. 4th 1254 (CA11 2024). For boys, surgical interven-
+tions include “removal of the testicles alone to permanently
+lower testosterone levels,” as well as an “attempt to create
+a pseudo-vagina” by “surgically open[ing]” the boy's penis,
+removing “erectile tissue,” and then “clos[ing] and invert[ing
+the penis] into a newly created cavity in order to simulate
+a vagina.” 2 App. 784. These surgical interventions are
+irreversible, entail significant complications, and, in some
+cases, result in permanent infertility. Id., at 782–786; see
+also ES Guidelines 3893.
+2
+The ongoing debate over the efficacy of sex-transition
+treatments for children confirms that medical and regulatory
+authorities are not of one mind about the treatments' risks
+and benefits. These conditions illustrate why States may
+rightly be skeptical of groups or advocates claiming that ex-
+pert consensus supports their position, and why courts must
+exercise restraint in reviewing state legislatures' decisions
+in this area. Accord, e. g., Beach Communications, 508
+U. S., at 314.
+The treatments now referred to as “gender-affirming care”
+were “not available for minors until just before the millen-
+nium.” 83 F. 4th, at 467. These treatments originated with
+Dutch healthcare workers in the 1990s, who first “began
+using puberty blockers . . . to treat gender dysphoria in mi-
+nors.” Ibid. The so-called “Dutch Protocol” “permitted
+puberty blockers for minors during the early stages of pu-
+berty, allowed hormone therapy at 16, and allowed genital
+surgery at 18.” Ibid. (internal quotation marks omitted).
+In 1998, the World Professional Association for Transgen-
+der Health (WPATH)—which is regarded by some as “the
+leading association of medical professionals treating trans-
+gender individuals,” Brief for United States 3—revised its
+treatment standards to “endorse the Dutch Protocol.” 83
+F. 4th, at 467. Originally, WPATH's guidelines permitted
+puberty blockers at the onset of puberty, cross-sex hormones
+for those 16 or older, and sex-change surgery only for adults.
+Ibid. WPATH relaxed its recommendations in 2012, and
+began permitting cross-sex hormones for children under the
+age of 16. Ibid. WPATH further relaxed its recommenda-
+tions when it published the eighth (and current) version of
+its standards of care in 2022. See E. Coleman et al., Stand-
+ards of Care for the Health of Transgender and Gender Di-
+verse People, Version 8, 23 Int'l J. Transgender Health (2022)
+(WPATH 2022 Guidelines or Guidelines). These Guidelines
+endorse using puberty blockers and cross-sex hormones at
+the onset of puberty and allowing children to receive many
+surgical treatments previously reserved for adults. See id.,
+at S64–S66. “On the whole, the standards of care for minors
+`have become less restrictive over the course of time.' ” 83
+F. 4th, at 468.
+At the same time, the number of children identifying as
+transgender has surged, and medical professionals have in-
+creasingly expressed doubts over the quality of evidence
+supporting the use of puberty blockers, cross-sex hormones,
+and surgery to treat them. See ante, at 504–505. Over the
+past several years, public health authorities in different coun-
+tries have concluded that these sex-transition treatments are
+experimental in practice, and that the evidence supporting
+their use is of “ `very low certainty,' ” “ `insufficient,' ” and “ `in-
+conclusive.' ” Ante, at 505. “In countries like Sweden, Nor-
+way, France, the Netherlands and Britain—long considered
+exemplars of gender progress—medical professionals have
+recognized that early research on medical interventions for
+childhood gender dysphoria was either faulty or incomplete.”
+P. Paul, Gender Dysphoric Kids Deserve Better Care, N. Y .
+Times, Feb. 4, 2024, p. 9 (Paul 2024); accord, Tenn. Code Ann.
+§ 68–33–101(e) (“The legislature finds that health authorities
+in Sweden, Finland, and the United Kingdom . . . have found
+no evidence that the benefits of these procedures outweigh
+the risks”); 1 App. 332–342 (describing countries' skepticism
+over the use of puberty blockers and cross-sex hormones as
+treatments).5
+5 Justice Sotomayor suggests that the restrictions on gender-
+dysphoria treatments imposed in Norway, Sweden, and England are inap-
+posite because those countries still permit some treatments where “medi-
+cally necessary,” whereas Tennessee's SB1 does not. Post, at 582, n. 4
+(dissenting opinion). But, States might reasonably question whether any
+of the banned treatments are “medically necessary,” as the supposed ex-
+perts in the feld have adopted an exceptionally broad understanding of
+that concept. Consider the Guidelines' chapter on “those who identify as
+eunuchs,” a group that includes “individuals . . . assigned male at birth”
+who “wish to eliminate masculine physical features, masculine genitals, or
+genital functioning.” WPATH 2022 Guidelines S88. During a deposition,
+an author of the Guidelines confirmed that “WPATH's official position” is
+that castration may be “medically necessary” even where a male who iden-
+tifies as a eunuch and seeks castration has “no recognized mental health
+conditions” and where “no finding is made that he's actually at high risk
+of self-castration.” Boe v. Marshall, No. 2:22–cv–00184 (MD Ala., Oct. 9,
+2024), ECF Doc. 700–3, p. 52. This expansive understanding of medical
+necessity would seem to justify any medical intervention so long as it
+might help individuals “better align their bodies with their gender iden-
+tity,” WPATH 2022 Guidelines S88, and presumably animates WPATH's
+conclusion that surgical interventions can constitute “medically necessary
+gender-affirming medical treatment[s] in adolescents,” id., at S66. Given
+that the limits of “medical necessity” in this context are debatable, States
+might reasonably decline to provide exceptions for it—particularly where,
+as here, they have reached the conclusion that specific procedures for chil-
+dren are “experimental in nature” and may carry unknown “harmful ef-
+flects.” Tenn. Code Ann. § 68–33–101(b).
+The Cass Review, published in April 2024, offers an influ-
+ential example of the degree to which the debate over pediat-
+ric sex-transition treatments remains unsettled. See H.
+Cass, Independent Review of Gender Identity Services for
+Children and Young People: Final Report (Cass Review).
+After witnessing a 40-fold increase in the number of refer-
+rals to its centralized clinic for sex-transitioning services, the
+United Kingdom's National Health Service (NHS) commis-
+sioned this report to conduct a “thorough independent re-
+view of the use of puberty blockers and cross-sex hormones”
+to treat children with gender dysphoria. 1 App. 333–334.
+The report concludes that “we have no good evidence on the
+long-term outcomes of interventions to manage gender-
+related distress,” and highlights the lack of reliable evidence
+to support the use of puberty blockers and cross-sex hor-
+mones in treating transgender kids. Cass Review 13, 32–33
+(observing “insufficient/inconsistent evidence about the ef-
+flects of puberty suppression,” and “ `a lack of high-quality
+research assessing the outcomes of hormone interventions in
+adolescents with gender dysphoria/incongruence' ”); see also
+ante, at 524–525. Among other things, the Cass Review de-
+termined that the “evidence [the researchers] found did not
+support th[e] conclusion” that “hormone treatment reduces
+the elevated risk of death by suicide” among children suffer-
+ing from gender dysphoria. Cass Review 33; see also id., at
+187 (“[T]he evidence does not adequately support the claim
+that gender-affirming treatment reduces suicide risk”).
+This shifting scientific landscape has forced governments
+to act quickly under conditions of uncertainty. In the
+months following the Cass Review's publication, for example,
+NHS imposed new restrictions on the use of puberty block-
+ers and cross-sex hormones for sex-transition treatments.
+See ante, at 525. And, just a week after oral argument in
+this case, the United Kingdom indefinitely banned new pre-
+scriptions of puberty blockers to treat children with gender
+dysphoria, except in clinical trials. See S. Castle, Ban on
+Puberty Blockers for U. K. Teens Is Settled, N. Y . Times
+Int'l, Dec. 13, 2024, p. A11. In areas with this much “medi-
+cal and scientific uncertainty,” courts must afford States
+“wide discretion.” Gonzales v. Carhart, 550 U. S. 124, 163
+(2007).
+C
+Setting aside whether sex-transition treatments for chil-
+dren are effective , States may legitimately question whether
+they are ethical. States have a legitimate interest “in pro-
+tecting the integrity and ethics of the medical profession.”
+Washington v. Glucksberg, 521 U. S. 702, 731 (1997). And,
+as the United States has acknowledged, “the `general ethical
+principles' governing pediatric care” require the patient's in-
+formed consent. Brief for United States 5. Mounting evi-
+dence gives States reason to question whether children are
+capable of providing informed consent to irreversible sex-
+transition treatments, and thus whether these treatments
+can be ethically administered.
+1
+States could reasonably conclude that the level of young
+children's cognitive and emotional development inhibits their
+ability to consent to sex-transition treatments. Consistent
+with WPATH's recommendation that puberty blockers be
+available from the onset of puberty, see WPATH 2022 Guide-
+lines S111, S256, “[m]any physicians in the United States and
+elsewhere” now “prescrib[e] blockers to patients at the first
+stage of puberty—as early as age 8.” Twohey 2022, at A14.
+There is no dispute, however, that the “decision-making
+capacity” of adolescents “is developing, but not yet com-
+plete.” 2 App. 895. This Court has recognized as much in
+other contexts, explaining that children's “lack of maturity”
+and “underdeveloped sense of responsibility” often lead to
+“impetuous and ill-considered actions and decisions.”
+Roper v. Simmons, 543 U. S. 551, 569 (2005) (internal quota-
+tion marks omitted). It is therefore unsurprising that “[t]he
+risks associated with puberty blockers and cross-sex hor-
+mones are difficult for adolescents to comprehend and ap-
+preciate,” as the “near certainty of infertility . . . is likely to
+not be appreciated until the age during which most individu-
+als consider having children.” 2 App. 894.
+But, these are precisely the risks to which children who
+receive these treatments are required to consent. Consider
+the contents of a consent form obtained from a gender clinic
+in Alabama. After providing a long list of potential risks
+and side effects, many of which are discussed above, see
+supra, at 533–535 the form requires both the child and par-
+ent to initial their consent to various statements. Among
+these are acknowledgments that “the side effects and safety
+of these medicines are not completely known,” that the pro-
+posed treatment “may affect my sex life in different ways
+and future ability to cause a pregnancy,” and that the treat-
+ments may lead to permanent infertility. Boe, ECF Doc.
+78–41, pp. 3–4, 10. The capacity to knowingly consent to
+these medical interventions requires a level of comprehen-
+sion about science, sex, and fertility that state legislatures
+could determine a child is unlikely to possess. See 2 App.
+893–895; Tenn. Code Ann. § 68–33–101(h) (finding that “mi-
+nors lack the maturity to fully understand and appreciate the
+life-altering consequences” of the treatments at issue). 6
+6 Parents also may have difficulty providing informed consent to their
+children's sex-transition treatments. Reports suggest that, in medical
+consultations, “[p]arents are routinely warned that to pursue any path
+outside of agreeing with a child's self-declared gender identity is to put a
+gender dysphoric youth at risk for suicide, which feels to many people like
+emotional blackmail.” Paul 2024, at 8; see also Eknes-Tucker v. Governor
+of Ala., 114 F. 4th 1241, 1268 (CA11 2024) (Lagoa, J., concurring in denial
+of rehearing en banc) (acknowledging “testimony from nine parents who
+said that doctors, therapists, and other practitioners pressured them to
+start their children on cross-sex hormones and puberty blockers or other-
+2
+The voices of “detransitioners”—individuals who have un-
+dergone sex-transition treatments but no longer view them-
+selves as transgender—provide States with an additional
+reason to question whether children are providing informed
+consent to the medical interventions described above. See,
+e. g., Brief for Larger Detransitioners Community et al. as
+Amici Curiae 24–28; Brief for Partners for Ethical Care
+et al. as Amici Curiae 17–38.
+A recurring theme in discussions of detransitioners is that
+doctors have responded to the “skyrocketing” “number of
+adolescents requesting [sex-transitioning] medical care” by
+“hastily dispensing medicine or recommending medical doc-
+tors prescribe it.” L. Edwards-Leeper & E. Anderson, The
+Mental Health Establishment Is Failing Trans Kids, Wash-
+ington Post, Nov. 28, 2021, pp. B1–B2. In many cases, evi-
+dence suggests that children “are being rushed toward” med-
+ical treatment “[w]ithout proper assessment,” and “the rising
+number of detransitioners that clinicians report seeing . . .
+indicates that this approach can backfre.” Id., at B2; ac-
+cord, e. g., Eknes-Tucker v. Governor of Ala., 114 F. 4th 1241,
+1267 (CA11 2024) (opinion of Lagoa, J.) (“Alabama presented
+evidence from many detransitioners who uniformly testifed
+that they were not aware of the long-term impacts of the
+treatments they underwent”); Brief for Respondents 12–13
+(explaining that, before enacting SB1, the Tennessee Legisla-
+ture heard testimony “from a detransitioner who explained
+that she was not `capable of making informed lifelong deci-
+sions' as a teenager” but nevertheless received transition
+treatments).7
+wise circumvented their wishes”). States might reasonably question
+whether, under such conditions, parents' consent is valid and consistent
+with ethical principles.
+7 The United States has asserted that “all of the available evidence
+shows that” detransitioners constitute “a very small number” of individu-
+als receiving sex-transition treatments. Tr. of Oral Arg. 49. But, “those
+States have an interest in ensuring that minor patients
+have the time and capacity to fully understand the irrevers-
+ible treatments they may undergo. Cf. Gonzales, 550 U. S.,
+at 159 (identifying State's “legitimate concern” regarding
+“lack of information” provided by abortionists). And, de-
+spite the supposed expert consensus that young children can
+consent to irreversible sex-transition treatments, States
+have good reasons to disagree; as “any parent knows,” chil-
+dren's comprehension is limited, Roper, 543 U. S., at 569, and
+the growing number of detransitioners illustrates the risks
+of assuming otherwise.
+D
+Recent revelations suggest that WPATH, long considered
+a standard bearer in treating pediatric gender dysphoria, see
+Brief for United States 3, bases its guidance on insufficient
+evidence and allows politics to influence its medical conclu-
+sions. Beyond the lack of consensus over the efficacy and
+ethics of pediatric sex-transition treatments, these develop-
+ments provide States even stronger bases for treating sup-
+posed authorities in this area with skepticism.
+WPATH itself recognizes that evidence supporting the ef-
+ficacy of puberty blockers, cross-sex hormones, and surgical
+intervention for treating gender dysphoria in children is
+who abandon a transition are likely to stop talking to their doctors, and
+so disappear from the figures.” Trans Substantiation, The Economist,
+Apr. 8, 2023, p. 18; see also 2 App. 653 (“A significant majority (76%) [of
+detransitioners in one study] did not inform their clinicians of their detran-
+sition”). Thus, “[t]he number of people who detransition or discontinue
+gender treatments is not precisely known.” A. Ghorayshi, Youth Gender
+Clinic Lands in a Political Storm, N. Y . Times, Aug. 26, 2023, p. A12. And,
+because “[i]t is quite possible that low reported rates of detransition and
+regret” among earlier groups of patients “will no longer apply” to the
+increasingly large number of children seeking these treatments, “there is
+reason to believe that that the numbers of detransitioners may increase.”
+M. Irwig, Detransition Among Transgender and Gender-Diverse People—
+An Increasing and Increasingly Complex Phenomenon, 107 J. Clinical En-
+docrinology & Metabolism e4261, e4262 (2022).
+lacking. In its most recent Guidelines, for example, the
+group notes that “[a] key challenge in adolescent transgender
+care is the quality of evidence evaluating the effectiveness
+of medically necessary gender-affirming medical and surgical
+treatments . . . over time.” WPATH 2022 Guidelines S45–
+S46 (emphasis added). A contributor to the Guidelines un-
+derscored this challenge, explaining that, “ `[o]ur concerns,
+echoed by the social justice lawyers we spoke with, is that
+evidence-based review reveals little or no evidence and puts
+us in an untenable position in terms of affecting policy or
+winning lawsuits.' ” Eknes-Tucker, 114 F. 4th, at 1261 (opin-
+ion of Lagoa, J.).
+Nevertheless, WPATH publicly represents that “[g]ender-
+affirming interventions are based on decades of clinical ex-
+perience and research,” and are “safe and effective” treat-
+ments. Guidelines S18. WPATH appears to rest this
+conclusion on self-referencing consensus rather than
+evidence-based research, which may help explain the group's
+confidence in the face of concededly inadequate evidence.
+See Cass Review 130. In its analysis of several “guidelines”
+for transgender medicine—including not only the WPATH
+2022 Guidelines, but also those from groups like the Endo-
+crine Society—the Cass Review notes that “most of the
+guidelines described insufficient evidence about the risks and
+benefits of medical treatment in adolescents,” but neverthe-
+less “went on to cite this same evidence to recommend medi-
+cal treatments,” or to base their recommendations on “other
+guidelines” prescribing the same course of action. Ibid.
+(emphasis added). This approach was particularly pro -
+nounced in the WPATH 2022 Guidelines, which “cited many
+of the other national and regional guidelines to support some
+of its recommendations, despite these guidelines having been
+considerably influenced by WPATH 7,” the prior version of
+WPATH's Standards of Care. Cass Review 130.
+States would also have good reason to question whether
+WPATH has a basis for believing that children can provide
+informed consent to sex-transition treatments. “[I]n a
+leaked recording of a WPATH Panel,” for example, an endo-
+crinologist acknowledged the difficulty of explaining cross-
+sex hormones and puberty blockers to children, noting that
+“ `the thing you have to remember about kids is that we're
+often explaining these sorts of things to people who haven't
+even had biology in high school yet.' ” Eknes-Tucker, 114
+F. 4th, at 1268–1269 (opinion of Lagoa, J.). “ `[I]t's always a
+good theory that you talk about fertility preservation with a
+14 year old,' ” the endocrinologist continued, “ `but I know
+I'm talking to a blank wall.' ” Id., at 1269. Analogizing a
+teenage patient's comprehension to that of a blank wall
+should raise serious concerns regarding the patient's ability
+to provide informed consent. Given WPATH's recognition
+that “[c]onsent requires the cognitive capacity to understand
+the risks and benefits of a treatment,” Guidelines S38, States
+thus might reasonably question whether WPATH could be
+“genuine in its claim that these treatments are safe, effec-
+tive, and well understood, particularly for minors,” Eknes-
+Tucker, 114 F. 4th, at 1268 (opinion of Lagoa, J.).
+Other “recent revelations” might reinforce the conclusion
+that “WPATH's lodestar is ideology, not science.” Id., at
+1261. For example, newly released documents suggest that
+WPATH tailored its Standards of Care in part to achieve
+legal and political objectives. In one instance, the chair of
+WPATH's guidelines committee testifed that it was “ethi-
+cally justifiable” for the authors of the WPATH 2022 Guide-
+lines to “advocate for language changes [in these Guidelines]
+to strengthen [their] position in court.” Boe, ECF Doc. 700–
+3, p. 42. One of the Guidelines' contributors was more di-
+rect: “My hope with these [Guidelines] is that they land in
+such a way as to have serious effect in . . . law and pol-
+icy settings.” ECF Doc. 700–13, p. 25; see also Brief
+for State of Alabama as Amicus Curiae 11–15 (Alabama
+Brief) (describing similar statements from other WPATH
+contributors).
+Worse, recent reporting has exposed that WPATH chan-
+ged its medical guidance to accommodate external political
+pressure. See Brief for Respondents 9–11; Alabama Brief
+15–23. Unsealed documents reveal that a senior official in
+the Biden administration “pressed [WPATH] to remove age
+limits for adolescent surgeries from guidelines for care of
+transgender minors” on the theory that “ `specific listings of
+ages, under 18, will result in devastating legislation for trans
+care.” A. Ghorayshi, Biden Officials Pushed To Remove
+Age Limits for Transgender Surgery, N. Y . Times, June 27,
+2024, p. A17. Despite some internal disagreement, WPATH
+acceded and “removed the age minimums in its eighth edition
+of the standards of care.” Ibid.; see Alabama Brief 17–20. 8
+Over a decade ago, one of WPATH's contributors explained
+that “ `WPATH aspires to be both a scientific organization
+and an advocacy group for the transgendered,' ” and ad-
+mitted that WPATH's Standards of Care “ `is not a politically
+neutral document.' ” Kosilek v. Spencer, 774 F. 3d 63, 78
+(CA1 2014). WPATH's apparent willingness to let political
+interests influence its medical conclusions highlights this re-
+ality. States are never required to substitute expert opinion
+for their legislative judgment, and, when the experts appear
+to have compromised their credibility, it makes good sense
+to chart a different course. 9
+8 After its influence became public, the Government backtracked and
+announced that it “opposed gender-affirming surgery for minors.” R.
+Rabin, T. Rosenbluth, & N. Weiland, Biden Opposes Surgery for Transgen-
+der Minors, N. Y . Times, June 30, 2024, p. 22.
+9 WPATH's deference to political pressure is not the only high-profle
+example of ideology infuencing medical conclusions in this area. Re-
+cently, “[a]n influential doctor and advocate of adolescent gender treat-
+ments” declined to publish “a long-awaited study of puberty-blocking
+drugs” that suggested her initial hypothesis about the drugs' efficacy had
+not “borne out.” A. Ghorayshi, Doctor, Fearing Outrage, Slows a Gender
+Study, N. Y . Times, Oct. 24, 2024, pp. A1, A23. The doctor explained that
+she feared “the findings might fuel the kind of political attacks that have

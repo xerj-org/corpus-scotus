@@ -1,0 +1,501 @@
+Gutierrez v. Saenz — No. 23-7809 — October Term 2024 — decided 6/26/25 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 606 U.S. 305
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r59_g31h.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Opi
+nion of the Court
+stantive outcome will follow. Article III requires no such result.
+Pp. 320–321.
+93 F. 4th 267, reversed and remanded.
+Sotomayor, J., delivered the opinion of the Court, in which Roberts,
+C. J., and Kagan, Kavanaugh, and J ackson, JJ., joined, and in which
+Barrett, J., joined as to all but Part II–B–2. Barrett, J., fled an opin-
+ion concurring in part and concurring in the judgment, post, p. 321.
+Thomas, J., fled a dissenting opinion, post, p. 322. Alito , J., fled a dis-
+senting opinion, in which Thomas and Gorsuch, JJ., joined, post, p. 338.
+Anne Elizabeth Fisher argued the cause for petitioner.
+With her on the briefs were Lisa Evans Lewis, Joseph W.
+Luby, and Joanne M. Heisey.
+William F. Cole, Deputy Solicitor General of Texas, ar-
+gued the cause for respondents. With him on the brief were
+Ken Paxton, Attorney General, Aaron L. Nielson, Solicitor
+General, Brent Webster , First Assistant Attorney General,
+Cameron Fraser, Assistant Solicitor General, and Eric Abels
+and Jefferson D. Clendenin, Assistant Attorneys General.*
+Justice Sotomayor delivered the opinion of the Court.
+For nearly 15 years, petitioner Ruben Gutierrez has
+sought DNA testing of evidence that, he says, will help him
+prove he was never at the scene of the murder he was con-
+victed of committing. When the local prosecutor refused to
+test the evidence in his custody, Gutierrez fled suit under
+Rev. Stat. § 1979, 42 U. S. C. § 1983, arguing that Texas's pro-
+*Elizabeth B. Wydra and Brianne J. Gorod fled a brief for the Constitu-
+tional Accountability Center as amicus curiae urging reversal.
+A brief of amici curiae urging affirmance was fled for the State of
+Arkansas et al. by Tim Griffn, Attorney General of Arkansas, and Dylan
+L. Jacobs, Interim Solicitor General, and by the Attorneys General for
+their respective States as follows: Steve Marshall of Alabama, Treg Taylor
+of Alaska, Theodore E. Rokita of Indiana, Brenna Bird of Iowa, Russell
+Coleman of Kentucky, Liz Murrill of Louisiana, Lynn Fitch of Mississippi,
+Michael T. Hilgers of Nebraska, Dave Yost of Ohio, Gentner Drummond
+of Oklahoma, Alan Wilson of South Carolina, Jonathan Skrmetti of Ten-
+nessee, and Derek Brown of Utah.
+
+Opini
+on of the Court
+cedures for obtaining DNA testing violated his rights under
+the Due Process Clause. The District Court agreed and
+granted a declaratory judgment to that effect.
+The Fifth Circuit, however, held that Gutierrez lacked
+standing to bring his § 1983 suit, reasoning that, even if a
+federal court declared Texas's procedures unconstitutional,
+the local prosecutor would be unlikely to turn over the physi-
+cal evidence for DNA testing. That holding contravenes
+Reed v. Goertz, 598 U. S. 230 (2023), where this Court decided
+on analogous facts that another Texas prisoner had standing
+to sue the local prosecutor who denied him access to DNA
+testing. Id., at 234. Put simply, Reed held that a federal
+court order declaring “that Texas's post-conviction DNA
+testing procedures violate due process” would redress the
+prisoner's claimed injury by “eliminat[ing]” the state prose-
+cutor's reliance on Article 64 as a reason for denying DNA
+testing. Ibid.; see Tex. Code Crim. Proc. Ann., Art. 64.01
+(Vernon 2018). The same is true here and the Court there-
+fore reverses.
+I
+A
+In 1998, Texas charged Ruben Gutierrez with capital mur-
+der for the killing of Escolastica Harrison at her mobile home
+in Brownsville, Texas. The State's theory at trial was that
+Harrison had been stabbed to death with two different
+screwdrivers. To support its view that Gutierrez wielded
+one of the two screwdrivers in question, the State introduced
+a statement Gutierrez gave to the police, in which he ac-
+knowledged that he and two accomplices had planned to rob
+Harrison on the day she was killed and that he had been in
+Harrison's home while one of his accomplices stabbed her.
+The jury convicted Gutierrez of capital murder.
+Texas law provides that a criminal defendant can be guilty
+of capital murder even where he was merely a party to a
+crime (such as robbery) that resulted in a person's death.
+
+Opi
+nion of the Court
+Tex. Penal Code Ann. §§ 7.01, 7.02, 19.02, 19.03 (West 2021
+and Cum. Supp. 2024). A death sentence, however, may be
+imposed only if “the defendant actually caused the death of
+the deceased[,] . . . intended to kill the deceased or . . . antici-
+pated that a human life would be taken.” Tex. Code Crim.
+Proc. Ann., Art. 37.071(2)(b)(2) (Vernon 2006); see also John-
+son v. State, 853 S. W. 2d 527, 535 (Tex. Crim. App. 1992) (en
+banc) (“The Texas capital murder scheme does not allow an
+individual to be put to death for merely being a party to a
+murder”). To that end, the jury was required at the sen-
+tencing phase of Gutierrez's trial to answer whether Texas
+proved beyond a reasonable doubt that Gutierrez “actually
+caused” Harrison's death or, if not, that he “intended to kill
+[her]” or “anticipated that a human life would be taken.”
+Art. 37.071(2)(b)(2). The jury answered yes, and Gutierrez
+was sentenced to death.
+Gutierrez has long maintained that the police coerced him
+into confessing that he was in Harrison's home on the night
+of the murder. He insists that, as he twice told the police
+before the statement in which he purportedly confessed, he
+never entered the mobile home that night. Although Gutier-
+rez never disputed that he and two accomplices planned to
+rob Harrison, he contends that he thought his accomplices
+would merely rob Harrison's empty mobile home and that
+no one would be harmed during the robbery. He accordingly
+asserts that he should never have been sentenced to death, and
+intends to seek vacatur of his death sentence in a state habeas
+petition. See Art. 11.071(5)(a)(3) (Vernon Cum. Supp. 2024).
+Since 2010, Gutierrez has sought DNA testing of crime-
+scene evidence, including Harrison's nail scrapings, a loose
+hair, and various blood samples, to help him prove it was his
+accomplices, not Gutierrez, in Harrison's home on the night
+of her murder. He maintains that Texas's Article 64 entitles
+him to such DNA testing. Art. 64.01(a)(1). That law pro-
+vides for DNA testing where a “convicted person establishes
+by a preponderance of the evidence” that he “would not have
+
+Opini
+on of the Court
+been convicted if exculpatory results had been obtained
+through DNA testing” and that the request was “not made
+to unreasonably delay the execution of sentence or adminis-
+tration of justice.” Art. 64.03(a)(2). To grant a motion for
+DNA testing under Article 64, the state court must also find,
+among other things, that the evidence “is in a condition mak-
+ing DNA testing possible” and that “identity was or is an
+issue in the case.” Art. 64.03(a)(1).
+Invoking Article 64, Gutierrez twice moved in state court
+for an order requiring the local district attorney to turn over
+the untested crime scene evidence for DNA testing. The
+trial court denied his first request in 2010, and the Texas
+Court of Criminal Appeals (TCCA) affirmed. Ex parte Gu-
+tierrez, 337 S. W. 3d 883, 886 (2011). The TCCA reasoned
+that, even if Gutierrez's DNA was not present on the tested
+items, that would not establish his innocence of Texas capital
+murder. Id., at 899, 901. After all, even if he was not in
+the home, Gutierrez could still be a party to the robbery that
+eventually resulted in Harrison's death. Id., at 901. And,
+as the TCCA saw it, Gutierrez could not invoke Article 64 to
+establish that he had been wrongly sentenced to death unless
+he could also establish his innocence of the underlying crime.
+Ibid. Finally, the court added: “[E]ven if [Article] 64 did
+apply to evidence that might affect the punishment stage as
+well as conviction,” Gutierrez “still would not be entitled to
+testing” because “the record facts” show that “he played a
+major role in the underlying robbery and that his acts
+showed a reckless indifference to human life.” Ibid.
+Gutierrez tried again in 2019, this time bolstered by new
+counsel and new evidence that, according to Gutierrez, would
+implicate Harrison's nephew, Avel Cuellar, as one of the two
+people who stabbed Harrison to death. In the interim, Fer-
+min Cuellar (Avel Cuellar's nephew), had signed a sworn
+statement averring that his uncle Avel approached him in
+the summer of 1998 about stealing “ `a lot' ” of money from
+Harrison. App. 701a. Fermin also averred that, after the
+
+Opi
+nion of the Court
+murder, Avel boasted to Fermin that he had money buried in
+the trailer park. Again, the Texas courts denied Gutierrez's
+motion. On appeal, the TCCA reiterated that DNA testing
+was not available to show ineligibility for the death penalty
+and that, “ `even if [it were],' ” Gutierrez “ `still would not be
+entitled to testing.' ” Gutierrez v. State, 2020 WL 918669,
+*7–*9 (Feb. 26, 2020) (per curiam ).
+B
+Gutierrez next fled this federal action for declaratory and
+injunctive relief under 42 U. S. C. § 1983. He sued respond-
+ent Luis Saenz, the district attorney who has custody of the
+evidence Gutierrez would like tested and whose office prose-
+cuted Gutierrez. Gutierrez's complaint alleges that, “[b]y
+refusing to release the biological evidence for testing, and
+thereby preventing [Gutierrez] from gaining access to excul-
+patory evidence that could have led to his acquittal [or] dem-
+onstrated that he is not death eligible,” the district attorney
+“deprived” him “of his liberty interests in utilizing state
+[postconviction] procedures . . . in violation of his right to
+due process of law.” App. 457a–458a.
+Gutierrez's complaint pinpoints at least three features of
+Article 64 that prevented him from gaining access to the rel-
+evant evidence to which, he says, the Due Process Clause
+entitles him. First, Gutierrez says, the Texas courts inter-
+pret Article 64 to impose a virtually insurmountable barrier
+to obtaining DNA testing, deeming a prisoner ineligible as
+long as the record contains any evidence, no matter how
+minor, that he committed the crime. Id., at 449a, 451a.
+Second, and relatedly, he asserts that it was unfair for the
+TCCA not to consider new evidence he had proffered since
+his trial: A fair procedure, he contends, would require consid-
+ering the effect exculpatory DNA evidence would have on a
+jury that also heard “new evidence casting doubt on [Gutier-
+rez's] statement” to the police. Id., at 452a, n. 8. Third,
+Gutierrez asserts that, as interpreted by the TCCA, Article
+
+64 violates the Due Process Clause by forbidding DNA test-
+ing when its sole purpose is to establish that a defendant is
+ineligible for the death penalty. Id., at 456a.
+The District Court agreed with Gutierrez in part. 565 F.
+Supp. 3d 892 (SD Tex. 2021). It is fundamentally unfair, the
+court declared, that Texas gives prisoners the right to fle a
+habeas petition challenging their death sentence, but pre-
+cludes them from obtaining DNA testing to support that ha-
+beas petition unless they can establish innocence of the un-
+derlying crime. Id., at 911. That limitation renders the
+habeas right “illusory” because few people can make a clear
+showing that they were wrongly sentenced to death without
+DNA evidence. Id., at 910–911. “Due process,” the court
+explained, “does not countenance procedural sleight of hand
+whereby a state extends a right with one hand and then
+takes it away with another.” Id., at 911.
+On appeal, a divided panel of the Fifth Circuit vacated the
+District Court's declaratory judgment, reasoning that Gutie-
+rrez's claimed injury was not redressable because the declar-
+atory judgment would be unlikely to cause the prosecutor to
+“reverse course and allow testing.” 93 F. 4th 267, 272
+(2024). The court recognized that, just two years ago, this
+Court rejected a nearly identical argument in Reed, 598 U. S.
+230. See 93 F. 4th, at 273–274, and n. 3. Yet the Fifth Cir-
+cuit purported to distinguish Reed because, in Gutierrez's
+case, the TCCA “effectively anticipated an unfavorable fed-
+eral court ruling” when it held that, even if Article 64 ap-
+plied to claims affecting death eligibility, the facts in the trial
+record would still not entitle Gutierrez to DNA testing. 93
+F. 4th, at 275. Judge Higginson dissented, noting that he
+saw no “meaningful distinction” between this case and Reed.
+93 F. 4th, at 275.
+While Gutierrez's request for rehearing was pending in the
+Fifth Circuit, Texas scheduled his execution. This Court
+stayed his execution and granted certiorari to consider Gu-
+tierrez's standing to bring his § 1983 claim. 603 U. S. 949
+
+Opi
+nion of the Court
+(2024). Because Reed plainly establishes that he does, the
+Court now reverses.
+II
+A
+Individuals convicted of crimes in state court “have a lib-
+erty interest in demonstrating [their] innocence with new ev-
+idence under state law.” District Attorney's Office for
+Third Judicial Dist. v. Osborne, 557 U. S. 52, 68 (2009). For
+that reason, a state-created right to postconviction proce-
+dures can, “ `in some circumstances, beget yet other rights to
+procedures essential to the realization of the parent right.' ”
+Ibid.1 To that end, this Court held in Skinner v. Switzer,
+562 U. S. 521 (2011), that a Texas prisoner could fle a due
+process claim under § 1983 against a prosecutor who refused
+“ `to release . . . biological evidence for testing.' ” Id., at
+530. In that case, Skinner had alleged that the prosecutor's
+refusal to turn over evidence deprived him of “ `his liberty
+interests in utilizing state procedures to obtain reversal of
+his conviction and/or to obtain a pardon or reduction of his
+sentence.' ” Ibid. This Court reasoned that, while Skinner
+could not challenge in federal court the TCCA decisions de-
+nying his Article 64 motions, he could allege in a § 1983 ac-
+tion that Article 64 unconstitutionally prevented him from
+obtaining such testing. Id., at 532.
+Skinner did not explicitly address a state prisoner's stand-
+ing to bring a due process claim against the custodian of his
+1 One of the dissents contends that this Court “ha[d] no business inter-
+vening in this case in the first place” because “Gutierrez's suit rests on the
+premise that the Fourteenth Amendment's Due Process Clause gives him
+a `liberty interest' in Texas's voluntarily created procedures.” Post, at
+322 (opinion of Thomas, J.). Even if the merits of Gutierrez's due process
+claim were relevant to the standing question at issue here (they are not),
+Osborne squarely forecloses Justice Thomas's view of that claim. See
+557 U. S., at 68; see also, e. g., Wolff v. McDonnell, 418 U. S. 539, 558 (1974)
+(“[L]iberty,” like property, is protected by the Constitution, “even when
+the liberty itself is a statutory creation of the State”).
+
+Opini
+on of the Court
+evidence. That question was first raised in Reed, where this
+Court confronted another claim that Texas's postconviction
+DNA testing law failed to guarantee procedural due process.
+598 U. S., at 233. Rodney Reed alleged, among other things,
+that Article 64's “stringent chain-of-custody requirement
+was unconstitutional and in effect foreclosed DNA testing
+for individuals convicted before `rules governing the State's
+handling and storage of evidence were put in place.' ” Ibid.
+Before this Court, the local prosecutor argued that Reed
+lacked Article III standing. Specifically, the prosecutor as-
+serted that a favorable court decision would not redress
+Reed's injury. That was because, in the prosecutor's view, a
+federal court's “declaration that the statutory provision [he]
+attack[s] is unconstitutional” would not “ `likely' ” cause the
+district attorney to turn over the physical evidence in his
+possession. Brief for Respondents 38–39; Reed, 598 U. S.
+230; California v. Texas, 593 U. S. 659, 673 (2021).
+This Court disagreed and held that Reed had established
+standing to pursue the declaratory judgment action. First,
+the Court explained, “Reed sufficiently alleged an injury in
+fact: denial of access to the requested evidence.” 598 U. S.,
+at 234. Second, “[t]he state prosecutor, who is the named
+defendant, denied access to the evidence and thereby caused
+Reed's injury.” Ibid. Finally, the Court reasoned, “if a
+federal court concludes that Texas's post-conviction DNA
+testing procedures violate due process, that court order
+would eliminate the state prosecutor's justification for deny-
+ing DNA testing” and thereby remove the barrier between
+Reed and the requested DNA testing. Ibid.
+The same is true of Gutierrez's suit. Like Reed and Skin-
+ner, Gutierrez alleges that the local prosecutor's denial of his
+request for DNA testing deprived him of “his liberty inter-
+ests in utilizing state procedures to obtain an acquittal and/
+or reduction of his sentence, in violation of his right to due
+process of law.” App. 458a. As in Reed, moreover, the de-
+claratory judgment Gutierrez seeks would redress that in-
+
+Opi
+nion of the Court
+jury by “ `order[ing] a change in [the] legal status' ” of the
+parties and “eliminat[ing]” the state prosecutor's allegedly
+unlawful “justification for denying DNA testing.” 598 U. S.,
+at 234. That is sufficient to resolve this case.
+B
+1
+The Fifth Circuit recognized the clear parallels between
+this case and Reed. See 93 F. 4th, at 272, 274, n. 3. Never-
+theless, the court thought that, unlike in Reed, the local
+prosecutor here was unlikely to allow testing even if a fed-
+eral court “declare[d] Texas may not deny DNA testing that
+would affect only the punishment stage.” 93 F. 4th, at 272.
+Because the TCCA already concluded Gutierrez would not
+be entitled to DNA testing even if Article 64 did apply to
+evidence affecting only the punishment stage, the Fifth Cir-
+cuit reasoned that the district attorney would “quite likely”
+rely on that holding to deny testing again. Id., at 274. Re-
+spondents, joined by the principal dissent, similarly urge
+that Gutierrez lacks standing because the District Court's
+reason for declaring part of Article 64 unconstitutional “was
+only one of several independent state-law grounds support-
+ing District Attorney Saenz's decision to deny access to the
+requested evidence.” Brief for Respondents 24; see also
+post, at 348–349 (opinion of Alito, J.).
+This attempt to distinguish Reed is wrong twice over.
+First, both respondents and the Fifth Circuit gloss over the
+substance of Gutierrez's complaint, which is the proper focus
+of the standing inquiry here. See Davis v. Federal Election
+Comm'n, 554 U. S. 724, 734 (2008). Gutierrez's complaint
+takes issue not just with Article 64's limitation to actual in-
+nocence claims, but with the barrier Article 64 erects be-
+tween Gutierrez and DNA testing. At bottom, Gutierrez as-
+serts that, to the extent Texas law precludes him from
+obtaining the requested evidence, it violates his rights under
+the Due Process Clause. App. 457a–458a. That is why his
+
+complaint alleges, among other things, that Article 64 poses
+a “virtually impossible [standard] for anyone convicted under
+the law of parties to obtain DNA testing,” id., at 453a, and
+why he takes issue with the TCCA's refusal to consider
+“newly proffered evidence” in assessing claims like his own,
+id., at 452a, n. 8. 2 To the extent the Fifth Circuit based its
+assessment of redressability on the declaratory judgment the
+District Court later issued, rather than Gutierrez's com-
+plaint, it turned the Article III standing inquiry on its head.
+Gutierrez's “standing to bring this suit,” 93 F. 4th, at 271,
+does not depend on the relief the District Court granted on
+the merits.
+The principal dissent does not dispute that Gutierrez chal-
+lenged, in his complaint, each of the roadblocks Article 64
+placed between himself and DNA testing. Post, at 350
+(opinion of Alito, J.). Instead, the dissent repeats the Fifth
+Circuit's error, urging that Gutierrez can now obtain only
+“reinstatement of the District Court's declaratory judg-
+ment.” Post, at 347. But rather than assert that the scope
+of the declaratory judgment retroactively deprived the Dis-
+trict Court of jurisdiction over Gutierrez's complaint, as the
+Fifth Circuit erroneously held, the principal dissent suggests
+instead that “affirmance of the District Court's declaratory
+2 The principal dissent highlights the TCCA's rule “that only evi -
+dence in the trial record may be considered in determining whether post-
+conviction DNA testing is allowed.” Post, at 354 (opinion of Alito, J.).
+That construction of Texas law is, of course, what Gutierrez has challenged
+under the Due Process Clause. See supra, at 312. In Gutierrez's view,
+that new evidence, together with the DNA testing, will help him establish
+that he did not in fact “anticipat[e] that a human life would be taken,” Tex.
+Code Crim. Proc. Ann., Art. 37.071(2)(b)(2), and that his death sentence
+must therefore be vacated. Contra, post, at 354 (Alito , J., dissenting)
+(insisting that “a favorable decision on Gutierrez's constitutional argument
+would not bolster his challenge to his sentence”). That the principal dis-
+sent is skeptical about the merits of Gutierrez's due process challenge is
+not pertinent because the Court only granted certiorari to consider Gutier-
+rez's Article III standing to bring his suit. See ibid.
+
+Opi
+nion of the Court
+judgment” would not help Gutierrez moving forward. Post,
+at 350. That argument, however, does nothing to support
+the Fifth Circuit's holding, which the principal dissent de-
+fends, that Gutierrez lacked “standing to bring this suit.”
+93 F. 4th, at 271. 3
+2
+Second, and more fundamentally, the Fifth Circuit erred
+in transforming the redressability inquiry into a guess as to
+whether a favorable court decision will in fact ultimately
+cause the prosecutor to turn over the evidence. Id., at 274.
+In Reed, just like in this case, the Texas courts had proffered
+multiple reasons for denying Reed's Article 64 motion, in-
+cluding that “Reed did not demonstrate that he would have
+been acquitted if the DNA results were exculpatory,” 598
+U. S., at 233, and that Reed “failed to establish that his re-
+quest [was] not made to unreasonably delay the execution of
+his sentence,” Reed v. State, 541 S. W. 3d 759, 778 (Tex. Crim.
+App. 2017). The principal dissent claims that, for Reed,
+“striking down the chain-of-custody rule” would have “criti-
+cally undermined the TCCA's holding” as to “[t]wenty-one
+additional items,” which “could have been considered” if the
+declaratory judgment issued in his favor. Post, at 352. Yet
+3 As the principal dissent sees it, the Fifth Circuit held only that Gutier-
+rez lacked standing to press one of his arguments in favor of Article 64's
+unconstitutionality: that “ `the state violates due process by . . . preventing
+testing if resulting evidence would be relevant only to the sentence.' ”
+Post, at 348, n. 7 (quoting 93 F. 4th, at 271). Even if that particular argu-
+ment about Article 64's unlawfulness could be disentangled from the rest
+of Gutierrez's due process claim, see supra, at 312–313, 316, however, the
+dissent never embraces the Fifth Circuit's view that Gutierrez lacked
+“standing to bring this suit” in the District Court, 93 F. 4th, at 271. In-
+stead, it suggests that Gutierrez lacked standing to seek “affirmance of
+th[at] claim” from the Fifth Circuit. Post, at 348, n. 7. It was the district
+attorney, not Gutierrez, who sought relief from the Fifth Circuit, and there
+is no reason to think the Courts of Appeals must dismiss a case for lack
+of standing simply because the nonappealing party did not cross-appeal
+the scope of the District Court's judgment.
+
+Opini
+on of the Court
+even absent the chain-of-custody rule, Reed still faced the
+TCCA's assessment that his DNA testing request was “un-
+timely,” 541 S. W. 3d, at 778, and the trial court's determina-
+tion that “exculpatory results from DNA testing of all the
+evidence he requested to be tested” would not establish his
+innocence, id., at 773. This Court nevertheless reasoned in
+Reed that, “if a federal court concludes that Texas's post-
+conviction DNA testing procedures violate due process,”
+that court order would redress his injury by “eliminat[ing]”
+the state prosecutor's reliance on Article 64 as a reason for
+denying DNA testing. 598 U. S., at 234. The particular de-
+claratory judgment Reed requested was thus no more likely
+to yield a change in the district attorney's conduct than the
+one Gutierrez sought here. Contra, post, at 347, 351–354
+(opinion of Alito, J.).
+What was true in Reed thus applies here, too. There is
+little doubt that Saenz considers Article 64 in his assessment
+of whether to provide requested DNA evidence. Indeed,
+Saenz confirmed at oral argument that he would likely “turn
+over the evidence” if he thought Article 64 entitled Gutierrez
+to DNA testing. Tr. of Oral Arg. 71. A declaratory judg-
+ment in Gutierrez's favor would accordingly redress his in-
+jury by removing the allegedly unconstitutional barrier Arti-
+cle 64 erected between Gutierrez and the requested testing.
+To be sure, Saenz nevertheless states that any declaratory
+judgment will not affect his ultimate willingness to turn over
+the evidence. He and the principal dissent urge that the
+Court need not even “speculate” about what he might do
+because, “[a]fter securing a declaratory judgment from the
+district court,” Gutierrez again sought DNA testing and
+“Saenz refused.” Brief for Respondents 27; see post, at 350
+(opinion of Alito, J.). This, again, is a familiar refrain. The
+prosecutor in Reed, too, maintained that a declaratory judg-
+ment would not “ `bring about' ” “ `any change in [his] con-
+duct.' ” Brief for Respondents 38–39; Reed, 598 U. S., at 249
+(Thomas, J., dissenting). This Court was unmoved by that
+
+assertion. See id., at 234. The reason is simple: That a
+prosecutor might eventually find another reason, grounded
+in Article 64 or elsewhere, to deny a prisoner's request for
+DNA testing does not vitiate his standing to argue that the
+cited reasons violated his rights under the Due Process
+Clause. See, e. g., Federal Election Comm'n v. Akins, 524
+U. S. 11, 25 (1998) (“[T]hose adversely affected by a discre-
+tionary agency decision generally have standing to complain
+that the agency based its decision upon an improper legal
+ground . . . even though the agency . . . might later, in the
+exercise of its lawful discretion, reach the same result for a
+different reason”); Lujan v. Defenders of Wildlife , 504 U. S.
+555, 572, n. 7 (1992) (“[U]nder our case law, one living adja-
+cent to the site for proposed construction of a federally li-
+censed dam has standing to challenge the licensing agency's
+failure to prepare an environmental impact statement, even
+though he cannot establish with any certainty that the state-
+ment will cause the license to be withheld or altered . . . ”).
+C
+Finally, Saenz asserts in the alternative that this case is
+now moot because Saenz refused Gutierrez's request for
+DNA testing even after the District Court issued the declar-
+atory judgment. Brief for Respondents 42–44. That claim
+fails, too. As Saenz himself recognizes, “a case `becomes
+moot only when it is impossible for a court to grant any effec-
+tual relief whatever to the prevailing party.' ” Chafin v.
+Chafin, 568 U. S. 165, 172 (2013) (quoting Knox v. Service
+Employees, 567 U. S. 298, 307 (2012)). It is not enough that
+“the practical impact of any decision is not assured.” 568
+U. S., at 175.
+In any event, a procedural due process claim like the one
+Gutierrez presses is not mooted by the defendant's mid-
+appeal promise that, no matter the result of a lawsuit, the
+ultimate outcome will not change. Holding otherwise would

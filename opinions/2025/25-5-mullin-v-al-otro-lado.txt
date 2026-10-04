@@ -1,0 +1,671 @@
+Mullin v. Al Otro Lado — No. 25-5 — October Term 2025 — decided 6/25/26 — opinion of the Court — author Alito (listing code A)
+Citation: 609 U.S. 258
+Source: https://www.supremecourt.gov/opinions/25pdf/25-5_86qd.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+SUPREME COURT OF THE UNITED STATES
+No. 25–5
+MARKWAYNE MULLIN, SECRETARY OF HOMELAND
+SECURITY, ET AL., PETITIONERS v. AL OTRO LADO,
+A CALIFORNIA CORPORATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE ALITO delivered the opinion of the Court.
+This case presents a straightforward question: whether
+an alien1 who seeks to enter the United States2 from Mexico
+“arrives in the United States” when he or she is still in Mex-
+ico. In the decision below, the United States Court of Ap-
+peals for the Ninth Circuit answered “yes.”  That is wrong.
+In ordinary speech, no one would say that a person “arrives
+in” a place—for example, a house, a city, or a country—be-
+fore the person enters that place.  The context in which the
+phrase “arrives in the United States” is used in the immi-
+gration statutes at issue here supports an ordinary-mean-
+ing reading. So does the presumption against extraterrito-
+riality. We therefore reverse.
+——————
+1 The Immigration and Nationality Act (INA) defines an “alien” as “any
+person not a citizen or national of the United States.”  8 U. S. C.
+§1101(a)(3).
+2 The term “United States,” “when used in a geographical sense,” ordi-
+narily means the “continental Unit ed States, Alaska , Hawaii, Puerto
+Rico, Guam, the Virgin Islands of the United States, and the Common-
+wealth of the Northern Mariana Islands.”  §1101(a)(38).
+
+I
+A
+Two sections of the Immigration and Nationality Act of
+1952 (INA or the Act), 66 Stat. 163, are central to this dis-
+pute. Congress adopted both provisions in substantially
+their current form in the Illegal Immigration Reform and
+Immigrant Responsibility Act of 1996 (IIRIRA), 110 Stat.
+3009–546. And both provisions contain the phrase “arrives
+in the United States.”
+The first, 8 U. S. C. §1225(a), governs the inspection of
+aliens who seek admission to the United States. 3  An alien
+who wishes to enter the United States lawfully must first
+be “admitted.”  As used in the INA, “admission” is a term of
+art that means the “lawful entry of [an] alien into the
+United States after inspection and authorization by an im -
+migration officer.” §1101(a)(13)(A). So an alien cannot law-
+fully enter this country without first being inspected by an
+immigration officer, and immigration officers must inspect
+all aliens “who are applicants for admission or [are] other-
+wise seeking admission” to the United States.  §1225(a)(3).
+An alien is deemed an “applicant for admission” if he “ar-
+rives in the United States.”  §1225(a)(1). The Government
+correspondingly must inspect an alien who “arrives in the
+United States”—say, at the San Ysidro, California, port of
+entry through which millions of people pass every year.  But
+an alien is not entitled to inspection until he “arrives in the
+United States.” The meaning of the phrase “arrives in the
+United States” accordingly determines whether and when
+the Government must inspect an alien seeking to enter the
+country.
+——————
+3 The provision states in part: “An a lien present in the United States
+who has not been admitted or who arrives in the United States (whether
+or not at a designated port of arrival and including an alien who is
+brought to the United States after having been interdicted in interna-
+tional or United States waters) shall be deemed for purposes of this chap-
+ter an applicant for admission.”  §1225(a)(1) (emphasis added).
+
+3  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+The second of the two key statutory provisions,
+§1158(a)(1),4 governs a process that may begin during in-
+spection. During inspection, an immigration officer decides
+whether the alien is inadmissible under §1182, which bars
+entry on grounds related to, among other things, national
+security, foreign-policy concerns, and the alien’s health or
+criminal activity. If the office r concludes that the alien is
+inadmissible, the officer must generally “order the alien re-
+moved from the United States without further hearing or
+review.” §1225(b)(1)(A)(i).  This procedure is known as ex-
+pedited removal.
+An officer may not proceed with expedited removal, how-
+ever, if the alien indicates an “intention to apply for asylum
+under” §1158 or voices a “fear of persecution.”
+§1225(b)(1)(A)(ii). In that event, the immigration officer
+must refer the alien to an asylum officer for what is known
+as a “credible fear” interview, at which the alien must es-
+tablish a “significant possibility” of eligibility for asylum
+under §1158. Ibid.; §1225(b)(1)(B)(v).  If the officer deter-
+mines that the alien does not have a credible fear of perse-
+cution, the officer must “order the alien removed from the
+United States without further hearing or review,” although
+the alien may request “prompt” and limited review by an
+immigration judge. §§1225(b)(1)(B)(iii)(I), (III). But if the
+asylum officer decides that the alien does have a credible
+fear, the officer must detain the alien for further consider-
+ation of the alien’s application for asylum.
+Asylum is a status that entitles an alien who is a “refu-
+gee” to remain and work in the United States.
+——————
+4 That provision states: “Any alien who is physically  present in the
+United States or who arrives in the United States  (whether or not at a
+designated port of arrival and includ ing an alien who is  brought to the
+United States after having been inte rdicted in international or United
+States waters), irrespective of such alien’s status, may apply for asylum
+in accordance with this section or, where applicable, section 1225(b) of
+this title.”  §1158(a)(1) (emphasis added).
+
+§1158(b)(1)(A). A refugee is an alien who is unable or un -
+willing to return to the country of his nationality “because
+of persecution or a well-founded  fear of persecution on ac-
+count of race, religion, nationality, membership in a partic-
+ular social group, or political opinion.” §1101(a)(42)(A).
+Any alien who “arrives in the United States” may apply for
+asylum, §1158(a)(1), and the Attorney General or the Sec-
+retary of Homeland Security may—but need not—grant
+such an application, §1158(b)(1)(A).
+In sum, an alien that “arrives in the United States” is en-
+titled to inspection, is deemed an applicant for admission,
+and may apply for asylum.  By contrast, until an alien “ar-
+rives in the United States,” he is not entitled to inspection,
+is not an applicant for admission, and cannot apply for asy-
+lum, except on other grounds not here at issue.
+B
+In the spring of 2016, U. S. Customs and Border Protec-
+tion (CBP) began to experience a surge of aliens seeking ad-
+mission at ports of entry along the U. S.-Mexico border.  The
+number of aliens seeking to enter sometimes far exceeded
+the number CBP could properly process.  Long delays
+slowed the inspection process, and, in the meantime, CBP
+sometimes ran short of chairs, meals, and beds.  The result-
+ing conditions were often unsafe for aliens, and they ren -
+dered border facilities unsecure.
+In November 2016, the Department of Homeland Secu-
+rity responded by adopting a policy of “metering” the num-
+ber of arriving aliens whom CBP would inspect each day
+and allow to apply for asylum. To enforce the policy, offi-
+cials stood on the U. S. side of the border and prevented en-
+try into the United States by more aliens than the port
+could adequately process.
+The metering policy continued through the change in
+Presidential administrations. In April 2018, a CBP official
+distributed a memorandum that allowed CBP offices to
+
+5  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+“meter the flow of travelers at the land border” when “nec-
+essary or appropriate to fac ilitate orderly processing” and
+to “maintain the security of the port and safe and sanitary
+conditions.” App. 122.  The memorandum empowered of-
+fices to “establish and operate physical access controls at
+the borderline, including as close to the U.S.-Mexico border
+as operationally feasible.”  Ibid. But officers could not “dis -
+courage” an alien “from waiting to be processed” if the alien
+claimed “fear of return” or sought “any other protection.”
+Id., at 122–123.  And the memorandum stated that an alien
+“must be fully processed” once the alien “is in the United
+States.” Id., at 123. The Government reiterated the policy
+in a second 2018 memorandum, this one issued by the Sec-
+retary of Homeland Security. Id., at 124–129.5
+——————
+5 As noted above, two different Presidential administrations found that
+surges of aliens seeking admission at  ports of entry along the southern
+border had overwhelmed those ports’ processing capacities and that al -
+lowing all these aliens to enter th e country created unacceptable condi -
+tions at the port facilities.  Both administrations found that metering
+was an appropriate response to the problem, and in reaching that con -
+clusion they presumably considered al ternatives, such as releasing on
+parole all the aliens who could not be expeditiously processed.  See 8
+U. S. C. §1182(d)(5)(A).  As we note below, a third Presidential admin -
+istration rescinded the policy after a District Court ruled it unlawful.
+The centerpiece of the principal di ssent is an impassioned argument
+against the administrations’ policy choice, but we have neither the abil -
+ity nor the authority to assess and countermand that choice.  Assessing
+the policy would require, among other things, extensive inquiry into the
+number of aliens seeking admission at various ports of entry, the capac-
+ities of those ports and available dete ntion facilities, the effects of at-
+tempting to detain all the aliens who could not be expeditiously pro-
+cessed, and the effects of alternative policies, such as granting parole.
+We lack the resources and expertise needed to make such an assessment
+on our review of the District Court’s summary judgment, and more to the
+point, we lack the authority to do so .  Our authority is limited to inter-
+preting and applying the law.
+
+C
+In 2017, asylum seekers and the immigration-advocacy
+organization Al Otro Lado brought a putative class action
+against the Government in the United States District Court
+for the Southern District of California. Respondents argued
+that CBP’s enforcement of the metering policy unlawfully
+withheld inspection and asylum processing from aliens who
+arrive at the border and seek to enter the United States.
+They sought class-wide declaratory and injunctive relief
+that would end the metering policy.
+The District Court certified a class of all noncitizens who
+“seek or will seek to access” the asylum process “by present-
+ing themselves” at certain ports on the U. S.-Mexico border
+and “were or will be denied a ccess” to that process by CBP
+officials. App. to Pet. for Cert. 300a, n. 3.  The court then
+granted summary judgment for the class and declared that
+the Government’s “denial of inspection or asylum pro-
+cessing” to class members “who are in the process of arriv-
+ing in the United States” is “unlawful regardless of the pur-
+ported justification for doing so.” Id., at 253a. The
+administration rescinded the metering policy in November
+2021, shortly after the District Court ruled the policy un-
+lawful.
+A divided panel of the Ninth Circuit affirmed in relevant
+part. Al Otro Lado v. Executive Office for Immigration Re-
+view, 138 F. 4th 1102 (2025).6  It held that an alien “arrives
+in the United States”—and thus must be inspected and may
+apply for asylum—when the alien, while “standing on” the
+Mexico side of the border, encounters a United States offi-
+cial at the border.  Id., at 1113, 1115.  The majority based
+this conclusion on other lang uage in the provision that al-
+lows certain aliens to apply for asylum.  Such an application
+——————
+6 Before reaching the merits, the panel majority held that the Govern-
+ment’s rescission of the metering policy did not moot the claim now be-
+fore us.  The dissent did not disagree with that conclusion.
+
+7  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+may be filed by not only an alien who “arrives in the United
+States” but also any alien who “is physically present in the
+United States.”  §1158(a)(1).  The majority reasoned that if,
+as the Government maintained, an alien “arrives in the
+United States” only when he enters the country, the phrase
+“arrives in the United States” would be “completely sub-
+sumed within the phrase ‘physically present in the United
+States.’”  138 F. 4th, at 1114.  The majority stated that its
+interpretation, by contrast, gave “every clause and word of ”
+§1158(a)(1) an independent meaning. Id., at 1115.  And be-
+cause §1225(a)(1), the provision governing inspection and
+admission, contains nearly identical language, the majority
+construed it the same way.  Id., at 1118–1119.  Judge Ryan
+Nelson dissented. He argued that an alien “arrives in the
+United States” only when he “crosses the border” into the
+United States, and he charged that the majority’s reading
+defied “[t]ext, history, precedent, and common sense.”  Id.,
+at 1129, 1133.
+The Ninth Circuit called for briefing on whether to rehear
+the case en banc, and 12 judges dissented when the court
+denied rehearing. Judge Bress, joined by 11 other active
+judges, argued that the panel’s ruling contravened the
+“clear statutory text” of §§1158(a)(1) and 1225(a)(1) and
+was “gravely wrong.”  Id., at 1168, 1177. Judge Bea and
+two other senior judges noted their agreement with the dis-
+sents. Id., at 1177–1178 (Bea, J., respecting denial of reh’g
+en banc).
+We granted certiorari. Noem v. Al Otro Lado , 607 U. S.
+1040 (2025).
+II
+We hold that an alien who is standing in Mexico does not
+“arriv[e] in the United States” by attempting, and failing,
+
+to set foot in this country.  An alien “arrives in the United
+States” only when he crosses the border.7
+A
+1
+We begin by considering what the phrase “arrives in the
+United States” means when used in everyday speech.  That
+meaning is clear. A person arrives in a geographic location
+only when he enters it.  To “arrive” is to “reach a destina-
+tion.” American Heritage Dictionary 102 (def. 1) (3d ed.
+1992); see also Webster’s Third New International Diction-
+ary 121 (def. 1.a) (1993) (“to reach a destination: come to the
+end of a journey”); 1 Oxford English Dictionary 651 (def.
+5.a.1) (2d ed. 1989) (“[t]o come to the end of a journey” or “to
+a destination”). The preposition “in” means “[w]ithin the
+limits, bounds, or area of.”  American Heritage Dictionary,
+at 910 (def. 1.a); accord, 7 Oxford English Dictionary, at 759
+(def. 1.a). On these definitions, a person arrives in a desti -
+nation when he enters within its area—not before.
+Everyday examples confirm that understanding.  A run-
+ning back does not arrive in the end zone when he reaches
+the 1-yard line. A guest does not arrive in a house when he
+knocks on the front door.  An army does not arrive in a city
+by encamping outside its walls.  And a letter does not arrive
+——————
+7 We agree with the Ninth Circuit that the case is not moot.  The Dis-
+trict Court’s class-wide declaratory relief, which the panel affirmed, con-
+tinues to bar the Government from using metering to help deal with bor-
+der surges within the ju risdiction of the Ninth Circuit.  Although the
+Government has rescinded the metering policy, respondents have not
+carried their burden to establish that it is “ ‘absolutely clear’ ” that the
+Government would not “reimpose” metering if it could. West Virginia v.
+EPA, 597 U. S. 697, 720 (2022).  To the contrary, the Government repre-
+sents that metering remains an “important tool,” Reply Brief 1, of which
+it “would likely resume the use . . . as soon as changed border conditions
+warranted,” Pet. for Cert. 26.  The controversy remains live because a
+ruling for the Government could reverse the declaratory judgment and
+so give the Government “ ‘effectual relief.’ ” Chafin v. Chafin, 568 U. S.
+165, 172 (2013).
+
+9  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+in a mailbox while it remains in the mail carrier’s hand just
+inches away.
+Respondents suggest that the meaning of the phrase “ar-
+rives in” shifts when someone “block[s]” the way of the per-
+son seeking to arrive. Brief for Respondents 25. In that
+circumstance, respondents say, to arrive in a place is
+merely to “be at its threshold.” Id., at 23. So, on respond -
+ents’ view, a person does arrive in a house when, although
+he “is not in the house” and is  merely “ready” to “take the
+step over” the threshold, the homeowner “stand[s] on the
+other side” and prevents entry.  Tr. of Oral Arg. 70. Put
+simply, an alien “arrives in” the United States by “attempt-
+ing to come into the United States.”  Brief for Respondents
+20.
+We disagree and return to our earlier examples.  The run-
+ning back does not arrive in the end zone (and six points do
+not go up on the scoreboard) when he is tackled at the 1-
+yard line by the defense. The guest does not arrive in the
+house when the homeowner locks the door right before the
+guest tries to open it.  The army does not arrive in the city
+when the city’s defenders repel the attack outside city lim-
+its. And the letter does not arrive in the mailbox when a
+dog assaults the carrier a step away from the mailbox.  A
+person arrives in a destination only when he enters it, and
+that conclusion does not change because someone or some -
+thing blocks entry. A person arrives in the United States,
+then, only when he enters it.
+2
+Several features of statutory context suggest that the
+meaning of the phrase “arrives in the United States” in
+§§1158(a)(1) and 1225(a)(1) conforms to ordinary usage.
+The first is the absence from those provisions of reference
+to attempted entry.  Other provisions of the INA refer to
+both actual entrance into the United States and attempted
+entrance. For example, an alien who “enters or attempts to
+
+enter” the country at an improper time or place commits a
+misdemeanor, §1325(a)(1), and an alien who “enters” or “at-
+tempts to enter” the country after being removed commits
+a felony, §1326(a)(2)(B). Immi gration officers may arrest
+aliens “entering or attempting to enter the United States”
+unlawfully. §1357(a)(2).  We “a re required to give effect to
+Congress’ express inclusions and exclusions.”  National
+Assn. of Mfrs. v. Department of Defense, 583 U. S. 109, 126
+(2018). So the use of attempt language elsewhere in the
+INA and the absence of that language in §§1158(a)(1) and
+1225(a)(1) signal that Congress enacted the disparate lan-
+guage “ ‘intentionally and purposefully.’ ”  Keene Corp . v.
+United States, 508 U. S. 200, 208 (1993) (quoting Russello
+v. United States, 464 U. S. 16, 23 (1983)).  An alien who un-
+successfully attempts to arrive in the United States does
+not arrive in the United States.
+Second, the INA elsewhere refers to aliens who arrive
+near a land border.  It empowers the Attorney General to
+deputize state or local law en forcement to help enforce the
+Act in the event of an “actual or imminent mass influx of
+aliens arriving off the coast of the United States, or near a
+land border.” §1103(a)(10) (emphasis added). Had Con -
+gress meant for aliens who arrive at or near the border to
+be able to apply for asylum and to be entitled to inspection,
+it could have said so using similar language in §§1158(a)(1)
+and 1225(a)(1). Again, we credit that it did not.  See Na-
+tional Assn. of Mfrs., 583 U. S., at 126.
+Third, Congress easily could have required immigration
+officers to inspect any alien who “arrives at” or “reaches”
+the U. S. border.  And it could have used similar language
+in specifying which aliens may apply for asylum.  It did
+something like that in an earlier provision.  See §1158(a)
+(1994 ed.) (allowing an alien “physically present in the
+United States or at a land border or port of entry ” to apply
+for asylum (emphasis added)).  As just noted, the INA uses
+similar phrases in other provisions. See, e.g., §1103(a)(10)
+
+11  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+(referring to “aliens arriving . . . near a land border”). That
+Congress chose not to adopt those “readily available and ap-
+parent alternative[s]” supports our conclusion that the or-
+dinary meaning of “arrives in the United States” controls.
+Knight v. Commissioner, 552 U. S. 181, 188 (2008).
+Fourth, that Congress amended §1158(a) in IIRIRA to re-
+place “at a land border or port of entry” with “arrives in the
+United States” suggests that we should not read those
+phrases—which carry different ordinary meanings—to
+have the same meaning.  “When Congress amends legisla-
+tion,” we presume that it “intends the change to have real
+and substantial effect.”  Van Buren v. United States, 593
+U. S. 374, 393 (2021) (internal quotation marks omitted).
+Whatever the proper interpretation of the pre-IIRIRA pro-
+visions, §1158(a) now “require[s] that one must be present
+in the United States to be eligible for asylum.”  Sadhvani v.
+Holder, 596 F. 3d 180, 183 (CA4 2009).
+Respondents contend that our interpretation of the
+phrase “arrives in the United States” puts too much weight
+on the Act’s use of the preposition “in.” According to re -
+spondents, “in” tells us little about the meaning of
+§§1158(a)(1) and 1225(a)(1) because “it would make no
+sense to say someone arrives ‘at the United States’ or ‘upon
+the United States.’” Brief for Respondents 22. Yet it would
+be natural to say—and Congress “easily” could have said,
+had it wanted to adopt respondents’ rule, Knight, 552 U. S.,
+at 188—that an alien must be inspected and allowed to ap-
+ply for asylum if he “arrives at the border,” or “near” the
+border, or “upon” a spot adjacent to the border. Congress
+did not use those terms.
+B
+1
+Respondents rest their principal textual argument on the
+same ground as the Ninth Circuit panel majority: the canon
+against surplusage. Recall that §1158(a)(1) allows an alien
+
+to apply for asylum not only when he “arrives in the United
+States” but also if he “is physically present in the United
+States.” Respondents correctly observe that an alien who
+“arrives in the United States” is, on the Government’s view,
+“physically present” in the United States.  So, they main-
+tain, the phrase “arrives in the United States” is wholly re-
+dundant if read to require physical presence in this country.
+To avoid that result, they argue, the phrase “arrives in”
+“must apply to at least some noncitizens who are not geo-
+graphically ‘present in’ the country.”  Brief for Respondents
+24. Their alternative interpretation of “arrives in the
+United States” applies that way, and they urge us to adopt
+it.
+2
+Although that argument has some force, in the end it does
+not overcome the arguments that point the opposite way.
+The anti-surplusage canon is not an iron rule.  As Justice
+Scalia put it, the canon expresses “our general reluctan[ce]
+to treat statutory terms as surplusage.”  Freeman v.
+Quicken Loans, Inc ., 566 U. S. 624, 635 (2012) (internal
+quotation marks omitted). The canon is based on an infer-
+ence about how a careful writer or drafter of statutes ordi -
+narily uses language, namely, that such a person is usually
+economical in the use of words.  But even excellent writers
+do not always trim every unnecessary word, and the same
+is true of Congress.
+We have acknowledged that Congress sometimes “enacts
+provisions that are superfluous.” Microsoft Corp. v. i4i Ltd.
+Partnership, 564 U. S. 91, 107 (2011) (internal quotation
+marks omitted).  For that reason, we have adopted inter-
+pretations under which, for example, three distinct verbs in
+the same clause “all mean the same thing.” Freeman, 566
+U. S., at 635.  Nor are other examples of redundancy “un -
+common.” Ibid. Some statutes, for instance, pick out a
+“general” category alongside a “specific” subcategory that
+
+13  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+“might in other circumstances be deemed surplusage.”  Lo-
+renzo v. SEC , 587 U. S. 71, 80 (2019) (internal quotation
+marks omitted). And statutory context can rebut the “idea
+that each subsection” must have wholly independent mean-
+ing. Id., at 81.  The anti-surplusage canon is useful, but it
+is “subordinate to the ‘cardinal canon’ that ‘a legislature
+says in a statute what it means and means in a statute
+what it says there.’”  United States Postal Service v. Konan,
+607 U. S. 391, 406 (2026).  Respondents thus err in suggest-
+ing that the “term ‘arrives in’ must apply to at least some
+noncitizens who are not already geographically ‘present in’
+the country.” Brief for Respondents 24 (emphasis added).
+To bolster their argument, respondents assert that we
+should reject the Government’s interpretation because it
+yields “pure” surplusage. Ibid. That charge, which the
+principal dissent repeats, is mistaken.8  Still, it is true that
+if “arrives in the United States” means “sets foot on U. S.
+soil,” then this category of aliens is a subset of those who
+are “physically present in the United States.”  What ex-
+plains this redundancy?
+The most plausible explanation is the link between the
+“arrives in the United States” language and expedited re -
+moval. Both were added by IIRIRA in 1996. Before then,
+aliens who were “physically present” in the United States
+could apply for asylum, see §1158(a) (1994 ed.), but no
+——————
+8 The reach of the phrase “arrives in the United States” is not the same
+as that of the phrase “physically pr esent in the United States.”  The
+phrase “arrives in the United States” allows the submission of an asylum
+application by aliens who wish to apply when they arrive in the country.
+But certain aliens may apply only well after they enter. Some, for exam-
+ple, may have come here on visas bu t then decided to apply for asylum
+due to changes in conditions in th eir home country.  Cf. H. R. Rep.
+No. 104–469, p. 116 (1996) (noting that “visa overstayers account for a
+substantial portion of those waiting in the ‘asylum backlog’ ”). These al-
+iens are “physically present in the United States,” but they are not aliens
+who apply when they “arriv[e].”  Thus, “physically present in the United
+States” and “arrives in the United States” are not coterminous.
+
+provision of the INA authorized expedited removal of arriv-
+ing aliens who were inadmissible under §1182.  The expe-
+dited removal process created by IIRIRA begins when an
+alien “arrives in the United St ates” and is inspected, see
+§§1225(a)(1), (3), and it seems likely that the “arrives in the
+United States” language was added to §1158(a)(1) to corre-
+spond with the event—arrival—that triggered this new pro-
+cess. See Tr. of Oral Arg.  21–22 (Government counsel ar-
+guing for this explanation of the partial redundancy); Brief
+for Respondents 8–9 (explaining that IIRIRA added the
+phrase “arrives in the United States” to “mirror” that
+phrase’s inclusion “in the new §1225(a)(1)”).
+This explanation makes sense of the way that §1158(a) is
+framed. A careful writer or drafter of statutes may some -
+times include language that is not strictly necessary in or-
+der to make an important poin t as clear as possible.  Lo-
+renzo, 587 U. S., at 80.  And that may well be the reason for
+the inclusion of the “arrives in the United States” phrase in
+the provisions in question.  This new language in
+§§1158(a)(1) and 1225(a)(1) makes it clear that arriving al-
+iens are subject to expedited removal but that even those
+aliens may apply for asylum and that, when they do so,
+their applications are governed by a special process that al-
+lows only limited and expedited review of adverse credible-
+fear decisions. The language allowing applications by al-
+iens who are “physically present in the United States,”
+§1158(a)(1), was retained in 1996 so that aliens could con-
+tinue to apply for asylum well after they arrived.9
+For these reasons, the redundancy that troubled the
+Ninth Circuit is understandable. At any rate, if forced to
+choose between an interpretation that entails some redun-
+dancy and one that contradicts what words usually mean,
+we would choose the former.  See United States v. Atlantic
+Research Corp ., 551 U. S. 128, 137 (2007) (the anti-
+——————
+9 See n. 8, supra.
+
+15  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+surplusage canon “does not require us to avoid surplusage
+at all costs”); A. Scalia & B. Garner, Reading Law: The In-
+terpretation of Legal Texts 176 (2012) (“Put to a choice,
+however, a court may well prefer ordinary meaning to an
+unusual meaning that will avoid surplusage”).
+C
+Even if statutory text and context were not enough to re-
+ject the Ninth Circuit’s and respondents’ interpretation of
+“arrives in the United States,” the presumption against ex-
+traterritoriality would tip the scale against that position.
+This presumption is a “‘longstanding principle of American
+law’” under which courts will no t give a statute effect out-
+side the territory of the United States unless Congress
+“‘clearly expresse[s]’ ” a contrary intent. Morrison v. Na-
+tional Australia Bank Ltd., 561 U. S. 247, 255 (2010); see
+RJR Nabisco, Inc. v. European Community, 579 U. S. 325,
+335 (2016) (asking whether Congress “affirmatively and un-
+mistakably instructed” that the statute have extraterrito-
+rial effect).
+We ask two questions when we analyze whether a statu -
+tory provision applies outside our borders.  We first exam-
+ine the text of the statute and ask whether the provision
+“unmistakabl[y]” applies to foreign conduct.  Abitron Aus-
+tria GmbH v. Hetronic Int’l, Inc ., 600 U. S. 412, 417–418
+(2023). If it does, the inquiry ends.  If it does not, we move
+to the second step and ask whether the statute focuses on
+domestic or foreign conduct. Id., at 419.
+We have sometimes used the presumption against extra-
+territoriality to determine wh ether statutes with more-or-
+less settled meanings applied outside the United States.
+See, e.g., RJR Nabisco, 579 U. S., at 329, 338.  Here, the
+presumption serves a somewhat different purpose: to deter-
+mine whether either of two interpretations of the phrase
+“arrives in the United States” gives extraterritorial reach to
+the provisions in which that phrase appears.  See Small v.
+
+United States, 544 U. S. 385, 388 (2005) (“In determining
+the scope of [a] statutory phrase we find help in the ‘com-
+monsense notion that Congress generally legislates with
+domestic concerns in mind’ ”).
+The answer is plain. Nothing in the text of §1158(a)(1) or
+§§1225(a)(1) and (a)(3) manifests an unmistakable congres-
+sional intent to require that aliens be inspected and allowed
+to apply for asylum while they are still outside the United
+States. We must therefore cons ider the conduct relevant to
+the provisions’ focus.  And on this score, the difference be -
+tween the two interpretations favors ours.  On our view, the
+provisions link inspection and the asylum process to what
+occurs on the U. S. side of the border, while the Ninth Cir-
+cuit’s and respondents’ interpretation trains its sight on the
+other side. Because that inte rpretation would give the pro-
+visions extraterritorial reach, we presume that we should
+not read the provisions that way.
+III
+Respondents’ remaining arguments fail. First, respond-
+ents are mistaken that the interpretation we adopt allows
+the Government to violate th e obligations under the 1951
+Convention Relating to the Status of Refugees, July 28,
+1951, 189 U. N. T. S. 150, that the United States assumed
+through its accession to the 1967 Protocol Relating to the
+Status of Refugees, Jan. 31, 1967, 19 U. S. T. 6223,
+T. I. A. S. No. 6577.  The Protocol requires nations to com-
+ply with Articles 2 through 34 of the Convention.  Article
+33.1 provides that no nation “shall expel or return (‘re-
+fouler’) a refugee in any manner whatsoever to the frontiers
+of territories where his life or freedom would be threatened
+on account of ” certain grounds. 19 U. S. T., at 6276.  The
+Government’s metering policy,  respondents press, flouts
+that obligation.
+Our precedent forecloses this argument.  We held in Sale
+v. Haitian Centers Council, Inc., 509 U. S. 155, 183 (1993),
+
+17  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+that the “text of Article 33 cannot reasonably be read to say
+anything at all about a nation’s actions toward aliens out -
+side its own territory.”  Because aliens who are standing in
+Mexico are outside the territory of the United States, the
+refusal to allow them to enter does not violate Article 33. In
+Sale, we ruled that Article 33 allowed the Government to
+“gather fleeing refugees” en masse to “preven[t]” them
+“from reaching our shores” and to “return them to the one
+country they had desperately sought to escape” “without
+first determining whether they may qualify as refugees.”
+Id., at 158, 160, 183.  If that course of action is consistent
+with Article 33, the Article surely allows border officials to
+stop aliens without valid travel documents from entering
+the United States until they can be processed in a safe and
+orderly way. The Convention’s bar on refoulement imposes
+a duty on nations not to send refugees that are within their
+borders to certain places.  It does not establish that refugees
+have a right to enter a nation at the time they prefer.
+Second, respondents maintain that we should reject the
+Government’s interpretation because it will create perverse
+incentives for aliens to enter the country illegally.  Accord-
+ing to respondents, if border officials may turn away aliens
+who arrive at ports of entry and thus deny them the chance
+to apply for asylum, some aliens will respond by attempting
+to enter the country illegally at other locations.
+That concern is overstated and in any event cannot defeat
+the best reading of the text.  Metering does not permanently
+bar any alien from arriving in  the United States and then
+applying for asylum. It merely  delays the date when some
+may enter. Illegal entry, on the other hand, may be expen-
+sive and dangerous, and it carries adverse legal effects. En-
+try at an improper location is a crime.  §1325(a).  An alien
+becomes ineligible for asylum if he unlawfully re-enters the
+country after having been removed.  §1231(a)(5). And an
+alien unlawfully present in the country is ineligible for var-
+ious government benefits.  §§1621(a), 1641(b).  An alien
+
+whose admission and inspection are delayed due to meter-
+ing would need a powerful reason to apply for asylum im-
+mediately for it to be preferable to run all the risks of illegal
+entry.
+Last, respondents argue that acceptance of the interpre-
+tation we adopt could cause drastic harm because the Gov -
+ernment at some time in the future might prevent all po-
+tential arriving asylum applicants from ever reaching the
+point where an application could be filed.  For present pur-
+poses, it suffices to say that the rescinded metering policy
+was never anything like that imagined future policy.  The
+Government’s policy merely delayed entry by some aliens
+as a way of improving a situation that both interfered with
+the proper conduct of inspection and created unsanitary, in-
+humane, and sometimes dangerous conditions at ports of
+entry. If the Government ever adopts the sort of policy that
+respondents fear, we are confident it would be quickly chal-
+lenged.
+* * *
+The wisdom of the policy of metering alien arrivals at the
+southern border is not before us.  We decide only that an
+alien standing in Mexico does not “arriv[e] in the United
+States.” The INA neither entitles such an alien to apply for
+asylum nor requires an immigration officer to inspect him.
+We reverse the judgment of the Ninth Circuit and re -
+mand the case for further proceedings consistent with this
+opinion.
+It is so ordered.

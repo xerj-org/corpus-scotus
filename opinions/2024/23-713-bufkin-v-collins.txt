@@ -1,0 +1,566 @@
+Bufkin v. Collins — No. 23-713 — October Term 2024 — decided 3/05/25 — opinion of the Court — author Thomas (listing code T)
+Citation: 604 U.S. 369
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r17_olp1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+When evaluating a veteran's claim for service-related dis-
+ability benefits, the Department of Veterans Affairs (V A)
+applies a unique standard of proof known as the “beneft-of-
+the-doubt rule.” This rule requires the V A to “give the ben-
+eft of the doubt to the claimant” whenever “there is an ap-
+proximate balance of positive and negative evidence” on any
+issue material to the claim. 38 U. S. C. § 5107(b). When re-
+viewing the V A's benefits decisions, the United States Court
+of Appeals for Veterans Claims (Veterans Court) must “take
+due account” of the V A's application of the beneft-of-the-
+doubt rule. § 7261(b)(1). The question before us is what
+the Veterans Court must do to comply with that statutory
+command. We hold that the Veterans Court must review
+the V A's application of the rule the same way it would any
+other determination—by reviewing legal issues de novo and
+factual issues for clear error. See § 7261(a). And, we hold
+that the V A's determination that the evidence is in approxi-
+mate balance is a predominantly factual determination
+reviewed only for clear error.
+I
+A
+Congress provides veterans a wide range of benefits, in-
+cluding compensation for disabilities caused or aggravated
+by active-duty military service. §§ 1110, 1131. The V A, led
+by the Secretary of Veterans Affairs, administers the laws
+that provide for those benefits. §§ 301, 303.
+Veterans who suffer from service-connected post-
+traumatic stress disorder (PTSD) are among those entitled
+to disability benefits. To establish service-connected PTSD,
+the V A requires medical evidence diagnosing the condition
+and linking the veteran's symptoms with an “in-service
+stressor,” as well as credible evidence that the in-service
+stressor occurred. 38 CFR § 3.304(f) (2023). When the V A
+finds those conditions satisfied, it assigns a disability rating
+that reflects reductions in earning capacity. 38 U. S. C.
+§ 1155; 38 CFR § 4.130. This rating determines the amount
+of compensation a veteran receives.
+A veteran begins the claims process by submitting a re-
+quest for benefits to the V A. A V A regional office then ad-
+judicates the claim. If the regional office issues an adverse
+decision, the veteran may seek de novo review from the
+Board of Veterans' Appeals. The Board is an administrative
+body within the V A that renders final decisions for the
+agency. 38 U. S. C. §§ 7101, 7104(a).
+Congress designed the V A's adjudicatory process to func-
+tion “ `with a high degree of informality and solicitude for
+the claimant.' ” Henderson v. Shinseki, 562 U. S. 428, 431
+(2011) (quoting Walters v. National Assn. of Radiation Sur-
+vivors, 473 U. S. 305, 311 (1985)). For example, Congress
+imposes no statute of limitations on a veteran's claim for
+benefits. The process at both the regional offices and the
+Board is ex parte and nonadversarial. 38 CFR §§ 3.103(a),
+20.700(c). And, the V A must assist veterans in developing
+the evidence necessary to substantiate their claims. 38
+U. S. C. § 5103A(a)(1).
+Congress also requires the regional offices and the Board
+to give veterans the benefit of the doubt on close issues.
+Specifically, the V A must “consider all information and lay
+and medical evidence of record,” and, “[w]hen there is an
+approximate balance of positive and negative evidence re-
+garding any issue material to the determination of a matter,
+the [V A] shall give the benefit of the doubt to the claimant.”
+§ 5107(b). This rule reflects a pro-veteran policy choice that
+dates back to the post-Civil War era. See 50 Fed. Reg.
+34454 (1985).
+A veteran who receives an adverse decision from the
+Board may appeal to the Veterans Court, an Article I tribu-
+nal. The Veterans Court has exclusive jurisdiction to re-
+view final decisions of the Board. § 7252(a).
+Section 7261 defines the scope of the Veterans Court's re-
+view. Subsection (a), which sets forth the court's adjudica-
+tory powers, is modeled after the scope-of-review provision
+in the Administrative Procedure Act (APA). See 5 U. S. C.
+§ 706. It empowers the Veterans Court to decide relevant
+questions of law; to compel action unlawfully withheld or un-
+reasonably delayed; and to hold unlawful and set aside V A
+findings, conclusions, rules, and regulations that are arbi-
+trary, capricious, an abuse of discretion, or otherwise not in
+accordance with law. 38 U. S. C. §§ 7261(a)(1)–(3). Unlike
+the APA, however, § 7261(a) imposes a slightly different
+standard of review for factual findings. The Veterans Court
+may set aside or reverse a factual finding only if “the finding
+is clearly erroneous,” in contrast to the APA's “substantial
+evidence” standard. § 7261(a)(4); see Dickinson v. Zurko,
+527 U. S. 150, 153, 162–163 (1999) (examining the “subtle”
+difference between the two standards).
+Subsection (b) sets forth additional requirements that the
+Veterans Court must follow “[i]n making the determinations
+under subsection (a).” § 7261(b). As originally enacted,
+the provision required only that the Veterans Court “ `take
+due account of the rule of prejudicial error.' ” Veterans' Ju-
+dicial Review Act, § 301(a), 102 Stat. 4115 (now codified at
+38 U. S. C. § 7261(b)(2)). We have held that this statutory
+command requires the Veterans Court to apply the same
+kind of harmless-error rule that courts ordinarily apply in
+civil cases. Shinseki v. Sanders, 556 U. S. 396, 406 (2009).
+In 2002, Congress amended subsection (b) to add the provi-
+sion at issue here. Veterans Benefits Act, § 401(b), 116 Stat.
+2832. Codified at § 7261(b)(1), it directs the Veterans Court
+to “ `take due account of the [V A]'s application of section
+5107(b) of this title.' ” In other words, when conducting ju-
+dicial review under subsection (a), the Veterans Court must
+“take due account” of the V A's application of the beneft-of-
+the-doubt rule.
+In most cases, an appeal to the Veterans Court is a veter-
+an's final opportunity for judicial review of a benefits deci-
+sion. Although veterans may appeal certain legal issues to
+the United States Court of Appeals for the Federal Circuit,
+see § 7292, that court has held that it lacks jurisdiction to
+review most factual determinations, including whether the
+V A properly applied the beneft-of-the-doubt rule in individ-
+ual cases, see Ferguson v. Principi, 273 F. 3d 1072, 1076
+(2001).
+B
+Petitioners are veterans who applied for service-connected
+PTSD disability benefits and were dissatisfed with the V A's
+resolution of their claims.
+1
+Petitioner Joshua Bufkin served in the Air Force from late
+2005 to early 2006. Although Bufkin intended to join the
+military police, he never received a job assignment because
+he could not pass the required training classes. Bufkin
+blamed his poor performance on marital stress. He re-
+ported that his wife opposed his service and had threatened
+to commit suicide if he stayed in the military. Bufkin ulti-
+mately requested and obtained a nonprejudicial hardship
+discharge.
+Seven years later, Bufkin sought disability benefits from
+the V A. He claimed that his military service caused several
+psychiatric conditions, including PTSD. To support his
+PTSD claim, Bufkin submitted a letter from a V A physician
+who had recently treated him. The physician explained that
+Bufkin's wife suffered from depression, and that Bufkin felt
+forced to make a choice between divorcing his wife or leaving
+the military. The physician diagnosed Bufkin with PTSD
+and opined that the primary stressor was the perceived
+threat to his wife's life.
+The V A regional office denied Bufkin's claim on the ground
+that the medical evidence was insufficient to establish a link
+between his symptoms and his military service. Bufkin
+sought reconsideration, and the V A ordered a second exami-
+nation by a second V A physician. The new physician deter-
+mined that Bufkin did not meet the criteria for PTSD. He
+explained that the first physician was unable to review Buf-
+kin's military or medical records, a limitation that may have
+had a “significant impact” on Bufkin's initial diagnosis.
+App. in No. 2022–1089 (CA Fed.), pp. 26–27. Bufkin also
+submitted letters from his wife and mother describing
+changes they observed in his personality after his military
+service.
+The V A regional office reviewed the new information and
+reaffirmed its denial of Bufkin's claim. Bufkin fled a notice
+of disagreement. He argued that the evidence for and
+against his claim was roughly equal and that he was there-
+fore entitled to “the benefit of the doubt.” § 5107(b). Buf-
+kin then underwent a third V A examination by yet another
+physician. Like the second physician, this physician con-
+cluded that Bufkin's symptoms did not meet the criteria for
+PTSD. She also noted that Bufkin's symptoms started one
+year after his discharge, and that no evidence indicated that
+his military service caused a disability. The V A regional of-
+fce again reaffirmed its decision to deny benefits.
+Bufkin appealed to the Board. While the appeal was
+pending, he submitted a short statement from a fourth physi-
+cian. This physician stated that, in his opinion, Bufkin suf-
+fered from PTSD, but he noted other doctors might disagree
+with that diagnosis. He suggested that, at a minimum, Buf-
+kin suffered from severe anxiety disorder.
+The Board concluded that Bufkin did not suffer from
+PTSD and denied his claim. In a detailed opinion, the Board
+recounted each physician's findings and medical conclusions.
+The Board observed that one physician diagnosed Bufkin
+with PTSD, two physicians determined he did not have
+PTSD, and one physician thought the issue was debatable.
+After carefully reviewing each medical opinion, the Board
+explained that it found the second physician's report “espe-
+cially persuasive.” App. to Pet. for Cert. 61a. The Board
+noted that the one physician to diagnose Bufkin with PTSD
+had not reviewed his military or medical records. The
+Board also reviewed the letters from Bufkin's wife and
+mother but found that they lacked probative value because
+neither individual had relevant medical expertise. When
+taken as a whole, the Board explained, the evidence was not
+in approximate balance. Accordingly, the Board determined
+that Bufkin was not entitled to the benefit of the doubt.
+2
+Petitioner Norman Thornton served in the Army from
+1988 to 1991. After being honorably discharged, Thornton
+applied for and received benefits for an “ `undiagnosed ill-
+ness.' ” Id., at 32a. Years later, he sought additional bene-
+fts for service-connected PTSD. The V A granted benefits
+for the PTSD claim, initially rating his condition as 10% disa-
+bling and later increasing the rating to 30%.
+In 2015, Thornton applied for another increase to his
+PTSD disability rating and underwent a new V A medical ex-
+amination. The physician concluded that Thornton suffered
+some common PTSD symptoms, including depressed mood,
+anxiety, memory loss, and sleep impairment, but questioned
+whether PTSD was the cause of those symptoms. The phy-
+sician did not find several of the more severe symptoms that
+earlier medical examinations had revealed, such as suicidal
+ideation, impaired impulse control, and panic attacks. Nev-
+ertheless, the regional office increased Thornton's PTSD dis-
+ability rating to 50%. Thornton then sought an additional
+increase to 70% and underwent another medical evaluation,
+but the regional office maintained the 50% rating.
+Thornton appealed to the Board, which reviewed the evi-
+dence de novo. As in Bufkin's case, the Board thoroughly
+recounted each medical report and assessed the credibility
+of each physician's findings. The Board ultimately declined
+to increase Thornton's 50% disability rating. 1
+3
+Both petitioners appealed the Board's resolution of their
+PTSD claims to the Veterans Court. They argued that the
+evidence concerning their diagnoses was in “approximate
+balance,” so they were entitled to the benefit of the doubt.
+See § 5107(b). In both cases, the Veterans Court upheld the
+Board's decisions on the ground that the Board's approximate-
+balance determinations were not clearly erroneous.
+Petitioners then appealed to the Federal Circuit, chal-
+lenging the Veterans Court's legal interpretation of
+§ 7261(b)(1). They argued that the statutory command to
+“take due account” of the V A's application of the beneft-of-
+the-doubt rule requires the Veterans Court to review the
+entire record de novo and decide for itself whether the evi-
+dence is in approximate balance.
+The Federal Circuit rejected this argument and affirmed
+the Veterans Court in both cases. Bufkin v. McDonough,
+75 F. 4th 1368 (2023); Thornton v. McDonough, 2023 WL
+5091653 (Aug. 9, 2023). The court held that “the statutory
+command that the Veterans Court `take due account' of the
+benefit of the doubt rule does not require the Veterans Court
+to conduct any review of the benefit of the doubt issue be-
+yond the clear error review required by” § 7261(a). Id., at *2.
+We granted certiorari to decide what it means to “take
+due account” of the V A's application of the beneft-of-the-
+doubt rule. 601 U. S. 1167 (2024).
+1 At the same time, the Board granted Thornton a “total disability” rat-
+ing for his separate claim of unemployability, based on the combined effect
+of his service-connected PTSD and the undiagnosed illness. App. to Pet.
+for Cert. 86a–89a. Thornton currently receives full benefits, but those
+benefits are subject to continual review. He appeals only the denial of
+the increase to his PTSD disability rating.
+II
+A
+We start, as always, with the text. Section 7261(b)(1)
+provides that “[i]n making the determinations under subsec-
+tion (a),” the Veterans Court “shall” “take due account of the
+[V A]'s application of [the beneft-of-the-doubt rule].”
+The plain meaning of the text reveals the scope of the Vet-
+erans Court's task. It is undisputed that the word “shall”
+imposes a mandatory command. Shapiro v. McManus, 577
+U. S. 39, 43 (2015). “Shall” means “must.” Kingdomware
+Technologies, Inc. v. United States, 579 U. S. 162, 171–172
+(2016). It is likewise undisputed that to “take account of”
+something means to give it attention or consideration. See
+American Heritage Dictionary 1763 (4th ed. 2000) (defining
+“take account of” as “[t]o take into consideration”). The
+word “due” qualifies the attention that the V A must give.
+“Due” means “appropriate” or “proper.” See 4 Oxford Eng-
+lish Dictionary 1105 (2d ed. 1989) (“Merited, appropriate:
+proper, right”); Black's Law Dictionary 515 (7th ed. 1999)
+(“Just, proper, regular, and reasonable”).
+Taken together, the statutory command to “take due ac-
+count” of the V A's application of the beneft-of-the-doubt rule
+requires the Veterans Court to give appropriate attention to
+the V A's work, at least when the issue is properly presented.
+See id., at 516 (defining “due consideration” as “[t]he degree
+of attention properly paid to something, as the circum-
+stances merit”). 2
+The text makes clear that the appropriate attention due
+is that which is required under subsection (a). Sec -
+tion 7261(b)(1) states that the Veterans Court must “take
+2 Petitioners invite us to decide whether the Veterans Court must ad-
+dress the V A's application of the beneft-of-the-doubt rule when a veteran
+does not raise the issue as a ground for reversal. Because both petition-
+ers adequately preserved and raised their challenges below, we leave that
+question for another day.
+due account” of the V A's application of the beneft-of-the-
+doubt rule only “[i]n making the determinations under
+subsection (a).” This language highlights that taking due
+account is not a freestanding task but rather an aspect of
+judicial review under subsection (a).
+The upshot is straightforward. Review of the V A's
+beneft-of-the-doubt decision is just another determination
+made “under subsection (a).” § 7261(b)(1). Accordingly,
+the standards of review provided in subsection (a) also gov-
+ern the Veterans Court's review of beneft-of-the-doubt is-
+sues. In particular, subsection (a) requires the Veterans
+Court to review the V A's conclusions of law de novo and its
+findings of fact for clear error. See §§ 7261(a)(1) and (4).
+Which standard applies will depend on whether a veteran
+raises a legal or factual objection.
+Section 7261(b)(1) makes explicit the Veterans Court's pre-
+viously implicit duty to review the V A's application of the
+beneft-of-the-doubt rule, pursuant to the standards set forth
+in subsection (a). Of course, this duty predated Congress's
+enactment of § 7261(b)(1); subsection (a) always required the
+Veterans Court to review all relevant findings of fact and
+conclusions of law. See §§ 7261(a)(1) and (4). But, Con-
+gress's enactment underscores the beneft-of-the-doubt rule's
+status as a paramount consideration.
+B
+The next question, then, is the appropriate standard of re-
+view for challenges to the V A's application of the beneft-of-
+the-doubt rule. The applicable standard will vary with the
+challenge, as the application of the rule has both factual and
+legal components. A veteran may challenge any aspect of
+the V A's application of the beneft-of-the-doubt rule on
+appeal.
+No one disputes that challenges to the V A's legal conclu-
+sions are subject to de novo review. For example, if the
+veteran argues that the V A misunderstood the definition of
+“approximate balance,” the Veterans Court would construe
+the challenge as a legal one and review it de novo. So too
+if the veteran argues that the V A gave the benefit of the
+doubt to the wrong party.
+These arguments, however, are not the typical arguments
+a veteran raises on appeal. In mine-run cases, including the
+two before us, a veteran challenges the V A's determination
+that the evidence on a particular material issue is not in ap-
+proximate balance.
+Petitioners assert that the approximate-balance determi-
+nation is a legal inquiry subject to de novo review. The Gov-
+ernment counters that the determination is a factual finding,
+or at least a mixed question that is predominantly factual
+and reviewed for clear error. After closely examining the
+way in which the V A conducts the approximate-balance in-
+quiry, we conclude it is a predominantly factual question and
+thus subject to clear-error review.
+The approximate-balance determination involves two
+steps. First, the V A reviews each item of evidence in the
+record and assigns weight to it. Both sides agree that this
+aspect of the V A's analysis is factfinding reviewed only for
+clear error. Second, the V A assesses the weight of the evi-
+dence as a whole, deciding whether “there is an approximate
+balance of positive and negative evidence” on any material
+issue. § 5107(b). The V A gives the benefit of the doubt to
+the veteran only after determining that the positive evidence
+and negative evidence on a material issue are in approximate
+balance. Otherwise, the V A simply resolves the issue in
+favor of the party with the more persuasive evidence.
+The second step—deciding whether the evidence as a
+whole is approximately balanced—has both legal and factual
+components. The task is partly factual because it involves
+marshaling and weighing evidence. See U. S. Bank N. A. v.
+Village at Lakeridge, LLC , 583 U. S. 387, 396 (2018). The
+V A must categorize the evidence based on whether it sup-
+ports or undermines the veteran's claim. After doing so,
+the V A compares the relative strength and persuasiveness of
+the evidence on each side. Assigning weight to evidence—
+whether individual pieces of evidence or collections of it—is
+an inherently factual task. See ibid. But, the V A's decision
+also involves a legal determination. After assessing the
+weight of the assorted evidence, the V A must decide whether
+the evidence is in “approximate balance.” See § 5107(b).
+In other words, the V A must determine whether the evi-
+dence satisfies a legal standard. Because the VA's
+approximate-balance determination involves both legal and
+factual work, it is at most a mixed question, not a purely
+legal one.3
+The appropriate standard of review for a mixed question
+depends “on whether answering it entails primarily legal or
+factual work.” U. S. Bank, 583 U. S., at 396. Some mixed
+questions require a court to “expound on the law” by “ampli-
+flying or elaborating on a broad legal standard.” Ibid.
+When applying the law involves developing legal principles
+for use in future cases, appellate courts typically review the
+decision de novo . Ibid. Other mixed questions require
+courts to resolve “case-specific factual issues. ” Ibid.
+When the tribunal below is “immerse[d]” in facts and com-
+pelled to “marshal and weigh evidence” and “make credibil-
+ity judgments,” the appellate court “should usually review a
+decision with deference.” Ibid.
+Reviewing a determination whether record evidence is ap-
+proximately balanced is “about as factual sounding” as any
+question gets. Id., at 397. Consider Bufkin's case. To de-
+3 We need not decide whether the V A's approximate-balance determina-
+tion is best characterized as a mixed question or a factual one. See Alex-
+ander v. South Carolina State Conference of the NAACP , 602 U. S. 1, 18–
+19 (2024) (observing that “a finding of fact” may involve application of a
+“standard of proof” with a “substantial legal component”). Whether the
+determination is mixed or factual, clear-error review is appropriate be-
+cause it is at least predominantly factual.
+cide whether Bufkin was entitled to the benefit of the doubt,
+the Board reviewed four medical opinions and two letters
+from Bufkin's family members. After assigning weight to
+each item, the Board assessed whether the evidence was
+roughly equal. To make that determination, the Board had
+to consider evidence of Bufkin's symptoms and their causes,
+while assessing the credibility of the physicians who treated
+him. Thornton's case is no different. The Board assessed
+the weight of his symptoms, the degree to which they af-
+fected his day-to-day life, and the credibility of each physi-
+cian. These cases illustrate that the approximate-balance
+determination necessarily immerses the Board “in case-
+specific factual issues.” Id., at 396. When that is so—that
+is, when the initial decisionmaker is “marshal[ing] and
+weigh[ing] evidence” and “mak[ing] credibility judgments”—
+its work is fact intensive, and its determinations should be
+reviewed with deference. Ibid.
+C
+Petitioners and the dissent offer various paths to a differ-
+ent result. But, their arguments are not persuasive.
+First, petitioners urge us to hold that with one modest
+phrase, “take due account,” Congress imposed a new stand-
+ard of review for challenges to the V A's application of the
+beneft-of-the-doubt rule. Before the Federal Circuit, peti-
+tioners argued that § 7261(b)(1) established a de novo stand-
+ard of review. They hesitate to call the standard “de novo
+review” before this Court, instead describing it as “APA-
+plus.” Brief for Petitioners 25, 41–42.
+However labeled, the directive to “take due account” does
+not do the work that petitioners envision. Had Congress
+intended to impose a new standard of review for challenges
+to the V A's application of the beneft-of-the-doubt rule, it
+would have clearly named a standard—just as it did in
+§ 7261(a). But, as we have explained, Congress chose not to
+announce any new standard in § 7261(b)(1). It instead incor-
+porated the pre-existing standards of review set forth in sub-
+section (a).
+Petitioners contend, in the alternative, that even if
+§ 7261(b)(1) incorporates the standards of review in § 7261(a),
+the V A's approximate-balance determination is a legal ques-
+tion subject to de novo review under § 7261(a). The dissent
+adopts a similar view, arguing that the approximate-balance
+determination is a predominantly legal mixed question.
+Post, at 398–402 (opinion of J ackson, J.).
+The de novo standard applies, they say, because the
+approximate-balance determination resembles other legal or
+predominantly legal questions that courts review de novo .
+They point to judicial review of a court's probable-cause de-
+termination as one such analogue. Post, at 401. Probable
+cause is the standard by which a court assesses whether a
+police officer's search or seizure was permissible under
+the Fourth Amendment. For example, “probable cause to
+search . . . exist[s] where the known facts and circumstances
+are sufficient to warrant a man of reasonable prudence in the
+belief that contraband or evidence of a crime will be found.”
+Ornelas v. United States, 517 U. S. 690, 696 (1996). We have
+held that this inquiry is a mixed question that courts review
+de novo. See id., at 699.
+Two features of the probable-cause determination distin-
+guish it from the approximate-balance determination, how-
+ever, and underscore why courts review it de novo . First,
+because probable cause is a constitutional standard, we start
+with a strong presumption that determinations under that
+standard are subject to de novo review, even if they require
+courts to “plung[e] into a factual record.” U. S. Bank, 583
+U. S., at 396, n. 4. Second, probable cause at bottom poses
+a question that requires substantial “legal work.” Id., at
+398. Because probable cause asks whether the “officer's un-
+derstanding of the facts and his understanding of the rele-
+vant law” was “reasonable,” Heien v. North Carolina, 574
+U. S. 54, 61–64 (2014), it requires an objective, legally
+grounded inquiry as to what a hypothetical person could
+have found, see Kentucky v. King, 563 U. S. 452, 464 (2011).
+The answer to how a hypothetical person would act is, by its
+nature, one that courts refine over time, building out princi-
+ples that “acquire content only through application.” Or-
+nelas, 517 U. S., at 697. De novo review is therefore essen-
+tial so that courts can ensure “unif[orm] precedent” that will
+“provid[e] law enforcement officers with a defined set of rules
+which, in most instances, makes it possible to reach a correct
+determination beforehand as to whether an invasion of pri-
+vacy is justified.” Ibid. (internal quotation marks omitted).
+The V A's approximate-balance determination differs on
+both counts. First, the standard is a creature of statute.
+Because it does not dwell “[i]n the constitutional realm,” it
+is not entitled to the presumption of de novo review that
+applies to probable cause. U. S. Bank, 583 U. S., at 396, n. 4.
+Second, the approximate-balance inquiry does not have a
+comparable legal component. Instead, as these cases exem-
+plify, that inquiry tends to be case specific and fact intensive,
+with courts evaluating the weight of the evidence for and
+against a particular veteran's claim. To decide Bufkin's
+claim, for example, the V A reviewed a panoply of medical
+and lay evidence, and Bufkin's central argument before the
+Veterans Court was that the overall balance of this evidence
+was closer than the V A thought. Thornton's claim similarly
+presented case-specific, fact-bound issues about the existence
+and severity of symptoms. Resolution of these claims is un-
+likely to generate guidance for the V A or future courts in
+the way that probable-cause precedents do for police and
+the courts.
+The V A's approximate-balance determination is likewise
+distinct from a court's conclusion that evidence is sufficient to
+support a criminal conviction, a conclusion that courts review
+de novo . See Jackson v. Virginia, 443 U. S. 307, 318–319
+(1979). While the suffciency-of-the-evidence inquiry neces-
+sarily turns on facts, the reviewing court does not decide
+for itself whether the evidence establishes guilt beyond a
+reasonable doubt. Instead, it construes all evidence and
+makes all reasonable inferences in favor of the prosecution,
+and asks whether “any rational trier of fact could have found
+the essential elements of the crime beyond a reasonable
+doubt.” Id., at 319. Courts therefore conduct their review
+through a legal lens, applying a hypothetical, objective
+standard and putting a thumb on the scale in favor of the
+prevailing party—the prosecution. No one—petitioners and
+the dissent included—wants the Veterans Court to do that.
+Instead, petitioners and the dissent would have the Veterans
+Court “weigh the evidence” in the first instance and then
+make “inferences from basic facts to ultimate facts”—
+precisely what a court may not do on sufficiency review.
+Ibid.
+Petitioners and the dissent also rely heavily on the asser-
+tion that our reading of § 7261(b)(1) renders the provision
+superfluous. Post, at 395–397. That objection is a serious
+one. “We are reluctant to treat statutory terms as surplus-
+age in any setting.” TRW Inc. v. Andrews, 534 U. S. 19, 31
+(2001) (internal quotation marks omitted). Our reluctance
+increases when Congress amends a statute, as we ordinarily
+presume that when Congress does so, “ `it intends its amend-
+ment to have real and substantial effect.' ” Intel Corp. v.
+Advanced Micro Devices, Inc., 542 U. S. 241, 258–259 (2004).
+But, our reading of § 7261(b)(1) gives that provision a func-
+tion, even if it might involve some redundancy. As we have
+explained, Congress's amendment makes express the Veter-
+ans Court's obligation to review challenges to the V A's appli-
+cation of the beneft-of-the-doubt rule according to the stand-
+ards set forth in § 7261(a). Moreover, as the dissent notes,
+we have left open the possibility that Congress's enactment
+requires the Veterans Court to review the V A's application
+of the beneft-of-the-doubt rule even if the veteran fails to
+present that issue on appeal. See n. 2, supra; post, at 396.
+If the Court were to decide that Congress's enactment
+changed the party-presentation requirement, then the enact-
+ment of § 7261(b)(1) would serve an additional independent
+function.
+Notably, the dissent fails to offer a reading of the text that
+avoids redundancy. According to the dissent, the V A's
+approximate-balance determination is a predominantly legal
+question subject to de novo review. Post, at 399–402. But,
+if the dissent were correct, then the approximate-balance
+determination would have been subject to de novo review
+even before the enactment of § 7261(b)(1). All agree that
+under § 7261(a), which predated Congress's enactment of
+§ 7261(b)(1), the Veterans Court is required to review ques-
+tions of law de novo . Thus, under the dissent's interpre-
+tation—no less than ours—the enactment of § 7261(b)(1)
+merely underscores a pre-existing duty. The canon against
+surplusage can be meaningful when a competing interpreta-
+tion would avoid superfluity. Microsoft Corp. v. i4i L. P .,
+564 U. S. 91, 106 (2011). But, when both interpretations in-
+volve the same redundancy, the canon against surplusage
+simply does not apply. See Marx v. General Revenue Corp.,
+568 U. S. 371, 385 (2013) (declining to apply the canon against
+surplusage when no interpretation would give effect to
+every word).
+In any event, “[s]ometimes the better overall reading of
+the statute contains some redundancy.” Rimini Street, Inc.
+v. Oracle USA, Inc., 586 U. S. 334, 346 (2019). Here, the
+text leaves no doubt that the Federal Circuit's reading of the
+statute is the better one.
+* * *
+Section 7261(b)(1) does not establish a new standard of re-
+view for challenges to the V A's application of the beneft-of-
+the-doubt rule. Instead, it requires the Veterans Court to
+apply the appropriate standard of review under § 7261(a).
+Because the V A's approximate-balance determination is a

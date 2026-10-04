@@ -1,0 +1,59 @@
+Thornell v. Jones — No. 22-982 — October Term 2023 — decided 5/30/24 — Jackson, J., dissenting
+Citation: 602 U.S. 154
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r27_jhek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(2005) (“[W]e are a court of review, not of first view”). Be-
+cause I would vacate the judgment below and remand for
+the Ninth Circuit to consider the full record in the first in-
+stance, I respectfully dissent.
+Justice Jackson, dissenting.
+In its search for legal error in this capital habeas case, the
+Court makes many mistakes of its own, including misreading
+the Ninth Circuit's opinion.* I write separately to empha-
+size a particular misstep: the Court's conclusion that “the
+Ninth Circuit all but ignored the strong aggravating circum-
+stances in this case.” Ante, at 158. In my view, the Ninth
+Circuit's analysis satisfied its obligations under Strickland v.
+Washington, 466 U. S. 668 (1984).
+Per our longstanding test for evaluating an ineffective-
+assistance-of-counsel claim in a capital case, a court “must
+consider the totality of the evidence” and ask “whether there
+is a reasonable probability that, absent the [trial counsel's]
+errors, the sentencer . . . would have concluded that the bal-
+ance of aggravating and mitigating circumstances did not
+warrant death.” Id., at 695. That is precisely what the
+Ninth Circuit did here. The panel not only evaluated the
+mitigating evidence that Jones's trial counsel failed to un-
+earth, it also specifically considered all of the aggravating
+factors. See Jones v. Ryan, 52 F. 4th 1104, 1131 (CA9 2022).
+To assess prejudice, it then reasoned extensively—by anal-
+ogy—considering precedent where both the Circuit and this
+Court had granted habeas relief even in the presence of simi-
+lar aggravators. See id., at 1131–1133.
+To be sure, the Ninth Circuit's discussion of the aggravat-
+ing factors was concise. But there is no benchmark length
+for any such discussion. Indeed, this Court has granted ha-
+*Compare, e. g., ante, at 164 (accusing the panel of “appl[ying] a strange
+Circuit rule that prohibits a court in a Strickland case from assessing the
+relative strength of expert witness testimony”), with Jones v. Ryan, 52
+F. 4th 1104, 1129 (CA9 2022) (“This is not to say, of course, that a district
+court is prohibited from making credibility determinations”).
+beas relief after similarly succinct evaluations of aggravating
+factors. See, e.g., Porter v. McCollum, 558 U. S. 30, 41–42
+(2009) (per curiam ) (discussing aggravators in one para-
+graph); Rompilla v. Beard, 545 U. S. 374, 390–393 (2005) (no
+discussion of aggravators); Wiggins v. Smith, 539 U. S. 510,
+534–538 (2003) (same). We can hardly fault the Ninth Cir-
+cuit for using the same approach that this Court itself has
+previously used.
+Thus, to me, the Court's claim that the Ninth Circuit “all
+but ignored” the aggravators, ante, at 158, rings hollow.
+And the majority's real critique does not appear to relate to
+the Ninth Circuit's methodology. Rather, it merely takes
+issue with the weight that the Ninth Circuit assigned to each
+of the relevant facts. I agree with Justice Sotomayor that
+we are not the right tribunal to parse the extensive factual
+record in this case in the first instance. Ante, p. 172 (dis-
+senting opinion). That is doubly true where the Ninth Cir-
+cuit committed no legal error in reviewing that record to
+begin with. I respectfully dissent.

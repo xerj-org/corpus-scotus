@@ -1,0 +1,1226 @@
+Wolford v. Lopez — No. 24-1046 — October Term 2025 — decided 6/25/26 — JACKSON, J., dissenting
+Citation: 609 U.S. 185
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1046_nmio.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 24–1046
+JASON WOLFORD, ET AL., PETITIONERS v. ANNE E.
+LOPEZ, ATTORNEY GENERAL OF HAWAII
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+dissenting.
+Today the Court declares unconstitutional Hawaii’s ef-
+forts to protect the rights of its residents—both those who
+wish to carry guns and those who prefer that guns are not
+carried on their private property without their express per-
+mission. To hear the majority tell it, Hawaii’s law is a bla-
+tant attempt to end-run our Second Amendment prece-
+dents. But the statute at issue does no such thing.  Instead,
+it fairly applies a first princi ple of property law—the right
+to exclude—and does no harm to the Second Amendment.
+The majority thinks otherwise; it reaches today’s result
+by purporting to apply the test we established in New York
+State Rifle & Pistol Assn., Inc. v. Bruen, 597 U. S. 1 (2022).
+But the majority gets both the Bruen test and its applica -
+tion wrong. Hawaii’s law does not implicate the Second
+Amendment because there is no right to carry a gun onto
+private property without consent (as all agree), and the
+Constitution does not dictate the form of that required con-
+sent. And even if the Second Amendment were implicated
+here, Hawaii has proffered ample analogues demonstrating
+a history and tradition of States protecting their residents’
+property rights by requiring those wishing to carry guns
+onto private property to get express consent from the prop-
+erty owner before doing so.
+
+For what it is worth, I think Bruen was wrongly decided.
+But if it is going to be our precedent, the majority should at
+least endeavor to apply it faithfully.  I respectfully dissent
+because the majority has failed to do so here, and its
+analysis and conclusion only further bind the hands of mod-
+ern legislatures attempting to balance and protect their res-
+idents’ interests. With this decision, the Court has now ma-
+nipulated Bruen into a free-for-all that lets the Judiciary
+thwart the will of legislatures by privileging access to fire-
+arms above all else.  Today’s decision makes one thing clear:
+The Court’s objective is prote cting guns, not consistently
+preserving any principle of law.
+I
+Since its time as a sovereign kingdom, Hawaii has never
+permitted the widespread carrying of firearms in its terri-
+tory. In 1833, King Kamehameha III of the Kingdom of Ha-
+waii prohibited the possession of “dangerous weapon[s].”
+Translation of the Constitution and Laws of the Hawaiian
+Islands, Established in the Reign of Kamehameha III 163
+(1842) (reprint 1934) (targeting  possession of any “knife,
+sword-cane, or any other dangerous weapon”). Hawaii
+maintained this tradition of strictly regulating weapons
+both before and after it was annexed as a U. S. territory in
+1898. See, e.g., Act of May 25, 1852, §1, 1852 Haw. Sess.
+Laws 19 (expanding definition of deadly weapons); Haw.
+Rev. Laws, ch. 209, §3089 (1905), as amended by Act of Mar.
+19, 1913, §1, 1913 Haw. Sess. Laws 25.
+In 1927, Hawaii began regulating firearms in particular
+by carefully controlling who may carry them. Act 206, §5,
+1927 Haw. Sess. Laws 209–211.  Such regulation continued
+even after statehood in 1959, when Hawaii began allowing
+private gun ownership but only if the applicant could show
+an “exceptional case.”  Act 163, §1, 1961 Haw. Sess. Laws
+215. Thus, “[t]he history of the Hawaiian Islands does not
+include a society where armed people move about the
+
+3  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+community.” State v. Wilson, 154 Haw. 8, 27, 543 P. 3d 440,
+459 (2024).
+That custom continued until very recently.  Prior to this
+Court’s decision in Bruen, Hawaii issued concealed-carry
+permits only in “exceptional  case[s],” which required “an
+applicant [to] sho[w] reason to fear injury to the applicant’s
+person or property.” Haw. Rev. Stat. §134–9(a) (2011).  The
+result? Hawaiians have rarely carried (or encountered oth-
+ers carrying) guns.
+Following Bruen’s rejection of licensing schemes like Ha-
+waii’s, the State was forced to alter its long-standing tradi-
+tion. To accomplish this, it enacted Act 52, which allowed
+for concealed-carry permits to issue after applicants passed
+a background check and underwent a training process.  See
+2023 Haw. Sess. Laws 113–136. Act 52 also restricted
+where and how license holders could carry their guns.  See
+§2, id., at 114–119 (codified at Haw. Rev. Stat. §§134–9 to
+134–9.5 (2023)).
+One problem that Hawaii confronted as it undertook to
+implement Act 52 was how best to protect Hawaiians who,
+accustomed to the traditional practice, might not be aware
+that gun laws were changing to allow for armed—and con-
+cealed—carry in everyday life.  In particular, given Ha-
+waii’s history, private property owners were unlikely to ex-
+pect guns to be carried onto th eir property or to know that
+they needed to take steps if they did not wish to permit
+armed entry. See Wilson, 154 Haw., at 27, 543 P. 3d, at 459
+(noting lack of custom of armed carry). The community was
+up in arms about this (so to speak).  Hawaii’s Legislature
+held hearings and received testimony from residents and
+the business community indicati ng that private property
+
+owners did not want people carrying guns onto their prop-
+erty without their express consent.1
+This input from Hawaii’s residents mirrored evidence
+from around the country. One nationwide study revealed
+widespread public misunderstanding about whether it was
+lawful to bring a gun onto private property. See I. Ayres &
+S. Jonnalagadda, Guests With Guns: Public Support for “No
+Carry” Defaults on Private Land, 48 J. Law Med. & Ethics
+183, App. 8, Table A5 (2020). Not only that, but the study’s
+respondents generally had preferences against armed carry
+in certain spaces, even spaces open to the public.  See id.,
+at 186 (“Only about one-quarter of respondents (25.1%) ex-
+pressed support for a default right of employees to bring
+guns into their places of employment . . . . A larger, but still
+minority proportion of respondents (44.2%), believe custom-
+ers, by default, should be allowed to carry into retail estab-
+lishments”); id., at 185, Table 1.
+A straightforward solution emerged: Act 52 would re-
+quire gun owners to get affirmative consent from the prop-
+erty owner before carrying a firearm onto private property.
+See id., at 188–189 (suggesting this approach). Hawaii cod-
+ified this affirmative-consent solution in §134–9.5, prohib -
+iting a concealed-carry permit holder from carrying a hand-
+gun onto private property unless the permit holder has
+“been given express authorization to carry a firearm on the
+property by the owner, lessee,  operator, or manager of the
+property,” or agent thereof. §134–9.5.  Under §134–9.5(b),
+such express authorization could be either by
+——————
+1 See, e.g., Hawaii House of Representatives Committee on Finance,
+Public Hearing on Senate Bill HI SB 1230, at 3:32:24 to 3:32:38 (Apr. 5,
+2023), youtube.com/watch?v=nwDy5fqtzTg (archived at
+https://perma.cc/62GZ-YJJ8) (testimony  of G. Abrena-Agas) (“We sup-
+port allowing owners of private property to choose whether they want to
+opt in to authorizing concealed carry on their properties and also choose
+to opt in to providing signage on their properties for that”).
+
+5  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+“[u]nambiguous written or verbal authorization” or by
+“[t]he posting of clear and conspicuous signage at the en-
+trance of the building or on the premises.”
+Section 134–9.5 thus helped narrow the informational
+asymmetry caused by the potential sea change in Hawaii’s
+gun-possession rates. Indeed, the enacted law stated that
+the legislature had adopted the rule to “respec[t] the right
+of private individuals and entities to choose for themselves
+whether to allow or restrict the carrying of firearms on their
+property” and to promote “public health, safety, and wel-
+fare.” 2023 Haw. Sess. Laws 114.  By enacting §134–9.5,
+Hawaii chose to protect the unaware property owner while
+leaving open to gun owners the opportunity to carry fire-
+arms where consent has been provided.
+Notably, in making this choice, Hawaii was not alone. It
+joined four other States that had similar laws.  See Cal. Pe-
+nal Code Ann. §26230(a)(26) (West Cum. Supp. 2025); N. J.
+Stat. Ann. §2C:58–4.6(a)(24) (West 2024); Md. Crim. Law
+Code Ann. §6–411 (Supp. 2025); N. Y. Penal Law Ann.
+§265.01–d(1) (West 2025).
+II
+Petitioners believe that having to ask for permission to
+carry a firearm onto private property open to the public is
+an unconstitutional burden on their Second Amendment
+rights. But their bid to invo ke the Constitution stumbles
+out of the gate—at step one of this Court’s Bruen test. 2
+There is no constitutional right to enter private property
+——————
+2 The Court’s decision in New York State Rifle & Pistol Assn., Inc. v.
+Bruen, 597 U. S. 1 (2022), prescribed a two-step inquiry for assessing
+Second Amendment challenges to government regulation.  The first step
+asks whether the challengers have shown that the plain text of the Sec-
+ond Amendment, which codi fied a pre-existing right to carry, covers an
+individual’s conduct. Id., at 24.  If it does, “[t]he government must then
+justify its regulation by demonstrating that it is consistent with the Na-
+tion’s historical tradition of firearm regulation.”  Ibid.
+
+without the owner’s permission, let alone with a firearm.
+So the question this case presents is merely how a property
+owner must communicate his decision to exclude or to invite
+armed carry, including whether a State may alter the back-
+ground property-law rules that set the default as one or the
+other. The Second Amendmen t has nothing to say about
+that. Petitioners’ constitutional rights are thus not impli-
+cated here, and their claim should meet its end at Bruen’s
+first step.
+To avoid this obvious outcome, the majority has to recon-
+ceptualize Bruen.  Instead of applying a threshold criterion
+asking whether the challengers have shown that the plain
+text of the Second Amendment—which codified a pre-
+existing right to carry—covers conduct that the challenged
+law restricts, the majority essentially directs courts to start
+by simply asking whether a gun owner cannot do what she
+wants with her firearm. Ante, at 13–14. The majority
+thereby eliminates step one’s effectiveness as a means of
+identifying gun-related laws that impinge on rights secured
+by the Second Amendment. This move represents a signif-
+icant expansion that, as ap plied here, obscures what
+Bruen’s actual step-one analysis reveals: This case is about
+property rights, not gun rights.
+A
+ “ ‘[O]ur law holds the property of every man so sacred,
+that no man can set his foot upon his neighbour’s close with-
+out his leave.’ ”  Florida  v. Jardines , 569 U. S. 1, 8 (2013)
+(quoting Entick v. Carrington, 2 Wils. K. B. 275, 291, 95
+Eng. Rep. 807, 817 (K. B. 1765)).  This principle, called the
+right to exclude, is the “ sine qua non” of property. Cedar
+Point Nursery v. Hassid, 594 U. S. 139, 150 (2021) (internal
+quotation marks omitted).  It is “one of the most essential
+sticks in the bundle of rights that are commonly character-
+ized as property” and is “universally held to be a
+
+7  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+fundamental element of the property right.” Kaiser Aetna
+v. United States, 444 U. S. 164, 176, 179–180 (1979).
+Stated simply, the right to exclude means that members
+of the public may not enter privately owned property with -
+out the consent of the owner. To  do so would be a trespass.
+4 M. Wolf, Powell on Real Property §34.25, p. 34–222 (2026)
+(Powell on Property); see ante, at 10. Consent to enter prop-
+erty is often referred to as a “license.” Powell on Property
+§34.25, at 34–220. And a license is a privilege, revocable at
+the will of the property owner.  8 D. Thomas, Thompson on
+Real Property §64.03 (2016); Powell on Property §34.25, at
+34–223 (“A license is revocable by any manifestation of the
+licensor’s intent to end it”).
+The consent establishing a license to enter someone else’s
+property can be explicit or implicit.  Id. , at 34–220.  The
+form of consent typically depends on the nature of the pri-
+vate property at issue. In many places, private property
+owners welcome visitors (think shops, gas stations, and the
+like). Thus, as the majority notes, the public generally en-
+joys an implied license to enter this sort of property—that
+is, private property open to the public.  Ante, at 10. The
+operation of the implied license in this context means that
+the public can enter such property without seeking the
+owner’s affirmative consent; such entry is not considered a
+trespass. Ibid.; Powell on Property §34.25, at 34–222. Of
+course, the owner retains the option to revoke that implied
+license in whole or in part, even when operating private
+property open to the public. Id., at 34–221.3
+The scope of any license to enter can vary in ways that
+are relevant here. First, as courts have traditionally
+——————
+3 Dogs in restaurants provide one mode rn example.  In the absence of
+a regulation saying that dogs are no t permitted in restaurants, the im-
+plied license for a human customer to  enter a restaurant might extend
+to a pet, or it might not.  But either way, a property owner has the option
+to put up a “No Dogs Allowed” sign to make clear that dogs are not wel-
+come. See Brief for City of Baltimore et al. as Amici Curiae 16.
+
+recognized, local custom can provide a baseline.  Consider,
+for instance, McKee v. Gratz, 260 U. S. 127 (1922), a case
+involving button makers who had entered the plaintiff ’s
+private land in search of mussel shells, id., at 134.  In many
+places, that entry might have been a trespass—“[t]he strict
+rule of the English common law” required affirmative con-
+sent before entry.  Id., at 136. But in Missouri, where the
+mussel hunting took place, “[t]here was evidence that the
+practice” of permitting people to enter private lands to hunt
+“had prevailed.”  Ibid. And that local custom mattered: The
+Court explained that the English common law “must be
+taken to be mitigated” by “the practice [that] had prevailed
+in [the] region” where the suit originated.  Ibid. In other
+words, there was evidence that local custom had developed
+such that the mussel hunters might have had an implied
+license to enter the land. The rules governing licenses to
+enter, therefore, are not universal. Rather, “ ‘[a] license
+may be implied from the habits’ ” of a particular location.
+Jardines, 569 U. S., at 8 (quoting McKee, 260 U. S., at 136).
+Second, because States have the power to set default con-
+sent rules, state law can alter the scope of a license to enter
+private property.  For example, the English rule was that
+the public had to obtain the owner’s express permission to
+hunt or fish on “unenclosed” private property.  M. Brady,
+Property v. Guns: The Level-of-Generality Problem in Wol-
+ford, 78 Stan. L. Rev. Online 156, 165 (2026).  But some
+States altered this rule via positive law.  See, e.g., Pa.
+Const., §43 (1776) (“[I]nhabitants of this state shall have
+liberty to fowl and hunt . . . on all . . . lands . . . not in-
+closed”); Vt. Const., ch. 2, §39 (1777) (similar).  Others re-
+tained it or variations on it.  See Act of Aug. 23, 1769, 1790
+S. C. Pub. L. §3, 276 (prohibiting hunting without license if
+more than seven miles from home).
+In all events, uniformity with respect to the scope of li-
+censes to enter private prop erty was never thought neces-
+sary or even desirable.  Instead, local inhabitants molded
+
+9  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+licenses to fit local needs, both by custom and by positive
+law.
+B
+All this makes clear that Hawaii’s law does not restrict
+the right to carry a gun at all.   Instead, its law vindicates
+its resident’s property rights by operating on the scope of
+the implied license to enter. And it does so by requiring gun
+owners to seek express consent, rather than assume im-
+plied consent. See §134–9.5(b).  Consequently, Hawaii’s
+law simply does not implicate the Second Amendment, as
+Bruen’s first step requires.
+Bruen instructs that courts must start by asking whether
+“the Second Amendment’s plain text covers an individual’s
+conduct.” 597 U. S., at 24.  But “[l]ike most rights, the right
+secured by the Second Amendment is not unlimited.”  Dis-
+trict of Columbia v. Heller, 554 U. S. 570, 626 (2008).  The
+Second Amendment “codified a pre-existing right, and pre-
+existing limits on that right are part and parcel of it.”
+United States  v. Rahimi, 602 U. S. 680, 737 (2024)
+(BARRETT, J., concurring).  So, at Bruen’s first step, courts
+must determine whether the activity asserted is part of this
+pre-existing right.
+Here, those pre-existing limits doom petitioners’ case.
+Petitioners wish to carry guns onto private property with -
+out seeking express consent.  See Brief for Petitioners 24
+(arguing that the Second Amendment allows them to
+“carr[y] firearms on private property open to the public
+without first getting express permission from the proprie-
+tor”). Yet everyone agrees that  consent is a precondition to
+exercising any right to carry on private property. 4  T h a t
+——————
+4 Both petitioners and th e United States, as amicus curiae ,
+acknowledge this crucial point.  See Brief for Petitioners 17 (“To be sure,
+a private property owner has the unq uestioned right to exclude others,
+including those bearing arms.  Petiti oners have no quarrel with that
+
+concession gives the game away: Section 134–9.5 does not
+burden petitioners’ rights under the Second Amendment
+because there is no right to carry a gun onto private prop -
+erty without the permission of the owner.  The right to ex-
+clude is a long-recognized (and presently accepted) limita-
+tion on “the pre-existing right” to carry.
+To be sure, the public might well have an implied license
+to enter private property open  to the public, and such per-
+mission might generally include the ability to enter armed.
+See ante, at 10. But as I have explained, any such license
+is not a matter of right—a license is a creature of state law
+and custom, and it can vary accordingly.  See supra, at 7–8.
+Unsurprisingly, then, there ar e multiple historical exam-
+ples of States altering the scope of implied licenses through
+legislation.  Under the common law of England, there was
+no implied license for a person’s livestock to enter another
+person’s unfenced land. But the Colonies reversed that rule
+through legislation, requiring landowners to fence out
+roaming livestock that they did not want on their property.
+See B. Sawers, The Right To Exclude From Unimproved
+Land, 83 Temp. L. Rev. 665, 679–684 (2011).
+And it’s not just livestock. States have also historically
+altered the scope of implied licenses to carry firearms onto
+private property—the subject of today’s case.   During the
+founding and Reconstruction eras, multiple States passed
+laws that operated on the interaction between armed carry
+and the right to exclude. These laws, like Hawaii’s, re -
+quired affirmative consent for armed entry onto private
+property. See Act of Dec. 21, 1771, §1, Laws of the State of
+New-Jersey 26 (1821) (1771 N. J. Laws) (barring visitors
+from “carry[ing] any gun on any lands not his own, and for
+which the owner pays taxes, or is in his lawful possession,
+——————
+principle” (internal quotation marks and citation omitted)); Brief for
+United States as Amicus Curiae 26 (“[A]n owner may revoke [any] li -
+cense” to enter private property with guns).
+
+11  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+unless he hath license or permission in writing from the
+owner”); 1721 Pa. Laws, ch. 246, §3, in 3 The Statutes at
+Large of Pennsylvania From 1682 to 1801, pp. 254–255 (J.
+Mitchell & H. Flanders eds. 1896) (1721 Pa. Acts) (making
+it unlawful for a person to “carry any gun or hunt on the
+improved or inclosed lands of any plantation other than his
+own, unless he have license or permission from the owner”);
+Act of Dec. 20, 1865, No. 10, §1, 1865 La. Acts 14 (1865 La.
+Acts) (“[I]t shall not be lawful for any person or persons to
+carry fire-arms on the premises or plantations of any citi-
+zen, without the consent of the owner or proprietor”); Act of
+Nov. 6, 1866, 2 Tex. Laws 1321 (G. Paschal ed., 4th ed.
+1874) (1866 Tex. Laws) (similar).
+Thus, at presumably relevant historical time periods, it
+was commonly understood that the right enshrined in the
+Second Amendment yields to property rights where private
+property is concerned. 5  Entry was, in the first instance,
+subject to the right to exclude. And because state law and
+custom set the bounds of the right to exclude, the scope of
+one’s ability to carry firearms onto private property open to
+the public, and the form of the consent required, were like-
+wise changeable by custom or state law.
+This was the backdrop against which the Second Amend-
+ment came into being (and which the Fourteenth Amend-
+ment incorporated); the right it enshrined did not protect
+an unyielding liberty to carry a gun onto private property
+via implied consent.  In other words, the conduct here—car-
+rying a gun onto private property without securing the
+——————
+5 The Court has declined to decide the relevance of Reconstruction-era
+laws to the Bruen inquiry.  See United States v. Hemani, 608 U. S. ___,
+___, n. 3 (2026) (slip op., at 7, n. 3) (citing Bruen, 597 U. S., at 37–38).  I
+find no need to answer that open qu estion now because, in this case, I
+view both the founding-era and Recons truction-era laws as pointing in
+the same direction: toward upholding Hawaii’s law as consistent with the
+Second Amendment.
+
+property owner’s express consent—is not part of the pre-
+existing right protected by the Second Amendment.
+Conceptualizing Hawaii’s law as “flipping the default,”
+ante, at 10, misses the point: State law supplies the default.
+Yes, the historical custom in most States set the consent
+rule to be implicit in most circumstances.  But that custom
+was by no means universal—as I have explained, some
+States decided that consent to  carry firearms onto private
+property must be explicit. And in every instance, the States
+retained the power to determine whether the required con-
+sent could be implied or had to be explicit.  See Barnhill v.
+Johnson, 503 U. S. 393, 398 (1992) (“In the absence of any
+controlling federal law, ‘property’ and ‘interests in property’
+are creatures of state law” (citing McKenzie v. Irving Trust
+Co., 323 U. S. 365, 370 (1945))); Phillips Petroleum Co.  v.
+Mississippi, 484 U. S. 469, 484 (1988) (noting the “general
+proposition [that] the law of real property is, under our Con-
+stitution, left to the individual States to develop and admin-
+ister” (internal quotation marks omitted; alteration in orig-
+inal)).
+Recognizing state autonomy in this respect is especially
+appropriate here, since Hawaii has never  had a custom of
+armed carry.  Wilson, 154 Haw., at 27, 543 P. 3d, at 459.  In
+this way, Hawaii’s use of its prerogative to protect the in -
+terests of its residents is consistent with its own traditions.
+Although the relevant principle—that the State can choose
+whether an implied license exists—applies nationwide, Ha-
+waii’s footing is especially strong because it has always ef-
+fectively set its default rule in the same direction: In the
+absence of the widespread availability of guns, those who
+sought to carry guns onto private property open to the pub-
+lic in Hawaii never had an implied license to do so.  Section
+134–9.5 merely codified that existing norm.
+The majority chastises Hawaii for seeming to argue that
+the meaning of the Second Amendment should change
+State-to-State.  Ante , at 16–19.  But the majority
+
+13  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+misunderstands Hawaii’s argument.  The meaning of the
+Second Amendment does not vary by location. Its meaning
+remains fixed: The right to carry firearms onto private
+property is subject to consent.  It is the form of that consent
+that may vary by custom or state law.6
+The majority’s contrary conclusion means that, despite
+yielding to property law when it comes to the fact of consent,
+the Second Amendment dictates its form. That disconnect
+is both puzzling and unfounded.  The form of consent is
+simply not of constitutional dimension.
+C
+Rather than respond to Hawaii’s evidence that the right
+to exclude resolves this case at the first step of Bruen, the
+majority moves the goal posts.  It announces that, at step
+one, courts must look only to the “plain text” of the Second
+Amendment devoid of any historical understanding.  Ante ,
+at 7, 13. And it rejects Hawaii’s attempts to clarify the
+meaning of the plain text as it relates to the relevant con-
+duct: carrying a firearm onto private property without ex -
+press consent. History, accordin g to the majority, is “out of
+place at Bruen’s first step.”  Ante, at 16. Instead, the ma-
+jority seeks to confine history to Bruen’s second step—when
+the government must identify a history and tradition that
+relevantly limits the scope of the Second Amendment right.
+Ante, at 7–8; see 597 U. S., at 19.  This shift is surprising,
+not only as a matter of precedent but also in light of the
+majority’s chosen methodology.
+——————
+6 This is not abnormal.  When federa l constitutional law is applied to
+the States, there are times when choices about state law may cause it to
+appear that “constitutional protections . . . vary based on how each State
+has chosen to” legislate. Lange v. California, 594 U. S. 295, 332 (2021)
+(ROBERTS, C. J., joined by A LITO, J., concurring in judgment) (emphasis
+added).  But in such circumstances, what differs is the application; the
+meaning of the constitutional provision itself does not vary by location.
+See, e.g., id., at 303–308, 314 (defining the scope of an exception to the
+Fourth Amendment’s warrant requirement).
+
+First of all, step one of Bruen is supposed to be an inter-
+pretive exercise focused on the text of the Constitution. 597
+U. S., at 17.  As such, our cases require that history play a
+role. True, Bruen holds for step-one purposes that “when
+the Second Amendment’s plain text covers an individual’s
+conduct, the Constitution presumptively protects that con-
+duct.” Ibid. But its analysis demonstrates that “plain text”
+means text supported by historical understanding.
+Specifically, Bruen relied heavily on Heller, which “de-
+mand[ed] a test rooted in the Second Amendment’s text, as
+informed by history .” 597 U. S., at 19 (emphasis added). 7
+According to Bruen, Heller had “relied on text and history”
+for “defining the character of the right . . . , suggesting the
+outer limits of the right, [and] assessing the constitutional-
+ity of a particular regulation.” Bruen, 597 U. S., at 22 (em-
+phasis added). This characterization of Heller  made sense,
+as the main point of Heller ’s analysis was to explain that
+the text of the Second Amendment codified a pre-existing
+right. 554 U. S., at 592.  History, then, was necessary for
+interpreting the text.
+Bruen then derived its first step from the “test . . . set
+forth in Heller.” 597 U. S., at 26. Heller indicated that it is
+appropriate to consider history in ascertaining the scope of
+the Second Amendment right—what Bruen later adopted
+as step one. 554 U. S., at 592.  And step one is supposed to
+have a function: It operates as a check to make sure that
+——————
+7 Bruen’s many citations to Heller support this reading. When Heller
+“turn[ed] first to the meaning of the Second Amendment,” 554 U. S., at
+576, it looked to history.  See Bruen, 597 U. S., at 20 (“In Heller, we began
+with a ‘textual analysis’ focused on the ‘normal and ordinary’ meaning of
+the Second Amendment’s language,” and, “[f]rom there, we assessed
+whether our initial conclusion was ‘confirmed by th e historical back-
+ground of the Second Amendment’ ” (quoting Heller, 554 U. S., at 576,
+578, 592)).  History mattered for interpreting the plain text of the Second
+Amendment because “ ‘it has always been widely understood that the
+Second Amendment . . . codified a pre-existing right.’ ” Bruen, 597 U. S.,
+at 20 (quoting Heller, 554 U. S., at 592).
+
+15  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+Second Amendment challengers demonstrate that the
+Amendment actually implicates their desired conduct.
+Bruen, 597 U. S., at 32 (analyzing whether the “plain text
+of the Second Amendment protects [the] proposed course of
+conduct”).  In so doing, Bruen’s first step requires “defining
+the character of the right,” which, again, Heller instructs
+involves consideration of history.  Bruen, 597 U. S., at 22.
+ Although Bruen did not conduct a historical analysis it-
+self, that was because Bruen’s step-one “plain text” deter-
+mination was obvious after Heller. In other words, the in-
+terpretive question the Bruen Court was asked to answer
+required no interpretation of the text of the Amendment be-
+yond what Heller had done.  597 U. S., at 32.  Heller had
+already reviewed the historical  record and had essentially
+concluded that the proposed course of conduct at issue in
+Bruen—“carrying handguns publicly for self-defense”—was
+covered by the text of the Second Amendment.  Bruen, 597
+U. S., at 32 (citing Heller, 554 U. S., at 592).  Indeed, the
+parties in Bruen did not dispute this point.  597 U. S., at 33.
+Here, the parties do not agree about the meaning of the
+Second Amendment, nor have our past cases established
+the meaning of the Second Amendment applicable to peti-
+tioners’ proposed conduct—namely, “carrying firearms on
+private property open to the public without first getting ex-
+press permission from the proprietor.” Brief for Petitioners
+24. So today’s step-one question is whether the Second
+Amendment protects armed ca rry onto private property
+open to the public without express consent. And that in-
+quiry demands additional interpretation of the pre-existing
+limits baked into the Second Amendment.  See Heller, 554
+U. S., at 576–578, 592–595.8
+——————
+8 JUSTICE BARRETT thinks otherwise. She asse rts that the only role of
+history at step one is to “elucidat[e] how contemporaries understood the
+text—for example, the meanin g of the phrase ‘bear Arms.’ ”  Ante,  at 2
+(concurring opinion) (quoting United States  v. Rahimi , 602 U. S. 680,
+
+ Thus, under Bruen and Heller , the Court must consult
+the historical record to determine whether the plain text of
+the Second Amendment was originally understood to guar-
+antee armed carry onto private property with presumed im-
+plied consent as the default, impervious to state regulation
+altering the form of that consent— i.e., the constitutional
+right petitioners claim.  For the reasons I have already ex-
+plained in Part II–B, supra, history clearly demonstrates
+that the Second Amendment has never been understood to
+protect such conduct.
+The Court’s sudden aversion to consulting history to in -
+form the scope of the Second Amendment right at Bruen’s
+step one is strange, to say the least.  Several Members of
+the majority have elsewhere op ined that interpreting the
+Second Amendment requires understanding the original
+——————
+738–739 (2024) (BARRETT, J., concurring)). And she insists that my rea-
+soning both misunderstands the Bruen inquiry and would lead to the
+disruption of other constitutional rights.  Ante, at 1–4 (BARRETT, J., con-
+curring).  But this Court has said repeatedly that the Second Amend-
+ment in particular enshrined a pre-existing right. Bruen, 597 U. S., at
+20 (citing Heller, 554 U. S., at 592); see also Rahimi, 602 U. S., at 737
+(BARRETT, J., concurring).  So, understanding any pre-existing limits on
+that right as codified by the Amendment’s text is an interpretive inquiry.
+Cf. L. Solum, Originalism and Cons titutional Construction, 82 Ford.
+L. Rev. 453, 457 (2013) (noting the distinction in originalist theory be-
+tween interpreting the words of the Constitution and construing those
+words to decide a legal question).
+Our past cases do not answer the question of how the right to exclude—
+which the Framers were aware of—interacted with the Second Amend-
+ment’s pre-existing right to carry.  History is needed to “elucidat[e]”
+(ante, at 2 (BARRETT, J., concurring) (internal quotation marks omitted))
+whether the Second Amendment protects the ability to presume implied
+consent to carry firearms onto private property.  Bruen’s second step, by
+contrast, uses history to address a different question: whether, if the
+modern regulation does impinge up on the constitutionally protected
+right to carry firearms, that challenged law “is consistent with the Na -
+tion’s historical tradition of firearm regulation.”  597 U. S., at 24.
+
+17  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+meaning of its text. 9  Yet the majority’s newfound under-
+standing of the first step of Bruen obliterates any need for
+reference back to original meaning.  All that step one now
+requires is a 21st-century judge to read the text of the Sec-
+ond Amendment and ask herself what she thinks the words
+mean. Ante, at 13–14. If she decides that the words cover
+the conduct before her (perhaps by conjuring up lengthy hy-
+potheticals chronicling imagined indignities, e.g., ante, at
+14–16), then the conduct is presumptively protected by the
+Second Amendment. Forget about “keep[ing] judges in
+their proper lane” by “[d]iscerning . . . the original meaning
+of the Constitution.” Rahimi, 602 U. S., at 711 (G ORSUCH,
+J., concurring).  Judges are now free to insert any meaning
+they desire into the text of the Second Amendment and then
+demand the government provide analogues to fit that inter-
+pretation. In light of the meth odological choice to rely on
+originalism, however, it should be insufficient to simply
+——————
+9 See Rahimi, 602 U. S., at 737 (BARRETT, J., concurring) (“Because the
+Court has taken an originalist approach to the Second Amendment, it is
+worth pausing to identify the basic pr emises of originalism.  The theory
+is built on two core principles: that the meaning of constitutional text is
+fixed at the time of its ratification  and that the disc overable historical
+meaning has legal significance and is authoritative in most circum-
+stances” (internal quotation marks and alteration omitted)); id., at 716
+(KAVANAUGH, J., concurring) (“Read literally , those Amendments might
+seem to grant absolute protection, meaning that the government could
+never regulate speech or guns in any way.  But American law has long
+recognized, as a matter of original understanding and original meaning,
+that constitutional rights generally come with exceptions”); id., at 711
+(GORSUCH, J., concurring) (“Discerning what the original meaning of the
+Constitution requires in this or th at case may sometimes be difficult.
+Asking that question, however, at least keeps judges in their proper lane,
+seeking to honor the supreme law the people have ordained rather than
+substituting our will for theirs”); cf. McDonald v. Chicago, 561 U. S. 742,
+828 (2010) (THOMAS, J., concurring in part and concurring in judgment)
+(“When interpreting constitutional te xt, the goal is to discern the most
+likely public understanding of a particular provision at the time it was
+adopted”).
+
+point to the text and say that the Second Amendment co-
+vers any firearm-related conduct.  Ante, at 13–16.10
+Worse, the majority’s new methodology is a one-way
+ratchet: It inevitably works only to the benefit of armed
+carry by removing any real bur den of proof on gun owners
+at step one.  The majority simply equates the ability to carry
+a gun with the  right  to carry anywhere and everywhere.
+Ante, at 14. Because of that, it then assumes that any im-
+pediment to carrying qualifies as a burden on the right.
+Ante, at 14, 16. The upshot of the majority’s view of Bruen’s
+first step is thus that any law that regulates the carrying of
+firearms is presumptively unconstitutional.  But under this
+Court’s precedents, assessing whether conduct falls within
+the right protected by the Second Amendment requires
+more than breezily asserting that the restricted conduct in-
+volves carrying a firearm.
+Ultimately, the majority spills much ink arguing that the
+Bruen test is “disciplined” but, conveniently, “not mechani-
+cal.” Ante, at 8. As it turns out, “not mechanical” is a gross
+understatement. Bruen becomes boundless once the major-
+ity abandons its chosen methodology, and the Court ends
+up with a more protective Second Amendment than the
+Framers understood themselves to be adopting.  If
+——————
+10 This is not to say that more originalism is the antidote to an uncon-
+strained Judiciary.  I am doubtful that originalism can be done right in
+any event because it is too easy for judges to selectively oversimplify the
+past, either when choosing examples or when drawing inferences from
+the historical record.  Indeed, a “flawed” “historical account” is what
+started the doctrinal mess we find ourselves in today. See  McDonald,
+561 U. S., at 914 (Breyer, J., dissenting) (suggesting that Heller was
+wrongly decided in part based on poorly conceived historical analysis).
+The plot now thickens, for even selectivity when reviewing the historical
+record cannot get the majority to its desired result at step one. So the
+majority jettisons history here, confining its use to step two and freeing
+courts from the constraints that even an oversimplified understanding of
+the history might provide when interp reting the “plain text” of the Sec-
+ond Amendment.
+
+19  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+originalist principles and our Second Amendment case law
+were consistently applied, ho wever, there would be little
+doubt that Hawaii prevails at step one. The Second Amend-
+ment’s plain text, informed by history, simply does not pro-
+tect a right to go armed onto private property without the
+property owner’s express consent.11
+III
+Even if the majority were correct about how step one
+cashes out, Hawaii has carried the step-two burden of show-
+ing that its regulation is consistent with this Nation’s his-
+torical tradition of firearm regulation.  Bruen, 597 U. S., at
+24. Bruen’s second step requires courts to “ascertain
+whether the new law is ‘relevantly similar’ to laws that our
+tradition is understood to permit.” Rahimi, 602 U. S., at
+692 (quoting Bruen, 597 U. S., at 29).  “Why and how the
+regulation burdens the right are central to this inquiry.”
+Rahimi, 602 U. S., at 692.  There is no requirement that a
+State produce a “‘dead ringer’” or a “‘historical twin.’”  Ibid.
+(quoting Bruen, 597 U. S., at 30).  Instead, “‘the appropriate
+analysis involves considering whether the challenged regu-
+lation is consistent with the principles that underpin our
+regulatory tradition.’ ”  United States v. Hemani, 608 U. S.
+___, ___ (2026) (slip op., at 4) (quoting Rahimi, 602 U. S., at
+692; emphasis added).
+The analogues cited by Hawaii clearly establish that leg-
+islatures historically required affirmative consent for
+——————
+11 The majority maintains that this  framing is incorrect “because
+States may not adopt property-law rules that violate constitutional
+rights.” Ante, at 18, n. 13. I agree, of course, that States cannot alter
+constitutional rights.  But today’s dispute is not a matter of Hawaii al-
+tering the Constitution.  Rather, the scope of th e right to carry per the
+Second Amendment is and always has been limited by property interests
+(the right to exclude).  Heller was crystal clear that the Second Amend-
+ment adopted a pre-existing right, 554 U. S., at 592, and that right was
+limited by a similarly pre-existing, well-established, and currently ac-
+cepted property right—not the other way around.
+
+carrying a firearm onto private property—the same “how”
+as §134–9.5.  And they did so to protect property owners ’
+interests in response to concerns related to unauthorized
+armed entry—the same “why” as §134–9.5.
+A
+Hawaii cites a combination of founding-era and
+Reconstruction-era laws. From those analogues, a principle
+plainly emerges: States routinely required affirmative con-
+sent for armed carry onto private property to vindicate the
+rights of property owners, including the right to exclude,
+and to prevent real-world harms arising from unauthorized
+armed carry.
+To start, the “how” maps on perfectly to Hawaii’s law: Ha-
+waii’s historical analogues op erated by requiring those
+wishing to carry a gun onto private property to get express
+consent from the owner. For example, a 1771 New Jersey
+law provided that a person could not “carry any gun on any
+lands not his own, and for which the owner pays taxes, or is
+in his lawful possession, unless he  hath license or permis -
+sion in writing from the owner or owners , or legal posses-
+sor.” 1771 N. J. Laws 26 (emphasis added).  And New Jer-
+sey was not alone in requiring express consent: Multiple
+other States likewise required affirmative consent before
+visitors could carry firearms onto the private property of
+another, both at the time of the founding and during Recon-
+struction. See, e.g., 1721 Pa. Acts, §3, at 255 (requiring “li-
+cense or permission from the owner” to “carry any gun or
+hunt on the improved or inclosed lands of any plantation
+other than his own”); Act of Dec. 20, 1763, ch. 1233, §1, in 1
+Laws of New-York, from the Year 1691, to 1773 inclusive,
+p. 442 (1774) (1763 NY Act) (criminalizing “carry[ing] . . .
+any Musket, Fowling-Piece, or other Fire-Arm whatsoever,
+into, upon, or through” certain enclosed lands “without Li-
+cence in Writing”); 1865 La. Acts, No. 10, §1, at 14 (“[I]t
+shall not be lawful for any person or persons to carry fire-
+
+21  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+arms on the premises or plantations of any citizen, without
+the consent of the owner or proprietor”); 1866 Tex. Laws
+1321, §1 (same); Act of Jan. 15, 1866, 1865 Fla. Acts and
+Resolutions §19, p. 27 (1865 Fla. Acts) (making it unlawful
+“for any person to hunt or range with a gun within the en-
+closed land or premises of another without the permission
+of the owner”).
+Some of those laws did not extend to all private property
+in the State.  But a significant number applied to the type
+of property at issue here: private property open to the pub-
+lic. The New Jersey law, for example, applied to “any lands
+not [the trespasser’s] own, and for which the owner pays
+taxes, or is in his lawful possession.”  1771 N. J. Laws 26.
+That would necessarily have encompassed private property
+open to the public, including the type of locations to which
+Hawaii’s law applies. See De cl. of H. Hartog ¶¶ 32, 34 in
+Koons v. Platkin, No. 1:22–cv–7464 (D NJ, Feb. 13, 2023),
+ECF No. 84 (noting that New Jersey’s law would have ap-
+plied to “all varieties of real property, including the typical
+‘businesses’ of the times”: “taverns, leathersmiths and
+blacksmiths, pharmacies, se ed stores, and merchants who
+bought and sold livestock”).
+Even laws that do not appear on their face to apply to
+private property open to the public are, after some inquiry,
+akin to Hawaii’s regulation.  Pennsylvania’s law applied to
+“the improved or inclosed lands of any plantation other
+than [the trespasser’s] own.”  1721 Pa. Acts, §3, at 255. And
+several Reconstruction-era laws applied to “the premises or
+plantations of any citizen.” 1865 La. Acts, No. 10, §1, at 14;
+see 1866 Tex. Laws 1321, §1; 1865 Fla. Acts, §19, at 27.  As
+Hawaii explains, “improv’d or inclosed Lands” and “prem-
+ises or plantations” exempted undeveloped and unfenced
+land but still included much of the private property open to
+the public. Brief for Respondent 31, 33–35 (internal quota-
+tion marks omitted); see also Brief for Professors of Prop-
+erty Law as Amici Curiae 26.
+
+As for the “why”: These historical analogues were in-
+tended to vindicate property rights and to address a range
+of concerns associated with violations of those rights by
+armed individuals on private land. The laws protected
+property owners’ right to exclude by requiring that visitors
+seek “license or permission” be fore they were permitted to
+carry a gun onto private property.  1771 N. J. Laws 26; 1721
+Pa. Acts, §3, at 255. And even an anti-poaching focus aimed
+to protect property rights by preserving the game on the
+property for the owner or the owner’s licensees.  See Brady,
+78 Stan. L. Rev. Online, at 165.
+Beyond property rights, the broader animating regula-
+tory principles included limiting armed trespass, property
+theft or damage, and gun violence, whether intentional or
+accidental. See 1721 Pa. Acts, §3 (preamble), at 255 (tar-
+geting “divers[e] abuses, damages and inconveniencies” re-
+lated to unauthorized armed carry, i.e., “carrying guns and
+presuming to hunt on other people’s lands” (emphasis
+added)); 1722 N. J. Laws 101 (similar).  For example, the
+colony of New York, which in 1763 passed a law applying to
+“Orchard[s], Garden[s], Corn-Field[s], or other inclosed
+Land whatsoever,” found that the unauthorized carrying of
+firearms was leading to a number of issues, including cre-
+ating “great Danger of the Li ves of his Majesty’s Subjects,
+the Ruin and Destruction of the most valuable Improve-
+ments, the grievous Injury of the Proprietors, and the great
+Discouragement of their Industry.”  1763 NY Act 441–442.
+New York had reason to be concerned.  Historically,
+poaching was dangerous to people and property.  Stray gun-
+shots injured and even killed people.  See Brady, 78 Stan.
+L. Rev. Online, at 167–168.  And poachers were known for
+“strik[ing] back with deadly force when cornered.”  T. Lund,
+American Wildlife Law 30 (1980).  Not only was poaching
+dangerous to bystanders and property owners, but the tac-
+tics used by hunters—including creating fires and leaving
+carcasses to rot—caused property damage.  Id., at 32. In
+
+23  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+the face of such threats and given the difficulty of policing
+poaching, historical legislatur es likely used all the tools
+they could muster to decrease the harms related to poach-
+ing and reasonably decided that property owners should at
+least be on notice before accepting the risk of these harms.
+These historical analogues suffice to demonstrate a tra-
+dition of state regulation within which Hawaii’s law fits
+comfortably.  Like Hawaii’s, these laws required consent for
+armed entry onto private property open to the public.  And
+like Hawaii’s, they did so to protect property owners’ rights
+and to prevent the harms that generally accompanied un-
+authorized armed entry onto private land.
+B
+At step two, the majority again misapprehends this
+Court’s precedents. It observ es that many of the analogues
+discuss unauthorized hunting—and goes no further, essen-
+tially requiring a “dead ringer” for Hawaii’s law. Ante, at
+19–22. But Rahimi demands more effort. The lack of an
+exact match cannot be dispositive; instead, the majority
+should have searched for the animating principles in Ha-
+waii’s analogues. 602 U. S., at 691. 12  The majority’s argu-
+ments for why Hawaii’s analogues are insufficient do not
+follow from Rahimi’s reasoning.
+First, the majority insists that the “why” is different be-
+cause the historical laws targeted poaching. In the
+——————
+12 What do I mean by “principles”? The majority assesses the ana -
+logues at the lowest level of generality: It looks to their texts and deter -
+mines that these laws were targeted at hunting.  But Rahimi instructs
+that the relevant “why” is not necessarily the “why” that is immediately
+apparent on the face of the law; the analogue need not be a “precis[e]
+match.”  602 U. S., at 692. Looking for a principle requires searching for
+whether the analogues were instituted “for similar reasons.”  Ibid.  That
+often requires going up a level of generality to understand the broader
+problem that a legislature chose to attack.  In other words, “ ‘[a]nalogical
+reasoning’ under Bruen demands a wider lens: Historical regulations re-
+veal a principle, not a mold.”  Id., at 740 (BARRETT, J., concurring).
+
+majority’s view, the “obvious aim” of Hawaii’s founding-era
+analogues “was to prevent the distinctive harms and risks
+associated with unauthorized hunting.” Ante, at 21; see
+ante, at 21–22 (noting further that the laws targeted con-
+duct that “entailed the theft of private property” and “the
+firing of guns”).
+But to set the principle of Hawaii’s analogues at “poach -
+ing” is to demand a historical twin insofar as it requires the
+modern legislature to target an identical problem as legis-
+latures in the past.  Such a narrow search results in a “law
+trapped in amber.” Rahimi, 602 U. S., at 691. Seen at the
+correct level of generality, however—i.e., one that does not
+put the modern legislature into a “regulatory straight-
+jacket,” Bruen, 597 U. S., at 30—historical laws targeting
+poaching are also appropriately viewed as being aimed at
+protecting the property rights of landowners from the
+harms of unauthorized armed carry on their property. Ha-
+waii’s law does the same.
+The majority is likewise mistaken in maintaining that
+Hawaii’s law is not “relevantly similar” to its proffered an-
+alogues because Hawaii does not restrict conduct that pro -
+duces effects similar to poaching. Ante, at 21–22 (internal
+quotation marks omitted). It asserts—without evidence—
+that this is true because “[o]thers on the premises will not
+even notice a person peacef ully carrying a concealed
+weapon in the manner demanded by Hawaiian law.”  Ante,
+at 22. That is sheer speculation.  It also misses the point.
+The step-two question is not whether the most anodyne ver-
+sion of the conduct that the modern law targets would pro-
+duce the same effects as the harms highlighted in the his -
+torical laws. Rather, we ask whether the analogues and the
+modern law target “ ‘relevantly similar’ ” issues.  Rahimi,
+602 U. S., at 692. Here the answer is clearly yes: Both the
+analogues and §134–9.5 aim to fortify landowners’ right to
+exclude and protect their interests from the effects of unau-
+thorized armed carry on their private property.
+
+25  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+What is more, these historical analogues obviously had
+purposes beyond poaching. For example, New Jersey first
+enacted in 1722, and then repeatedly reenacted, a law that
+banned “trespassing with guns” along with a prohibition on
+“presum[ing] . . . to hunt . . . on any lands not [the tres-
+passer’s] own.” 1771 N. J. Laws 26, 29; 1722 N. J. Laws
+101. In other words, regulating hunting was only one of the
+law’s objectives. Several Reconstruction-era laws more
+generally “prohibit[ed] the ca rrying of fire-arms,” without
+any mention of game. 1865 La. Acts, No. 10; see also 1866
+Tex. Laws 1321, §1 (same).  And even for those laws that
+did not so clearly apply beyond hunting, the “why” was nev-
+ertheless broader than harms directly related to poaching.
+Such laws barred unauthorize d possession on “enclosed
+land or premises of another” (which, as I note above, in-
+cluded businesses), so their “why” encompassed more than
+stopping the taking of game or destruction of property.  See,
+e.g., 1865 Fla. Acts, §19, at 27.  It would be odd for a statute
+that sought only to prevent poaching to include businesses.
+The majority also rejects Hawaii’s analogues based on the
+contention that the “coverage” of the historical laws “dif-
+fered sharply from that of th e Hawaii law now before us.”
+Ante, at 21. The analogues, the majority says, applied only
+“where game could be found.”  Ibid.   But as I have already
+explained, several of the historical laws applied to “prem -
+ises,” so they covered more than merely those places where
+wild animals roamed.
+In the end, the majority simply refuses to acknowledge
+that the principles underlying these historical regulations
+are indistinguishable from the principles underlying Ha-
+waii’s. But there is a long historical tradition of States re-
+quiring those wishing to carry firearms onto private prop -
+erty to seek the express permission of the property owner
+and doing so for similar reasons as Hawaii. And if judges
+may nonetheless reject this le ngthy track record because
+the risks from unauthorized carry were primarily related to
+
+hunting in the 18th and 19th centuries—as the majority
+does—no one can seriously claim that the Bruen test actu-
+ally constrains judicial discretion.
+To the contrary, the majority’s analysis demonstrates
+that, under Bruen, a judge can always choose to invalidate
+a modern regulation, so long as the judge points to some
+distinction between the modern regulation and the histori-
+cal examples (really, any difference at all, no matter how
+small or irrelevant).  Judges still have plenty of discretion
+left to exercise. And the unfortunate reality is that, regard-
+less of the historical record, the will of the State’s legisla-
+ture, or the needs of the local community, Bruen’s historical
+inquiry almost always “cabins” judicial discretion in only
+one direction: stymieing legislative efforts to restrict guns.13
+C
+Finally, a note regarding the majority’s step-two discus-
+sion of Hawaii’s effort to use a Black Code (namely, Louisi-
+ana’s 1865 law) as a historical analogue. The majority says
+——————
+13 Like the majority, J USTICE BARRETT concludes that Hawaii’s law is
+not “relevantly similar” to the hist orical analogues Hawaii proffers.
+Ante, at 4–13 (concurring opinion). But, as my discussion shows,
+whether historical laws are “relevantly similar” to modern ones depends
+on how the laws are characterized—which the Court controls.  For exam-
+ple, JUSTICE BARRETT ignores what Hawaii says about the “why” of its
+own law: that its aim was to “respec[t] the right of private individuals
+and entities to choose for themselves whether to allow or restrict the car-
+rying of firearms on their property.”  2023 Haw. Sess. Laws 114.  Instead,
+she assigns to Hawaii a different “why.” Ante, at 4–5, 9 (asserting that
+Hawaii enacted its law to keep people from carrying guns in spaces open
+to the public).  J USTICE BARRETT further reasons that that “why” is not
+sufficiently similar to the historical analogues because the founding-era
+laws had another purpose.  Ante, at 8–9 (maintaining that the historical
+laws were aimed at preventing the “particular abuse of firearms” related
+to poaching in “specific places”).  But, of course, if Bruen allows reviewing
+courts to reject the “why” proffered by the modern legislature (as it ap -
+parently does), then its test becomes a shell game.  Courts can always
+find a different way to frame the founding-era laws—or the modern one—
+so that the contested regulation can never meet the mark.
+
+27  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+that the idea of such a law contributing to “the original un-
+derstanding of the right to keep and bear arms cannot be
+taken seriously” “[u]nless we put history entirely out of our
+minds.” Ante, at 24.  By “history” it presumably means
+America’s long and tortured past of racial discrimination
+and violence. But this reasoning provides yet another ex-
+ample of the majority straying from its supposedly disci -
+plined test.
+The Black Codes were a series  of “harsh and restrictive”
+laws that Southern legislatures enacted in the wake of the
+Civil War to control former sl aves.  D. Nieman, To Set the
+Law in Motion: The Freedmen’s Bureau and the Legal
+Rights of Blacks, 1865–1868, p. 72 (1979).  These laws were
+a “legal means of subordinating” the newly freed Black pop-
+ulation. E. Foner, Reconstruction: America’s Unfinished
+Revolution, 1863–1877, p. 198 (1988).  The Black Codes im-
+pacted nearly every aspect of life for freedmen in the South
+“[v]irtually from the moment the Civil War ended.”  Id., at
+198–203. As relevant here, this included whether freedmen
+could carry firearms.  Id., at 203–204. Indeed, as my col-
+leagues have previously explained, laws that restricted the
+ownership and possession of guns as part of the Black
+Codes made life dangerous for millions of Black people in
+the South for over a century. See McDonald v. Chicago, 561
+U. S. 742, 846–850 (2010) (T HOMAS, J., concurring) (dis -
+cussing the impact of the Black Codes on freed Blacks); see
+also id., at 770–778.
+Given the Court’s commitment to elevating the history
+and tradition of firearm use and regulation when deciding
+Second Amendment challenges, the idea that courts must
+categorically exclude historical laws that restricted Black
+people from possessing firearms (not unlike the categorical
+exclusion of the people who were historically bound by those
+laws) warrants further scrutiny.
+As I see it, there are two potential reasons to use—or ex-
+clude—the Black Codes in Bruen’s history-and-tradition
+
+test. First, it could be that  the Black Codes regulated guns
+consistent with the Second Amendment but States chose to
+exercise their regulatory authority in a discriminatory fash-
+ion. See I. Bartrum, Structural Originalism: A Second
+Amendment Case Study, 27 U. Pa. J. Const. L. 846, 902–
+907 (2025) (explaining that the Black Codes were under-
+stood to be a discriminatory application of permissible reg-
+ulations on the right to arme d self-defense). Under this
+framing, those gun regulations are not examples of an un-
+constitutional abridgment of the right to bear arms, but ra-
+ther exemplify a violation of a different constitutional
+Amendment—the Fourteenth. Alternatively, it could be
+that States did not have the constitutional authority under
+the Second Amendment to enact such regulations but did
+so anyway for discriminatory reasons.  Under that framing,
+not only did the States violate the Constitution by acting on
+the basis of race; they also violated the right to bear arms.
+Only the second set of circumstances justifies removing
+these laws (and the experiences of those they targeted) from
+the body of evidence that determines the historical reach of
+the Second Amendment under Bruen.14  So, it might well be
+that the Black Codes are invalid inputs for Bruen’s test, but
+only if they violated the Second Amendment—which may
+or may not be the case.15
+——————
+14 Though the majority eschews this distinction here, in other contexts,
+certain of my colleagues have engage d in a similar analysis, concluding
+that discriminatory laws might still bear on the Court’s considerations
+of constitutional questions. See, e.g., Ramos v. Louisiana, 590 U. S. 83,
+141–142 (2020) (A LITO, J., dissenting) (“If Louisiana and Oregon origi-
+nally adopted their laws allowing non-unanimous verdicts for . . . rea -
+sons” related to “[r]acism, white su premacy, [and] the Ku Klux Klan,”
+“that is deplorable, but what does that have to do with the broad consti-
+tutional question before us? The answer is: nothing”).
+15 This type of nuanced analysis is important, for it values the histori-
+cal experiences of Black people as ta rgets of invidious race discrimina -
+tion and ensures that they are not (here again) excluded from the
+
+29  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+The Court bypasses any meaningful analysis of whether
+Louisiana’s law comported with, or abridged, historical un-
+derstandings of the right to carry (as opposed to the right
+to carry equally ). Instead, it cuts Black Codes out of this
+country’s tradition categorically  and completely, as if the
+majority does not see, or understand, the implications of
+making this excision. And the majority’s exclusion operates
+indiscriminately and without clear definition. If the point
+of taking the Black Codes out of the equation is that they
+are not a valid part of our Nation’s historical tradition, then
+the Court must provide guidelines on how to determine the
+type of history that can be considered to ensure that this
+inquiry does not become a free pass to quick invalidation.16
+Here, Hawaii has presented evidence that, even though
+the relevant gun restriction was a Black Code, it violated
+the Fourteenth Amendment but not the Second—evidence
+the majority ignores. For example, when General Sickles
+announced the end of South Carolina’s laws prohibiting gun
+possession by Black people in 1866, he declared: “The con-
+stitutional rights of all loyal and well-disposed inhabitants
+to bear arms will not be infringed.”  D. Sickles, General
+——————
+constitutional baseline that Bruen purports to draw.  Cf. R. Siegel, How
+“History and Tradition” Perpetuates Inequality: Dobbs on Abortion’s
+Nineteenth-Century Criminalization, 60 Houston L. Rev. 901, 906 (2023)
+(noting that looking solely to history and tradition “elevate[s] the signif-
+icance of laws adopted at a time when women and people of color were
+judged unfit to participate and treated accordingly by constitutional law,
+common law, and positive law”).
+16 By this I mean that the majority must explain how one is to go about
+accurately identifying such a verboten law.  For facially neutral Black
+Codes, should courts consult legislative history to understand what the
+legislature was trying to do?  How much racial motivation is too much?
+What about laws that were facially neutral and passed for seemingly
+neutral reasons, but were enforced discriminatorily?  And finally, does
+only racial animus matter? What do we do about other types of animus?
+For example, consider the use of stat utes that were prejudiced against
+Catholics. See Kanter v. Barr, 919 F. 3d 437, 457 (CA7 2019) (Barrett,
+J., dissenting).  Does it offend history to use those?
+
+Order No. 1 in A Handbook of Politics for 1868, p. 37 (E.
+McPherson ed. 1868). But he did not consider laws requir-
+ing express consent for armed entry—even those enacted as
+part of the Black Codes—among the laws that had offended
+the Second Amendment.  Rather, in his view, no person (of
+any race) had the right to carry a firearm onto private land
+without consent.  Ibid .  In this same way, it appears that
+the Louisiana analogue on which Hawaii relies was uncon-
+stitutional, but perhaps not for the reason that would allow
+the majority to ignore it as evidence of the historical limits
+of the Second Amendment.17
+Confronting the origins of these laws is certainly uncom-
+fortable. The Black Codes were ugly. And racist.  And de-
+plorable.  Even now, long after their abolishment and the
+end of the Jim Crow era, Black Americans are still saddled
+with the ramifications of centuries of legally authorized
+——————
+17 JUSTICE BARRETT’s helpful recounting of the historical circumstances
+surrounding Louisiana’s law proves the point.  Louisiana’s law and Ha-
+waii’s other analogues have the same basic “why” insofar as they were
+all enacted to protect property rights and to prevent the harms that can
+follow from unauthorized armed entry,  including harms from poaching.
+These laws were also facially identical.
+As J USTICE BARRETT sees it, the difference between Louisiana’s law
+and those of the other states was Louisiana’s discriminatory intent: Lou-
+isiana enacted its anti-poaching law with the illicit motive of keeping
+freedmen from being able to hunt and thereby sustain themselves.  Ante,
+at 11–12, 13, n. 10 (concurring opinion).  But even if that makes Louisi-
+ana’s “why” relevantly different, this  seems to be a Fourteenth Amend-
+ment problem, not a Second Amendment one.  Louisiana’s historical con-
+sent-to-carry law was identical to the consent-to-carry laws of other
+States, and all were enacted to pr event poaching and other related
+harms.  That Louisiana’s Legislatur e had a discriminatory intent when
+it chose to subject only former slaves to this restriction should be neither
+here nor there for Bruen purposes.  There is no clear Second Amendment-
+based explanation for why Louisiana’s decision to exercise the same
+power other states had used for the same reason—i.e., to prevent poach-
+ing and the effects of poaching, includ ing theft of game (admittedly in a
+racially discriminatory manner on Louisiana’s part)—does not count
+when assessing what the Second Amendment permits under Bruen.
+
+31  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+exclusion, notwithstanding the much-heralded arrival of
+“colorblindness.” See Students for Fair Admissions, Inc.  v.
+President and Fellows of Harvard College , 600 U. S. 181,
+409–411 (2023) (JACKSON, J., dissenting).
+But the characteristics that make the Black Codes detest-
+able do not automatically render these laws irrelevant to a
+fair assessment of the right to carry firearms, especially
+given how the Court assesses that right.  The Court has de-
+cided to use history as the metric, and these laws are part
+of our Nation’s history. So the Court must make an actual
+assessment of the relevance of what the historical record
+reveals. To be sure, it woul d certainly be most convenient
+for all concerned to skip past the nuance and ignore these
+painful realities.  But choices have consequences: Where
+the Court has opted to tether its Second Amendment
+analysis to facts about America’s past, it must contend with
+our Nation’s entire history, warts and all.
+To do otherwise calls into question the legitimacy of the
+Court’s endeavor to rely solely  on historical guidance. It
+deepens race-based wounds, by classifying the experiences
+of those who have been historically excluded as categori-
+cally irrelevant.  It empowers the Judiciary, by allowing the
+Court to cavalierly pick and choose which parts of the his-
+torical record count. And it ex poses flaws in the test this
+Court has crafted—demonstrating, once again, that the dis-
+cretion to cull the history lies with the Court and seems to
+operate in service of a single  goal: preventing the govern-
+ment from responding to issues arising from the possession
+of firearms.
+To be clear, I am not suggesting that courts must accept
+Black Codes as historical analogues.  My point is merely
+that the Court cannot have it both ways.  Either history
+does matter, and if so, all potentially relevant historical ex-
+periences must be thoroughly examined to determine
+whether they reflect our Nation ’s history and tradition of
+firearm regulation. Or, it does not, and the Court should
+
+just admit that the test it has created is boundless, allowing
+it to accept or excise any historical analogue it chooses for
+any reason it prefers.
+* * *
+In my view, our adoption of the Bruen test was a grave
+mistake. See, e.g., Rahimi, 602 U. S., at 740–747 (JACKSON,
+J., concurring); Hemani, 608 U. S., at ___ (same).  But to the
+extent the Court has embraced this test, surely it cannot
+shirk responsibility for adhering to Bruen’s tenets, what-
+ever the result.
+Today, the majority fails to faithfully apply its own juris-
+prudence. It alters the Bruen test and overrides Hawaii’s
+considered—and in my view, constitutionally sound—judg-
+ment that the property interests of its residents should be
+protected against unauthorized armed entry.  For the rea-
+sons I have explained, Hawaii’s law is an exercise of state
+regulatory power that has historically sounded in property
+law, not the Second Amendment. And it is also entirely
+consistent with a lengthy historical tradition of States en-
+acting similar restrictions for exactly this reason.
+Yet, the majority concludes that Bruen requires striking
+down Hawaii’s law as unconstitutional.  From this day for-
+ward, it will be difficult to view Bruen as anything more
+than a fig leaf. While purporting to constrain judges, the
+majority has unmasked the dis cretionary choices that lie
+beneath the Court’s decisions regarding which analogues
+are “vastly different,” ante , at 19, and whose historical ex-
+periences are worthy of inclusion.  Of course, the real irony
+is that the Court’s effort to re in in judicial discretion has
+resulted in an arbitrary rule that unleashes judges to
+thwart gun regulation at every turn.

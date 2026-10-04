@@ -1,0 +1,111 @@
+Loper Bright Enterprises v. Raimondo — No. 22-451 — October Term 2023 — decided 6/28/24 — Thomas, J., concurring
+Citation: 603 U.S. 369
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r54_o7jp.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+attention to the judgment of the Executive Branch may help
+inform that inquiry. And when a particular statute dele-
+gates authority to an agency consistent with constitutional
+limits, courts must respect the delegation, while ensuring
+that the agency acts within it. But courts need not and
+under the APA may not defer to an agency interpretation of
+the law simply because a statute is ambiguous.
+Because the D. C. and First Circuits relied on Chevron in
+deciding whether to uphold the Rule, their judgments are
+vacated, and the cases are remanded for further proceedings
+consistent with this opinion.
+It is so ordered.
+Justice Thomas, concurring.
+I join the Court's opinion in full because it correctly con-
+cludes that Chevron U. S. A. Inc. v. Natural Resources De-
+fense Council, Inc., 467 U. S. 837 (1984), must finally be over-
+ruled. Under Chevron, a judge was required to adopt
+an agency's interpretation of an ambiguous statute, so long
+as the agency had a “permissible construction of the statute.”
+See id., at 843. As the Court explains, that deference does
+not comport with the Administrative Procedure Act, which
+requires judges to decide “all relevant questions of law” and
+“interpret constitutional and statutory provisions” when
+reviewing an agency action. 5 U. S. C. § 706; see also
+ante, at 396–401; Baldwin v. United States, 589 U. S. 1237,
+1240–1241 (2020) ( Thomas, J. , dissenting from denial of
+certiorari).
+I write separately to underscore a more fundamental prob-
+lem: Chevron deference also violates our Constitution's sepa-
+ration of powers, as I have previously explained at length.
+See Baldwin, 589 U. S., at 1239–1240 (dissenting opinion);
+Michigan v. EPA, 576 U. S. 743, 761–763 (2015) (concurring
+opinion); see also Perez v. Mortgage Bankers Assn., 575 U. S.
+92, 115–118 (2015) (opinion concurring in judgment). And, I
+agree with Justice Gorsuch that we should not overlook
+Chevron's constitutional defects in overruling it.* Post, at
+429–435 (concurring opinion). To provide “practical and real
+protections for individual liberty,” the Framers drafted a
+Constitution that divides the legislative, executive, and judi-
+cial powers between three branches of Government. Perez,
+575 U. S., at 118 (opinion of Thomas, J.). Chevron deference
+compromises this separation of powers in two ways. It
+curbs the judicial power afforded to courts, and simultane-
+ously expands agencies' executive power beyond constitu-
+tional limits.
+Chevron compels judges to abdicate their Article III “ju-
+dicial Power.” § 1. “[T]he judicial power, as originally
+understood, requires a court to exercise its independent judg-
+ment in interpreting and expounding upon the laws.” Perez,
+575 U. S., at 119 (opinion of Thomas, J.); accord, post, at 432–
+433 (opinion of Gorsuch, J.). The Framers understood that
+“legal texts . . . often contain ambiguities,” and that the judicial
+power included “the power to resolve these ambiguities over
+time.” Perez, 575 U. S., at 119 (opinion of Thomas, J.); accord,
+ante, at 384–387. But, under Chevron, a judge must accept an
+agency's interpretation of an ambiguous law, even if he thinks
+another interpretation is correct. Ante, at 397. Chevron
+deference thus prevents judges from exercising their inde-
+pendent judgment to resolve ambiguities. Baldwin, 589
+U. S., at 1239 (opinion of Thomas, J.); see also Michigan, 576
+U. S., at 761 (opinion of Thomas, J.); see also Perez, 575 U. S.,
+at 123 (opinion of Thomas, J.). By tying a judge's hands,
+Chevron prevents the Judiciary from serving as a constitu-
+tional check on the Executive. It allows “the Executive . . .
+to dictate the outcome of cases through erroneous interpre-
+tations.” Baldwin, 589 U. S., at 1240 (opinion of Thomas,
+J.); Michigan, 576 U. S., at 763, n. 1 (opinion of Thomas, J.);
+*There is much to be commended in Justice Gorsuch's careful consid-
+eration from first principles of the weight we should afford to our prece-
+dent. I agree with the lion's share of his concurrence. See generally
+Gamble v. United States, 587 U. S. 678, 710 (2019) (Thomas, J., concurring).
+see also Perez, 575 U. S., at 124 (opinion of Thomas, J.). Be-
+cause the judicial power requires judges to exercise their
+independent judgment, the deference that Chevron requires
+contravenes Article III's mandate.
+Chevron deference also permits the Executive Branch to
+exercise powers not given to it. “When the Government is
+called upon to perform a function that requires an exercise
+of legislative, executive, or judicial power, only the vested
+recipient of that power can perform it.” Department of
+Transportation v. Association of American Railroads, 575
+U. S. 43, 68 (2015) (Thomas, J., concurring in judgment).
+Because the Constitution gives the Executive Branch only
+“[t]he executive Power,” executive agencies may constitu-
+tionally exercise only that power. Art. II, § 1, cl. 1. But,
+Chevron gives agencies license to exercise judicial power.
+By allowing agencies to definitively interpret laws so long
+as they are ambiguous, Chevron “transfer[s]” the Judiciary's
+“interpretive judgment to the agency.” Perez, 575 U. S., at
+124 (opinion of Thomas, J.); see also Baldwin, 589 U. S., at
+1240 (opinion of Thomas, J.); Michigan, 576 U. S., at
+761–762 (opinion of Thomas, J.); post, at 18 (Gorsuch, J.,
+concurring).
+Chevron deference “cannot be salvaged” by recasting it as
+deference to an agency's “formulation of policy.” Baldwin,
+589 U. S., at 1239 (opinion of Thomas, J.) (internal quotation
+marks omitted). If that were true, Chevron would mean
+that “agencies are unconstitutionally exercising `legislative
+Powers' vested in Congress.” Baldwin, 589 U. S., at 1239
+(opinion of Thomas, J.) (quoting Art. I, § 1). By “giv[ing]
+the force of law to agency pronouncements on matters of
+private conduct as to which Congress did not actually have
+an intent,” Chevron “permit[s] a body other than Congress
+to perform a function that requires an exercise of legislative
+power.” Michigan, 576 U. S., at 762 (opinion of Thomas, J.)
+(internal quotation marks omitted). No matter the gloss
+put on it, Chevron expands agencies' power beyond the

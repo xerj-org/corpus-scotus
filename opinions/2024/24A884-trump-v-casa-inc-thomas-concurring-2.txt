@@ -1,0 +1,148 @@
+Trump v. CASA, Inc. — No. 24A884 — October Term 2024 — decided 6/27/25 — Thomas, J., concurring
+Citation: 606 U.S. 831
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the Executive Order shall not take effect until 30 days after
+the date of this opinion. See Tr. of Oral Arg. 55.
+It is so ordered.
+Justice Thomas, with whom Justice Gorsuch joins,
+concurring.
+The Court today holds that federal courts may not issue
+so-called universal injunctions. I agree and join in full. As
+the Court explains, the Judiciary Act of 1789—the statute
+that “ `authorizes the federal courts to issue equitable reme-
+dies' ”—does not permit universal injunctions. Ante, at 841.
+It authorizes only those remedies traditionally available in
+equity, and there is no historical tradition allowing courts to
+provide “relief that extend[s] beyond the parties.” Ante, at
+841–847. That conclusion is dispositive: As I have pre-
+viously explained, “[i]f district courts have any authority to
+issue universal injunctions,” it must come from some specific
+statutory or constitutional grant. Trump v. Hawaii, 585
+U. S. 667, 713–714 (2018) (concurring opinion). But, the Ju-
+diciary Act is the only real possibility, and serious constitu-
+tional questions would arise even if Congress purported to
+one day allow universal injunctions. See id., at 714, n. 2;
+see also United States v. Texas, 599 U. S. 670, 693–694 (2023)
+(Gorsuch, J., concurring in judgment).
+I write separately to emphasize the majority's guidance
+regarding how courts should tailor remedies specific to the
+parties. Courts must not distort “the rule that injunctive
+relief should be no more burdensome to the defendant than
+necessary to provide complete relief to the plaintiffs.” Cali-
+fano v. Yamasaki, 442 U. S. 682, 702 (1979). Otherwise, they
+risk replicating the problems of universal injunctions under
+the guise of granting complete relief.
+As the Court recognizes, the complete-relief principle op-
+erates as a ceiling: In no circumstance can a court award
+relief beyond that necessary to redress the plaintiffs' inju-
+ries. See ante, at 854 (“Complete relief is not a guarantee—
+it is the maximum a court can provide”). This limitation
+follows from both Article III and traditional equitable prac-
+tice. Because Article III limits courts to resolving specific
+“Cases” and “Controversies,” see U. S. Const., Art. III, § 2,
+it requires that any remedy “be tailored to redress the plain-
+tiff's particular injury.” Gill v. Whitford, 585 U. S. 48, 73
+(2018). And, equitable remedies historically operated on
+a plaintiff-specifc basis. Ante, at 842–844. Accordingly,
+any “remedy must of course be limited to the inadequacy
+that produced the injury in fact that the plaintiff has estab-
+lished.” Lewis v. Casey, 518 U. S. 343, 357 (1996).
+Courts therefore err insofar as they treat complete relief
+as a mandate. Some judges have read our precedents to sug-
+gest that courts should provide plaintiffs whatever remedy is
+necessary to give them complete relief. See, e. g., Mock v.
+Garland, 75 F. 4th 563, 587 (CA5 2023) (“[I]njunctions should
+be crafted to `provide complete relief to the plaintiffs' ”); Z.
+Siddique, Nationwide Injunctions, 117 Colum. L. Rev. 2095,
+2106 (2017) (“[C]ourts . . . tailor their injunctions to provide
+complete relief to the parties—no less and no more”). But,
+that reading misunderstands the complete-relief principle.
+This principle reflects the equitable “rule that courts gen-
+erally `may administer complete relief between the parties.' ”
+Ante, at 851 (emphasis deleted). It is an important “aim of
+the law of remedies . . . to put the plaintiff in her rightful
+position.” S. Bray, Multiple Chancellors: Reforming the Na-
+tional Injunction, 131 Harv. L. Rev. 417, 466 (2017) (Bray).
+But, “to say that a court can award complete relief is not to
+say that it should do so.” Ante, at 853–854. And, in some
+circumstances, a court cannot award complete relief.
+As the Court today affirms, any relief must fall within tra-
+ditional limits on a court's equitable powers. See ante, at
+841–842 (citing Grupo Mexicano de Desarrollo, S. A. v. Alli-
+ance Bond Fund, Inc., 527 U. S. 308, 319 (1999); Payne v. Hook,
+7 Wall. 425, 430 (1869)). Courts must ask whether the relief
+plaintiffs seek “was traditionally accorded by courts of eq-
+uity.” Grupo Mexicano , 527 U. S., at 319. And, they must
+ensure that any injunctions comport with both the complete-
+relief principle and other “principles of equity.” Ante, at
+861. For example, courts may need to weigh considerations
+such as equity's concern “with justice . . . also for the defend-
+ant.” Bray 468; see H. McClintock, Handbook of the Princi-
+ples of Equity 78 (2d ed. 1948). In some cases, traditional
+equitable limits will require courts and plaintiffs to make do
+with less than complete relief.
+This Court's decision in Frothingham v. Mellon, decided
+with Massachusetts v. Mellon, 262 U. S. 447 (1923), exempli-
+fes this constraint. Appellant Frothingham sought to “en-
+join the execution of a federal appropriation act” on the
+grounds that the Act exceeded the Government's authority
+and that its execution would improperly increase her tax
+burden. Id., at 479, 486. On a maximalist view of the
+complete-relief principle, Frothingham would have been
+entitled to a national injunction had her claim been meritori-
+ous. After all, “a prohibition on using her tax money for
+the [statute] would have been wholly ineffectual” in remedy-
+ing the injury caused by unlawful federal spending, given
+“the fungibility of money”: The Government would still have
+been free to execute the statute, so long as it labeled the
+underlying funds as coming from other taxpayers. Bray
+431. A court thus would have needed to enjoin all spending
+under the statute to provide effective relief. But, this Court
+rejected Frothingham's request for such an injunction as be-
+yond “the preventive powers of a court of equity.” 262
+U. S., at 487. Among other reasons, it emphasized that an
+individual taxpayer's “interest in the moneys of the Treas-
+ury” was “comparatively minute and indeterminable,” and
+that the petitioner had not suffered any “direct injury” but
+rather was “suffer[ing] in some indefinite way in common
+with people generally.” Id., at 487–488.*
+*Although courts now treat Frothingham primarily as a case about tax-
+payer standing, its analysis in fact “intertwine[d] concepts of equity, reme-
+dies, and the judicial power.” Bray 430–433; see ante, at 844.
+To be sure, “[w]hat counts as complete relief” can be a
+difficult question. Bray 467. Many plaintiffs argue that
+only sweeping relief can redress their injuries. And, I do
+not dispute that there will be cases requiring an “indivisible
+remedy” that incidentally benefits third parties, Tr. of Oral
+Arg. 14–15, such as “[i]njunctions barring public nuisances,”
+Hawaii, 585 U. S., at 717 (Thomas, J., concurring). But,
+such cases are by far the exception.
+An indivisible remedy is appropriate only when it would
+be “all but impossible” to devise relief that reaches only the
+plaintiffs. Ante, at 852, n. 12. Such impossibility is a high
+bar. For example, the Court today readily dispatches with
+the individual and associational respondents' position that
+they require a universal injunction, notwithstanding their
+argument that a “plaintiff-specifc injunction” would be dif-
+fcult to administer and would subject the associations' mem-
+bers to the burden of having “to identify and disclose to the
+government” their membership. Tr. of Oral Arg. 141–142.
+As the Court recognizes, “prohibiting enforcement of the Ex-
+ecutive Order against the child of an individual pregnant
+plaintiff” is all that is required to “give that plaintiff com-
+plete relief.” Ante, at 852–853. Courts may not use the
+complete-relief principle to revive the universal injunction.
+* * *
+For good reason, the Court today puts an end to the “in-
+creasingly common” practice of federal courts issuing uni-
+versal injunctions. Hawaii, 585 U. S., at 713 (Thomas, J.,
+concurring). The Court also makes clear that the complete-
+relief principle provides a ceiling on federal courts' authority,
+which must be applied alongside other “principles of equity”
+and our holding that universal injunctions are impermissible.
+Ante, at 861. Lower courts should carefully heed this
+Court's guidance and cabin their grants of injunctive relief
+in light of historical equitable limits. If they cannot do so,
+this Court will continue to be “dutybound” to intervene.
+Hawaii, 585 U. S., at 721 (Thomas, J., concurring).

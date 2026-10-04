@@ -1,0 +1,77 @@
+Ramirez v. Collier — No. 21-5592 — October Term 2021 — decided 3/24/22 — Sotomayor, J., concurring
+Citation: 595 U.S. 411
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r18_a86c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+touch, the District Court should therefore enter appropriate
+preliminary relief. The judgment of the United States
+Court of Appeals for the Fifth Circuit is reversed, and the
+case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Sotomayor, concurring.
+The opinion of the Court, which I join in full, explains why
+clear rules governing the presence of spiritual advisors at exe-
+cutions are necessary to ensure that any disputes are resolved
+in a timely fashion before a scheduled execution date. I write
+separately to underscore the interaction between prison off-
+cials' obligations to set such rules and the exhaustion require
+ment of the Prison Litigation Reform Act of 1995 (PLRA).
+Under the PLRA, prison officials and incarcerated individ-
+uals share an obligation to act in good faith in resolving dis-
+putes: Incarcerated individuals must timely raise their
+claims through the prison grievance system, and prison off-
+cials must ensure that the system is a functioning one. To
+that end, the PLRA requires incarcerated individuals to ex-
+haust the prison's administrative grievance process before
+turning to the courts only where that process is actually
+“available.” 42 U. S. C. § 1997e(a). An administrative proc-
+ess is not available if it is not “ `capable of use' to obtain
+`some relief for the action complained of.' ” Ross v. Blake,
+578 U. S. 632, 642 (2016). Availability is a practical determi-
+nation that requires considering both whether the adminis-
+trative system is accessible as designed and whether prison
+administrators and officers ensure meaningful access to it in
+practice. See id., at 643–644.
+A scheduled execution date may impose unique time con-
+straints on grievance procedures, but it does not alter either
+party's responsibilities under the PLRA. Just as incarcer-
+ated individuals still bear the burden of timely raising
+execution-related claims, prisons still must ensure that ad-
+ministrative remedies are available, which may require modi-
+flying procedures to account for the time constraints of a
+scheduled execution as the Court describes, ante, at 435–436.
+Where an administrative process does not facilitate address-
+ing execution-related claims within the timeframe of a sched-
+uled execution, it is likely not an “available” remedy that
+must be exhausted under the PLRA.
+To ensure that administrative remedies are available in
+the execution context, prison officials bear a twofold respon-
+sibility. First, they must ensure that rules clearly and
+timely inform an individual facing execution of any relevant
+protocols, so that the individual in turn may timely raise con-
+cerns. Second, the officials must ensure that the adminis-
+trative process proceeds swiftly enough to permit exhaustion
+with sufficient time for the individual to seek judicial review,
+if necessary, prior to a scheduled execution. Finally, to act
+in good faith means that neither incarcerated individuals nor
+prison officials should unnecessarily wait to act until the end
+of time available to them.
+Because I agree with the Court that Ramirez exhausted
+his administrative remedies, it is unnecessary to address
+whether they qualified as available such that exhaustion was
+actually a prerequisite to suit.* It raises questions, how-
+*The dissent both contends that Ramirez did not exhaust administrative
+remedies and that Ramirez cannot claim that administrative remedies
+were unavailable to him because he fled grievances and received re-
+sponses. Post, at 461–465 (opinion of Thomas, J .). As the dissent re-
+counts at length, however, many prison grievance systems require addi-
+tional steps after filing a complaint and receiving a response in order to
+“exhaust.” Ramirez received a response to his second grievance in early
+July, yet his grievance remained pending in the prison's Step 2 process
+through August despite his pending September execution date. If an ad-
+ministrative system does not permit complete exhaustion of execution-
+related claims in a timely manner before a scheduled execution, it may be
+unavailable for the purposes of those claims even if it would be available
+for other types of claims. See Ross v. Blake, 578 U. S. 632, 642 (2016)
+(evaluating administrative remedies in terms of their ability to grant relief
+for “ `the action complained of' ”).

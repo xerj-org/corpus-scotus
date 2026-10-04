@@ -1,0 +1,75 @@
+Esteras v. United States — No. 23-7483 — October Term 2024 — decided 6/20/25 — Opinion of Jackson, J.
+Citation: 606 U.S. 185
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r56_bq7d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+flls rehabilitative ends' and `provides individuals with post-
+confinement assistance.' ” Ante, at 196 (quoting United
+States v. Johnson, 529 U. S. 53, 59–60 (2000)); see also S. Rep.
+No. 98–225, p. 124 (1983) (Senate Report noting that “the
+primary goal” of supervised release “is to ease the defend-
+ant's transition into the community . . . or to provide rehabili-
+tation”). Thus, “when a defendant violates the conditions of
+his supervised release, it makes sense that a court must con-
+sider the forward-looking ends of sentencing (deterrence, in-
+capacitation, and rehabilitation), but may not consider the
+backward-looking purpose of retribution.” Ante, at 196.
+In sum, when a court considers whether a supervised-
+release violation warrants revocation and reimprisonment
+(its primary task during revocation hearings), it must look
+only to the forward-looking ends mentioned in the statute.
+As to either a supervised-release violation or the underlying
+offense, the backward-looking end of retribution is out of
+bounds. Although I would have made this point explicit,
+nothing in the Court's opinion is inconsistent with it. Ac-
+cordingly, I otherwise join the Court's opinion.
+Justice Jackson, concurring in part and concurring in
+the judgment.
+The question presented in this litigation is whether sen-
+tencing courts can reference and rely upon the retributive
+concerns outlined in 18 U. S. C. § 3553(a)(2)(A) when revoking
+a previously imposed term of supervised release. “Esteras
+argues that district courts cannot consider the retributive
+purpose articulated in § 3553(a)(2)(A) when revoking super-
+vised release,” while “[t]he Government insists that courts
+can consider it, although they are not required to do so.”
+Ante, at 193. Like the Court, I agree with Esteras: Courts
+cannot consider this omitted sentencing purpose when revok-
+ing supervised release.
+That answer is straightforward and responsive. But the
+majority goes further, appearing to opine as to the precise
+contours of the retributive concerns that Congress has taken
+off the table. Ante, at 193–195. Venturing into this terri-
+tory is not necessary in the context of this litigation. As
+Justice Sotomayor explains, whatever § 3553(a)(2)(A) calls
+for when Congress has authorized its use, all that the Court
+properly decides today is that Congress has forbidden sen-
+tencing judges to rely on that same set of considerations in
+the supervised-release-revocation context.
+I disagree with the Court's discussion of the scope of “of-
+fense” in § 3553(a)(2)A) as it relates to § 3583(e) because, in
+my view, that part of the opinion confuses more than it clari-
+fes. As sentencing judges know, revocation of supervised
+release occurs in response to new—often criminal—conduct.
+It is entirely conceivable, and perhaps even likely, that when
+Congress removed from the list of permissible revocation
+considerations § 3553(a)(2)(A)'s “need for the sentence im-
+posed” to exact retribution, it sought to prevent the promo-
+tion of retribution with respect to whatever new offense trig-
+gered the call for revocation of supervised release. At the
+very least, that possibility counsels against definitively as-
+serting that § 3553(a)(2)(A)'s conspicuous omission only
+speaks to whether a district court can “account for the need
+to exact retribution for the defendant's underlying crime .”
+Ante, at 194–195 (emphasis added).
+In any event, because § 3553(a) requires district courts to
+impose sentences that are “sufficient, but not greater than
+necessary” to promote certain purposes of punishment, the
+kind of hairsplitting that the majority's opinion invites is
+entirely impractical. Sentences either “reflect,” “afford,”
+or “provide” for the listed purposes of punishment (retribu-
+tion, deterrence, incapacitation, rehabilitation) or they don't.
+§ 3553(a)(2). It is hard to fathom that Congress meant for
+retribution to be both operable and inoperable as it relates
+to the imposition of a single revocation sanction, and it is
+even harder to imagine how a sentencing court can effec-
+tively achieve that binary objective.

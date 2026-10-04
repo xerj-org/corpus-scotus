@@ -1,0 +1,353 @@
+Texas v. New Mexico — No. 141, Orig. — October Term 2025 — decided 5/26/26 — Decree of the Court — author D (listing code D)
+Citation: 608 U.S. 346
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r36d_21o3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Opinions reported: 583 U. S. 407, 602 U. S. 943.
+The proposed final decree, Appendix A to the Fourth Interim Report of
+the Special Master, entitled “Consent Decree Supporting the Rio Grande
+Compact (with Appendices 1 and 2)” is entered. The Honorable D. Brooks
+Smith, of Duncansville, Pennsylvania, the Special Master in this case, is
+hereby discharged with the thanks of the Court.
+DECREE
+Based upon the Recommendation of the Special Master,
+with the agreement of the Compacting States of Texas, New
+Mexico, and Colorado, the Court decrees as follows:
+The Texas-New Mexico Compact dispute among the Com-
+pacting States of Texas, New Mexico, and Colorado regard-
+ing Compact apportionment is resolved pursuant to the
+Decree terms described herein.
+I. DEFINITIONS
+When used in this Decree and the attachments and appen-
+dices hereto, the following definitions apply. The terms de-
+fined below shall be construed as consistent with the terms
+defined in the Rio Grande Compact.
+“Accrued Index Departure” means the sum of all Annual
+Index Departures as defined in more detail in Appendix 1.
+This may result in an Accrued Negative Departure or an
+Accrued Positive Departure.
+“Annual Index Departure” means the difference between
+the Index Delivery and the Index Obligation in any calendar
+year as described in Appendix 1. This may result in an An-
+nual Negative Departure (under-delivery) or an Annual Posi-
+tive Departure (over-delivery).
+“Bureau of Reclamation” or “Reclamation” means the Bu-
+reau of Reclamation within the United States Department of
+the Interior.
+“Caballo Release” means the official fow record as meas-
+ured at the Rio Grande Below Caballo Dam stream gage
+(USGS 08362500) used in calculating the Index Obligation.
+“Compact” means the Rio Grande Compact, approved by
+Congress in the Act of May 31, 1939, ch. 155, 53 Stat. 785.
+“Convention of 1906” means the Convention Between the
+United States and Mexico Providing for the Equitable Distri-
+bution of the Waters of the Rio Grande for Irrigation Pur-
+poses, May 21, 1906, U. S.-Mex., 34 Stat. 2954.
+“D2 Period” means the period January 1, 1951, through
+December 31, 1978.
+“Depletion of Index Supply” means the annual volumetric
+reduction of Project Supply in New Mexico and Texas, in
+acre-feet, resulting directly or indirectly from surface water
+use and groundwater use.
+“Effective El Paso Index” or “EEPI” or “Index” means
+the index-based methodology for assessing compliance with
+this Decree described in Appendix 1.
+“El Paso Gage” means the Rio Grande at El Paso, Texas
+stream gage (USGS 08364000).
+“Excess Flow” means Rio Grande streamfow at the El
+Paso Gage, excluding the delivery to Mexico, that is excluded
+from the Index Delivery as defined in Appendix 1.
+“Index Accounting” means the determination of the An-
+nual Index Obligation, annual Index Delivery, and annual
+and Accrued Index Departures as described in Appendix 1.
+“Index Delivery” means the sum of:
+(i) the annual streamfow at the El Paso Gage, after sub-
+tracting delivery to Mexico and Excess Flow; and
+(ii) the estimated Depletion of Index Supply caused by
+groundwater and surface water use in the Texas Mesilla, as
+determined by the methodology in Appendix 1.
+“Index Departure” or “Departure” means the difference
+between the Index Delivery and the Index Obligation; when
+the Index Delivery is greater than the Index Obligation it is
+a “Positive Departure,” when the Index Delivery is less than
+the Index Obligation it is a “Negative Departure.”
+“Index Obligation” means the volume of water calculated
+to be delivered to Texas as quantifed using the EEPI, and
+subject to Index Departures and other provisions in this
+Decree.
+“Mesilla Basin” means the part of the Rio Grande Basin
+that contains the Mesilla Valley. The Mesilla Basin is lo-
+cated in both New Mexico and Texas, as depicted in Appen-
+dix 2.
+“Project Carryover Water” means the quantity of water
+allocated each water year by Reclamation for delivery to the
+irrigation districts in New Mexico and Texas that remains at
+the end of each calendar year.
+“Index Supply” means the water supply for the Rio
+Grande Project as defined and administered by applicable
+State law. Index Supply generally consists of Usable Water,
+as defined in Article I( l) of the Compact, which excludes Rio
+Grande credit water and imported waters such as San Juan
+Chama Project water;
+Usable Water released from Caballo Reservoir in accord-
+ance with irrigation demands, including deliveries to Mex-
+ico; and
+Infows and Project return fows that reach the bed of the
+Rio Grande or Project conveyances, but excluding fows from
+imported water.
+“Rincon Basin” means the part of the Rio Grande Basin
+that contains the Rincon Valley in New Mexico, as depicted
+in Appendix 2.
+“Rio Grande Project” or “Project” means the federal recla-
+mation project, authorized in the Reclamation Act of June
+17, 1902, 32 Stat. 390 and the Rio Grande Project Act of
+February 25, 1905, 33 Stat. 814, operated by the United
+States through the Bureau of Reclamation and irrigation dis-
+tricts located in New Mexico and Texas.
+“Texas Mesilla” means the land in the State of Texas that
+overlies the Mesilla Basin, as depicted in Appendix 2.
+“Transfers” means the transfer of Project allocation be-
+tween the Rio Grande Project irrigation district in New
+Mexico and the Rio Grande Project irrigation district in
+Texas in accordance with this Decree.
+II. INJUNCTION
+A. General Provisions:
+1. The Rio Grande Compact effects an equitable appor-
+tionment of the waters of the Rio Grande above Fort Quit-
+man, Texas, among the States of Colorado, New Mexico, and
+Texas. The Compacting States must comply with the
+Compact.
+2. Pursuant to Article IV of the Compact and the unani-
+mous Resolution of the Rio Grande Compact Commission
+adopted February 14-16, 1948, New Mexico is obligated to
+deliver Rio Grande water as measured at Elephant Butte
+Reservoir in amounts that are based on fows measured at
+the stream gaging station located at Otowi Bridge near San
+Ildefonso.
+3. Elephant Butte Reservoir is the major storage reser-
+voir for the Rio Grande Project.
+4. The division of Rio Grande water between New Mexico
+and Texas below Elephant Butte Reservoir is based upon the
+percentage of the total authorized irrigable acreage of the Rio
+Grande Project situated in each State at the time of the Com-
+pact, approximately 57% in New Mexico and 43% in Texas.
+5. This Decree specifies procedures to ensure the proper
+apportionment of Rio Grande water between Texas and New
+Mexico below Elephant Butte Reservoir.
+6. Compliance with this Decree represents compliance
+with the Compact with respect to the division of Rio Grande
+water below Elephant Butte Reservoir.
+B. Division of Water Below Elephant Butte Reservoir:
+1. The procedures for calculating the water to be delivered
+to Texas at the El Paso Gage are contained in the Effective
+El Paso Index documented in Appendix 1.
+2. The Effective El Paso Index:
+a. New Mexico shall manage and administer water in a
+manner that is consistent with this Decree, including satisfy-
+ing the Effective El Paso Index requirements.
+b. The Index is the calculation of Rio Grande water that
+Texas is entitled to receive. New Mexico is entitled to use
+the balance of the Rio Grande water released from Caballo
+Dam so long as its use complies with the other provisions of
+this Decree.
+c. The Index was developed to ensure Texas and New
+Mexico receive the amounts of water each is entitled to under
+the Compact below Elephant Butte Reservoir based upon
+Project operations during the D2 Period.
+d. The methodology for calculating and determining the
+Index Delivery and Index Obligation is documented in Ap-
+pendix 1.
+e. The Index Obligation is calculated annually and is
+based on a regression analysis of Caballo Releases and vol-
+umes of water reaching the El Paso Gage during the D2 Pe-
+riod, plus the historical D2 Period average agricultural and
+domestic, commercial, municipal, and industrial (DCMI)
+depletions to the Rio Grande caused by surface and ground
+water use in the Texas Mesilla, upstream of the El Paso
+Gage, subtracting out deliveries to Mexico. The Index Obli-
+gation is described in detail in Appendix 1.
+f. The Index Delivery should equal the Index Obli-
+gation. However, river operations, hydrologic conditions,
+annual variations in the amount and location of water uses
+(including groundwater pumping) above the El Paso Gage, the
+distance between the release of Project water below Caballo
+Dam and the El Paso Gage and other factors may affect the
+Index Delivery. As a consequence, this Decree provides for
+departures from the Index Obligation, and “triggers” for
+water management responses.
+g. The Rio Grande Below Caballo Dam and El Paso
+gages are used for providing the official daily fow record
+for use in calculating the Index Delivery. The gages will
+continually meet the Rules and Regulations for administra-
+tion of the Rio Grande Compact regarding gaging stations.
+Colorado shall not be responsible for the costs of the gages
+and measurements needed for Index Accounting.
+3. Index Departures:
+a. As set forth in this Decree, an Annual Negative
+Departure:
+(i) will be used to reduce an Accrued Positive Depar-
+ture at the beginning of the year by the amount of the An-
+nual Negative Departure; or
+(ii) will be added to the Accrued Negative Departures
+at the beginning of the year.
+b. As set forth in this Decree, an Annual Positive
+Departure:
+(i) will be used to reduce an Accrued Negative Depar-
+ture at the beginning of the year by the amount of the An-
+nual Positive Departure; or
+(ii) will be added to the Accrued Positive Departures
+at the beginning of the year.
+c. Transfers relating to Accrued Negative or Accrued
+Positive Departures from one irrigation district to the other
+will immediately reduce New Mexico's Accrued Negative De-
+partures or Texas's Accrued Positive Departures by the
+same amount of the Transfer. Specifically, if such a Transfer
+occurs from the current-year allocation for the New Mexico
+irrigation district to the current-year allocation for the Texas
+irrigation district, then simultaneous with the Transfer, the
+Accrued Negative Departures will be reduced by an amount
+equal to the transfer. Likewise, if such a Transfer occurs
+from the current-year allocation for the Texas irrigation dis-
+trict to the current-year allocation for the New Mexico irri-
+gation district, then simultaneous with the Transfer, the Ac-
+crued Positive Index Departure will be reduced by an
+amount equal to the Transfer.
+C. Index Departure Limits:
+1. New Mexico is in compliance with this Decree if New
+Mexico is within the Accrued Negative Departure limits. Ex-
+ceedance of Accrued Negative Departure limits means New
+Mexico is in violation of this Decree.
+2. Cap on Annual Positive Departure. The maximum An-
+nual Positive Departure is 67,500 acre-feet; an Annual Posi-
+tive Departure in excess of 67,500 acre-feet shall be treated
+as the equivalent of 67,500 acre-feet for the purposes of cal-
+culating Accrued Index Departures.
+3. Caps on Annual Negative Departure.
+a. For the first full fve (5) calendar years following
+entry of this Decree, in calculating the Accrued Index Depar-
+tures, Annual Negative Departures in excess of 112,500 acre-
+feet shall be treated as the equivalent of 112,500 acre-feet.
+b. Beginning the sixth full calendar year after entry of
+this Decree, and thereafter, in calculating the Accrued Index
+Departures, Annual Negative Departures in excess of 90,000
+acre-feet shall be treated as the equivalent of 90,000 acre-
+feet.
+4. Negative Departures:
+a. Limits:
+(i) For the first full fve (5) calendar years following
+entry of this Decree, New Mexico may accrue Negative De-
+partures up to, but not in excess of 150,000 acre-feet.
+(ii) Beginning the sixth full calendar year after entry
+of this Decree, and thereafter, New Mexico may accrue Neg-
+ative Departures up to, but not in excess of 120,000 acre-feet.
+b. Additional Index adjustments for exceedances of the
+Accrued Negative Departure limit:
+(i) In addition to the other provisions of this Decree,
+if New Mexico exceeds the Accrued Negative Departure
+limit of 150,000/120,000 acre-feet in three (3) consecutive
+years, New Mexico shall provide 12,000 acre-feet of water in
+excess of its Index Obligation for each year that it exceeds
+the Accrued Negative Departure limit. New Mexico shall
+have three (3) years to provide the full 36,000 acre-feet.
+(ii) If New Mexico exceeds the Accrued Negative De-
+parture limit of 150,000/120,000 acre-feet in four (4) or more
+consecutive years, New Mexico shall provide 15,000 acre-feet
+of water in excess of its Index Obligation for each additional
+year over the three (3) years addressed in the above para-
+graph that it exceeds the Accrued Negative Departures
+limit. The 15,000 acre-feet in excess of Index Obligation
+amounts shall be provided during the year immediately fol-
+lowing the violation of the Accrued Negative Departure
+limit.
+c. In any year in which the three-year rolling average
+of the end of year Project Carryover Water for the irrigation
+district in Texas is greater than 180,000 acre-feet, all Ac-
+crued Negative Departures shall be extinguished.
+D. Trigger for Water Management Actions:
+1. To avoid excessive Accrued Index Departures and to
+ensure that the equitable apportionment is achieved, certain
+volumes of accrued Negative Departures (Trigger) require
+the following water management actions.
+2. Negative Departure Trigger. If Accrued Negative De-
+partures are greater than 80,000 acre-feet at the end of any
+calendar year, the following provisions shall apply:
+a. New Mexico shall take water management actions to
+reduce the Accrued Negative Departures to less than 16,000
+acre-feet within six (6) calendar years following the exceed-
+ance of the Negative Departure Trigger. New Mexico shall
+have discretion to determine what water management ac-
+tions are necessary and appropriate.
+E. Additional Index Provisions:
+1. Scope of the Index Obligation. In addition to the
+above specific terms and conditions related to the Index:
+a. The EEPI shall not apply in those years in which
+annual Caballo Releases are less than 200,000 acre-feet. In
+those years, the Annual Index Departure shall be set at zero
+(0) acre-feet.
+b. When annual Caballo Releases are 790,000 acre-feet
+or greater, the Index Obligation shall be calculated using a
+790,000 acre-foot release for the year.
+2. If there is an Accrued Index Departure at the end of
+the fifth year following entry of this Decree, or if the Trigger
+is reached pursuant to paragraph II.D.2 in the first fve (5)
+years, then the Accrued Index Departures (either Positive
+or Negative) shall be reduced by the amount of the Index
+Departure up to, but not to exceed, 20,000 acre-feet or until
+the Index Accounting reflects zero (0) Index Departures.
+3. Aridity adjustment. The Index will be adjusted annu-
+ally for estimated change, since the D2 Period, in open water
+evaporation and riparian evapotranspiration between the
+Rio Grande Below Caballo Dam and the El Paso gages. See
+Appendix 1.
+4. In any year in which an actual or hypothetical spill oc-
+curs, as determined by the Rio Grande Compact Commis-
+sion, all Accrued Index Departures, both Positive and Nega-
+tive Departures, shall be extinguished.
+F. Index Accounting:
+1. The Compacting States shall cooperate in providing
+necessary data to support calculation of the Index Obligation
+and the Index Accounting as described in the attached Ap-
+pendix 1.
+a. The data required for calculating the initial Index Ac-
+counting for the prior year shall be reported to the Engineer
+Advisors for the Compacting States following the Compact
+accounting schedules in the “Schedule for Review and Ap-
+proval of Rio Grande Compact Accounting Records for the
+Previous Year.”
+b. The initial Index Accounting for the prior year shall
+be annually prepared using the methodologies contained in
+Appendix 1 and provided in the “Schedule for Review and
+Approval of Rio Grande Compact Accounting Records for
+the Previous Year.”
+c. The Engineer Advisors shall review the initial Index
+Accounting, and include the final Index Accounting for the
+prior year in their annual report to the Rio Grande Com-
+pact Commission.
+d. The Rio Grande Compact Commission shall review
+the Engineer Advisors' report and act as provided for in Ar-
+ticle XII of the Compact.
+III. CONSTRUCTION OF THE DECREE
+A. Nothing in this Decree as a whole, nor any part hereof,
+modifes or otherwise requires modification of the Compact.
+This Decree clarifies but does not alter the Compact rights
+and obligations of the signatory States.
+B. Nothing in this Decree shall be construed as affecting
+the obligations of the United States of America to Mexico
+under existing treaties, or to the Indian Tribes, or as impair-
+ing the rights of the Indian Tribes.
+C. The following appendices are attached:
+“Appendix 1” is the Index Appendix; and
+“Appendix 2” is a map showing the Mesilla Basin, the
+Rincon Basin, and the Texas Mesilla area.
+To the extent any conflict exists between the language of
+this Decree and the appendices, or any ambiguity is created
+by the language of the appendices, the language in this De-
+cree controls. The Compact and Decree govern the legal
+rights and obligations of the Compacting States. The tech-
+nical appendices provide procedures and methodologies for
+ensuring proper implementation of this Decree.
+D. This Decree creates no third-party benefciaries, ex-
+press or implied.
+IV . MODIFICATION OF APPENDICES TO THE
+DECREE
+Appendices may be modified only by unanimous agreement
+of the Compacting States or subsequent order of this Court.

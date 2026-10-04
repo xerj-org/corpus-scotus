@@ -1,0 +1,2442 @@
+Students for Fair Admissions, Inc. v. President and Fellows of Harvard College — No. 20-1199 — October Term 2022 — decided 6/29/23 — Sotomayor, J., dissenting
+Citation: 600 U.S. 181
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r53_4g15.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+Justice Sotomayor, with whom Justice Kagan and
+Justice Jackson join,* dissenting.
+The Equal Protection Clause of the Fourteenth Amend-
+ment enshrines a guarantee of racial equality. The Court
+long ago concluded that this guarantee can be enforced
+through race-conscious means in a society that is not, and
+has never been, colorblind. In Brown v. Board of Educa-
+tion, 347 U. S. 483 (1954), the Court recognized the constitu-
+tional necessity of racially integrated schools in light of the
+harm inflicted by segregation and the “importance of educa-
+tion to our democratic society.” Id., at 492–495. For 45
+years, the Court extended Brown's transformative legacy to
+the context of higher education, allowing colleges and uni-
+versities to consider race in a limited way and for the limited
+purpose of promoting the important benefits of racial diver-
+sity. This limited use of race has helped equalize educa-
+tional opportunities for all students of every race and back-
+ground and has improved racial diversity on college
+campuses. Although progress has been slow and imperfect,
+race-conscious college admissions policies have advanced the
+Constitution's guarantee of equality and have promoted
+Brown's vision of a Nation with more inclusive schools.
+Today, this Court stands in the way and rolls back decades
+of precedent and momentous progress. It holds that race
+can no longer be used in a limited way in college admissions
+to achieve such critical benefits. In so holding, the Court
+cements a superfcial rule of colorblindness as a constitu-
+tional principle in an endemically segregated society where
+race has always mattered and continues to matter. The
+Court subverts the constitutional guarantee of equal protec-
+tion by further entrenching racial inequality in education,
+the very foundation of our democratic government and plu-
+*Justice Jackson did not participate in the consideration or decision
+of the case in No. 20–1199 and joins this opinion only as it applies to the
+case in No. 21–707.
+ralistic society. Because the Court's opinion is not grounded
+in law or fact and contravenes the vision of equality embod-
+ied in the Fourteenth Amendment, I dissent.
+I
+A
+Equal educational opportunity is a prerequisite to achiev-
+ing racial equality in our Nation. From its founding, the
+United States was a new experiment in a republican form of
+government where democratic participation and the capacity
+to engage in self-rule were vital. At the same time, Ameri-
+can society was structured around the profitable institution
+that was slavery, which the original Constitution protected.
+The Constitution initially limited the power of Congress to
+restrict the slave trade, Art. I, § 9, cl. 1, accorded Southern
+States additional electoral power by counting three-ffths
+of their enslaved population in apportioning congressional
+seats, § 2, cl. 3, and gave enslavers the right to retrieve en-
+slaved people who escaped to free States, Art. IV , § 2, cl. 3.
+Because a foundational pillar of slavery was the racist notion
+that Black people are a subordinate class with intellectual
+inferiority, Southern States sought to ensure slavery's lon-
+gevity by prohibiting the education of Black people, whether
+enslaved or free. See H. Williams, Self-Taught: African
+American Education in Slavery and Freedom 7, 203–213
+(2005) (Self-Taught). Thus, from this Nation's birth, the
+freedom to learn was neither colorblind nor equal.
+With time, and at the tremendous cost of the Civil War,
+abolition came. More than two centuries after the first Afri-
+can enslaved persons were forcibly brought to our shores,
+Congress adopted the Thirteenth Amendment to the Consti-
+tution, which abolished “slavery” and “involuntary servitude,
+except as a punishment for crime.” § 1. “Like all great his-
+torical transformations,” emancipation was a movement,
+“not a single event” owed to any single individual, institu-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+tion, or political party. E. Foner, The Second Founding 21,
+51–54 (2019) (The Second Founding).
+The fight for equal educational opportunity, however, was
+a key driver. Literacy was an “instrument of resistance and
+liberation.” Self-Taught 8. Education “provided the
+means to write a pass to freedom” and “to learn of abolition-
+ist activities.” Id., at 7. It allowed enslaved Black people
+“to disturb the power relations between master and slave,”
+which “fused their desire for literacy with their desire for
+freedom.” Ibid. Put simply, “[t]he very feeling of inferior-
+ity which slavery forced upon [Black people] fathered an in-
+tense desire to rise out of their condition by means of educa-
+tion.” W. E. B. Du Bois, Black Reconstruction in America
+1860–1880, p. 638 (1935); see J. Anderson, The Education of
+Blacks in the South 1860–1935, p. 7 (1988). Black Americans
+thus insisted, in the words of Frederick Douglass, “that in a
+country governed by the people, like ours, education of the
+youth of all classes is vital to its welfare, prosperity, and to
+its existence.” Address to the People of the United States
+(1883), in 4 P. Foner, The Life and Writings of Frederick
+Douglass 386 (1955). Black people's yearning for freedom
+of thought, and for a more perfect Union with educational
+opportunity for all, played a crucial role during the Recon-
+struction era.
+Yet emancipation marked the beginning, not the end, of
+that era. Abolition alone could not repair centuries of racial
+subjugation. Following the Thirteenth Amendment's rati-
+fication, the Southern States replaced slavery with “a system
+of `laws which imposed upon [Black people] onerous disabili-
+ties and burdens, and curtailed their rights in the pursuit of
+life, liberty, and property to such an extent that their free-
+dom was of little value.' ” Regents of Univ. of Cal. v. Bakke,
+438 U. S. 265, 390 (1978) (opinion of Marshall, J.) (quoting
+Slaughter-House Cases, 16 Wall. 36, 70 (1873)). Those so-
+called “Black Codes” discriminated against Black people on
+the basis of race, regardless of whether they had been pre-
+viously enslaved. See, e. g., 1866 N. C. Sess. Laws pp. 99, 102.
+Moreover, the criminal punishment exception in the Thir-
+teenth Amendment facilitated the creation of a new system
+of forced labor in the South. Southern States expanded
+their criminal laws, which in turn “permitted involuntary
+servitude as a punishment” for convicted Black persons. D.
+Blackmon, Slavery by Another Name: The Re-Enslavement
+of Black Americans From the Civil War to World War II,
+pp. 7, 53 (2009) (Slavery by Another Name). States re-
+quired, for example, that Black people “sign a labor contract
+to work for a white employer or face prosecution for va-
+grancy.” The Second Founding 48. State laws then forced
+Black convicted persons to labor in “plantations, mines, and
+industries in the South.” Id., at 50. This system of free
+forced labor provided tremendous benefits to Southern
+whites and was designed to intimidate, subjugate, and con-
+trol newly emancipated Black people. See Slavery by An-
+other Name 5–6, 53. The Thirteenth Amendment, without
+more, failed to equalize society.
+Congress thus went further and embarked on months of
+deliberation about additional Reconstruction laws. Those
+efforts included the appointment of a Committee, the Joint
+Committee on Reconstruction, “to inquire into the condition
+of the Confederate States.” Report of the Joint Committee
+on Reconstruction, S. Rep. No. 112, 39th Cong., 1st Sess.,
+1 (1866) (hereinafter Joint Comm. Rep.). Among other
+things, the Committee's Report to Congress documented the
+“deep-seated prejudice” against emancipated Black people in
+the Southern States and the lack of a “general disposition to
+place the colored race, constituting at least two-ffths of the
+population, upon terms even of civil equality.” Id., at 11.
+In light of its findings, the Committee proposed amending
+the Constitution to secure the equality of “rights, civil and
+political.” Id., at 7.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+Congress acted on that recommendation and adopted the
+Fourteenth Amendment. Proponents of the Amendment
+declared that one of its key goals was to “protec[t] the black
+man in his fundamental rights as a citizen with the same
+shield which it throws over the white man.” Cong. Globe,
+39th Cong., 1st Sess., 2766 (1866) (Cong. Globe) (statement of
+Sen. Howard). That is, the Amendment sought “to secure
+to a race recently emancipated, a race that through many
+generations [was] held in slavery, all the civil rights that the
+superior race enjoy.” Plessy v. Ferguson, 163 U. S. 537,
+555–556 (1896) (Harlan, J., dissenting) (internal quotation
+marks omitted).
+To promote this goal, Congress enshrined a broad guaran-
+tee of equality in the Equal Protection Clause of the Amend-
+ment. That Clause commands that “[n]o State shall . . . deny
+to any person within its jurisdiction the equal protection of
+the laws.” Amdt. 14, § 1. Congress chose its words care-
+fully, opting for expansive language that focused on equal
+protection and rejecting “proposals that would have made
+the Constitution explicitly color-blind.” A. Kull, The Color-
+Blind Constitution 69 (1992); see also, e. g., Cong. Globe 1287
+(rejecting proposed language providing that “no State . . .
+shall . . . recognize any distinction between citizens . . . on
+account of race or color”). This choice makes it clear that
+the Fourteenth Amendment does not impose a blanket ban
+on race-conscious policies.
+Simultaneously with the passage of the Fourteenth
+Amendment, Congress enacted a number of race-conscious
+laws to fulfill the Amendment's promise of equality, leaving
+no doubt that the Equal Protection Clause permits consider-
+ation of race to achieve its goal. One such law was the
+Freedmen's Bureau Act, enacted in 1865 and then expanded
+in 1866, which established a federal agency to provide cer-
+tain benefits to refugees and newly emancipated freedmen.
+See Act of Mar. 3, 1865, ch. 90, 13 Stat. 507; Act of July 16,
+1866, ch. 200, 14 Stat. 173. For the Bureau, education “was
+the foundation upon which all efforts to assist the freedmen
+rested.” E. Foner, Reconstruction: America's Unfinished
+Revolution 1863–1877, p. 144 (1988). Consistent with that
+view, the Bureau provided essential “funding for black edu-
+cation during Reconstruction.” Id., at 97.
+Black people were the targeted benefciaries of the Bu-
+reau's programs, especially when it came to investments in
+education in the wake of the Civil War. Each year sur-
+rounding the passage of the Fourteenth Amendment, the Bu-
+reau “educated approximately 100,000 students, nearly all of
+them black,” and regardless of “degree of past disadvan-
+tage.” E. Schnapper, Affirmative Action and the Legisla-
+tive History of the Fourteenth Amendment, 71 Va. L. Rev.
+753, 781 (1985). The Bureau also provided land and funding
+to establish some of our Nation's Historically Black Colleges
+and Universities (HBCUs). Ibid.; see also Brief for HBCU
+Leaders et al. as Amici Curiae 13 (HBCU Brief). In 1867,
+for example, the Bureau provided Howard University tens of
+thousands of dollars to buy property and construct its cam-
+pus in our Nation's capital. 2 O. Howard, Autobiography
+397–401 (1907). Howard University was designed to pro-
+vide “special opportunities for a higher education to the
+newly enfranchised of the south,” but it was available to
+all Black people, “whatever may have been their previous
+condition.” Bureau Refugees, Freedmen and Abandoned
+Lands, Sixth Semi-Annual Report on Schools for Freedmen
+60 (July 1, 1868). 1 The Bureau also “expended a total of
+$407,752.21 on black colleges, and only $3,000 on white col-
+leges” from 1867 to 1870. Schnapper, 71 Va. L. Rev., at
+781, n. 149.
+1 As Justice Thomas acknowledges, the HBCUs, including Howard
+University, account for a high proportion of Black college graduates.
+Ante, at 285–286 (concurring opinion). That reality cannot be divorced
+from the history of anti-Black discrimination that gave rise to the HBCUs
+and the targeted work of the Freedmen's Bureau to help Black people
+obtain a higher education. See HBCU Brief 13–15.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+Indeed, contemporaries understood that the Freedmen's
+Bureau Act benefited Black people. Supporters defended
+the law by stressing its race-conscious approach. See, e. g.,
+Cong. Globe 632 (statement of Rep. Moulton) (“[T]he true
+object of this bill is the amelioration of the condition of the
+colored people”); Joint Comm. Rep. 11 (reporting that “the
+Union men of the south” declared “with one voice” that the
+Bureau's efforts “protect[ed] the colored people”). Oppo-
+nents argued that the Act created harmful racial classifica-
+tions that favored Black people and disfavored white Ameri-
+cans. See, e. g., Cong. Globe 397 (statement of Sen. Willey)
+(the Act makes “a distinction on account of color between
+the two races”), 544 (statement of Rep. Taylor) (the Act is
+“legislation for a particular class of the blacks to the exclu-
+sion of all whites”), App. to Cong. Globe, 39th Cong., 1st
+Sess., 69–70 (statement of Rep. Rousseau) (“You raise a spirit
+of antagonism between the black race and the white race in
+our country, and the law-abiding will be powerless to control
+it”). President Andrew Johnson vetoed the bill on the basis
+that it provided benefits “to a particular class of citizens,” 6
+Messages and Papers of the Presidents 1789–1897, p. 425 (J.
+Richardson ed. 1897) (Messages and Papers) (A. Johnson to
+House of Rep. July 16, 1866), but Congress overrode his veto.
+Cong. Globe 3849–3850. Thus, rejecting those opponents'
+objections, the same Reconstruction Congress that passed
+the Fourteenth Amendment eschewed the concept of color-
+blindness as sufficient to remedy inequality in education.
+Congress also debated and passed the Civil Rights Act of
+1866 contemporaneously with the Fourteenth Amendment.
+The goal of that Act was to eradicate the Black Codes
+enacted by Southern States following ratification of the Thir-
+teenth Amendment. See id., at 474. Because the Black
+Codes focused on race, not just slavery-related status, the
+Civil Rights Act explicitly recognized that white citizens en-
+joyed certain rights that non-white citizens did not. Section
+1 of the Act provided that all persons “of every race and
+color . . . shall have the same right[s]” as those “enjoyed by
+white citizens.” Act of Apr. 9, 1866, 14 Stat. 27. Similarly,
+§ 2 established criminal penalties for subjecting racial minor-
+ities to “different punishment . . . by reason of . . . color or
+race, than is prescribed for the punishment of white per-
+sons.” Ibid. In other words, the Act was not colorblind.
+By using white citizens as a benchmark, the law classified by
+race and took account of the privileges enjoyed only by white
+people. As he did with the Freedmen's Bureau Act, Presi-
+dent Johnson vetoed the Civil Rights Act in part because he
+viewed it as providing Black citizens with special treatment.
+See Messages and Papers 408, 413 (the Act is designed “to
+afford discriminating protection to colored persons,” and its
+“distinction of race and color . . . operate[s] in favor of the
+colored and against the white race”). Again, Congress over-
+rode his veto. Cong. Globe 1861. In fact, Congress reen-
+acted race-conscious language in the Civil Rights Act of 1870,
+two years after ratification of the Fourteenth Amendment,
+see Act of May 31, 1870, § 16, 16 Stat. 144, where it remains
+today, see 42 U. S. C. §§ 1981(a) and 1982 (Rev. Stat. §§ 1972,
+1978).
+Congress similarly appropriated federal dollars explicitly
+and solely for the benefit of racial minorities. For example,
+it appropriated money for “ `the relief of destitute colored
+women and children,' ” without regard to prior enslavement.
+Act of July 28, 1866, 14 Stat. 317. Several times during and
+after the passage of the Fourteenth Amendment, Congress
+also made special appropriations and adopted special protec-
+tions for the bounty and prize money owed to “colored sol-
+diers and sailors” of the Union Army. 14 Stat. 357, Res. No.
+46, June 15, 1866; Act of Mar. 3, 1869, ch. 122, 15 Stat. 301;
+Act of Mar. 3, 1873, 17 Stat. 528. In doing so, it rebuffed
+objections to these measures as “class legislation” “applica-
+ble to colored people and not . . . to the white people.” Cong.
+Globe, 40th Cong., 1st Sess., 79 (1867) (statement of Sen.
+Grimes). This history makes it “inconceivable” that race-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+conscious college admissions are unconstitutional. Bakke,
+438 U. S., at 398 (opinion of Marshall, J.). 2
+B
+The Reconstruction era marked a transformational point
+in the history of American democracy. Its vision of equal
+opportunity leading to an equal society “was short-lived,”
+however, “with the assistance of this Court.” Id., at 391.
+In a series of decisions, the Court “sharply curtailed” the
+“substantive protections” of the Reconstruction Amend -
+ments and the Civil Rights Acts. Id., at 391–392 (collecting
+cases). That endeavor culminated with the Court's shame-
+ful decision in Plessy v. Ferguson, 163 U. S. 537 (1896), which
+established that “equality of treatment” exists “when the
+races are provided substantially equal facilities, even though
+these facilities be separate.” Brown, 347 U. S., at 488.
+Therefore, with this Court's approval, government-enforced
+segregation and its concomitant destruction of equal oppor-
+tunity became the constitutional norm and infected every
+sector of our society, from bathrooms to military units and,
+crucially, schools. See Bakke, 438 U. S., at 393–394 (opinion
+of Marshall, J.); see also generally R. Rothstein, The Color of
+Law 17–176 (2017) (discussing various federal policies that
+promoted racial segregation).
+In a powerful dissent, Justice Harlan explained in Plessy
+that the Louisiana law at issue, which authorized segregation
+in railway carriages, perpetuated a “caste” system. 163
+U. S., at 559–560. Although the State argued that the law
+2 By the time the Fourteenth Amendment was ratified by the States in
+1868, “education had become a right of state citizenship in the constitution
+of every readmitted state,” including in North Carolina. D. Black, The
+Fundamental Right to Education, 94 Notre Dame L. Rev. 1059, 1089
+(2019); see also Brief for Black Women Law Scholars as Amici Curiae 9
+(“The herculean efforts of Black reformers, activists, and lawmakers dur-
+ing the Reconstruction Era forever transformed State constitutional law;
+today, thanks to the impact of their work, [nearly] every State constitution
+contains language guaranteeing the right to public education”).
+“prescribe[d] a rule applicable alike to white and colored citi-
+zens,” all knew that the law's purpose was not “to exclude
+white persons from railroad cars occupied by blacks,” but “to
+exclude colored people from coaches occupied by or assigned
+to white persons.” Id., at 557. That is, the law “pro-
+ceed[ed] on the ground that colored citizens are so inferior
+and degraded that they cannot be allowed to sit in public
+coaches occupied by white citizens.” Id., at 560. Although
+“[t]he white race deems itself to be the dominant race . . .
+in prestige, in achievements, in education, in wealth and in
+power,” Justice Harlan explained, there is “no superior, dom-
+inant, ruling class of citizens” in the eyes of the law. Id., at
+559. In that context, Justice Harlan thus announced his
+view that “[o]ur constitution is color-blind.” Ibid.
+It was not until half a century later, in Brown, that the
+Court honored the guarantee of equality in the Equal Protec-
+tion Clause and Justice Harlan's vision of a Constitution that
+“neither knows nor tolerates classes among citizens.” 163
+U. S., at 559. Considering the “effect[s] of segregation” and
+the role of education “in the light of its full development and
+its present place in American life throughout the Nation,”
+Brown overruled Plessy. 347 U. S., at 492–495. The Brown
+Court held that “[s]eparate educational facilities are inher-
+ently unequal,” and that such racial segregation deprives
+Black students “of the equal protection of the laws guaranteed
+by the Fourteenth Amendment.” Id., at 494–495. The
+Court thus ordered segregated schools to transition to a ra-
+cially integrated system of public education “with all deliber-
+ate speed,” “ordering the immediate admission of [Black chil-
+dren] to schools previously attended only by white children.”
+Brown v. Board of Education, 349 U. S. 294, 301 (1955).
+Brown was a race-conscious decision that emphasized the
+importance of education in our society. Central to the
+Court's holding was the recognition that, as Justice Harlan
+emphasized in Plessy, segregation perpetuates a caste sys-
+tem wherein Black children receive inferior educational op-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+portunities “solely because of their race,” denoting “inferior-
+ity as to their status in the community.” 347 U. S., at 494,
+and n. 10. Moreover, because education is “the very founda-
+tion of good citizenship,” segregation in public education
+harms “our democratic society” more broadly as well. Id.,
+at 493. In light of the harmful effects of entrenched racial
+subordination on racial minorities and American democracy,
+Brown recognized the constitutional necessity of a racially
+integrated system of schools where education is “available to
+all on equal terms.” Ibid.
+The desegregation cases that followed Brown confirm that
+the ultimate goal of that seminal decision was to achieve a
+system of integrated schools that ensured racial equality of op-
+portunity, not to impose a formalistic rule of race-blindness.
+In Green v. School Bd. of New Kent Cty., 391 U. S. 430 (1968),
+for example, the Court held that the New Kent County
+School Board's “freedom of choice” plan, which allegedly al-
+lowed “every student, regardless of race, . . . `freely' [to]
+choose the school he [would] attend,” was insufficient to ef-
+fectuate “the command of [Brown ].” Id., at 437, 441–442.
+That command, the Court explained, was that schools dis-
+mantle “well-entrenched dual systems” and transition “to a
+unitary, nonracial system of public education.” Id., at 435–
+436. That the board “opened the doors of the former `white'
+school to [Black] children and of the [`Black'] school to white
+children” on a race-blind basis was not enough. Id., at 437.
+Passively eliminating race classifications did not suffice when
+de facto segregation persisted. Id., at 440–442 (noting that
+85% of Black children in the school system were still attend-
+ing an all-Black school). Instead, the board was “clearly
+charged with the affirmative duty to take whatever steps
+might be necessary to convert to a unitary system in which
+racial discrimination would be eliminated root and branch.”
+Id., at 437–438. Affirmative steps, this Court held, are con-
+stitutionally necessary when mere formal neutrality cannot
+achieve Brown's promise of racial equality. See Green, 391
+U. S., at 440–442; see also North Carolina Bd. of Ed. v.
+Swann, 402 U. S. 43, 45–46 (1971) (holding that North Caro-
+lina statute that forbade the use of race in school busing “ex-
+ploits an apparently neutral form to control school assign-
+ment plans by directing that they be `colorblind'; that
+requirement, against the background of segregation, would
+render illusory the promise of Brown”); Dayton Bd. of Ed.
+v. Brinkman, 443 U. S. 526, 538 (1979) (school board “had to
+do more than abandon its prior discriminatory purpose”; it
+“had an affirmative responsibility” to integrate); Keyes v.
+School Dist. No. 1, Denver , 413 U. S. 189, 200 (1973) (“[T]he
+State automatically assumes an affirmative duty” under
+Brown to eliminate the vestiges of segregation). 3
+In so holding, this Court's post-Brown decisions rejected
+arguments advanced by opponents of integration suggesting
+that “restor[ing] race as a criterion in the operation of the
+public schools” was at odds with “the Brown decisions.”
+Brief for Respondents in Green v. School Bd. of New Kent
+Cty., O. T. 1967, No. 695, p. 6 (Green Brief). Those oppo-
+nents argued that Brown only required the admission of
+Black students “to public schools on a racially nondiscrimina-
+tory basis.” Green Brief 11 (emphasis deleted). Relying on
+Justice Harlan's dissent in Plessy, they argued that the use of
+race “is improper” because the “ `Constitution is colorblind.' ”
+Green Brief 6, n. 6 (quoting Plessy, 163 U. S., at 559 (Harlan,
+J., dissenting)). They also incorrectly claimed that their
+views aligned with those of the Brown litigators, arguing
+that the Brown plaintiffs “understood” that Brown's “man-
+3 The majority suggests that “it required a Second Founding to undo”
+programs that help ensure racial integration and therefore greater equal-
+ity in education. Ante, at 230. At the risk of stating the blindingly obvi-
+ous, and as Brown recognized, the Fourteenth Amendment was intended
+to undo the effects of a world where laws systematically subordinated
+Black people and created a racial caste system. Cf. Dred Scott v. Sand-
+ford, 19 How. 393, 405 (1857). Brown and its progeny recognized the need
+to take affirmative, race-conscious steps to eliminate that system.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+date” was colorblindness. Green Brief 17. This Court re-
+jected that characterization of “ the thrust of Brown .”
+Green, 391 U. S., at 437. It made clear that indifference
+to race “is not an end in itself” under that watershed deci-
+sion. Id., at 440. The ultimate goal is racial equality of
+opportunity.
+Those rejected arguments mirror the Court's opinion
+today. The Court claims that Brown requires that students
+be admitted “ `on a racially nondiscriminatory basis.' ”
+Ante, at 204. It distorts the dissent in Plessy to advance a
+colorblindness theory. Ante, at 230; see also ante, at 307
+(Gorsuch, J., concurring) (“[T]oday's decision wakes the ech-
+oes of Justice John Marshall Harlan [in Plessy]”); ante, at 233
+(Thomas, J., concurring) (same). The Court also invokes the
+Brown litigators, relying on what the Brown “plaintiffs had
+argued.” Ante, at 204; ante, at 264–265, 268 n. 7 (opinion of
+Thomas, J.).
+If there was a Member of this Court who understood the
+Brown litigation, it was Justice Thurgood Marshall, who “led
+the litigation campaign” to dismantle segregation as a civil
+rights lawyer and “rejected the hollow, race-ignorant concep-
+tion of equal protection” endorsed by the Court's ruling
+today. Brief for NAACP Legal Defense and Educational
+Fund, Inc., et al. as Amici Curiae 9. Justice Marshall
+joined the Bakke plurality and “applaud[ed] the judgment of
+the Court that a university may consider race in its admis-
+sions process.” 438 U. S., at 400. In fact, Justice Marshall's
+view was that Bakke's holding should have been even more
+protective of race-conscious college admissions programs in
+light of the remedial purpose of the Fourteenth Amendment
+and the legacy of racial inequality in our society. See id.,
+at 396–402 (arguing that “a class-based remedy” should be
+constitutionally permissible in light of the hundreds of “years
+of class-based discrimination against [Black Americans]”).
+The Court's recharacterization of Brown is nothing but revi-
+sionist history and an affront to the legendary life of Justice
+Marshall, a great jurist who was a champion of true equal
+opportunity, not rhetorical fourishes about colorblindness.
+C
+Two decades after Brown, in Bakke, a plurality of the
+Court held that “the attainment of a diverse student body”
+is a “compelling” and “constitutionally permissible goal for
+an institution of higher education.” 438 U. S., at 311–315.
+Race could be considered in the college admissions process
+in pursuit of this goal, the plurality explained, if it is one
+factor of many in an applicant's fle, and each applicant re-
+ceives individualized review as part of a holistic admissions
+process. Id., at 316–318.
+Since Bakke, the Court has reaffirmed numerous times the
+constitutionality of limited race-conscious college admissions.
+First, in Grutter v. Bollinger, 539 U. S. 306 (2003), a majority
+of the Court endorsed the Bakke plurality's “view that stu-
+dent body diversity is a compelling state interest that can
+justify the use of race in university admissions,” 539 U. S., at
+325, and held that race may be used in a narrowly tailored
+manner to achieve this interest, id., at 333–344; see also
+Gratz v. Bollinger, 539 U. S. 244, 268 (2003) (“for the reasons
+set forth [the same day] in Grutter ,” rejecting petitioners'
+arguments that race can only be considered in college admis-
+sions “to remedy identified discrimination” and that diver-
+sity is “ `too open-ended, ill-defined, and indefinite to consti-
+tute a compelling interest' ”).
+Later, in the Fisher litigation, the Court twice reaffirmed
+that a limited use of race in college admissions is consti-
+tutionally permissible if it satisfies strict scrutiny. In
+Fisher v. University of Texas at Austin, 570 U. S. 297 (2013)
+(Fisher I), seven Members of the Court concluded that the
+use of race in college admissions comports with the Four-
+teenth Amendment if it “is narrowly tailored to obtain the
+educational benefits of diversity.” Id., at 314, 337. Several
+years later, in Fisher v. University of Texas at Austin, 579
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+U. S. 365, 376 (2016) (Fisher II), the Court upheld the admis-
+sions program at the University of Texas under this frame-
+work. Id., at 380–388.
+Bakke, Grutter , and Fisher are an extension of Brown's
+legacy. Those decisions recognize that “ `experience lend[s]
+support to the view that the contribution of diversity is sub-
+stantial.' ” Grutter , 539 U. S., at 324 (quoting Bakke, 438
+U. S., at 313). Racially integrated schools improve cross-
+racial understanding, “break down racial stereotypes,” and
+ensure that students obtain “the skills needed in today's
+increasingly global marketplace . . . through exposure to
+widely diverse people, cultures, ideas, and viewpoints.” 539
+U. S., at 330. More broadly, inclusive institutions that are
+“visibly open to talented and qualified individuals of every
+race and ethnicity” instill public confidence in the “legiti-
+macy” and “integrity” of those institutions and the diverse
+set of graduates that they cultivate. Id., at 332. That is
+particularly true in the context of higher education, where
+colleges and universities play a critical role in “maintaining
+the fabric of society” and serve as “the training ground for
+a large number of our Nation's leaders.” Id., at 331–332.
+It is thus an objective of the highest order, a “compelling
+interest” indeed, that universities pursue the benefits of ra-
+cial diversity and ensure that “the diffusion of knowledge
+and opportunity” is available to students of all races. Id., at
+328–333.
+This compelling interest in student body diversity is
+grounded not only in the Court's equal protection jurispru-
+dence but also in principles of “academic freedom,” which
+“ `long [have] been viewed as a special concern of the First
+Amendment.' ” Id., at 324 (quoting Bakke, 438 U. S., at 312).
+In light of “the important purpose of public education and
+the expansive freedoms of speech and thought associated
+with the university environment,” this Court's precedents
+recognize the imperative nature of diverse student bodies on
+American college campuses. 539 U. S., at 329. Consistent
+with the First Amendment, student body diversity allows
+universities to promote “th[e] robust exchange of ideas which
+discovers truth out of a multitude of tongues [rather] than
+through any kind of authoritative selection.” Bakke, 438
+U. S., at 312 (internal quotation marks omitted). Indeed, as
+the Court recently reaffirmed in another school case, “learn-
+ing how to tolerate diverse expressive activities has always
+been `part of learning how to live in a pluralistic society' ”
+under our constitutional tradition. Kennedy v. Bremerton
+School Dist., 597 U. S. –––, ––– (2022); cf. Khorrami v. Ari-
+zona, 598 U. S. –––, ––– (2022) (Gorsuch, J., dissenting from
+denial of certiorari) (collecting research showing that larger
+juries are more likely to be racially diverse and “deliberate
+longer, recall information better, and pay greater attention
+to dissenting voices”).
+In short, for more than four decades, it has been this
+Court's settled law that the Equal Protection Clause of the
+Fourteenth Amendment authorizes a limited use of race in
+college admissions in service of the educational benefits that
+fow from a diverse student body. From Brown to Fisher,
+this Court's cases have sought to equalize educational oppor-
+tunity in a society structured by racial segregation and to
+advance the Fourteenth Amendment's vision of an America
+where racially integrated schools guarantee students of all
+races the equal protection of the laws.
+D
+Today, the Court concludes that indifference to race is the
+only constitutionally permissible means to achieve racial
+equality in college admissions. That interpretation of the
+Fourteenth Amendment is not only contrary to precedent
+and the entire teachings of our history, see supra, at 319–
+333, but is also grounded in the illusion that racial inequality
+was a problem of a different generation. Entrenched racial
+inequality remains a reality today. That is true for society
+writ large and, more specifically, for Harvard and the Uni-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+versity of North Carolina (UNC), two institutions with a
+long history of racial exclusion. Ignoring race will not
+equalize a society that is racially unequal. What was true in
+the 1860s, and again in 1954, is true today: Equality requires
+acknowledgment of inequality.
+1
+After more than a century of government policies enforc-
+ing racial segregation by law, society remains highly segre-
+gated. About half of all Latino and Black students attend
+a racially homogeneous school with at least 75% minority
+student enrollment.4 The share of intensely segregated mi-
+nority schools (i. e., schools that enroll 90% to 100% racial
+minorities) has sharply increased. 5 To this day, the U. S.
+Department of Justice continues to enter into desegregation
+decrees with schools that have failed to “eliminat[e] the ves-
+tiges of de jure segregation.” 6
+Moreover, underrepresented minority students are more
+likely to live in poverty and attend schools with a high con-
+centration of poverty. 7 When combined with residential
+segregation and school funding systems that rely heavily on
+local property taxes, this leads to racial minority students
+attending schools with fewer resources. See San Antonio
+Independent School Dist. v. Rodriguez, 411 U. S. 1, 72–86
+4 See GAO, Report to the Chairman, Committee on Education and
+Labor, House of Representatives, K–12 Education: Student Population
+Has Significantly Diversifed, but Many Schools Remain Divided Along
+Racial, Ethnic, and Economic Lines 13 (GAO–22–104737, June 2022) (here-
+inafter GAO Report).
+5 G. Orfeld, E. Frankenberg, & J. Ayscue, Harming Our Common Fu-
+ture: America's Segregated Schools 65 Years After Brown 21 (2019).
+6 E. g., Bennett v. Madison Cty. Bd. of Ed., No. 5:63–CV–613 (ND Ala.,
+July 5, 2022), ECF Doc. 199, p. 19; id., at 6 (requiring school district to
+ensure “the participation of black students” in advanced courses).
+7 GAO Report 6, 13 (noting that 80% of predominantly Black and Latino
+schools have at least 75% of their students eligible for free or reduced-
+price lunch—a proxy for poverty).
+(1973) (Marshall, J., dissenting) (noting school funding dispar-
+ities that result from local property taxation). 8 In turn, un-
+derrepresented minorities are more likely to attend schools
+with less qualified teachers, less challenging curricula, lower
+standardized test scores, and fewer extracurricular activities
+and advanced placement courses. 9 It is thus unsurprising
+that there are achievement gaps along racial lines, even after
+controlling for income differences.10
+Systemic inequities disadvantaging underrepresented ra-
+cial minorities exist beyond school resources. Students of
+color, particularly Black students, are disproportionately dis-
+ciplined or suspended, interrupting their academic progress
+and increasing their risk of involvement with the crimi-
+nal justice system. 11 Underrepresented minorities are less
+likely to have parents with a postsecondary education who
+may be familiar with the college application process.12 Fur-
+ther, low-income children of color are less likely to attend
+8 See also L. Clark, Barbed Wire Fences: The Structural Violence of
+Education Law, 89 U. Chi. L. Rev. 499, 502, 512–517 (2022); Albert Shanker
+Institute, B. Baker, M. DiCarlo, & P. Greene, Segregation and School
+Funding: How Housing Discrimination Reproduces Unequal Opportunity
+17–19 (Apr. 2022).
+9 See Brief for 25 Harvard Student and Alumni Organizations as Amici
+Curiae 6–15 (collecting sources).
+10 GAO Report 7; see also Brief for Council of the Great City Schools as
+Amicus Curiae 11–14 (collecting sources).
+11 See J. Okonofua & J. Eberhardt, Two Strikes: Race and the Disciplin-
+ing of Young Students, 26 Psychol. Sci. 617 (2015) (a national survey
+showed that “Black students are more than three times as likely to be
+suspended or expelled as their White peers”); Brief for Youth Advocates
+and Experts on Educational Access as Amici Curiae 14–15 (describing
+investigation in North Carolina of a public school district, which found that
+Black students were 6.1 times more likely to be suspended than white
+students).
+12 See, e. g., Dept. of Education, National Center for Education Statistics,
+Digest of Education Statistics (2021) (Table 104.70) (showing that 59% of
+white students and 78% of Asian students have a parent with a bachelor's
+degree or higher, while the same is true for only 25% of Latino students
+and 33% of Black students).
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+preschool and other early childhood education programs that
+increase educational attainment.13 All of these interlocked
+factors place underrepresented minorities multiple steps be-
+hind the starting line in the race for college admissions.
+In North Carolina, the home of UNC, racial inequality is
+deeply entrenched in K–12 education. State courts have
+consistently found that the State does not provide underrep-
+resented racial minorities equal access to educational oppor-
+tunities, and that racial disparities in public schooling have
+increased in recent years, in violation of the State Constitu-
+tion. See, e. g., Hoke Cty. Bd. of Ed. v. State, 2020 WL
+13310241, *6, *13 (N. C. Super. Ct., Jan. 21, 2020); Hoke Cty.
+Bd. of Ed. v. State, 382 N. C. 386, 388–390, 879 S. E. 2d 193,
+197–198 (2022).
+These opportunity gaps “result in fewer students from un-
+derrepresented backgrounds even applying to” college, par-
+ticularly elite universities. Brief for Massachusetts Insti-
+tute of Technology et al. as Amici Curiae 32. “Because
+talent lives everywhere, but opportunity does not, there are
+undoubtedly talented students with great academic potential
+who have simply not had the opportunity to attain the tradi-
+tional indicia of merit that provide a competitive edge in
+the admissions process.” Brief for Harvard Student and
+Alumni Organizations as Amici Curiae 16. Consistent with
+this reality, Latino and Black students are less likely to en-
+roll in institutions of higher education than their white
+peers.14
+Given the central role that education plays in breaking the
+cycle of racial inequality, these structural barriers reinforce
+13 R. Crosnoe, K. Purtell, P. Davis-Kean, A. Ansari, & A. Benner, The
+Selection of Children From Low-Income Families into Preschool, 52 J. De-
+velopmental Psychology 11 (2016); A. Kenly & A. Klein, Early Childhood
+Experiences of Black Children in a Diverse Midwestern Suburb, 24 J. Afri-
+can American Studies 130, 136 (2020).
+14 Dept. of Education, National Center for Education, Institute of Educa-
+tional Science, The Condition of Education 2022, p. 24 (2020) (fg. 16).
+other forms of inequality in communities of color. See E.
+Wilson, Monopolizing Whiteness, 134 Harv. L. Rev. 2382,
+2416 (2021) (“[E]ducational opportunities . . . allow for social
+mobility, better life outcomes, and the ability to participate
+equally in the social and economic life of the democracy”).
+Stark racial disparities exist, for example, in unemployment
+rates,15 income levels, 16 wealth and homeownership, 17 and
+healthcare access.18 See also Schuette v. BAMN , 572 U. S.
+291, 380–381 (2014) (Sotomayor , J., dissenting) (noting the
+“persistent racial inequality in society”); Gratz, 539 U. S., at
+299–301 (Ginsburg, J., dissenting) (cataloging racial dispari-
+ties in employment, poverty, healthcare, housing, consumer
+transactions, and education).
+Put simply, society remains “inherently unequal.”
+Brown, 347 U. S., at 495. Racial inequality runs deep to this
+very day. That is particularly true in education, the “ `most
+vital civic institution for the preservation of a democratic
+system of government.' ” Plyler v. Doe, 457 U. S. 202, 221,
+223 (1982). As I have explained before, only with eyes open
+to this reality can the Court “carry out the guarantee of equal
+protection.” Schuette, 572 U. S., at 381 (dissenting opinion).
+2
+Both UNC and Harvard have sordid legacies of racial ex-
+clusion. Because “[c]ontext matters” when reviewing race-
+conscious college admissions programs, Grutter , 539 U. S., at
+327, this reality informs the exigency of respondents' current
+admissions policies and their racial diversity goals.
+15 ProQuest Statistical Abstract of the United States: 2023, p. 402 (Table
+622) (noting Black and Latino adults are more likely to be unemployed).
+16 Id., at 173 (Table 259).
+17 A. McCargo & J. Choi, Closing the Gaps: Building Black Wealth
+Through Homeownership (2020) (fg. 1).
+18 Dept. of Commerce, Census Bureau, Health Insurance Coverage in the
+United States: 2021, p. 9 (fg. 5); id., at 29 (Table C–1), https://www.census.
+gov/library/publications/2022/demo/p60-278.html (noting racial minorities,
+particularly Latinos, are less likely to have health insurance coverage).
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+i
+For much of its history, UNC was a bastion of white su-
+premacy. Its leadership included “slaveholders, the leaders
+of the Ku Klux Klan, the central figures in the white suprem-
+acy campaigns of 1898 and 1900, and many of the State's most
+ardent defenders of Jim Crow and race-based Social Darwin-
+ism in the twentieth century.” 3 App. in No. 21–707, p. 1680.
+The university excluded all people of color from its faculty
+and student body, glorifed the institution of slavery, en-
+forced its own Jim Crow regulations, and punished any dis-
+sent from racial orthodoxy. Id., at 1681–1683. It resisted
+racial integration after this Court's decision in Brown, and
+was forced to integrate by court order in 1955. 3 App. 1685.
+It took almost 10 more years for the first Black woman to
+enroll at the university in 1963. See Karen L. Parker Col-
+lection, 1963–1966, UNC Wilson Special Collections Library.
+Even then, the university admitted only a handful of under-
+represented racial minorities, and those students suffered
+constant harassment, humiliation, and isolation. 3 App.
+1685. UNC officials openly resisted racial integration well
+into the 1980s, years after the youngest Member of this
+Court was born. 19 Id., at 1688–1690. During that period,
+Black students faced racial epithets and stereotypes, re-
+ceived hate mail, and encountered Ku Klux Klan rallies on
+campus. 2 id., at 781–784;3 id., at 1689.
+19 In 1979, prompted by lawsuits fled by civil rights lawyers under Title
+VI, the U. S. Department of Health, Education, and Welfare “revoked
+UNC's federal funding for its continued noncompliance” with Brown. 3
+App. 1688; see Adams v. Richardson, 351 F. Supp. 636, 637 (DC 1972);
+Adams v. Califano, 430 F. Supp. 118, 121 (DC 1977). North Carolina sued
+the Federal Government in response, and North Carolina Senator Jesse
+Helms introduced legislation to block federal desegregation efforts. 3
+App. 1688. UNC praised those actions by North Carolina public officials.
+Ibid. The litigation ended in 1981, after the Reagan administration set-
+tled with the State. See North Carolina v. Department of Education,
+No. 79–217–CIV–5 (EDNC, July 17, 1981) (Consent Decree).
+To this day, UNC's deep-seated legacy of racial subjuga-
+tion continues to manifest itself in student life. Buildings
+on campus still bear the names of members of the Ku Klux
+Klan and other white supremacist leaders. Id., at 1683.
+Students of color also continue to experience racial harass-
+ment, isolation, and tokenism.20 Plus, the student body re-
+mains predominantly white: approximately 72% of UNC stu-
+dents identify as white, while only 8% identify as Black. Id.,
+at 1647. These numbers do not reflect the diversity of the
+State, particularly Black North Carolinians, who make up
+22% of the population. Id., at 1648.
+ii
+UNC is not alone. Harvard, like other Ivy League univer-
+sities in our country, “stood beside church and state as the
+third pillar of a civilization built on bondage.” C. Wilder,
+Ebony & Ivy: Race, Slavery, and the Troubled History of
+America's Universities 11 (2013). From Harvard's founding,
+slavery and racial subordination were integral parts of the in-
+stitution's funding, intellectual production, and campus life.
+Harvard and its donors had extensive financial ties to, and
+profted from, the slave trade, the labor of enslaved people, and
+slavery-related investments. As Harvard now recognizes,
+the accumulation of this wealth was “vital to the University's
+growth” and establishment as an elite, national institution.
+Harvard & the Legacy of Slavery, Report by the President
+and Fellows of Harvard College 7 (2022) (Harvard Report).
+20 See 567 F. Supp. 3d 580, 594 (MDNC 2021) (campus climate survey
+showing inter alia that “91 percent of students heard insensitive and dis-
+paraging racial remarks made by other students”); 2 App. in No. 21–707,
+p. 1037 (Black student testifying that a white student called him “the N
+wor[d]” and, on a separate occasion at a fraternity party, he was “told that
+no slaves were allowed in”); id., at 955 (student testifying that he was “the
+only African American student in the class,” which discouraged him from
+speaking up about racially salient issues); id., at 762–763 (student describ-
+ing that being “the only Latina” made it “hard to speak up” and made her
+feel “foreign” and “an outsider”).
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+Harvard suppressed antislavery views, and enslaved persons
+“served Harvard presidents and professors and fed and cared
+for Harvard students” on campus. Id., at 7, 15.
+Exclusion and discrimination continued to be a part of
+campus life well into the 20th century. Harvard's leadership
+and prominent professors openly promoted “ `race science,' ”
+racist eugenics, and other theories rooted in racial hierarchy.
+Id., at 11. Activities to advance these theories “took place
+on campus,” including “intrusive physical examinations” and
+“photographing of unclothed” students. Ibid. The univer-
+sity also “prized the admission of academically able Anglo-
+Saxon students from elite backgrounds—including wealthy
+white sons of the South.” Id., at 44. By contrast, an aver-
+age of three Black students enrolled at Harvard each year
+during the fve decades between 1890 and 1940. Id., at 45.
+Those Black students who managed to enroll at Harvard “ex-
+celled academically, earning equal or better academic records
+than most white students,” but faced the challenges of the
+deeply rooted legacy of slavery and racism on campus. Ibid.
+Meanwhile, a few women of color attended Radcliffe Col-
+lege, a separate and overwhelmingly white “women's annex”
+where racial minorities were denied campus housing and
+scholarships. Id., at 51. Women of color at Radcliffe were
+taught by Harvard professors, but “women did not receive
+Harvard degrees until 1963.” Ibid.; see also S. Bradley, Up-
+ending the Ivory Tower: Civil Rights, Black Power, and the
+Ivy League 17 (2018) (noting that the historical discussion of
+racial integration at the Ivy League “is necessarily male-
+centric,” given the historical exclusion of women of color
+from these institutions).
+Today, benefactors with ties to slavery and white suprem-
+acy continue to be memorialized across campus through
+“statues, buildings, professorships, student houses, and the
+like.” Harvard Report 11. Black and Latino applicants ac-
+count for only 20% of domestic applicants to Harvard each
+year. App. to Pet. for Cert. in No. 20–1199, p. 112. “Even
+those students of color who beat the odds and earn an offer
+of admission” continue to experience isolation and alienation
+on campus. Brief for 25 Harvard Student and Alumni Orga-
+nizations as Amici Curiae 30–31; 2 App. 823, 961. For
+years, the university has reported that inequities on campus
+remain. See, e. g., 4 App. 1564–1601. For example, Har-
+vard has reported that “far too many black students at Har-
+vard experience feelings of isolation and marginalization,” 3
+id., at 1308, and that “student survey data show[ed] that only
+half of Harvard undergraduates believe that the housing sys-
+tem fosters exchanges between students of different back-
+grounds,” id., at 1309.
+* * *
+These may be uncomfortable truths to some, but they are
+truths nonetheless. “Institutions can and do change,” how-
+ever, as societal and legal changes force them “to live up to
+[their] highest ideals.” Harvard Report 56. It is against
+this historical backdrop that Harvard and UNC have reck-
+oned with their past and its lingering effects. Acknowledg-
+ing the reality that race has always mattered and continues
+to matter, these universities have established institutional
+goals of diversity and inclusion. Consistent with equal pro-
+tection principles and this Court's settled law, their policies
+use race in a limited way with the goal of recruiting, admit-
+ting, and enrolling underrepresented racial minorities to pur-
+sue the well-documented benefits of racial integration in
+education.
+II
+The Court today stands in the way of respondents' com-
+mendable undertaking and entrenches racial inequality in
+higher education. The majority opinion does so by turning
+a blind eye to these truths and overruling decades of prece-
+dent, “content for now to disguise” its ruling as an applica-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+tion of “established law and move on.” Kennedy, 597 U. S.,
+at ––– (Sotomayor, J ., dissenting). As Justice Thomas
+puts it, “Grutter is, for all intents and purposes, overruled.”
+Ante, at 287.
+It is a disturbing feature of today's decision that the Court
+does not even attempt to make the extraordinary showing
+required by stare decisis. The Court simply moves the goal-
+posts, upsetting settled expectations and throwing admis-
+sions programs nationwide into turmoil. In the end, how-
+ever, it is clear why the Court is forced to change the rules
+of the game to reach its desired outcome: Under a faithful
+application of the Court's settled legal framework, Harvard
+and UNC's admissions programs are constitutional and com-
+ply with Title VI of the Civil Rights Act of 1964, 42 U. S. C.
+§ 2000d et seq.21
+21 The same standard that applies under the Equal Protection Clause
+guides the Court's review under Title VI, as the majority correctly recog-
+nizes. See ante, at 198, n. 2; see also Regents of Univ. of Cal. v. Bakke,
+438 U. S. 265, 325 (1978) (Brennan, J., concurring). Justice Gorsuch ar-
+gues that “Title VI bears independent force” and holds universities to an
+even higher standard than the Equal Protection Clause. Ante, at 310.
+Because no party advances Justice Gorsuch’ s argument, see ante, at
+198, n. 2, the Court properly declines to address it under basic principles
+of party presentation. See United States v. Sineneng-Smith, 590 U. S.
+–––, ––– (2020). Indeed, Justice Gorsuch’s approach calls for even more
+judicial restraint. If petitioner could prevail under Justice Gorsuch's
+statutory analysis, there would be no reason for this Court to reach the
+constitutional question. See Escambia County v. McMillan, 466 U. S. 48,
+51 (1984) (per curiam ). In a statutory case, moreover, stare decisis car-
+ries “enhanced force,” as it would be up to Congress to “correct any mis-
+take it sees” with “our interpretive decisions.” Kimble v. Marvel Enter-
+tainment, LLC , 576 U. S. 446, 456 (2015). Justice Gorsuch wonders
+why the dissent, like the majority, does not “engage” with his statutory
+arguments. Ante, at 302. The answer is simple: This Court plays “the
+role of neutral arbiter of matters the parties present.” Greenlaw v.
+United States, 554 U. S. 237, 243 (2008). Petitioner made a strategic liti-
+gation choice, and in our adversarial system, it is not up to this Court to
+come up with “wrongs to right” on behalf of litigants. Id., at 244 (internal
+quotation marks omitted).
+A
+Answering the question whether Harvard's and UNC's
+policies survive strict scrutiny under settled law is straight-
+forward, both because of the procedural posture of these
+cases and because of the narrow scope of the issues pre-
+sented by petitioner Students for Fair Admissions, Inc.
+(SFFA).22
+These cases arrived at this Court after two lengthy trials.
+Harvard and UNC introduced dozens of fact witnesses, ex-
+pert testimony, and documentary evidence in support of their
+admissions programs. Brief for Petitioner 20, 40. SFFA,
+by contrast, did not introduce a single fact witness and relied
+on the testimony of two experts. Ibid.
+After making detailed findings of fact and conclusions of
+law, the District Courts entered judgment in favor of Har-
+vard and UNC. See 397 F. Supp. 3d 126, 133–206 (Mass.
+2019) (Harvard I); 567 F. Supp. 3d 580, 588–667 (MDNC
+2021) (UNC). The First Circuit affirmed in the Harvard
+case, finding “no error” in the District Court's thorough opin-
+ion. 980 F. 3d 157, 204 (2020) (Harvard II). SFFA then
+fled petitions for a writ of certiorari in both cases, which the
+Court granted. 595 U. S. ––– (2022). 23
+The Court granted certiorari on three questions: (1)
+whether the Court should overrule Bakke, Grutter , and
+Fisher; or, alternatively, (2) whether UNC's admissions pro-
+gram is narrowly tailored, and (3) whether Harvard's admis-
+22 SFFA is a 501(c)(3) nonproft organization founded after this Court's
+decision in Fisher I, 570 U. S. 297 (2013). App. to Pet. for Cert. in No.
+20–1199, p. 10. Its original board of directors had three self-appointed
+members: Edward Blum, Abigail Fisher (the plaintiff in Fisher), and Rich-
+ard Fisher. See ibid.
+23 Bypassing the Fourth Circuit's opportunity to review the District
+Court's opinion in the UNC case, SFFA sought certiorari before judgment,
+urging that, “[p]aired with Harvard,” the UNC case would “allow the
+Court to resolve the ongoing validity of race-based admissions under both
+Title VI and the Constitution.” Pet. for Cert. in No. 21–707, p. 27.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+sions program is narrowly tailored. See Brief for Petitioner
+in No. 20–1199, p. i; Brief for Respondent in No. 20–1199,
+p. i; Brief for University Respondents in No. 21–707, p. i.
+Answering the last two questions, which call for application
+of settled law to the facts of these cases, is simple: Deferring
+to the lower courts' careful findings of fact and credibility
+determinations, Harvard's and UNC's policies are narrowly
+tailored.
+B
+1
+As to narrow tailoring, the only issue SFFA raises in the
+UNC case is that the university cannot use race in its admis-
+sions process because race-neutral alternatives would pro-
+mote UNC's diversity objectives. That issue is so easily re-
+solved in favor of UNC that SFFA devoted only three pages
+to it at the end of its 87-page brief. Brief for Petitioner
+83–86.
+The use of race is narrowly tailored unless “workable” and
+“available” race-neutral approaches exist, meaning race-
+neutral alternatives promote the institution's diversity goals
+and do so at “ `tolerable administrative expense.' ” Fisher
+I, 570 U. S., at 312 (quoting Wygant v. Jackson Bd. of Ed.,
+476 U. S. 267, 280, n. 6 (1986) (plurality opinion)). Narrow
+tailoring does not mean perfect tailoring. The Court's prec-
+edents make clear that “[n]arrow tailoring does not require
+exhaustion of every conceivable race-neutral alternative.”
+Grutter , 539 U. S., at 339. “Nor does it require a university
+to choose between maintaining a reputation for excellence or
+fulflling a commitment to provide educational opportunities
+to members of all racial groups.” Ibid.
+As the District Court found after considering extensive
+expert testimony, SFFA's proposed race-neutral alternatives
+do not meet those criteria. UNC, 567 F. Supp. 3d, at 648.
+All of SFFA's proposals are methodologically flawed because
+they rest on “ `terribly unrealistic' ” assumptions about the
+applicant pools. Id., at 643–645, 647. For example, as to
+one set of proposals, SFFA's expert “unrealistically as-
+sumed” that “all of the top students in the candidate pools
+he use[d] would apply, be admitted, and enroll.” Id., at 647.
+In addition, some of SFFA's proposals force UNC to “aban-
+don its holistic approach” to college admissions, id., at 643–
+645, n. 43, a result “in deep tension with the goal of educa-
+tional diversity as this Court's cases have defined it,” Fisher
+II, 579 U. S., at 386–387. Others are “largely impractical—
+not to mention unprecedented—in higher education.” 567
+F. Supp. 3d, at 647. SFFA's proposed top percentage
+plans,24 for example, are based on a made-up and complicated
+admissions index that requires UNC to “access . . . real-time
+data for all high school students.” Ibid. UNC is then sup-
+posed to use that index, which “would change every time any
+student took a standardized test,” to rank students based on
+grades and test scores. Ibid. One of SFFA's top percent-
+age plans would even “nearly erase the Native American in-
+coming class” at UNC. Id., at 646. The courts below cor-
+rectly concluded that UNC is not required to adopt SFFA's
+unrealistic proposals to satisfy strict scrutiny.25
+24 Generally speaking, top percentage plans seek to enroll a percentage
+of the graduating high school students with the highest academic creden-
+tials. See, e. g., Fisher II, 579 U. S., at 373 (describing the University of
+Texas' Top Ten Percent Plan).
+25 SFFA and Justice Gorsuch reach beyond the factfinding below and
+argue that universities in States that have banned the use of race in college
+admissions have achieved racial diversity through efforts such as increasing
+socioeconomic preferences, so UNC could do the same. Brief for Petitioner
+85–86; ante, at 299–300. Data from those States disprove that theory.
+Institutions in those States experienced “ `an immediate and precipitous
+decline in the rates at which underrepresented-minority students applied
+. . . were admitted . . . and enrolled.' ” Schuette v. BAMN, 572 U. S. 291,
+384–390 (2014) (Sotomayor , J., dissenting); see infra, at 377–379. In ad-
+dition, UNC “already engages” in race-neutral efforts focused on socioeco-
+nomic status, including providing “exceptional levels of financial aid” and
+“increased and targeted recruiting.” UNC, 567 F. Supp. 3d, at 665.
+Justice Gorsuch argues that he is simply “recount[ing] what SFFA
+has argued.” Ante, at 300, n. 4. That is precisely the point: SFFA's ar-
+guments were not credited by the court below. “[W]e are a court of re-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+2
+Harvard's admissions program is also narrowly tailored
+under settled law. SFFA argues that Harvard's program is
+not narrowly tailored because the university “has workable
+race-neutral alternatives,” “does not use race as a mere
+plus,” and “engages in racial balancing.” Brief for Peti-
+tioner 75–83. As the First Circuit concluded, there was “no
+error” in the District Court's findings on any of these issues.
+Harvard II, 980 F. 3d, at 204. 26
+Like UNC, Harvard has already implemented many of
+SFFA's proposals, such as increasing recruitment efforts and
+financial aid for low-income students. Id., at 193. Also like
+UNC, Harvard “carefully considered” other race-neutral
+ways to achieve its diversity goals, but none of them are
+“workable.” Id., at 193–194. SFFA's argument before this
+Court is that Harvard should adopt a plan designed by
+SFFA's expert for purposes of trial, which increases prefer-
+ences for low-income applicants and eliminates the use of
+race and legacy preferences. Id., at 193; Brief for Petitioner
+81. Under SFFA's model, however, Black representation
+would plummet by about 32%, and the admitted share of ap-
+plicants with high academic ratings would decrease, as would
+the share with high extracurricular and athletic ratings.
+980 F. 3d, at 194. SFFA's proposal, echoed by Justice Gor-
+such, ante, at 300, requires Harvard to “make sacrifces on
+almost every dimension important to its admissions process,”
+view, not of first view.” Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7
+(2005). Justice Gorsuch also suggests it is inappropriate for the dissent
+to respond to the majority by relying on materials beyond the findings of
+fact below. Ante, at 300, n. 4. There would be no need for the dissent
+to do that if the majority stuck to reviewing the District Court's careful
+factfinding with the deference it owes to the trial court. Because the
+majority has made a different choice, the dissent responds.
+26 SFFA also argues that Harvard discriminates against Asian American
+students. Brief for Petitioner 72–75. As explained below, this claim
+does not ft under Grutter 's strict scrutiny framework, and the courts
+below did not err in rejecting that claim. See infra, at 374–375.
+980 F. 3d, at 194, and forces it “to choose between a diverse
+student body and a reputation for academic excellence,”
+Fisher II, 579 U. S., at 385. Neither this Court's precedents
+nor common sense impose that type of burden on colleges
+and universities.
+The courts below also properly rejected SFFA's argument
+that Harvard does not use race in the limited way this
+Court's precedents allow. The Court has explained that a
+university can consider a student's race in its admissions
+process so long as that use is “contextual and does not oper-
+ate as a mechanical plus factor.” Id., at 375. The Court
+has also repeatedly held that race, when considered as one
+factor of many in the context of holistic review, “can make a
+difference to whether an application is accepted or rejected.”
+Ibid. After all, race-conscious admissions seek to improve
+racial diversity. Race cannot, however, be “ `decisive' for
+virtually every minimally qualified underrepresented minor-
+ity applicant.” Gratz, 539 U. S., at 272 (quoting Bakke, 438
+U. S., at 317).
+That is precisely how Harvard's program operates. In re-
+cent years, Harvard has received about 35,000 applications
+for a class with about 1,600 seats. 980 F. 3d, at 165. The
+admissions process is exceedingly competitive; it involves
+six different application components. Those components in-
+clude interviews with alumni and admissions officers, as well
+as consideration of a whole range of information, such as
+grades, test scores, recommendation letters, and personal es-
+says, by several committees. Id., at 165–166. Consistent
+with that “individualized, holistic review process,” admis-
+sions officers may, but need not, consider a student's self-
+reported racial identity when assigning overall ratings. Id.,
+at 166, 169, 180. Even after so many layers of competitive
+review, Harvard typically ends up with about 2,000 tentative
+admits, more students than the 1,600 or so that the univer-
+sity can admit. Id., at 170. To choose among those highly
+qualified candidates, Harvard considers “plus factors,” which
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+can help “tip an applicant into Harvard's admitted class.”
+Id., at 170, 191. To diversify its class, Harvard awards
+“tips” for a variety of reasons, including geographic factors,
+socioeconomic status, ethnicity, and race. Ibid.
+There is “no evidence of any mechanical use of tips.” Id.,
+at 180. Consistent with the Court's precedents, Harvard
+properly “considers race as part of a holistic review process,”
+“values all types of diversity,” “does not consider race exclu-
+sively,” and “does not award a fxed amount of points to ap-
+plicants because of their race.” Id., at 190. 27 Indeed, Har-
+vard's admissions process is so competitive and the use of
+race is so limited and flexible that, as “SFFA's own expert's
+analysis” showed, “Harvard rejects more than two-thirds of
+Hispanic applicants and slightly less than half of all African-
+American applicants who are among the top 10% most aca-
+demically promising applicants.” Id., at 191.
+The courts below correctly rejected SFFA's view that Har-
+vard's use of race is unconstitutional because it impacts over-
+all Hispanic and Black student representation by 45%. See
+Brief for Petitioner 79. That 45% figure shows that elimi-
+nating the use of race in admissions “would reduce African
+American representation . . . from 14% to 6% and Hispanic
+representation from 14% to 9%.” Harvard II, 980 F. 3d, at
+180, 191. Such impact of Harvard's limited use of race on
+the makeup of the class is less than this Court has previously
+upheld as narrowly tailored. In Grutter , for example, elimi-
+nating the use of race would have reduced the underrepre-
+sented minority population by 72%, a much greater effect.
+27 Justice Gorsuch suggests that only “applicants of certain races may
+receive a `tip' in their favor.” Ante, at 295. To the extent Justice Gor-
+such means that some races are not eligible to receive a tip based on their
+race, there is no evidence in the record to support this statement. Har-
+vard “does not explicitly prioritize any particular racial group over any
+other and permits its admissions officers to evaluate the racial and ethnic
+identity of every student in the context of his or her background and cir-
+cumstances.” Harvard I, 397 F. Supp. 3d 126, 190, n. 56 (Mass. 2019).
+539 U. S., at 320. And in Fisher II, the use of race helped
+increase Hispanic representation from 11% to 16.9% (a 54%
+increase) and African-American representation from 3.5% to
+6.8% (a 94% increase). 579 U. S., at 384. 28
+Finally, the courts below correctly concluded that Harvard
+complies with this Court's repeated admonition that colleges
+and universities cannot define their diversity interest “as
+`some specified percentage of a particular group merely be-
+28 Relying on a single footnote in the First Circuit's opinion, the Court
+claims that Harvard's program is unconstitutional because it “has led to an
+11.1% decrease in the number of Asian-Americans admitted to Harvard.”
+Ante, at 218. The Court of Appeals, however, merely noted that the
+United States, at the time represented by a different administration, ar-
+gued that “absent the consideration of race, [Asian American] representa-
+tion would increase from 24% to 27%,” an 11% increase. Harvard II, 980
+F. 3d, at 191, n. 29. Taking those calculations as correct, the Court of
+Appeals recognized that such an impact from the use of race on the overall
+makeup of the class is consistent with the impact that this Court's prece-
+dents have tolerated. Ibid.
+The Court also notes that “race is determinative for at least some—if
+not many—of the students” admitted at UNC. Ante, at 219. The Dis-
+trict Court in the UNC case found that “race plays a role in a very small
+percentage of decisions: 1.2% for in-state students and 5.1% for out-of-
+state students.” 567 F. Supp. 3d 580, 634 (MDNC 2021). The limited use
+of race at UNC thus has a smaller effect than at Harvard and is also
+consistent with the Court's precedents. In addition, contrary to the ma-
+jority's suggestion, such effect does not prove that “race alone . . . explains
+the admissions decisions for hundreds if not thousands of applicants to
+UNC each year.” Ante, at 219, n. 6. As the District Court found, UNC
+(like Harvard) “engages a highly individualized, holistic review of each
+applicant's fle, which considers race fexibly as a `plus factor' as one among
+many factors in its individualized consideration of each and every appli-
+cant.” 567 F. Supp. 3d, at 662; see id., at 658 (finding that UNC “rewards
+different kinds of diversity, and evaluates a candidate within the context
+of their lived experience”); id., at 659 (“The parties stipulated, and the
+evidence shows, that readers evaluate applicants by taking into consider-
+ation dozens of criteria,” and even SFFA's expert “concede[d] that the
+University's admissions process is individualized and holistic”). Stated
+simply, race is not “a defining feature of any individual application.” Id.,
+at 662; see also infra, at 363.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+cause of its race or ethnic origin.' ” Fisher I, 570 U. S., at
+311 (quoting Bakke, 438 U. S., at 307). Harvard does not
+specify its diversity objectives in terms of racial quotas, and
+“SFFA did not offer expert testimony to support its racial
+balancing claim.” Harvard II, 980 F. 3d, at 180, 186–187.
+Harvard's statistical evidence, by contrast, showed that the
+admitted classes across racial groups varied considerably
+year to year, a pattern “inconsistent with the imposition of
+a racial quota or racial balancing.” Harvard I, 397 F. Supp.
+3d, at 176–177; see Harvard II, 980 F. 3d, at 180, 188–189.
+Similarly, Harvard's use of “one-pagers” containing “a
+snapshot of various demographic characteristics of Harvard's
+applicant pool” during the admissions review process is per-
+fectly consistent with this Court's precedents. Id., at 170–
+171, 189. Consultation of these reports, with no “specific
+number firmly in mind,” “does not transform [Harvard's]
+program into a quota.” Grutter , 539 U. S., at 335–336.
+Rather, Harvard's ongoing review complies with the Court's
+command that universities periodically review the necessity
+of the use of race in their admissions programs. Id., at 342;
+Fisher II, 579 U. S., at 388.
+The Court ignores these careful findings and concludes
+that Harvard engages in racial balancing because its “focus
+on numbers is obvious.” Ante, at 222. Because SFFA
+failed to offer an expert and to prove its claim below, the
+majority is forced to reconstruct the record and conduct its
+own factual analysis. It thus relies on a single chart from
+SFFA's brief that truncates relevant data in the record.
+Compare ibid. (citing Brief for Petitioner in No. 20–1199,
+p. 23) with 4 App. in No. 20–1199, p. 1770. That chart cannot
+displace the careful factfinding by the District Court, which
+the First Circuit upheld on appeal under clear error review.
+See Harvard II, 980 F. 3d, at 180–182, 188–189.
+In any event, the chart is misleading and ignores “the
+broader context” of the underlying data that it purports
+to summarize. Id., at 188. As the First Circuit con-
+cluded, what the data actually show is that admissions have
+increased for all racial minorities, including Asian Ameri-
+can students, whose admissions numbers have “increased
+roughly fve-fold since 1980 and roughly two-fold since 1990.”
+Id., at 180, 188. The data also show that the racial shares
+of admitted applicants fuctuate more than the correspond-
+ing racial shares of total applicants, which is “the oppo-
+site of what one would expect if Harvard imposed a quota.”
+Id., at 188. Even looking at the Court's truncated period
+for the classes of 2009 to 2018, “the same pattern holds.”
+Ibid. The fact that Harvard's racial shares of admit-
+ted applicants “varies relatively little in absolute terms
+for [those classes] is unsurprising and reflects the fact that
+the racial makeup of Harvard's applicant pool also varies
+very little over this period.” Id., at 188–189. Thus, prop-
+erly understood, the data show that Harvard “does not uti-
+lize quotas and does not engage in racial balancing.” Id.,
+at 189.29
+29 The majority does not dispute that it has handpicked data from a trun-
+cated period, ignoring the broader context of that data and what the data
+reflect. Instead, the majority insists that its selected data prove that
+Harvard's “precise racial preferences” “operate like clockwork.” Ante, at
+222–223, n. 7. The Court's conclusion that such racial preferences must
+be responsible for an “unyielding demographic composition of [the] class,”
+ibid., misunderstands basic principles of statistics. A number of factors
+(most notably, the demographic composition of the applicant pool) affect
+the demographic composition of the entering class. Assume, for example,
+that Harvard admitted students based solely on standardized test scores.
+If test scores followed a normal distribution (even with different averages
+by race) and were relatively constant over time, and if the racial shares of
+total applicants were also relatively constant over time, one would expect
+the same “unyielding demographic composition of [the] class.” Ibid.
+That would be true even though, under that hypothetical scenario, Har-
+vard does not consider race in admissions at all. In other words, the
+Court's inference that precise racial preferences must be the cause of rela-
+tively constant racial shares of admitted students is specious.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+III
+The Court concludes that Harvard's and UNC's policies
+are unconstitutional because they serve objectives that are
+insufficiently measurable, employ racial categories that are
+imprecise and overbroad, rely on racial stereotypes and dis-
+advantage nonminority groups, and do not have an end point.
+Ante, at 213–225, 230. In reaching this conclusion, the
+Court claims those supposed issues with respondents' pro-
+grams render the programs insufficiently “narrow” under the
+strict scrutiny framework that the Court's precedents com-
+mand. Ante, at 213. In reality, however, “the Court today
+cuts through the kudzu” and overrules its “higher-education
+precedents” following Bakke. Ante , at 307 (Gorsuch, J.,
+concurring).
+There is no better evidence that the Court is overruling
+the Court's precedents than those precedents themselves.
+“Every one of the arguments made by the majority can be
+found in the dissenting opinions fled in [the] cases” the ma-
+jority now overrules. Payne v. Tennessee, 501 U. S. 808, 846
+(1991) (Marshall, J., dissenting); see, e. g., Grutter , 539 U. S.,
+at 354 (Thomas, J., concurring in part and dissenting in part)
+(“Unlike the majority, I seek to define with precision the in-
+terest being asserted”); Fisher II, 579 U. S., at 389 (Thomas,
+J., dissenting) (race-conscious admissions programs “res[t] on
+pernicious assumptions about race”); id., at 403 (Alito, J .,
+joined by Roberts, C. J., and Thomas, J., dissenting) (diver-
+sity interests “are laudable goals, but they are not concrete
+or precise”); id., at 413 (race-conscious college admissions
+plan “discriminates against Asian-American students”); id.,
+at 414 (race-conscious admissions plan is unconstitutional
+because it “does not specify what it means to be `African-
+American,' `Hispanic,' `Asian American,' `Native American,'
+or `White' ”); id., at 419 (race-conscious college admissions
+policies rest on “pernicious stereotype[s]”).
+Lost arguments are not grounds to overrule a case.
+When proponents of those arguments, greater now in num-
+ber on the Court, return to fight old battles anew, it betrays
+an unrestrained disregard for precedent. It fosters the Peo-
+ple's suspicions that “bedrock principles are founded . . . in
+the proclivities of individuals” on this Court, not in the law,
+and it degrades “the integrity of our constitutional system
+of government.” Vasquez v. Hillery, 474 U. S. 254, 265
+(1986). Nowhere is the damage greater than in cases like
+these that touch upon matters of representation and institu-
+tional legitimacy.
+The Court offers no justification, much less “a `special
+justification,' ” for its costly endeavor. Dobbs v. Jackson
+Women's Health Organization, 597 U. S. –––, ––– (2022)
+(joint opinion of Breyer, Sotomayor, and Kagan, JJ., dis-
+senting) (quoting Gamble v. United States, 587 U. S. –––, –––
+(2019)). Nor could it. There is no basis for overruling
+Bakke, Grutter , and Fisher. The Court's precedents were
+correctly decided, the opinion today is not workable and cre-
+ates serious equal protection problems, important reliance
+interests favor respondents, and there are no legal or factual
+developments favoring the Court's reckless course. See 597
+U. S., at ––– (joint opinion of Breyer, Sotomayor, and
+Kagan, JJ., dissenting); id., at ––– – ––– (Kavanaugh, J.,
+concurring). At bottom, the six unelected Members of to-
+day's majority upend the status quo based on their policy
+preferences about what race in America should be like, but
+is not, and their preferences for a veneer of colorblindness in
+a society where race has always mattered and continues to
+matter in fact and in law.
+A
+1
+A limited use of race in college admissions is consistent
+with the Fourteenth Amendment and this Court's broader
+equal protection jurisprudence. The text and history of the
+Fourteenth Amendment make clear that the Equal Protec-
+tion Clause permits race-conscious measures. See supra, at
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+319–326. Consistent with that view, the Court has explicitly
+held that “race-based action” is sometimes “within constitu-
+tional constraints.” Adarand Constructors, Inc. v. Peña,
+515 U. S. 200, 237 (1995). The Court has thus upheld the use
+of race in a variety of contexts. See, e. g., Parents Involved
+in Community Schools v. Seattle School Dist. No. 1, 551
+U. S. 701, 737 (2007) (“[T]he obligation to disestablish a
+school system segregated by law can include race-conscious
+remedies—whether or not a court had issued an order to that
+effect”); Johnson v. California, 543 U. S. 499, 512 (2005) (use
+of race permissible to further prison's interest in “ `security' ”
+and “ `discipline' ”); Cooper v. Harris, 581 U. S. 285, 291–293
+(2017) (use of race permissible when drawing voting districts
+in some circumstances).30
+Tellingly, in sharp contrast with today's decision, the
+Court has allowed the use of race when that use burdens
+minority populations. In United States v. Brignoni-Ponce ,
+422 U. S. 873 (1975), for example, the Court held that it is
+unconstitutional for border patrol agents to rely on a person's
+skin color as “a single factor” to justify a traffc stop based
+on reasonable suspicion, but it remarked that “Mexican ap-
+pearance” could be “a relevant factor” out of many to justify
+such a stop “at the border and its functional equivalents.”
+Id., at 884–887; see also id., at 882 (recognizing that “the
+border” includes entire metropolitan areas such as San
+Diego, El Paso, and the South Texas Rio Grande Valley).31
+The Court thus facilitated racial profling of Latinos as a law
+enforcement tool and did not adopt a race-blind rule. The
+30 In the context of policies that “benefit rather than burden the minor-
+ity,” the Court has adhered to a strict scrutiny framework despite multiple
+Members of this Court urging that “the mandate of the Equal Protection
+Clause” favors applying a less exacting standard of review. Schuette, 572
+U. S., at 373–374 (Sotomayor , J., dissenting) (collecting cases).
+31 The Court's “dictum” that Mexican appearance can be one of many
+factors rested on now-outdated quantitative premises. United States v.
+Montero-Camargo, 208 F. 3d 1122, 1132 (CA9 2000).
+Court later extended this reasoning to border patrol agents
+selectively referring motorists for secondary inspection at a
+checkpoint, concluding that “even if it be assumed that such
+referrals are made largely on the basis of apparent Mexi-
+can ancestry, [there is] no constitutional violation.” United
+States v. Martinez-Fuerte , 428 U. S. 543, 562–563 (1976)
+(footnote omitted).
+The result of today's decision is that a person's skin color
+may play a role in assessing individualized suspicion, but it
+cannot play a role in assessing that person's individualized
+contributions to a diverse learning environment. That inde-
+fensible reading of the Constitution is not grounded in law
+and subverts the Fourteenth Amendment's guarantee of
+equal protection.
+2
+The majority does not dispute that some uses of race are
+constitutionally permissible. See ante, at 206–207. Indeed,
+it agrees that a limited use of race is permissible in some
+college admissions programs. In a footnote, the Court ex-
+empts military academies from its ruling in light of “the po-
+tentially distinct interests” they may present. Ante, at 213,
+n. 4. To the extent the Court suggests national security in-
+terests are “distinct,” those interests cannot explain the
+Court's narrow exemption, as national security interests are
+also implicated at civilian universities. See infra, at 379–
+380. The Court also attempts to justify its carveout based
+on the fact that “[n]o military academy is a party to these
+cases.” Ante, at 213, n. 4. Yet the same can be said of
+many other institutions that are not parties here, including
+the religious universities supporting respondents, which the
+Court does not similarly exempt from its sweeping opinion.
+See Brief for Georgetown University et al. as Amici Curiae
+18–29 (Georgetown Brief) (Catholic colleges and universities
+noting that they rely on the use of race in their holistic ad-
+missions to further not just their academic goals, but also
+their religious missions); see also Harvard II, 980 F. 3d, at
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+187, n. 24 (“[S]chools that consider race are diverse on nu-
+merous dimensions, including in terms of religious affiliation,
+location, size, and courses of study offered”). The Court's
+carveout only highlights the arbitrariness of its decision and
+further proves that the Fourteenth Amendment does not cat-
+egorically prohibit the use of race in college admissions.
+The concurring opinions also agree that the Constitution
+tolerates some racial classifications. Justice Gorsuch
+agrees with the majority's conclusion that racial classifica-
+tions are constitutionally permissible if they advance a com-
+pelling interest in a narrowly tailored way. Ante, at 308.
+Justice Kavanaugh, too, agrees that the Constitution per-
+mits the use of race if it survives strict scrutiny. Ante, at
+311. 32 Justice Thomas offers an “originalist defense of the
+colorblind Constitution,” but his historical analysis leads to
+the inevitable conclusion that the Constitution is not, in fact,
+colorblind. Ante, at 232. Like the majority opinion, Jus-
+tice Thomas agrees that race can be used to remedy past
+discrimination and “to equalize treatment against a concrete
+baseline of government-imposed inequality.” Ante, at 248–
+251. He also argues that race can be used if it satisfies strict
+scrutiny more broadly, and he considers compelling interests
+those that prevent anarchy, curb violence, and segregate
+prisoners. Ante, at 255. Thus, although Justice Thomas
+at times suggests that the Constitution only permits “di-
+rectly remedial” measures that benefit “identified victims of
+discrimination,” ante, at 249, he agrees that the Constitution
+tolerates a much wider range of race-conscious measures.
+32 Justice Kavanaugh agrees that the effects from the legacy of slav-
+ery and Jim Crow continue today, citing Justice Marshall's opinion in
+Bakke. Ante, at 316 (citing 438 U. S., at 395–402). As explained above,
+Justice Marshall's view was that Bakke covered only a portion of the Four-
+teenth Amendment's sweeping reach, such that the Court's higher edu-
+cation precedents must be expanded, not constricted. See 438 U. S., at
+395–402 (opinion dissenting in part). Justice Marshall's reading of the
+Fourteenth Amendment does not support Justice Kavanaugh's and the
+majority's opinions.
+In the end, when the Court speaks of a “colorblind” Consti-
+tution, it cannot really mean it, for it is faced with a body of
+law that recognizes that race-conscious measures are permis-
+sible under the Equal Protection Clause. Instead, what the
+Court actually lands on is an understanding of the Constitu-
+tion that is “colorblind” sometimes, when the Court so
+chooses. Behind those choices lie the Court's own value
+judgments about what type of interests are sufficiently com-
+pelling to justify race-conscious measures.
+Overruling decades of precedent, today's newly consti-
+tuted Court singles out the limited use of race in holistic
+college admissions. It strikes at the heart of Bakke, Grut-
+ter, and Fisher by holding that racial diversity is an “ines-
+capably imponderable” objective that cannot justify race-
+conscious affirmative action, ante, at 215, even though
+respondents' objectives simply “mirror the `compelling inter-
+est' this Court has approved” many times in the past.
+Fisher II, 579 U. S., at 382; see, e. g., UNC, 567 F. Supp. 3d,
+at 598 (“the [university's admissions policy] repeatedly cites
+Supreme Court precedent as guideposts”).33 At bottom,
+without any new factual or legal justification, the Court
+overrides its longstanding holding that diversity in higher
+education is of compelling value.
+To avoid public accountability for its choice, the Court
+seeks cover behind a unique measurability requirement of
+its own creation. None of this Court's precedents, however,
+requires that a compelling interest meet some threshold level
+33 There is no dispute that respondents' compelling diversity objectives
+are “substantial, long-standing, and well documented.” UNC, 567
+F. Supp. 3d, at 655; Harvard II, 980 F. 3d, at 186–187. SFFA did not
+dispute below that respondents have a compelling interest in diversity.
+See id., at 185; Harvard I, 397 F. Supp. 3d, at 133; Tr. of Oral Arg. in No.
+21–707, p. 121. And its expert agreed that valuable educational benefits
+fow from diversity, including richer and deeper learning, reduced bias,
+and more creative problem solving. 2 App. in No. 21–707, at 546. SFFA's
+counsel also emphatically disclaimed the issue at trial. 2 App. in No. 20–
+1199, p. 548 (“Diversity and its benefits are not on trial here”).
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+of precision to be deemed sufficiently compelling. In fact,
+this Court has recognized as compelling plenty of interests
+that are equally or more amorphous, including the “intangi-
+ble” interest in preserving “public confidence in judicial in-
+tegrity,” an interest that “does not easily reduce to precise
+definition.” Williams-Yulee v. Florida Bar , 575 U. S. 433,
+447, 454 (2015) (Roberts, C. J., for the Court); see also, e. g.,
+Ramirez v. Collier, 595 U. S. –––, ––– (2022) (Roberts, C. J.,
+for the Court) (“[M]aintaining solemnity and decorum in
+the execution chamber” is a “compelling” interest); United
+States v. Alvarez, 567 U. S. 709, 725 (2012) (plurality opinion)
+(“[P]rotecting the integrity of the Medal of Honor” is a “com-
+pelling interes[t]”); Sable Communications of Cal., Inc. v.
+FCC, 492 U. S. 115, 126 (1989) (“[P]rotecting the physical and
+psychological well-being of minors” is a “compelling inter-
+est”). Thus, although the Members of this majority pay lip
+service to respondents' “commendable” and “worthy” racial
+diversity goals, ante, at 214–215, they make a clear value judg-
+ment today: Racial integration in higher education is not suf-
+ficiently important to them. “Today, the proclivities of indi-
+viduals rule.” Dobbs, 597 U. S., at ––– (dissenting opinion).
+The majority offers no response to any of this. Instead,
+it attacks a straw man, arguing that the Court's cases recog-
+nize that remedying the effects of “societal discrimination”
+does not constitute a compelling interest. Ante, at 226–227.
+Yet as the majority acknowledges, while Bakke rejected that
+interest as insufficiently compelling, it upheld a limited use
+of race in college admissions to promote the educational ben-
+efts that fow from diversity. 438 U. S., at 311–315. It is
+that narrower interest, which the Court has reaffirmed nu-
+merous times since Bakke and as recently as 2016 in Fisher
+II, see supra, at 331–332, that the Court overrules today.
+B
+The Court's precedents authorizing a limited use of race
+in college admissions are not just workable—they have been
+working. Lower courts have consistently applied them
+without issue, as exemplifed by the opinions below and
+SFFA's and the Court's inability to identify any split of au-
+thority. Today, the Court replaces this settled framework
+with a set of novel restraints that create troubling equal pro-
+tection problems and share one common purpose: to make it
+impossible to use race in a holistic way in college admissions,
+where it is much needed.
+1
+The Court argues that Harvard's and UNC's programs
+must end because they unfairly disadvantage some racial
+groups. According to the Court, college admissions are a
+“zero-sum” game and respondents' use of race unfairly “ad-
+vantages” underrepresented minority students “at the ex-
+pense of” other students. Ante, at 218–219.
+That is not the role race plays in holistic admissions. Con-
+sistent with the Court's precedents, respondents' holistic re-
+view policies consider race in a very limited way. Race is
+only one factor out of many. That type of system allows
+Harvard and UNC to assemble a diverse class on a multitude
+of dimensions. Respondents' policies allow them to select
+students with various unique attributes, including talented
+athletes, artists, scientists, and musicians. They also allow
+respondents to assemble a class with diverse viewpoints, in-
+cluding students who have different political ideologies and
+academic interests, who have struggled with different types
+of disabilities, who are from various socioeconomic back-
+grounds, who understand different ways of life in various
+parts of the country, and—yes—students who self-identify
+with various racial backgrounds and who can offer different
+perspectives because of that identity.
+That type of multidimensional system benefits all stu-
+dents. In fact, racial groups that are not underrepresented
+tend to benefit disproportionately from such a system. Har-
+vard's holistic system, for example, provides points to appli-
+cants who qualify as “ALDC,” meaning “athletes, legacy ap-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+plicants, applicants on the Dean's Interest List [primarily
+relatives of donors], and children of faculty or staff.” Har-
+vard II, 980 F. 3d, at 171 (noting also that “SFFA does not
+challenge the admission of this large group”). ALDC appli-
+cants are predominantly white: Around 67.8% are white,
+11.4% are Asian American, 6% are Black, and 5.6% are Lat-
+ino. Ibid. By contrast, only 40.3% of non-ALDC applicants
+are white, 28.3% are Asian American, 11% are Black, and
+12.6% are Latino. Ibid. Although “ALDC applicants make
+up less than 5% of applicants to Harvard,” they constitute
+“around 30% of the applicants admitted each year.” Ibid.
+Similarly, because of achievement gaps that result from en-
+trenched racial inequality in K–12 education, see infra, at
+334–337, a heavy emphasis on grades and standardized test
+scores disproportionately disadvantages underrepresented
+racial minorities. Stated simply, race is one small piece of a
+much larger admissions puzzle where most of the pieces dis-
+favor underrepresented racial minorities. That is precisely
+why underrepresented racial minorities remain underrepre-
+sented. The Court's suggestion that an already advantaged
+racial group is “disadvantaged” because of a limited use of
+race is a myth.
+The majority's true objection appears to be that a limited
+use of race in college admissions does, in fact, achieve what
+it is designed to achieve: It helps equalize opportunity and
+advances respondents' objectives by increasing the number
+of underrepresented racial minorities on college campuses,
+particularly Black and Latino students. This is unaccept-
+able, the Court says, because racial groups that are not un-
+derrepresented “would be admitted in greater numbers”
+without these policies. Ante, at 219. Reduced to its sim-
+plest terms, the Court's conclusion is that an increase in the
+representation of racial minorities at institutions of higher
+learning that were historically reserved for white Americans
+is an unfair and repugnant outcome that offends the Equal
+Protection Clause. It provides a license to discriminate
+against white Americans, the Court says, which requires the
+courts and state actors to “pic[k] the right races to benefit.”
+Ante, at 229.
+Nothing in the Fourteenth Amendment or its history sup-
+ports the Court's shocking proposition, which echoes argu-
+ments made by opponents of Reconstruction-era laws and
+this Court's decision in Brown. Supra, at 319–331. In a so-
+ciety where opportunity is dispensed along racial lines, racial
+equality cannot be achieved without making room for under-
+represented groups that for far too long were denied admis-
+sion through the force of law, including at Harvard and UNC.
+Quite the opposite: A racially integrated vision of society, in
+which institutions reflect all sectors of the American public
+and where “the sons of former slaves and the sons of former
+slave owners [are] able to sit down together at the table of
+brotherhood,” is precisely what the Equal Protection Clause
+commands. Martin Luther King “I Have a Dream” Speech
+(Aug. 28, 1963). It is “essential if the dream of one Nation,
+indivisible, is to be realized.” Grutter , 539 U. S., at 332. 34
+By singling out race, the Court imposes a special burden
+on racial minorities for whom race is a crucial component of
+their identity. Holistic admissions require “truly individual-
+34 The Court suggests that promoting the Fourteenth Amendment's vi-
+sion of equality is a “radical” claim of judicial power and the equivalent of
+“pick[ing] winners and losers based on the color of their skin.” Ante, at
+229–230. The law sometimes requires consideration of race to achieve
+racial equality. Just like drawing district lines that comply with the Vot-
+ing Rights Act may require consideration of race along with other demo-
+graphic factors, achieving racial diversity in higher education requires
+consideration of race along with “age, economic status, religious and politi-
+cal persuasion, and a variety of other demographic factors.” Shaw v.
+Reno, 509 U. S. 630, 646 (1993) (“[R]ace consciousness does not lead inevi-
+tably to impermissible race discrimination”). Moreover, in ordering the
+admission of Black children to all-white schools “with all deliberate speed”
+in Brown v. Board of Education, 349 U. S. 294, 301 (1955), this Court did
+not decide that the Black children should receive an “advantag[e] . . . at
+the expense of” white children. Ante, at 219. It simply enforced the
+Equal Protection Clause by leveling the playing feld.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+ized consideration” of the whole person. Id., at 334. Yet,
+“by foreclosing racial considerations, colorblindness denies
+those who racially self-identify the full expression of their
+identity” and treats “racial identity as inferior” among all
+“other forms of social identity.” E. Boddie, The Indignities
+of Colorblindness, 64 UCLA L. Rev. Discourse 64, 67 (2016).
+The Court's approach thus turns the Fourteenth Amend-
+ment's equal protection guarantee on its head and creates an
+equal protection problem of its own.
+There is no question that minority students will bear the
+burden of today's decision. Students of color testifed at
+trial that racial self-identification was an important compo-
+nent of their application because without it they would not
+be able to present a full version of themselves. For exam-
+ple, Rimel Mwamba, a Black UNC alumna, testifed that it
+was “really important” that UNC see who she is “holistically
+and how the color of [her] skin and the texture of [her] hair
+impacted [her] upbringing.” 2 App. in No. 21–707, at 1033.
+Itzel Vasquez-Rodriguez, who identifies as Mexican-Ameri-
+can of Cora descent, testifed that her ethnoracial identity is
+a “core piece” of who she is and has impacted “every experi-
+ence” she has had, such that she could not explain her “poten-
+tial contributions to Harvard without any reference” to it.
+2 App. in No. 20–1199, at 906, 908. Sally Chen, a Harvard
+alumna who identifies as Chinese American, explained that
+being the child of Chinese immigrants was “really fundamen-
+tal to explaining who” she is. Id., at 968–969. Thang Diep,
+a Harvard alumnus, testifed that his Vietnamese identity
+was “such a big part” of himself that he needed to discuss
+it in his application. Id., at 949. And Sarah Cole, a Black
+Harvard alumna, emphasized that “[t]o try to not see [her]
+race is to try to not see [her] simply because there is no part
+of [her] experience, no part of [her] journey, no part of [her]
+life that has been untouched by [her] race.” Id., at 932.
+In a single paragraph at the end of its lengthy opinion, the
+Court suggests that “nothing” in today's opinion prohibits
+universities from considering a student's essay that explains
+“how race affected [that student's] life.” Ante, at 230. This
+supposed recognition that universities can, in some situa-
+tions, consider race in application essays is nothing but an
+attempt to put lipstick on a pig. The Court's opinion circum-
+scribes universities' ability to consider race in any form by
+meticulously gutting respondents' asserted diversity inter-
+ests. See supra, at 357–358. Yet, because the Court cannot
+escape the inevitable truth that race matters in students'
+lives, it announces a false promise to save face and appear
+attuned to reality. No one is fooled.
+Further, the Court's demand that a student's discussion of
+racial self-identification be tied to individual qualities, such
+as “courage,” “leadership,” “unique ability,” and “determina-
+tion,” only serves to perpetuate the false narrative that Har-
+vard and UNC currently provide “preferences on the basis
+of race alone.” Ante, at 220, 231; see also ante, at 219, n. 6
+(claiming without support that “race alone . . . explains the
+admissions decisions for hundreds if not thousands of appli-
+cants”). The Court's precedents already require that uni-
+versities take race into account holistically, in a limited way,
+and based on the type of “individualized” and “flexible” as-
+sessment that the Court purports to favor. Grutter , 539
+U. S., at 334; see Brief for Students and Alumni of Harvard
+College as Amici Curiae 15–17 (Harvard College Brief) (de-
+scribing how the dozens of application files in the record
+“uniformly show that, in line with Harvard's `whole-person'
+admissions philosophy, Harvard's admissions officers engage
+in a highly nuanced assessment of each applicant's back-
+ground and qualifications”). After extensive discovery and
+two lengthy trials, neither SFFA nor the majority can point
+to a single example of an underrepresented racial minority
+who was admitted to Harvard or UNC on the basis of “race
+alone.”
+In the end, the Court merely imposes its preferred college
+application format on the Nation, not acting as a court of law
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+applying precedent but taking on the role of college adminis-
+trators to decide what is better for society. The Court's
+course reflects its inability to recognize that racial identity
+informs some students' viewpoints and experiences in unique
+ways. The Court goes as far as to claim that Bakke's recog-
+nition that Black Americans can offer different perspectives
+than white people amounts to a “stereotype.” Ante, at 220.
+It is not a stereotype to acknowledge the basic truth that
+young people's experiences are shaded by a societal struc-
+ture where race matters. Acknowledging that there is
+something special about a student of color who graduates
+valedictorian from a predominantly white school is not a ste-
+reotype. Nor is it a stereotype to acknowledge that race
+imposes certain burdens on students of color that it does not
+impose on white students. “For generations, black and
+brown parents have given their children `the talk'—instruct-
+ing them never to run down the street; always keep your
+hands where they can be seen; do not even think of talking
+back to a stranger—all out of fear of how an officer with
+a gun will react to them.” Utah v. Strieff, 579 U. S. 232,
+254 (2016) (Sotomayor, J., dissenting). Those conversations
+occur regardless of socioeconomic background or any other
+aspect of a student's self-identification. They occur because
+of race. As Andrew Brennen, a UNC alumnus, testifed,
+“running down the neighborhood . . . people don't see [him]
+as someone that is relatively affluent; they see [him] as a
+black man.” 2 App. in No. 21–707, at 951–952.
+The absence of racial diversity, by contrast, actually con-
+tributes to stereotyping. “[D]iminishing the force of such
+stereotypes is both a crucial part of [respondents'] mission,
+and one that [they] cannot accomplish with only token num-
+bers of minority students.” Grutter , 539 U. S., at 333.
+When there is an increase in underrepresented minority stu-
+dents on campus, “racial stereotypes lose their force” be-
+cause diversity allows students to “learn there is no `minor-
+ity viewpoint' but rather a variety of viewpoints among mi-
+nority students.” Id., at 319–320. By preventing respond-
+ents from achieving their diversity objectives, it is the
+Court's opinion that facilitates stereotyping on American col-
+lege campuses.
+To be clear, today's decision leaves intact holistic college
+admissions and recruitment efforts that seek to enroll di-
+verse classes without using racial classifications. Universi-
+ties should continue to use those tools as best they can to
+recruit and admit students from different backgrounds based
+on all the other factors the Court's opinion does not, and
+cannot, touch. Colleges and universities can continue to
+consider socioeconomic diversity and to recruit and enroll
+students who are first-generation college applicants or who
+speak multiple languages, for example. Those factors are
+not “interchangeable” with race. UNC, 567 F. Supp. 3d, at
+643; see, e. g., 2 App. in No. 21–707, at 975–976 (Laura Or-
+nelas, a UNC alumna, testifying that her Latina identity, so-
+cioeconomic status, and first-generation college status are all
+important but different “parts to getting a full picture” of
+who she is and how she “see[s] the world”). At SFFA's own
+urging, those efforts remain constitutionally permissible.
+See Brief for Petitioner 81–86 (emphasizing “race-neutral”
+alternatives that Harvard and UNC should implement, such
+as those that focus on socioeconomic and geographic diver-
+sity, percentage plans, plans that increase community college
+transfers, and plans that develop partnerships with disad-
+vantaged high schools); see also ante, at 280–281, 284
+(Thomas, J., concurring) (arguing universities can consider
+“[r]ace-neutral policies” similar to those adopted in States
+such as California and Michigan, and that universities can
+consider “status as a first-generation college applicant,” “f-
+nancial means,” and “generational inheritance or otherwise”);
+ante, at 317 (Kavanaugh, J., concurring) (citing SFFA's
+briefs and concluding that universities can use “race-neutral”
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+means); ante, at 300, n. 4 (Gorsuch, J., concurring) (“recount-
+[ing] what SFFA has argued every step of the way” as to
+“race-neutral tools”).
+The Court today also does not adopt SFFA's suggestion
+that college admissions should be a function of academic met-
+rics alone. Using class rank or standardized test scores as
+the only admissions criteria would severely undermine mul-
+tidimensional diversity in higher education. Such a system
+“would exclude the star athlete or musician whose grades
+suffered because of daily practices and training. It would
+exclude a talented young biologist who struggled to maintain
+above-average grades in humanities classes. And it would
+exclude a student whose freshman-year grades were poor
+because of a family crisis but who got herself back on track
+in her last three years of school, only to find herself just
+outside of the top decile of her class.” Fisher II, 579 U. S.,
+at 386. A myopic focus on academic ratings “does not lead
+to a diverse student body.” Ibid.35
+2
+As noted above, this Court suggests that the use of race
+in college admissions is unworkable because respondents' ob-
+jectives are not sufficiently “measurable,” “focused,” “con-
+crete,” and “coherent.” Ante, at 214, 217, 230. How much
+more precision is required or how universities are supposed
+to meet the Court's measurability requirement, the Court's
+opinion does not say. That is exactly the point. The Court
+is not interested in crafting a workable framework that pro-
+motes racial diversity on college campuses. Instead, it an-
+nounces a requirement designed to ensure all race-conscious
+35 Today's decision is likely to generate a plethora of litigation by disap-
+pointed college applicants who think their credentials and personal quali-
+ties should have secured them admission. By inviting those challenges,
+the Court's opinion promotes chaos and incentivizes universities to convert
+their admissions programs into inflexible systems focused on mechanical
+factors, which will harm all students.
+plans fail. Any increased level of precision runs the risk of
+violating the Court's admonition that colleges and universi-
+ties operate their race-conscious admissions policies with no
+“ `specified percentage[s]' ” and no “specific number[s] firmly
+in mind.” Grutter , 539 U. S., at 324, 335. Thus, the majori-
+ty's holding puts schools in an untenable position. It creates
+a legal framework where race-conscious plans must be meas-
+ured with precision but also must not be measured with pre-
+cision. That holding is not meant to infuse clarity into the
+strict scrutiny framework; it is designed to render strict
+scrutiny “ `fatal in fact.' ” Id., at 326 (quoting Adarand Con-
+structors, Inc., 515 U. S., at 237). Indeed, the Court gives
+the game away when it holds that, to the extent respondents
+are actually measuring their diversity objectives with any
+level of specifcity (for example, with a “focus on numbers”
+or specific “numerical commitment”), their plans are uncon-
+stitutional. Ante, at 222; see also ante, at 258 (Thomas, J .,
+concurring) (“I highly doubt any [university] will be able to”
+show a “measurable state interest”).
+3
+The Court also holds that Harvard's and UNC's race-
+conscious programs are unconstitutional because they rely
+on racial categories that are “imprecise,” “opaque,” and “ar-
+bitrary.” Ante, at 216–217. To start, the racial categories
+that the Court finds troubling resemble those used across the
+Federal Government for data collection, compliance report-
+ing, and program administration purposes, including, for ex-
+ample, by the U. S. Census Bureau. See, e. g., 62 Fed. Reg.
+58786–58790 (1997). Surely, not all “ `federal grant-in-aid
+benefits, drafting of legislation, urban and regional planning,
+business planning, and academic and social studies' ” that fow
+from census data collection, Department of Commerce v. New
+York, 588 U. S. –––, ––– (2019), are constitutionally suspect.
+The majority presumes that it knows better and appoints
+itself as an expert on data collection methods, calling for a
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+higher level of granularity to fx a supposed problem of over-
+inclusiveness and underinclusiveness. Yet it does not iden-
+tify a single instance where respondents' methodology has
+prevented any student from reporting their race with the
+level of detail they preferred. The record shows that it is
+up to students to choose whether to identify as one, multiple,
+or none of these categories. See Harvard I, 397 F. Supp.
+3d, at 137; UNC, 567 F. Supp. 3d, at 596. To the extent
+students need to convey additional information, students can
+select subcategories or provide more detail in their personal
+statements or essays. See Harvard I, 397 F. Supp. 3d, at
+137. Students often do so. See, e. g., 2 App. in No. 20–1199,
+at 906–907 (student respondent discussing her Latina iden-
+tity on her application); id., at 949 (student respondent testi-
+flying he “wrote about [his] Vietnamese identity on [his] ap-
+plication”). Notwithstanding this Court's confusion about
+racial self-identification, neither students nor universities are
+confused. There is no evidence that the racial categories
+that respondents use are unworkable. 36
+4
+Cherry-picking language from Grutter , the Court also
+holds that Harvard's and UNC's race-conscious programs are
+unconstitutional because they do not have a specific expira-
+tion date. Ante, at 221–225. This new durational require-
+ment is also not grounded in law, facts, or common sense.
+36 The Court suggests that the term “Asian American” was developed by
+respondents because they are “uninterested” in whether Asian American
+students “are adequately represented.” Ante, at 216; see also ante, at
+291 (Gorsuch, J., concurring) (suggesting that “[b]ureaucrats” devised a
+system that grouped all Asian Americans into a single racial category).
+That argument offends the history of that term. “The term `Asian Ameri-
+can' was coined in the late 1960s by Asian American activists—mostly
+college students—to unify Asian ethnic groups that shared common expe-
+riences of race-based violence and discrimination and to advocate for civil
+rights and visibility.” Brief for Asian American Legal Defense and Edu-
+cation Fund et al. as Amici Curiae 9 (AALDEF Brief).
+Grutter simply announced a general “expect[ation]” that
+“the use of racial preferences [would] no longer be neces-
+sary” in the future. 539 U. S., at 343. As even SFFA ac-
+knowledges, those remarks were nothing but aspirational
+statements by the Grutter Court. Tr. of Oral Arg. in No.
+21–707, p. 56.
+Yet this Court suggests that everyone, including the Court
+itself, has been misreading Grutter for 20 years. Grutter ,
+according to the majority, requires that universities identify
+a specific “end point” for the use of race. Ante, at 225.
+Justice Kavanaugh, for his part, suggests that Grutter it-
+self automatically expires in 25 years, after either “the col-
+lege class of 2028” or “the college class of 2032.” Ante, at
+316, n. *. A faithful reading of this Court's precedents re-
+veals that Grutter held nothing of the sort.
+True, Grutter referred to “25 years,” but that arbitrary
+number simply reflected the time that had elapsed since the
+Court “first approved the use of race” in college admissions
+in Bakke. Grutter , 539 U. S., at 343. It is also true that
+Grutter remarked that “race-conscious admissions policies
+must be limited in time,” but it did not do so in a vacuum,
+as the Court suggests. Id., at 342. Rather than impose a
+fxed expiration date, the Court tasked universities with the
+responsibility of periodically assessing whether their race-
+conscious programs “are still necessary.” Ibid. Grutter of-
+fered as examples sunset provisions, periodic reviews, and
+experimenting with “race-neutral alternatives as they de-
+velop.” Ibid. That is precisely how this Court has pre-
+viously interpreted Grutter 's command. See Fisher II, 579
+U. S., at 388 (“It is the University's ongoing obligation to
+engage in constant deliberation and continued reflection re-
+garding its admissions policies”).
+Grutter 's requirement that universities engage in periodic
+reviews so the use of race can end “as soon as practicable”
+is well grounded in the need to ensure that race is “employed
+no more broadly than the interest demands.” 539 U. S., at
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+343. That is, it is grounded in strict scrutiny. By contrast,
+the Court's holding is based on the fiction that racial inequal-
+ity has a predictable cutoff date. Equality is an ongoing
+project in a society where racial inequality persists. See
+supra, at 333–341. A temporal requirement that rests on
+the fantasy that racial inequality will end at a predictable
+hour is illogical and unworkable. There is a sound reason
+why this Court's precedents have never imposed the majori-
+ty's strict deadline: Institutions cannot predict the future.
+Speculating about a day when consideration of race will be-
+come unnecessary is arbitrary at best and frivolous at worst.
+There is no constitutional duty to engage in that type of shal-
+low guesswork. 37
+Harvard and UNC engage in the ongoing review that the
+Court's precedents demand. They “use [their] data to scru-
+tinize the fairness of [their] admissions program[s]; to assess
+whether changing demographics have undermined the need
+for a race-conscious policy; and to identify the effects, both
+positive and negative, of the affirmative-action measures
+[they] dee[m] necessary.” Fisher II, 579 U. S., at 388. The
+Court holds, however, that respondents' attention to num-
+bers amounts to unconstitutional racial balancing. Ante, at
+221–223. But “ `[s]ome attention to numbers' ” is both neces-
+sary and permissible. Grutter , 539 U. S., at 336 (quoting
+37 Justice Kavanaugh's reading, in particular, is quite puzzling. Un-
+like the majority, which concludes that respondents' programs should have
+an end point, Justice Kavanaugh suggests that Grutter itself has an
+expiration date. He agrees that racial inequality persists, ante, at 317,
+but at the same time suggests that race-conscious affirmative action was
+only necessary in “another generation,” ante, at 313. He attempts to analo-
+gize expiration dates of court-ordered injunctions in desegregation cases,
+ante, at 314, but an expiring injunction does not eliminate the underlying
+constitutional principle. His musings about different college classes, ante,
+at 316, n. *, are also entirely beside the point. Nothing in Grutter 's analy-
+sis turned on whether someone was applying for the class of 2028 or 2032.
+That reading of Grutter trivializes the Court's precedent by reducing it to
+an exercise in managing academic calendars. Grutter is no such thing.
+Bakke, 438 U. S., at 323). Universities cannot blindly oper-
+ate their limited race-conscious programs without regard for
+any quantitative information. “Increasing minority enroll-
+ment [is] instrumental to th[e] educational benefits” that re-
+spondents seek to achieve, Fisher II, 579 U. S., at 381, and
+statistics, data, and numbers “have some value as a gauge of
+[respondents'] ability to enroll students who can offer under-
+represented perspectives.” Id., at 383–384. By removing
+universities' ability to assess the success of their programs,
+the Court obstructs these institutions' ability to meet their
+diversity goals.
+5
+Justice Thomas, for his part, offers a multitude of argu-
+ments for why race-conscious college admissions policies sup-
+posedly “burden” racial minorities. Ante, at 268. None of
+them has any merit.
+He first renews his argument that the use of race in holis-
+tic admissions leads to the “inevitable” “underperformance”
+by Black and Latino students at elite universities “because
+they are less academically prepared than the white and
+Asian students with whom they must compete.” Fisher I,
+570 U. S., at 332 (concurring opinion). Justice Thomas
+speaks only for himself. The Court previously declined to
+adopt this so-called “mismatch” hypothesis for good reason:
+It was debunked long ago. The decades-old “studies” ad-
+vanced by the handful of authors upon whom Justice
+Thomas relies, ante, at 269–270, have “major methodological
+faws,” are based on unreliable data, and do not “meet the
+basic tenets of rigorous social science research.” Brief for
+Empirical Scholars as Amici Curiae 3, 9–25. By contrast,
+“[m]any social scientists have studied the impact of elite edu-
+cational institutions on student outcomes, and have found,
+among other things, that attending a more selective school
+is associated with higher graduation rates and higher earn-
+ings for [underrepresented minority] students—conclusions
+directly contrary to mismatch.” Id., at 7–9 (collecting stud-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+ies). This extensive body of research is supported by the
+most obvious data point available to this institution today:
+The three Justices of color on this Court graduated from elite
+universities and law schools with race-conscious admissions
+programs, and achieved successful legal careers, despite hav-
+ing different educational backgrounds than their peers. A
+discredited hypothesis that the Court previously rejected is
+no reason to overrule precedent.
+Justice Thomas claims that the weight of this evidence
+is overcome by a single more recent article published in
+2016. Ante, at 270, n. 8. That article, however, explains
+that studies supporting the mismatch hypothesis “yield
+misleading conclusions,” “overstate the amount of mis-
+match,” “preclude one from drawing any concrete conclu-
+sions,” and rely on methodologically flawed assumptions
+that “lea[d] to an upwardly-biased estimate of mismatch.”
+P. Arcidiacono & M. Lovenheim, Affirmative Action and the
+Quality-Fit Trade-off, 54 J. Econ. Lit. 3, 17, 20 (2016). Nota-
+bly, this refutation of the mismatch theory was coauthored
+by one of SFFA's experts, as Justice Thomas seems to
+recognize.
+Citing nothing but his own long-held belief, Justice
+Thomas also equates affirmative action in higher education
+with segregation, arguing that “racial preferences in college
+admissions `stamp [Black and Latino students] with a badge
+of inferiority.' ” Ante, at 270 (quoting Adarand, 515 U. S.,
+at 241 (Thomas, J., concurring in part and concurring in
+judgment)). Studies disprove this sentiment, which echoes
+“tropes of stigma” that “were employed to oppose Recon-
+struction policies.” A. Onwuachi-Willig, E. Houh, & M.
+Campbell, Cracking the Egg: Which Came First—Stigma or
+Affirmative Action? 96 Cal. L. Rev. 1299, 1323 (2008); see,
+e. g., id., at 1343–1344 (study of seven law schools showing
+that stigma results from “racial stereotypes that have
+attached historically to different groups, regardless of af-
+firmative action's existence”). Indeed, equating state-
+sponsored segregation with race-conscious admissions poli-
+cies that promote racial integration trivializes the harms of
+segregation and offends Brown's transformative legacy.
+School segregation “has a detrimental effect” on Black stu-
+dents by “denoting the inferiority” of “their status in the
+community” and by “ `depriv[ing] them of some of the bene-
+fts they would receive in a racial[ly] integrated school sys-
+tem.' ” 347 U. S., at 494. In sharp contrast, race-conscious
+college admissions ensure that higher education is “visibly
+open to” and “inclusive of talented and qualified individuals
+of every race and ethnicity.” Grutter , 539 U. S., at 332.
+These two uses of race are not created equal. They are not
+“equally objectionable.” Id., at 327.
+Relatedly, Justice Thomas suggests that race-conscious
+college admissions policies harm racial minorities by increas-
+ing affinity-based activities on college campuses. Ante, at
+274–275. Not only is there no evidence of a causal connection
+between the use of race in college admissions and the sup-
+posed rise of those activities, but Justice Thomas points to
+no evidence that affinity groups cause any harm. affinity-
+based activities actually help racial minorities improve their
+visibility on college campuses and “decreas[e] racial stigma
+and vulnerability to stereotypes” caused by “conditions of
+racial isolation” and “tokenization.” U. Jayakumar, Why
+Are All Black Students Still Sitting Together in the Prover-
+bial College Cafeteria?, Higher Education Research Institute
+at UCLA (Oct. 2015); see also Brief for Respondent-Students
+in No. 21–707, p. 42 (collecting student testimony demonstrat-
+ing that “affinity groups beget important academic and social
+benefits” for racial minorities); 4 App. in No. 20–1199, at 1591
+(Harvard Working Group on Diversity and Inclusion Report)
+(noting that concerns “that culturally specific spaces or
+affinity-themed housing will isolate” student minorities are
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+misguided because those spaces allow students “to come to-
+gether . . . to deal with intellectual, emotional, and social
+challenges”).
+Citing no evidence, Justice Thomas also suggests that
+race-conscious admissions programs discriminate against
+Asian American students. Ante, at 272–273. It is true that
+SFFA “allege[d]” that Harvard discriminates against Asian
+American students. Ante, at 272. Specifically, SFFA ar-
+gued that Harvard discriminates against Asian American ap-
+plicants vis-à-vis white applicants through the use of the per-
+sonal rating, an allegedly “highly subjective” component of
+the admissions process that is “susceptible to stereotyping
+and bias.” Harvard II, 980 F. 3d, at 196; see Brief for Pro-
+fessors of Economics as Amici Curiae 24. It is also true,
+however, that there was a lengthy trial to test those allega-
+tions, which SFFA lost. Justice Thomas points to no legal
+or factual error below, precisely because there is none.
+To begin, this part of SFFA's discrimination claim does not
+even fall under the strict scrutiny framework in Grutter and
+its progeny, which concerns the use of racial classifications.
+The personal rating is a facially race-neutral component of
+Harvard's admissions policy.38 Therefore, even assuming for
+the sake of argument that Harvard engages in racial discrim-
+ination through the personal rating, there is no connection
+between that rating and the remedy that SFFA sought and
+that the majority grants today: ending the limited use of race
+in the entire admissions process. In any event, after assess-
+ing the credibility of fact witnesses and considering exten-
+sive documentary evidence and expert testimony, the courts
+below found “no discrimination against Asian Americans.”
+Harvard II, 980 F. 3d, at 195, n. 34, 202; see id., at 195–204.
+38 Before 2018, Harvard's admissions procedures were silent on the use
+of race in connection with the personal rating. Harvard II, 980 F. 3d, at
+169. Harvard later modified its instructions to say explicitly that “ `an
+applicant's race or ethnicity should not be considered in assigning the per-
+sonal rating.' ” Ibid.
+There is no question that the Asian American community
+continues to struggle against potent and dehumanizing ste-
+reotypes in our society. It is precisely because racial dis-
+crimination persists in our society, however, that the use of
+race in college admissions to achieve racially diverse classes
+is critical to improving cross-racial understanding and break-
+ing down racial stereotypes. See supra, at 332. Indeed,
+the record shows that some Asian American applicants are
+actually “advantaged by Harvard's use of race,” Harvard II,
+980 F. 3d, at 191, and “eliminating consideration of race
+would significantly disadvantage at least some Asian Ameri-
+can applicants,” Harvard I, 397 F. Supp. 3d, at 194. Race-
+conscious holistic admissions that contextualize the racial
+identity of each individual allow Asian American applicants
+“who would be less likely to be admitted without a compre-
+hensive understanding of their background” to explain “the
+value of their unique background, heritage, and perspective.”
+Id., at 195. Because the Asian American community is not
+a monolith, race-conscious holistic admissions allow colleges
+and universities to “consider the vast differences within
+[that] community.” AALDEF Brief 4–14. Harvard's appli-
+cation files show that race-conscious holistic admissions allow
+Harvard to “valu[e] the diversity of Asian American appli-
+cants' experiences.” Harvard College Brief 23.
+Moreover, the admission rates of Asian Americans at insti-
+tutions with race-conscious admissions policies, including at
+Harvard, have “been steadily increasing for decades.” Har-
+vard II, 980 F. 3d, at 198. 39 By contrast, Asian American
+enrollment declined at elite universities that are prohibited
+by state law from considering race. See AALDEF Brief 27;
+Brief for 25 Diverse, California-Focused Bar Associations
+et al. as Amici Curiae 19–20, 23. At bottom, race-conscious
+39 At Harvard, “Asian American applicants are accepted at the same rate
+as other applicants and now make up more than 20% of Harvard's admitted
+classes,” even though “only about 6% of the United States population is
+Asian American.” Harvard I, 397 F. Supp. 3d, at 203.
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+admissions benefit all students, including racial minorities.
+That includes the Asian American community.
+Finally, Justice Thomas belies reality by suggesting that
+“experts and elites” with views similar to those “that moti-
+vated Dred Scott and Plessy” are the ones who support race
+conscious admissions. Ante, at 268. The plethora of young
+students of color who testifed in favor of race-consciousness
+proves otherwise. See supra, at 362; see also infra, at 379–
+382 (discussing numerous amici from many sectors of society
+supporting respondents' policies). Not a single student—
+let alone any racial minority—affected by the Court's deci-
+sion testifed in favor of SFFA in these cases.
+C
+In its “radical claim to power,” the Court does not even
+acknowledge the important reliance interests that this
+Court's precedents have generated. Dobbs, 597 U. S., at –––
+(dissenting opinion). Significant rights and expectations
+will be affected by today's decision nonetheless. Those in-
+terests supply “added force” in favor of stare decisis. Hil-
+ton v. South Carolina Public Railways Comm'n, 502 U. S.
+197, 202 (1991).
+Students of all backgrounds have formed settled expecta-
+tions that universities with race-conscious policies “will pro-
+vide diverse, cross-cultural experiences that will better pre-
+pare them to excel in our increasingly diverse world.” Brief
+for Respondent-Students in No. 21–707, at 45; see Harvard
+College Brief 6–11 (collecting student testimony).
+Respondents and other colleges and universities with race-
+conscious admissions programs similarly have concrete reli-
+ance interests because they have spent significant resources
+in an effort to comply with this Court's precedents. “Uni-
+versities have designed courses that draw on the benefits
+of a diverse student body,” “hired faculty whose research is
+enriched by the diversity of the student body,” and “pro-
+moted their learning environments to prospective students
+who have enrolled based on the understanding that they
+could obtain the benefits of diversity of all kinds.” Brief for
+Respondent in No. 20–1199, at 40–41 (internal quotation
+marks omitted). Universities also have “expended vast f-
+nancial and other resources” in “training thousands of appli-
+cation readers on how to faithfully apply this Court's guard-
+rails on the use of race in admissions.” Brief for University
+Respondents in No. 21–707, at 44. Yet today's decision
+abruptly forces them “to fundamentally alter their admis-
+sions practices.” Id., at 45; see also Brief for Massachusetts
+Institute of Technology et al. as Amici Curiae 25–26; Brief
+for Amherst College et al. as Amici Curiae 23–25 (Amherst
+Brief). As to Title VI in particular, colleges and universi-
+ties have relied on Grutter for decades in accepting federal
+funds. See Brief for United States as Amicus Curiae in No.
+20–1199, p. 25 (United States Brief); Georgetown Brief 16.
+The Court's failure to weigh these reliance interests “is a
+stunning indictment of its decision.” Dobbs, 597 U. S., at –––
+(dissenting opinion).
+IV
+The use of race in college admissions has had profound
+consequences by increasing the enrollment of underrepre-
+sented minorities on college campuses. This Court presup-
+poses that segregation is a sin of the past and that race-
+conscious college admissions have played no role in the prog-
+ress society has made. The fact that affirmative action in
+higher education “has worked and is continuing to work” is
+no reason to abandon the practice today. Shelby County v.
+Holder, 570 U. S. 529, 590 (2013) (Ginsburg, J., dissenting)
+(“[It] is like throwing away your umbrella in a rainstorm
+because you are not getting wet”).
+Experience teaches that the consequences of today's deci-
+sion will be destructive. The two lengthy trials below sim-
+ply confirmed what we already knew: Superfcial colorblind-
+ness in a society that systematically segregates opportunity
+will cause a sharp decline in the rates at which underrepre-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+sented minority students enroll in our Nation's colleges and
+universities, turning the clock back and undoing the slow yet
+significant progress already achieved. See Schuette, 572
+U. S., at 384–390 (Sotomayor , J., dissenting) (collecting sta-
+tistics from States that have banned the use of race in college
+admissions); see also Amherst Brief 13 (noting that elimi-
+nating the use of race in college admissions will take Black
+student enrollment at elite universities back to levels this
+country saw in the early 1960s).
+After California amended its State Constitution to pro-
+hibit race-conscious college admissions in 1996, for example,
+“freshmen enrollees from underrepresented minority groups
+dropped precipitously” in California public universities.
+Brief for President and Chancellors of the University of Cali-
+fornia as Amici Curiae 4, 9, 11–13. The decline was particu-
+larly devastating at California's most selective campuses,
+where the rates of admission of underrepresented groups
+“dropped by 50% or more.” Id., at 4, 12. At the University
+of California, Berkeley, a top public university not just in
+California but also nationally, the percentage of Black stu-
+dents in the freshman class dropped from 6.32% in 1995 to
+3.37% in 1998. Id., at 12–13. Latino representation simi-
+larly dropped from 15.57% to 7.28% during that period at
+Berkeley, even though Latinos represented 31% of California
+public high school graduates. Id., at 13. To this day, the
+student population at California universities still “reflect[s] a
+persistent inability to increase opportunities” for all racial
+groups. Id., at 23. For example, as of 2019, the proportion
+of Black freshmen at Berkeley was 2.76%, well below the
+preconstitutional amendment level in 1996, which was
+6.32%. Ibid. Latinos composed about 15% of freshmen
+students at Berkeley in 2019, despite making up 52% of all
+California public high school graduates. Id., at 24; see also
+Brief for University of Michigan as Amicus Curiae 21–24
+(noting similar trends at the University of Michigan from
+2006, the last admissions cycle before Michigan's ban on race-
+conscious admissions took effect, through present); id., at 24–
+25 (explaining that the university's “experience is largely
+consistent with other schools that do not consider race as a
+factor in admissions,” including, for example, the University
+of Oklahoma's most prestigious campus).
+The costly result of today's decision harms not just re-
+spondents and students but also our institutions and demo-
+cratic society more broadly. Dozens of amici from nearly
+every sector of society agree that the absence of race-
+conscious college admissions will decrease the pipeline of
+racially diverse college graduates to crucial professions.
+Those amici include the United States, which emphasizes the
+need for diversity in the Nation's military, see United States
+Brief 12–18, and in the federal workforce more generally, id.,
+at 19–20 (discussing various federal agencies, including the
+Federal Bureau of Investigation and the Office of the Direc-
+tor of National Intelligence). The United States explains
+that “the Nation's military strength and readiness depend
+on a pipeline of officers who are both highly qualified and
+racially diverse—and who have been educated in diverse en-
+vironments that prepare them to lead increasingly diverse
+forces.” Id., at 12. That is true not just at the military
+service academies but “at civilian universities, including Har-
+vard, that host Reserve Officers' Training Corps (ROTC)
+programs and educate students who go on to become off-
+cers.” Ibid. Top former military leaders agree. See Brief
+for Adm. Charles S. Abbot et al. as Amici Curiae 3 (noting
+that in amici's “professional judgment, the status quo—
+which permits service academies and civilian universities to
+consider racial diversity as one factor among many in their
+admissions practices—is essential to the continued vitality of
+the U. S. military”).
+Indeed, history teaches that racial diversity is a national
+security imperative. During the Vietnam War, for example,
+lack of racial diversity “threatened the integrity and per-
+formance of the Nation's military” because it fueled “percep-
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+tions of racial/ethnic minorities serving as `cannon fodder'
+for white military leaders.” Military Leadership Diversity
+Comm'n, From Representation to Inclusion: Diversity Lead-
+ership for the 21st-Century Military xvi, 15 (2011); see also,
+e. g., R. Stillman, Racial Unrest in the Military: The Chal-
+lenge and the Response, 34 Pub. Admin. Rev. 221, 221–222
+(1974) (discussing other examples of racial unrest). Based
+on “lessons from decades of battlefeld experience,” it has
+been the “longstanding military judgment” across adminis-
+trations that racial diversity “is essential to achieving a
+mission-ready” military and to ensuring the Nation's “ability
+to compete, deter, and win in today's increasingly complex
+global security environment.” United States Brief 13 (in-
+ternal quotation marks omitted). The majority recognizes
+the compelling need for diversity in the military and the na-
+tional security implications at stake, see ante, at 213, n. 4,
+but it ends race-conscious college admissions at civilian uni-
+versities implicating those interests anyway.
+Amici also tell the Court that race-conscious college ad-
+missions are critical for providing equitable and effective
+public services. State and local governments require public
+servants educated in diverse environments who can “iden-
+tify, understand, and respond to perspectives” in “our in-
+creasingly diverse communities.” Brief for Southern Gov-
+ernors as Amici Curiae 5–8 (Southern Governors Brief).
+Likewise, increasing the number of students from underrep-
+resented backgrounds who join “the ranks of medical profes-
+sionals” improves “healthcare access and health outcomes in
+medically underserved communities.” Brief for Massachu-
+setts et al. as Amici Curiae 10; see Brief for Association of
+American Medical Colleges et al. as Amici Curiae 5 (noting
+also that all physicians become better practitioners when
+they learn in a racially diverse environment). So too,
+greater diversity within the teacher workforce improves stu-
+dent academic achievement in primary public schools. Brief
+for Massachusetts et al. as Amici Curiae 15–17; see Brief
+for American Federation of Teachers as Amicus Curiae 8
+(“[T]here are few professions with broader social impact
+than teaching”). A diverse pipeline of college graduates
+also ensures a diverse legal profession, which demonstrates
+that “the justice system serves the public in a fair and inclu-
+sive manner.” Brief for American Bar Association as Ami-
+cus Curiae 18; see also Brief for Law Firm Antiracism Alli-
+ance as Amicus Curiae 1, 6 (more than 300 law frms in all
+50 States supporting race-conscious college admissions in
+light of the “influence and power” that lawyers wield “in the
+American system of government”).
+Examples of other industries and professions that benefit
+from race-conscious college admissions abound. American
+businesses emphasize that a diverse workforce improves
+business performance, better serves a diverse consumer
+marketplace, and strengthens the overall American economy.
+Brief for Major American Business Enterprises as Amici
+Curiae 5–27. A diverse pipeline of college graduates also
+improves research by reducing bias and increasing group col-
+laboration. Brief for Individual Scientists as Amici Curiae
+13–14. It creates a more equitable and inclusive media in-
+dustry that communicates diverse viewpoints and perspec-
+tives. Brief for Multicultural Media, Telecom and Internet
+Council, Inc., et al. as Amici Curiae 6. It also drives inno-
+vation in an increasingly global science and technology in-
+dustry. Brief for Applied Materials, Inc., et al. as Amici
+Curiae 11–20.
+Today's decision further entrenches racial inequality by
+making these pipelines to leadership roles less diverse. A
+college degree, particularly from an elite institution, carries
+with it the benefit of powerful networks and the opportunity
+for socioeconomic mobility. Admission to college is there-
+fore often the entry ticket to top jobs in workplaces where
+important decisions are made. The overwhelming majority
+AND FELLOWS OF HARV ARD COLLEGE
+Sotomayor, J., dissenting
+of Members of Congress have a college degree.40 So do most
+business leaders.41 Indeed, many state and local leaders in
+North Carolina attended college in the UNC system. See
+Southern Governors Brief 8. More than half of judges on
+the North Carolina Supreme Court and Court of Appeals
+graduated from the UNC system, for example, and nearly a
+third of the Governor's cabinet attended UNC. Ibid. A
+less diverse pipeline to these top jobs accumulates wealth
+and power unequally across racial lines, exacerbating racial
+disparities in a society that already dispenses prestige and
+privilege based on race.
+The Court ignores the dangerous consequences of an
+America where its leadership does not reflect the diversity
+of the People. A system of government that visibly lacks a
+path to leadership open to every race cannot withstand scru-
+tiny “in the eyes of the citizenry.” Grutter , 539 U. S., at 332.
+“[G]ross disparity in representation” leads the public to won-
+der whether they can ever belong in our Nation's institu-
+tions, including this one, and whether those institutions work
+for them. Tr. of Oral Arg. in No. 21–707, at 171 (“The Court
+is going to hear from 27 advocates in this sitting of the oral
+argument calendar, and two are women, even though women
+today are 50 percent or more of law school graduates. And
+I think it would be reasonable for a woman to look at that
+and wonder, is that a path that's open to me, to be a Supreme
+Court advocate?” (remarks of Solicitor General Elizabeth
+Prelogar)).42
+40 K. Schaeffler, Pew Research Center, The Changing Face of Congress
+in 8 Charts (Feb. 7, 2023).
+41 See J. Martelli & P. Abels, The Education of a Leader: Educational
+Credentials and Other Characteristics of Chief Executive Officers, J. Educ.
+for Bus. 216 (2010); see also J. Moody, Where the Top Fortune 500 CEOs
+Attended College, U. S. News & World Report (June 16, 2021).
+42 Racial inequality in the pipeline to this institution, too, will deepen.
+See J. Fogel, M. Hoopes, & G. Liu, Law Clerk Selection and Diversity:
+Insights From Fifty Sitting Judges of the Federal Courts of Appeals 7–8
+By ending race-conscious college admissions, this Court
+closes the door of opportunity that the Court's precedents
+helped open to young students of every race. It creates a
+leadership pipeline that is less diverse than our increasingly
+diverse society, reserving “positions of influence, affuence,
+and prestige in America” for a predominantly white pool of
+college graduates. Bakke, 438 U. S., at 401 (opinion of Mar-
+shall, J.). At its core, today's decision exacerbates segrega-
+tion and diminishes the inclusivity of our Nation's institu-
+tions in service of superfcial neutrality that promotes
+indifference to inequality and ignores the reality of race.
+* * *
+True equality of educational opportunity in racially di-
+verse schools is an essential component of the fabric of our
+democratic society. It is an interest of the highest order
+and a foundational requirement for the promotion of equal
+protection under the law. Brown recognized that passive
+race neutrality was inadequate to achieve the constitutional
+guarantee of racial equality in a Nation where the effects of
+segregation persist. In a society where race continues to
+matter, there is no constitutional requirement that institu-
+tions attempting to remedy their legacies of racial exclusion
+must operate with a blindfold.
+Today, this Court overrules decades of precedent and im-
+poses a superfcial rule of race blindness on the Nation. The
+devastating impact of this decision cannot be overstated.
+The majority's vision of race neutrality will entrench racial
+(2022) (noting that from 2005 to 2017, 85% of Supreme Court law clerks
+were white, 9% were Asian American, 4% were Black, and 1.5% were
+Latino, and about half of all clerks during that period graduated from two
+law schools: Harvard and Yale); Brief for American Bar Association as
+Amicus Curiae 25 (noting that more than 85% of lawyers, more than 70%
+of Article III judges, and more than 80% of state judges in the United
+States are white, even though white people represent about 60% of the
+population).

@@ -1,0 +1,95 @@
+United States v. Miller — No. 23-824 — October Term 2024 — decided 3/26/25 — Gorsuch, J., dissenting
+Citation: 604 U.S. 518
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r21_6kh7.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+has ever considered. Furthermore, respondent failed to
+raise this argument below. See Cameron v. EMW Women's
+Surgical Center, P . S. C., 595 U. S. 267, 275 (2022) (“[I]f a
+non-jurisdictional argument was not raised below, we gener-
+ally will not consider it as an alternative ground for affirm-
+ance”). Additionally, “the question [this argument] poses
+has not been adequately briefed and argued” here. Granf-
+nanciera, S. A. v. Nordberg, 492 U. S. 33, 38 (1989). We
+therefore leave it to the courts below to decide whether re-
+spondent may pursue this argument on remand. 7
+* * *
+Section 106(a) of the Bankruptcy Code abrogates sover-
+eign immunity for the federal cause of action created by
+§ 544(b). It does not take the additional step of abrogating
+sovereign immunity for whatever state-law claim supplies
+the “applicable law” for a trustee's § 544(b) claim. Accord-
+ingly, the decision of the Tenth Circuit is reversed.
+It is so ordered.
+Justice Gorsuch, dissenting.
+The Court has often warned against “ `confus[ing] the doc-
+trine of sovereign immunity with the requirement that a
+plaintiff state a cause of action.' ” Pennhurst State School
+and Hospital v. Halderman, 465 U. S. 89, 112 (1984) (quoting
+Larson v. Domestic and Foreign Commerce Corp., 337 U. S.
+682, 692–693 (1949)). Yet, to my eyes, the Court's decision
+today “suffers a like confusion.” 465 U. S., at 112.
+Three statutory provisions are relevant here. First is 11
+U. S. C. § 106(a)(1), which waives the government's sovereign
+immunity “with respect to” § 544 of the Bankruptcy Code.
+Second is § 544(b)(1), which empowers a bankruptcy trustee
+7 We express no view on the merits of this argument, and we likewise
+decline to address the Government's alternative arguments concerning
+preemption and the Appropriations Clause.
+to invoke the rights of “a creditor holding an unsecured
+claim” to set aside any transfer “that is voidable under appli-
+cable law.” And third is Utah's fraudulent-transfer statute,
+which here supplies the “applicable law” for purposes of
+§ 544(b)(1). Utah Code § 25–6–203(1) (2025).*
+As I see it, those three provisions play out this way.
+Under the Utah statute, a transfer is “voidable” if, after a
+creditor's claim arose against the debtor, the debtor (1) “made
+the transfer” (2) “without receiving a reasonably equivalent
+value in exchange,” and (3) “was insolvent at the time.”
+Ibid. Notably, no one before us disputes that these condi-
+tions are satisfied here and a good fraudulent-transfer claim
+exists. 71 F. 4th 1247, 1251 (CA10 2023). Thus, under “ap-
+plicable law,” the relevant transfers are “voidable,” and the
+bankruptcy trustee can use § 544(b)(1) to set them aside.
+That remains true even though the trustee must sue the
+United States to void the relevant transfers, because
+§ 106(a)(1) bars the government from raising a sovereign-
+immunity defense in the trustee's action.
+The Court worries that my line of thinking would “modify
+the elements of a § 544(b) claim.” Ante, at 529. More ex-
+actly, the Court observes that, if a creditor sued the govern-
+ment directly under Utah's fraudulent-transfer statute, the
+government could interpose a successful sovereign-immunity
+defense, and the creditor would lose. And, the Court fears,
+reading § 106(a)(1) to allow a bankruptcy trustee to bring the
+same claim under § 544(b)(1) would impermissibly “give the
+trustee a substantive claim for relief against the Government
+that does not `otherwise exist.' ” Ante , at 530 (quoting
+§ 106(a)(5); alterations omitted); ibid., n. 4 (expressing con-
+cern that my reading would alter “a core substantive re-
+quirement of the underlying § 544(b) claim”).
+*As the majority notes, recent amendments to Utah's fraudulent-
+transfer statute “are immaterial to the question presented.” Ante, at
+525, n. 2.
+It seems to me, however, that the Court confates two dif-
+ferent things. Whether pursued by a private creditor or a
+bankruptcy trustee, a good substantive claim for relief ex-
+ists. No one disputes that a fraudulent transfer took place.
+The question before us is a distinct one: Can the federal gov-
+ernment defeat the claim by raising the affirmative defense
+of sovereign immunity? With respect to a private creditor
+pursuing relief in state court, the answer is yes. With re-
+spect to a trustee pursuing relief in a federal bankruptcy
+proceeding, the answer—thanks to § 106(a)(1)—is no. Ad-
+mitting that much does not “modify the elements” of any
+claim or “ `create any substantive claim for relief' ” that did
+not “ `otherwise exis[t].' ” Ante, at 529 (quoting § 106(a)(5)).
+It merely acknowledges that in one setting, but not another,
+Congress has chosen to waive an affirmative defense to an
+otherwise valid claim.
+For these reasons, I agree with the majority of circuits to
+have considered the question that bankruptcy trustees may
+avoid fraudulent transfers to the United States under
+§ 544(b). See 71 F. 4th, at 1251–1252; In re DBSI, Inc., 869
+F. 3d 1004 (CA9 2017); In re Yahweh Center, Inc., 27 F. 4th
+960 (CA4 2022). As the Court concludes otherwise, I re-
+spectfully dissent.

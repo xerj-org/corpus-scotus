@@ -1,0 +1,36 @@
+Doe v. Dynamic Physical Therapy, LLC — No. 25-180 — October Term 2025 — decided 12/08/25 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 607 U.S. 11
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r03_1o23.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+The Louisiana Court of Appeal held that a Louisiana statute immunizing
+healthcare providers from civil liability barred plaintiff 's federal claims.
+Held: The decision below was incorrect. A State has no power to confer
+immunity from federal causes of action. U. S. Const., Art. VI, cl. 2; see
+also, e. g., Howlett v. Rose, 496 U. S. 356, 383; Haywood v. Drown, 556
+U. S. 729, 740; Williams v. Reed, 604 U. S. 168, 174.
+Certiorari granted; 2024–0723 (La. App. 1 Cir. 12/27/24), 404 So. 3d 1008,
+reversed and remanded.
+Per Curiam.
+Louisiana immunizes healthcare providers from civil liabil-
+ity during public health emergencies. La. Rev. Stat. Ann.
+§ 29:771(B)(2)(c)(i) (West 2022). Below, the Louisiana Court
+of Appeal held that this state statute barred plaintiff 's fed-
+eral claims. 2024–0723, pp. 11–12 (1 Cir. 12/27/24), 404 So. 3d
+1008, 1017–1018, writ denied, 2025–00105 (La. 4/29/25), 407
+So. 3d 623. That decision is incorrect. Defining the scope
+of liability under state law is the State's prerogative. But a
+State has no power to confer immunity from federal causes of
+action. See, e. g., Howlett v. Rose, 496 U. S. 356, 383 (1990);
+Haywood v. Drown, 556 U. S. 729, 740 (2009); Williams v.
+Reed, 604 U. S. 168, 174 (2025). “[T]he Judges in every
+State” are bound to follow federal law, “any Thing in the
+Constitution or Laws of any state to the Contrary notwith-
+standing.” U. S. Const., Art. VI, cl. 2.
+Plaintiff 's federal claims may well fail on other federal
+grounds. Cf. Cummings v. Premier Rehab Keller , 596 U. S.
+212, 222 (2022). But that is for the Louisiana courts to de-
+cide in the first instance. The petition for certiorari is
+granted, the judgment of the Louisiana Court of Appeal is
+reversed, and the case is remanded for further proceedings
+not inconsistent with this opinion.
+It is so ordered.

@@ -1,0 +1,111 @@
+Abitron Austria GmbH v. Hetronic Int’l, Inc. — No. 21-1043 — October Term 2022 — decided 6/29/23 — Jackson, J., concurring
+Citation: 600 U.S. 412
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r54_g3bi.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Jackson, concurring.
+I agree with the Court that 15 U. S. C. § 1114(1)(a) and
+§ 1125(a)(1) do not apply extraterritorially. Ante, at 421. I
+also agree that the “ `use in commerce' of a trademark” that
+both statutory sections describe “provides the dividing line
+between foreign and domestic applications” of these provi-
+sions. Ante, at 428. The Court has no need to elaborate
+today upon what it means to “use [a trademark] in com-
+merce,” § 1127, nor need it discuss how that meaning guides
+the permissible-domestic-application question in a particular
+case. I write separately to address those points.
+It is clear beyond cavil that what makes a trademark a
+trademark under the Lanham Act is its source-identifying
+function. See Jack Daniel's Properties, Inc. v. VIP Prod-
+ucts LLC, 599 U. S. 140, 146 (2023); Qualitex Co. v. Jacobson
+Products Co., 514 U. S. 159, 162–163 (1995). That is, under
+the Act, a trademark is “any word, name, symbol, or device,
+or any combination thereof,” that “a person” “use[s]” or “in-
+ten[ds] to use” “to identify and distinguish his or her goods
+. . . from those manufactured or sold by others and to indicate
+the source of the goods.” § 1127; see also Qualitex Co., 514
+U. S., at 162–163 (emphasizing centrality of this source-
+identifying function). Sections 1114(1)(a) and 1125(a)(1) per-
+mit a mark owner to sue someone who is “us[ing that] mark
+in commerce” in a way “ `likely to cause confusion, or to cause
+mistake, or to deceive.' ” B&B Hardware, Inc. v. Hargis In-
+dustries, Inc., 575 U. S. 138, 144 (2015).
+Critically, the Act defines “ `use in commerce' ” as “the
+bona fde use of a mark in the ordinary course of trade.”
+§ 1127. And, in light of the core source-identifying function
+of marks, Congress's statutory scheme embodies a distinc-
+tion between trademark uses (use of a symbol or equivalent
+“ `to identify or brand [a defendant's] goods or services' ”) and
+“ `non-trademark uses' ” (use of a symbol—even the same
+one—“in a `non-source-identifying way' ”). Jack Daniel's,
+599 U. S., at 155–156. This all points to something key
+about what it means to use a trademark in the sense Con-
+gress prohibited—i. e., in a way likely to commit the “cardi-
+nal sin” of “confus[ing] consumers about source.” Id., at 157.
+Simply put, a “use in commerce” does not cease at the
+place the mark is first affixed, or where the item to which it
+is affixed is first sold. Rather, it can occur wherever the
+mark serves its source-identifying function. So, even after
+a trademark begins to be “use[d] in commerce” (say, when
+goods on which it is placed are sold), that trademark is also
+“use[d] in commerce” wherever and whenever those goods
+are in commerce, because as long as they are, the trademark
+“identifi[ies] and distinguish[es] . . . the source of the goods.”
+§ 1127. Such a use is not free-floating; the trademark is
+being used by the “person” who put that trademark on the
+goods “to identify and distinguish” them in commerce and
+“indicate the[ir] source.” Ibid. This is the “use in com-
+merce” to which § 1114(1)(a) and § 1125(a)(1) refer.
+Because it is “use in commerce”—as Congress has defined
+it—that “provides the dividing line between foreign and
+domestic applications of” these provisions, ante, at 428,
+the permissible-domestic-application inquiry ought to be
+straightforward. If a marked good is in domestic commerce,
+and the mark is serving a source-identifying function in the
+way Congress described, § 1114(1)(a) and § 1125(a)(1) may
+reach the “person,” § 1127, who is “us[ing that m]ark as a
+trademark,” Jack Daniel's, 599 U. S., at 157. But if the
+mark is not serving that function in domestic commerce, then
+the conduct Congress cared about is not occurring domesti-
+cally, and these provisions' purely domestic sweep cannot
+touch that person.
+Consider an example. Imagine that a German company
+begins making and selling handbags in Germany marked
+“Coache” (the owner's family name). Next, imagine that
+American students buy the bags while on spring break over-
+seas, and upon their return home employ those bags to carry
+personal items. Imagine finally that a representative of
+Coach (the United States company) sees the students with
+the bags and persuades Coach to sue the German company
+for Lanham Act infringement, fearing that the “Coache”
+mark will cause consumer confusion. Absent additional
+facts, such a claim seeks an impermissibly extrater -
+ritorial application of the Act. The mark affixed to the
+students' bags is not being “use[d] in commerce” domesti-
+cally as the Act understands that phrase: to serve a source-
+identifying function “in the ordinary course of trade,”
+§ 1127.
+Now change the facts in just one respect: The American
+students tire of the bags six weeks after returning home,
+and resell them in this country, confusing consumers and
+damaging Coach's brand. Now, the marked bags are in do-
+mestic commerce; the marks that the German company af-
+fxed to them overseas continue “to identify and distinguish”
+the goods from others in the (now domestic) marketplace and
+to “indicate the source of the goods.” Ibid. So the German
+company continues to “use [the mark] in commerce” within
+the meaning of the Act, thus triggering potential liabil-
+ity under § 1114(1)(a) and § 1125(a)(1). This result makes
+eminent sense given the source-identifying function of a
+trademark.1
+In brief, once the marks on its bags are serving their core
+source-identifying function in commerce in the United
+States, this German company is doing—domestically—ex-
+actly what Congress sought to proscribe. Accordingly, the
+German company may be subject to liability for this domestic
+1 Trademarks facilitate the accumulation of business goodwill whenever
+and wherever marked goods are in commerce. The manufacturer of
+source-marked goods reaps a goodwill benefit to the extent that consumers
+like its product, see Two Pesos, Inc. v. Taco Cabana, Inc., 505 U. S. 763, 774
+(1992), and that benefit runs to the manufacturer whenever a trademark is
+serving a source-identifying function with respect to items in commerce—
+however that commercial status came to be.

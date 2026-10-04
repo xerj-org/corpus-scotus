@@ -1,0 +1,385 @@
+Arellano v. McDonough — No. 21-432 — October Term 2022 — decided 1/23/23 — opinion of the Court — author Barrett (listing code AB)
+Citation: 598 U.S. 1
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r1_3e04.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Barrett delivered the opinion of the Court.
+This case concerns the effective date of an award of dis-
+ability compensation to a veteran of the United States mili-
+tary. The governing statute provides that the effective date
+of the award “shall not be earlier” than the day on which the
+Department of Veterans Affairs (V A) receives the veteran's
+application for benefits. But the statute specifies 16 excep-
+tions, one of which is relevant here: If the V A receives the
+application within a year of the veteran's discharge, the ef-
+fective date is the day after the veteran's discharge. We
+must decide whether this exception is subject to equitable
+tolling, a doctrine that would allow some applications fled
+outside the 1-year period to qualify for the “day after dis-
+charge” effective date. We hold that the provision cannot
+be equitably tolled.
+I
+A
+The United States offers benefits to any veteran who suf-
+fers a service-connected disability. 38 U. S. C. §§ 1110, 1131.
+A veteran seeking these benefits must fle a claim with the
+V A. § 5101(a)(1)(A). “A regional office of the V A then de-
+termines whether the veteran satisfies all legal prerequi-
+sites, including the requirement that military service caused
+or aggravated the disability.” George v. McDonough, 596
+U. S. –––, ––– – ––– (2022). If the regional office grants the
+application, it assigns an “effective date” to the award, and
+payments begin the month after that date. §§ 5110(a)(1),
+and Zachary Stolz; and for Military-Veterans Advocacy Inc., et al. by Mel-
+anie L. Bostwick, Cesar A. Lopez-Morales, John B. Wells, and Harvey
+Weiner.
+Briefs of amici curiae were fled for Edgewood Veterans et al. by Liam
+J. Montgomery, Charles L. McCloud, Diane Boyd Rauber, William A.
+Rivera, Leonard J. Selfon, and Linda E. Blauhut; for the Federal Circuit
+Bar Association by Nicholas F. Giove, Jonathan A. Herstoff, and Aakruti
+G. Vakharia; and for the National Law School Veterans Clinic Consortium
+by Angela K. Drake .
+5111(a)(1). If the effective date precedes the date on which
+the V A received the claim, the veteran receives retroactive
+benefits.
+Section 5110 dictates how this date is calculated. The de-
+fault rule is that “the effective date of an award . . . shall be
+fxed in accordance with the facts found, but shall not be
+earlier than the date of receipt of application therefor.”
+§ 5110(a)(1). This rule applies “[u]nless specifically provided
+otherwise in this chapter.” Ibid. Sixteen exceptions in
+§ 5110 “provid[e] otherwise,” including one specifying that
+“[t]he effective date of an award of disability compensation to
+a veteran shall be the day following the date of the veteran's
+discharge or release if application therefor is received within
+one year from such date of discharge or release.”
+§ 5110(b)(1). On its face, this exception allows up to one
+year of retroactive benefits. But if the V A can treat an ap-
+plication fled more than one year after discharge as if it
+had been fled within the statutory window, a veteran could
+potentially recover decades' worth of retroactive payments.
+B
+Adolfo Arellano served in the Navy from 1977 until his
+honorable discharge in 1981. Approximately 30 years later,
+the V A received Arellano's application for disability compen-
+sation based on his psychiatric disorders. A V A regional
+office found that Arellano's disorders resulted from trauma
+that he suffered while serving on an aircraft carrier that
+collided with another ship. So the regional office granted
+Arellano benefits for his service-connected disabilities—
+schizoaffective disorder bipolar type with posttraumatic
+stress disorder. It assigned an effective date of June 3,
+2011, the day that the V A received his claim.
+Arellano appealed the regional offce's decision to the V A's
+Board of Veterans' Appeals. He acknowledged that he did
+not submit an application for benefits until June 2011. But
+he argued that the regional office should have equitably
+tolled § 5110(b)(1)'s 1-year timeline to make his award effec-
+tive as of the day after his discharge from service in 1981 or,
+at the latest, January 1, 1982. In support of equitable toll-
+ing, Arellano alleged that he had been too ill to know that
+he could apply for service-connected disability benefits. The
+Board denied Arellano's request for equitable tolling, and the
+Court of Appeals for Veterans Claims affirmed.
+The en banc Federal Circuit affirmed the judgment unani-
+mously but divided equally on the supporting rationale.
+Half the court, adhering to Circuit precedent, maintained
+that § 5110(b)(1) is not subject to equitable tolling. 1 F. 4th
+1059, 1086 (2021) (Chen, J., concurring in judgment); see An-
+drews v. Principi, 351 F. 3d 1134 (2003). The other half,
+rejecting Circuit precedent, reasoned that § 5110(b)(1) is sub-
+ject to equitable tolling but that tolling was unwarranted on
+the facts of Arellano's case. 1 F. 4th, at 1099 (Dyk, J., con-
+curring in judgment).
+We granted certiorari to resolve which side had the better
+interpretation of the statute. 595 U. S. ––– (2022).
+II
+Equitable tolling “effectively extends an otherwise dis-
+crete limitations period set by Congress.” Lozano v. Mon-
+toya Alvarez, 572 U. S. 1, 10 (2014). In practice, it “pauses
+the running of, or `tolls,' a statute of limitations when a liti-
+gant has pursued his rights diligently but some extraor-
+dinary circumstance prevents him from bringing a timely
+action.” Ibid. The doctrine “is a traditional feature of
+American jurisprudence and a background principle against
+which Congress drafts limitations periods.” Boechler v.
+Commissioner, 596 U. S. –––, ––– (2022). Consistent with
+this jurisprudential backdrop, we presume that federal stat-
+utes of limitations are subject to equitable tolling. Irwin v.
+Department of Veterans Affairs, 498 U. S. 89, 95–96 (1990).
+The Irwin presumption, however, is just that—a presump-
+tion. It can be rebutted, and if equitable tolling is inconsist-
+ent with the statutory scheme, courts cannot stop the clock
+for even the most deserving plaintiff. John R. Sand &
+Gravel Co. v. United States, 552 U. S. 130, 137–138 (2008);
+United States v. Beggerly, 524 U. S. 38, 48–49 (1998).
+The Secretary of Veterans Affairs advances two reasons
+why § 5110(b)(1) is not subject to equitable tolling. The first
+would head tolling off at the pass: He argues that § 5110(b)(1)
+is not a statute of limitations, so the presumption is wholly
+inapplicable. See Lozano, 572 U. S., at 13–14 (“[W]e have
+only applied” Irwin's presumption “to statutes of limita-
+tions”). Rather than extinguishing a tardy claim (the func-
+tion of a statute of limitations), § 5110(b)(1) caps the award
+for a successful claim (a different function). Brief for Re-
+spondent 18–22. That it does so with reference to the time
+of filing, the Secretary says, does not convert it into a statute
+of limitations. Id., at 21. In any event, the Secretary adds,
+equitable tolling is at odds with the statutory text and struc-
+ture—so even assuming that § 5110(b)(1) sets a limitations
+period, the presumption is rebutted.
+We need not address the Secretary's first argument be-
+cause the second is straightforward. The presumption is re-
+butted if “there [is] good reason to believe that Congress did
+not want the equitable tolling doctrine to apply.” United
+States v. Brockamp, 519 U. S. 347, 350 (1997). In this case,
+there is very good reason to draw that conclusion. Section
+5110 contains detailed instructions for when a veteran's
+claim for benefits may enjoy an effective date earlier than
+the one provided by the default rule. It would be inconsist-
+ent with this comprehensive scheme for an adjudicator to
+extend effective dates still further through the doctrine of
+equitable tolling. 1
+1 Equitable tolling, a judicial doctrine, is typically applied by courts.
+See Sebelius v. Auburn Regional Medical Center , 568 U. S. 145, 158–159
+(2013). In this case, Arellano posits that the V A would apply the doctrine
+in the first instance. Reply Brief 18–19; Tr. of Oral Arg. 16–17. The
+Secretary counters that the doctrine is not presumptively available to
+A
+Start with the text. Section 5110(b)(1) operates as a lim-
+ited exception to § 5110(a)(1)'s default rule, which states that
+“the effective date of an award . . . shall be fxed in accord-
+ance with the facts found, but shall not be earlier than the
+date of receipt of application therefor.” The default applies
+“[u]nless specifically provided otherwise in this chapter”—a
+clause indicating that Congress enumerated an exhaustive
+list of exceptions, with each confined to its specific terms.
+§ 5110(a)(1). According to the terms of the exception in
+§ 5110(b)(1), “[t]he effective date of an award of disability
+compensation to a veteran shall be the day following the date
+of the veteran's discharge or release if application therefor
+is received within one year from such date of discharge or
+release.” Equitably tolling this provision would depart
+from the terms that Congress “specifically provided.”
+§ 5110(a)(1).
+The structure of § 5110 reinforces Congress's choice to set
+effective dates solely as prescribed in the text. The statute
+sets out detailed instructions that explain when various
+types of benefits qualify for an effective date earlier than
+the default. There are 16 such exceptions—and equitable
+tolling is not on the list. See §§ 5110(b)(1), (b)(2)(A), (b)(3),
+(b)(4)(A), (c), (d), (e)(1), (e)(2), (f), (g), (h), (i), (j), (k), (l), (n).
+Notably, these exceptions do not operate simply as time con-
+straints, but also as substantive limitations on the amount of
+recovery due. See, e. g., § 5110(g) (“In no event shall [an]
+award or increase [under this paragraph] be retroactive for
+more than one year from the date of application therefor or
+the date of administrative determination of entitlement,
+agencies because they possess no equitable power unless Congress grants
+it to them—which, he says, Congress has not done here. Brief for Re-
+spondent 32–35. We need not settle this dispute. Our conclusion that
+the presumption is rebutted means that no adjudicator, whether an agency
+or a court, may equitably toll the effective date.
+whichever is earlier”). We stated in Brockamp that an “ex-
+plicit listing of exceptions” in a statute containing “detail”
+and describing “not only procedural limitations, but also sub-
+stantive limitations on the amount of recovery” strongly in-
+dicated that “Congress did not intend courts to read other
+unmentioned, open-ended, `equitable' exceptions into the
+statute that it wrote.” 519 U. S., at 352. So too here. If
+Congress wanted the V A to adjust a claimant's entitlement
+to retroactive benefits based on unmentioned equitable fac-
+tors, it is difficult to see why it spelled out a long list of
+situations in which a claimant is entitled to adjustment—
+and instructed the V A to stick to the exceptions “specifically
+provided.” § 5110(a)(1).
+That many of the specific exceptions reflect equitable con-
+siderations heightens the structural inference. Several, in-
+cluding § 5110(b)(1), apply when the event triggering the
+entitlement to benefits is disability or death—both circum-
+stances in which prompt filing could be challenging for a vet-
+eran or her survivors. See §§ 5110(b)(1), (b)(3), (b)(4)(A), (d);
+cf. Lozano, 572 U. S., at 10 (noting that equitable tolling may
+be appropriate when a person diligently pursues her rights
+but an “extraordinary circumstance prevents [her] from
+bringing a timely action”). One permits an earlier effective
+date for the award of benefits to a veteran's child, a claimant
+typically dependent on others for prompt filing. § 5110(e)(1).
+Still others permit retroactive benefits when facts change
+or new evidence emerges. See § 5110(h) (permitting retro-
+active benefits when actual income would increase a pen-
+sion that had been awarded based on anticipated income);
+§ 5110(i) (permitting retroactive benefits when “any disal-
+lowed claim is readjudicated and thereafter allowed on
+the basis of new and relevant evidence resulting from the
+correction of” certain military records). Yet despite its at-
+tention to fairness, Congress did not throw the door wide
+open in these circumstances or any other. In all but one
+instance, Congress capped retroactive benefits at roughly
+one year.2
+This pattern matters. That Congress accounted for equi-
+table factors in setting effective dates strongly suggests that
+it did not expect an adjudicator to add a broader range of
+equitable factors to the mix. And its decision to consist-
+ently cap retroactive benefits strongly suggests that it did
+not expect open-ended tolling to dramatically increase the
+size of an award. When Congress has already considered
+equitable concerns and limited the relief available, “addi-
+tional equitable tolling would be unwarranted.” Beggerly,
+524 U. S., at 48–49.
+Section 5110(b)(4), another disability-related exception to
+the default rule, illustrates the point. Recall that
+§ 5110(b)(1), the exception at issue here, adjusts the effective
+date of disability compensation to the day after a veteran's
+discharge from the military, so long as the V A receives the
+claim within one year of discharge. Arellano contends that
+his claim, fled 30 years after discharge, should relate back
+to the date of discharge because his disability prevented him
+2 Thirteen of the exceptions, including § 5110(b)(1), allow an effective
+date up to one year before the application-receipt date. See, e. g.,
+§ 5110(b)(3) (“The effective date of an award of increased compensation
+shall be the earliest date as of which it is ascertainable that an increase
+in disability had occurred, if application is received within one year from
+such date” (emphasis added)). Two exceptions contemplate the possibility
+that the effective date of an award might stretch up to one day short of
+13 months before the application-receipt date. See §§ 5110(d) (“The effec-
+tive date of an award of death compensation, dependency and indemnity
+compensation, or death pension for which application is received within
+one year from the date of death shall be the first day of the month in
+which the death occurred”), (e)(1). The only one offering more than 13
+months of retroactive benefits concerns the death of an active-duty serv-
+icemember. This provision permits an award of death compensation to
+be effective as of the month of death, no matter how long ago the death
+occurred—but still, retroactive benefits are permitted only if the V A re-
+ceives the application within one year of the military's entry of a report
+or finding of the servicemember's death. § 5110(j).
+from filing earlier than he did. But § 5110(b)(4), which ap-
+plies to disability pensions rather than disability compensa-
+tion, expressly accounts for this very concern: It makes pen-
+sion benefits retroactive to the date of permanent and total
+disability if the disability prevented the veteran from apply-
+ing for an award at the time of onset. §§ 5110(b)(4)(A), (B).
+The possibility that disability could cause delay was there-
+fore on Congress's radar; still, Congress did not explicitly
+account for it in § 5110(b)(1). Moreover, while Arellano
+posits an open-ended grace period for § 5110(b)(1), § 5110(b)
+(4)(A) imposes a restrictive one: It applies only “if the vet-
+eran applies for a retroactive award within one year” of “the
+date on which the veteran became permanently and totally
+disabled.” Why would Congress allow an unlimited grace
+period for an equitable concern unmentioned in § 5110(b)(1)
+when it established a limited grace period for the same con-
+cern explicitly mentioned in § 5110(b)(4)? Tolling § 5110(b)(1)
+would single it out for special treatment; enforcing its terms
+keeps it consistent with the statutory scheme.
+The most compelling argument for equitable tolling is that
+hard and fast limits on retroactive benefits can create harsh
+results. The statutory default ties the start of benefits
+to the application-receipt date, a choice that incentivizes
+promptness and disfavors retroactive awards. The excep-
+tions granting a 1-year grace period soften that choice in
+specified circumstances, yet there are situations in which eq-
+uity's flexible, open-ended approach would be more generous
+to a deserving claimant. With this in mind, Congress could
+have designed a scheme that allowed adjudicators to maxi-
+mize fairness in every case. But Congress has the power to
+choose between rules, which prioritize efficiency and predict-
+ability, and standards, which prioritize optimal results in in-
+dividual cases. Cf. Brockamp, 519 U. S., at 352–353 (observ-
+ing that “Congress decided to pay the price of occasional
+unfairness in individual cases . . . in order to maintain a more
+workable tax enforcement system”). Congress opted for
+rules in this statutory scheme, and an equitable extension of
+§ 5110(b)(1)'s 1-year grace period would disrupt that choice.
+B
+Arellano contests all of this. Laser focused on
+§ 5110(b)(1), he argues that the provision's unadorned text
+contains none of the specific, technical language that might
+otherwise rebut the presumption of equitable tolling. In ad-
+dition, he emphasizes that there are “zero express exceptions
+to § 5110(b)(1)'s one-year clock,” which he describes as “fatal”
+to the Secretary's position. Reply Brief 14. As Arellano
+sees it, § 5110(b)(1) is a simple time limit and therefore a
+classic case for equitable tolling.
+If § 5110(b)(1) stood alone, there might be something to
+Arellano's argument. (Again, assuming that § 5110(b)(1) is
+a limitations period to which the Irwin presumption ap-
+plies.) But § 5110(b)(1) cannot be understood independently
+of § 5110(a)(1), which makes the date of receipt the effective
+date “[u]nless specifically provided otherwise in this chap-
+ter.” Arellano insists that the Secretary overreads “unless”
+by treating it as a signal that the enacted exceptions are
+exclusive. Brief for Petitioner 31–32. But the clause says
+more than “unless”—it says that the default applies “[u]n-
+less specifically provided otherwise.” § 5110(a)(1) (emphasis
+added). That is an instruction to attend to specifically
+enacted language to the exclusion of general, unenacted
+carveouts. While Arellano claims to seek an equitable ex-
+ception to a general rule, he actually seeks an equitable ex-
+ception to an exception to a general rule. Structurally, that
+is a heavy lift. Moreover, § 5110(b)(1) is nestled within a list
+of 15 other exceptions to § 5110(a)(1)'s default rule, and, as
+we have already explained, the presence of this detailed,
+lengthy list raises the inference that the enumerated excep-
+tions are exclusive.
+Arellano also resists the proposition that the express ac-
+counting for disability-caused delay in § 5110(b)(4) hurts his
+case. On the contrary, he insists that it works in his favor.
+Citing Young v. United States, 535 U. S. 43 (2002), he main-
+tains that an express tolling provision does not displace the
+presumption of tolling but rather demonstrates that a stat-
+ute incorporates traditional equitable principles. Brief for
+Petitioner 37–38. According to Arellano, Congress's silence
+in § 5110(b)(1) merely shows that it wanted those traditional
+principles to apply at full strength. Ibid. ; Reply Brief
+19–20.
+We disagree. Section 5110(b)(4) does not help Arellano;
+for the reasons we have already explained, it illustrates why
+equitably tolling § 5110(b)(1) is incongruent with the statu-
+tory scheme. Young is inapposite. There, we concluded
+that an “express tolling provision” for a time limit in a bank-
+ruptcy statute supported equitable tolling of a different time
+limit in the same statute. 535 U. S., at 53. But that was
+largely because the express tolling provision authorized toll-
+ing where equity would not otherwise have permitted it.
+Ibid. As a result, we interpreted the express tolling provi-
+sion to “supplemen[t] rather than displac[e] principles of equi-
+table tolling.” Ibid. (emphasis deleted). Here, however,
+§ 5110(b)(4) does not authorize tolling that equity would not
+otherwise have allowed. If anything, its conditional and
+narrow applicability limits tolling that might otherwise have
+occurred. Though Arellano makes a valiant effort to turn a
+negative into a positive, § 5110(b)(4) remains an obstacle to
+his interpretation.
+Finally, Arellano contends that “the `nature of the underly-
+ing subject matter' ”—veterans' benefits—counsels in favor
+of tolling here. Brief for Petitioner 33–34. To support this
+proposition, he invokes Brockamp, which considered
+whether courts can equitably toll time limits for filing tax-
+refund claims. 519 U. S., at 348. After holding that the
+statute's text and structure rebutted the Irwin presumption,
+we observed that the “nature of the underlying subject
+matter—tax collection—underscore[d] the linguistic point.”
+Brockamp, 519 U. S., at 352. “Tax law, after all, is not nor-
+mally characterized by case-specific exceptions reflecting in-
+dividualized equities.” Ibid. By contrast, Arellano argues,
+providing benefits to veterans is a context in which individu-
+alized equities are paramount. See King v. St. Vincent's
+Hospital, 502 U. S. 215, 220–221, n. 9 (1991) (“[P]rovisions for
+benefits to members of the Armed Services are to be con-
+strued in the benefciaries' favor”).
+If the text and structure favored Arellano, the nature of
+the subject matter would garnish an already solid argument.
+But the nature of the subject matter cannot overcome text
+and structure that foreclose equitable tolling. Brockamp
+turned to the “nature of the underlying subject matter” only
+to “underscor[e] the linguistic point.” 519 U. S., at 352.
+Arellano, however, lacks the linguistic point. This is not a
+case in which competing interpretations are equally plausi-
+ble; it is one in which Congress's choice is evident. 3
+* * *
+We hold that § 5110(b)(1) is not subject to equitable tolling
+and affirm the judgment of the Court of Appeals.
+It is so ordered.
+3 We resolve only the applicability of equitable tolling to § 5110(b)(1).
+We do not address the applicability of other equitable doctrines, such as
+waiver, forfeiture, and estoppel.

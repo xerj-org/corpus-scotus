@@ -1,0 +1,1499 @@
+Trump v. CASA, Inc. — No. 24A884 — October Term 2024 — decided 6/27/25 — Sotomayor, J., dissenting
+Citation: 606 U.S. 831
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+applications for stays or injunctions with respect to major
+new federal statutes and executive actions. Deciding those
+applications is not a distraction from our job. It is a critical
+part of our job. With that understanding, I join the Court's
+opinion in full.
+Justice Sotomayor , with whom Justice Kagan and
+Justice Jackson join, dissenting.
+Children born in the United States and subject to its laws
+are United States citizens. That has been the legal rule
+since the founding, and it was the English rule well before
+then. This Court once attempted to repudiate it, holding in
+Dred Scott v. Sandford, 19 How. 393 (1857), that the children
+of enslaved black Americans were not citizens. To remedy
+that grievous error, Congress passed in 1866 and the States
+ratified in 1868 the Fourteenth Amendment's Citizenship
+Clause, which enshrined birthright citizenship in the Consti-
+tution. There it has remained, accepted and respected by
+Congress, by the Executive, and by this Court. Until today.
+It is now the President who attempts, in an Executive
+Order (Order or Citizenship Order), to repudiate birthright
+citizenship. Every court to evaluate the Order has deemed
+it patently unconstitutional and, for that reason, has enjoined
+the Federal Government from enforcing it. Undeterred, the
+Government now asks this Court to grant emergency relief,
+insisting it will suffer irreparable harm unless it can deprive
+at least some children born in the United States of citizen-
+ship. See Protecting the Meaning and Value of American
+Citizenship, Exec. Order No. 14160, 90 Fed. Reg. 8449 (2025).
+The Government does not ask for complete stays of the
+injunctions, as it ordinarily does before this Court. Why?
+The answer is obvious: To get such relief, the Government
+would have to show that the Order is likely constitutional,
+an impossible task in light of the Constitution's text, history,
+this Court's precedents, federal law, and Executive Branch
+practice. So the Government instead tries its hand at a dif-
+ferent game. It asks this Court to hold that, no matter how
+illegal a law or policy, courts can never simply tell the Execu-
+tive to stop enforcing it against anyone. Instead, the Gov-
+ernment says, it should be able to apply the Citizenship
+Order (whose legality it does not defend) to everyone except
+the plaintiffs who fled this lawsuit.
+The gamesmanship in this request is apparent and the
+Government makes no attempt to hide it. Yet, shamefully,
+this Court plays along. A majority of this Court decides
+that these applications, of all cases, provide the appropriate
+occasion to resolve the question of universal injunctions and
+end the centuries-old practice once and for all. In its rush
+to do so the Court disregards basic principles of equity as
+well as the long history of injunctive relief granted to
+nonparties.
+No right is safe in the new legal regime the Court creates.
+Today, the threat is to birthright citizenship. Tomorrow, a
+different administration may try to seize firearms from law-
+abiding citizens or prevent people of certain faiths from gath-
+ering to worship. The majority holds that, absent cumber-
+some class-action litigation, courts cannot completely enjoin
+even such plainly unlawful policies unless doing so is neces-
+sary to afford the formal parties complete relief. That hold-
+ing renders constitutional guarantees meaningful in name
+only for any individuals who are not parties to a lawsuit.
+Because I will not be complicit in so grave an attack on our
+system of law, I dissent.
+I
+The majority ignores entirely whether the President's Ex-
+ecutive Order is constitutional, instead focusing only on the
+question whether federal courts have the equitable authority
+to issue universal injunctions. Yet the Order's patent un-
+lawfulness reveals the gravity of the majority's error and
+underscores why equity supports universal injunctions as ap-
+propriate remedies in this kind of case. As every conceiv-
+able source of law confirms, birthright citizenship is the law
+of the land.
+A
+The Citizenship Clause provides that “[a]ll persons born or
+naturalized in the United States and subject to the jurisdic-
+tion thereof, are citizens of the United States and of the
+State wherein they reside.” U. S. Const., Amdt. 14, § 1.
+That means what it says. Nestled in the Fourteenth
+Amendment alongside the Equal Protection Clause, the Citi-
+zenship Clause does not discriminate on the basis of race,
+sex, ethnicity, religion, or, importantly here, parentage. It
+refers instead to “[a]ll persons born or naturalized in the
+United States.” Ibid.
+Besides birth, there is only one condition: that one be “sub-
+ject to the jurisdiction” of the United States. Yet that con-
+dition too leaves no room for ambiguity. To be “subject to
+the jurisdiction” of the United States means simply to be
+bound to its authority and its laws. See 1 N. Webster, An
+American Dictionary of the English Language 732 (C. Good-
+rich & N. Porter eds. 1865) (defining jurisdiction as the
+“[p]ower of governing or legislating,” or “the power or right
+of exercising authority”). As the Government would pre-
+sumably concede, virtually everyone born in the United
+States and present in its territory is subject to its authority
+and its laws. After all, “[t]he jurisdiction of the nation
+within its own territory is necessarily exclusive and abso-
+lute.” Schooner Exchange v. McFaddon, 7 Cranch 116, 136
+(1812) (Marshall, C. J., for the Court). Once a citizen of an-
+other nation steps onto United States soil, she is (with nar-
+row exception) “amenable to the jurisdiction” of the United
+States. Id., at 144. That is why “no plausible distinction
+with respect to Fourteenth Amendment `jurisdiction' can be
+drawn between resident aliens whose entry into the United
+States was lawful, and resident aliens whose entry was un-
+lawful.” Plyler v. Doe, 457 U. S. 202, 211, n. 10 (1982).
+Few constitutional questions can be answered by resort
+to the text of the Constitution alone, but this is one. The
+Fourteenth Amendment guarantees birthright citizenship.
+B
+Unsurprisingly given the clarity of the Citizenship
+Clause's text, every other source of interpretation confirms
+this conclusion. Consider, first, its history. Long before
+the Fourteenth Amendment, and indeed before the founding,
+the common-law rule of jus soli (literally, right of the soil)
+governed English citizenship. That rule rendered a per-
+son's birthplace determinative of her citizenship status.
+Thus, “[t]he children of aliens, born . . . in England,” gener-
+ally were “natural-born subjects, and entitled to all the privi-
+leges of such.” 1 W. Blackstone, Commentaries on the Laws
+of England 361–362 (1765); see also H. Broom & G. Denman,
+Constitutional Law Viewed in Relation to Common Law 31
+(2d ed. 1885) (describing Calvin's Case (1608), which estab-
+lished that “[e]very one born within the dominions of the
+King of England . . . is . . . entitled to enjoy all the rights
+and liberties of an Englishman”).
+That English common-law rule carried over to the United
+States after the founding. Shortly after the Constitution's
+ratification, James Madison observed that “it [was] an estab-
+lished maxim that birth is a criterion of allegiance,” i. e., of
+citizenship. 1 Annals of Cong. 404 (1789). Birth, he ex-
+plained, could convey citizenship in two ways: either through
+“place” (under the “right of the soil” principle) or through
+“parentage” (as for one born to United States citizens).
+Ibid. “[B]ut, in general,” Madison explained, “place is the
+most certain criterion” and “it is what applies in the United
+States.” Ibid. Mere decades later, Justice Story wrote
+that “[n]othing is better settled . . . than the doctrine that
+the children even of aliens born in a country . . . are subjects
+by birth.” Inglis v. Trustees of Sailor's Snug Harbour in
+City of New York, 3 Pet. 99, 164 (1830). Well before the
+Fourteenth Amendment, then, it was the undisputed “law of
+the United States [that] every person born within the domin-
+ions and allegiance of the United States, whatever were the
+situation of his parents, is a natural born citizen.” Lynch v.
+Clarke, 1 Sand. Ch. 583, 663 (N. Y . Ch. 1844).
+Though the law was clear, the Nation did not always live
+up to its promise. Infamously, this Court departed from the
+birthright citizenship principle in Dred Scott, 19 How. 393,
+holding that the children of enslaved black Americans “are
+not included, and were not intended to be included, under
+the word `citizens' in the Constitution.” Id., at 404. Fol-
+lowing the Civil War, the Reconstruction Congress corrected
+that grave error. Section 1 of the Civil Rights Act of 1866,
+14 Stat. 27, declared that “all persons born in the United
+States and not subject to any foreign power” would be “citi-
+zens of the United States.” The Fourteenth Amendment's
+guarantee of birthright citizenship followed two years later.
+The lawmakers who ratified the Fourteenth Amendment
+understood that it would extend citizenship to all children
+born here, regardless of parental citizenship. Indeed, some
+objected to its passage on those grounds, complaining that
+it would permanently extend citizenship to immigrants who
+“invade [state] borders” and “settle as trespassers.” Cong.
+Globe, 39th Cong., 1st Sess., 2891 (1866). Proponents
+agreed, if not with the anti-immigrant sentiment, that the
+Clause would extend citizenship to the children of immi-
+grants. For example, Senator Conness of California (one of
+the Amendment's lead supporters) confirmed on the floor
+“that the children born here of Mongolian parents shall be
+declared by the Constitution of the United States to be enti-
+tled to civil rights and to equal protection before the law.”
+Id., at 2892. “We have declared that by law” in the Civil
+Rights Act, he explained, and “now it is proposed to incorpo-
+rate the same provision in the fundamental instrument of the
+nation.” Id., at 2891. Not one Senator disagreed with this
+understanding of the Clause.
+In the end, “[t]he Citizenship Clause was no legal innova-
+tion.” J. Ho, Defining “American”: Birthright Citizenship
+and the Original Understanding of the 14th Amendment, 9
+Green Bag 2d 367, 369 (2006); see also id., at 368 (“Birthright
+citizenship is guaranteed by the Fourteenth Amendment.
+That birthright is protected no less for children of undocu-
+mented persons than for descendants of Mayfower passen-
+gers”). “It simply restored the longstanding English com-
+mon law doctrine of jus soli” abrogated by Dred Scott. Ho,
+9 Green Bag 2d, at 369; see also M. Ramsey, Originalism and
+Birthright Citizenship, 109 Geo. L. J. 405, 472 (2020) (The
+“central purpose” of the Citizenship Clause “was, of course,
+to overrule Dred Scott”).
+C
+Following the ratification of the Fourteenth Amendment,
+this Court confirmed the Amendment's plain meaning in
+United States v. Wong Kim Ark, 169 U. S. 649 (1898). At
+issue was the citizenship of Wong Kim Ark, a young Califor-
+nia resident born in San Francisco to Chinese immigrant par-
+ents. Id., at 652. When Wong returned to California from
+a trip to China, a custom's collector denied him entry on the
+sole ground that he was not a citizen of the United States.
+Id., at 653.
+This Court held that “[t]he Fourteenth Amendment af-
+frms the ancient and fundamental rule of citizenship by birth
+within the territory.” Id., at 693. As the President does
+today, the Government in Wong Kim Ark rested its case on
+the Clause's sole qualifer. Wong was not subject to the ju-
+risdiction of the United States, the Government claimed, be-
+cause at birth his parents were aliens in the United States
+who were “subjects of the emperor of China,” thus making
+Wong a subject of the emperor of China as well. Id., at 652–
+653. This Court squarely rejected that attempt to limit the
+Citizenship Clause's reach. Instead, it held, the “ `subject to
+the jurisdiction' ” qualifer excludes only “children born of
+alien enemies in hostile occupation, and children of diplo-
+matic representatives of a foreign State,” id., at 682, “with
+the single additional exception of children of members of the
+Indian tribes owing direct allegiance to their several tribes,”
+id., at 693. 1
+That holding conclusively settled any remaining dispute
+over the Citizenship Clause's meaning. Since then, all three
+branches of Government have unfinchingly adhered to it.
+This Court, for one, has repeatedly reaffirmed Wong Kim
+Ark's holding. Notwithstanding legislation purporting to
+render Japanese persons “ineligible” for citizenship, we held
+in Morrison v. California, 291 U. S. 82 (1934), that a child
+with Japanese parents “is a citizen of the United States if he
+was born within the United States.” Id., at 85. The Court
+recognized the same rule even during World War II, when
+individuals of Japanese ancestry were subject to curfew and
+exclusion orders. See Hirabayashi v. United States, 320
+U. S. 81, 96–97 (1943). So too has the Court recognized that
+the child of parents unlawfully present in the United States
+“is, of course, an American citizen by birth.” United States
+ex rel. Hintopoulos v. Shaughnessy, 353 U. S. 72, 73 (1957).
+The same is true of children whose parents gained admission
+into the United States by unlawful means. See, e. g., INS v.
+1 The first two exceptions “ha[d] already been shown, by the law of Eng-
+land, and by our own law, from the time of the first settlement of the
+English colonies in America, [to be] recognized exceptions to the funda-
+mental rule of citizenship by birth within the country.” Wong Kim Ark,
+169 U. S., at 682. The additional exception for certain children born to
+Indian tribe members reflected the country's historical understanding that
+Indian tribes were “quasi foreign nations” within the physical boundaries
+of the United States. See Cong. Globe, 39th Cong., 1st Sess., 2890 (1866).
+Treaties between many tribes and the Federal Government, at the time,
+ensured that it was the tribe, and not the United States Government, that
+had “prescriptive and law enforcement authority” over tribal members.
+M. Ramsey, Originalism and Birthright Citizenship, 109 Geo. L. J. 405,
+443–444 (2020); see id., at 442–444. Congress eventually extended birth-
+right citizenship to tribal members born in the United States in 1924.
+See Indian Citizenship Act of 1924, ch. 233, 43 Stat. 253, 8 U. S. C. § 1401(b).
+These exceptions are not at issue in these cases.
+Errico, 385 U. S. 214, 215–216 (1966); INS v. Rios-Pineda,
+471 U. S. 444, 446 (1985).
+Congress, for its part, has also reaffirmed the principles of
+birthright citizenship by enshrining it in a federal statute.
+Section 201 of the Nationality Act of 1940 provides that all
+those “born in the United States, and subject to the jurisdic-
+tion thereof,” “shall be nationals and citizens of the United
+States at birth.” 8 U. S. C. § 1401(a); see also Taggart v. Lor-
+enzen, 587 U. S. 554, 560 (2019) (recognizing “longstanding
+interpretive principle” that if statutory term “is ` “obviously
+transplanted from another legal source,” ' it ` “brings the old
+soil with it” ' ”).
+For at least the last century, the Executive Branch has
+adhered to the same principle. When Congress proposed to
+reaffirm birthright citizenship in the 1940 Nationality Act,
+cabinet officials described it as “a statement of the common-
+law rule, which has been in effect in the United States from
+the beginning of its existence.” House Committee on Immi-
+gration and Naturalization, Nationality Laws of the United
+States, 76th Cong., 1st Sess., 7 (Comm. Print 1939). Indeed,
+the Government concedes even now that the Executive
+Branch has recognized the vitality of birthright citizenship
+“at least back to World War II, if not earlier.” App. to Op-
+position to Application in No. 24A886, p. 323a. That ex-
+plains, among other things, why the Social Security Adminis-
+tration and the Department of State have long accepted
+proof of one's birthplace as proof of citizenship. See 44 Fed.
+Reg. 10369, 10371 (1979); 20 CFR §§ 422.107(d), 422.103(c)(2)
+(2024); 22 CFR §§ 51.40, 51.42 (2024).
+Some decades ago, the Office of Legal Counsel was asked
+to respond to a House bill that would have denied birthright
+citizenship to “ `children born in the United States to parents
+who are not citizens or permanent resident aliens.' ” 19 Op.
+OLC 340, 341 (1995). The answer well summed up the state
+of the law: This “office grapples with many difficult and close
+issues of constitutional law. The lawfulness of this bill is not
+among them. This legislation is unquestionably unconstitu-
+tional.” Ibid.
+II
+A
+Undeterred by the Constitution, history, Supreme Court
+precedent, federal law, and longstanding Executive Branch
+practice, President Donald J. Trump issued Executive Order
+No. 14160 on the day of his inauguration that purported to
+redefine American citizenship. The Order declares that
+United States citizenship does not extend to persons who are
+born to a mother unlawfully present in the United States, or
+lawfully present on a temporary basis, and a father who is
+neither a citizen nor lawful permanent resident. Ibid. It
+further prohibits federal agencies from issuing citizenship
+documentation to such persons or accepting state documen-
+tation to that effect, and it directs a slew of federal officials
+to conform agency regulations to the Order. Id., at 8449–
+8450. The prohibition, according to the Order, applies “only
+to persons who are born within the United States after 30
+days from the date of th[e] order.” Id., at 8449.
+B
+Shortly after the President issued the Citizenship Order,
+several groups of plaintiffs (together, respondents) chal-
+lenged the Order in Federal District Courts in Maryland,
+Massachusetts, and Washington. Respondents include: a
+group of pregnant women 2 whose children will not be United
+States citizens under the terms of the Citizenship Order; two
+immigrants-rights organizations with thousands of members
+across the country who are likely to give birth to children
+2 Two of these women seek to represent a class of pregnant women and
+children residing in Washington State, who are affected by the Citizenship
+Order. See Complaint in No. 2:25–cv–00127 (WD Wash., Feb. 4, 2025),
+ECF Doc. 106. The District Court has yet to rule on the certifcation of
+that putative class.
+who would also be denied citizenship under the Order; and
+22 States, the District of Columbia, and the city of San Fran-
+cisco. In their respective suits, respondents asserted that
+the Citizenship Order violates the Fourteenth Amendment
+and § 1401(a).
+Respondents also sought a preliminary injunction barring
+enforcement of the Citizenship Order during the pendency
+of the litigation. If allowed to go into effect, they said, the
+policy would inflict irreparable harm on their children (and
+their members' children) by denying them “enjoyment of the
+full privileges, rights, and benefits that come with U. S. citi-
+zenship,” and rendering them vulnerable to unlawful depor-
+tation before the Courts could adjudicate their constitutional
+claim. Complaint in No. 8:25–cv–00201 (D Md., Jan. 21,
+2025), p. 6, ¶12; see also Complaint in No. 2:25–cv–00127 (WD
+Wash., Feb. 4, 2025), ECF Doc. 106, pp. 33–36, ¶¶120–139
+(Washington Complaint).
+As for the States, they attested that enforcement of the
+Citizenship Order would cost them millions of dollars in fed-
+eral funding and impose significant administrative burdens.
+The States “administer numerous programs for the benefit
+of their residents, including for newborns and young chil-
+dren, some of whom are wards of the Plaintiff States who are
+entitled to care by statute.” Id., at 23, ¶79. Those social
+welfare programs include ones provided for by state law, as
+well as ones established by federal law, such as Medicaid and
+the Children's Health Insurance Program: Several of them
+“are funded in part by federal dollars, with federal funding
+frequently tied to the citizenship and immigration status of
+the individuals served.” Ibid. By stripping some children
+within the States of their citizenship, the Order would re-
+duce the States' federal funding, “forc[ing the States] to bear
+significantly increased costs to operate and fund programs
+that ensure the health and well-being of their residents.”
+Id., at 6, ¶8, 4–5, ¶6; see also Opposition to Application in
+No. 24A886 (New Jersey), pp. 9–11; Complaint in No. 1:25–
+cv–10139 (D Mass., Jan. 21, 2025), pp. 23–42, ¶¶121–201.
+Relatedly, because the States must verify the citizenship sta-
+tus of the individuals they serve, the States alleged that the
+Citizenship Order would force them to expend significant
+sums to “modifi[y] their . . . operational structures and admin-
+istration” to account for the changes in citizenship. Wash-
+ington Complaint 6, ¶8; see also Opposition to Application in
+No. 24A886 (New Jersey), at 9–11.
+All three District Courts preliminarily enjoined enforce-
+ment of the Citizenship Order. Each court determined that
+the Citizenship Order was likely unlawful, that respondents
+were likely to face irreparable harm without an injunction,
+and that the equities and public interest cut decisively in
+respondents' favor. See 763 F. Supp. 3d 723, 727, 744–745
+(Md. 2025); 765 F. Supp. 3d 1142, 1152–1153 (WD Wash. 2025);
+Doe v. Trump, 766 F. Supp. 3d 266, 274, 285–287 (Mass. 2025).
+The District Courts further determined that only injunc-
+tions blocking the Citizenship Order's enforcement nation-
+wide would completely redress respondents' injuries. For
+the organizational plaintiffs, the Maryland District Court ex-
+plained that those plaintiffs have “ `over 680,000 members . . .
+who reside in all 50 U. S. states' ” and “hundreds of them
+expect to give birth soon.” 763 F. Supp. 3d, at 746. The
+Washington District Court found that “a geographically lim-
+ited injunction would be ineffective” for the state plaintiffs
+“as it would not completely relieve [the States] of the Order's
+financial burden(s).” 765 F. Supp. 3d, at 1153. For one
+thing, that court explained, the constant fow of people mov-
+ing in and out of various States meant some children born
+to noncitizen parents in a nonplaintiff State would later re-
+side in a plaintiff State. Once there, those children (under
+state law) would be eligible for state benefits. Yet due to
+the Citizenship Order, the plaintiff States would no longer
+receive federal funding to support those benefits. In addi-
+tion, the plaintiff States would have to create an entirely
+new administrative and recordkeeping system to accommo-
+date children who were not citizens under the Order and
+born in a nonplaintiff State. So if the District Court allowed
+birthright citizenship to continue for children born in the
+plaintiff States, but not in any other State, that would not
+completely redress the States' financial injury. Ibid.
+For identical reasons, the Massachusetts District Court
+also found that the state plaintiffs' injuries could be re-
+dressed only by a universal injunction. See 766 F. Supp. 3d,
+at 288 (“The harms [the States] have established stem from
+the [Order's] impact on the citizenship status—and the abil-
+ity to discern or verify such status—for any child located or
+seeking various services within their jurisdiction”).
+The Government fled motions to stay the injunctions in
+three separate Courts of Appeals. Nowhere did the Gov-
+ernment contest the District Courts' uniform holdings that
+the Citizenship Order likely violated the Constitution. In-
+stead, it challenged only the scope of the ordered relief, ar-
+guing that the injunctions should be narrowed to block the
+Order's enforcement against only the individual persons
+named in the complaints.
+All three appellate courts denied the Government's re-
+quest and left the preliminary injunctions intact. See 131
+F. 4th 27 (CA1 2025); 2025 WL 654902 (CA4, Feb. 28, 2025);
+2025 WL 553485 (CA9, Feb. 19, 2025). The Fourth Circuit,
+which reviewed the preliminary injunction issued to the or-
+ganizational plaintiffs, concluded that “[t]he district court . . .
+carefully explained why an injunction limited to the par-
+ties—including organizations with hundreds of thousands of
+members nationwide—would be unworkable in practice and
+thus fail to provide complete relie[f] to the plaintiffs.” 2025
+WL 654902, *1. The First and Ninth Circuits left undis-
+turbed the Massachusetts and Washington District Courts'
+respective determinations that only universal injunctions
+would fully redress the States' injuries. See 131 F. 4th, at
+42–43; 2025 WL 553485, *1.
+On March 13, the Government fled emergency applica-
+tions with this Court requesting partial stays of the three
+preliminary injunctions of the Citizenship Order. The Gov-
+ernment renews its contention that the injunctions must be
+narrowed to benefit only formal parties in these cases.
+III
+In partially granting the Government's remarkable re-
+quest, the Court distorts well-established equitable princi-
+ples several times over. A stay, this Court has said, “ `is
+not a matter of right,' ” but rather “ `an exercise of judicial
+discretion.' ” Nken v. Holder, 556 U. S. 418, 433 (2009). For
+centuries, courts have “close[d] the doors” of equity to those
+“tainted with inequitableness or bad faith relative to the
+matter in which [they] seek relief.” Precision Instrument
+Mfg. Co. v. Automotive Maintenance Machinery Co., 324
+U. S. 806, 814 (1945). Yet the majority throws the doors of
+equity open to the Government in a case where it seeks to
+undo a fundamental and clearly established constitutional
+right. The Citizenship Order's patent unlawfulness is rea-
+son enough to deny the Government's applications.
+The Government also falls well short of satisfying its bur-
+den to show that it will likely suffer irreparable harm absent
+a stay and that it will likely succeed on the merits of its
+challenge to the scope of the injunctions. Nken, 556 U. S.,
+at 434–435. The Executive Branch has respected birthright
+citizenship for well over a century, and it advances no plausi-
+ble reason why maintaining the status quo while the litiga-
+tion proceeds would cause it irrevocable harm. Nor could
+it, for the Constitution and federal law prohibit the enforce-
+ment of the Citizenship Order.
+For all that, moreover, the Government is not even correct
+on the merits of universal injunctions. To the contrary, uni-
+versal injunctions are consistent with long-established prin-
+ciples of equity, once respected by this Court. What is
+more, these cases do not even squarely present the legality
+of universal injunctions. That is because, even if the major-
+ity were right that injunctions can only offer “complete relief
+to the plaintiffs before the court,” ante, at 852, each of the
+lower courts here correctly determined that the nationwide
+relief they issued was necessary to remedy respondents' in-
+juries completely. So even ignoring the traditional stay fac-
+tors and accepting the majority's view of the merits, there is
+no reason to grant relief in these cases.
+A
+It is a bedrock principle that parties who request a stay
+must show they will likely suffer irreparable harm absent
+such relief. Indeed, “[t]he authority to grant stays has his-
+torically been justified by the perceived need `to prevent ir-
+reparable injury to the parties or to the public' pending re-
+view.” Nken, 556 U. S., at 432 (quoting Scripps-Howard
+Radio, Inc. v. FCC, 316 U. S. 4, 9 (1942)). Thus, an apparent
+likelihood of success on the merits never suffices on its own
+to justify this Court's intervention: Our emergency docket is
+not a mechanism for an expedited appeal. Accordingly,
+“this Court can avoid delving into the merits” “[i]f the [appli-
+cant does not] demonstrat[e an] irreparable harm.” Labra-
+dor v. Poe, 601 U. S. 1110, 1122 (2024) (Kavanaugh, J., concur-
+ring in grant of stay); contra, ante, at 875–878 (Kavanaugh,
+J., concurring).
+What grave harm does the Executive face that prompts a
+majority of this Court to grant it relief? The answer, the
+Government says, is the inability to enforce the Citizenship
+Order against nonparties. For the majority, that answer
+suffices. See ante, at 859 (“When a federal court enters a
+universal injunction against the Government, it `improper[ly]
+intrude[s]' on `a coordinate branch of the Government' and
+prevents the Government from enforcing its policies against
+nonparties”).
+The problem, however, is that the Executive Branch has
+no right to enforce the Citizenship Order against anyone.
+As the Executive itself once put it, the Order is “unquestion-
+ably unconstitutional.” Supra, at 887. It defies logic to say
+that maintaining a centuries-long status quo for a few
+months longer will irreparably injure the Government. See
+Starbucks Corp. v. McKinney, 602 U. S. 339, 345–346 (2024)
+(The “purpose” of equitable relief “ `is merely to preserve the
+relative positions of the parties until a trial on the merits
+can be held' ”). The President's “mandate . . . to exercise his
+executive power,” Myers v. United States, 272 U. S. 52, 123
+(1926), in any event, does not permit him to rewrite the Con-
+stitution or statutory provisions at a whim. By forging
+ahead and granting relief to the Government anyway, this
+Court endorses the radical proposition that the President is
+harmed, irreparably, whenever he cannot do something he
+wants to do, even if what he wants to do is break the law.
+The majority claims that it can sidestep “analysis of the
+Executive Order” altogether because (in its view) every
+overbroad injunction necessarily causes irreparable harm
+sufficient to warrant emergency intervention. Ante, at 859.
+Yet where a purportedly overbroad injunction orders the
+Government to do only what this Court has expressly held
+it is required to do, it is hard to see how it could cause any
+harm. At oral argument, the Government conceded it was
+bound to follow this Court's precedent. See Tr. of Oral Arg.
+62–63. This Court's precedent establishes beyond a shade
+of doubt that the Executive Order is unconstitutional. See
+supra, at 880–887. Thus, by enjoining the Government
+from violating settled law, the District Courts' orders do not
+cause the Government any harm.
+The majority's contrary position is self-refuting. Suppose
+an executive order barred women from receiving unemploy-
+ment benefits or black citizens from voting. Is the Govern-
+ment irreparably harmed, and entitled to emergency relief,
+by a district court order universally enjoining such policies?
+The majority, apparently, would say yes.
+Nothing in this Court's precedents supports that result.
+It turns one of the “ `most critical' factors we must consider
+in deciding whether to grant a stay” into a box-checking ex-
+ercise whenever the relevant enjoined action is an executive
+one. Trump v. International Refugee Assistance Project,
+582 U. S. 571, 584 (2017) (Thomas, J., concurring in part and
+dissenting in part). Even accepting that “[a]ny time a State
+is enjoined by a court from effectuating statutes enacted by
+representatives of its people, it suffers a form of irreparable
+injury,” Maryland v. King, 567 U. S. 1301, 1303 (2012) (Rob-
+erts, C. J., in chambers), that democratic consideration cuts
+against the Government in these cases. Through the ratifi-
+cation of the Fourteenth Amendment, Congress and the
+States constitutionalized birthright citizenship. Congress
+also codified birthright citizenship in § 1401(a). It is thus
+the Citizenship Order, not the District Courts' injunctions,
+that prevents the “ `effectuat[ion]' ” of a constitutional
+amendment and repeals a “ `statut[e] enacted by representa-
+tives of [the American] people.' ” Id., at 1303.
+Simply put, it strains credulity to treat the Executive
+Branch as irreparably harmed by injunctions that direct it
+to continue following settled law. “All the officers of the
+government, from the highest to the lowest, are creatures of
+the law, and are bound to obey it.” United States v. Lee,
+106 U. S. 196, 220 (1882); but see Trump v. United States,
+603 U. S. 593 (2024). The injunctions do no more harm to
+the Executive than the Constitution and federal law do.
+B
+A majority of this Court nonetheless rushes to address the
+merits of the Government's applications, holding that univer-
+sal injunctions “likely exceed the equitable authority that
+Congress has granted to federal courts.” Ante, at 837. A
+majority that has repeatedly pledged its fealty to “history
+and tradition” thus eliminates an equitable power firmly
+grounded in centuries of equitable principles and practice.
+By stripping all federal courts, including itself, of that power,
+the Court kneecaps the Judiciary's authority to stop the Ex-
+ecutive from enforcing even the most unconstitutional poli-
+cies. That runs directly counter to the point of equity: em-
+powering courts to do complete justice, including through
+flexible remedies that have historically benefited parties and
+nonparties alike.
+1
+A brief recounting of equity's history demonstrates the
+majority's grave error. The American legal system grew
+out of English law, which had two primary judicial institu-
+tions: the common-law courts and equity courts. Equity
+courts arose because of the infexibility of the common-law
+system; their purpose was to look beyond formal writs and
+provide remedies where the common law gave inadequate
+relief. In Blackstone's words, equity was meant “to give
+remedy in cases where none was before administered.” 3
+Commentaries on the Laws of England, at 50.
+Adaptability has always been a hallmark of equity, espe-
+cially with regard to the scope of its remedies. While
+common-law courts were “compelled to limit their inquiry to
+the very parties in the litigation before them,” equity courts
+could “adjust the rights of all, however numerous,” and
+“adapt their decrees to all the varieties of circumstances,
+which may arise, and adjust them to all the peculiar rights
+of all the parties in interest.” 1 J. Story, Commentaries on
+Equity Jurisprudence § 28, pp. 27–28 (2d ed. 1839). After
+all, equity's “constant aim” was “to do complete justice.” J.
+Story, Commentaries on Equity Pleadings § 72, p. 74 (2d ed.
+1840). Accordingly, equity courts could “decid[e] upon and
+settl[e] the rights of all persons interested in the subject-
+matter of the suit, so that the performance of the decree of
+the Court may be perfectly safe to those, who are compelled
+to obey it, and also, that future litigation may be pre-
+vented.” Ibid.
+For equity courts, injunctions were “manifestly indispen-
+sable for the purposes of social justice in a great variety of
+cases.” 2 Story, Commentaries on Equity Jurisprudence
+§ 959a, at 227. Unlike this Court, then, those courts “con-
+stantly decline[d] to lay down any rule, which shall limit
+their power and discretion as to the particular cases, in
+which such injunctions shall be granted, or withheld.” Ibid.
+Justice Story underscored the “wisdom in this course”: Eq-
+uity courts needed flexibility to craft injunctions for particu-
+lar cases, as it was “impossible to foresee all the exigencies of
+society which may require their aid and assistance to protect
+rights or redress wrongs.” Ibid.
+In their pursuit of complete justice, equity courts could
+award injunctive and other equitable relief to parties and
+nonparties alike. For centuries, they did so through what
+was known as “bills of peace.” If a plaintiff or group of
+plaintiffs fled such a bill, an English court could use a single
+case to settle disputes affecting whole communities, for “the
+inherent jurisdiction of equity” included the power “to inter-
+fere for the prevention of a multiplicity of suits.” 1 J. Pom-
+eroy, Equity Jurisprudence § 260, p. 278 (1881). Bills of
+peace issued in cases “ `where the parties [were] very numer-
+ous, and the court perceive[d] that it [would] be almost im-
+possible to bring them all before the court; or where the
+question is of general interest, and a few may sue for the
+benefit of the whole.' ” Ortiz v. Fibreboard Corp., 527 U. S.
+815, 832 (1999) (quoting West v. Randall, 29 F. Cas. 718, 722
+(No. 17,424) (CC RI 1820) (Story, J.)). In such cases, a court
+could “grant [equitable relief] without making other persons
+parties,” instead considering them “quasi parties to the rec-
+ord, at least for the purpose of taking the benefit of the de-
+cree, and of entitling themselves to other equitable relief, if
+their rights [were] jeopard[iz]ed.” Id., at 723.
+Early American courts embraced bills of peace and ex-
+tended their logic to cases “which [were] not technically `bills
+of peace,' but `[were] analogous to,' or `within the principle'
+of such bills.” 1 Pomeroy, Equity Jurisprudence § 269, at
+293. One example was taxpayer suits, which allowed courts
+to enjoin universally the enforcement of a challenged tax.
+Sometimes, such suits were fled “by any number of taxpay-
+ers joined as co-plaintiffs, or by one taxpayer suing on behalf
+of himself and all others similarly situated.” Id., at 277.
+But taxpayer suits were not always representative in nature:
+Even “a single taxpayer suing on his own account,” if victori-
+ous, could enjoin the collection of a tax against anyone.
+Ibid. Individual plaintiffs, moreover, could secure an order
+“to set aside and annul any and every illegal public official
+action . . . whereby a debt . . . would be unlawfully created.”
+Ibid. By allowing “complete and final relief [to] be given to
+an entire community by means of one judicial decree,” Amer-
+ican courts (like their English counterparts) spared nonpar-
+ties and themselves from the burden of “an indefinite amount
+of separate litigation.” Id., at 278.
+Federal courts have also exercised equitable authority to
+enjoin universally federal and state laws for more than a
+century. For instance, before deciding the constitutionality
+of a new federal law in Lewis Publishing Co. v. Morgan, 229
+U. S. 288 (1913), this Court entered an order blocking the
+law's enforcement against parties and nonparties. See M.
+Sohoni, The Lost History of the “Universal” Injunction, 133
+Harv. L. Rev. 920, 944–946 (2020). In Lewis, two newspaper
+publishers challenged as unconstitutional a federal law re-
+quiring publishers to fle with the Postmaster General twice-
+yearly disclosures about their editorial board membership,
+corporate ownership, and subscribership. Sohoni, 133 Harv.
+L. Rev., at 944. After the District Court upheld the law and
+authorized a direct appeal to the Supreme Court, one of the
+publishers moved for a restraining order. The proposed
+order sought relief not only for the publisher who fled it, but
+asked the Court to “ `restrai[n]' ” the Postmaster General and
+other federal officials from enforcing the law against “ ` appel-
+lant and other newspaper publishers.' ” Id., at 946. This
+Court readily agreed, see Journal of Commerce and Com-
+mercial Bulletin v. Burleson, 229 U. S. 600, 601 (1913)
+(per curiam ), even as it would have sufficed for the movant
+publishers' sake to enjoin the Act's enforcement against them
+alone pending their appeal.
+In Pierce v. Society of Sisters, 268 U. S. 510 (1925), too,
+this Court affirmed a universal injunction of Oregon's com-
+pulsory public schooling law. See Sohoni, 133 Harv. L. Rev.,
+at 959–962. Two private school owners challenged that law
+in a suit against the Governor of Oregon and other state
+officials. “The plaintiffs did not sue on behalf of a repre-
+sented group or class; they sued for themselves, alleging that
+the law was an unconstitutional interference with their prop-
+erty rights.” Id., at 959. Yet a three-judge federal court
+awarded them a universal injunction. See id., at 960–961.
+This Court, in affirming that relief, twice described it as “ap-
+propriate.” Pierce, 268 U. S., at 530, 533. The Court un-
+derstood that the injunction it affirmed would provide relief
+to nonparties, commenting that such relief was necessary be-
+cause enforcing the Act would result not only in the “de-
+struction of appellees' primary schools,” but would also de-
+stroy “perhaps all other private primary schools for normal
+children within the State of Oregon.” Id., at 534.
+Cases like Lewis and Pierce were not outliers. Through-
+out the early 20th century, federal courts granted universal
+injunctions even when a narrower remedy would have suf-
+fced to redress the parties' injuries. See, e. g., West Vir-
+ginia Bd. of Ed. v. Barnette, 319 U. S. 624, 642 (1943) (affirm-
+ing an injunction that shielded the plaintiff class of Jehovah's
+Witnesses, and any other children with religious scruples,
+from complying with a state law requiring children to salute
+the American fag); see also Sohoni, 133 Harv. L. Rev., at
+943–993 (collecting cases). It is certainly true that federal
+courts have granted more universal injunctions of federal
+laws in recent decades. But the issuance of broad equitable
+relief intended to benefit parties and nonparties has deep
+roots in equity's history and in this Court's precedents.
+The universal injunctions of the Citizenship Order ft
+firmly within that tradition. The right to birthright citizen-
+ship is “clear,” the Citizenship Order is an “ `illegal act,' ” and
+without the “ `preventive process of injunction,' ” the right
+will be “ `irreparably injured.' ” Arthur v. Oakes, 63 F. 310,
+328 (CA7 1894) (Harlan, J.) (describing standard for when an
+injunction should issue). It would be “ `almost impossible,' ”
+moreover, “ `to bring . . . all [affected individuals] before the
+court,' ” Ortiz, 527 U. S., at 832, justifying the use of one suit
+to settle the issue of the Citizenship Order's constitutionality
+for all affected persons. See 1 Pomeroy, Equity Jurispru-
+dence § 260, at 450–451. Complete justice, the “constant
+aim” of equity, Story, Commentaries on Equity Pleadings
+§ 72, at 74, demands a universal injunction: “ `the only rem-
+edy which the law allows to prevent the commission' ” of a
+fagrantly illegal policy. Arthur, 63 F., at 328. The District
+Courts, by granting such relief, appropriately “settle[d] the
+rights of all persons interested in the subject-matter” of
+these suits, binding the Government so as to prevent need-
+less “future litigation.” Story, Commentaries on Equity
+Pleadings § 72, at 74.
+Of course, as a matter of equitable discretion, courts may
+often have weighty reasons not to award universal relief.
+Among other things, universal injunctions can prevent dif-
+ferent district and appellate courts from considering the
+same issues in parallel, forestalling the legal dialogue (or
+“percolation”) the federal system uses to answer difficult
+questions correctly. Not so here, however, because the Citi-
+zenship Order is patently unconstitutional under settled law
+and a variety of district and appellate courts have reviewed
+the issue. So too can universal injunctions encourage forum
+shopping, by allowing preferred district judges in a venue
+picked by one plaintiff to enjoin governmental policies na-
+tionwide. They also operate asymmetrically against the
+Government, giving plaintiffs a litigation advantage: To halt
+Government action everywhere, a plaintiff must win only one
+universal injunction across many potential lawsuits. Yet
+this is not a scenario where granting universal relief will
+encourage forum shopping or give plaintiffs the upper hand.
+Quite the opposite: By awarding universal relief below, the
+District Courts just ordered the Government to do every-
+where what any reasonable jurist would order the Govern-
+ment to do anywhere.
+There may be good reasons not to issue universal injunc-
+tions in the typical case, when the merits are open to
+reasonable disagreement and there is no claim of extraordi-
+nary and imminent irreparable harm.3 See 2 Story, Commen-
+taries on Equity Jurisprudence § 959a, at 227 (“[Injunctive re-
+lief] ought . . . to be guarded with extreme caution, and applied
+only in very clear cases”); cf. ante, at 848 (“[The] use [of bills
+of peace] was confined to limited circumstances”). The uni-
+versal injunctions in these cases, however, are more than
+appropriate. These injunctions, after all, protect newborns
+from the exceptional, irreparable harm associated with losing
+a foundational constitutional right and its immediate bene-
+fts. They thus honor the most basic value of our constitu-
+tional system: They keep the Government within the bounds
+of law. Marbury v. Madison, 1 Cranch 137, 163 (1803).
+2
+The majority's contrary reasoning falls fat. The majority
+starts with the Judiciary Act of 1789, which gives federal
+3 These prudential considerations, however, have nothing to do with
+whether universal injunctions are consistent with historical equitable
+principles and practice. Contra, ante, at 856, n. 16; but cf. ante, at 856
+(“[T]he policy pros and cons [of universal injunctions] are beside the
+point”).
+courts jurisdiction over “all suits . . . in equity.” § 11, 1 Stat.
+78. In the majority's telling, universal injunctions are in-
+consistent with equity jurisdiction because they are not “suf-
+ficiently `analogous' to the relief exercised ` “by the High
+Court of Chancery in England at the time of the adoption of
+the Constitution and the enactment of the original Judiciary
+Act.” ' ” Ante, at 841–842 (quoting Grupo Mexicano de De-
+sarrollo, S. A. v. Alliance Bond Fund, Inc., 527 U. S. 308,
+318–319 (1999)). In reaching that ahistorical result, the
+Court claims that the English Chancellor's remedies were
+“typically” party specific, and emphasizes that party-specifc
+principles have permeated this Court's understanding of eq-
+uity. Ante, at 842–844.
+The majority's argument stumbles out the gate. As the
+majority must itself concede, injunctions issued by English
+courts of equity were “typically,” but not always, party spe-
+cifc. Ante, at 842. After all, bills of peace, for centuries,
+allowed English courts to adjudicate the rights of parties not
+before it, and to award remedies intended to benefit entire
+affected communities. Taxpayer suits, too, could lead to a
+complete injunction of a tax, even when only a single plaintiff
+fled suit.
+The majority seeks to distinguish bills of peace from uni-
+versal injunctions by urging that the former (but not the
+latter) typically applied to small and cohesive groups and
+were representative in nature. See ante, at 849. Yet those
+are distinctions without a difference. Equity courts had the
+flexibility to “adapt their decrees to all the varieties of
+circumstances, which may arise, and adjust them to all
+the peculiar rights of all the parties in interest.” 1 Story,
+Commentaries on Equity Jurisprudence § 28, at 28. There
+is no equitable principle that caps the number of parties
+in interest. Indeed, in taxpayer suits, a single plaintiff
+could get the relief of “annul[ling] any and every kind of
+tax or assessment” that applied to an entire “county,
+town, or city.” 1 Pomeroy, Equity Jurisprudence § 260, at
+277.4 “[T]he inherent jurisdiction of equity to interfere for
+the prevention of a multiplicity of suits,” moreover, is what
+empowered common law courts to issue bills of peace. Id.,
+at 450–451 (4th ed. 1918). That is why early American
+courts understood taxpayer suits, in which even a “single
+taxpayer suing on his own account” and not on behalf of oth-
+ers could secure a total injunction, to be a natural extension
+of a bill of peace. Id., at 277 (1881). 5
+It is also unclear why “ `cohesive[ness]' ” or “representa-
+tive[ness]” would preclude even those universal injunctions
+that, like here, benefit a discrete and cohesive group. Ante,
+at 848. The Citizenship Order itself applies only to a subset
+group of newborn children: that is, children born to a mother
+unlawfully or temporarily present, and a father who is nei-
+ther a citizen nor lawful permanent resident. Those moth-
+4 Massachusetts v. Mellon, 262 U. S. 447 (1923), which addressed a tax-
+payer's standing to challenge a federal appropriation, did not consider how
+broadly a court could enjoin Government action and is therefore not to the
+contrary. Id., at 488; contra, ante, at 850.
+5 The majority asserts that taxpayer suits are an “inadequate historical
+analogy” for a universal injunction, ibid., but cannot dispute their essential
+similarity: By providing relief to an entire affected community, both do
+more than merely redress a plaintiff's injuries. Instead, the majority
+says that single-plaintiff, nonrepresentative taxpayer suits cannot be
+proper “historical” analogues because they trace only back to the “mid-
+19th century.” See ibid. Yet the same is true of plaintiff-protective in-
+junctions against federal and state government officials, an equitable rem-
+edy the majority embraces by reference to “a long line of cases authorizing
+suits against state officials in certain circumstances” that range from the
+cusp of the mid-19th century to the late mid-19th century. Ante, at 846,
+n. 9. In any event, early American courts deemed taxpayer suits “ `analo-
+gous to,' [and] `within the principle of' . . . bills [of peace],' ” 1 Pomeroy,
+Equity Jurisprudence § 269, at 293, which trace back to the equitable prac-
+tice of the English Chancery Court, ante, at 848. Nor is it clear why it
+matters that individual taxpayer suits occurred in state courts, or that
+those courts did not always award the broad injunctions available to them.
+Contra, ante, at 850. The relevant question is simply whether a court of
+equity could award injunctive relief to nonparties. The answer to that
+question is, obviously, yes.
+ers and fathers share “not only [a common] interest in the
+question, but one in common in the subject-matter of th[is]
+suit.” Scott v. Donald, 165 U. S. 107, 116 (1897). Nor is
+there any doubt that at least the individual respondents ade-
+quately represent the injunction's benefciaries: Like all af-
+fected parents, they “are necessarily interested in obtaining
+the relief sought” to preserve their children's citizenship.
+Emmons v. National Mut. Bldg. & Loan Assn. of NY , 135
+F. 689, 691 (CA4 1905) (explaining the “well-known doctrine
+of equity jurisprudence” that “ `the relief sought by [a plain-
+tiff]' ” must be “ `beneficial to those whom he undertakes to
+represent' ” (quoting 1 E. Daniell, Chancery Practice *242
+(6th Am. ed. 1894))). What was true of bills of peace is thus
+true of these universal injunctions and universal injunctions
+generally, too: Both allow courts to “ `adjudicate the rights
+of members of dispersed groups without formally joining
+them to a lawsuit through the usual procedures.' ” Ante,
+at 848.
+That bills of peace bear some resemblance to modern day
+Federal Rule of Civil Procedure 23 class actions does not
+mean they cannot also be a historical analogue to the univer-
+sal injunction. Contra, ante, at 849 (“The bill of peace lives
+in modern form” as the “modern class action . . . governed
+in federal court by Rule 23,” “not as the universal injunc-
+tion”). In the majority's view, Rule 23 class actions, but not
+universal injunctions, would “be recognizable to an English
+Chancellor” because the limitations on class actions mirror
+those that applied to bills of peace. Ibid. (Rule 23 “requires
+numerosity (such that joinder is impracticable), common
+questions of law or fact, typicality, and representative par-
+ties who adequately protect the interests of the class”);
+cf. supra, at 902 (explaining why the universal injunctions
+in these cases are consistent with those limits). To the
+extent that English Chancellors would care about the dif-
+ferences between Rule 23 and universal injunctions, the
+majority provides absolutely no reason to conclude they
+would think the former permissible and not the latter. To
+the contrary, unlike the Court today, the English Chancery
+Court recognized that principles of equity permit granting
+relief to nonparties. The history of bills of peace makes that
+apparent, particularly because they went beyond what Rule
+23 permits. See ante, at 849 (The modern “Rule 23 is in
+some ways `more restrictive of representative suits than the
+original bills of peace' ”). They are thus a common ancestor
+to both class actions and universal injunctions.
+In any event, nothing in Rule 23 purports to supplant or
+modify federal courts' equitable authority under the Judi-
+ciary Act to grant relief to nonparties, nor could it. Contra,
+ante, at 849–850. The majority frets that universal injunc-
+tions, if permissible, will empower federal courts to create
+de facto class actions at will, thereby circumventing Rule
+23's procedural protections. Ibid. Those concerns, how-
+ever, have not been borne out in reality. Rule 23 has coex-
+isted with universal injunctions against the Government for
+decades. Universal injunctions also cannot supplant the
+paradigm form of class actions, which seek money damages.
+In all events, to the extent the majority's concern has any
+teeth, reviewing courts are already well equipped to safe-
+guard Rule 23's procedural protections. If there is a genu-
+ine lack of clarity as to the lawfulness of challenged Govern-
+ment action, district courts may well abuse their discretion
+by refexively issuing universal injunctions where a Rule 23
+class action would be more appropriate. See Ashcroft v.
+American Civil Liberties Union, 542 U. S. 656, 664 (2004)
+(standard of review for preliminary injunctions is “ `abuse
+of discretion' ”).
+The majority next insists that the practice of “founding-
+era courts of equity in the United States” cuts against uni-
+versal injunctions, and that this Court “consistently rebuffed
+requests for relief that extended beyond the parties.” Ante,
+at 843. The majority's account is irreconcilable with early
+American bills of peace and the history of taxpayer suits. It
+further contradicts this Court's practice, in cases like Lewis,
+Pierce, and Barnette, of affirming and granting universal in-
+junctions even when narrower, plaintiff-focused injunctions
+would have offered complete relief to the parties. See
+supra, at 897–898. The majority instead focuses on one case
+from 1897, in which this Court “permitted only a narro[w]
+decree between `the parties named as plaintiff and defend-
+ants in the bill,' ” ante, at 843 (quoting Scott, 165 U. S., at
+117), over others, including from the same period, doing just
+the opposite. The majority offers no principled basis to
+deem the question resolved by a single case from 1897 while
+cases just a few years later charted a different course. In-
+deed, if the relevant inquiry turns on “founding-era prac-
+tice,” then there is no reason why a case from 1897 should
+be dispositive. Ante, at 845, n. 7.
+In the majority's telling, Scott merely “illustrates that as
+late as 1897, this Court adhered to a party-specifc view of
+relief.” Ante, at 843, n. 6. Nothing in Scott, however, dic-
+tates that equitable relief must always be party specific. To
+the contrary, just one year after Scott, the Court endorsed
+the opposite view: “Only a court of equity,” the Court ex-
+plained, “is competent to . . . determine, once for all and
+without a multiplicity of suits, matters that affect not simply
+individuals, but the interests of the entire community.”
+Smyth v. Ames, 169 U. S. 466, 518 (1898); see also id., at 517
+(“[T]he Circuit Court of the United States, sitting in equity,
+can make a comprehensive decree covering the whole ground
+of controversy and thus avoid the multiplicity of suits that
+would inevitably arise under the statute”). 6 The majority
+6 Regardless of the actual decree the Smyth court approved, see ante,
+at 843, n. 6, its analysis clearly reveals that the Court understood equity
+to permit broad relief intended to benefit parties and nonparties alike.
+That is why this Court later approved or granted universal injunctions
+in Lewis, Pierce, and Barnette without “address[ing] the propriety of uni-
+does not identify a single case, from the founding era or oth-
+erwise, in which this Court held that federal courts may
+never issue universal injunctions or broad equitable relief
+that extends to nonparties. That is to be expected, given
+the historical support for such relief and its use in bills of
+peace and taxpayer suits.
+Most critically, the majority fundamentally misunder-
+stands the nature of equity by freezing in amber the precise
+remedies available at the time of the Judiciary Act. Even
+as it declares that “ `[e]quity is flexible,' ” ante, at 846, the
+majority ignores the very flexibility that historically allowed
+equity to secure complete justice where the rigid forms of
+common law proved inadequate. Indeed, “[i]n th[e] early
+times [of the common law] the chief juridical employment of
+the chancellor must have been in devising new writs, di-
+rected to the courts of common law, to give remedy in cases
+where none before was administered.” 3 Blackstone, Com-
+mentaries on the Laws of England, at 50. Adaptability has
+thus always been at the equity's core. Hence why equity
+courts “constantly decline[d] to lay down any rule, which
+shall limit their power and discretion as to the particular
+cases, in which such injunctions shall be granted, or with-
+held.” 2 Story, Commentaries on Equity Jurisprudence
+§ 959(a), at 227. The Judiciary Act of 1789 codified equity
+itself, not merely a static list of remedies.
+Historical analogues are no doubt instructive and provide
+important guidance, but requiring an exact historical match
+for every equitable remedy defies equity's purpose. Equity
+courts understood the “wisdom” in keeping injunctive relief
+flexible, for it was “impossible to foresee all the exigencies of
+society which may require their aid and assistance to protect
+rights or redress wrongs.” Ibid. Of course, in assessing
+whether a remedy falls within federal courts' equity jurisdic-
+tion under the Judiciary Act, this Court has asked “whether
+versal relief.” Ante, at 845, n. 7. See also Lewis Publishing Co. v. Mor-
+gan, 229 U. S. 288 (1913); Pierce v. Society of Sisters, 268 U. S. 510 (1925);
+West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624 (1943).
+the relief . . . was traditionally accorded by courts of equity.”
+Grupo Mexicano, 527 U. S., at 319. Grupo Mexicano , how-
+ever, does not dictate the level of generality for that histori-
+cal inquiry, and general principles of equity that themselves
+existed at the founding militate against requiring a near
+exact match as the majority does. Cf. United States v. Ra-
+himi, 602 U. S. 680, 692 (2024) (“The law must comport with
+the principles underlying the Second Amendment, but it
+need not be a `dead ringer' or a `historical twin' ”).
+Indeed, equitable relief in the United States has evolved
+in one respect to protect rights and redress wrongs that even
+the majority does not question: Plaintiffs today may obtain
+plaintiff-protective injunctions against Government officials
+that block the enforcement of unconstitutional laws, relief
+exemplifed by Ex parte Young , 209 U. S. 123 (1908). That
+remedy, which traces back to the equity practice of mid-19th
+century courts, finds no analogue in the relief exercised in
+the English Court of Chancery, which could not enjoin the
+Crown or English officers. See supra, at 902, n. 4; see also
+Sohoni, 133 Harv. L. Rev., at 928, 1002–1006; see also R.
+Fallon, D. Meltzer, & D. Shapiro, Hart and Wechsler's The
+Federal Courts and the Federal System 958–959 (5th
+ed. 2003) (noting that, in Young, “the threatened conduct of
+the defendant would not have been an actionable wrong
+at common law” and that the “principle [in Young] has
+been easily absorbed in suits challenging federal official ac-
+tion”). Under the majority's rigid historical test, however,
+even plaintiff-protective injunctions against patently un-
+lawful Government action should be impermissible. 7 Such a
+result demonstrates the folly of treating equity as a closed
+system, rather than one designed to adapt to new
+circumstances.
+7 The majority's expressed support for such injunctions is thus irrecon-
+cilable with its view that equitable remedies must be very closely “ `analo-
+gous' to the relief exercised ` “by the High Court of Chancery in England
+at the time of the adoption of the Constitution and the enactment of the
+original Judiciary Act.” ' ” Ante, at 841–842.
+The relative absence of universal injunctions against the
+United States before the late 20th century, moreover, reflects
+constitutional and procedural limitations on judicial power,
+not equitable ones. Brief for Legal Historians as Amici Cu-
+riae in No. 24A884, pp. 13–16. Until the enactment of the
+Amendments to the Administrative Procedure Act in 1976,
+sovereign immunity barred most suits against the Federal
+Government. Id., at 14–15 (citing G. Sisk, Litigation With
+the Federal Government § 4.10(b), p. 339 (2016)). Officer
+suits against Cabinet officials before that point, moreover,
+could be brought only in Washington, D. C., due to limits on
+personal jurisdiction and venue that existed at the time.
+Brief for Legal Historians as Amici Curiae in No. 24A884,
+at 15–16. The later emergence of universal injunctions
+against the United States followed the removal of those bar-
+riers and the expansion of federal actions and laws. The
+rise of universal injunctions therefore represents equity's es-
+sential adaptation to modern governance.
+It is a “common expression . . . that Courts of Equity
+delight to do justice, and not by halves.” Story, Commen-
+taries on Equity Pleadings § 72, at 74. The majority, how-
+ever, delights to do justice by piecemeal. Its decision to
+strip the federal courts of the authority to issue universal
+injunctions of even fagrantly unlawful Government action
+represents a grave and unsupported diminution of the judi-
+cial power of equity. Centuries ago, Chief Justice Marshall
+warned that “[i]f the legislatures of the several states may,
+at will, annul the judgments of the courts of the United
+States, and destroy the rights acquired under those judg-
+ments, the constitution itself becomes a solemn mockery.”
+United States v. Peters, 5 Cranch 115, 136 (1809). The Court
+should have heeded that warning today.
+C
+Even the majority's view of the law cannot justify issuance
+of emergency relief to the Government in these cases, for the
+majority leaves open whether these particular injunctions
+may pass muster under its ruling. Indeed, the lower courts
+issued the challenged injunctions consistent with an equita-
+ble principle that even the majority embraces: Courts may
+award an equitable remedy when it is “necessary to provide
+complete relief to the plaintiffs.” Califano v. Yamasaki, 442
+U. S. 682, 702 (1979). As the majority recounts, “[t]he equi-
+table tradition has long embraced the rule that courts gener-
+ally `may administer complete relief between the parties.' ”
+Ante, at 851 (quoting Kinney-Coastal Oil Co. v. Kieffer, 277
+U. S. 488, 507 (1928); emphasis deleted). 8
+So too does the Court recognize that, in some cases, com-
+plete relief will require a broad remedy that necessarily ben-
+efts nonparties. See ante, at 852, n. 12 (“There may be
+other injuries for which it is all but impossible for courts to
+craft relief that is both complete and benefits only the named
+plaintiffs”); see also Gill v. Whitford, 585 U. S. 48, 66–67
+(2018) (“[T]he only way to vindicate an individual plaintiff 's
+right to an equally weighted vote [is] through a wholesale
+`restructuring of the geographical distribution of seats in a
+state legislature' ”). Hence the majority's nuisance hypo-
+thetical: If a plaintiff sues her neighbor for playing loud
+music at night, a court can order the neighbor to turn off the
+music at night, even if doing so will naturally benefit other
+neighbors who are not parties to the suit. See ante, at
+851–852.
+The majority need not resort to hypotheticals, however,
+because the very injunctions in these cases were necessary
+to give respondents complete relief. Indeed, each District
+Court found that a universal injunction was the only feasible
+option to redress fully respondents' injuries. See 763
+F. Supp. 3d, at 746 (concluding that “[o]nly a nationwide in-
+8 That explains the majority's bottom line, in which it declares that the
+Government's applications are “granted, but only to the extent that the
+injunctions are broader than necessary to provide complete relief to each
+plaintiff with standing to sue.” Ante, at 861.
+junction will provide complete relief to the plaintiffs” be-
+cause the organizational plaintiffs have “ `over 680,000 mem-
+bers . . . who reside in all 50 U. S. states and several U. S.
+territories' ” and “ `[h]undreds or even thousands' ” of those
+members “ `will give birth to children in the United States
+over the coming weeks and months' ” (alterations in origi-
+nal)); 765 F. Supp. 3d, at 1153 (“[A] geographically limited
+injunction would be ineffective, as it would not completely
+relieve [the plaintiff States] of the Order's financial bur-
+den(s)”); 766 F. Supp. 3d, at 288 (explaining that “injunctive
+relief limited to the State plaintiffs [would be] inadequate”
+because it would “fai[l] in providing complete relief to the
+State plaintiffs”).
+Recognizing as much, the majority retreats to the view
+that, even if a court “can award complete relief,” it “should
+[not] do so” refexively. Ante, at 853–854; see also ante, at
+854 (“Complete relief is not a guarantee—it is the maximum
+a court can provide”); ante, at 863 (opinion of Thomas, J.)
+(suggesting courts “err insofar as they treat complete relief
+as a mandate”). Even so, the Court never suggests that the
+District Courts in these cases should not have awarded relief
+to the parties that completely remedied their alleged inju-
+ries. Nor could it. The majority recognizes that “in equity,
+`the broader and deeper the remedy the plaintiff wants, the
+stronger the plaintiff's story needs to be.' ” Ante, at 854.
+Here, respondents paired their respective requests for com-
+plete relief with the strongest story possible: Without such
+relief, an executive order that violates the Constitution, fed-
+eral law, Supreme Court precedent, history, and over a cen-
+tury of Executive Branch practice would infringe upon their
+constitutional rights or cause them to incur significant fnan-
+cial and administrative costs.
+Perhaps that is why the majority leaves open the possibil-
+ity that the District Courts, in these cases, could have
+granted at least respondent States a nationwide injunction
+consistent with the notion of “complete relief.” The major-
+ity recognizes, correctly, that the Massachusetts District
+Court “decided that a universal injunction was necessary to
+provide the States themselves with complete relief.” Ante,
+at 853. 9 And the majority does not dispute the basis for
+those decisions: “Children often move across state lines or
+are born outside their parents' State of residence,” and
+“th[is] cross-border fow” would make an injunction protect-
+ing only children born in the party States “unworkable.”
+Ibid. A narrower injunction would “require [the States] to
+track and verify the immigration status of the parents of
+every child, along with the birth State of every child for
+whom they provide certain federally funded benefits.” Ibid.
+Unrebutted record evidence bears this out and shows that
+the Citizenship Order would irreparably harm the States,
+even if it does not apply to children born within their bound-
+aries. The Court does not contend otherwise. That should
+be the end of the matter.
+Nevertheless, the majority suggests that the District
+Courts might consider, after this Court hands down its deci-
+sion, whether some alternative narrower injunction would
+provide the States complete relief. See ante, at 854. What
+would such an injunction look like, and would it be feasible?
+The Court does not say. The majority does note, but takes
+no position on, two narrower injunctions the Government
+claims would still give complete relief to the States: an order
+prohibiting the Government from enforcing the Citizenship
+Order in respondent States, including as to state residents
+born elsewhere; or an order directing the Government to
+9 In the majority's telling, the Washington District Court “acknowledged
+the state respondents' complete-relief argument but primarily granted a
+universal injunction” based on its weighing of the equities. See ante, at
+853, n. 14. Not so. That court carefully explained why “a geographically
+limited injunction would be ineffective, as it would not completely relieve
+[the States] of the Order's financial burden(s).” 765 F. Supp. 3d 1142,
+1153–1154 (2025). A narrower injunction, it explained, would be “un-
+workable” and would itself likely impose new “recordkeeping and adminis-
+trative burden[s]” on the States. Id., at 1154.
+treat children covered by the Citizenship Order as eligible
+for federally funded welfare benefits when those children re-
+side in a respondent State. See ibid. (citing Application for
+Partial Stay of Injunction in No. 24A884, p. 23).
+As an initial matter, the Government never raised those
+narrower injunctions to the District Courts, meaning it for-
+feited them. That is what the First Circuit expressly held,
+131 F. 4th, at 43 (“declining to consider” those alternatives
+because they were “raised for [the] first time . . . in support
+of stay pending appeal of preliminary injunction”), and the
+majority does not dispute the point. It is true that plaintiffs
+seeking a preliminary injunction bear the burden of making
+“a clear showing that [they are] entitled to such relief.”
+Winter v. Natural Resources Defense Council, Inc., 555 U. S.
+7, 22 (2008). The States met that burden, however: They
+presented what is still uncontroverted evidence that an in-
+junction applicable only to children born within their borders
+would give them less than complete relief. Accordingly, it
+was reasonable for the District Courts to fashion the reme-
+dies that they did, for they were “not obligated to undertake
+the task of chiseling from the government's across-the-board
+[Executive Order] a different policy the government never
+identified, endorsed, or defended.” J. D. v. Azar, 925 F. 3d
+1291, 1336 (CADC 2019) (per curiam ).
+Those proffered alternatives, moreover, are unworkable
+on their face. Each would require creating a two-tiered
+scheme in which the Government's recognition of some chil-
+dren's citizenship status or eligibility for federally funded
+benefits would change based on whether a child resides in
+one of respondent States at any given moment. That
+scheme would have to operate, somehow, without imposing
+an administrative burden on respondent States or disrupting
+their receipt of federal funds to which they are entitled.
+“[T]he regular movement of the American people into and
+out of different States . . . would make it difficult to sensibly
+maintain such a scattershot system.” Ante, at 872 (opinion
+of Kavanaugh, J.).
+Such a system would also be incompatible with federal law.
+Some statutes, like those governing Medicaid and Supple-
+mental Nutrition Assistance Program (SNAP) benefits, re-
+quire States to give benefits only to applicants with a Social
+Security number and to use those numbers for certain ad-
+ministrative purposes. See, e. g., 7 U. S. C. § 2025(e); 42
+U. S. C. § 1320b–7(a)(1). States could not comply with those
+laws under the Government's alternative injunctions because
+children covered by the Citizenship Order in nonparty States
+would still be treated as noncitizens at birth. Thus, when
+some of those children later move to one of respondent
+States, they would lack Social Security numbers. No mat-
+ter how it is done, discarding the nationwide status quo of
+birthright citizenship would result in chaos.
+What is more, the principle of complete relief does not re-
+quire courts to award only the absolute narrowest injunction
+possible. To conclude otherwise would eviscerate the “dis-
+cretion and judgment” that is integral to the crafting of injunc-
+tive relief. International Refugee Assistance Project, 582
+U. S., at 579. Indeed, equitable relief “[t]raditionally . . . has
+been characterized by a practical flexibility in shaping its rem-
+edies and by a facility for adjusting and reconciling public and
+private needs.” Brown v. Board of Education, 349 U. S. 294,
+300 (1955) (footnote omitted). That is why the court in the
+majority's nuisance hypothetical can “order the defendant to
+turn her music down,” or to turn it “off,” even though the latter
+is technically more burdensome on the defendant than neces-
+sary to give the plaintiff complete relief. Ante, at 851–852.
+Accordingly, the District Courts appropriately determined
+that the “only one feasible option” that would give complete
+relief to the States was a universal injunction. See ante, at
+851. Clearly, the majority is asking the lower courts them-
+selves to explain what is patently obvious about the Govern-
+ment's proposed injunctions and any others that can be
+imagined.
+Inexplicably, however, the Court declares that, for the as-
+sociational and individual respondents, injunctions enjoining
+the Government from enforcing the Citizenship Order
+against them (and only them) would have sufficed. See ante,
+at 852–853. In fashioning equitable relief, however, courts
+must take into account “ `what is workable.' ” North Caro-
+lina v. Covington, 581 U. S. 486, 488 (2017) (per curiam ).
+Just like the injunction that the majority blesses in the con-
+text of its nuisance-suit hypothetical, which will bestow a
+peaceful night upon the plaintiff's neighbors even when the
+plaintiff is not herself at home, the preliminary injunction for
+the associational and individual respondents reflects what is
+practicable. As the Maryland District Court found, “ `hun-
+dreds or even thousands' ” of the associational respondents'
+members, who reside in all 50 States, “ `will give birth to
+children in the United States over the coming weeks and
+months.' ” 763 F. Supp. 3d, at 746. Theoretically, it might
+be possible for a court to fashion an injunction that runs to
+each of the thousands of expectant mothers in that group.
+But see ante, at 872 (opinion of Kavanaugh, J.) (“Often, it is
+not especially workable or sustainable or desirable to have a
+patchwork scheme . . . in which a major new federal statute
+or executive action . . . applies to some people or organiza-
+tions in certain States or regions, but not to others”). Yet
+anything less than a nationwide injunction creates a risk that
+the Government, inadvertently or intentionally, will enforce
+the Citizenship Order against some of the plaintiffs' children
+before this Court rules definitively on the Order's lawfulness.
+A narrower injunction would necessarily task “[t]hose [re-
+sponsible for] determining a baby's citizenship status . . . with
+[correctly] confirming [biological] parentage, the citizenship
+or immigration status of both [biological] parents, and mem-
+bership in specific organizations.” Opposition to Applica-
+tion for Partial Stay of Injunction in No. 24A884, p. 24.
+That, in turn, would “impose an enormous burden on expect-
+ing parents, membership organizations, government employ-
+ees at all levels, and hospital staff,” increasing the risk of
+mistake. Ibid. The risk of noncompliance is also particu-
+larly stark here, where the challenged action itself reflects
+an utter disregard for settled precedent, and given the Gov-
+ernment's repeated insistence that it need not provide notice
+to individuals before their sudden deportations. See, e. g.,
+A. A. R. P . v. Trump, 605 U. S. 91, 93 (2025) (per curiam );
+Department of Homeland Security v. D. V. D., 606 U. S.
+–––, ––– (2025) (Sotomayor , J., dissenting). The majority
+does not identify a narrower alternative that is both practical
+and mitigates that risk.
+At the very least, there is no reason to think that the Dis-
+trict Court abused its discretion in deciding that only a na-
+tionwide injunction could protect the plaintiffs' fundamental
+rights. See Ashcroft, 542 U. S., at 664 (setting forth the
+standard of review). “Crafting a preliminary injunction,”
+after all, “is an exercise of discretion and judgment, often
+dependent as much on the equities of a given case as the
+substance of the legal issues it presents.” International
+Refugee Assistance Project, 582 U. S., at 579. Applying def-
+erential abuse-of-discretion review, the Fourth Circuit em-
+phasized that “[t]he district court . . . carefully explained why
+an injunction limited to the parties—including organizations
+with hundreds of thousands of members nationwide—would
+be unworkable in practice and thus fail to provide complete
+relie[f] to the plaintiffs.” 2025 WL 654902, *1. The major-
+ity gives no justification for deeming the District Court's rea-
+soned assessment an abuse of discretion.
+D
+The equities and public interest weigh decisively against
+the Government. For all of the reasons discussed, the Citi-
+zenship Order is patently unconstitutional. To allow the
+Government to enforce it against even one newborn child is
+an assault on our constitutional order and antithetical to eq-
+uity and public interest. Cf. Salazar v. Buono, 559 U. S. 700,
+714–715 (2010) (plurality opinion) (“ `[A] court must never ig-
+nore . . . circumstances underlying [equitable relief] lest the
+decree be turned into an “instrument of wrong” ' ”).
+Meanwhile, newborns subject to the Citizenship Order will
+face the gravest harms imaginable. If the Order does in fact
+go into effect without further intervention by the District
+Courts, children will lose, at least for the time being, “a most
+precious right,” Kennedy v. Mendoza-Martinez, 372 U. S.
+144, 159 (1963), and “cherished status” that “carries with it
+the privilege of full participation in the affairs of our society,”
+Knauer v. United States, 328 U. S. 654, 658 (1946). Affected
+children also risk losing the chance to participate in Ameri-
+can society altogether, unless their parents have sufficient
+resources to fle individual suits or successfully challenge the
+Citizenship Order in removal proceedings. Indeed, the
+Order risks the “creation of a substantial `shadow popula-
+tion' ” for covered children born in the United States who
+remain here. Plyler, 457 U. S., at 218. Without Social Se-
+curity numbers and other documentation, these children will
+be denied critical public services, like SNAP and Medicaid,
+and lose the ability to engage fully in civic life by being born
+in States that have not fled a lawsuit. Worse yet, the Order
+threatens to render American-born children stateless, a sta-
+tus “deplored in the international community” for causing
+“the total destruction of the individual's status in organized
+society.” Trop v. Dulles, 356 U. S. 86, 101–102 (1958) (plural-
+ity opinion). That threat hangs like a guillotine over this
+litigation.
+The Order will cause chaos for the families of all affected
+children too, as expecting parents scramble to understand
+whether the Order will apply to them and what ramifications
+it will have. If allowed to take effect, the Order may even
+wrench newborns from the arms of parents lawfully in the
+United States, for it purports to strip citizenship from the
+children of parents legally present on a temporary basis.
+See 90 Fed. Reg. 8449. Those newborns could face deporta-
+tion, even as their parents remain lawfully in the country.
+In light of all these consequences, there can be no serious
+question over where the equities lie in these cases.
+IV
+The Court's decision is nothing less than an open invitation
+for the Government to bypass the Constitution. The Execu-
+tive Branch can now enforce policies that fout settled law
+and violate countless individuals' constitutional rights, and
+the federal courts will be hamstrung to stop its actions fully.
+Until the day that every affected person manages to become
+party to a lawsuit and secures for himself injunctive relief,
+the Government may act lawlessly indefinitely.
+Not even a decision from this Court would necessarily
+bind the Government to stop, completely and permanently,
+its commission of unquestionably unconstitutional conduct.
+The majority interprets the Judiciary Act, which defines the
+equity jurisdiction for all federal courts, this Court included,
+as prohibiting the issuance of universal injunctions (unless
+necessary for complete relief). What, besides equity, en-
+ables this Court to order the Government to cease com-
+pletely the enforcement of illegal policies? The majority
+does not say. So even if this Court later rules that the Citi-
+zenship Order is unlawful, we may nevertheless lack the
+power to enjoin enforcement as to anyone not formally a
+party before the Court. In a case where the Government is
+acting in open defiance of the Constitution, federal law, and
+this Court's holdings, it is naive to believe the Government
+will treat this Court's opinions on those policies as “de facto”
+universal injunctions absent an express order directing total
+nonenforcement. Ante, at 873 (opinion of Kavanaugh, J.).
+Indeed, at oral argument, the Government refused to com-
+mit to obeying any court order issued by a Federal Court of
+Appeals holding the Citizenship Order unlawful (except with
+respect to the plaintiffs in the suit), even within the relevant
+Circuit. Tr. of Oral Arg. 61–63. To the extent the Govern-
+ment cannot commit to compliance with Court of Appeals
+decisions in those Circuits, it offers no principled reason why
+it would treat the opinions of this Court any differently na-
+tionwide. Thus, by stripping even itself of the ability to
+issue universal injunctions, the Court diminishes its role as
+“the ultimate decider of the interim [and permanent] legal
+status of major new federal statutes and executive actions.”
+Ante, at 870 (opinion of Kavanaugh, J.).
+There is a serious question, moreover, whether this Court
+will ever get the chance to rule on the constitutionality of a
+policy like the Citizenship Order. Contra, ante, at 873 (opin-
+ion of Kavanaugh, J.) (“[T]he losing parties in the courts of
+appeals will regularly come to this Court in matters involv-
+ing major new federal statutes and executive actions”). In
+the ordinary course, parties who prevail in the lower courts
+generally cannot seek review from this Court, likely leaving
+it up to the Government's discretion whether a petition will
+be fled here. 10 These cases prove the point: Every court to
+consider the Citizenship Order's merits has found that it is
+unconstitutional in preliminary rulings. Because respond-
+ents prevailed on the merits and received universal injunc-
+tions, they have no reason to fle an appeal. The Govern-
+ment has no incentive to fle a petition here either, because
+the outcome of such an appeal would be preordained. The
+Government recognizes as much, which is why its emergency
+10 On rare occasion, this Court has permitted a party who prevailed in
+the lower courts nonetheless to obtain this Court's review of a legal ques-
+tion. See, e. g., Camreta v. Greene, 563 U. S. 692, 698 (2011) (allowing a
+government official who prevailed on grounds of qualified immunity to
+challenge an underlying adverse constitutional ruling). Those exceptions
+have no relevance here, however, because there is no adverse determina-
+tion for respondents to challenge.
+applications challenged only the scope of the preliminary
+injunctions.
+Even accepting that this Court will get the opportunity to
+“ac[t] as the ultimate decider” of patently unlawful policies,
+ante, at 870 (opinion of Kavanaugh, J.), and that the Execu-
+tive Branch will treat this Court's opinions as de facto uni-
+versal injunctions, 11 it is still necessary for the lower courts
+to have the equitable authority to issue universal injunc-
+tions, too. As Justice Kavanaugh notes, it can take, at a
+minimum, “weeks” for an application concerning a major new
+policy to reach this Court. Ibid. In the interim, the Gov-
+ernment may feel free to execute illegal policies against non-
+parties and cause immeasurable harm that this Court may
+never be able to remedy. Indeed, in these cases, there is a
+serious risk the Government will seek to deport newborns
+whose parents have not fled suit if all the injunctions are
+narrowed on remand. That unconscionable result only un-
+derscores why it is necessary, in some cases, for lower courts
+to issue universal injunctions.
+Fortunately, in the rubble of its assault on equity jurisdic-
+tion, the majority leaves untouched one important tool to
+provide broad relief to individuals subject to lawless Govern-
+ment conduct: Rule 23(b)(2) class actions for injunctive relief.
+11 The majority insists that the constitutionality of the Citizenship Order
+will come before this Court eventually and that, when it does, the Govern-
+ment will obey this Court's resulting opinion with respect to all newborn
+children. Ante, at 859–860, n. 18. Why? The majority is sure that the
+Government will honor its oral-argument promises to “ `seek cert' ” when
+it “ `lose[s] one of' ” its pending appeals and to “respect both the judgments
+and opinions of this Court.” Ibid. (quoting Tr. of Oral Arg. 50). The
+majority's certainty that the Government will keep its word is nothing
+short of a leap of faith, given that the Government has adopted a plainly
+unconstitutional policy in defiance of this Court's precedent and then
+gamed the system to stymie this Court's consideration of the policy's mer-
+its. In any event, the Government's promise is cold comfort to the many
+children whose parents do not fle a lawsuit and whose citizenship status
+remains in fux pending this Court's review.
+That mechanism may provide some relief, but it is not a per-
+fect substitute for a universal injunction. First, a named
+plaintiff must incur the higher cost of pursuing class relief,
+which will involve, at a minimum, overcoming the hurdle of
+class certifcation. “ `[D]emonstrating th[e] prerequisites' ”
+of numerosity, commonality and typicality and the adequacy
+of the named plaintiff to represent the class “ `is difficult and
+time consuming and has been getting harder as a result of
+recent court decisions and federal legislation.' ” Chicago v.
+Barr, 961 F. 3d 882, 917 (CA7 2020) (quoting A. Frost, In
+Defense of Nationwide Injunctions, 93 N. Y . U. L. Rev. 1065,
+1096 (2018); alterations in original). “ `Courts have height-
+ened the evidentiary standard for class certifcation' ” as
+well, “ `requiring hearings and sometimes significant
+amounts of evidence on the merits of the class before certify-
+ing the class.' ” 961 F. 3d, at 917. In recent years, more-
+over, “ `courts have started to deny class certifcation if they
+think there has been a faw in class definition,' ” sometimes
+“ `without first allowing the plaintiffs to amend that defni-
+tion in response to the court's concerns.' ” Ibid. What is
+more, “ `defendants can seek interlocutory review of a court's
+decision to certify a class, adding further delay and expense
+to the certifcation process.' ” Ibid. Hence why some “ `de-
+scrib[e] the class certifcation process as a “drawn-out proce-
+dural bog,” which comes with significant expense and delay
+for the would be class member.' ” Ibid. Indeed, at oral ar-
+gument, the Government refused to concede that a class
+could be certified to challenge the Citizenship Order and
+promised to invoke Rule 23's barriers to stop it. See Tr. of
+Oral Arg. 31–32.
+Nevertheless, the parents of children covered by the Citi-
+zenship Order would be well advised to fle promptly class-
+action suits and to request temporary injunctive relief for
+the putative class pending class certification. See
+A. A. R. P ., 605 U. S., at 98; Califano, 442 U. S., at 701–703;
+see also ante, at 869 (opinion of Kavanaugh, J.) (recognizing

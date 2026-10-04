@@ -1,0 +1,628 @@
+FDA v. R. J. Reynolds Vapor Co. — No. 23-1187 — October Term 2024 — decided 6/20/25 — Jackson, J., dissenting
+Citation: 606 U.S. 226
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r57_n6io.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Yee v. Escondido, 503 U. S. 519, 538 (1992). Prudence coun-
+sels that course here, because anything we say about the
+TCA's venue provisions would inevitably inform debates
+about similar statutes—including 28 U. S. C. § 1391(e)(1), the
+general venue statute for lawsuits against the Government.
+* * *
+We affirm the Fifth Circuit's denial of the FDA's motion
+and remand the case for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Jackson, with whom Justice Sotomayor joins,
+dissenting.
+The statute at issue in this case requires tobacco manufac-
+turers to receive permission from the Food and Drug Admin-
+istration (FDA) before new tobacco products may be mar-
+keted or sold. 21 U. S. C. § 387j. In deciding who falls
+within the zone of interest of that statute, the Court largely
+ignores this context. Instead, the Court directs all atten-
+tion to the language of the statute's cause of action—and
+then essentially nullifes the zone-of-interest test by reduc-
+ing it to the near-meaningless proposition that anyone af-
+fected, or even arguably affected, by the FDA's marketing
+denial can sue.
+The actual zone-of-interest inquiry, however, requires us
+to examine exactly whom Congress intended to protect
+under the relevant statutory provisions. And, here, all the
+usual tools of statutory interpretation point in the same di-
+rection: Congress established a detailed scheme for manufac-
+turers to obtain authorization to market new tobacco prod-
+ucts—a scheme within which retailers have no rights and
+play no role—and, in the context of that scheme, Congress
+provided a cause of action for the protection of the manu-
+facturers' statutorily created interests. Because nothing in
+this statute suggests that Congress meant to authorize
+retailers to sue to challenge the FDA's denial of a manufac-
+turer's marketing application, much less bring that legal
+challenge in a venue that is otherwise unavailable, I respect-
+fully dissent.
+I
+The Family Smoking Prevention and Tobacco Control Act
+empowers the Secretary of Health and Human Services, act-
+ing through the FDA, to regulate tobacco products. See 21
+U. S. C. §§ 387a, 393(d)(2). The Act expressly applies to
+many tobacco products that were popular when the Act was
+enacted in 2009, such as cigarettes. See § 387a(b). But rec-
+ognizing that markets evolve, Congress provided that the
+Act would also apply to “any other tobacco products” that
+the FDA “by regulation deems to be subject to” the Act.
+Ibid. Within that covered-product category, the Tobacco
+Control Act prohibits manufacturers from marketing without
+FDA authorization any “new tobacco product,” defined as a
+product not generally available on the market as of February
+15, 2007. §§ 387j(a)(1), (a)(2)(A). The statute also prohibits
+any retailer from selling a “new tobacco product” unless that
+product has been authorized by the FDA. See §§ 387b(6)
+(A), 331(a).
+When a manufacturer seeks FDA authorization to market
+a new tobacco product, it must submit an application to the
+agency. See FDA v. Wages & White Lion Investments,
+LLC, 604 U. S. 542, 551–552 (2025); § 387j(b). That applica-
+tion must include “full reports of all information” the manu-
+facturer is (or should be) aware of “concerning investigations
+which have been made to show the health risks of” the prod-
+uct. § 387j(b)(1)(A). It must also include a list of the prod-
+uct's “components, ingredients, additives, and properties,”
+along with a description of the manufacturing methods and
+facilities. §§ 387j(b)(1)(B), (C). And the manufacturer must
+produce any “samples of such tobacco product” that the
+agency “may reasonably require.” § 387j(b)(1)(E).
+“There are many reasons why the FDA may deny market-
+ing authorization to a `new tobacco product,' ” but it must do
+so if the manufacturer fails to show “that the product `would
+be appropriate for the protection of the public health.' ” Id.,
+at 552 (quoting § 387j(c)(2)(A)). Congress has thus placed
+the burden on the applicant (the manufacturer) to persuade
+the FDA that its product would help—not hurt—public
+health.
+If the agency denies a manufacturer's application for fail-
+ure to make this showing, or if the application is denied for
+any other reason, the statute further authorizes judicial re-
+view of that FDA decision. The Act specifically provides
+that “any person adversely affected” by the FDA's denial
+“may fle a petition for judicial review of such . . . denial
+with the United States Court of Appeals for the District of
+Columbia or for the circuit in which such person resides or
+has their principal place of business.” § 387l(a)(1).
+The question before us today is what “any person ad-
+versely affected” by the FDA's denial means in the context
+of this statute.
+II
+A
+“Read literally,” the “broad language” of the Tobacco Con-
+trol Act's judicial-review provision “might suggest that an
+action is available to anyone who can satisfy the minimum
+requirements of Article III.” Lexmark Int'l, Inc. v. Static
+Control Components, Inc., 572 U. S. 118, 129 (2014). But, as
+the majority acknowledges, this Court has not read this or
+similar wording for all it is worth when interpreting causes
+of action. See ante, at 232–233. In the administrative-law
+context, we have long recognized that “adversely affected”
+is a term of art that can be far more cabined than its literal
+meaning suggests. Indeed, we have consistently eschewed
+reading the “adversely affected” word formulation to apply
+to anyone in the world who might be affected by an agency's
+action, and have instead interpreted this language to refer
+“only to plaintiffs whose interests `fall within the zone of
+interests protected by the law invoked.' ” Lexmark, 572
+U. S., at 129 (quoting Allen v. Wright, 468 U. S. 737, 751
+(1984)).
+We call this the zone-of-interest test—and it is, by now,
+well established. Simply stated, the test “is a guide for de-
+ciding whether . . . a particular plaintiff should be heard to
+complain of a particular agency decision.” Clarke v. Securi-
+ties Industry Assn., 479 U. S. 388, 399 (1987). “The essen-
+tial inquiry is whether Congress `intended for [this particu-
+lar] class [of plaintiffs] to be relied upon to challenge agency
+disregard of the law.' ” Ibid. (quoting Block v. Community
+Nutrition Institute , 467 U. S. 340, 347 (1984); some alter-
+ations in original). We have also explained that, at bottom,
+“the reviewability question turns on congressional intent,
+and all indicators helpful in discerning that intent must be
+weighed.” Clarke, 479 U. S., at 400. In short: “Whether a
+plaintiff comes within `the “zone of interests” ' is an issue
+that requires us to determine, using traditional tools of stat-
+utory interpretation, whether a legislatively conferred cause
+of action encompasses a particular plaintiff's claim.” Lex-
+mark, 572 U. S., at 127.
+Our decision in Lexmark illustrates how the zone-of-
+interest test works in practice. The statute at issue there
+authorized a suit brought by “ `any person who believes that
+he or she is likely to be damaged' by a defendant's false ad-
+vertising.” Id., at 129 (quoting 15 U. S. C. § 1125(a)(1)).
+Applying the zone-of-interest test, we held that, despite the
+statute's broad “any person” language, contextual clues—in-
+cluding the statute's expressed purpose—demonstrated that
+Congress intended to permit suit only by persons who suf-
+fered a particular type of injury (specifically, “an injury to a
+commercial interest in reputation or sales”). 572 U. S., at
+131–132.
+The Administrative Procedure Act (APA) is on the other
+side of the spectrum of outcomes when the zone-of-interest
+test is applied. We have long recognized that the APA's
+judicial-review provision is particularly capacious. See
+ante, at 233–234. Notably, we have observed that such
+breadth is necessary in the context of that statute in order
+to “preserv[e] the flexibility” of the APA's provisions, which
+apply in a range of contexts. Lexmark, 572 U. S., at 130.
+The majority accepts that the zone-of-interest test is the
+proper legal framework for assessing the breadth of the
+cause of action at issue. See ante, at 232. It also goes to
+great lengths to emphasize that the zone-of-interest test op-
+erates identically across all statutes that permit aggrieved
+persons to sue—be it the APA or a more specific provision.
+See ante, at 233–235. I wholeheartedly agree. Whatever
+the underlying statute, our task is “to determine the mean-
+ing of the congressionally enacted provision creating a cause
+of action,” which we do by “apply[ing] traditional principles
+of statutory interpretation.” Lexmark, 572 U. S., at 128.
+Sometimes, as with the APA, those contextual clues demon-
+strate a cause of action's breadth. Other times, as was the
+case in Lexmark, those clues suggest a narrower scope. In
+each case, the question is one of Congress's intent.
+B
+To properly discern congressional intent about the breadth
+of a particular cause of action, it is crucial to know where to
+look. And, unlike the majority's opinion here, our prece-
+dents do not merely look to the words of the cause-of-action
+provision that prompted the need to inquire further about
+what Congress intended. Doing so would be, of course, en-
+tirely circular. Instead, because the zone-of-interest test is
+premised on the idea that interpreting a seemingly un-
+bounded cause of action requires exploration into what Con-
+gress wanted in the context of that particular statute, we
+look to “the particular provision of law upon which the plain-
+tiff relies” for his legal claim—that is, “ `the statutory provi-
+sion whose violation forms the legal basis for his complaint.' ”
+Bennett v. Spear, 520 U. S. 154, 175–176 (1997) (quoting
+Lujan v. National Wildlife Federation, 497 U. S. 871, 883
+(1990); emphasis deleted). Although one would not know it
+from reading the majority's opinion, this is blackletter law.
+See, e. g., Clarke, 479 U. S., at 396–397; Air Courier Confer-
+ence v. Postal Workers, 498 U. S. 517, 523–524 (1991); Thomp-
+son v. North American Stainless, LP , 562 U. S. 170, 178
+(2011).
+Respondents here allege that the FDA improperly denied
+a marketing application fled by R. J. Reynolds Vapor Co.
+(RJR Vapor) in violation of 21 U. S. C. § 387j(c). So, it is that
+statutory provision, not the cause of action itself, that is the
+proper focus of the zone-of-interest inquiry.
+Analyzing that provision (as the majority fails to do) re-
+veals that § 387j(c) is part of a statutory scheme that estab-
+lishes an adjudicatory process between a manufacturer and
+the FDA—and no one else. Per that process, after the FDA
+receives a manufacturer's marketing application and reviews
+it, the statute requires a particular agency response: The
+FDA “shall” “issue an order that the new product” either
+may be, or may not be, “introduced . . . into interstate com-
+merce.” § 387j(c)(1)(A).
+The FDA makes this marketing-approval decision in ac-
+cordance with the statute's directives, by considering the
+manufacturer's marketing application in all of its particulars.
+See §§ 387j(b), (c). I touched on those details above, see
+supra, at 242, but it bears repeating here that, by law, a manu-
+facturer's application must contain a “full statement of the
+components, ingredients, additives, and properties” of the
+proposed tobacco product; a “description of the methods used
+in, and the facilities and controls used for, the manufacture,
+processing, and . . . packing” of the product; and, in some
+instances, samples of the product itself. § 387j(b)(1). The
+manufacturer gathers all of that information and submits it
+directly to the FDA. That is it—the agency does not solicit
+any information from interested third parties, such as poten-
+tial consumers or retailers who wish to sell the product, and
+manufacturers are not required to submit any information to
+the FDA on their behalf.
+Nor do retailers, in particular, have any procedural rights
+whatsoever after a manufacturer submits its marketing ap-
+plication. Indeed, in many circumstances, the FDA is re-
+quired to deny an application without regard to the impact
+that doing so might have on retailers. For example, the
+FDA must deny an application if the manufacturer's produc-
+tion, processing, or packing facilities fail to conform to regu-
+latory standards. See § 387j(c)(2)(B). The FDA must also
+deny an application if the manufacturer fails to show “that
+permitting such tobacco product to be marketed would be
+appropriate for the protection of the public health.”
+§ 387j(c)(2)(A).
+This all means that, under the premarketing-approval
+scheme that Congress has crafted, the interests of tobacco
+retailers are entirely beside the point—they do not factor in
+at all. It is the manufacturers that have to make the requi-
+site showings, and if they do a poor job, the retailers are
+simply out of luck. There is no mechanism by which any
+interested third party (including a retailer excited by the
+prospect of being able to sell the relevant product) can sup-
+plement a manufacturer's marketing application. There are
+also no third-party notice requirements, and Congress has
+emphasized the importance of confidentiality, so third-party
+retailers may not even know that an application for the mar-
+keting of a particular new tobacco product has been submit-
+ted to the FDA at all, let alone that one was denied. See
+§ 387j(e)(2) (requiring the FDA to serve denial notices on
+applicants, but not retailers); see also § 387f(c) (providing
+that the agency may not disclose confidential information to
+nonapplicants); 86 Fed. Reg. 55398 (2021) (recognizing that
+“the intent to market a tobacco product that is not currently
+marketed is often considered confidential commercial
+information”).1
+Thus, the text of the statutory provisions that create the
+premarketing-approval scheme Congress adopted does not
+support the conclusion that Congress promulgated this stat-
+ute with retailers' interests in mind.
+C
+Nor does the purpose of the Tobacco Control Act's
+premarketing-approval or judicial-review provisions. In -
+stead, the statute's judicial-review mechanism operates to
+ensure that those most invested in a new product's authoriza-
+tion can enlist a court to double check the FDA's work.
+Manufacturers plainly fall within that category: At the time
+a manufacturer applies for authorization to market a new
+tobacco product, it has already expended considerable time,
+money, and effort to develop that product.
+But retailers are differently situated. As a general mat-
+ter, when a manufacturer applies for authorization to market
+a new product, retailers are mere bystanders—they do not
+yet have any skin in the game. Cf. §§ 331(c), 387b(6)(A)
+(clarifying that a new tobacco product may not be sold before
+1 Contrary to the majority's assertion ( ante, at 236, n. 7), the fact that
+retailers can face criminal penalties for selling a tobacco product that lacks
+FDA approval tells us nothing about the scope of the statute's zone of
+interest related to the FDA's denial of a manufacturer's marketing applica-
+tion. After all, it is not Congress's decision to deny a manufacturer's
+marketing application that subjects a retailer to criminal penalties; a re-
+tailer never has a legal right to sell an unauthorized product—before or
+after an application is submitted. See infra this page and 249. So,
+although retailers may hope that the FDA will grant a particular appli-
+cation, the FDA's failure to do so does not impact the retailer's
+rights. What is more, the zone-of-interest inquiry asks us to consider
+who Congress intended to weigh in on the FDA's decision to deny the
+manufacturer authorization to market the product. Neither Congress's
+general prohibition on the sale of unauthorized tobacco products nor the
+mechanisms it has provided for the enforcement of that prohibition speaks
+to the threshold authorization issue.
+the FDA approves it). A retailer may desire to sell an up-
+coming (not-yet-approved) product—it may even expect to
+proft handsomely, if the manufacturer's application were to
+be approved and the product deemed marketable. But that
+kind of forward-looking interest is different in kind from the
+manufacturer's backward-looking one. If the FDA denies a
+manufacturer's marketing application, a retailer might well
+be disappointed, but it will not lose an investment; it can
+stock its shelves with something else. Thus, Congress could
+have rationally intended to protect manufacturers' reliance
+interests by affording them a layer of judicial review if the
+FDA denies a marketing application, while feeling no need
+to extend similar protection to retailers.
+The intuition that Congress reasonably intended to draw
+a distinction between the interests of manufacturers and re-
+tailers—and protected only the former in the instant con-
+text—is confirmed by a provision of § 387j that enables the
+FDA to withdraw its prior approval of a tobacco product in
+certain situations. See § 387j(d). That provision states
+that the agency's decision to withdraw its approval of a to-
+bacco product may be challenged in court by only the
+“holder of [the] application subject to” the withdrawal
+order—in other words, the manufacturer alone. § 387j(d)(2).
+To me, this is the single most significant piece of textual
+evidence bearing on Congress's intent regarding the protec-
+tion of retailers.
+Under the majority's view, even though a retailer cannot
+challenge the FDA's decision to withdraw its prior approval
+per § 387j(d), it can fle a lawsuit to challenge the FDA's de-
+nial of a manufacturer's application in the first instance due
+to the “any person adversely affected” language of the cause
+of action. But as I see it, the fact that a retailer cannot
+challenge a withdrawal order makes it much more likely that
+Congress did not intend to permit it to challenge the agency's
+initial denial of an application either—a consistent and rea-
+sonable result since, as I have explained, retailers generally
+lack any financial stake or reliance interests in the applica-
+tion's approval.
+Indeed, in my view, the provision prohibiting retailers
+from challenging the withdrawal of an approved application
+puts the nail in the proverbial coffn of the contention that
+retailers' interests are being protected by this statute.
+When the FDA withdraws its marketing approval, retailers
+may well have already invested considerably in the new to-
+bacco product—e. g., by purchasing inventory, setting up
+store displays, or attracting new customers. But Congress
+did not seem to care; the statute states plainly that only man-
+ufacturers can fle suit to challenge such withdrawal. Why
+would Congress have wanted retailers to be able to seek ju-
+dicial review of the agency's initial denial (at which point
+they generally lack reliance interests), but not when the
+agency withdraws its approval (at which point they generally
+will have such interests)?
+The majority offers no explanation, stating only that this
+differential treatment was Congress's “choice.” Ante, at
+238. But “[t]he illogic of the majority's interpretation
+strongly signals that what the majority believes Congress
+`chose' is not actually what Congress intended or accom-
+plished.” Advocate Christ Medical Center v. Kennedy, 605
+U. S. 1, 29 (2025) (Jackson, J., dissenting). The more logical
+inference by far is that Congress excluded retailers from pro-
+tecting their interests in the withdrawal context precisely
+because retailers are not within the zone of interest of this
+statutory scheme.
+III
+A
+Ignoring our past edicts regarding how the zone-of-interest
+test works, the majority spends very little time evaluating
+the substantive provisions of the Tobacco Control Act's mar-
+keting scheme. Instead, it zeroes in on the language of the
+provision supplying the cause of action: § 387l(a)(1). In its
+view, retailers ft within that provision's scope because, by
+permitting suit by “ ` any person adversely affected,' ” the
+statute's text “suggests an intent to cover more than one
+party.” Ante, at 237. But as I have already noted, fxating
+on the broad text of a judicial-review provision substantially
+similar to the ones that prompted us to birth the zone-of-
+interest test gets us nowhere—at least, nowhere remotely
+resembling the traditional inquiry and what it was designed
+to do. This observation is fundamental; as our foundational
+zone-of-interest precedents recognized, a literal reading of
+capacious cause-of-action language renders the provision far
+broader than it is typically reasonable to conclude Congress
+intended. Cf. Thompson, 562 U. S., at 176–177 (observing
+that “absurd consequences” about who was entitled to sue
+would follow if the Court were to interpret literally a simi-
+larly worded cause of action).
+In any event, even pure textualists would have to acknowl-
+edge that § 387l(a)(1)'s seemingly infinite terminology can be
+adequately explained by a linguistic quirk that has little to
+do with Congress's “choice” to allow any arguably affected
+person to sue. Carefully examined, the text of this provi-
+sion permits suit by “any person adversely affected by”
+either “the promulgation of a regulation” or the “denial of
+an application.” § 387l(a)(1). One way to use a single sub-
+ject to describe two different types of plaintiffs (those who
+may seek to challenge an FDA regulation and also those
+who may seek to challenge the FDA's denial of a manufactur-
+er's application) is to use a generic term, such as “any per-
+son.” By design, that generic phrasing relates to “more
+than one party” and does not explain or suggest who is in-
+cluded in either category. Ante, at 237. So, ultimately, the
+“any person” phrasing the majority puts so much stock in
+might just be a product of Congress's desire to use a single
+statutory provision to cover both situations.
+Another noteworthy problem with the majority's interpre-
+tation is that it draws almost exclusively from what this
+Court has said about the breadth of the cause of action in an
+entirely different statute (the APA). It is certainly true
+that, in the APA context, the zone-of-interest test is “not
+especially demanding.” Ante , at 233 (internal quotation
+marks omitted). But, again, we have explained that Con-
+gress intended this language to be broadly interpreted as it
+appears in the APA precisely because of the breadth of the
+APA itself. See supra, at 245. By contrast, as I have
+shown, the Tobacco Control Act's premarketing-approval
+scheme is narrow: It involves an exchange between tobacco
+manufacturers and the FDA that occurs when said manufac-
+turers wish to market a new tobacco product. Third parties
+are entirely excluded from that back-and-forth. And, nota-
+bly, that is so even when circumstances develop that do, in
+fact, implicate third-party interests (such as when a retailer
+has already begun marketing the product). There really is
+no material similarity between the premarketing-approval
+scheme Congress has constructed in the Tobacco Control
+Act, on the one hand, and the various interests that the APA
+protects, on the other. Consequently, the zones of interest
+those two statutes create are completely different, making it
+difficult to understand why the majority finds the APA paral-
+lel so persuasive.
+B
+The majority's take on the scope of § 387l(a)(1)'s cause of
+action also fails to fully appreciate the reasoning of our zone-
+of-interest precedents. The zone-of-interest analysis here is
+substantially similar to that of Block, 467 U. S. 340. There,
+the Court held that the Agricultural Marketing Agreement
+Act of 1937 permitted only milk handlers and producers—
+not consumers—to seek judicial review of the Secretary of
+Agriculture's milk pricing orders, even though the orders af-
+fected (indeed, harmed) consumers by increasing the price
+of milk. Consumers were not in the zone of interest (and
+thus were not “adversely affected” persons under the rele-
+vant cause of action, id., at 345), the Court reasoned, because
+of the structure of the underlying administrative scheme.
+Milk market orders were promulgated via a “cooperative
+venture” between the agency, milk handlers, and milk pro-
+ducers; “[n]owhere in the Act” was there any “provision for
+participation by consumers.” Id., at 346–347. The Court
+recognized that “[i]n a complex scheme of this type, the omis-
+sion of such a provision is sufficient reason to believe that
+Congress intended to foreclose consumer participation in the
+regulatory process.” Ibid.
+In the same way that the Agricultural Marketing Agree-
+ment Act contemplated collaboration between the agency,
+milk handlers, and milk producers—but not consumers—the
+Tobacco Control Act's premarket-authorization program con-
+templates collaboration between the agency and manufactur-
+ers—but not retailers. Therefore, here, just as in Block, the
+absence of any mechanism for retailers to participate in that
+collaborative premarketing-approval process on the front
+end is a strong signal that Congress did not intend to protect
+any interests retailers may have on the back end, if premar-
+keting approval is denied.
+Moreover, as with the would-be plaintiff-consumers in
+Block, “preclusion of [retailer] suits will not threaten realiza-
+tion of the fundamental objectives of the statute.” Id., at
+352. After all, a retailer's interest generally will be aligned
+with a manufacturer's—both want the FDA to approve the
+application. Manufacturers, then, can “be expected to chal-
+lenge unlawful agency action and to ensure that the statute's
+objectives will not be frustrated.” Ibid.; cf. Joint Anti-
+Fascist Refugee Comm. v. McGrath, 341 U. S. 123, 153–154
+(1951) (Frankfurter, J., concurring) (recognizing that the like-
+lihood that a person would be “adequately protected” by the
+party who is able to challenge the underlying Government
+action is a “relevant consideration” when determining the
+scope of judicial review).
+The majority dismisses Block in a footnote, arguing that
+it is “readily distinguishable” because the statute provided
+that certain industry participants could seek judicial review
+only “after first exhausting administrative remedies.”
+Ante, at 240, n. 8. But Block is not an exhaustion case.
+Rather, the Court held that consumers' inability to partici-
+pate in the administrative process was in and of itself a “suf-
+fcient reason” to believe that Congress intended to exclude
+consumers from using the statutory cause of action to seek
+judicial review of the relevant agency action. 467 U. S., at
+347.2
+Applying the plainly analogous reasoning of Block to the
+question presented in this case gets us to the most straight-
+forward answer: Like the consumers in Block, the retailers
+here are beyond the zone of interest and thus cannot invoke
+the cause of action. But instead of just applying Block, the
+majority opts to rely on a number of cases interpreting
+causes of action that are far less similar to the statute at
+issue here. Ante, at 232–235.
+Those cases are really of no help because, in each of them,
+the plaintiff was expressly protected by the statute at issue,
+and thus ft well within the zone of interest. In Thompson,
+for example, we had no trouble concluding that an employee
+injured by his employer's unlawful retaliation fell within the
+zone of interests of a statute whose purpose was “to protect
+2 In any event, permitting retailers to sue would “frustrat[e]” the statu-
+tory scheme at issue here, too. Ante, at 240, n. 8. When the FDA denies
+a manufacturer's application, the manufacturer faces a choice. It can (1)
+stand on its initial application and challenge the FDA's denial in court; (2)
+attempt to address its application's shortcomings (by, for example, fixing
+the part of its manufacturing or processing facilities that the FDA deemed
+insufficient, see 21 U. S. C. § 387j(c)(2)(B)); or (3) give up on the product.
+Allowing retailers to challenge the denial in court deprives the manufac-
+turer of agency over its own application, and risks manufacturers and re-
+tailers taking inconsistent actions after an application is denied. Of
+course, there may be times in which a retailer and a manufacturer are in
+lockstep. But, in that situation, one wonders why a retailer needs to be
+able to sue at all—beyond, of course, its desire to bring a legal challenge
+in a venue unavailable to the manufacturer. See infra, at 257.
+employees from their employers' unlawful actions.” 562
+U. S., at 178. And in Bank of America Corp. v. Miami, 581
+U. S. 189 (2017), the statute had specifically defined “ `ag-
+grieved person' ” to include “ `any person who . . . claims to
+have been injured by a discriminatory housing practice,' ”
+when the plaintiff there had made that claim. Id., at 193.
+The majority makes much of the Court's statements in
+those cases that the statutes at issue permitted suit by any-
+one whose interests were at least “ ` “ arguably . . . protected
+by the statute.” ' ” Ante, at 236 (quoting Thompson, 562
+U. S., at 178; emphasis added). But the retailers here cannot
+even satisfy that formulation of the standard. The majority
+explains how retailers may be affected by § 387j but never
+articulates how retailers are protected by this statute—not
+arguably, and certainly not actually. See ante, at 236, and
+n. 7. That's because they can't. No matter how long you
+stare at § 387j, you will not find anything looking out for
+retailers. They are simply not protected by the provision
+at all.
+IV
+Finally, when evaluating Congress's intent regarding the
+scope of the cause of action it established in § 387l(a)(1), we
+should keep in mind, too, that this provision does not merely
+authorize judicial review of agency determinations at the be-
+hest of “any person adversely affected.” Congress also spe-
+cifcally prescribed where that review must be sought.
+Again, the text states that “any person adversely affected”
+by the FDA's denial “may fle a petition for judicial review
+of such . . . denial with the United States Court of Appeals
+for the District of Columbia or for the circuit in which such
+person resides or has their principal place of business.”
+§ 387l(a)(1).
+No one disputes that RJR Vapor itself qualifies as a “per-
+son adversely affected” by the FDA's denial of its marketing
+application. Therefore, it is not as though RJR Vapor had
+no options—it most certainly could have brought a lawsuit
+challenging the FDA's denial in the D. C. Circuit or in the
+Fourth Circuit, where it has its principal place of business. 3
+So, stepping back, one wonders: Why does it even matter
+whether the tobacco retailers RJR Vapor has chosen to pair
+up with have the ability to sue?
+The above-quoted statutory text provides the answer. As
+it turns out, at the time RJR Vapor fled its application, the
+D. C. Circuit and the Fourth Circuit had each already re-
+jected on the merits similar challenges that other favored e-
+cigarette manufacturers had fled. See Avail Vapor, LLC v.
+FDA, 55 F. 4th 409, 413, 422 (CA4 2022); Prohibition Juice
+Co. v. FDA, 45 F. 4th 8, 12, 20–21 (CADC 2022). It thus
+became (perhaps) imperative from RJR Vapor's perspective
+that its own lawsuit challenging the FDA's denial of its fa-
+vored e-cigarette marketing applications be fled somewhere
+else. To accomplish that objective—i. e., to facilitate RJR
+Vapor's end run around § 387l(a)(1)'s venue restrictions—
+RJR Vapor needed another party to bring its legal challenge
+to court.
+It is not hard to see where this is going. RJR Vapor
+teamed up with a Texas-based retailer that sold the relevant
+e-cigarettes—respondent Avail Vapor Texas, LLC—and, to-
+gether, they fled a joint petition in the Fifth Circuit, chal-
+lenging the FDA's denial of RJR Vapor's application. 4 The
+possibility that the courts would allow venue to be estab-
+lished based on Avail Vapor's presence on the petition gave
+RJR Vapor hope that its substantive legal challenge would
+move forward in a more applicant-friendly venue. 5
+3 RJR Vapor is incorporated in North Carolina and maintains its princi-
+pal place of business there too.
+4 Two other parties were also included on the petition: the Mississippi
+Petroleum Marketers and Convenience Stores Association and an RJR
+Vapor corporate affliate that sold the relevant product. The presence of
+these parties does not affect the legal analysis.
+5 Although a Fifth Circuit panel had rejected a similar arbitrary-and-
+capricious challenge levied against the FDA's denial of a similar applica-
+From RJR Vapor's strategic litigating standpoint, neither
+Congress's intent concerning the scope of the cause of action,
+nor the fact that retailers were not front of mind for Con-
+gress when it crafted the premarketing-approval provisions
+of the Tobacco Control Act (see Part II, supra) mattered
+much. Regardless, it was critical for the retailers to partici-
+pate as plaintiffs if RJR Vapor was going to successfully
+skirt § 387l(a)(1)'s venue restrictions and steer this case to
+the preferred—but unauthorized—forum.
+This is, of course, precisely the kind of manipulation that
+the pesky zone-of-interest test operates to prevent, insofar
+as it requires § 387l(a)(1) to be interpreted consistent with
+what Congress cared about when it crafted that statute (in-
+cluding, presumably, its venue-related policies), rather than
+with undue adherence to whatever might be necessary to
+advance a party's litigating interests. And, ultimately, for
+present purposes, the distinction between what Congress
+wanted when it enacted § 387l(a)(1) and what some tobacco
+manufacturers want to do now is particularly acute.
+As we consider who can sue under § 387l(a)(1), it is impor-
+tant to acknowledge that the statute Congress enacted also
+articulates a clear venue mandate: Thwarted tobacco manu-
+facturers have a cause of action to challenge the FDA's denial
+of their marketing applications in court, but they must liti-
+gate their interests in the designated venues and, presum-
+ably, not elsewhere—including through proxy suits that third
+parties fle in other places on their behalf.
+tion, see Wages & White Lion Investments, L.L.C. v. FDA, 41 F. 4th 427,
+430, 436–439 (2022), the Circuit had vacated that decision and granted
+rehearing en banc at the point in which RJR Vapor and Avail Vapor fled
+their joint action, see 58 F. 4th 233, 234 (2023). That vacatur strongly
+suggested that the full Fifth Circuit would come out against the FDA—
+as, indeed, it eventually did. See 90 F. 4th 357, 362, 371 (2024) (en banc).
+We later vacated the Fifth Circuit's en banc decision, disagreeing with its
+primary holding. See FDA v. Wages & White Lion Investments, LLC ,
+604 U. S. 542, 592 (2025).
+* * *
+The majority correctly acknowledges that the disputed
+“any person adversely affected” language in § 387l(a)(1) of
+the Tobacco Control Act implicates our well-established
+zone-of-interest test. All agree, too, that, under the zone-
+of-interest test, the watchword is congressional intent. But
+I would proceed to determine Congress's intent as normal,
+by applying the traditional tools of statutory interpreta-
+tion to investigate the scope of § 387j(c)—the provision that
+respondents argue the FDA violated. Every available indi-
+cator reveals that Congress intended to permit manufac-
+turers—not retailers—to challenge the denial of a manufac-
+turers' marketing application (and to do so only in the
+designated courts). In concluding otherwise, the majority
+not only opens up an avenue for judicial review that Con-
+gress did not intend, it also allows manufacturers like RJR
+Vapor to evade the statute's venue requirements.

@@ -1,0 +1,592 @@
+Postal Service v. Konan — No. 24-351 — October Term 2025 — decided 2/24/26 — Sotomayor, J., dissenting
+Citation: 607 U.S. 391
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r13_m64n.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+406 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+stantially overlap. See 546 U. S., at 487. The canon against
+surplusage
+is subordinate to the “cardinal canon” that “a leg-
+islature says in a statute what it means and means in a
+statute what it says there.”Connecticut Nat. Bankv.
+Germain, 503 U. S. 249, 253–254 (1992). We think that Con-
+gress likely used broad, overlapping terms to better keep
+complaints about mail delivery out of court.
+IV
+We hold that the postal exception covers suits against the
+United States for the intentional nondelivery of mail. We
+do not decide whether all of Konan’s claims are barred by
+the postal exception, or which arguments Konan adequately
+preserved. We vacate the judgment of the Court of Appeals
+and remand the case for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Sotomayor,with whomJustice Kagan,Jus-
+tice Gorsuch, andJustice Jacksonjoin, dissenting.
+For two years, respondent Lebene Konan and her tenants
+did not receive mail addressed to the rental properties that
+Konan owned. According to Konan, negligence was not to
+blame. Quite the opposite: She alleges that United States
+Postal Service employees intentionally withheld delivery be-
+cause they did not like “ ‘that a black person own[ed]’ ” the
+properties and “ ‘lease[d] rooms . . . to white people.’ ” 652
+F. Supp. 3d 721, 725 (ND Tex. 2023).
+Konan brought this action under the Federal Tort Claims
+Act (FTCA) against the United States to recover damages
+she sustained as a result of this alleged years-long harass-
+ment campaign. The United States is generally protected
+by sovereign immunity, but Congress, through the FTCA,
+has enacted a capacious waiver of that immunity for tort
+suits when an individual is harmed by a federal employee
+acting within the scope of her employment. That waiver,
+
+407Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+however, is subject to several exceptions. Today, the Court
+holds that
+one exception—the postal exception—prevents in-
+dividuals from recovering for injuries based on a postal em-
+ployee’s intentional misconduct, including when an employee
+maliciously withholds their mail. Because this reading of
+the postal exception transforms, rather than honors, the ex-
+ception Congress enacted, I respectfully dissent.
+I
+The FTCA serves a simple purpose: “ ‘to remove the sov-
+ereign immunity of the United States from suits in tort.’ ”
+Levinv.United States, 568 U. S. 503, 506 (2013). This
+“broad waiver” of immunity,Millbrookv.United States, 569
+U. S. 50, 52 (2013), allows an individual harmed by a federal
+employee “acting within the scope of his ofﬁce or employ-
+ment” to recover for “injury or loss of property, or personal
+injury or death caused by the” employee’s “negligent or
+wrongful act or omission,” 28 U. S. C. § 1346(b)(1); seeUnited
+Statesv.Yellow Cab Co., 340 U. S. 543, 547 (1951) (describing
+the waiver as “sweeping”).
+Congress has also enacted several exceptions preserving
+the United States’ immunity in some circumstances. See
+§ 2680 (listing 13 such exceptions). The exceptions “are de-
+signed to protect certain important governmental functions
+and prerogatives from disruption.”Molzofv.United
+States, 502 U. S. 301, 311 (1992). They thus “mark the
+‘boundary between Congress’ willingness to impose tort lia-
+bility upon the United States and its desire to protect certain
+governmental activities from exposure to suit by private in-
+dividuals.’ ”Ibid.
+At the same time, courts must be careful not to interpret
+these exceptions too broadly. “ ‘[U]nduly generous inter-
+pretations,’ ” this Court has warned, “ ‘run the risk of defeat-
+ing the central purpose of the statute’ ”—to “ ‘waiv[e] the
+Government’s immunity from suit in sweeping language.’ ”
+Dolanv.Postal Service, 546 U. S. 481, 492 (2006) (quoting
+
+408 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+Kosak v. United States, 465 U. S. 848, 853, n. 9 (1984); Yellow
+Cab,
+340 U. S., at 547). To harmonize these considerations,
+“ ‘the proper objective of a court attempting to construe one
+of the’ ” exceptions “ ‘is to identify those circumstances which
+are within the words and reason of the exception—no less
+and no more.’ ” Dolan, 546 U. S., at 492 (quoting Kosak, 465
+U. S., at 853–854, n. 9 (some internal quotation marks
+omitted)).
+This case calls on the Court to interpret the postal excep-
+tion, which covers “[a]ny claim arising out of the loss, miscar-
+riage, or negligent transmission of letters or postal matter.”
+§ 2680(b). The wording of this exception is noticeably nar-
+rower than some of its neighbors. For example, all claims
+for “damages caused by the ﬁscal operations of the Treasury
+or by the regulation of the monetary system” are barred.
+§ 2680(i). So too are all “claim[s] arising from the activities
+of the Tennessee Valley Authority,” the “Panama Canal
+Company,” and “a Federal land bank, a Federal intermediate
+credit bank, or a bank for cooperatives,” §§ 2680( l), (m), (n).
+By comparison, Congress did not paint with as broad of a
+brush in designing the postal exception. Like it had for
+these other agencies and activities, Congress could have
+granted immunity for all “claims arising from the mail activi-
+ties of the Postal Service.” Instead, Congress identiﬁed
+certain “misconduct for which the Government was not as-
+suming ﬁnancial responsibility—namely, ‘the loss, miscar-
+riage, or negligent transmission of letters or postal matter.’ ”
+Kosak, 465 U. S., at 855. By using “speciﬁcity” over “gener-
+ality,” it follows that Congress intended for this exception
+“to be less encompassing” than the coverage provided by
+the broader exceptions, and for the Government to “assum[e]
+ﬁnancial responsibility” for certain classes of “misconduct”
+related to postal activities. Ibid.
+This Court has already identiﬁed some of those classes.
+In Kosak, the Court explained that claims arising from car
+accidents caused by postal employees delivering mail fall
+
+409Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+outside the exception. Ibid. In Dolan, the Court recog-
+nized
+a second class of claims for slip and falls caused by an
+employee negligently placing a package on a porch step. 546
+U. S., at 483. Today, I would have afﬁrmed the Fifth Cir-
+cuit’s well-reasoned decision that acknowledged a third class:
+claims concerning intentional misconduct committed by
+postal employees, which would necessarily include withhold-
+ing a person’s mail for malicious reasons.
+II
+A
+The postal exception’s text shows that Congress did not
+intend to immunize intentional misconduct. Recall that the
+exception covers the “loss,” “miscarriage,” and “negligent
+transmission” of mail. § 2680(b). AsKosakobserved, the
+terms describe three categories of “misconduct” that postal
+employees can commit without incurring liability for the
+United States. 465 U. S., at 855. The majority, however,
+contends that these terms focus on “harms” rather than Gov-
+ernment wrongdoing, citingDolan.Ante,at 395, 398, 403.
+To be sure,Dolandescribed these terms as “harm[s],” but
+in the same breath, it also emphasized that the three terms
+protect “only a subset of postal wrongdoing.” 546 U. S.,
+at 490.
+A focus on misconduct is consistent with most other FTCA
+exceptions, which generally are triggered by certain types
+of Government conduct, rather than the type of harm the
+plaintiff experiences. For instance, some exceptions di-
+rectly cover different “act[s] or omission[s]” of Government
+employees, §§ 2680(a) (discretionary acts), (e) (administering
+§§ 1–31 of Title 50). Another addresses intentional actions
+by employees, capturing, for example, assault, battery, false
+imprisonment, and other intentional torts like them.
+§ 2680(h). A different group immunizes the “activities” of a
+given Government instrumentality. §§ 2680(j), (l), (m), (n).
+Yet a different subset describes a speciﬁc type of Govern-
+
+410 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+ment action, such as the “assessment or collection of any tax
+or customs
+duty,” § 2680(c), the “imposition or establishment
+of a quarantine,” § 2680(f), and the “ﬁscal operations of the
+Treasury,” § 2680(i). The focus of each is on the Govern-
+ment conduct. The same is necessarily true of the postal
+exception.
+The key question is thus as follows: What kind of miscon-
+duct falls within the “ ‘words and reason’ ” of the postal ex-
+ception? Dolan, 546 U. S., at 492 (quoting Kosak, 465 U. S.,
+at 854, n. 9). All signs point to Congress leaving intentional
+misconduct outside of the exception’s scope.
+1
+Begin with “negligent transmission.” This term covers
+“negligence causing mail to be lost or to arrive late, in dam-
+aged condition, or at the wrong address.” Dolan, 546 U. S.,
+at 486. It goes without saying that this term therefore does
+not immunize intentional misconduct.
+Beyond that basic insight, however, Congress’s express in-
+clusion of “negligent transmission” provides other important
+clues for deciphering statutory meaning about the scope of
+the postal exception. As the majority recognizes, if Con-
+gress had included all claims arising out of the “transmis-
+sion” of mail in the postal exception, the term “would have
+encompassed claims that involved mail even though nothing
+went wrong with its transport or delivery.” Ante, at 405.
+To avoid that outcome, Congress needed to add a narrowing
+modiﬁer to focus on when things go wrong. 1
+Critically, Congress did not have to choose “negligent” as
+that modiﬁer (or the only modiﬁer). Congress could have,
+for example, modiﬁed “transmission” with both “negligent”
+and “wrongful.” Doing so would have avoided the problem
+1 Congress did not need to add “negligent” before “miscarriage” or “loss”
+because the ordinary meaning of those terms, plus statutory context, con-
+vey inadvertence on their own. Seeinfra, at 411–418.
+
+411Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+the majority identiﬁes while also clarifying that both classes
+of conduc
+t fall within the exception’s scope. Yet Congress
+elected to immunize negligent conduct alone. Its choice to
+do so carries signiﬁcance. It raises the natural inference
+that Congress intended for at least some intentional wrong-
+doing related to transmitting mail to fall outside the scope of
+the exception.
+Indeed, before this Court, the Government emphasizes re-
+peatedly that “negligent transmission” is “signiﬁcant” be-
+cause the term “shows that Congress knew how to exclude
+intentional misconduct when it wanted to.” Brief for Peti-
+tioners 3, 17, 35. Yet, according to the Government and the
+majority, this was a hollow choice. In their view, Congress
+excluded some set of intentional conduct through the “negli-
+gent transmission” modiﬁer only to sweep that conduct back
+into the exception through “miscarriage” and “loss.” The
+majority adopts the Government’s deﬁnition of “miscarriage”
+as capturing situations where “mail fail[s] to arrive prop-
+erly,” regardless of the actor’s intent. Ante, at 399. It also
+adopts the Government’s deﬁnition of “loss” as capturing the
+“deprivation of mail,” regardless, again, of the depriver’s in-
+tent. Ante, at 401. It is difﬁcult to see how a postal em-
+ployee could intentionally transmit mail wrongfully—such as
+by refusing to deliver the mail, lighting it on ﬁre, or shred-
+ding it into pieces—without falling within these deﬁnitions
+of “miscarriage” or “loss.” In this world, Congress did not
+even need to bother with the modiﬁer to transmission that
+it adopted.
+Congress did not make this odd choice. As explained
+below, “loss” and “miscarriage,” as used in the postal excep-
+tion, do not capture intentional misconduct either.
+2
+Turn, then, to “loss.” As the Government acknowledged
+in its petition for certiorari, “loss” is ordinarily understood
+
+412 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+to capture unintentional conduct. Pet. for Cert. 14; see also
+Webster
+’s New International Dictionary 1460 (2d ed. 1934)
+(deﬁning “loss” as an “[a]ct or fact of losing . . . esp[ecially],
+unintentional parting with something of value”). For good
+reason: As the Fifth Circuit observed below, “no one inten-
+tionally loses something.” 96 F. 4th 799, 802 (2024). People
+lose their keys when they misplace them, not when they give
+them to their children. People lose their mail when it gets
+stuck behind a drawer, not when they intentionally throw it
+away. If someone said that they “lost” their car, no one
+would think it was stolen, only that the person forgot where
+they had parked it. The same is true when the Postal Serv-
+ice loses someone’s mail. The reason is an error, not deliber-
+ate wrongdoing.
+To reach its contrary result, the majority deﬁnes “loss”
+as any “deprivation of mail,” which it concludes captures all
+situations where the individual does not receive mail, no mat-
+ter the cause.Ante,at 401. To do so, however, the majority
+must shift away from a focus on harms that befall the mail
+to harms that befall Konan. The majority says that the
+postal exception encompasses three “kinds of harms,
+not kinds of actions by the postal workers.”Ante,at 403.
+The majority deﬁnes the ﬁrst two terms, “miscarriage” and
+“negligent transmission,” to encompass “harms” to the mail.
+Yet, under the majority’s interpretation, “loss” is an entirely
+distinct kind of “harm.” That is because the mail does not
+“suffer a deprivation” in the same way that mail fails to ar-
+rive (miscarriage) or mail is damaged due to negligence (neg-
+ligent transmission). The only way “loss” could mean a
+“deprivation” is if it were a harm experienced by Konan, not
+by the mail. No such inconsistency, however, arises if (as
+explained above) all three terms are read to refer to the
+Government’s misconduct: the Postal Service’s loss, miscar-
+riage, or negligent transmission of mail. Seesupra, at 409–
+410. When used in this sense, “loss” plainly and sensibly
+
+413Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+denotes unintentional conduct, consistent with its ordinary
+meaning
+.2
+The majority also invokes the presumption of consistent
+usage. It points to the use of “loss” in the FTCA’s sovereign
+immunity waiver as meaning “deprivation,” and argues that
+“loss” as used in the postal exception must take on the same
+meaning. Ante, at 403. The consistent-usage canon, how-
+ever, “ ‘readily yields’ to context,”Utility Air Regulatory
+Groupv.EPA, 573 U. S. 302, 320 (2014), and here, comparing
+the context of the FTCA’s waiver to the context of the postal
+exception shows that “loss” is being used in two different
+ways.
+The waiver uses “loss” to describe the form of damages an
+individual harmed by a federal employee can seek to recover.
+It states that plaintiffs can bring claims against the United
+States for “loss of property” “caused by the negligent or
+wrongful act or omission of any employee of the Govern-
+ment” while acting within the scope of their employment.
+§ 1346(b)(1). The plaintiff ’s “loss” could be due to “negligent
+or wrongful” conduct, as the waiver states explicitly.Ibid.
+In contrast, the postal exception uses “loss” to describe the
+form of the employee’s misconduct that is protected from lia-
+bility. If an employee lost the mail, the plaintiff suffered a
+“loss” under the waiver and the claim arose “out of the loss”
+of the mail, meaning the postal exception applies. If an em-
+ployee intentionally destroyed the mail, the waiver would
+still be implicated because the plaintiff suffered a relevant
+“loss” for purposes of the waiver. The postal exception
+2 The Government also contends that “loss” in the postal exception in-
+corporates intentional misconduct because it asks “whether the alleged
+victims ‘lost’ mail.” Brief for Petitioners 41 (emphasis deleted); Tr. of
+Oral Arg. 21 (same). That again requires the same shift in perspective:
+asking, on one hand, whether mail was “miscarr[ied]” or “negligently
+transmitted” by the Postal Service, and, on the other hand, whether Konan
+“los[t]” (and so was deprived of) her mail.
+
+414 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+would not apply, however, because the employee destroyed
+the mai
+l and did not lose it. “Loss” is thus being clearly
+used in two different ways and carries two different
+meanings.
+3
+That brings us to “miscarriage.” The majority is correct
+that “miscarriage” covers misconduct by the Postal Service
+that causes mail to “fai[l] to arrive properly,”ante,at 399,
+but the majority is wrong to extend this meaning to cover
+situations that involve intentional misconduct.
+As the majority recognizes, “miscarriage” commonly cov-
+ers negligence or inadvertence.Ante,at 400. Indeed,
+there are many examples of “miscarriage” being used when
+mail “fails to arrive” due to negligence, including as illus-
+trated by the Government’s own cases. See,e.g.,Heinrich
+v.First Nat. Bank, 219 N. Y . 1, 113 N. E. 531, 531–532 (1916);
+Elamv.St. Louis & S. F. R. Co., 117 Mo. App. 453, 93 S. W.
+851 (1906); see n. 3,infra. From here, as the majority sees
+it, mail that is intentionally not delivered, even for malicious
+reasons, also “failed to arrive properly,” so Congress must
+have intended to include intentional misconduct within the
+exception by using “miscarriage.”Ante,at 399–400. The
+majority, however, offers no persuasive evidence suggesting
+that “miscarriage” is commonly used in this way.
+To start, the majority relies on several dictionary deﬁni-
+tions.Ante,at 399. None of those deﬁnitions addresses an
+individual’smens rea. The phrase “failure to arrive,” more-
+over, does not immediately suggest intentional wrongdoing.
+“A diplomat might ‘fail to arrive’ at a treaty negotiation if
+her ﬂight were cancelled, but no one would describe her as
+‘failing to arrive’ if she deliberately skipped the talks to un-
+dermine the treaty (‘refused to attend’ would be more accu-
+rate).” Brief for Respondent 23.
+Next, the majority turns to real-life examples. Here, the
+majority does not rely on any cases cited by the Government.
+That is not a surprise, as the Government failed to identify
+
+415Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+a single example of “miscarriage” being used to describe mail
+“fail
+ing to arrive properly” due to intentional misconduct. 3
+The majority thus searches elsewhere, citing examples of its
+own: two cherry-picked newspaper references almost 20
+years apart, and at least 30 years before the enactment of
+the FTCA, that used “miscarried,” not “miscarriage.”Ante,
+at 400. If “miscarriage” were in fact ordinarily used to de-
+scribe intentional misconduct, one might expect that actual
+examples of the usage would be easier to come by.
+The majority also cites cases in which the reason behind a
+“miscarriage” was not identiﬁed, but those cases do not sup-
+port its position.Ibid. How a word is used when the cause
+is unknown hardly informs whether an ordinary speaker
+would use the same word when the cause is known. Those
+cases, moreover, simply reﬂect the general presumption that
+issues with mail are typically not a result of intentional
+misconduct by postal workers. For example, inLakev.
+Lake, 63 Wyo. 375, 182 P. 2d 824 (1947) (per curiam), the
+court explained that when a motion arrived in court “a day
+3 See Reply Brief 8–10 (citingBowenv.Wilson, 15 F. 2d 733, 734 (DC
+1926) (“miscarriage” when delivery was attempted but returned because
+the recipient could not be found);Heinrichv.First Nat. Bank, 219 N. Y .
+1, 113 N. E. 531, 531–532 (1916) (mail was “miscarried” when it was mis-
+placed behind a radiator due to “the negligence of employees of the post-
+ofﬁce”);Southern Express Co.v.Hill, 81 Ark. 1, 98 S. W. 371, 372–373
+(1906) (“miscarriage” due to the sender mistakenly writing the wrong ad-
+dress);Elamv.St. Louis & S. F. R. Co., 117 Mo. App. 453, 93 S. W. 851
+(1906) (“miscarriage” due to the “negligence” of the postal carrier);West-
+ern Home Ins. Co.v.Richardson, 40 Neb. 1, 58 N. W. 597, 598 (1894) (cause
+unknown);Fostersv.McKibben, 14 Pa. 168, 170 (1850) (describing a letter
+that “miscarrie[s] for want of publication”);People ex rel. Holdsworthv.
+Superior Ct., 18 Wend. 675, 678 (N. Y . Sup. Ct. 1837) (cause unknown)).
+See alsoMissouri, K. & T. R. Co.v.Ellis, 53 Okla. 264, 156 P. 226, 228
+(1916) (although the cause of the mail arriving late was unknown, the court
+referred to the “miscarriage of the mail” as an “accident”);Kelloggv.
+Smith, 171 Okla. 355, 42 P. 2d 493, 495 (1935) (per curiam) (similar);Hogan
+v.Bailey, 27 Okla. 15, 110 P. 890, 891 (1910) (similar);Chichesterv.Cande,
+3 Cow. 39, 48 (N. Y . Sup. Ct. 1824) (similar).
+
+416 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+too late” due to a “miscarriage of the mails,” with no further
+cause explai
+ned, that “ ‘mere accident’ ” should not be held
+against the party. Id., at 402, 182 P. 2d, at 835. Similarly,
+in Wagner v. Lucas, 79 Okla. 231, 193 P. 421 (1920), the court
+described “miscarriage of the mails” as a situation that
+“human prudence, foresight, and sagacity . . . could not pre-
+vent,” like a “mistake in the wording of a telegram.”Id., at
+232–233, 193 P., at 423. Accordingly, the use of the term
+“miscarriage” in these cases does not prove that the term
+covers intentional misconduct; in context, had the courts sus-
+pected that the late delivery, for instance, was a result of
+such misconduct, they likely would have used a different
+word.
+The contemporaneous Postal Laws and Regulations from
+before the FTCA was enacted—the “backdrop” against
+which “Congress enacted the postal exception,” Brief for
+Petitioners 35—further undermine the majority’s interpreta-
+tion. For example, those regulations directed the Division
+of Stamps to make adjustments in “cases of loss, miscarriage,
+or detention of stamped supplies in transit.” Post Ofﬁce
+Dept., Postal Law & Regs. § 12.6 (1940 ed.). This suggests
+that when the stamped supplies were intentionally held back
+and not delivered (i.e., failed to arrive), “detention” was used
+instead of “miscarriage,” even though, on the majority’s
+reading, “miscarriage” would have sufﬁced. The regula-
+tions also directed postal employees to “hold” packages
+dropped off for “forwarding” if they contained “destructive
+mail matter,” to “notify the sender” of the “detention of the
+package,” and to let them know it cannot be “transported
+by mail.” § 728. This is another use of “detention” in the
+context where, under the majority’s view, “miscarriage”
+would have been appropriate because the mail “failed to ar-
+rive” at its destination. Yet, in each, the cause of the nonde-
+livery was known, it was not inadvertence, and a different
+term was used.
+
+417Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+At most, the majority shows that certain dictionary deﬁ-
+nitions
+of “miscarriage” could conceivably capture intention-
+ally withholding mail, or tearing up a letter into pieces, or
+lighting a package on ﬁre—in all those situations, the mail
+“failed to arrive properly.” Ante, at 399. “That a deﬁnition
+is broad enough to encompass one sense of a word,” however,
+“does not establish that the word is ordinarily understood
+in that sense.” Taniguchi v. Kan Paciﬁc Saipan, Ltd., 566
+U. S. 560, 568 (2012). Here, neither the majority nor the
+Government has offered any meaningful evidence supporting
+the view that “miscarriage” was commonly used in situations
+when the mail failed to arrive properly due to intentional
+wrongdoing, and that, by including “miscarriage” within
+the postal exception, Congress intended to capture such
+wrongdoing.
+If there were any doubt, the words surrounding “miscar-
+riage” resolve it. As the Court in Dolan explained, when
+construed in context, “[a] word in a statute may or may not
+extend to the outer limits of its deﬁnitional possibilities.”
+546 U. S., at 486. For example, “ ‘[a] word is known by the
+company it keeps,’ ” and “ ‘[w]ords grouped in a list should
+be given related meaning.’ ” Id., at 486–487. Without this
+rule, courts risk “ ‘ascribing to one word a meaning so broad
+that it is inconsistent with its accompanying words, thus giv-
+ing unintended breadth to the Acts of Congress.’ ” Yates v.
+United States, 574 U. S. 528, 543 (2015) (plurality opinion).
+Here, reading “miscarriage” to capture intentional miscon-
+duct does precisely that. As noted above, the word “loss”
+typically connotes negligence, see supra, at 411–412, and the
+majority’s reading makes Congress’s speciﬁc inclusion of the
+“negligent” modiﬁer for “transmission” entirely ineffective
+at serving its purpose—excluding intentional misconduct.
+See supra, at 410–411. There also does not appear to be
+any good reason why Congress would have wanted one term
+(“miscarriage,” alone) to cover intentional misconduct and
+
+418 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+not the other two terms. Indeed, under the majority’s
+broad deﬁ
+nition of “miscarriage,” the words “loss” and “neg-
+ligent transmission” become no more than “misleading sur-
+plusage.” Yates, 574 U. S., at 546.
+B
+For all these reasons, a faithful interpretation of the postal
+exception leads to the conclusion that intentional misconduct
+is excluded from its reach. Congress used “overlapping”
+terms in the exception,ante,at 406, but Congress intended
+for that overlap to keep claims alleging negligence, not inten-
+tional wrongdoing, out of court. This reading gives mean-
+ing to Congress’s choice to put “negligent” before “transmis-
+sion” and to use the words “miscarriage” and “loss” in their
+common understanding, and it respects the “speciﬁcity” Con-
+gress used in the postal exception as compared to the
+broadly worded exceptions Congress used for other agencies.
+Kosak, 465 U. S., at 855.
+Undeterred by this evidence, the majority gives the Postal
+Service the blanket exception Congress withheld. In its
+view, the exception immunizes the agency for all intentional
+and nonintentional actions in the delivery of mail (apart from
+auto accidents and slip and falls, asDolanandKosakre-
+quire). Relying on “loss, miscarriage, or negligent trans-
+mission” is an odd way to cover this waterfront. If Con-
+gress had intended this outcome, why not follow the same
+approach that it used for other broad exceptions in the
+FTCA? Seesupra, at 408. The answer is that Congress
+intended no such thing. By expanding the “words and rea-
+son” of the postal exception beyond their “speciﬁ[c]” scope,
+Kosak, 565 U. S., at 855, the majority undermines the
+“ ‘sweeping’ ” waiver of immunity Congress adopted,Dolan,
+546 U. S., at 492.
+Contrary to the majority’s suggestion otherwise, adhering
+to the text Congress enacted would not ﬂood the Govern-
+
+419Cite as:
+607 U. S. 391 (2026)
+Sotomayor, J., dissenting
+ment or courts with frivolous lawsuits. 4 That is because the
+FTCA has additional safeguards that bar many claims prem-
+ised on intentional misconduct. Liability for the United
+States will arise only in the rare situation in which the em-
+ployee’s intentional conduct is tortious, falls within the scope
+of her employment, and falls outside of the due-care and
+discretionary-function exceptions. See 28 U. S. C. § 2680(a).
+For example, the majority cites one case of an insurance com-
+pany suing after a federal employee stole an expensive pack-
+age it had insured, seeante, at 398, but most States likely
+do not consider intentional torts like theft to fall within an
+individual’s scope of employment, see Restatement (Second)
+of Agency § 228 (1957) (torts fall outside the scope of employ-
+ment when they are “too little actuated by a purpose to
+serve” the employer); Brief for Respondent 43, n. 21 (collect-
+ing cases where theft fell outside the scope of employment).
+The United States, accordingly, would not incur liability in
+those circumstances or others involving claims of similar
+misconduct.
+In addition, there are ordinary litigation tools to prevent
+any threat of abuses, from Rule 11 of the Federal Rules of
+Civil Procedure to the plausibility standards inBell Atlantic
+Corp.v.Twombly, 550 U. S. 544 (2007),andAshcroftv.Iqbal,
+556 U. S. 662 (2009). These tools sufﬁce in many other cir-
+4 The majority points to the 335,000 complaints ﬁled with the Postal
+Service each year to suggest that those claims arise out of mail failing to
+“arriv[e] properly and on time.”Ante,at 394. This is misleading. As
+Konan explains, those complaints include “everything from ‘[r]ude or un-
+professional . . . employee behavior’ to ‘[c]omplaints about . . . vehicle
+parking.’ ” Brief for Respondent 43. Submitting a “ ‘customer com-
+plaint,’ ” moreover, requires “typing a few sentences into an online form,”
+whereas “[f]iling an FTCA claim requires ﬁrst exhausting administrative
+remedies and then ﬁling suit in court.”Ibid. The raw number of com-
+plaints therefore does not provide an accurate gauge of the consequences
+for recognizing that intentional misconduct does not fall within the
+postal exception.
+
+420 POSTAL
+SERVICE v. KONAN
+Sotomayor, J., dissenting
+cumstances where the threats of disruption posed by large
+volumes of
+litigation are also high. Other exceptions, like
+the intentional-tort exception, § 2680(h), and the due-care ex-
+ception, § 2680(a), turn on Government ofﬁcials’mens rea,
+and courts are well equipped to assess the plausibility of any
+given case based on the facts before them.
+Finally, even if ruling for Konan today would mean more
+suits against the Government for mail-related intentional
+torts tomorrow, that would not provide this Court with au-
+thority to change the text Congress enacted. Ultimately,
+this regime is the consequence of Congress’s choice to have
+the exception turn on certain types of misconduct, rather
+than providing the Postal Service with a blanket exception.
+It is not the role of the Judiciary to supplant the choice Con-
+gress made because it would have chosen differently.
+* * *
+Today, the majority concludes that the postal exception
+captures, and therefore protects, the intentional nondelivery
+of mail, even when that nondelivery was driven by malicious
+reasons. Because this interpretation expands the scope of
+the exception beyond what it can reasonably support, and
+undermines the FTCA’s sweeping waiver in the process, I
+respectfully dissent.

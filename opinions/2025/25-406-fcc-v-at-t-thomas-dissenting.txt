@@ -1,0 +1,215 @@
+FCC v. AT&T — No. 25-406 — October Term 2025 — decided 6/04/26 — Thomas, J., dissenting
+Citation: 608 U.S. 531
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r43_m648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas, dissenting.
+The Federal Communications Commission believed that
+AT&T and Verizon violated federal law. Rather than pro-
+ceeding against them in federal court, the Commission per-
+formed its own adjudications. It determined that AT&T
+and Verizon were liable, and it ordered them to pay $57 mil-
+lion and $47 million, respectively. See ante, at 539. If they
+did not pay, the Commission could sue them in a forum where
+they would have been denied a constitutionally required jury
+trial de novo. AT&T and Verizon believed that the Commis-
+sion lacked the authority to force them to pay penalties with-
+out a trial de novo in an Article III court. So, like most
+regulated parties challenging Commission orders, they paid
+under protest and brought suit to vindicate their position,
+set aside the orders, and get their money back.
+The Court agrees with AT&T and Verizon that they were
+entitled to a jury trial de novo before an Article III court
+before they could be forced to pay. It agrees that they did
+not in fact receive such a jury trial de novo. But, it rules in
+favor of the Commission. The Court does so because the
+Commission, after AT&T and Verizon paid it over $100 mil-
+lion, took the position that its orders were not really binding
+after all. The Commission now agrees that AT&T and Veri-
+zon would have been entitled to a jury trial de novo in an
+Article III court had they declined to pay. Because its or-
+ders were not binding until after that jury trial, the Commis-
+sion says, AT&T and Verizon in reality paid the Commission
+voluntarily. The Court accepts that account and does not
+grant the carriers any relief. Because I would give the par-
+ties an opportunity to proceed under a correct understanding
+of the law, I respectfully dissent.
+I
+A
+When the Federal Government seeks to deprive a person
+of property, it must go through an Article III court. SEC v.
+Jarkesy, 603 U. S. 109, 151 (2024) (Gorsuch, J., concurring).
+“That means the regular course of trial proceedings with
+their usual protections, not the use of ad hoc adjudication
+procedures before the same agency responsible for prosecut-
+ing the law, subject only to hands-off judicial review.” Ibid.
+(citation omitted). Thus, as this Court held in Jarkesy and
+reaffirms today, agencies can collect penalties only after ad-
+judication in court through a trial de novo. See id., at 120,
+134; ante, at 545.
+B
+The Commission determined that AT&T and Verizon vio-
+lated federal law by mishandling user location data. See
+ante, at 539. The Commission sent them “Notice[s] of Ap-
+parent Liability” with its tentative conclusions. App. to
+Pet. for Cert. in No. 25–406, p. 47a; App. to Pet. for Cert. in
+No. 25–567, p. 43a. AT&T and Verizon responded with vari-
+ous constitutional, statutory, and factual arguments.
+The Commission then issued “order[s]” commanding AT&T
+and Verizon to pay $57 million and $47 million, respectively.
+App. to Pet. for Cert. in No. 25–406, at 131a; App. to Pet. for
+Cert. in No. 25–567, at 138a–139a. The orders were struc-
+tured like judicial opinions. They explained what AT&T
+and Verizon did, what the law required, and how the law
+applied to the facts. The orders imposed liability for mone-
+tary penalties. In AT&T's case, the “Ordering Clauses”
+said:
+“IT IS ORDERED that, pursuant to section 503(b) of
+the Act, 47 U. S. C. § 503(b), and section 1.80 of the Com-
+mission's rules, 47 CFR § 1.80, AT&T, Inc., IS LIABLE
+FOR A MONETARY FORFEITURE in the amount of
+[$57,265,625] for willfully and repeatedly violating sec-
+tion 222 of the Act and section 64.2010 of the Commission's
+rules.” App. to Pet. for Cert. in No. 25–406, at 131a.
+Verizon's order contained identical language directing it to
+pay about $47 million. App. to Pet. for Cert. in No. 25–567,
+at 138a. Although the orders stated that AT&T and Verizon
+could receive a jury trial de novo , they also described pay-
+ment of the penalty as mandatory based on the Commission's
+adjudication alone: “Payment of the forfeiture shall be made
+in the manner provided for in section 1.80 of the Commis-
+sion's rules within thirty (30) calendar days after the release
+of this Forfeiture Order.” Id., at 139a; App. to Pet. for Cert.
+in No. 25–406, at 131a.
+In the orders, the Commission asserted that it could im-
+pose these penalties without involving an Article III court.
+It informed AT&T and Verizon that, contrary to what the
+Court holds today, agency monetary penalties such as these
+did not “need to be adjudicated in Article III courts with a
+right to trial by jury.” Id., at 127a. In the Commission's
+view, Congress could put claims such as these “beyond the
+ambit of the Seventh Amendment by assigning their resolu-
+tion to a forum in which jury trials are unavailable.” Id., at
+127a–128a (internal quotation marks omitted); contra, ante,
+at 544 (majority opinion). The Commission also expressly
+disagreed with the Fifth Circuit's then-recent decision in
+Jarkesy v. SEC, 34 F. 4th 446 (2022), which held such adjudi-
+cations unconstitutional. See, e. g., App. to Pet. for Cert. in
+No. 25–567, at 134a. This Court would affirm the Fifth Cir-
+cuit's decision a year later. Jarkesy, 603 U. S., at 124–125,
+140–141.
+Under protest, AT&T and Verizon both paid the amounts
+ordered, which was understood to be a precondition to their
+ability to fle petitions for review in federal court. See Peti-
+tion for Review in No. 24–60223 (CA5), ECF Doc. 1–1, p. 1,
+n. 1; Petition for Review in No. 24–1733 (CA2), ECF Doc. 1–
+1, p. 1. AT&T fled a petition for review in the Fifth Circuit,
+and Verizon fled one in the Second Circuit. At every stage
+of their cases, they preserved their position that they should
+have received an Article III adjudication before being forced
+to pay. The Fifth Circuit agreed with AT&T and set aside
+the Commission's order, and the Second Circuit agreed with
+the Commission. We granted certiorari and consolidated
+the two cases. 607 U. S. 1120–1121 (2026).
+II
+A
+The Court accepts the Government's newfound account
+that under the Act, the Commission's self-styled “orders”
+were mere nonbinding notices that the regulated parties
+were free to ignore. See ante, at 541 (“The orders at issue
+. . . did not create an obligation to pay”). The Court also
+accepts that the orders would receive no deference in the
+de novo enforcement action necessary for the Commission to
+force payment. Ante, at 542 (“[F]or the purpose of a § 504
+trial—the only means by which the Government can collect
+a penalty—it is as if the Commission never found any facts
+at all”); accord, ibid., n. 1. The Court's decision is premised
+on those important limitations, which means that the Com-
+mission's orders have no legal import except as preconditions
+for a future suit. See ante, at 543–545. I agree with the
+Court that this interpretation of the Act should govern fu-
+ture proceedings so as to bring the Commission's enforce-
+ment practices into harmony with the Constitution.
+B
+But as a court, we must resolve the cases before us. Re-
+gardless of what the Commission will do in the future, or
+what the Court believes it should have done all along, we
+granted certiorari in cases arising from two orders that the
+Commission addressed to AT&T and Verizon in 2024. At
+that time, neither the Commission nor the courts complied
+with the limits that the Court describes today.
+1
+When the Commission issued the orders, AT&T and Veri-
+zon could not expect the constitutionally required trial
+de novo that the Court envisions today. If AT&T and Veri-
+zon ignored the orders and the Government brought an en-
+forcement action, the enforcement action would not, in all
+probability, have proceeded “as if no trial whatever had been
+had” by the Commission. Ante, at 542 (internal quotation
+marks omitted). The Government can bring enforcement
+actions in any forum in which these nationwide carriers op-
+erate. See 47 U. S. C. § 504(a). And, courts across the
+country denied regulated parties the right to a trial de novo.
+See Brief for T-Mobile USA, Inc., as Amicus Curiae 8–9.
+Many did not allow challenges to the Commission's legal de-
+terminations, even on appeal, no matter how erroneous they
+were. E. g., United States v. Stevens, 691 F. 3d 620, 622
+(CA5 2012) (“[W]e agree with the district court that its juris-
+diction was limited to considering the factual basis for the
+agency action”); United States v. Neely, 595 F. Supp. 2d 662,
+669 (SC 2009) (“District court jurisdiction over an action to
+recover an unpaid forfeiture pursuant to Section 504 does
+not include the power to entertain challenges, raised in
+defense of a forfeiture recovery action, to the validity of
+an underlying FCC regulation”).* Others restricted chal-
+lenges to the penalty amount, even though that amount
+would be at issue in a constitutional trial de novo . E. g.,
+United States v. Hodson Broadcasting , 666 Fed. Appx. 624,
+627–628 (CA9 2016) (“Review of a forfeiture amount is lim-
+ited to whether it reflects a reasonable application of the
+statute”). And, when AT&T and Verizon paid their penal-
+ties, no carrier had ever received a jury trial in a § 504 en-
+forcement action. See Brief for AT&T, Inc., et al. 10.
+AT&T and Verizon therefore had no way to ensure that they
+would proceed in a court that would respect their constitu-
+tional right to an Article III trial de novo.
+*See also United States v. TravelCenters of Am., 597 F. Supp. 2d 1222,
+1227 (Ore. 2007); United States v. Rhodes, 2022 WL 17484847, *3–*4 (D
+Mont., Dec. 7, 2022); United States v. Dudley, 2020 WL 4284052, *3 (ND
+Ala., July 27, 2020); United States v. Metzger, 2008 WL 11336647, *2–*3
+(MD Fla., July 7, 2008).
+2
+I also do not share the Court's confidence that AT&T and
+Verizon should have known that these orders were nonbind-
+ing. The Commission “ORDERED that . . . [the recipient]
+IS LIABLE FOR A MONETARY FORFEITURE in the
+amount[s]” specified in each case. App. to Pet. for Cert. in
+No. 25–406, at 131a. The orders stated that “[p]ayment of
+the forfeiture shall be made . . . within thirty (30) calendar
+days after the release of this Forfeiture Order.” Ibid. In
+the orders, the Commission took the position that it could
+issue the orders not because they were nonbinding, but be-
+cause such orders could be imposed, from start to finish,
+without the involvement of “Article III courts.” Id., at
+127a. It stated that its authority to impose such penalties
+was “beyond the ambit of the Seventh Amendment.” Ibid.
+(internal quotation marks omitted). Beyond the order it-
+self, the Commission's regulations say that its orders “re-
+quir[e]” the penalty to “be paid in full” and set a date by
+which it “must be paid.” 47 CFR § 1.80(g)(4) (2024). If
+AT&T and Verizon did not pay, they arguably were subject
+to immediate statutory penalties for defying Commission for-
+feiture orders. See 47 U. S. C. § 503(b)(1)(B). The proce-
+dure for judicial review of the orders that is the basis for this
+Court's jurisdiction treated them not as requests for voluntary
+payment, but as “final orders.” 28 U. S. C. §§ 2342, 2344.
+Nor is this a case in which AT&T and Verizon waived their
+Article III rights in exchange for a lesser penalty or without
+preserving their constitutional objections. Instead, AT&T
+and Verizon did what courts ordinarily encourage: They paid
+under protest and fled suit to get their payments back.
+Today, the Court punishes AT&T and Verizon for complying
+with a government order that they in good faith believed
+was obligatory, diligently preserving their objection to that
+order, and then litigating that objection so effectively as to
+cause the Government to change its position years later.
+I respectfully dissent.

@@ -1,0 +1,220 @@
+Mullin v. Al Otro Lado — No. 25-5 — October Term 2025 — decided 6/25/26 — JACKSON, J., dissenting
+Citation: 609 U.S. 258
+Source: https://www.supremecourt.gov/opinions/25pdf/25-5_86qd.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 25–5
+MARKWAYNE MULLIN, SECRETARY OF HOMELAND
+SECURITY, ET AL., PETITIONERS v. AL OTRO LADO,
+A CALIFORNIA CORPORATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE JACKSON, dissenting.
+Today, the Court issues an advisory opinion on the law-
+fulness of metering—a policy that has not been in place for
+almost five years and that the Government has no concrete
+plans to reinstate. In its rush to greenlight this retired
+practice, the majority elides serious justiciability concerns
+and decides legal issues entire ly in the abstract.  With po-
+tential mootness problems and without a factual record es-
+tablishing how metering works in practice, the writ of cer-
+tiorari in this case should  never have been granted. I
+respectfully dissent from the Court’s unwise decision to
+plow ahead nevertheless.  I also join JUSTICE SOTOMAYOR’s
+dissenting opinion because, in my view, her understanding
+of the Government’s asylum-processing obligations under
+8 U. S. C. §§1158(a)(1) and 1225(a)(1) is correct.
+I
+The majority barely mentions the most important factual
+development that occurred below: While respondents’ suit
+was pending in the District Court, the Department of
+Homeland Security (DHS) resc inded its metering policy.
+See App. 135–139. The metering policy—which DHS first
+began implementing in 2016 and eventually formalized
+through written guidance in 2018—was the basis for
+
+respondents’ claim for declar atory relief in the District
+Court. See id., at 120–123.  Respondents asserted that, by
+implementing the metering policy, DHS had unlawfully
+withheld access to the asylum and inspection process that
+§§1158(a)(1) and 1225(a)(1) provide to all noncitizens who
+“arriv[e] in the United States.” It was to prevent future vi-
+olations of these statutory pr ovisions that respondents re-
+quested a judgment declaring the metering policy unlawful.
+Agreeing with respondents’ interpretation of §§1158(a)(1)
+and 1225(a)(1), the District Court entered summary judg-
+ment in their favor on September 2, 2021. App. to Pet. for
+Cert. 406a–407a, 422a.  But on November 1, 2021—before
+the District Court had ordered any relief—DHS rescinded
+its metering guidance.  App. 135–139.  Despite this signifi-
+cant turn of events, the District Court entered the re -
+quested declaration on August 23, 2022.  App. to Pet. for
+Cert. 253a. The District Court agreed with both parties
+that declaratory relief would still “serve a useful purpose in
+clarifying” the Government’s obligations under
+§§1158(a)(1) and 1225(a)(1).  Al Otro Lado, Inc . v. Mayor-
+kas, 619 F. Supp. 3d 1029, 1049 (SD Cal. 2022).  The Dis -
+trict Court did not address whether it remained appropriate
+to provide the Government with such clarification— i.e., it
+did not address whether a live case or controversy re -
+mained.
+II
+Article III of the Constitution empowers federal courts to
+resolve “Cases” or “Controversies” and nothing more.  The
+case-or-controversy requireme nt “limits our power as
+judges: It means that we can only resolve concrete legal dis-
+putes—those with real stakes for real people.”  Diamond
+Alternative Energy, LLC v. EPA, 606 U. S. 100, 133 (2025)
+(JACKSON, J., dissenting).  In this way, Article III “tends to
+assure that the legal questions presented to the court will
+be resolved, not in the rarified atmosphere of a debating
+
+3  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+society, but in a concrete fact ual context conducive to a re-
+alistic appreciation of the consequences of judicial action.”
+Valley Forge Christian College v. Americans United for Sep-
+aration of Church and State, Inc., 454 U. S. 464, 472 (1982).
+Article III’s limits apply throughout the entirety of a dis-
+pute, not just at its outset. Thus, a case or controversy
+“must be extant at all stages of review, not merely at the
+time the complaint is filed.” Alvarez v. Smith, 558 U. S. 87,
+92 (2009) (internal quotation marks omitted). Federal
+courts lack jurisdiction over cases that become “moot” dur-
+ing the course of litigation because “the issues presented
+are no longer live or the parties lack a legally cognizable
+interest in the outcome.” Chafin v. Chafin, 568 U. S. 165,
+172 (2013) (internal quotation marks omitted).  By insisting
+on the continued existence of a “live controversy,” our moot-
+ness rules ensure that we do not issue “advisory opinions
+on abstract propositions of law.” Hall v. Beals, 396 U. S. 45,
+48 (1969) (per curiam).
+The Court is surprisingly cavalier with respect to these
+requirements today. Now that  the metering policy is no
+longer in place, it is doubtful that a pronouncement about
+its lawfulness can “affect the rights of [the] litigants in the
+case before [us].” North Carolina v. Rice, 404 U. S. 244, 246
+(1971) (per curiam ). And in the absence of a live dispute
+“touching the legal relations of [the] parties,” ibid. (internal
+quotation marks omitted), we are left with only a hypothet-
+ical one requiring rank spec ulation over how §§1158(a)(1)
+and 1225(a)(1) might apply to a future policy.  But “a dis -
+pute solely about the meaning of a law, abstracted from any
+concrete actual or threatened harm, falls outside the scope
+of the constitutional words ‘Cases’ and ‘Controversies.’”  Al-
+varez, 558 U. S., at 93.
+To avoid this jurisdictional problem, the majority points
+to the voluntary-cessation exception to mootness.  It main-
+tains that the Court has jurisdiction because “respondents
+have not carried their burden to establish that it is
+
+‘absolutely clear’ that the Government would not ‘reimpose’
+metering if it could.”  Ante, at 8, n. 7 (quoting West Virginia
+v. EPA, 597 U. S. 697, 720 (2022)).  But we have “given
+mixed signals concerning how likely recurrence needs to be
+for this exception to mootness doctrine to apply.”  W. Baude,
+J. Goldsmith, J. Manning, J. Pfander, & A. Tyler, Hart and
+Wechsler’s The Federal Courts and the Federal System
+250–251 (8th ed. 2025). And, here, the Government has not
+expressed an intent to reinstate metering; it states only
+that “it seeks to retain the option of reviving the practice.”
+Brief for Petitioners 7 (emphasis added).
+What is more, we generally apply the voluntary-cessation
+exception in cases where the plaintiff argues that applica-
+tion of the mootness doctrine will “‘leave [t]he defendant . . .
+free to return to his old ways.’”  Friends of the Earth, Inc. v.
+Laidlaw Environmental Services (TOC), Inc., 528 U. S. 167,
+189 (2000) (quoting City of Mesquite v. Aladdin’s Castle,
+Inc., 455 U. S. 283, 289, n. 10 (1982); alterations in origi-
+nal). The exception thus allows a plaintiff to obtain a
+court’s review where there is reason to believe that the de -
+fendant’s allegedly harmful conduct will resume if the case
+is declared moot. See United States v. W. T. Grant Co., 345
+U. S. 629, 632, n. 5 (1953).  But, in the case before us now,
+it is only the defendant  (i.e., the Government) that seeks
+this Court’s review of its a llegedly harmful conduct. See
+Brief for Petitioners 3.  And the Government does not need
+an opinion from this Court as to whether its rescinded guid-
+ance violated §§1158(a)(1) and 1225(a)(1) to resume meter-
+ing in the future; it can simply issue new guidance. So on
+these facts the voluntary-cessation exception is an odd fit.*
+——————
+*If there was concern that denying certiorari would have allowed the
+Ninth Circuit’s decision to remain on the books and continue to bind the
+Government, see ante, at 8, n. 7, this Court could have vacated the judg-
+ment below. There are grounds for doing so: The District Court likely
+abused its equitable discretion by declaring unlawful a policy that was
+no longer in place, and the Ninth Ci rcuit erred by not considering this
+
+5  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+Odder still is the fact that, before the Ninth Circuit, the
+Government suggested that its rescission of the guidance
+created jurisdictional problems. See Supp. Brief for Appel-
+lants in Response to Court Order in No. 22–55988 etc.,
+p. 42, n. 5.  Before us, it asserted the opposite.  See Tr. of
+Oral Arg. 26. This shift in positions calls for consideration
+of whether the Government’s arguments are sincere and
+reasonable, rather than a ploy to obtain this Court’s review
+of a now-defunct policy.
+Ultimately, the Government’s rescission of the metering
+policy raises jurisdictional questions that this Court needs
+to resolve before reaching the merits.  See Steel Co. v. Citi-
+zens for Better Environment , 523 U. S. 83, 94–95 (1998).
+But the parties did not address mootness in their merits-
+stage briefing, and the majority fails to give this crucial
+matter the attention it warrants. To me, all this suggests
+that the better course was to refrain from exercising certio-
+rari jurisdiction in this case.
+III
+Even assuming Article III presents no obstacle to our re-
+view, there was no need to decide the issues presented in
+this case today. As is often true, “[ t]he Court had plenty of
+other options.” Diamond Alternative Energy, 606 U. S., at
+134 (J ACKSON, J., dissenting). Our docket is “discretion-
+ary,” and “no one is now subject to” metering, so “there was
+no reason to reach out to decide this case.”  West Virginia ,
+597 U. S., at 755 (K AGAN, J., dissenting). We should have
+waited for the Government to reinstate a metering policy
+before reaching the merits.  Had we done so, we would have
+a record establishing how metering works on the ground
+and how it interacts with the Government’s obligations un-
+der §§1158(a)(1) and 1225(a)(1).
+——————
+issue.  Taking this course of action would not have required this Court to
+opine on the merits of the legal issues.
+
+Our lack of any factual basis for understanding these crit-
+ical points was apparent at oral argument. There were
+multiple questions, for instance, about the rate at which im-
+migration officials can process noncitizens at ports of entry.
+That rate might indicate how far into Mexican territory  a
+noncitizen subject to metering must wait in line before he
+can present an asylum claim to an immigration officer.  See
+Tr. of Oral Arg. 70–72.  The answer, in turn, might affect
+our conclusions about when the noncitizen is deemed to
+have “arrive[d] in” the United States under §§1158(a)(1)
+and 1225(a)(1). Without such an answer, the Court inter-
+prets those provisions in a vacuum—an unreliable en-
+deavor at best.
+The absence of a current metering policy has plainly in-
+fected the Court’s ultimate analysis, too. The majority
+grounds its reasoning in metaphors about a linebacker and
+a houseguest and a piece of mail.  Ante, at 8–9. (It must do
+this, of course, because it has no actual facts to grapple
+with.) No one knows how, if at all, the reasoning drawn
+from these metaphors will map on to the realities of a future
+metering policy. All we can do now is guess.
+But the Court is not a law student puzzling through a
+difficult cold call.  When we issue opinions, we create legal
+rules with real-world impact. It is for this very reason that
+our precedents require “a concrete factual context condu-
+cive to a realistic appreciation  of the consequences of judi-
+cial action.” Valley Forge, 454 U. S., at 472.  Because we so
+obviously lack that context here, we should not have de-
+cided this case.

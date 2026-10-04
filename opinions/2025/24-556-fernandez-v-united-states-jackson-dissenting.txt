@@ -1,0 +1,742 @@
+Fernandez v. United States — No. 24-556 — October Term 2025 — decided 5/28/26 — Jackson, J., dissenting
+Citation: 608 U.S. 411
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r39_5iek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+This grant of relief was inappropriate given the absence
+of any postsentencing developments, and the Court needed
+to go no further to affirm the decision below. Unfortunately,
+bad facts often make bad law, and so they did today. Cor-
+rectly perceiving a problem with the District Court's grant
+of relief, the majority responds with a rule that goes far be-
+yond both what is needed to resolve this case and, worse,
+what the text and relevant precedents can bear. Because I
+do not agree with the majority's reasoning in support of its
+decision to affirm the decision below, I concur only in the
+judgment of the Court.
+Justice Jackson, dissenting.
+Section 3582(c)(1)(A) of Title 18 of the U. S. Code—known
+as the compassionate-release statute—authorizes district
+courts to reduce federal prison sentences under specified cir-
+cumstances. This case is about the scope of that authority.
+By its terms, the compassionate-release statute is flexible,
+permitting sentence reductions for “extraordinary and com-
+pelling reasons.” 18 U. S. C. § 3582(c)(1)(A)(i). The breadth
+of this language is no accident: It reflects Congress's intent
+to preserve some of the traditional discretion afforded to dis-
+trict courts to ensure just treatment of defendants in crimi-
+nal cases.
+Today, the Court arbitrarily restricts that discretion by
+grafting an atextual rule onto § 3582(c)(1)(A). It holds that
+a district court may not base its “extraordinary and compel-
+ling” findings on any reason that “collaterally attacks the
+validity” of the prisoner's conviction. Ante, at 415. Such
+“attacks,” the majority says, must be brought through mo-
+tions for habeas relief under 28 U. S. C. § 2255. Ibid. But
+this restriction comes of out nowhere—it finds no support in
+the statute's text or history, nor can it be justified by our
+precedents.
+relief on grounds unrelated to the question that this Court granted certio-
+rari to review, 104 F. 4th 420, 428–429 (2024).
+What, then, explains the new categorical rule that the
+Court adopts today? The answer appears to be the majori-
+ty's intuition that the District Court's grant of petitioner Joe
+Fernandez's compassionate-release motion qualifies as an
+abuse of discretion under the circumstances presented here.
+That may well be true—but not because of an implicit,
+habeas-based limitation on the reach of § 3582(c)(1)(A).
+Because the Court of Appeals erroneously relied on such
+a habeas-based rule in reversing the District Court's grant of
+compassionate release, and the majority now endorses that
+approach, I respectfully dissent. I would vacate, rather
+than affirm, the decision of the Court of Appeals.
+I
+The majority holds that the District Court erred in grant-
+ing Fernandez's compassionate-release motion because
+§ 3582(c)(1)(A) contains an implicit habeas-based limitation:
+Sentence reductions that derive from purported “[c]ollateral
+attacks on federal convictions” are not authorized. Ante, at
+419. It is not clear whether the majority believes, on the
+one hand, that conviction-related concerns can never be suf-
+ficiently “extraordinary and compelling” or, on the other,
+that even if there are “extraordinary and compelling” rea-
+sons to doubt the defendant's conviction, a sentence reduc-
+tion is nevertheless unavailable.
+What is evident is that, in devising this new rule, the ma-
+jority devotes most of its analysis to describing the contours
+of habeas relief under § 2255 and gives short shrift to the
+text and history of § 3582(c)(1)(A). Had the majority fo-
+cused instead on the statute actually before it, it would have
+seen that the compassionate-release provision operates as an
+independent stop-gap measure, designed to preserve a dis-
+trict court's discretion to reduce a criminal sentence when
+“extraordinary and compelling” circumstances warrant that
+result. And when § 3582(c)(1)(A) is thus properly under-
+stood, it is clear that the existence of habeas review has no
+bearing whatsoever on whether a defendant can seek or ob-
+tain compassionate release.
+A
+Start with the words Congress used in § 3582(c)(1)(A)—
+they provide the most obvious strike against the majority's
+newfound rule. Section 3582(c)(1)(A)'s text, while authoriz-
+ing a sentence reduction, does not refer to § 2255 or habeas
+review—in any way, shape, or form. Of course, if Congress
+had intended § 2255 to limit the availability of the
+compassionate-release remedy, it could easily have said so.
+This Court has often taken the lack of a cross-reference to
+mean that two distinct statutory provisions bear no relation
+to one another. See, e. g., Pugin v. Garland, 599 U. S. 600,
+608 (2023); Azar v. Allina Health Services, 587 U. S. 566,
+576–577 (2019).
+Not only is there no explicit basis for the majority's ha-
+beas-based rule, there is also no implicit one. Section
+3582(c)(1)(A) is a straightforward grant of discretion: It vests
+district courts with authority to reduce a prisoner's sentence
+for “extraordinary and compelling reasons.” The terms “ex-
+traordinary” and “compelling” are commonly understood to
+relate to a narrow and specific set of circumstances defined
+by degree, not type. See Rutherford v. United States, 608
+U. S. 454, 480 (2026) (Sotomayor, J., dissenting). As the
+majority acknowledges, “ `[e]xtraordinary' means `most un-
+usual,' `far from common,' and `having little or no prece-
+dent,' ” while “ `compelling' means `tending to convince or
+convert by or as if by forcefulness of evidence.' ” Ante, at
+423 (quoting Webster's Third New International Dictionary
+463, 807 (1976)). Neither definition implies the exclusion of
+any kind of consideration from a district court's sentence-
+reduction analysis. Rather, they suggest that any factor
+can be the basis for compassionate release, so long as it
+is both sufficiently unusual and sufficiently forceful. See
+Romag Fasteners, Inc. v. Fossil Group, Inc., 590 U. S. 212,
+215 (2020) (observing that this Court does not “usually read
+into statutes words that aren't there”).
+The statutory context confirms the absence of any type-
+based restriction on the sentence-modification authority
+§ 3582(c)(1)(A) conveys, much less the majority's preferred
+habeas limit. With full awareness of § 2255, Congress
+placed only two textual limitations on what constitutes an
+“extraordinary and compelling reason” to modify a defend-
+ant's sentence. First, the resulting sentence reduction must
+be “consistent” with the Sentencing Commission's policy
+statements. 18 U. S. C. § 3582(c)(1)(A). Second, “[r]ehabili-
+tation of the defendant alone shall not be considered an
+extraordinary and compelling reason” for a sentence reduc-
+tion. 28 U. S. C. § 994(t). Far from connoting an additional
+habeas-based constraint, Congress's express inclusion of
+these two restrictions on a district court's “extraordinary
+and compelling” findings “ `implies the exclusion of othe[r]' ”
+such limitations. Jennings v. Rodriguez, 583 U. S. 281, 300
+(2018) (quoting A. Scalia & B. Garner, Reading Law 107
+(2012)).
+The majority offers little by way of a text-based comeback.
+Focusing on the word “compelling,” the majority observes
+that what “is compelling in one context is not necessarily so
+in another”; for example, a 25th wedding anniversary may
+be a “compelling” reason to shorten a business trip but not
+a prison sentence. Ante, at 423. While obviously true, that
+observation tells us nothing relevant. All agree that per-
+sonal considerations (e . g., illness and family hardship) might
+warrant a sentence reduction under § 3582(c)(1)(A), see ante,
+at 423–425, yet those considerations, too, are more or less
+“compelling” under various circumstances. Moreover, as ex-
+plained in Part II–A, infra, Fernandez's claim of actual inno-
+cence, if meritorious, would be a compelling reason to reduce
+his sentence. At the time the District Court considered his
+§ 3582(c)(1)(A) motion, Fernandez had already served 11
+years in federal prison for a crime he says he did not commit.
+On the “extraordinary and compelling reasons” scale, his in-
+nocence claim is lightyears away from reducing a sentence
+to facilitate celebration of a wedding anniversary.
+B
+The text alone suffices to dispel the habeas-related limita-
+tion myth the majority adopts today. But, as is often true
+of statutes, it is not possible to fully understand the
+compassionate-release provision without appreciating its
+statutory and legislative history. See R. Katzmann, Judging
+Statutes 31 (2014) (“The task of the judge is to make sense
+of legislation in a way that is faithful to Congress's pur-
+poses”). The historical context under which § 3582(c)(1)(A)
+emerged and developed is “the water in which [the text]
+swim[s].” United States v. Hansen, 599 U. S. 762, 775 (2023).
+Notably absent from this history is any indication that Con-
+gress understood § 2255 to implicitly limit the scope of com-
+passionate release, either when it first enacted § 3582(c)(1)(A)
+in 1984 or when it amended the provision in 2018.
+1
+Before 1984, “the Federal Government employed in crimi-
+nal cases a system of indeterminate sentencing.” Mistretta
+v. United States, 488 U. S. 361, 363 (1989). Though “[s]tat-
+utes specified the penalties for crimes,” they “nearly always
+gave the sentencing judge wide discretion to decide whether
+the offender should be incarcerated and for how long” or
+“whether restraint, such as probation, should be imposed in-
+stead of imprisonment or fne.” Ibid. The result: “great
+variation among sentences imposed by different judges upon
+similarly situated offenders” and “uncertainty as to the time
+the offender would spend in prison.” Id., at 366.
+Congress set out to alleviate those problems with the Sen-
+tencing Reform Act of 1984. See 98 Stat. 1987; see also
+S. Rep. No. 98–225, p. 65 (1983) (“The shameful disparity in
+criminal sentences is a major faw in the existing criminal
+justice system, and makes it clear that the system is ripe for
+reform”). The Act's most prominent reform was the cre-
+ation of the U. S. Sentencing Commission, which Congress
+tasked with promulgating a new, determinate system of Sen-
+tencing Guidelines. See § 217(a), 98 Stat. 2017 (codified at
+28 U. S. C. § 991). Initially, the Guidelines were “binding on
+the courts.” See Mistretta, 488 U. S., at 367–368. Judges
+had some discretion to depart from an applicable Guidelines
+range, but only after “find[ing] an aggravating or mitigating
+factor present that the Commission did not adequately con-
+sider.” Id., at 367. 1
+By design, the new Guidelines-based system left little
+room for judges to exercise discretion when determining the
+applicable sentence. See S. Rep. No. 98–225, at 38 (describ-
+ing the new system as aimed at eliminating “the unfettered
+discretion the law confers” on sentencing judges). At the
+same time, Congress recognized that removing all discretion
+would result in unfairly harsh sentences for some prisoners.
+Indeed, despite the uniformity aim of the Guidelines, law-
+makers acknowledged the possibility of an “exceptional situ-
+ation where someone obviously slips through the cracks and
+gets a much longer sentence.” Hearings on Revision of the
+Federal Criminal Code before the Subcommittee on Criminal
+Justice of the House Committee on the Judiciary, 96th Cong.,
+1st Sess., pt. 3, pp. 1842–1843 (1979) (Code Revision Hear-
+ings) (statement of Rep. Lungren). Federal judges similarly
+warned of “those occasional cases which cry out for some
+sort of revision, even though the sentence on that particular
+1 Today, of course, the Guidelines are no longer binding—though district
+courts must still “consult” and “take them into account when sentencing.”
+United States v. Booker, 543 U. S. 220, 264 (2005). The Guidelines thus
+“remain a basis for almost all federal sentences.” Hughes v. United
+States, 584 U. S. 675, 688 (2018); see Peugh v. United States, 569 U. S. 530,
+543 (2013) (observing that, “[e]ven after Booker rendered the Sentencing
+Guidelines advisory,” courts overwhelmingly “imposed either within-
+Guidelines sentences or sentences that depart downward from the Guide-
+lines on the Government's motion”).
+offender has been imposed by a perfectly conscientious sen-
+tencing court . . . and based upon facts and circumstances
+which were a matter of record.” See id., at 1902–1903
+(statement of Hon. Harold R. Tyler).
+This problem was what Congress set out to address when
+it created various “ `safety valve[s]' ” on the back end of the
+sentencing process, allowing district courts to exercise their
+discretion to reduce sentences in “unusual case[s].” S. Rep.
+No. 98–225, at 121. The compassionate-release provision
+was one of them. As enacted in 1984, § 3582(c)(1)(A) permit-
+ted the Director of the Bureau of Prisons (BOP) to petition
+a sentencing court for a reduction in a prisoner's sentence.
+§ 212(a)(2), 98 Stat. 1998–1999. And it authorized a court to
+grant such a petition if, “ `after considering the factors set
+forth in section 3553(a),' ” the court found “ `that extraordi-
+nary and compelling reasons' ” justified the reduction and
+that such a reduction was “ `consistent with applicable policy
+statements issued by the Sentencing Commission.' ” Ibid.
+Significantly for present purposes, Congress was well
+aware of § 2255 in 1984. See, e. g., S. Rep. No. 98–225, at 234
+(cross-referencing § 2255 in explaining a different provision
+of the Sentencing Reform Act). But it never suggested that
+§ 3582(c)(1)(A) and § 2255 were mutually exclusive, much less
+that habeas was the sole means of obtaining postsentencing
+relief from an unjust conviction. Nor did Congress indicate
+that the availability of compassionate release hinged on the
+unavailability of habeas review. Instead, it was clear from
+the start that compassionate release was a distinct vehicle
+for addressing potential inequities with respect to a defend-
+ant's sentence: one specifically designed to allow for the fex-
+ible consideration of “extraordinary and compelling” circum-
+stances notwithstanding the restrictions that otherwise
+made the sentencing system less discretionary. Id., at 121
+(recognizing the “value” of “assur[ing] the availability of spe-
+cifc review and reduction of a term of imprisonment for
+`extraordinary and compelling reasons' ”).
+2
+But, as it turned out, the compassionate-release safety
+valve rarely opened in the decades following § 3582(c)(1)(A)'s
+enactment. Between 2006 and 2011, an average of “only 24
+inmates” were “released each year through the BOP's com-
+passionate release program.” Dept. of Justice, Office of In-
+spector General, The Federal Bureau of Prisons' Compas-
+sionate Release Program 1 (Apr. 2013). Over time, it
+became clear that BOP was drastically underutilizing its
+compassionate-release power, “resulting in inmates who may
+[have been] eligible candidates for release not being consid-
+ered.” Id., at 11.
+Of particular issue was the BOP's exceedingly narrow in-
+terpretation of the statutory phrase “extraordinary and com-
+pelling,” which its Central Office staff had interpreted as
+referring only to “terminally ill medical conditions with a life
+expectancy of 1 year or less or those who are incapacitated
+and unable to perform their daily activities—criteria that
+[were] found nowhere in the relevant statute.” Id., at 13.
+And though BOP regulations technically “permit[ted] non-
+medical circumstances to be considered as a basis for
+compassionate release,” the agency “routinely reject[ed]
+such requests.” Id., at ii.
+Congress took notice. In 2017, a bipartisan group of Sena-
+tors wrote to the Department of Justice and expressed
+“dee[p] concer[n] that BOP [was] not fulflling its role in the
+compassionate release process.” Letter from 12 U. S. Sena-
+tors to J. Rod Rosenstein, Deputy Attorney General, & Dr.
+T. Kane, Acting BOP Director 3 (Aug. 3, 2017) (Letter from
+12 U. S. Senators). Several of those Senators worked to-
+gether later that year to introduce a “bipartisan sentencing
+and prison reform bill” known as the First Step Act, which
+passed the following year. 164 Cong. Rec. S7645 (Dec. 17,
+2018) (statement of Sen. Durbin); see 132 Stat. 5194. In
+a section entitled “Increasing the Use and Transparency
+of Compassionate Release,” the Act amended the
+compassionate-release provision to allow prisoners to fle
+their own motions for sentence reductions, without approval
+from the BOP. § 603(b), 132 Stat. 5239.
+This historical account can be summarized succinctly.
+Congress crafted § 3582(c)(1)(A) to operate as a safety valve
+that would ameliorate the harshness of the new determinate
+scheme for sentencing. S. Rep. No. 98–225, at 121. It was
+not linked to, or limited by, the existence of habeas review
+in any respect. And that made perfect sense given the spe-
+cifc role Congress envisioned for compassionate release:
+allowing a discretionary sentence modification for a prisoner
+who presents “extraordinary and compelling” grounds for
+mercy.
+II
+A
+The majority nevertheless insists on categorically exclud-
+ing one potential ground for compassionate release—any con-
+sideration that supposedly “attacks the validity of [a] convic-
+tion” or sentence. Ante, at 415. One glaring faw with this
+analysis is the majority's failure to clearly establish when
+this forbidden circumstance arises; that is, what, exactly,
+does it mean for a prisoner to collaterally attack his convic-
+tion in the context of a compassionate-release motion? It is
+not hard to see how one man's collateral attack is another
+man's compelling bid for compassion.
+Consider, for example, an actually innocent defendant—
+let's call him Paul. Paul is serving a life sentence and, for
+reasons beyond his control, failed to discover indisputably
+exonerating evidence during his trial. But Paul cannot
+point to any way in which his conviction or sentence violates
+the Constitution or some other provision of the U. S. Code.
+He does not allege, for instance, that his counsel was ineffec-
+tive or that the prosecution withheld exculpatory evidence.
+Habeas thus provides no avenue for relief. See 28 U. S. C.
+§ 2255(a) (authorizing relief for a defendant whose “sentence
+was imposed in violation of the Constitution or laws of the
+United States”).
+An innocent man stuck in prison for life: Can there be a
+more “extraordinary and compelling” reason to shorten a
+prison sentence than that? And is there any logical reason
+to believe that Congress meant to prohibit Paul from peti-
+tioning the court for such relief under § 3582(c)(1)(A)? Quite
+to the contrary, this manifest injustice would seem to be the
+quintessential situation in which the compassionate-release
+safety valve would apply. See Code Revision Hearings, at
+1842–1843 (statement of Rep. Lungren) (expressing concern
+about federal prisoners “slip[ping] through the cracks”).
+But the majority's rule would forbid it, simply and solely
+because § 2255 exists.
+Of course, this is not to say that every assertion of inno-
+cence will necessarily qualify as an “extraordinary” or “com-
+pelling” basis for a sentence reduction. For instance, a
+claim of innocence that simply rehashes the evidence pre-
+sented at trial is unlikely to suffice. The concern that Fer-
+nandez is making such an unjustified innocence claim seems
+to be what drives much of the majority's analysis today. See
+ante, at 429–430 (“No court—not even the District Court
+that reduced his sentence—concluded that Fernandez was
+actually innocent. His evidentiary challenges were repeat-
+edly rejected”); see also ante, at 432 (Sotomayor, J., concur-
+ring in judgment) (“Petitioner Joe Fernandez has been liti-
+gating the issues at the core of his § 3582(c)(1)(A) motion
+since his trial”). But the Court overcorrects for this con-
+cern and, in the process, adopts an atextual rule that cate-
+gorically forbids any consideration of potential innocence
+whatsoever—no matter how extraordinary or compelling—
+either on its own or as part of a mix of other considerations.
+That result certainly does not follow from the text.
+Nor would allowing consideration of potential innocence
+permit federal prisoners to circumvent § 2255's limitations on
+habeas relief, as the majority claims. See ante, at 420–423.
+That is because the habeas and compassionate-release provi-
+sions operate differently. To be sure, both statutes author-
+ize the release of federal prisoners. But, where the statu-
+tory prerequisites are met, relief under § 3582(c)(1)(A) is
+discretionary, whereas relief under § 2255 is mandatory: The
+former provides that “the court . . . may reduce the term of
+imprisonment,” while the latter states that “the court shall
+vacate and set the judgment aside.” (Emphasis added.)
+Section 3582(c)(1)(A) thus provides no guaranteed end-run
+around § 2255's limitations on relief.
+Section 3582(c)(1)(A) and § 2255 also differ in the nature
+of the relief that they provide. Most notably, the grant of
+compassionate release—even on actual-innocence grounds—
+does nothing to invalidate the underlying conviction. A
+neighboring subsection explicitly clarifies that compassion-
+ate release does not disturb the finality of the “judgment of
+conviction.” § 3582(b). Not so with habeas—when a § 2255
+applicant successfully challenges the validity of his convic-
+tion, the result is vacatur. See § 2255(b) (“If the court finds
+. . . that there has been such a denial or infringement of the
+constitutional rights of the prisoner as to render the judg-
+ment vulnerable to collateral attack, the court shall vacate
+and set the judgment aside” (emphasis added)).
+Put differently, habeas nullifes a conviction as a matter of
+law, while compassionate release shortens a sentence as a
+matter of grace. The majority does not adequately explain
+why these two forms of relief—which operate differently,
+exist for different reasons, and ultimately yield different re-
+sults—must necessarily work to the exclusion of each other.
+B
+Despite these crucial observations, the majority forges
+ahead, insisting on grafting a habeas-based restriction onto
+the compassionate-release remedy. It gets there in two
+ways: first, by overstating the significance of the BOP's role
+in order to bolster the conclusion that “personal circum-
+stances” are the only cognizable factors under § 3582(c)(1)(A);
+and, second, by overreading two of our prior habeas-
+channeling cases—Preiser v. Rodriguez, 411 U. S. 475 (1973),
+and Gonzalez v. Crosby, 545 U. S. 524 (2005). Neither move
+is availing.
+1
+Highlighting the BOP's role in compassionate release and
+the fact that prison officials can observe things like “ad-
+vanced age,” “safety risk,” and “illness,” the majority con-
+tends that Congress's centering of the BOP “reflects the
+statute's focus on a defendant's personal circumstances.”
+Ante, at 425. But the majority cannot deny that Congress
+amended § 3582(c)(1)(A) due to its concern that the BOP was
+mismanaging compassionate-release motions. See supra, at
+440–441. The majority's reliance on the BOP's “institutional
+expertise,” ante, at 425, to interpret a statutory amendment
+aimed at reducing the BOP's involvement is, at best,
+counterintuitive.
+Recall that Congress amended the compassionate-release
+provision as part of the First Step Act—legislation that was
+broadly aimed at providing district courts with discretion to
+alleviate what many had come to believe were unduly harsh
+criminal sentences. See Concepcion v. United States, 597
+U. S. 481, 486 (2022). Pointing back to the original, pre-
+First Step Act scope of § 3582(c)(1)(A) does not account for
+Congress's subsequent conclusion that BOP was applying the
+compassionate-release provision too narrowly. And when it
+invited district courts to consider § 3582(c)(1)(A) motions
+fled directly by defendants, Congress did not say, or even
+suggest, that a sentence reduction under this provision is
+only available based on the kinds of factors BOP might raise.
+Fernandez's concession that the First Step Act “did not
+change the substantive standard applicable to” § 3582(c)
+(1)(A), ante, at 425 (citing Tr. of Oral Arg. 9–12), is not to
+the contrary. That observation merely states the obvious:
+that the meaning of “extraordinary and compelling reasons”
+has always been expansive, leading Congress to conclude
+that the BOP had been misinterpreting “extraordinary and
+compelling” all along. See Letter from 12 U. S. Senators 3
+(expressing “dee[p] concer[n]” about the BOP's underutiliza-
+tion of compassionate release); § 603(b), 132 Stat. 5239 (titling
+the First Step Act's amendment to § 3582(c)(1)(A) “Increas-
+ing the Use and Transparency of Compassionate Release”).
+Fernandez seeks to redeem the statute's meaning, not to
+change it.
+The majority also tells only half the story when it declares
+that, “[f]or decades, the Sentencing Commission has tied the
+availability of compassionate release to a defendant's per-
+sonal circumstances.” Ante, at 426. To be sure, the agency
+has always identified certain personal characteristics (such
+as “ `a serious physical or medical condition' ”). But it has
+also included a catchall category for any circumstances de-
+termined to be “ `extraordinary and compelling.' ” United
+States Sentencing Commission, Guidelines Manual Supp. to
+App. C, Amdt. 683 (Nov. 2008) (USSG) (effective Nov. 2006);
+id., Amdt. 698 (effective Nov. 2007); id., Amdt. 799
+(Nov. 2016); see USSG § 1B1.13(b)(5) (Nov. 2025) (provid-
+ing that “any other circumstance or combination of cir-
+cumstances that . . . are similar in gravity” to the specifi-
+cally enumerated ones may constitute “extraordinary and
+compelling” reasons for a sentence reduction (emphasis
+added)).
+The takeaway from all this is not, as the majority sug-
+gests, that compassionate release has always been under-
+stood to be limited to certain kinds of factors (i. e., personal
+circumstances). See ante, at 424–425. Rather, the statutory
+and regulatory history establishes that § 3582(c)(1)(A) pro-
+vides for flexibility and, with one exception, imposes no sub-
+stantive categorical restrictions on what may constitute a
+basis for compassionate release. See § 3582(c)(1)(A); see also
+§ 994(t) (noting that “[r]ehabilitation” is not on its own a stat-
+utorily recognized reason for compassionate release). That
+view tracks with the language of § 3582(c)(1)(A)—which
+vests district courts with broad discretion to determine
+whether “extraordinary and compelling reasons” justify a
+sentence reduction—as well as the unmistakable safety-
+valve aims of the statute.
+2
+The majority's reliance on the habeas-channeling analysis
+in Preiser and Gonzalez is equally misplaced.
+Start with Preiser. In that case, we considered a 42
+U. S. C. § 1983 claim brought by state prisoners who asserted
+the unconstitutional deprivation of “good-conduct-time cred-
+its” that would have shortened their sentences. 411 U. S.,
+at 476. The prisoners sought “injunctive relief to compel
+restoration of the credits, which in each case would result in
+their immediate release from confinement.” Ibid. We held
+that the state prisoners could not seek such an injunction
+under § 1983 and instead had to proceed under 28 U. S. C.
+§ 2254, the habeas statute for state prisoners. Id., at 490,
+500. In so holding, we explained that § 1983 is a “general”
+statute that broadly guarantees equitable and legal remedies
+for the deprivation of any federal right. Id., at 489. Its
+breadth causes it to bump up against § 2254, which is “spe-
+cifc” in that it was “explicitly and historically designed to
+provide the means for a state prisoner to attack the validity
+of his confinement” and only after the “exhaustion of ade-
+quate state remedies.” Ibid. We feared that privileging
+the general would cause it to drown the specific. We thus
+reasoned that Congress's “specific determination” that “ha-
+beas corpus is the appropriate remedy for state prisoners
+attacking the validity of the fact or length of their confne-
+ment” must “override the general terms of § 1983.” Id.,
+at 490.
+Unlike § 1983, § 3582(c)(1)(A) is not a “general” statute that
+protects all rights and provides for all sorts of civil remedies.
+Instead, it creates a specific mechanism for granting a sen-
+tence reduction in the criminal context. Preiser's reasoning
+is therefore inapposite, as it would be odd to conclude that
+Congress intended a statute specifically authorizing release
+from prison to impliedly limit another statute that authorizes
+the same. The better inference is that Congress meant for
+these two statutes to exist side by side and not to the exclu-
+sion of one another. 2
+Gonzalez is equally inapposite. There, we held that pris-
+oners cannot use motions for “relief from a final judgment”
+under Federal Rule of Civil Procedure 60(b) to circumvent
+the statutory limitations on second-or-successive habeas ap-
+plications. 545 U. S., at 528. But Rule 60(b), like § 1983, is
+a general mechanism for civil relief. It allows federal courts
+to “relieve a party . . . from a final judgment” for “any . . .
+reason that justifies relief.” Fed. Rule Civ. Proc. 60(b)(6).
+It is a far cry from § 3582(c)(1)(A), which, like § 2255, specifi-
+cally authorizes release from prison. Just like Preiser, then,
+Gonzalez's interpretation of a general civil provision has
+nothing to say about § 3582(c)(1)(A)'s specific relief scheme
+and whether Congress meant for it to be cancelled out by an
+implicit habeas-review bar.
+Instead of acknowledging the poor ft of Preiser and Gon-
+zalez, the majority doubles down, insisting that these cases
+stand for “an anticircumvention principle.” Ante, at 421, n. 3.
+That might well be a common thread. But the majority does
+2 Preiser also reflected basic principles that have no relevance here—
+namely, “[t]he strong considerations of comity that require giving a state
+court system that has convicted a defendant the first opportunity to cor-
+rect its own errors.” 411 U. S., at 492. Allowing the state prisoners in
+Preiser to proceed under 42 U. S. C. § 1983—which, unlike 28 U. S. C.
+§ 2254, requires no exhaustion of state remedies—would have resulted in
+“unnecessary friction between the federal and state court systems.” Id.,
+at 490. But federal (not state) prisoners bring compassionate-release mo-
+tions. And those motions are usually heard by the same federal courts
+that oversaw their convictions, imposed their sentences, and considered
+any § 2255 applications. Preiser's concern with creating friction between
+two autonomous judicial systems does not arise in the compassionate-re-
+lease context.
+not explain why the anticircumvention principle applies to
+§ 3582(c)(1)(A)—a statute that, unlike § 1983 or Rule 60(b),
+specifically authorizes the release of prisoners under given
+circumstances. For the anticircumvention principle to be
+apposite, one (specific) statutory directive must be poten-
+tially undercut by another (broader) provision. But that
+does not happen here: Both § 2255 and § 3582(c)(1)(A) estab-
+lish specific circumstances under which the release of a pris-
+oner is authorized. So the circumvention concern is not im-
+plicated on these facts.
+Put differently, the majority assumes that compassionate
+release operates as an end-run around habeas restrictions.
+But there is nothing in either statute that corroborates the
+majority's intuition that habeas restrictions take primacy
+over the “extraordinary and compelling reasons” justifying
+compassionate release.
+C
+Perhaps even more troubling than the lack of support for
+today's holding is the uncertainty this case will create mov-
+ing forward. That uncertainty results, in part, from the ma-
+jority's backwards reasoning: It starts with the premise that
+Fernandez is functionally attempting to use § 3582(c)(1)(A) to
+attack his conviction collaterally and, from there, concludes
+that § 2255 must prevent this sort of end-run around the
+strict process for habeas relief. But that reasoning rests on
+the unfounded assumption that Fernandez is essentially
+seeking to have his conviction vacated rather than his sen-
+tence shortened. Those are two completely different asks.
+And the majority's reasoning also merely assumes that they
+are incompatible.
+Worse still, on its way to announcing that “[a] prisoner
+who collaterally attacks the validity of his conviction must
+proceed through” habeas only, the majority fails to define
+with any precision what it means for a prisoner to “collater-
+ally attac[k] the validity of his conviction.” Ante, at 415.
+Its inability to do so is understandable, since delineating the
+bounds of such “collateral attacks” is notoriously difficult.
+Cf. W. Baude, J. Goldsmith, J. Manning, J. Pfander, & A.
+Tyler, Hart and Wechsler's The Federal Courts and the Fed-
+eral System 1687 (8th ed. 2025) (Hart & Wechsler) (discuss-
+ing the difficulty of determining when, under the Preiser line
+of cases, a successful § 1983 action necessarily implies “the
+invalidity of the plaintiff's conviction”). 3
+This case illustrates why the new line the majority draws
+is a fuzzy one. The District Court did not question the le-
+gality of the jury's verdict or Fernandez's conviction. See
+2022 WL 17039059, *4 (SDNY, Nov. 17, 2022). To the con-
+trary, it found that despite the lawfulness of Fernandez's con-
+viction, its lingering “concer[n]” as to his guilt was an “ex-
+traordinary and compelling” reason for a sentence reduction.
+Ibid. A prisoner who proceeds through § 2255, however,
+must show that his sentence was unlawful—specifically, that
+it was “imposed in violation of the Constitution or laws of
+the United States.” § 2255(a). That is something Fernan-
+dez cannot definitively do, given this Court's expressed
+doubts about whether “a freestanding claim of actual inno-
+cence” suffices to establish the unlawfulness of a sentence.
+McQuiggin v. Perkins, 569 U. S. 383, 392 (2013).
+So, how, exactly, does the District Court's “extraordinary
+and compelling” finding qualify as a collateral attack on Fer-
+nandez's conviction for § 2255 purposes, as the majority
+3 Seeming to acknowledge the difficulty of defining a “collateral attack”
+under Preiser, the majority shoos away this point by maintaining that
+such problems arise only when a prisoner seeks “relief other than a release
+from custody.” Ante, at 428–429, n. 6. But context matters; before
+today, this Court had not applied the Preiser line of cases to a statute that
+specifically authorizes release from custody. Now that the majority has
+extended Preiser to such a statute, hard questions are sure to follow, in-
+cluding one of the questions at the core of this case: Why should Preiser's
+logic apply to a prisoner who seeks compassionate release on a basis that
+is not cognizable in habeas? Cf. Hart & Wechsler 1689 (questioning
+whether a state prisoner who brings a constitutional claim under § 1983
+can escape Preiser and its progeny “by arguing that a victory in a § 1983
+action will not invalidate the prior conviction precisely because no court
+has jurisdiction” to entertain his claim under § 2254 (emphasis added)).
+maintains? See ante, at 427. The District Court did not
+find, for instance, that Fernandez should be released from
+prison because his sentence or conviction was unconstitu-
+tional or otherwise unlawful. Rather, the District Court
+considered whether Fernandez might actually be innocent—
+something we have never recognized as a potential ground
+for habeas relief. See McQuiggen, 569 U. S., at 392. It is
+hard to see why this consideration actually creates the end-
+run around habeas the majority fears. 4
+One could easily imagine similar difficulties arising in
+other cases. Consider, for instance, a federal prisoner who
+files a § 2255 motion arguing that his conviction and sentence
+are unconstitutional because a chronic mental illness ren-
+dered him incompetent to plead guilty or stand trial. In
+resolving the § 2255 motion, the district court might reject
+as unreliable the evidence supporting the severity of the
+prisoner's condition. See, e. g., Cohn v. United States, 2023
+WL 4670839, *13 (NDNY, July 10, 2023) (rejecting § 2255 mo-
+tion on these grounds). Under the majority's rule, would
+that prisoner be precluded from citing his mental condition
+in a subsequent § 3582(c)(1)(A) motion? Maybe. But that
+would certainly be an odd result, given the majority's sug-
+gestion that chronic illnesses are “heartland `extraordinary
+and compelling reasons' that might warrant an early release
+from prison.” Ante, at 426.
+4 In response, the majority offers only the ipse dixit that “[t]here is an
+obvious distinction between a prisoner who asserts that he should not
+have been convicted in the first place and one who asserts that his present
+circumstances warrant an exercise of compassion.” Ante, at 428–429, n. 6.
+With the right framing, this “obvious” distinction falls apart: What about
+the prisoner who seeks compassion for the present circumstance of being
+incarcerated for a crime he did not commit? In any event, Fernandez is
+not arguing (and the District Court did not conclude) that he never should
+have been convicted. See 2022 WL 17039059, *4 (SDNY, Nov. 17, 2022)
+(observing that “jury verdicts, despite being legal, also may be unjust”
+and citing this observation as “the basis of [its] finding that . . . Fernandez
+ha[d] shown extraordinary and compelling circumstances for his release”).
+Thus, the line between a proper compassionate-release
+claim and a proper habeas claim could be difficult to draw
+moving forward. The majority ignores this problem rather
+than taking it as a clue that the habeas-based limitation it
+favors is an ill ft for the distinct compassionate-release
+evaluation.
+III
+For the reasons I have given, I think the majority is wrong
+to hold, as a categorical matter, that conviction-related con-
+cerns a prisoner may raise under § 2255 can never be grounds
+for granting a motion under § 3582(c)(1)(A). In my view, all
+facts and circumstances are eligible to be considered as
+grounds for granting a compassionate-release motion.
+Other than the rehabilitation restriction, see 28 U. S. C.
+§ 994(t), the only statutory limit on the District Court's dis-
+cretion is one of degree. So, if the proffered facts and cir-
+cumstances (of whatever type) provide an “extraordinary and
+compelling reason” to reduce the prisoner's sentence (alone
+or in combination), the District Court may grant compassion-
+ate release.
+I do not take a position as to whether Fernandez's case
+meets that threshold. The District Court thought so—it
+laid out the evidentiary gaps that caused it to have serious
+doubts about whether Fernandez was involved in the under-
+lying crime at all. See 2022 WL 17039059, *4. 5 Also nota-
+5 In a nutshell, the District Court expressed concern that Patrick
+Darge—Fernandez's codefendant and the primary witness against him—
+falsely implicated Fernandez as his “back-up” shooter. See 2022 WL
+17039059, *4. The District Court emphasized that Darge fed to the Dom-
+inican Republic with his brother immediately after the shooting, while
+Fernandez remained in the United States, living with his family and accru-
+ing no criminal record. Ibid. This suggested to the District Court that
+Darge may have lied to protect his brother (perhaps the true “back-up”)
+and to secure a deal for himself. Ibid. The District Court observed sev-
+eral facts supporting this conclusion, including that Darge had lied to the
+Government about the shooting previously and that his testimony was
+inconsistent with the ballistics evidence. Ibid.
+ble, the District Court based its § 3582(c)(1)(A) ruling on both
+its “disquiet” about Fernandez's potential innocence and
+the significant disparity between Fernandez's sentence and
+his codefendants' sentences. Ibid. But due to the categori-
+cal rule the Second Circuit employed, that court did not ad-
+dress whether the District Court erred in concluding that
+§ 3582(c)(1)(A)'s “extraordinary and compelling reasons”
+threshold was satisfied on these facts. See 104 F. 4th 420,
+429–433 (2024). I would vacate the judgment below and re-
+mand for the Second Circuit to make that assessment in the
+first instance.6
+* * *
+The Court's holding in this case reflects an unfortunate
+misunderstanding of the safety-valve mechanism Congress
+created in 1984 and broadened in 2018. Congress designed
+compassionate release as a tool for preserving a modicum of
+mercy in an otherwise harsh sentencing system. And noth-
+ing about the text or history of the compassionate-release
+6 Recognizing the lack of textual support for the majority's habeas-based
+rule, two Justices would affirm the Second Circuit's ruling on a different
+ground. In their view, “[a] motion for compassionate release cannot jus-
+tify a reduced sentence if it relies solely on facts a court already considered
+in imposing the initial sentence, rather than any changed circumstances
+that developed after sentencing.” Ante, at 431 (Sotomayor , J., concur-
+ring in judgment). It is perhaps true that, in many (if not most) cases, a
+compassionate-release motion rehashing old arguments and evidence will
+not satisfy the “extraordinary and compelling” standard. But I see no
+basis in § 3582(c)(1)(A) for categorically barring relief in all cases where
+the defendant fails to identify changed circumstances. See Part I–A,
+supra (explaining that the words “extraordinary and compelling” speak to
+degree, not type).
+In any event, the Second Circuit did not rely on any such changed-
+circumstances rule in reversing the District Court's grant of compassion-
+ate release, nor did the parties address it in their briefing. As such, even
+if the changed-circumstances rule were correct, the proper course would
+be to vacate the decision below for the Second Circuit to apply the rule in
+the first instance. See Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7 (2005)
+(“[W]e are a court of review, not of first view”).
+provision suggests that Congress meant for this discretion-
+ary second-look opportunity to be cabined in the way the
+majority suggests. In other words, Congress gave prison-
+ers an equitable “out” for the extraordinary and compelling
+circumstance in which they might otherwise be stuck serving
+an unjust sentence. Ironically, then, the escape hatch the
+majority decries is actually § 3582(c)(1)(A)'s core mission.
+Deploying its own concerns about habeas end-runs, the
+majority misses all this; it now drastically limits the avail-
+ability of the compassionate-release tool Congress crafted.
+And it does so without adequately identifying any true con-
+flict with § 2255. The majority's atextual and unsupported
+limitation on a district court's sentencing discretion is an un-
+necessary rewriting of the statute Congress wrote and an
+unwarranted revision of the compassionate-release scheme
+Congress intended to establish.

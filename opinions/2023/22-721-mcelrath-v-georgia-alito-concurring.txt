@@ -1,0 +1,43 @@
+McElrath v. Georgia — No. 22-721 — October Term 2023 — decided 2/21/24 — Alito, J., concurring
+Citation: 601 U.S. 87
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r05_1qm2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+conclude otherwise would impermissibly authorize judges to
+usurp the jury right.” Id., at 252.
+* * *
+The jury's verdict of not guilty by reason of insanity on
+the malice-murder charge was an acquittal for purposes of
+the Double Jeopardy Clause. The Clause therefore bars
+retrial of McElrath on that charge. 5 The judgment of the
+Supreme Court of Georgia is reversed, and the case is re-
+manded for further proceedings not inconsistent with this
+opinion.
+It is so ordered.
+Justice Alito, concurring.
+I join the opinion of the Court but write to clarify my
+understanding of what we have held. In this case, there
+was indisputably an acquittal on the malice-murder charge.
+The jury returned a not-guilty verdict on that count, the trial
+judge entered a judgment of acquittal on that count, and
+petitioner appealed that part of the judgment. Because the
+Constitution does not permit appellate review of an acquit-
+tal, the State Supreme Court's decision must be reversed.
+As I understand it, our holding extends no further.
+As the Court recognizes, the situation here is different
+from one in which a trial judge refuses to accept inconsistent
+verdicts and thus sends the jury back to deliberate further.
+Some States follow this practice, and our decision does not
+address it. We have held that federal law does not prevent
+the acceptance of inconsistent verdicts, United States v. Pow-
+ell, 469 U. S. 57, 68–69 (1984); Dunn v. United States, 284
+U. S. 390, 393–394 (1932), but we have never held that the
+Constitution mandates that practice—which is not necessar-
+ily favorable to either the prosecution or the defense. Noth-
+5 On remand, the Georgia courts may address as a matter of state law
+the status of McElrath's vacated conviction for felony murder. See Tr. of
+Oral Arg. 64–67.
+ing that we say today should be understood to express any
+view about whether a not-guilty verdict that is inconsistent
+with a verdict on another count and is not accepted by the
+trial judge constitutes an “acquittal” for double jeopardy
+purposes.

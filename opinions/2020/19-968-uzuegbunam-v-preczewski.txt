@@ -1,0 +1,397 @@
+Uzuegbunam v. Preczewski — No. 19-968 — October Term 2020 — decided 3/08/21 — opinion of the Court — author Thomas (listing code T)
+Citation: 592 U.S. 279
+Source: https://www.supremecourt.gov/opinions/20pdf/592us2r19_8mjp.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+At all stages of litigation, a plaintiff must maintain a per-
+sonal interest in the dispute. The doctrine of standing gen-
+erally assesses whether that interest exists at the outset,
+while the doctrine of mootness considers whether it exists
+throughout the proceedings. To demonstrate standing, the
+plaintiff must not only establish an injury that is fairly trace-
+able to the challenged conduct but must also seek a remedy
+that redresses that injury. And if in the course of litigation
+a court finds that it can no longer provide a plaintiff with
+any effectual relief, the case generally is moot. This case
+Peterson; for the Jewish Coalition for Religious Liberty by Daniel
+P . Kearney, Jr.; for the Justice and Freedom Fund et al. by James L.
+Hirsen and Deborah J. Dewart; for the National Right to Work Legal
+Defense Foundation, Inc., by Frank D. Garrison, Raymond J. La-
+Jeunesse, Jr., and Bruce N. Cameron; for Public Citizen by Matthew A.
+Seligman, Allison M. Zieve, and Scott L. Nelson; for The Rutherford
+Institute by Michael J. Lockerby and John W. Whitehead; for the United
+States Conference of Catholic Bishops et al. by Michael H. McGinley,
+Lincoln Davis Wilson, Carl Esbeck, Anthony R. Picarello, Jr., Jeffrey
+Hunter Moon, and Michael F. Moses; and for Young Americans for Lib-
+erty, Inc., by Scott A. Keller.
+Briefs of amici curiae urging affirmance were fled for the District of
+Columbia et al. by Karl A. Racine, Attorney General of the District of
+Columbia, Loren L. Alikhan, Solicitor General, Caroline S. Van Zile,
+Principal Deputy Solicitor General, Carl J. Schifferle, Deputy Solicitor
+General, and Jacqueline R. Bechara, Assistant Attorney General, and by
+the Attorneys General for their respective States as follows: Ashley
+Moody of Florida, Clare E. Connors of Hawaii, Kwame Raoul of Illinois,
+Curtis T. Hill, Jr., of Indiana, Keith Ellison of Minnesota, Gurbir S.
+Grewal of New Jersey, Hector Balderas of New Mexico, Joshua H. Stein
+of North Carolina, Herbert H. Slatery III of Tennessee, Sean D. Reyes of
+Utah, and Mark R. Herring of Virginia; and for the National Conference
+of State Legislatures et al. by Patrick M. Kane, Kip D. Nelson, Christo-
+pher J. McNamara, and Lisa Soronen.
+Briefs of amici curiae were fled for the CatholicVote.org Education
+Fund by Scott W. Gaylord; for the Foundation for Moral Law by Matthew
+J. Clark and John A. Eidsmoe; and for the Pacific Legal Foundation et al.
+by Deborah J. La Fetra.
+asks whether an award of nominal damages by itself can re-
+dress a past injury. We hold that it can.
+I
+According to the complaint, Chike Uzuegbunam is an evan-
+gelical Christian who believes that an important part of
+exercising his religion includes sharing his faith. In 2016,
+Uzuegbunam decided to share his faith at Georgia Gwin-
+nett College, a public college where he was enrolled as a
+student. At an outdoor plaza on campus near the library
+where students often gather, Uzuegbunam engaged in con-
+versations with interested students and handed out reli-
+gious literature.
+A campus police officer soon informed Uzuegbunam that
+campus policy prohibited distributing written religious ma-
+terials in that area and told him to stop. Uzuegbunam com-
+plied with the officer's order. To learn more about this pol-
+icy, he then visited the college's Director of the Office of
+Student Integrity, who was directly responsible for promul-
+gating and enforcing the policy. When asked if Uzuegbu-
+nam could continue speaking about his religion if he stopped
+distributing materials, the official said no. The official ex-
+plained that Uzuegbunam could speak about his religion or
+distribute materials only in two designated “free speech ex-
+pression areas,” which together make up just 0.0015 percent
+of campus. And he could do so only after securing the nec-
+essary permit. Uzuegbunam then applied for and received
+a permit to use the free speech zone.
+Twenty minutes after Uzuegbunam began speaking on the
+day allowed by his permit, another campus police officer
+again told him to stop, this time saying that people had com-
+plained about his speech. Campus policy prohibited using
+the free speech zone to say anything that “disturbs the peace
+and/or comfort of person(s).” App. to Pet. for Cert. 151(a).
+The officer told Uzuegbunam that his speech violated this
+policy because it had led to complaints. The officer threat-
+ened Uzuegbunam with disciplinary action if he continued.
+Uzuegbunam again complied with the order to stop speaking.
+Another student who shares Uzuegbunam's faith, Joseph
+Bradford, decided not to speak about religion because of
+these events.
+Both students sued a number of college officials in charge
+of enforcing the college's speech policies, arguing that those
+policies violated the First Amendment. As relevant here,
+they sought nominal damages and injunctive relief. Re-
+spondents initially attempted to defend the policy, stating
+that Uzuegbunam's discussion of his religion “arguably rose
+to the level of `fghting words.' ” Id., at 155(a). But the col-
+lege officials quickly abandoned that strategy and instead de-
+cided to get rid of the challenged policies. They then moved
+to dismiss, arguing that the suit was moot, because of the
+policy change. The students agreed that injunctive relief
+was no longer available, but they disagreed that the case
+was moot. They contended that their case was still live be-
+cause they had also sought nominal damages. The District
+Court dismissed the case, holding that the students' claim
+for nominal damages was insufficient by itself to establish
+standing.
+The Eleventh Circuit affirmed. 781 Fed. Appx. 824
+(2019). It stated that a request for nominal damages can
+save a case from mootness in certain circumstances, such as
+where a person pleads but fails to prove an amount of com-
+pensatory damages. But, because the students did not re-
+quest compensatory damages, their plea for nominal dam-
+ages could not by itself establish standing.
+We granted certiorari to consider whether a plaintiff who
+sues over a completed injury and establishes the first two
+elements of standing (injury and traceability) can establish
+the third by requesting only nominal damages. 591 U. S.
+––– (2020). We now reverse.
+II
+To satisfy the “ `irreducible constitutional minimum' ” of
+Article III standing, a plaintiff must not only establish (1) an
+injury in fact (2) that is fairly traceable to the challenged
+conduct, but he must also seek (3) a remedy that is likely to
+redress that injury. Spokeo, Inc. v. Robins, 578 U. S. 330,
+338 (2016); see also Gill v. Whitford, 585 U. S. –––, ––– – –––
+(2018). There is no dispute that Uzuegbunam has estab-
+lished the first two elements. The only question is whether
+the remedy he sought—nominal damages—can redress the
+constitutional violation that Uzuegbunam alleges occurred
+when campus officials enforced the speech policies against
+him.
+A
+In determining whether nominal damages can redress a
+past injury, we look to the forms of relief awarded at common
+law. “Article III's restriction of the judicial power to `Cases'
+and `Controversies' is properly understood to mean `cases
+and controversies of the sort traditionally amenable to, and
+resolved by, the judicial process.' ” Vermont Agency of
+Natural Resources v. United States ex rel. Stevens, 529 U. S.
+765, 774 (2000) (quoting Steel Co. v. Citizens for Better Envi-
+ronment, 523 U. S. 83, 102 (1998)); cf. Memphis Community
+School Dist. v. Stachura, 477 U. S. 299, 306 (1986) (relief for
+“§ 1983 plaintiffs . . . is ordinarily determined according to
+principles derived from the common law of torts”). The par-
+ties here agree that courts at common law routinely awarded
+nominal damages. They, instead, dispute what kinds of
+harms those damages could redress.
+Both sides agree that nominal damages historically could
+provide prospective relief. The award of nominal damages
+was one way for plaintiffs at common law to “obtain a form
+of declaratory relief in a legal system with no general declar-
+atory judgment act.” D. Laycock & R. Hasen, Modern
+American Remedies 636 (5th ed. 2019). For example, a tres-
+pass to land or water rights might raise a prospective threat
+to a property right by creating the foundation for a fu-
+ture claim of adverse possession or prescriptive easement.
+Blanchard v. Baker, 8 Me. 253, 268 (1832) (“If an unlawful
+diversion [of water] is suffered for twenty years, it ripens
+into a right, which cannot be controverted”). By obtaining
+a declaration of trespass, a property owner could “vindicate
+his right by action” and protect against those future threats.
+Ibid. Courts at common law would not declare property
+boundaries in the abstract, “but the suit for nominal damages
+allowed them to do so indirectly.” Laycock, supra, at 636.
+The parties disagree, however, about whether nominal
+damages alone could provide retrospective relief. Stressing
+the declaratory function, respondents argue that nominal
+damages by themselves redressed only continuing or threat-
+ened injury, not past injury.
+But cases at common law paint a different picture. Early
+courts required the plaintiff to prove actual monetary dam-
+ages in every case: “[I]njuria & damnum [injury and damage]
+are the two grounds for the having [of] all actions, and with-
+out these, no action lieth.” Cable v. Rogers, 3 Bulst. 311,
+312, 81 Eng. Rep. 259 (K. B. 1625). Later courts, however,
+reasoned that every legal injury necessarily causes damage,
+so they awarded nominal damages absent evidence of other
+damages (such as compensatory, statutory, or punitive dam-
+ages), and they did so where there was no apparent continu-
+ing or threatened injury for nominal damages to redress.
+See, e. g., Barker v. Green, 2 Bing. 317, 130 Eng. Rep. 327
+(C. P. 1824) (nominal damages awarded for 1-day delay in
+arrest because “if there was a breach of duty the law would
+presume some damage”); Hatch v. Lewis, 2 F. & F. 467, 479,
+485–486, 175 Eng. Rep. 1145, 1150, 1153 (N. P. 1861) (ineffec-
+tive assistance by criminal defense attorney that does not
+prejudice the client); Dods v. Evans, 15 C. B. N. S. 621, 624,
+627, 143 Eng. Rep. 929, 930–931 (C. P. 1864) (breach of con-
+tract); Marzetti v. Williams, 1 B. & Ad. 415, 417–418, 423–
+428, 109 Eng. Rep. 842, 843, 845–847 (K. B. 1830) (bank's 1-
+day delay in paying on a check); id., at 424, 109 Eng. Rep.,
+at 845 (recognizing that breach of contract could create a
+continuing injury but determining that the fact of breach of
+contract by itself justified nominal damages).
+The latter approach was followed both before and after
+ratification of the Constitution. An early case about voting
+rights effectively illustrates this common-law understanding.
+Faced with a suit pleading denial of the right to vote, the
+court rejected the plaintiff 's claim because, among other
+reasons, the plaintiff had not established actual damages.
+Ashby v. White, 2 Raym. Ld. 938, 941–943, 948, 92 Eng. Rep.
+126, 129, 130, 133 (K. B. 1703). Dissenting, Lord Holt argued
+that the common law inferred damages whenever a legal
+right was violated. Observing that the law recognized “not
+merely pecuniary” injury but also “personal injury,” Lord
+Holt stated that “every injury imports a damage” and that a
+plaintiff could always obtain damages even if he “does not
+lose a penny by reason of the [violation].” Id., at 955, 92
+Eng. Rep., at 137. Although Lord Holt was in the minority,
+the House of Lords overturned the majority decision, thus
+validating Lord Holt's position, 3 Salk. 17, 91 Eng. Rep. 665
+(K. B. 1703), and this principle “laid down . . . by Lord Holt”
+was followed “in many subsequent cases,” Embrey v. Owen,
+6 Exch. 353, 368, 155 Eng. Rep. 579, 585 (1851).
+The dissent correctly notes that English courts differed in
+some respects from courts under our system, but Lord Holt's
+position also prevailed in courts on this side of the Atlantic.
+Applying what he called Lord Holt's “incontrovertible” rea-
+soning, Justice Story explained that a prevailing plaintiff “is
+entitled to a verdict for nominal damages” whenever “no
+other [kind of damages] be proved.” Webb v. Portland Mfg.
+Co., 29 F. Cas. 506, 508–509 (No. 17,322) (CC Me. 1838). Be-
+cause the common law recognized that “every violation im-
+ports damage,” Justice Story reasoned that “[t]he law toler-
+ates no farther inquiry than whether there has been the
+violation of a right.” Ibid. Justice Story also made clear
+that this logic applied to both retrospective and prospective
+relief. Id., at 507 (stating that nominal damages are avail-
+able “wherever there is a wrong” and that, “[a] fortiori, this
+doctrine applies where there is not only a violation of a right
+of the plaintiff, but the act of the defendant, if continued,
+may become the foundation, by lapse of time, of an adverse
+right”).
+The dissent discounts Justice Story's statement, saying
+that he took a potentially contradictory position elsewhere
+and asserted that both actual damages and a violation of a
+legal right are required. Post, at 300 (opinion of Roberts,
+C. J.). But in the same source the dissent cites, Justice
+Story said that nominal damages are “presumed” “[w]here
+the breach of duty is clear.” Commentaries on the Law of
+Agency § 217, p. 211 (1839). Justice Story adopted the same
+position a few years later. Whipple v. Cumberland Mfg. Co.,
+29 F. Cas. 934, 936 (No. 17,516) (CC Me. 1843) (stating that
+it is “well-known and well-settled” that “wherever a wrong
+is done to a right,” at minimum “nominal damages will be
+given”). And other jurists declared that “[t]he principle
+that every injury legally imports damage, was decisively set-
+tled, in the case of Ashby.” Parker v. Griswold, 17 Conn.
+*288, *304–*306 (1845) (citing many cases on both sides of
+the Atlantic, including Webb and Marzetti). This history is
+hardly one of “indeterminate sources.” Post, at 301.
+Admittedly, the rule allowing nominal damages for a viola-
+tion of any legal right, though “decisively settled,” Parker,
+17 Conn., at *304, was not universally followed—as is true
+for most common-law doctrines. And some courts only fol-
+lowed the rule in part, recognizing the availability of nominal
+damages but holding that the improper denial of nominal
+damages could be harmless error. Yet, even among these
+courts, many adopted the rule in full whenever a person
+proved that there was a violation of an “important right.”
+E. g., Hecht v. Harrison, 5 Wyo. 279, 290, 40 P. 306, 309–310
+(1895); accord, Reid v. Johnson, 132 Ind. 416, 419, 31 N. E.
+1107, 1108 (1892) (“substantial right”). Nonetheless, the
+prevailing rule, “well established” at common law, was “that
+a party whose rights are invaded can always recover nominal
+damages without furnishing any evidence of actual damage.”
+1 T. Sedgwick, Measure of Damages 71, n. a (7th ed. 1880);
+see also id., at 72 (citing Lord Holt's opinion in Ashby).
+That this rule developed at common law is unsurprising in
+the light of the noneconomic rights that individuals had at
+that time. A contrary rule would have meant, in many
+cases, that there was no remedy at all for those rights, such
+as due process or voting rights, that were not readily reduc-
+ible to monetary valuation. See D. Dobbs & C. Roberts,
+Law of Remedies § 3.3(2) (3d ed. 2018) (nominal damages are
+often awarded for a right “not economic in character and for
+which no substantial non-pecuniary award is available”); see
+also Carey v. Piphus, 435 U. S. 247, 266–267 (1978) (awarding
+nominal damages for a violation of procedural due process).
+By permitting plaintiffs to pursue nominal damages when-
+ever they suffered a personal legal injury, the common law
+avoided the oddity of privileging small-dollar economic
+rights over important, but not easily quantifable, nonpecuni-
+ary rights.
+B
+Respondents and the dissent attempt to discount this his-
+torical line of cases by contending that something other than
+nominal damages provided redressability. They argue in-
+stead that courts could award nominal damages only when a
+plaintiff pleaded compensatory damages but failed to prove
+a specific amount. In those circumstances, they say, the plea
+for compensatory damages is what satisfied the redressabil-
+ity requirement, and courts awarded nominal damages
+merely as a technical matter. We do not agree.
+To begin with, the cases themselves did not require a
+plea for compensatory damages as a condition for receiving
+nominal damages. Lord Holt spoke in categorical terms:
+“[E]very injury imports a damage,” so a plaintiff who proved
+a legal violation could always obtain some form of damages
+because he “must of necessity have a means to vindicate and
+maintain [the right].” Ashby, 2 Raym. Ld., at 953–955, 92
+Eng. Rep., at 136–137. Justice Story's language was no
+less definitive: “The law tolerates no farther inquiry than
+whether there has been the violation of a right.” Webb, 29
+F. Cas., at 508. When a right is violated, that violation “im-
+ports damage in the nature of it” and “the party injured is
+entitled to a verdict for nominal damages.” Id., at 507.
+Respondents and the dissent thus get the relationship be-
+tween nominal damages and compensatory damages back-
+wards. Nominal damages are not a consolation prize for the
+plaintiff who pleads, but fails to prove, compensatory dam-
+ages. They are instead the damages awarded by default
+until the plaintiff establishes entitlement to some other form
+of damages, such as compensatory or statutory damages.
+See, e. g., Dods, 15 C. B. N. S., at 621, 627, 143 Eng. Rep., at
+929, 931 (prevailing plaintiff entitled to nominal damages as
+a matter of law even where jury neglected to find them); see
+also Stachura, 477 U. S., at 308 (rejecting the argument that
+courts could presume, without proof, damages greater than
+nominal).
+The argument that a claim for compensatory damages is a
+prerequisite for an award of nominal damages also rests on
+the flawed premise that nominal damages are purely sym-
+bolic, a mere judicial token that provides no actual benefit to
+the plaintiff. That contention is not without some support.
+See, e. g., Stanton v. New York & Eastern R. Co., 59 Conn.
+272, 282, 22 A. 300, 303 (1890) (“Nominal damages mean no
+damages at all. They exist only in name and not in
+amount”); but cf. ibid. (still recognizing that nominal dam-
+ages are appropriate when a right is violated). But this
+view is against the weight of the history discussed above,
+and we have already expressly rejected it. Despite being
+small, nominal damages are certainly concrete. The dissent
+says that “an award of nominal damages does not change [a
+plaintiff's] status or condition at all.” Post, at 296. But we
+have already held that a person who is awarded nominal
+damages receives “relief on the merits of his claim” and “may
+demand payment for nominal damages no less than he may
+demand payment for millions of dollars in compensatory
+damages.” Farrar v. Hobby, 506 U. S. 103, 111, 113 (1992).
+Because nominal damages are in fact damages paid to the
+plaintiff, they “affec[t] the behavior of the defendant towards
+the plaintiff ” and thus independently provide redress.
+Hewitt v. Helms, 482 U. S. 755, 761 (1987) (emphasis deleted);
+accord, Mission Product Holdings, Inc. v. Tempnology, LLC,
+587 U. S. –––, ––– (2019) (“If there is any chance of money
+changing hands, [the] suit remains live”). True, a single dol-
+lar often cannot provide full redress, but the ability “to effec-
+tuate a partial remedy” satisfies the redressability require-
+ment. Church of Scientology of Cal. v. United States, 506
+U. S. 9, 13 (1992).
+The next difficulty faced by respondents and the dissent
+is their inability to square their argument with established
+principles of standing. Because redressability is an “ `irre-
+ducible' ” component of standing, Spokeo, 578 U. S., at 338, no
+federal court has jurisdiction to enter a judgment unless it
+provides a remedy that can redress the plaintiff 's injury.
+Yet early courts routinely awarded nominal damages alone.
+Certainly, no one seems to think that those judgments were
+without legal effect. Those nominal damages necessarily
+must have provided redress. Respondents contend that a
+request for compensatory damages at the pleading stage was
+what provided the basis for nominal damages at the judg-
+ment stage. But a plaintiff must maintain a personal inter-
+est in the dispute at every stage of litigation, including when
+judgment is entered, Lujan v. Defenders of Wildlife , 504
+U. S. 555, 561 (1992), and must do so “separately for each
+form of relief sought,” Friends of the Earth, Inc. v. Laidlaw
+Environmental Services (TOC), Inc., 528 U. S. 167, 185
+(2000). As soon as a plea for compensatory damages fails at
+the factfinding stage of litigation, that plea can no longer
+support jurisdiction for a favorable judgment. The dissent's
+contrary assertion is unaccompanied by any citation.
+Likewise, any analogy to attorney's fees and costs fails.
+A request for attorney's fees or costs cannot establish stand-
+ing because those awards are merely a “byproduct” of a suit
+that already succeeded, not a form of redressability. Steel
+Co., 523 U. S., at 107; see also Lewis v. Continental Bank
+Corp., 494 U. S. 472, 480 (1990). In contrast, nominal dam-
+ages are redress, not a byproduct.
+III
+Because nominal damages were available at common law
+in analogous circumstances, we conclude that a request for
+nominal damages satisfies the redressability element of
+standing where a plaintiff 's claim is based on a completed
+violation of a legal right.
+The dissent worries that after today the Judiciary will be
+required to weigh in on legal questions “whenever a plaintiff
+asks for a dollar.” Post, at 302. But petitioners still would
+have satisfied redressability if instead of one dollar in nomi-
+nal damages they sought one dollar in compensation for a
+wasted bus fare to travel to the free speech zone. The dis-
+sent “would place a higher value on Article III” than a dollar.
+Post, at 294; but see Sprint Communications Co. v. APCC
+Services, Inc., 554 U. S. 269, 305 (2008) (Roberts, C. J., dis-
+senting) (“Article III is worth a dollar”). But Congress
+abolished the statutory amount-in-controversy requirement
+for federal-question jurisdiction in 1980. Federal Question
+Jurisdictional Amendments Act, 94 Stat. 2369. And we
+have never held that one applies as a matter of constitu-
+tional law.
+This is not to say that a request for nominal damages guar-
+antees entry to court. Our holding concerns only redress-

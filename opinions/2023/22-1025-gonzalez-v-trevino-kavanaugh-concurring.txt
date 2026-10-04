@@ -1,0 +1,74 @@
+Gonzalez v. Trevino — No. 22-1025 — October Term 2023 — decided 6/20/24 — Kavanaugh, J., concurring
+Citation: 602 U.S. 653
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r42_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the law. Would that arrest be considered a split-second de-
+cision under Gonzalez's view? Or suppose that an arresting
+officer takes several minutes to confer with another officer on
+the scene. Would the no-probable-cause requirement apply?
+What if an officer takes time to ensure that everyone at a
+crime scene is safe before completing an arrest? These hy-
+potheticals illustrate the vast practical difficulties with Gon-
+zalez's theory, and there is no principled basis for drawing
+such fnely grained lines in any event.
+A “split-second” rule would also create a perverse incen-
+tive for police officers to make quick arrest decisions rather
+than proceeding in a deliberative manner. Gonzalez's test
+punishes the city officials for seeking a warrant from a neu-
+tral magistrate before arresting her. Under her approach,
+the defendants would have been better off if they had ar-
+rested her immediately. I see no good reason to switch out
+Nieves for a novel doctrinal dichotomy that generates such
+counterintuitive results.
+In sum, Nieves applies to all retaliatory-arrest claims
+brought under § 1983. And that decision means what it
+says. “[P]robable cause should generally defeat a retalia-
+tory arrest claim,” and a plaintiff bringing such a claim
+“must plead and prove the absence of probable cause for the
+arrest” unless he can ft within its narrow exception. 587
+U. S., at 402, 406. Nothing in the Court's decision today
+should be understood as casting doubt on this holding.
+III
+With these observations, I join the Court's opinion.
+Justice Kavanaugh, concurring.
+Sylvia Gonzalez was arrested for intentionally stealing a
+government record. See Tex. Penal Code Ann. § 37.10(a)(3)
+(West Cum. Supp. 2023). Gonzalez sued city officials under
+42 U. S. C. § 1983, alleging that she was arrested in retalia-
+tion for First Amendment-protected activity.
+But Gonzalez conceded that city officials had probable
+cause to arrest her for intentionally removing the govern-
+ment record. (A video shows Gonzalez putting the govern-
+ment record into her binder at a city council meeting. See
+ante, at 659–662 (Alito, J., concurring).) An arrestee ordi-
+narily cannot sue a public official under § 1983 for retaliatory
+arrest if the official had probable cause to make the arrest.
+See Nieves v. Bartlett, 587 U. S. 391, 404 (2019). To somehow
+maintain her § 1983 suit, Gonzalez invoked what is known
+as the Nieves exception. That exception applies when an
+individual is arrested for minor criminal conduct where off-
+cers “typically exercise their discretion not” to arrest. Id.,
+at 406. The prime example is jaywalking. Id., at 407.
+To come within the Nieves exception, Gonzalez was re-
+quired to present “objective evidence” that she was arrested
+when “similarly situated individuals” who engaged in the
+same conduct would not have been arrested. Ibid. Of
+course, Gonzalez could not plausibly claim that people in
+Texas who steal things (or more precisely here, who steal
+government records) do not get arrested. Instead, she says
+that she took the government record accidentally, not inten-
+tionally, and that people who accidentally remove govern-
+ment documents are not arrested.
+Properly understood, that is not a Nieves-exception claim
+at all. The Nieves exception is a conduct-based comparison.
+Only if the conduct does not usually trigger an arrest under
+any statute can you have a Nieves-exception claim—like jay-
+walking. Gonzalez's argument turns not on her conduct
+(taking government records) but rather on her mens rea.
+She essentially argues that an objectively reasonable officer
+would have known that Gonzalez accidentally rather than in-
+tentionally took the government record.
+When Gonzalez conceded that the officials had probable
+cause to arrest her, however, she necessarily conceded that
+the officers had probable cause to conclude that she “in-
+tentionally” removed the document. Tex. Penal Code Ann.

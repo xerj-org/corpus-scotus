@@ -1,0 +1,147 @@
+Glossip v. Oklahoma — No. 22-7466 — October Term 2024 — decided 2/25/25 — Opinion of Barrett, J.
+Citation: 604 U.S. 226
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r13_c0n2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+deprive this Court of the authority to grant relief where it
+finds a federal violation, contra, post, at 295–296; cf. Arizona
+v. Evans, 514 U. S. 1, 8 (1995) (“Under [Michigan v. Long] state
+courts are absolutely free to interpret state constitutional
+provisions to accord greater protection to individual rights
+than do similar provisions of the United States Constitution”).
+The dissent inverts this precedent, asserting that state
+courts should always have another opportunity to identify
+additional grounds for denying relief, even where this Court
+has found a federal constitutional violation. Yet there is no
+reason to allow state courts a second (or third, or fourth) bite
+at the apple to identify alternative state grounds for their
+decision in every case involving a dependent ground. The
+facts as conceded by the attorney general and supported by
+the record establish a violation of Napue. A new trial is the
+remedy for a Napue violation. See Giglio, 405 U. S., at 155.
+Here, this Court has jurisdiction and a Napue violation oc-
+curred. Thus, Glossip is entitled to a new trial. See Ake,
+470 U. S., at 86–87 (vacating conviction and remanding case
+to the OCCA under similar circumstances).
+* * *
+The judgment of the Oklahoma Court of Criminal Appeals
+is reversed, and the case is remanded for further proceedings
+not inconsistent with this opinion.
+It is so ordered.
+Justice Gorsuch took no part in the consideration or de-
+cision of this case.
+Justice Barrett, concurring in part and dissenting in
+part.
+While I agree with much of the Court's analysis, I would
+not order the Oklahoma Court of Criminal Appeals (OCCA)
+to set aside Richard Glossip's conviction. The OCCA did
+not make factual findings on the most important questions,
+and the record is open to multiple plausible interpreta-
+tions. Consistent with our ordinary practice, the Court
+should have corrected the OCCA's misstatement of Napue v.
+Illinois and remanded this case for further proceedings.
+360 U. S. 264 (1959). Instead, the Court has drawn its own
+conclusions about what the record shows, thereby exceeding
+its role.
+I begin with the common ground. At the threshold, I
+agree with the Court's jurisdictional holding and therefore
+join Part II of its opinion. We lack jurisdiction to review a
+state court's adjudication of federal claims if the state court's
+decision “rests on a state law ground that is independent of
+the federal question and adequate to support the judgment.”
+Coleman v. Thompson, 501 U. S. 722, 729 (1991). But when
+a state-law ground of decision is intertwined with analysis
+of a federal question, we will treat the decision as independ-
+ent only if the state court “make[s] clear by a plain state-
+ment” that its resolution of the state-law question does not
+depend on its resolution of the federal question. Michigan
+v. Long, 463 U. S. 1032, 1041 (1983). Though it is a closer
+question for me than it is for the Court, I agree that the
+OCCA's opinion does not clear this bar. True, the OCCA
+rejected Glossip's application based on state-law procedural
+limits on postconviction relief. But the opinion can be read
+to say that the OCCA refused to accept the attorney gener-
+al's waiver of this procedural bar because his confession of
+error was not “based in law.” 2023 OK CR 5, ¶25, 529 P. 3d
+218, 226. If that is what the OCCA meant, then its reliance
+on state law depended on the merits of Glossip's federal
+claims. After all, if the trial contained federal constitutional
+error, then the attorney general's confession of error may
+have been “based in law.” Because the opinion lacks a
+“plain statement” clarifying that the OCCA's reliance on
+state law was truly independent of its assessment of Gloss-
+ip's federal claims, the Court rightly proceeds to the merits.
+Michigan, 463 U. S., at 1041.
+I also share the Court's view that the OCCA misapplied
+Napue. The OCCA appeared to think that Justin Sneed's
+testimony “was not clearly false” because he “was more than
+likely in denial of his mental health disorders.” 529 P. 3d,
+at 227. But for purposes of Napue, the question is not
+whether a witness subjectively thought he was lying—it is
+whether the prosecution knowingly presented untrue testi-
+mony. The OCCA also stated that Sneed's “known mental
+health treatment evidence” would not have created a “rea-
+sonable probability that the result of the proceeding would
+have been different had Sneed's testimony regarding his use
+of lithium been further developed at trial.” 529 P. 3d, at
+227. Yet the OCCA ignored the critical fact that—had the
+prosecutor, Connie Smothermon, corrected Sneed's testi-
+mony—the jury would have learned that Sneed made a false
+statement on the stand. Sneed's testimony was the primary
+evidence that the State offered to prove that Glossip planned
+the murder. Faced with a prosecutor forced to correct her
+star witness, a juror might have disbelieved Sneed's testi-
+mony in its entirety. And if a juror went from belief to dis-
+belief in Sneed, she might have changed her ultimate assess-
+ment of whether the State had proved Glossip's guilt beyond
+a reasonable doubt. So if Sneed really did give false testi-
+mony, and if Smothermon really did knowingly allow that
+testimony to go uncorrected, then Smothermon violated
+Glossip's due process rights under Napue. The OCCA's con-
+trary statements were wrong as a matter of federal law.
+I part ways with the Court on what comes next. In exer-
+cising our appellate function, it is not our role to find facts;
+instead, we review the factual findings of lower courts, sub-
+ject to a deferential standard of appellate review. See Price
+v. Johnston, 334 U. S. 266, 291 (1948). This practice makes
+good sense. This Court is well equipped to answer ques-
+tions of federal law; it is ill equipped either to determine the
+credibility of witnesses or to master voluminous trial rec-
+ords. Other actors in our judicial system—including, where
+appropriate, state courts like the OCCA—better serve these
+functions, as our standard of review reflects. In this case,
+however, the Court has chosen to function as the initial
+factfnder.
+To establish a violation of Napue, Glossip must show that
+(1) Sneed gave false testimony and (2) Smothermon knew
+that the testimony was false. To make these showings,
+Glossip relies largely on notes taken by Smothermon, an af-
+fdavit from Dr. Trombka, and a “medical information sheet.”
+According to the Court, these documents clearly demon-
+strate that (1) Sneed lied when he said that he did not know
+why he had been given lithium and that he had never seen a
+psychiatrist and (2) Smothermon knew that both of these
+statements were lies. See ante, at 246–248, 255. Thus, the
+Court concludes, there is no need for the OCCA to make its
+own factual findings.*
+*The Court suggests that this shortcut is appropriate because Glossip,
+the attorney general, the Court-appointed amicus, and the OCCA “unani-
+mously agree” that the record is sufficiently developed. Ante, at 256. I
+do not think that this assertion fairly captures the views of either the
+amicus or the OCCA. When asked whether he “object[ed] to an eviden-
+tiary hearing,” amicus—whom we appointed to defend the judgment
+below in this Court—expressed doubt that he “ha[d] standing to object to
+an evidentiary hearing.” Tr. of Oral Arg. 107–108. When pushed on the
+point, he responded that the current record supports affirmance “based on
+the evidence that [Glossip has] chosen to present and particularly given
+that he's now told you he wants the case decided on the current record
+[and] without an evidentiary hearing.” Id., at 109 (emphasis added). In
+other words, amicus simply stated that the current record did not support
+Glossip's claim—not that the record was in any objective sense already
+fully developed. Moreover, the question here is not only whether further
+factual development is warranted, but also which court should find facts
+in the first instance. Amicus certainly did not concede that this Court,
+rather than the OCCA, should play that role on this record. As for the
+OCCA, its lack of explanation of the facts cannot be divorced from its
+erroneous view of Napue. Nothing in its opinion indicates what it would
+make of this record evidence if it confronted the relevant questions
+under Napue.

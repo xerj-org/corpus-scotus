@@ -1,0 +1,579 @@
+Fernandez v. United States — No. 24-556 — October Term 2025 — decided 5/28/26 — opinion of the Court — author Barrett (listing code AB)
+Citation: 608 U.S. 411
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r39_5iek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Barrett delivered the opinion of the Court.
+A federal statute authorizes district courts to shorten
+prison sentences for “extraordinary and compelling rea-
+sons”—most commonly, conditions like the prisoner's age and
+infrmity. 18 U. S. C. § 3582(c)(1)(A). Petitioner Joe Fer-
+nandez argues that doubts about a conviction's validity also
+qualify as “extraordinary and compelling” reasons for relief
+under the statute. We disagree. A prisoner who collater-
+ally attacks the validity of his conviction must proceed
+through 28 U. S. C. § 2255, not 18 U. S. C. § 3582.
+I
+Fernandez was indicted in 2013 for his role in the assassi-
+nation of two gang members. The prosecution's theory was
+that members of a drug ring had paid Fernandez $40,000 to
+act as the backup shooter. When the primary shooter's gun
+jammed, Fernandez stepped in. He fred 14 rounds, killing
+both victims.
+Fernandez's cousin and alleged co-conspirator, Patrick
+Darge, testifed against him at trial. To discredit Darge,
+Fernandez's counsel argued that Darge was framing Fernan-
+dez to protect the real second shooter, Darge's brother. Un-
+convinced, the jury convicted Fernandez of murder for hire
+and a firearms offense. See 18 U. S. C. §§ 924(j), 1958. The
+District Court then imposed two consecutive life sentences.
+Fernandez asked the District Court to reconsider, alleging
+that the prosecution had violated Brady v. Maryland, 373
+U. S. 83 (1963). He pressed that argument several times,
+first in a motion to vacate the verdict, then in a motion for
+new trial, and again in a motion for rehearing. According
+to Fernandez, the Government should have disclosed that
+another alleged co-conspirator, Luis Rivera, had denied driv-
+ing the getaway car. To determine whether Rivera had in
+fact denied his involvement, the District Court reviewed the
+Government's notes from Rivera's interview; it concluded
+that they “d[id] not contain any relevant information.”
+United States v. Fernandez, 2014 WL 7180225, *1 (SDNY,
+Nov. 25, 2014). There was no evidence that Rivera had ever
+made such a statement, and it was not clear that it would
+have mattered to the jury if he had. Even so, the judge
+noted that he was “troubled” that prosecutors had “allow[ed]
+Rivera to plead to a lesser narcotics offense and [had] dis-
+miss[ed] the murder and gun charges against him.” Id., at
+*3. In the judge's view, the prosecutors could have used the
+evidence in Fernandez's case to show that Rivera had en-
+gaged in similar wrongdoing. Ibid.
+Fernandez appealed, and the Second Circuit affirmed his
+conviction and sentence. See United States v. Fernandez,
+648 Fed. Appx. 56 (2016). Although Fernandez argued that
+the Government had failed to turn over its notes before trial,
+those notes “d[id] not reflect Rivera's unequivocal denial of
+a getaway driver role.” Id., at 61. “[I]n any event,” the
+court said, “Fernandez fails to show how the notes could
+have been `useful' ” for impeaching any witness. Ibid.
+Fernandez also argued that insufficient evidence supported
+his conviction: He insisted that Darge's testimony was not
+credible and highlighted the Government's choice not to
+charge Rivera as a co-conspirator in the murder-for-hire plot,
+which he considered indicative of the weakness of the Gov-
+ernment's case. But the court rejected the insuffciency
+claim too. It held that a reasonable jury could credit
+Darge's testimony, that it was corroborated by other evi-
+dence in the record, and that the evidence was sufficient to
+support Fernandez's conviction.
+Fernandez persisted. He twice moved for postconviction
+relief under 28 U. S. C. § 2255. The first time, Fernandez ar-
+gued (among other things) that he was actually innocent be-
+cause the testimony against him was not credible. He said
+that “[e]ven the Government did not fully believe Patrick
+Darge,” as shown by the Government's decision not to charge
+Rivera with murder for hire. Reply Brief in No. 18–06
+(CA2), pp. 8–9, n. 2. The Second Circuit described this argu-
+ment as “plainly meritless,” concluding that “[t]he jury was
+entitled to credit the witnesses who testifed that Fernandez
+committed the crimes with which he was charged.” Fer-
+nandez v. United States, 757 Fed. Appx. 52, 55–56 (2018).
+The second collateral challenge succeeded. The District
+Court set aside Fernandez's conviction for a firearms offense
+after United States v. Davis, 588 U. S. 445 (2019), held that
+18 U. S. C. § 924(c)(3)'s residual clause is unconstitutionally
+vague. See Fernandez v. United States, 569 F. Supp. 3d 169
+(SDNY 2021).
+Still, the District Judge remained troubled about Fernan-
+dez's murder-for-hire conviction. No new evidence had sur-
+faced. But the judge continued to focus on Rivera—the get-
+away driver who had pleaded guilty to a less serious charge.
+In his order vacating the firearms conviction, the judge spec-
+ulated that the Government had offered Rivera such a le-
+nient plea deal because it “kn[ew] something” inconsistent
+with Darge's testimony. Id., at 174, n. 4. And if Darge was
+lying, the judge wondered, “perhaps there is something to
+Petitioner's argument, that not he, but Patrick Darge's
+brother . . . was the second shooter, and that Patrick Darge
+testifed to cover that up.” Ibid. Notably, the Second Cir-
+cuit had already rejected this argument twice, and Fernan-
+dez had not briefed it again before the District Court. But
+the judge brought it up anyway, pointedly noting that if Fer-
+nandez's life sentence on the murder-for-hire charge “were
+to be commuted, or held unlawful, [Fernandez] would be re-
+leased immediately.” Id., at 179.
+Fernandez took the hint. Within two weeks, he fled a
+motion for compassionate release under § 3582(c)(1)(A)(i).
+See No. 1:10–cr–00863 (SDNY), ECF Doc. 248. He argued
+that extraordinary and compelling reasons—above all, that
+he was innocent—warranted a sentencing reduction. Ac-
+cording to Fernandez, Darge's testimony was biased and un-
+corroborated by forensic evidence; moreover, his identifca-
+tion of Rivera as the getaway driver was inconsistent with
+a later statement made by Rivera himself. The Government
+had not turned over its notes on that statement, Fernandez
+asserted, and had allowed Rivera to plead guilty to a lesser
+charge.
+The District Court granted the motion. Nearly a decade
+after presiding over the trial and sentencing, the judge felt
+“a certain disquiet” about whether Darge's testimony had
+been truthful and whether the cross-examination had been
+effective. 2022 WL 17039059, *4 (SDNY, Nov. 17, 2022).
+He had “strong concerns” about the Government's decision
+to charge the getaway driver with a lesser offense and
+“doubt[ed] that the jury's verdict was correct.” Ibid.
+Darge might have “sacrifce[d]” Fernandez “to save his
+brother,” and Fernandez might not have been the shooter or
+even “a member of the conspiracy.” Ibid. That “disquiet”
+formed the “basis of [the District Court's] finding that Peti-
+tioner Joe Fernandez has shown extraordinary and compel-
+ling circumstances for his release.” Ibid.1
+The Second Circuit reversed, holding that “challenges to
+the validity of a conviction are not cognizable as `extraordi-
+nary and compelling reasons' under section 3582(c)(1)(A).”
+104 F. 4th 420, 431 (2024). Congress has channeled such
+claims into federal postconviction proceedings under 28
+U. S. C. § 2255, and by design, compassionate release and
+§ 2255 do not overlap. “Challenging the validity of a convic-
+tion under the extraordinary-and-compelling-reasons prong
+of section 3582,” the court explained, “would permit a de-
+fendant to `evade the collateral review structure' of section
+2255.” 104 F. 4th, at 430 (alteration omitted).
+1 The District Court also granted compassionate release based on the
+sentencing “disparity between Fernandez'[s] life sentence and the sen-
+tences of the co-defendants.” 2022 WL 17039059, *4. The Second Circuit
+concluded that this was an error, 104 F. 4th 420, 429 (2024), and the issue
+is not before us.
+While seven other Circuits have reached the same conclu-
+sion, two have taken the other side. 2 We granted certiorari
+to resolve the split. 605 U. S. 931 (2025).
+II
+Collateral attacks on federal convictions are governed by
+28 U. S. C. § 2255, which imposes tight procedural con-
+straints. It carries a one-year statute of limitations.
+§ 2255(f). With very narrow exceptions, a prisoner gets only
+one shot at collateral relief. §§ 2255(h)(1)–(2). Claims that
+have already been raised and rejected on direct review typi-
+cally cannot be relitigated in § 2255 motions. See Kaufman
+v. United States, 394 U. S. 217, 227, n. 8 (1969); Reed v. Far-
+ley, 512 U. S. 339, 358 (1994) (Scalia, J., concurring in part
+and concurring in judgment). And claims not raised on di-
+rect review are procedurally defaulted unless the prisoner
+can demonstrate “ `cause' ” and “ `prejudice,' ” or else actual
+innocence. Bousley v. United States, 523 U. S. 614, 622
+(1998). If the prisoner clears these procedural hurdles,
+he must demonstrate that the applicable substantive law en-
+titles him to relief. Section 2255's companion statute,
+28 U. S. C. § 2254, imposes similar constraints on state
+prisoners.
+Recall that Fernandez brought—and lost—a challenge to
+his conviction under § 2255. This case arises from his mo-
+tion presenting similar arguments under a different statute,
+18 U. S. C. § 3582, which permits prisoners to seek compas-
+sionate release from prison. In contrast to § 2255's reticu-
+2 Compare United States v. Ferguson, 55 F. 4th 262, 270–272 (CA4 2022);
+United States v. Escajeda, 58 F. 4th 184, 186–187 (CA5 2023); United
+States v. West, 70 F. 4th 341, 346–348 (CA6 2023); United States v. Von
+Vader, 58 F. 4th 369, 371 (CA7 2023); United States v. Crandall, 25 F. 4th
+582, 586 (CA8 2022); United States v. Wesley, 60 F. 4th 1277, 1284–1286
+(CA10 2023); United States v. Jenkins, 50 F. 4th 1185, 1202–1204 (CADC
+2022), with United States v. Trenkler, 47 F. 4th 42, 48 (CA1 2022); United
+States v. Roper, 72 F. 4th 1097, 1102–1103 (CA9 2023).
+lated scheme, § 3582 imposes a single procedural require-
+ment: A prisoner must first present his request for release
+to the Bureau of Prisons. § 3582(c)(1)(A). A motion may
+then be fled in district court, where the prisoner (or the
+Bureau, acting on his behalf) must show that “extraordinary
+and compelling reasons” warrant his early release from con-
+fnement. § 3582(c)(1)(A)(i).
+This is not the first time we have addressed the relation-
+ship between the habeas statutes and other kinds of prisoner
+litigation. In Preiser v. Rodriguez, prisoners brought
+claims under 42 U. S. C. § 1983 challenging the forfeiture of
+their good-time credits, and their claims “plainly came within
+the literal terms of that statute.” 411 U. S. 475, 488 (1973).
+Even so, we held that “[t]he broad language of § 1983” did
+not afford the prisoners a cause of action. Id., at 489.
+“Congress has determined that habeas corpus is the appro-
+priate remedy for state prisoners attacking the validity of
+the fact or length of their confinement, and that specific de-
+termination must override the general terms of § 1983.” Id.,
+at 490. Challenges “close to the core of habeas corpus” must
+be brought, if at all, under “the specific federal habeas corpus
+statute”—in that case § 2254—which was “explicitly and his-
+torically designed to provide the means for a state prisoner
+to attack the validity of his confinement.” Id., at 489. A
+contrary result would allow prisoners to evade § 2254's re-
+quirements, and so would “wholly frustrate explicit congres-
+sional intent.” Ibid. That is why “§ 1983 must be read in
+harmony with the habeas statute.” District Attorney's Of-
+fce for Third Judicial Dist. v. Osborne, 557 U. S. 52, 66
+(2009).
+Gonzalez v. Crosby, 545 U. S. 524 (2005), fows in the same
+vein. There, we held that prisoners may not use Federal
+Rule of Civil Procedure 60(b) to argue that a denial of habeas
+relief was wrong on the merits and warrants reopening.
+The language of Rule 60(b) is expansive, permitting courts
+to reopen a final judgment whenever a movant shows “ any
+. . . reason that justifies relief.” Fed. Rule Civ. Proc. 60(b)(6)
+(emphasis added). And the text of § 2254 “did not expressly
+circumscribe the operation of Rule 60(b).” Gonzalez, 545
+U. S., at 529. Yet allowing movants to use a Rule 60(b) mo-
+tion to make merits arguments would still collide with § 2254.
+It would permit movants to “circumvent” the strict statutory
+habeas standards, including “that a successive habeas peti-
+tion be precertifed by the court of appeals.” Id., at 531–
+532 (citing 28 U. S. C. § 2244(b)(3)). And the Rule could not
+be applied to habeas proceedings in a manner “ `inconsistent
+with' ” § 2254. 545 U. S., at 529 (quoting 28 U. S. C. § 2254
+Rule 11 (2000 ed., Supp. IV)). Thus, Rule 60(b)'s allowance
+of reopening for “any . . . reason” was narrowed to account
+for § 2254.
+Much like the prisoners in Preiser and Gonzalez, Fernan-
+dez has pursued a collateral attack outside the rigorous ha-
+beas framework. And as in those cases, the workaround
+is impermissible. Challenging the validity of a conviction
+through a compassionate release motion circumvents the ex-
+acting requirements of § 2255. 3
+Indeed, Fernandez candidly admits that avoiding § 2255's
+procedural and substantive requirements is the benefit of his
+approach. As for procedure: Fernandez asserted at oral ar-
+gument that “there are harsh limitations associated with
+[§ ]2255, and Congress has stated . . . that those limitations
+are appropriate, but it doesn't mean that in every case, as
+3 The dissent dismisses Preiser and Gonzalez on the ground that § 1983
+and Rule 60(b) are “general” provisions, whereas 18 U. S. C. § 3582(c)(1)(A)
+is “specific.” Post, at 446–448 (opinion of Jackson, J.). But Preiser and
+Gonzalez do not lay the relevant statutes side-by-side to determine which
+is more “general” than the other. (If that were the metric, § 3582(c)(1)(A)
+is certainly “more general” than 28 U. S. C. § 2255.) Instead, both cases
+apply an anticircumvention principle: They ask whether it would “imper-
+missibly circumvent” the specific design of the habeas statute to permit
+prisoners to challenge the legality of their confinement through a statute
+whose literal language might otherwise apply. Gonzalez, 545 U. S., at 532;
+see also Preiser, 411 U. S., at 489. We undertake the same inquiry here.
+applied to every defendant, that those limitations are fair.”
+Tr. of Oral Arg. 18–19. According to Fernandez, the ability
+to bring a merits-based challenge under § 3582 mitigates
+“[t]he error and the unfairness of [the prisoner's] not having
+been able to bring it under [§ ]2255.” Id., at 19. His take
+on substance is similar. He offers the example of a prisoner
+who claims that prosecutors withheld mitigating evidence
+and that his lawyer was constitutionally ineffective for fail-
+ing to pursue that evidence. Fernandez posits that these
+arguments would fail to satisfy “the legal intricacies of the
+doctrines related to Brady v. Maryland and Strickland v.
+Washington.” Brief for Petitioner 41 (citation omitted).
+Still, Fernandez asserts, these half-baked legal challenges
+could count as “extraordinary and compelling reasons” that
+justify a reduced sentence. Ibid. The dissent, too, pro-
+claims that the “core mission” of compassionate release is to
+offer deserving prisoners relief from the rigors of § 2255.
+Post, at 452–453 (opinion of J ackson, J.).
+It is easy to see why Fernandez would prefer this con-
+struction. Section 3582—in sharp contrast to § 2255—im-
+poses no time limit or numerical cap on motions. Nor is
+there any bar to raising issues waived or already decided on
+direct appeal. So a prisoner proceeding under § 3582 could
+challenge the validity of his conviction repeatedly, for years
+after it became final, even if the issue had already been
+raised or decided in prior proceedings. This system would
+enable prisoners not only to bypass § 2255, but also to over-
+ride it. Consider this very case: Fernandez lost an argu-
+ment on direct review and under § 2255, but then repackaged
+it in a motion under § 3582(c)(1)(A)(i) and obtained release
+from prison on those twice-rejected grounds.
+We will not set § 3582 and § 2255 at cross-purposes when
+we can construe them “in harmony.” District Attorney's
+Office, 557 U. S., at 66. Congress made compassionate re-
+lease available only when “extraordinary and compelling rea-
+sons” justify it. § 3582(c)(1)(A)(i). That is a demanding
+standard. And as we did with § 1983 in Preiser and
+Rule 60(b) in Gonzalez, we interpret § 3582 against the back-
+drop of the detailed process that Congress “explicitly and
+historically designed” for “attack[ing] the validity of [a pris-
+oner's] confinement.” Preiser, 411 U. S., at 489; see also
+Jones v. Hendrix, 599 U. S. 465, 473 (2023). Seen in that
+light, the supposed invalidity of a conviction is not among
+the “extraordinary and compelling reasons” that justify com-
+passionate release.
+While Congress has not defined the “extraordinary and
+compelling reasons” that may warrant a reduced sentence,
+these criteria are not empty vessels. “Extraordinary”
+means “most unusual,” “far from common,” and “having little
+or no precedent.” Webster's Third New International Dic-
+tionary 807 (1976); see 5 Oxford English Dictionary 614 (2d
+ed. 1989) (“[o]ut of the usual or regular course or order”).
+“Compelling” means “tending to convince or convert by or
+as if by forcefulness of evidence.” Webster's Third New In-
+ternational Dictionary, at 463; see 3 Oxford English Diction-
+ary, at 600 (“irresistible; demanding attention, respect”).
+We will focus on the latter requirement.
+An argument that is compelling in one context is not nec-
+essarily so in another; the force of an argument depends on
+what it seeks to justify. For instance, a 25th wedding anni-
+versary is a convincing reason to shorten a business trip, but
+it is not a convincing reason to shorten a prison sentence.
+So here, we do not ask in the abstract whether a challenge
+to the validity of a conviction is “compelling.” We ask
+whether it is an especially convincing reason to grant the
+relief sought: compassionate release from prison. 4
+4 The dissent acknowledges that it is “obviously true” that context in-
+forms which reasons count as “compelling.” Post, at 436. The concur-
+rence agrees, for it proposes another context-based limit: that only “changed
+circumstances” qualify as reasons warranting sentencing reduction. Post,
+at 431 (Sotomayor , J., concurring in judgment). Given that the concur-
+rence embraces a limit that appears nowhere in the text, it is hard to see
+Section 2255's reticulated scheme bears on this inquiry. A
+reason is not “compelling” if Congress has channeled it
+through the postconviction statutes. Even Fernandez rec-
+ognizes that an argument may be less compelling if it could
+have been—and was not—asserted through § 2255. He ad-
+mits that courts may consider “as part of the extraordinary
+and compelling analysis” whether a “defendant sat on his
+rights or whether he's taken all opportunities to enforce his
+rights.” Tr. of Oral Arg. 15–16. Yet the same is true for
+§ 2255's other substantive and procedural requirements: That
+Congress has chosen to make § 2255 a high bar is not a com-
+pelling reason to reduce the sentences of prisoners who fall
+short.
+Other features of the statute point in the same direction.
+The name for § 3582(c)(1)(A)—“Compassionate Release”—
+highlights its focus on granting mercy rather than righting
+legal wrongs. First Step Act of 2018, § 603(b), 132 Stat. 5239
+(heading). In keeping with the theme of “compassion,” Con-
+gress in § 3582 gives special protection to defendants with a
+“terminal illness.” § 3582(d). For instance, the Director of
+the Bureau of Prisons must notify terminally ill prisoners of
+their right to seek compassionate release, §§ 3582(d)(2)(A)(i),
+(B)(i); must sometimes assist in preparing those compassion-
+ate release requests, §§ 3582(d)(2)(A)(iii), (B)(iii); and must
+report to Congress “the number of prisoners who died while
+their request was pending,” § 3582(d)(3)(H). In addition, the
+statute expressly identifies one situation in which a sentenc-
+ing reduction is warranted: when “the defendant is at least
+70 years of age, has served at least 30 years” of a certain
+type of mandatory life sentence, and the Director of the Bu-
+reau of Prisons determines “that the defendant is not a dan-
+ger to the safety of any other person or the commu-
+nity.” § 3582(c)(1)(A)(ii). And in another statute that ref-
+erences § 3582(c)(1)(A), Congress has permitted the Sentenc-
+how the concurrence can resist our interpretation on the ground that it is
+“atextual.” Post, at 431.
+ing Commission to treat a defendant's rehabilitation as a rel-
+evant consideration in granting compassionate release. 28
+U. S. C. § 994(t).
+The role of the Bureau of Prisons reflects the statute's
+focus on a defendant's personal circumstances—his advanced
+age, safety risk, illness, rehabilitation, and the like. The Bu-
+reau evaluates compassionate release motions in the first in-
+stance. Until 2018, a district court could reduce a sentence
+only “ `upon motion of the Director of the Bureau of Pris-
+ons.' ” Sentencing Reform Act of 1984, 98 Stat. 1998–1999.
+After the First Step Act, prisoners may fle their own com-
+passionate release motions, but only if the Bureau declines
+or fails to respond to a prisoner's request that the Director
+fle on his behalf. 132 Stat. 5239. Fernandez agrees that
+this procedural shift in the Bureau's role—from exclusive
+fler to initial evaluator—did not change the substantive
+standard applicable to compassionate release motions. See
+Tr. of Oral Arg. 9–12.
+If compassionate release were a vehicle for attacking the
+validity of a conviction, it is hard to see why the Bureau of
+Prisons would run the process. The Bureau's institutional
+expertise lies in the daily lives of prisoners: matters relating
+to their “safekeeping,” “care,” “subsistence,” “protection,”
+“instruction,” and “discipline.” 18 U. S. C. § 4042(a). So
+it makes sense for the statute to instruct the Bureau to
+help terminally ill prisoners seek compassionate release.
+§ 3582(d). By contrast, it makes little sense to have the Bu-
+reau evaluate legal arguments and comb trial records to de-
+termine whether a prisoner has a “compelling” argument
+that his conviction was wrongful. Even Fernandez concedes
+that analyzing potential trial errors is outside the Bureau's
+bailiwick. Tr. of Oral Arg. 10. Take Fernandez's own situ-
+ation: How would the Bureau determine whether the testi-
+mony at his trial was credible? Or take Fernandez's hypo-
+thetical: How would the Bureau evaluate arguments raised
+under Brady v. Maryland, 373 U. S. 83, and Strickland v.
+Washington, 466 U. S. 668 (1984)? Supra, at 421–422.
+Congress's decision to route compassionate release motions
+through the Bureau strongly suggests that the “extraordi-
+nary and compelling reasons warrant[ing]” compassionate
+release must be reasons that the Director is competent to
+assess. § 3582(c)(1)(A)(i).
+Regulatory history points the same way. Congress has
+authorized the Sentencing Commission to issue policy state-
+ments about when compassionate release is warranted, 28
+U. S. C. § 994(t), and these policy statements shape whether
+courts may grant compassionate release motions, 18 U. S. C.
+§ 3582(c)(1)(A). For decades, the Sentencing Commission
+has tied the availability of compassionate release to a defend-
+ant's personal circumstances. See United States Sentencing
+Commission, Guidelines Manual App. C, Amdt. 698 (Nov.
+2007) (USSG) (listing “ `extraordinary and compelling rea-
+sons' ” to include “ `terminal illness,' ” “ `a permanent physical
+or medical condition,' ” “ `[t]he death or incapacitation of the
+defendant's only family members capable of caring for the
+defendant's minor child,' ” or “ `other' ” reasons as deter-
+mined by the Director of the Bureau of Prisons). While the
+Sentencing Commission has issued more detailed policy
+statements over the years, it has maintained the same basic
+categories.5 See USSG § 1B1.13(1), comment., n. 1 (Nov.
+2021). It has never said that the invalidity of a conviction
+qualifies as an “extraordinary and compelling reaso[n] war-
+rant[ing]” compassionate release. § 3582(c)(1)(A)(i).
+In short, the structural inference of Preiser and Gonzalez
+is borne out in § 3582 itself. The heartland “extraordinary
+and compelling reasons” that might warrant an early release
+from prison—age, illness, a child left with no guardian—bear
+5 In 2023, the Sentencing Commission added a new category to the list of
+“extraordinary and compelling” reasons: “ `Unusually Long Sentence[s].' ”
+USSG Supp. to App. C, Amdt. 814 (Nov.). That amendment, while not
+relevant here, exceeds the Commission's authority. Rutherford v. United
+States, 608 U. S. 454, 472–473 (2026).
+no resemblance to the grounds for relief under § 2255. Fer-
+nandez cannot deploy § 3582 to blunt what he perceives to be
+the sharp edges of § 2255.
+III
+Fernandez insists that because § 2255 and § 3582 offer dif-
+ferent forms of relief, the structural inference from Preiser
+and Gonzalez does not apply. Under § 2255, a court could
+set aside Fernandez's conviction as if it never happened.
+But Fernandez is not going for that—at least not in this
+round. Now, he seeks the more modest relief permitted by
+§ 3582: a reduced sentence. If he succeeds, he would leave
+prison early, but his murder-for-hire conviction—along with
+its collateral effects—would remain in place. That distinc-
+tion, he says, means that he is not circumventing § 2255, but
+rather proceeding on an entirely different track. See also
+post, at 442–443 (Jackson, J., dissenting).
+Instead of helping him, this argument highlights the mis-
+match between the error Fernandez alleges and the remedy
+he seeks. When an elderly or infirm prisoner is discharged
+early, the reasons for release have nothing to do with the
+lawfulness of the conviction—so it makes sense to leave it
+in place. But when a prisoner persuades a court that his
+conviction is invalid, the remedy of a little less prison time
+does not redress the wrong. If a conviction is invalid, the
+fitting remedy is to vacate it, as § 2255 allows. That § 3582
+does not offer this remedy is evidence that it is not a suitable
+vehicle for the claim.
+In any event, the difference in relief does not render
+Preiser irrelevant. The remedies were not identical in
+Preiser either: The prisoner sought an injunction under
+§ 1983 for the restoration of good-time credits, rather than
+habeas relief. This formal distinction did not change our
+analysis; what mattered was that Preiser brought a claim
+“close to the core of habeas corpus.” 411 U. S., at 489.
+When, as here, a prisoner “attack[s] the validity of his con-
+fnement” and “seeks either immediate release from that con-
+fnement or the shortening of its duration,” his claim belongs
+under the umbrella of the postconviction statutes. Ibid.
+And to be clear: Fernandez is challenging the validity of
+his conviction, even though he is not asking to have it va-
+cated or set aside. Whether a prisoner's request for relief
+challenges a conviction turns on the nature of the arguments
+presented. See, e. g., Gonzalez, 545 U. S., at 531, 533 (hold-
+ing that only some arguments presented in a Rule 60(b) mo-
+tion would improperly infringe on § 2254). When a prisoner
+moves for compassionate release based on a terminal illness,
+his motion does not suggest that his conviction is invalid.
+But if a prisoner moves for relief because of alleged problems
+with the underlying criminal investigation or trial, his mo-
+tion suggests that his conviction is flawed. That is true
+here: Fernandez's motion said he “would never commit” mur-
+der for hire; questioned whether the District Judge would
+have reached the same verdict as the jury; urged the court
+not to credit Darge's testimony; alleged that the Government
+failed to turn over or present to the jury “highly exculpa-
+tory” notes from interviewing Rivera; and even argued that
+Fernandez could sufficiently show his actual innocence to
+satisfy Schlup v. Delo, 513 U. S. 298 (1995), which governs
+certain procedurally defaulted habeas claims. See ECF
+Doc. 248, pp. 7–9, 14. The District Court then impermissibly
+treated Fernandez's challenge to his conviction as an “ex-
+traordinary and compelling reaso[n]” for sentencing reduc-
+tion. 18 U. S. C. § 3582(c)(1)(A)(i). It expressed “[r]eason to
+[q]uestion the [v]erdict,” “doubt that the jury's verdict was
+correct,” and the belief that the prosecution distrusted the
+testimony of its star witness. 2022 WL 17039059, *4. In
+other words, the District Court harbored doubts about the
+soundness of the conviction. 6
+6 Perplexingly, the dissent accuses us of failing to define “what it means
+for a prisoner to `collaterally attac[k] the validity of his conviction,' ” post, at
+448–449 (alteration in original), and characterizes this limit as unworkable,
+post, at 441, 448–451; see also post, at 431 (Sotomayor, J., concurring in judg-
+Fernandez offers a backup position: Even if § 3582(c)(1)
+(A)(i) does not ordinarily allow district courts to grant com-
+passionate release for reasons that would support a § 2255
+motion, he asserts that actual innocence claims are an excep-
+tion. He points out that “a factual showing of actual inno-
+cence `ha[s] never been held to state a ground for federal
+habeas relief absent an independent constitutional viola-
+tion.' ” Brief for Petitioner 41–42 (quoting Herrera v. Col-
+lins, 506 U. S. 390, 400 (1993)). Thus, he says, such a claim
+must be cognizable under § 3582; otherwise, a prisoner might
+have nowhere to go. See also post, at 441–442, 449–450
+(Jackson, J., dissenting).
+It bears emphasis that this argument is only marginally
+relevant to Fernandez himself. No court—not even the Dis-
+trict Court that reduced his sentence—concluded that Fer-
+ment). But we explain our holding in detail, and its application is
+straightforward: There is an obvious distinction between a prisoner who
+asserts that he should not have been convicted in the first place and one
+who asserts that his present circumstances warrant an exercise of compas-
+sion. Cf. Gonzalez v. Crosby, 545 U. S. 524, 532 (2005) (requiring district
+courts to distinguish between Rule 60(b) motions that attack “the sub-
+stance of the federal court's resolution of a claim on the merits” and those
+that raise “some defect in the integrity of the federal habeas proceed-
+ings”). Indeed, we routinely require courts to draw much fner distinc-
+tions than this. See, e. g., Esteras v. United States, 606 U. S. 185, 200,
+and n. 9 (2025) (requiring sentencing courts to consider “the nature and
+circumstances of the offense” but not the “ `need for the sentence imposed'
+`to reflect the seriousness of the offense' ”).
+Betraying the weakness of its criticism, the dissent leans on a source
+that offers no support. According to the dissent, our approach implicates
+the “notoriously difficult” exercise of deciding “when, under the Preiser
+line of cases, a successful § 1983 action necessarily implies `the invalidity
+of the plaintiff's conviction.' ” Post, at 448–449 (citing W. Baude, J. Gold-
+smith, J. Manning, J. Pfander, & A. Tyler, Hart and Wechsler's The Federal
+Courts and the Federal System 1687 (8th ed. 2025)). But this source de-
+scribes the difficulty of determining when relief other than a release from
+custody (for example, a damages award) would “necessarily imply the in-
+validity of [the plaintiff's] conviction” within the meaning of Heck v. Hum-
+phrey, 512 U. S. 477, 487 (1994). That issue has no bearing on today's case.
+nandez was actually innocent. His evidentiary challenges
+were repeatedly rejected, and the District Court reduced his
+sentence because of “disquiet” about the conviction, not con-
+fdence in Fernandez's innocence. 2022 WL 17039059, *4.
+So even if an actual innocence claim were cognizable under
+§ 3582, Fernandez would not benefit from it.
+In any event, this case gives us no occasion to decide the
+antecedent question whether a prisoner may assert a free-
+standing actual innocence claim under § 2255. We have
+never ruled that possibility out and do not do so now. See
+Herrera, 506 U. S., at 417. Instead, we hold simply that a
+compassionate release motion is not a vehicle for raising such
+a claim. A prisoner asserting actual innocence “challenge[s]
+the validity of his conviction,” id., at 406, whether factually
+or legally, and that lies “close to the core of habeas corpus,”
+Preiser, 411 U. S., at 489. If it is “not in substance a `habeas
+corpus application,' ” it is “at least similar enough that failing
+to subject it to the same requirements would” forge a path
+for bypassing the postconviction statutes. Gonzalez, 545
+U. S., at 531. And for the reasons we have already stated,
+§ 3582 does not provide that kind of shortcut.
+Fernandez's remaining arguments echo those presented in
+another case, which we also decide today. See Rutherford
+v. United States, 608 U. S. 454 (2026). Petitioners in both
+cases contend that the phrase “extraordinary and compelling
+reasons” vests courts with broad discretion to grant a pris-
+oner compassionate release for virtually any reason whatso-
+ever. We reject these arguments here for the same reasons
+we reject them in Rutherford. Id., at 468–472. “While the
+terms `extraordinary' and `compelling' leave room for judg-
+ment, they are not so flexible as to encompass any consider-
+ation.” Id., at 468.
+* * *
+The compassionate release provision is not a vehicle for
+attacking the validity of a conviction. Accordingly, the

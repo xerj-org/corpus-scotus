@@ -1,0 +1,1467 @@
+Kennedy v. Braidwood Management, Inc. — No. 24-316 — October Term 2024 — decided 6/27/25 — opinion of the Court — author Kavanaugh (listing code BK)
+Citation: 606 U.S. 748
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r65_3314.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Kavanaugh delivered the opinion of the Court.
+This case concerns the Appointments Clause in Article II
+of the Constitution. The U. S. Preventive Services Task
+Force, an entity within the Department of Health and
+Human Services, issues public recommendations about pre-
+ventive healthcare services—for example, cancer and diabe-
+tes screenings. Before 2010, the Task Force's recommenda-
+Choudhury, and Devon Minnick; for Members of the Chronic Illness and
+Disability Partnership by Benjamin G. Shatz and Carmel Shachar; for the
+National Alliance of State and Territorial AIDS Directors et al. by Jose I.
+Abrigo, Jr., Omar Gonzalez-Pagan, Karen L. Loewy , Christopher R.
+Riano, Bennett Klein, Chris Erchull, and Suman Chakraborty; for Pa-
+tient and Physician Professional Organizations by Beth Petronio , John
+Longstreth, and Mary Rouvelas; for Public Citizen et al. by Nicolas A.
+Sansone, Allison M. Zieve , and Scott L. Nelson; for the Susan G. Komen
+Breast Cancer Foundation, Inc., by David C. Frederick; for United States
+of Care et al. by Daniel G. Jarcho; and for 48 Bipartisan Economic and
+Other Social Science Scholars by Matthew S. Hellman.
+Briefs of amici curiae urging affirmance were fled for the State of
+Texas et al. by Ken Paxton, Attorney General of Texas, Aaron L. Nielson,
+Solicitor General, Brent Webster , First Assistant Attorney General, Wil-
+liam F. Cole , Principal Deputy Solicitor General, and Eric Abels, Assist-
+ant Attorney General, and by the Attorneys General for their respective
+States as follows: James Uthmeier of Florida, Raúl Labrador of Idaho,
+Theodore E. Rokita of Indiana, Brenna Bird of Iowa, Liz Murrill of Loui-
+siana, Lynn Fitch of Mississippi, Austin Knudsen of Montana, Michael T.
+Hilgers of Nebraska, Dave Yost of Ohio, Gentner Drummond of Okla-
+homa, Alan Wilson of South Carolina, Marty Jackley of South Dakota,
+Jonathan Skrmetti of Tennessee, Derek Brown of Utah, and John B. Mc-
+Cuskey of West Virginia; for the Association of American Physicians and
+Surgeons by Andrew L. Schlafy; for the Buckeye Institute by Jay R.
+Carson and David C. Tryon; for the Cato Institute by Thomas Berry; for
+the Goldwater Institute by Timothy Sandefur; for the Manhattan Insti-
+tute by R. Trent McCotter and Ilya Shapiro; and for the Pacific Legal
+Foundation by Michael Poon.
+Briefs of amici curiae were fled for the American College of Gastroen-
+terology by Andrew E. Tauber; for the Christian Employers Alliance by
+Erin M. Hawley , John J. Bursch, Matthew S. Bowman, James A. Camp-
+bell, and Daniel J. Grabowski; and for Gilead Sciences, Inc., by Kwaku A.
+Akowuah and Madeleine Joseph.
+tions were purely advisory. But the Affordable Care Act of
+2010 now mandates that health insurers cover some of the
+recommended services at no cost to the insured.
+The Secretary of Health and Human Services appointed
+the 16 current members of the Task Force. The question in
+this case is whether appointment of Task Force members by
+the Secretary is consistent with the Appointments Clause in
+Article II. That question turns on whether the Task Force
+members are principal officers or inferior officers. Principal
+officers must be nominated by the President and confirmed
+by the Senate. That process can be lengthy and therefore
+can hinder the Executive Branch's ability to promptly fll of-
+fces—and thus also impede the President's ability to execute
+the laws through his subordinate executive officers. By con-
+trast, inferior executive officers may be directly appointed
+by the President or by the head of a department, such as by the
+Secretary of HHS—a more efficient and expeditious process.
+The Executive Branch under both President Trump and
+President Biden has argued that the Preventive Services
+Task Force members are inferior officers and therefore may
+be appointed by the Secretary of HHS. We agree. The
+Task Force members are removable at will by the Secretary
+of HHS, and their recommendations are reviewable by the
+Secretary before they take effect. So Task Force members
+are supervised and directed by the Secretary, who in turn
+answers to the President, preserving the chain of command
+in Article II. See Edmond v. United States, 520 U. S. 651,
+663 (1997). Therefore, under Article II and this Court's
+precedents, the Task Force members are inferior officers.
+As a result, appointment of Task Force members by the Sec-
+retary of HHS is consistent with the Appointments Clause.
+I
+A
+In 1984, the Department of Health and Human Services
+created an advisory body known as the U. S. Preventive
+Services Task Force. The Task Force formulates and pub-
+lishes evidence-based recommendations regarding preven-
+tive healthcare services.
+In 1999, Congress enacted legislation codifying the role of
+the Task Force. See § 915, 113 Stat. 1659. That legislation
+established the Task Force as an entity within the Agency
+for Healthcare Research and Quality (AHRQ), which in turn
+is an agency in the Public Health Service within HHS.
+Under that 1999 statute, the Director of AHRQ “con-
+vene[s]” the Task Force, which is “to be composed of indi-
+viduals with appropriate expertise.” Ibid.; see 42 U. S. C.
+§ 299b–4(a)(1). The Task Force reviews “the scientific evi-
+dence related to the effectiveness, appropriateness, and cost-
+effectiveness of clinical preventive services for the purpose
+of developing recommendations for the health care commu-
+nity.” § 299b–4(a)(1).
+As presently constituted, the Task Force consists of 16
+members who are now appointed by the Secretary of HHS
+to staggered 4-year terms. Those members are “nationally
+recognized experts in prevention, evidence-based medicine,
+and primary care.” App. 39. They include researchers,
+professors, and practicing physicians with experience and ex-
+pertise in public health and across a wide range of medical
+specialties. They serve on a volunteer basis, so they are
+not paid by the Federal Government for their service on the
+Task Force.
+Preventive services “can help people avoid acute illness,
+identify and treat chronic conditions, prevent cancer or lead
+to earlier detection, and improve health.” HHS, Issue
+Brief—Access to Preventive Services Without Cost-Sharing:
+Evidence From the Affordable Care Act 1 (Jan. 2022). A
+wide range of individuals and organizations rely on the Task
+Force's preventive-services recommendations. They include
+“health care systems, professional societies, employers,”
+“Congress and other policymakers, governmental pub-
+lic health agencies,” and those directly “delivering clinical
+services,” such as “primary care professionals.” § 299b–
+4(a)(1).
+The Task Force develops recommendations through a
+standardized process. It selects a topic to study, reviews
+the relevant scientific evidence, formulates a draft recom-
+mendation statement, takes public comments, and then votes
+on the final recommendation.
+The Task Force uses a letter grading system for its recom-
+mendations. It assigns an “A” grade to services with a high
+certainty of substantial net benefit and a “B” grade to serv-
+ices with at least a moderate certainty of a moderate net
+benefit. It also issues “C” and “D” grades to services with
+little to no net benefit, and an “I” grade to services for which
+the current evidence is “insufficient” to assess the balance of
+benefits and harms. App. 46. The Task Force can vote to
+change the grade that was assigned in a previous
+recommendation.
+The Task Force has given an “A” or “B” rating to more
+than 40 preventive services. Those services include screen-
+ings to detect lung, breast, cervical, and colorectal cancer;
+risk-reducing medications for women at high risk of breast
+cancer; nicotine patches for adults trying to quit smoking;
+statin medications to reduce the risk of heart disease and
+stroke; physical therapy to help the elderly avoid falls; and
+diabetes screenings.
+For many years after its initial creation in 1984 and codif-
+cation in 1999, the Task Force's recommendations were
+purely advisory. That changed in 2010 when Congress
+passed and President Obama signed the Affordable Care Act.
+124 Stat. 119. That Act requires most health insurers and
+group health plans to cover certain preventive services with-
+out cost sharing—that is, without imposing copayments, de-
+ductibles, or other charges on patients.
+Rather than set forth a fxed list, the Act tied coverage
+for preventive services to the recommendations of several
+entities within the Federal Government, including the Pre-
+ventive Services Task Force. Specifically, the Act mandates
+no-cost coverage of “evidence-based items or services that
+have in effect a rating of `A' or `B' in the current recommen-
+dations” of the Task Force. § 300gg–13(a)(1).
+After the Task Force makes an “A” or “B” recommenda-
+tion, the insurance coverage requirements for that preven-
+tive service do not take effect immediately. Rather, the law
+directs the Secretary of HHS to “establish a minimum inter-
+val,” not less than one year, between when an “A” or “B”
+recommendation is issued by the Task Force and when insur-
+ers must cover the recommended service without cost shar-
+ing. § 300gg–13(b). During that interval, the Secretary
+can review the Task Force's recommendation and block it
+from going into effect.
+The Affordable Care Act also amended the statute govern-
+ing the Task Force to describe the Task Force as “independ-
+ent” and to provide that the members of the Task Force and
+their recommendations “shall be independent and, to the
+extent practicable, not subject to political pressure.”
+§§ 299b–4(a)(1), (6).
+B
+The question in this case is whether the Task Force mem-
+bers were appointed in a manner consistent with the Ap-
+pointments Clause in Article II of the Constitution. § 2,
+cl. 2.
+The plaintiffs are several individuals and small businesses
+who object to the Affordable Care Act's preventive-services
+coverage requirements. The lead plaintiff, Braidwood Man-
+agement, runs a health and wellness center. It offers
+health-insurance coverage to its approximately 70 employees
+through a self-insured plan. Braidwood wants to exclude
+coverage for certain drugs and to impose copays or deduct-
+ibles for other covered services.
+The plaintiffs—collectively, Braidwood—sued in the U. S.
+District Court for the Northern District of Texas. Braid-
+wood argued that the structure of the Task Force violated
+the Appointments Clause. In Braidwood's view, Task Force
+members are principal officers who must be appointed by the
+President “with the Advice and Consent of the Senate.”
+Ibid.
+The District Court agreed. It recognized that there are
+no statutory removal restrictions on Task Force members,
+meaning that the Secretary of HHS may remove them at
+will. But the court nonetheless concluded that Task Force
+members are unconstitutionally appointed principal officers
+because they “have no superior” who supervises and directs
+them. Braidwood Mgmt. Inc. v. Becerra, 627 F. Supp. 3d
+624, 646 (ND Tex. 2022). The court enjoined the Govern-
+ment from enforcing against Braidwood any insurance cover-
+age mandates based on Task Force recommendations issued
+after the 2010 enactment of the Affordable Care Act. 1
+The Government appealed to the U. S. Court of Appeals
+for the Fifth Circuit. Until that point, the Task Force mem-
+bers had been selected and appointed by the Director of
+AHRQ, an agency within the Public Health Service of HHS.
+But in June 2023, while the Government's appeal was pend-
+ing, the Secretary of HHS ratified the appointments of the
+existing Task Force members and re-appointed them on a
+prospective basis. And from then on, the Secretary has con-
+tinued to appoint Task Force members.
+The Fifth Circuit affirmed in relevant part. In a thorough
+opinion, the court held that the Task Force members are
+principal officers who must be appointed by the President
+with the advice and consent of the Senate. Like the District
+Court, the Fifth Circuit understood the Task Force members
+1 Braidwood also brought a claim under the Religious Freedom Restora-
+tion Act of 1993, 107 Stat. 1488, 42 U. S. C. § 2000bb et seq. It prevailed
+on that claim and secured an injunction against enforcement of the specific
+requirement that it cover certain HIV-prevention medications without
+cost sharing. The Government did not appeal that aspect of the District
+Court's judgment, and this Court's decision will not affect the injunction
+premised on Braidwood's RFRA claim.
+to be removable at will by the Secretary of HHS. But the
+Fifth Circuit concluded that the Secretary cannot block Task
+Force recommendations before they take effect. The court
+pointed to 42 U. S. C. § 299b–4(a)(6), which provides that
+Task Force members “shall be independent and, to the ex-
+tent practicable, not subject to political pressure.” The
+Task Force, according to the Fifth Circuit, “cannot be `inde-
+pendent' and free from `political pressure' on the one hand,
+and at the same time be supervised by the HHS Secretary,
+a political appointee, on the other.” Braidwood Mgmt., Inc.
+v. Becerra, 104 F. 4th 930, 944 (2024). So the court con-
+cluded that the Task Force is not supervised and directed by
+the Secretary—and that Task Force members are therefore
+principal officers and may not be appointed by the Secretary.
+We granted certiorari to consider whether appointment of
+Task Force members by the Secretary of HHS violates the
+Appointments Clause. 604 U. S. 1073 (2025).
+II
+A
+The Appointments Clause in Article II of the Constitution
+specifies how “Officers of the United States,” as distinct from
+employees, must be appointed. § 2, cl. 2. An officer exer-
+cises “ `significant authority pursuant to the laws of the
+United States.' ” Lucia v. SEC, 585 U. S. 237, 245 (2018).
+An employee, by contrast, does not exercise significant gov-
+ernmental authority. See ibid.
+The text of the Appointments Clause “very clearly divides
+all its officers into two classes”: principal officers and inferior
+officers. United States v. Germaine, 99 U. S. 508, 509 (1879).
+Here, all agree that the Preventive Services Task Force
+members are officers. The question is whether they are
+principal or inferior.
+Principal officers must be appointed by the President
+“with the Advice and Consent of the Senate.” Art. II, § 2,
+cl. 2. The constitutionally mandated joint participation of
+the President and Senate in the appointments process is de-
+signed to promote “a judicious choice” for “filling the offices
+of the Union.” The Federalist No. 76, p. 455 (C. Rossiter
+ed. 1961) (A. Hamilton). The President and the Senate are
+accountable “for both the making of a bad appointment and
+the rejection of a good one.” Edmond v. United States, 520
+U. S. 651, 660 (1997).
+Inferior officers may also be appointed via Presidential
+nomination and Senate confirmation. See Art. II, § 2, cl. 2.
+The Framers, though, recognized that requiring all officers
+of the Federal Government to run the gauntlet of Presiden-
+tial nomination and Senate confirmation would prove admin-
+istratively unworkable as offices became “numerous” and
+“sudden removals” and prompt replacements became “neces-
+sary.” Germaine, 99 U. S., at 510. So on one of the last
+days of the Constitutional Convention—September 15,
+1787—they authorized an additional and streamlined method
+of appointment for inferior officers. Specifically, Congress
+may “by Law vest” appointment of inferior officers “in the
+President alone, in the Courts of Law, or in the Heads of
+Departments.” Art. II, § 2, cl. 2. Congress therefore may
+provide that inferior executive officers be unilaterally ap-
+pointed by the President or a Head of Department.
+The Appointments Clause is “more than a matter of `eti-
+quette or protocol' ”—it is “among the significant structural
+safeguards of the constitutional scheme.” Edmond, 520
+U. S., at 659. The Appointments Clause ensures that the
+President or his subordinate Heads of Departments play a
+central role in selecting the officers within the Executive
+Branch who will assist in exercising the “executive Power.”
+Art. II, § 1, cl. 1. The Clause thereby helps protect the inde-
+pendence of the Executive Branch and maintain the Consti-
+tution's separation of powers.
+How does a court determine whether an executive officer
+is principal (and must be appointed by the President with
+the advice and consent of the Senate) or inferior (and may be
+appointed by the President or Head of Department alone)?
+Principal officers in the Executive Branch encompass at
+least the Heads of Departments, who report directly to the
+President. Examples include the Secretary of State, Secre-
+tary of the Treasury, Secretary of Defense, and Attorney
+General.
+Inferior officers are most readily defined by their relation-
+ship to principal officers. “Generally speaking,” whether
+“one is an `inferior' officer depends on whether he has a supe-
+rior” other than the President, Edmond, 520 U. S., at 662,
+and how much power the officer “exercises free from control
+by a superior,” United States v. Arthrex, Inc., 594 U. S. 1, 17
+(2021). In Edmond v. United States, the Court summarized
+the governing principle: Inferior officers are those “whose
+work is directed and supervised at some level by others who
+were appointed by Presidential nomination with the advice
+and consent of the Senate.” 520 U. S., at 663.
+As the author of Edmond, Justice Scalia, once explained:
+“It is perfectly obvious” that the language in Article II au-
+thorizing department heads to appoint inferior officers “was
+intended merely to make clear . . . that those officers ap-
+pointed by the President with Senate approval could on their
+own appoint their subordinates, who would, of course, by
+chain of command still be under the direct control of the
+President.” Morrison v. Olson, 487 U. S. 654, 720–721
+(1988) (Scalia, J., dissenting).
+B
+Before 2010, members of the Preventive Services Task
+Force were not officers at all. The Task Force was an advi-
+sory body, and the Task Force members made only non-
+binding recommendations. As a result of the 2010 Afford-
+able Care Act, however, the Task Force's “A” and “B” recom-
+mended preventive services now must be covered by health
+insurers at no cost to the insured. For that reason, the par-
+ties here agree that the Task Force members exercise sig-
+nificant governmental authority and qualify as “officers” of
+the United States. They disagree, however, over whether
+Task Force members are principal or inferior officers.
+We conclude that Task Force members are inferior officers
+because their work is “directed and supervised” by the Sec-
+retary of HHS, a principal officer. Edmond, 520 U. S., at
+663. The Secretary's ability to direct and supervise the
+Task Force derives from two main sources: the Secretary's
+authority to remove Task Force members at will; and the
+Secretary's authority to review and block the Task Force's
+recommendations before they can take effect.
+1
+An officer such as a Task Force member who is removable
+at will by a principal officer (here, by the Secretary of HHS)
+typically qualifies as an inferior officer. So it is here.
+This Court has said that the authority to remove an officer
+at will is a “powerful tool for control.” Edmond, 520 U. S.,
+at 664; see Free Enterprise Fund v. Public Company Ac-
+counting Oversight Bd., 561 U. S. 477, 510 (2010). The rea-
+son is straightforward: “ `Once an officer is appointed, it is
+only the authority that can remove him, and not the author-
+ity that appointed him, that he must fear and, in the per-
+formance of his functions, obey.' ” Bowsher v. Synar, 478
+U. S. 714, 726 (1986). An officer's “ `presumed desire to
+avoid removal' ” generally creates a “ `here-and-now subser-
+vience.' ” Id., at 727, n. 5. The prerogative of at-will re-
+moval of a subordinate, then, often carries with it the power
+to supervise and direct that subordinate. See Intercolle-
+giate Broadcasting System, Inc. v. Copyright Royalty Bd.,
+684 F. 3d 1332, 1341 (CADC 2012) (Williams, J.).
+Historical practice supports treating an officer who is re-
+movable at will by a principal officer as an inferior officer.
+Since the Founding, Congress has routinely tied inferior-
+officer status to at-will removability by Heads of Depart-
+ments. See Ex parte Hennen, 13 Pet. 230, 259–260 (1839).
+For example, in designating the “chief Clerk in the Depart-
+ment of Foreign Affairs” as an “inferior officer,” the First
+Congress made clear that the Clerk was “to be employed” as
+the Secretary of Foreign Affairs “shall deem proper.” Act
+of July 27, 1789, ch. 4, 1 Stat. 29. The same was true of the
+Chief Clerk of the Department of War. See Act of Aug. 7,
+1789, ch. 7, 1 Stat. 49–50. In 1839 in Hennen, this Court
+explained that the First Congress had bestowed upon the
+Secretaries of various Departments the authority to “appoint
+all necessary clerks”; that those clerks were subject to at-
+will removal by the Secretaries; and that they fell “under
+that class of inferior officers.” 13 Pet., at 259–260; see, e. g.,
+Act of Apr. 30, 1798, ch. 35, 1 Stat. 553–554 (clerks to the
+Secretary of the Navy); see also, e. g., Act of Sept. 2, 1789,
+ch. 12, 1 Stat. 65 (assistant to the Secretary of the Treasury);
+Act of Feb. 20, 1792, ch. 7, 1 Stat. 234 (deputy postmasters).
+On the other side of the ledger, Braidwood has not identi-
+fed any instance where an executive officer was removable
+at will by someone other than the President and nonetheless
+deemed a principal officer.
+Here, because the Secretary of HHS appoints the Task
+Force members, he also has the authority to remove the Task
+Force members at will. See Braidwood Mgmt. Inc. v. Be-
+cerra, 627 F. Supp. 3d 624, 647 (ND Tex. 2022); Braidwood
+Mgmt., Inc. v. Becerra, 104 F. 4th 930, 943 (CA5 2024).
+When a statute empowers a department head to appoint an
+officer, the default presumption is that the officer holds his
+position “at the will and discretion of the head of the depart-
+ment,” even if “no power to remove is expressly given.”
+Hennen, 13 Pet., at 259–260. That is because the “power of
+removal of executive officers” is “incident to the power of
+appointment.” Myers v. United States, 272 U. S. 52, 119
+(1926). As this Court recently summarized in Free Enter-
+prise Fund v. Public Company Accounting Oversight
+Board, when as here Congress vests appointment of inferior
+officers in “heads of departments,” “it is ordinarily the de-
+partment head . . . who enjoys the power of removal.” 561
+U. S., at 493.
+The Secretary of HHS has the power to appoint (and has
+appointed) the Task Force members. See Part III, infra.
+And no statute restricts removal of Task Force members.
+Therefore, “there can be no doubt” that the Secretary may
+remove Task Force members at will. Hennen, 13 Pet., at
+259.
+The Secretary's authority to remove Task Force members
+at will in turn enables him to supervise and direct them.
+When a Task Force member makes a decision that the Secre-
+tary disagrees with, the Secretary may remove that member.
+In other words, the Secretary “may consider the decision
+after its rendition as a reason for removing” the Task Force
+member, “on the ground that the discretion regularly en-
+trusted to” that member “has not been on the whole intelli-
+gently or wisely exercised.” Myers, 272 U. S., at 135.
+In addition, the Secretary can block a Task Force rec-
+ommendation from taking effect by combining his at-will
+removal authority with his authority to determine when
+Task Force recommendations become binding.
+To explain: The Affordable Care Act expressly affords
+the Secretary the power to “establish a minimum interval”
+between when the Task Force issues an “A” or “B” recom-
+mendation and when insurers must cover the recommended
+service without cost sharing. 42 U. S. C. § 300gg–13(b)(1).
+Congress specified that the minimum interval “shall not be
+less than 1 year,” leaving the Secretary with discretion to
+set a longer minimum interval. § 300gg–13(b)(2).
+So during the minimum 1-year period after the Task Force
+makes a recommendation before it becomes binding, the Sec-
+retary can request that the Task Force reconsider or with-
+draw a recommendation that he disfavors. He has plenty of
+time to remove and replace Task Force members who refuse.
+And he can then request that the reconstituted Task Force
+modify or rescind the recommendation. Therefore, in this
+statutory scheme, the Secretary can use his at-will removal
+power to stop any preventive-services recommendation con-
+trary to his judgment from taking effect.
+In short, through the power to remove and replace Task
+Force members at will, the Secretary can exert significant
+control over the Task Force—including by blocking recom-
+mendations he does not agree with. The Secretary's power
+to supervise and direct Task Force members in that way is
+a strong indication that the Task Force members are infe-
+rior officers.
+2
+Regardless of whether the Secretary's authority to remove
+Task Force members at will suffices on its own to render
+them inferior officers, the Secretary also has statutory power
+to directly review and block Task Force recommendations
+before they take effect. That power confirms that the Task
+Force members are inferior officers.
+At-will removal is one means of ensuring supervision and
+direction. But in evaluating inferior-officer status, the
+Court has also examined whether the relevant officer has the
+“power to render a final decision on behalf of the United
+States” without review by a principal officer. Edmond, 520
+U. S., at 665.
+That consideration has taken on particular importance in
+assessing whether adjudicative officers are principal or infe-
+rior. See id., at 664–665; Arthrex, 594 U. S., at 13–14. If
+an adjudicative officer's decisions are reviewable by a supe-
+rior, then the officer may be considered inferior even if not
+removable at will. See Arthrex, 594 U. S., at 16–17; id., at
+25–26 (opinion of Roberts, C. J.).2
+2 Review by an Article III court does not render the adjudicative officer
+inferior; it is review by a superior within the Executive Branch that does
+so. See Arthrex, 594 U. S., at 17.
+Here, the Secretary's power to supervise and direct the
+Task Force members derives from more than simply at-will
+removal authority. As explained, at-will removal provides
+the Secretary with a means of ensuring that no recommenda-
+tion that he disapproves will take effect. But the Secretary
+also has the statutory authority to directly review—and, if
+necessary, block—Task Force recommendations before they
+take effect. So members of the Task Force cannot make any
+legally binding, final decision on behalf of the United States
+if the Secretary disagrees and wants to block it. As a result,
+the Secretary retains ultimate responsibility over whether
+Task Force recommendations become final decisions that
+mandate no-cost coverage by health insurers.
+To spell this out: A collection of statutes grants the Sec-
+retary general supervisory authority over the Task Force.
+That supervisory authority in turn enables the Secretary to
+review and, if he chooses, directly block a recommendation
+he disagrees with.
+First, 42 U. S. C. § 202 provides that the Public Health
+Service, which houses the Task Force, “shall be administered
+. . . under the supervision and direction of the Secretary.”
+Second, Reorganization Plan No. 3 of 1966 grants the Sec-
+retary authority to perform “all functions of the Public
+Health Service” and its “officers,” “employees,” and “agen-
+cies.” 80 Stat. 1610. 3
+3 Braidwood contends that the Reorganization Plan does not apply to
+the Task Force because the Plan contains an exception for “the functions
+vested by law in any advisory council, board, or committee of or in the
+Public Health Service.” 80 Stat. 1610. That is incorrect. As Braidwood
+itself has explained, the Task Force “ceased to be an advisory committee”
+in 2010 “when Congress enacted” the Affordable Care Act and “empow-
+ered” the Task Force to issue binding recommendations. App. 25. Task
+Force members are officers because, by operation of the ACA, their “A”
+and “B” recommendations are not purely advisory. And Congress has
+confirmed that the post-ACA Task Force is not an advisory entity by ex-
+pressly providing that “the Task Force is not subject to” the Federal Advi-
+sory Committee Act. 42 U. S. C. § 299b–4(a)(5) (2018 ed., Supp. IV).
+Third, 42 U. S. C. § 300gg–92 states that the Secretary
+“may promulgate such regulations as may be necessary or
+appropriate to carry out the provisions of this subchapter”—
+including the section of the Affordable Care Act that re-
+quires no-cost coverage of Task Force “A” and “B”
+recommendations.
+The Affordable Care Act mandates coverage without cost
+sharing of “evidence-based items or services that have in
+effect a rating of `A' or `B' ” from the Task Force. § 300gg–
+13(a)(1) (emphasis added). During the minimum 1-year in-
+terval, the Secretary can use his general supervisory author-
+ity under § 202 and Reorganization Plan No. 3 to direct that
+the Task Force's recommendation not be “in effect” and
+therefore not be binding on health insurers. Moreover,
+the Secretary can use his rulemaking authority under
+§ 300gg–92 to establish a formal review process. For exam-
+ple, the Secretary can issue a regulation providing that
+no Task Force recommendation shall be deemed “in effect”
+until he or his designee has affirmatively reviewed and ap-
+proved it.4
+Taken together, those complementary review authorities
+ensure that the Task Force members “have no power to ren-
+der a final decision on behalf of the United States unless
+permitted to do so by” the Secretary of HHS. Edmond, 520
+U. S., at 665. To be clear, to supervise and direct for pur-
+poses of the Appointments Clause, the Secretary “need not
+review every decision.” Arthrex, 594 U. S., at 27. Rather,
+“[w]hat matters is that” the Secretary “have the discretion
+to review decisions rendered by” the Task Force. Ibid. (em-
+4 The body within HHS assigned to recommend immunization coverage
+requirements under the Affordable Care Act—the Advisory Committee on
+Immunization Practices—already operates under such a regulation. The
+regulation states that a recommendation of the Committee is not “consid-
+ered in effect” until “it has been adopted by” the Director of the Centers
+for Disease Control and Prevention, who answers to the Secretary of
+HHS. 45 CFR § 147.130(a)(1)(ii) (2024).
+phasis added). Under the statutory provisions described
+above, the Secretary possesses that authority. 5
+C
+Given the multiple and mutually reinforcing means by
+which the Secretary of HHS can supervise and direct the
+Task Force—namely, both the general authority to remove
+Task Force members at will and the more specific statutory
+authority to review and block their recommendations before
+they take effect—this Court's precedents preordain the con-
+clusion that the Task Force members are inferior officers.
+In Edmond v. United States, the Court ruled that judges
+of the Coast Guard Court of Criminal Appeals were inferior
+officers. See 520 U. S., at 666. In reaching that conclusion,
+the Court emphasized that (i) the Judge Advocate General,
+who exercised administrative oversight over the judges,
+could remove them at will and (ii) the Court of Appeals for
+the Armed Forces could review and reverse their decisions.
+See id., at 664–665. The Court reached that inferior-officer
+conclusion even though, pursuant to the Uniform Code of
+Military Justice, no superior could “attempt to influence (by
+5 The dissent asserts that § 202 and the Reorganization Plan are inappli-
+cable because those statutes give the Secretary authority over the Public
+Health Service, and the Task Force is not part of the Public Health Service
+at all. Post, at 826–827 (opinion of Thomas, J.). At oral argument, the
+Government succinctly summed up why the dissent's position is incorrect:
+“[W]hen you have an entity that's convened by the Public Health Service,
+selected by the Public Health Service, supervised by the Public Health
+Service, and supported by the Public Health Service, it's part of the Public
+Health Service.” Tr. of Oral Arg. 34; see also post, at 798 (The “AHRQ,”
+which “is part of the Public Health Service,” is “responsib[le] for the Task
+Force”). No doubt that is why the provisions governing the Task Force
+are housed within the chapter of the U. S. Code entitled “Public Health
+Service.” See 42 U. S. C. ch. 6A. Braidwood does not even try to claim
+that the Task Force falls outside of the Public Health Service—on the
+contrary, it concedes that, from the outset, the Task Force has been estab-
+lished as an entity “within the Public Health Service.” Supp. Brief for
+Respondents 1; Brief for Respondents 34–35.
+threat of removal or otherwise) the outcome of individual
+proceedings” conducted by the Coast Guard judges. Id., at
+664 (citing 10 U. S. C. § 837).
+Like the Coast Guard judges in Edmond, the Task Force
+members here are removable at will and their decisions can
+be reviewed and overruled by a superior—here, the Secre-
+tary of HHS. Therefore, the result in this case follows
+a fortiori from Edmond.
+In Free Enterprise Fund, the Court considered whether
+members of the Public Company Accounting Oversight
+Board were inferior officers. See 561 U. S., at 510. After
+finding the members of the PCAOB removable at will by the
+Securities and Exchange Commission, the Court concluded
+that PCAOB members were inferior officers. See id., at
+508–510. The fact that the PCAOB was nonetheless “em-
+powered to take significant enforcement actions . . . largely
+independently of the Commission” was no barrier to that
+conclusion. Id., at 504.
+In this case, the Task Force members are removable at
+will, just as the PCAOB members were. And Task Force
+members have no greater power than PCAOB members did
+to independently make final, binding decisions. So the re-
+sult in this case also follows directly from Free Enterprise
+Fund.
+And in United States v. Arthrex, after ensuring that the
+Director of the Patent and Trademark Office had authority
+to review final decisions issued by Administrative Patent
+Judges, the Court deemed those judges to be inferior off-
+cers—even though they were removable only for cause and
+thus insulated from at-will removal. See 594 U. S., at 16–
+17; id., at 25–26 (opinion of Roberts, C. J.).
+If the patent judges in Arthrex, whose decisions were re-
+viewable but who were not removable at will, were inferior
+officers, then there can be no doubt that the Task Force
+members, who are subject to both forms of control, are infe-
+rior officers.
+In sum, considering the Secretary's removal and review
+authorities together, the inferior-officer issue is quite
+straightforward under Edmond, Free Enterprise Fund, and
+Arthrex. In light of those precedents, “we have no hesita-
+tion in concluding” that Task Force members are inferior
+officers whose appointment by the Secretary of HHS is per-
+missible under the Appointments Clause. Free Enterprise
+Fund, 561 U. S., at 510.
+D
+On three separate grounds, Braidwood resists the conclu-
+sion that Task Force members are inferior officers. First,
+Braidwood claims that Task Force members cannot be
+removed at will. Second, Braidwood contends that Task
+Force members exercise unreviewable authority in making
+preventive-services recommendations. Third, Braidwood
+posits that Task Force members cannot be inferior officers
+because the Secretary lacks power to compel the Task Force
+to issue a particular recommendation, as opposed to power
+to block a recommendation. None of the three arguments
+is persuasive.
+1
+Braidwood first claims that the Secretary cannot remove
+Task Force members at will. It rests that argument on 42
+U. S. C. § 299b–4(a)(6). That provision states that Task
+Force members and their recommendations shall be “inde-
+pendent and, to the extent practicable, not subject to political
+pressure.” See also § 299b–4(a)(1) (“The Director shall con-
+vene an independent Preventive Services Task Force”).
+According to Braidwood, it is impossible for Task Force
+members to be “independent” if they are also removable at
+will. So they must not be removable at will, Braidwood
+reasons.
+In essence, Braidwood invites the Court to read a for-
+cause removal restriction into a statute that does not explic-
+itly provide for one. We decline to do so. The Court has
+said that to “take away” the power of at-will removal from
+an appointing officer, Congress must use “very clear and ex-
+plicit language.” Shurtleff v. United States, 189 U. S. 311,
+315 (1903); see Hennen, 13 Pet., at 259–260. “[M]ere infer-
+ence or implication” does not suffice. Shurtleff, 189 U. S.,
+at 315.
+When Congress wants to depart from the default of at-
+will removability and instead furnish for-cause protection, it
+knows how to do so. In many statutes, Congress has speci-
+fed that officers shall be removed only for good cause, often
+using a formulation like “inefficiency, neglect of duty, or mal-
+feasance in office.” 15 U. S. C. § 41 (Federal Trade Commis-
+sioners); 42 U. S. C. § 7171(b)(1) (Federal Energy Regulatory
+Commission members); 49 U. S. C. § 1301(b)(3) (Surface
+Transportation Board members); see also Arthrex, 594 U. S.,
+at 17 (Patent judges may be removed only “ `for such cause
+as will promote the efficiency of the service' ” (quoting 5
+U. S. C. § 7513(a))).
+In fact, Congress has done so with respect to members of
+other bodies that, like the Task Force, are within the Public
+Health Service of HHS: Ethics board members who review
+research involving human subjects may be removed only “for
+neglect of duty or malfeasance or for other good cause
+shown.” 42 U. S. C. § 289a–1(b)(5)(E). Notably, however,
+Congress did not employ that kind of language in the statute
+governing the Task Force.
+Braidwood nonetheless suggests that the term “independ-
+ent” in this statute suffices to displace the default of at-will
+removal. But this Court already rejected that move in Col-
+lins v. Yellen. There, the challengers argued that the Act-
+ing Director of the Federal Housing Finance Agency must
+have been removable only for cause because Congress de-
+scribed the agency as “ `independent.' ” 594 U. S. 220, 248
+(2021) (quoting 12 U. S. C. § 4511(a); emphasis deleted). The
+Court disagreed, concluding that the challengers read “far
+too much into the term `independent.' ” 594 U. S., at 248.
+The Court explained that “Congress has described many
+agencies as `independent' without imposing any restriction
+on the President's power to remove the agency's leadership.”
+Id., at 249.
+Given Collins, Braidwood's argument based on the term
+“independent” falls short. The word “independent” alone in
+a statute does not make an officer removable only for cause.
+Rather, Congress must speak clearly if it wishes to insulate
+officers from at-will removal. It has not done so here.
+2
+Next, Braidwood insists that the Task Force members can-
+not be inferior officers because, in Braidwood's view, they
+exercise unreviewable authority in making final recommen-
+dations that are binding on health insurers. In other words,
+Braidwood contends that the Secretary cannot prevent the
+Task Force's “A” and “B” recommendations from taking
+effect, and that the Task Force members are therefore not
+inferior officers.
+The premise is wrong. As we have explained, the Secre-
+tary in fact has authority to review the Task Force's recom-
+mendations and can block them from taking effect.
+Braidwood's argument to the contrary is, essentially, just
+another version of its first argument. Braidwood again falls
+back on the independence provision. Braidwood claims that
+§ 299b–4(a)(6)'s requirement that Task Force members be
+“independent and, to the extent practicable, not subject to
+political pressure” must mean that the Task Force is com-
+pletely insulated from the Secretary. As Braidwood sees it,
+the Task Force's recommendations cannot be “independent”
+or free from “political pressure” if the Secretary can review
+and block them. We disagree for two distinct reasons.
+First, the requirement that Task Force members be “inde-
+pendent” is best read to mean that Task Force members
+must not be unduly influenced by their outside affliations.
+Task Force members hail from universities, hospitals, and
+professional associations. The requirement that they be
+“independent” instructs them not to act as mere agents or
+representatives of those outside entities. See Brief for
+United States 32 (members “must not regard themselves as
+mere representatives of the organizations or professions in
+which they serve”); Brief for State of Illinois et al. as Amici
+Curiae 13 (the provision ensures that members are not “op-
+erating at the behest of external entities” given their “pro-
+fessional and organizational ties”).
+To reinforce that critical aspect of independence, Task
+Force members are subject to rigorous conflict-of-interest
+rules. See App. 42–44. The stated purpose of those rules
+is to protect the public's “confidence in the integrity of the
+process by which the Task Force makes its recommenda-
+tions.” Id., at 42.
+Moreover, it would not make sense to read “independent”
+in § 299b–4(a)(6) more broadly to also mean insulation from
+politically accountable superiors. That is because the re-
+mainder of § 299b–4(a)(6) expressly provides that Task Force
+members shall be, “ to the extent practicable , not subject to
+political pressure.” (Emphasis added.) Congress therefore
+plainly contemplated that insulation from all political pres-
+sure would be impracticable. So to read the term “inde-
+pendent” to mean that Task Force members must be entirely
+shielded from political pressure would nullify Congress's
+purposeful choice of language—“to the extent practicable”—
+in the remainder of the provision. § 299b–4(a)(6). Where
+one reading of part of a statutory provision “deprives an-
+other” part “of all independent effect” and another reading
+“leaves both . . . with some independent operation,” we gen-
+erally prefer the latter. A. Scalia & B. Garner, Reading
+Law: The Interpretation of Legal Texts 176 (2012).
+Second, even if we were to interpret “independent” to
+apply to political pressure, the phrase “independent and, to
+the extent practicable, not subject to political pressure”
+would mean only that Task Force members are generally
+free from the Secretary's influence in their formulation of
+recommendations in the first instance. The Secretary would
+still retain power to review and block recommendations in
+the minimum 1-year period before the recommendations
+take effect.
+Braidwood disagrees. It contends that the Secretary's
+only power with respect to the Task Force's recommenda-
+tions is to determine when they take effect. It says that
+§ 300gg–13 makes the Task Force's recommendations binding
+after the minimum 1-year interval regardless of what the
+Secretary does. But that understanding of the statute can-
+not be squared with the provisions discussed above that give
+the Secretary general supervisory authority over the Task
+Force.
+So given the Secretary's review authority, Congress's in-
+struction that Task Force members and their recommenda-
+tions be “independent and, to the extent practicable, not sub-
+ject to political pressure” means at most that Task Force
+members can exercise independent judgment in generating
+recommendations on the front end—in the same way that
+the Coast Guard judges in Edmond and the patent judges in
+Arthrex made initial adjudicative decisions free from direc-
+tion by superiors.
+In that way, the Task Force's operation vis-à-vis the Secre-
+tary is entirely consistent with Congress's longstanding prac-
+tice—reflected in Edmond and Arthrex—of authorizing
+inferior-officer adjudicators in the Executive Branch to make
+initial, independent decisions that are only then subject to
+review by a superior officer. The “modern federal hearing
+examiner or administrative law judge” generally “exercises
+his independent judgment on the evidence before him, free
+from pressures by the parties or other officials within the
+agency.” Butz v. Economou, 438 U. S. 478, 513 (1978). But
+“it certainly is the norm for principal officers to have the
+capacity to review decisions made by inferior adjudicative
+officers.” Arthrex, 594 U. S., at 20 (quotation marks omit-
+ted). That is the “almost-universal model of adjudication in
+the Executive Branch.” Id., at 25 (opinion of Roberts,
+C. J.). Indeed, the Administrative Procedure Act expressly
+provides for agency-head review of initial decisions made by
+Executive Branch adjudicators in 5 U. S. C. § 557(b). And
+“ `higher-level agency reconsideration' by the agency head is
+the standard way to maintain political accountability and ef-
+fective oversight for adjudication that takes place outside the
+confines of § 557(b).” Arthrex, 594 U. S., at 20 (quoting C.
+Walker & M. Wasserman, The New World of Agency Adjudi-
+cation, 107 Cal. L. Rev. 141, 157 (2019)); see also Arthrex,
+594 U. S., at 20 (citing Freytag v. Commissioner, 501 U. S.
+868 (1991)).
+The fact that a wide range of administrative law judges
+and other inferior-officer adjudicators throughout the Execu-
+tive Branch make independent decisions in the first instance
+that are only later reviewable by politically accountable su-
+periors reinforces the conclusion that Task Force members,
+whose function at the very least accords with that practice,
+are inferior officers. Under the Appointments Clause, Con-
+gress may permissibly provide for an initial “impartial deci-
+sion by a panel of experts” who are appointed by a depart-
+ment head, followed by a final “transparent decision for
+which a politically accountable officer must take responsibil-
+ity.” Arthrex, 594 U. S., at 16. The structure of the Task
+Force preserves both expertise and accountability.
+Finally, even if we perceived ambiguity in how § 299b–
+4(a)(6)'s language regarding independence and freedom from
+political pressure should be construed, constitutional avoid-
+ance would counsel against adopting Braidwood's expansive
+interpretation. We should not read the statute in a way
+that makes the current method of appointment—by the
+Secretary—unconstitutional if we can reasonably read it oth-
+erwise. We have applied that constitutional-avoidance prin-
+ciple in similar Appointments Clause cases. See, e. g.,
+Edmond, 520 U. S., at 658. As this Court explained in Ed-
+mond, “we must of course avoid” reading the statute “in a
+manner that would render it clearly unconstitutional” when
+“there is another reasonable interpretation available.”
+Ibid.
+An interpretation of § 299b–4(a)(6) under which the Task
+Force members exercise independent judgment in formulat-
+ing recommendations, but the Secretary maintains authority
+to review and block them before they take effect is at the
+very least a reasonable one. Under that interpretation, the
+Task Force's operation is akin to the longstanding model of
+agency adjudications. See id., at 664–665; Arthrex, 594
+U. S., at 19–20. And that reading avoids making the stat-
+ute's method of appointment to the Task Force—that is, ap-
+pointment by the Secretary—unconstitutional. So to steer
+clear of unconstitutionality, we would adopt that interpreta-
+tion even if the statute's references to “independent” and
+“to the extent practicable, not subject to political pressure”
+created ambiguity as to what powers the Secretary pos-
+sesses to review and block the Task Force's recommenda-
+tions. § 299b–4(a)(6).
+3
+Braidwood's third argument is that Task Force members
+are not inferior officers because, even assuming that the Sec-
+retary can review and block recommendations, the Secretary
+cannot directly compel the Task Force to make an “A” or “B”
+recommendation in the first place.
+To begin with, in light of the Secretary's at-will removal
+power, he could in effect require the Task Force to make
+certain recommendations—at least in some situations. See
+§ 299b–4(a)(6) (Task Force “not subject to political pressure”
+but only “to the extent practicable”). Specifically, if the cir-
+cumstances so warranted, the Secretary could remove and
+replace members of the Task Force who were unwilling to
+assign an “A” or “B” recommendation to a particular service.
+In any event, even assuming that Braidwood's argument
+on this point is correct, that would not affect the Task Force
+members' inferior-officer status.
+For one thing, when the Task Force declines to issue an
+“A” or “B” recommendation, there is less cause for concern
+about executive officers exercising significant governmental
+authority without adequate supervision and direction. That
+is because when the Task Force decides not to issue an “A”
+or “B” recommendation, the Government is not regulating
+private parties: Health insurers are free to cover or not
+cover the preventive service at issue as they wish. Con-
+gress made that freedom of choice explicit in the statute:
+“Nothing in this subsection shall be construed to prohibit a
+plan or issuer from providing coverage for services in addi-
+tion to those recommended by” the Task Force “or to deny
+coverage for services that are not recommended by such
+Task Force.” § 300gg–13(a).
+More fundamentally, this Court has not suggested that a
+principal officer must be able to compel a subordinate to take
+an affirmative act affecting private parties in order for the
+subordinate to qualify as an inferior officer. On the con-
+trary, the Court essentially held the opposite in Free Enter-
+prise Fund. There, the Court recognized that the Securi-
+ties and Exchange Commission lacked the power to require
+the PCAOB to “start” individual investigations. 561 U. S.,
+at 504. That was no impediment to this Court's concluding
+that the PCAOB members were inferior officers.
+Similarly, in Edmond, the Judge Advocate General and
+Court of Appeals for the Armed Forces could not compel the
+Coast Guard judges to make a particular decision in the first
+instance. See 520 U. S., at 664–665. Nor could the Director
+of the Patent and Trademark Office exercise that kind of
+power over the patent judges in Arthrex. See 594 U. S., at
+8–9; id., at 25–26 (opinion of Roberts, C. J.). The Coast
+Guard and patent judges were nonetheless considered infe-
+rior officers.
+Here, even if the Secretary cannot directly order the Task
+Force to formulate an “A” or “B” recommendation, that does
+not undermine the inferior-officer status of the Task Force
+members.
+4
+In essence, Braidwood urges this Court to read the rele-
+vant statutes as having created an independent agency—the
+U. S. Preventive Services Task Force—whose members
+wield unchecked power in making preventive-services rec-
+ommendations of great consequence for the healthcare and
+health-insurance industries and the American people more
+broadly. At oral argument, Braidwood went so far as to as-
+sert that, with respect to preventive-services recommenda-
+tions, the Task Force members are “more powerful than the
+Secretary of HHS or the President.” Tr. of Oral Arg. 101.
+It would be odd, however, for this Court to attribute to
+Congress the intent to create such a powerful independent
+agency—whose members would therefore require Presiden-
+tial nomination and Senate confirmation—when the text of
+the statute says nothing of the sort.
+When Congress wants to create an independent agency, it
+generally does so by explicitly conferring for-cause removal
+protection on the agency's leadership. See Part II–D–1,
+supra. And Congress usually couples that express for-cause
+protection from removal with an express statement that
+those agency heads shall be nominated by the President and
+confirmed by the Senate. See, e. g., 15 U. S. C. § 41 (The
+Federal Trade Commission “shall be composed of fve Com-
+missioners, who shall be appointed by the President, by and
+with the advice and consent of the Senate”); 42 U. S. C.
+§ 7171(b) (The Federal Energy Regulatory Commission
+“shall be composed of fve members appointed by the Presi-
+dent, by and with the advice and consent of the Senate”);
+49 U. S. C. § 1301(b)(1) (The Surface Transportation Board
+“shall consist of 5 members, to be appointed by the Presi-
+dent, by and with the advice and consent of the Senate”).
+The statute establishing the Task Force contains none of
+that customary language—either with respect to for-cause
+removal or appointment by the President with the advice
+and consent of the Senate. That silence speaks volumes.
+Contrary to the argument advanced by Braidwood, we will
+not judicially construct a powerful new independent agency
+that Congress and the President did not themselves establish
+by statute.
+III
+Braidwood contends that even if Task Force members are
+inferior officers, their appointments were nonetheless uncon-
+stitutional. Since June 2023, after questions arose about the
+AHRQ Director's appointment of the Task Force members,
+the Secretary of HHS has appointed all Task Force mem-
+bers, including by re-appointing those who were already
+serving. But Braidwood says that the Secretary lacks stat-
+utory authority to make appointments to the Task Force,
+which in turn would create a separate Appointments Clause
+problem. The dissent advances a version of the same
+argument.
+Under the Appointments Clause, “Congress may by Law
+vest the Appointment of” inferior officers “in the Heads of
+Departments.” Art. II, § 2, cl. 2 (emphasis added). Accord-
+ing to Braidwood and the dissent, though, Congress has not
+vested the authority to appoint Task Force members in the
+Secretary of HHS, the relevant Head of Department.
+Braidwood and the dissent maintain that, given the absence
+of any statutory authorization for the Secretary to appoint,
+Task Force members must be appointed by Presidential nom-
+ination and Senate confirmation.
+We disagree. Congress has, in two steps, expressly
+vested the Secretary of HHS with the authority to appoint
+Task Force members. First, in 1999, when Congress codi-
+fed the Task Force, Congress authorized the Director of the
+Agency for Healthcare Research and Quality (AHRQ) to ap-
+point members of the Task Force. Second, Reorganization
+Plan No. 3 of 1966 transfers all of the AHRQ Director's func-
+tions to the Secretary. Congress ratified that Reorganiza-
+tion Plan in 1984. So in 1999, when Congress gave the
+AHRQ Director the authority to appoint Task Force mem-
+bers, that authority vested in the Secretary.
+Beginning in June 2023, the Secretary has exercised that
+statutory authority to appoint the Task Force members.
+Therefore, since June 2023, all Task Force members (includ-
+ing the ones who already held office as of that date) have
+been appointed by the Secretary of HHS pursuant to a law
+enacted by Congress—and thus they have been appointed in
+a manner consistent with the “Congress may by Law vest”
+requirement of the Appointments Clause. Art. II, § 2, cl. 2.
+A
+1
+The statute governing the Task Force, as originally
+enacted in 1999 and amended in 2010, authorizes the AHRQ
+Director to appoint the Task Force members. See § 915, 113
+Stat. 1659; 124 Stat. 541–542. That statute provides that
+the Director “shall convene” a Task Force “to be composed
+of individuals with appropriate expertise.” 42 U. S. C.
+§ 299b–4(a)(1).
+To be sure, the statute does not use the term “appoint.”
+But Congress need not use magic words to confer appoint-
+ment authority. Around the time of the Founding, “the verb
+`appoint' ” was synonymous with “ `allot, assign, or desig-
+nate.' ” NLRB v. SW General, Inc., 580 U. S. 288, 312–313
+(2017) (Thomas, J., concurring) (quoting 1 N. Webster, An
+American Dictionary of the English Language 11–12 (1828));
+see Al Bahlul v. United States, 967 F. 3d 858, 863, 873–874
+(CADC 2020) (holding that statute permitting the Secretary
+of Defense to “designate” an officer responsible for convening
+military commissions vested the Secretary with authority to
+“appoint” the convening officer (quoting 10 U. S. C. § 948h));
+post, at 804 (opinion of Thomas, J.) (A “statute giving” a
+department head “authority to assign a person” to an office
+satisfies the Appointments Clause (emphasis added)).
+Depending on context, other terms like “direct” that are
+perhaps less obviously synonymous with “appoint” may also
+suffice to confer appointment authority—and that may be so
+even if the same statute uses the term “appoint” with re-
+spect to other officers. See SW General, Inc., 580 U. S., at
+312 (Thomas, J., concurring) (concluding that when the Presi-
+dent “ `direct[s]' ” someone to “ `perform the functions and du-
+ties' ” of an office temporarily, “he is `appoint[ing]' that per-
+son as an `officer of the United States' within the meaning of
+the Appointments Clause” even though the statute refers to
+“appointment[s]” to the same offices, 5 U. S. C. § 3345).
+More to the point, the AHRQ Director's power to “con-
+vene” is naturally read to include the power to appoint in
+this specific context. Of course, “convene” in the abstract
+could mean to merely “call together” or “assemble.” Supp.
+Brief for Respondents 4 (quotation marks omitted). But
+where as here there is no separate statutory provision speci-
+flying who is to appoint the individuals to be called together
+or assembled, the obvious conclusion is that the person with
+the power to convene is also the person with the power to
+appoint. That is especially so when the person charged with
+convening is required to ensure that members of the body to
+be convened meet certain qualifications, such as “appropriate
+expertise.” § 299b–4(a)(1).
+Congress has elsewhere used the term “convene” to au-
+thorize an official to both assemble a body and select its
+members. For example, 10 U. S. C. § 948h states: “Military
+commissions under this chapter may be convened by the Sec-
+retary of Defense or by any officer or official of the United
+States designated by the Secretary for that purpose.” That
+statute contains no provision using the term “appoint.”
+Therefore, § 948h—along with a neighboring provision that
+also uses a term other than “appoint” (namely, “detail”)—has
+been read to authorize the Secretary of Defense or his desig-
+nee to appoint commission members. See Al Bahlul, 967
+F. 3d, at 863–864; see also § 948i(b) (“When convening a mili-
+tary commission under this chapter, the convening authority
+shall detail” eligible “members of the armed forces”); see
+also, e. g., 10 U. S. C. § 14903(a) (“The Secretary of the mili-
+tary department concerned shall convene a board of inquiry”
+to “be composed of not less than three officers” with specified
+“qualifications”); 14 U. S. C. § 3703(a) (“The Secretary shall
+convene a Coast Guard Reserve Policy Board,” and at “least
+one-half of the members of the Board shall be Reserve off-
+cers”); 33 U. S. C. § 3022(a) (The Secretary of Commerce
+“shall convene a personnel board” which “shall consist of not
+less than fve officers” of a certain “grade”).
+On the fip side, when Congress wants to decouple the
+power to convene from the power to appoint, it has done so
+explicitly. Consider 15 U. S. C. § 634c(b)(2)(A), which pro-
+vides that “the Chief Counsel for Advocacy” within the
+Small Business Administration “shall convene an Inter-
+agency Working Group” but then states that the Working
+Group shall be composed of representatives from particular
+agencies “as selected by the head of the agency.” See also,
+e. g., 20 U. S. C. §§ 107d–2(a), (b) (The Secretary of Education
+“shall convene an ad hoc arbitration panel” with three mem-
+bers “appointed” by others); 50 U. S. C. §§ 3022(b), (d) (2018
+ed., Supp. II) (“The Director of National Intelligence shall
+convene meetings of the Joint Intelligence Community Coun-
+cil” with membership of the Council specified in the law
+itself).
+The statute setting up the Task Force is more like the
+former set of statutes than the latter. So in context, the
+AHRQ Director's power to “convene” naturally encompasses
+the power to appoint.
+Not surprisingly, the Executive Branch's actions for the
+last 26 years, since the 1999 codification of the Task Force,
+have reflected that straightforward interpretation of the
+statute—without any apparent objection from Congress.
+For those 26 years, the relevant government actors have al-
+ways read the authorization to “convene” the Task Force to
+include the power to appoint the Task Force members.
+That considered and consistent Executive Branch practice—
+which began contemporaneously with enactment of the stat-
+ute codifying the Task Force in 1999—buttresses the or-
+dinary meaning and natural interpretation of the term
+“convene” in the statute. See Loper Bright Enterprises v.
+Raimondo, 603 U. S. 369, 394 (2024); see also Bondi v. Van-
+DerStok, 604 U. S. 458, 480–481 (2025).
+2
+Of course, if the statute vested the power to appoint Task
+Force members in the AHRQ Director alone, a constitutional
+problem would exist. Not in 1999 when the “convene” pro-
+vision was enacted and the Task Force's recommendations
+were still advisory—at that point, the Task Force members
+were mere employees who could be appointed by the AHRQ
+Director. But there would be a problem beginning in 2010
+after the Affordable Care Act was enacted. Starting then,
+the Task Force's “A” and “B” recommendations were no
+longer merely advisory. Rather, health insurers had to
+begin covering those recommended services at no cost to the
+insured. So after the Affordable Care Act, the Task Force
+members were officers, not just employees. And as inferior
+officers, they could be appointed by the Secretary, who is a
+Head of Department, but not by the AHRQ Director. In
+short, since 2010, the Appointments Clause has required that
+the Task Force members be appointed by the Secretary of
+HHS.
+As the Government explains, however, Congress itself
+solved the potential constitutional issue that arose in 2010.
+See Supp. Brief for United States 5. Specifically, Reorgani-
+zation Plan No. 3 of 1966, which was ratified by Congress in
+1984, transfers all authority of the AHRQ Director to the
+Secretary. So under Reorganization Plan No. 3, the AHRQ
+Director's power to appoint the Task Force members was
+transferred to the Secretary. That means the Secretary
+possesses the authority to appoint the Task Force members.
+And the Secretary has exercised that appointment authority.
+To explain the background a bit more fully: The Reorgani-
+zation Act of 1949 charged the President with examining
+“the organization of all agencies of the Government.” § 2(a),
+63 Stat. 203. That Act authorized the President to prepare
+reorganization plans when he determined that “the transfer
+of the whole or any part of any agency” or its “functions”
+“to the jurisdiction and control of any other agency” was
+necessary. § 3, id., at 203; see id., at 204.
+In 1966, acting pursuant to the 1949 Act, President Lyndon
+Johnson issued Reorganization Plan No. 3. Before 1966, the
+Public Health Service was separate from the Department of
+Health and Human Services, then known as the Department
+of Health, Education, and Welfare (HEW). See Public Pa-
+pers of the Presidents, Lyndon B. Johnson, Vol. I, Apr. 25,
+1966, p. 455 (1967). But in 1966, Reorganization Plan No. 3
+transferred to the Secretary of HHS (then HEW) “all func-
+tions of the Public Health Service” and its “officers and em-
+ployees” as well as “all functions of all agencies of or in the
+Public Health Service.” 80 Stat. 1610.
+In 1984, Congress passed and President Reagan signed
+legislation that ratified and affirmed Reorganization Plan No.
+3 “as law.” 98 Stat. 2705.
+The AHRQ is an agency “of or in the Public Health Serv-
+ice,” and the AHRQ Director is an “officer” of the Public
+Health Service. 80 Stat. 1610; see 42 U. S. C. § 299(a). So
+Reorganization Plan No. 3 “transfer[s]” all of the AHRQ Di-
+rector's functions to the Secretary of HHS. 80 Stat. 1610.
+As the Government stated at oral argument here, under Re-
+organization Plan No. 3, “all of the Director's powers are the
+Secretary's powers.” Tr. of Oral Arg. 110.
+After statutory codification of the Task Force in 1999,
+those powers of the Secretary included the AHRQ Director's
+power to appoint the Task Force members. Therefore, by
+virtue of the 1984 Act ratifying Reorganization Plan No. 3
+and the 1999 Act conferring appointment authority, Congress
+vested the power to appoint Task Force members in the Sec-
+retary of HHS. 6
+To be sure, Congress could have vested the Secretary
+with appointment authority in more direct ways. But given
+that the Appointments Clause question arose only in 2010
+when the Task Force recommendations became binding and
+Task Force members became officers under the Affordable
+Care Act, it is no surprise that the 1999 statute did not ex-
+pressly name the Secretary.
+Moreover, this Court has upheld as consistent with the
+Appointments Clause statutory schemes that less directly
+vest appointment authority in the Head of Department. For
+example, in Free Enterprise Fund v. Public Company Ac-
+counting Oversight Board, the Court stated that it had “pre-
+viously found that the department head's approval” of an
+inferior officer's appointment of another inferior officer “sat-
+isfes the Appointments Clause.” 561 U. S. 477, 512, n. 13
+(2010). For that proposition, the Court cited with approval
+United States v. Hartwell, 6 Wall. 385 (1868). In Hartwell,
+the Court considered a statute that authorized “the assistant
+treasurer, at Boston, with the approbation of the Secretary
+of the Treasury, to appoint a specified number of clerks.”
+Id., at 393 (citing Act of July 23, 1866, 14 Stat. 202). The
+Hartwell Court explicitly blessed that arrangement, holding
+that the clerks were “appointed by the head of a department
+within the meaning of the constitutional provision.” 6 Wall.,
+at 393–394.
+6 That is not to say that the Secretary must personally perform every
+function assigned by Congress to the Public Health Service and trans-
+ferred to the Secretary by operation of Reorganization Plan No. 3. With
+respect to most functions, the Secretary may delegate responsibility to
+carry out the function back to the Public Health Service. See § 2, 80 Stat.
+1610. But where the Constitution requires that the Secretary personally
+perform a particular function, like appointing the Task Force members,
+delegation is not an option.
+The appointment scheme at issue in this case more clearly
+vests appointment authority in the department head (the
+Secretary of HHS) than did the statute in Hartwell, the va-
+lidity of which the Court affirmed in Free Enterprise Fund.
+See 561 U. S., at 512, n. 13 (citing 6 Wall., at 393–394). In
+Hartwell, the Secretary could only approve or disapprove
+appointments proposed and carried out by the assistant
+treasurer. So the assistant treasurer could frustrate the
+Secretary's ability to appoint clerks of his choosing simply
+by refusing to propose their appointment. Nonetheless, the
+Court concluded that the statute vested authority to appoint
+the clerks in the Secretary. Here, Reorganization Plan No.
+3 grants the Secretary the power to stand in the shoes of the
+AHRQ Director and himself appoint the Task Force mem-
+bers—far more direct appointment authority than existed
+in Hartwell.
+B
+Braidwood and the dissent push back against the conclu-
+sion that Congress has by law vested the Secretary with
+appointment authority. They argue that the statute gov-
+erning the Task Force actually does not grant appointment
+authority to the AHRQ Director. And they contend that
+even assuming that it does so, no statute “vests” such author-
+ity in the Secretary.
+1
+Braidwood first asserts that the 1999 statute codifying the
+Task Force simply says “convene” and is therefore actually
+“agnostic” about who should appoint the Task Force mem-
+bers. Brief for Respondents 22; see Tr. of Oral Arg. 59–61.
+In other words, Braidwood claims that “Congress has not
+`vested' the appointment of the Task Force in anyone.”
+Supp. Brief for Respondents 1 (emphasis added). As Braid-
+wood sees it, Congress did not care—either in 1999 when it
+codified the Task Force or in 2010 when it made the Task
+Force's recommendations legally binding—whether the Task
+Force members are appointed by the AHRQ Director, the
+Secretary of HHS, the President, the Secretary of Energy, a
+private party, or anyone else. See Tr. of Oral Arg. 59. And
+Braidwood detects no problem with a statute under which
+multiple different officials or entities could all purport to ap-
+point members of the Task Force. Braidwood suggests that
+the AHRQ Director, the Secretary of HHS, or the President
+could simply step in to announce which collection of individu-
+als is the “real” Task Force. See Supp. Brief for Respond-
+ents 5, n. 5.
+We will not read the statute to usher in such a bizarre
+and half-baked scheme. It is implausible to conclude that
+Congress in 1999 established the Task Force and in 2010
+charged its members with making legally binding healthcare
+recommendations—but was entirely indifferent as to who
+would appoint those members. Tellingly, Braidwood has
+failed to identify any other statute that establishes a govern-
+ment entity but is entirely agnostic about who will select the
+members of that government entity. The far more sensible
+reading of the Task Force statute is the Government's: that
+in 1999, in authorizing the AHRQ Director to “convene” a
+Task Force composed of members with “appropriate exper-
+tise,” Congress also charged the Director with selecting
+those members. Supp. Brief for United States 2–3 (quoting
+§ 299b–4(a)(1)).
+The dissent, for its part, cannot bring itself to endorse
+Braidwood's farfetched theory. But it nonetheless asserts
+that we should not read “convene” to mean “appoint” because
+the Appointments Clause supplies a default rule for how
+inferior officers should be appointed: by the President with
+Senate confirmation. But § 299b–4(a)(1), together with
+Reorganization Plan No. 3 of 1966 as ratified by Congress in
+1984, expressly vests appointment authority in the Secretary
+and therefore displaces any such default rule.
+The dissent all but concedes that between 1999 and 2010—
+before the Task Force members were officers and therefore
+before the Appointments Clause was relevant—the statutory
+authorization to “convene” was best read to confer appoint-
+ment authority. See post, at 816; see also post, at 815 (When
+“no other provision addresses how the group's members are
+named because the Appointments Clause does not apply,”
+the “authority to `convene' ” confers appointment authority).
+But according to the dissent, the meaning of the statute sud-
+denly changed in 2010 after the enactment of the Affordable
+Care Act. The problem with that theory is that the relevant
+statutory text did not change in 2010. Both before and
+after the enactment of the Affordable Care Act, the statute
+has granted authority to “convene” a Task Force “composed
+of individuals with appropriate expertise.” § 299b–4(a)(1);
+§ 299b–4(a)(1) (2006 ed.). So in effect, the dissent reads the
+same words to mean different things before and after 2010.
+2
+Braidwood and the dissent next argue that, even if the
+AHRQ Director's statutory authority to “convene” carries
+with it the power to appoint, Reorganization Plan No. 3 does
+not actually transfer the Director's appointment authority to
+the Secretary and thus does not vest appointment authority
+in the Secretary.
+First, Braidwood and the dissent emphasize that Reorga-
+nization Plan No. 3 is not a “law” at all. They note that
+the Plan was originally submitted to Congress in 1966 by
+President Johnson and took effect only because neither
+House of Congress passed a disapproval resolution within
+60 days.
+True but irrelevant. In a 1984 Act passed by Congress
+and signed by President Reagan—an Act that therefore in-
+disputably qualifies as a “law”—Congress stated that it
+“hereby ratifes and affirms as law each reorganization plan”
+previously enacted, including Reorganization Plan No. 3 of
+1966. 98 Stat. 2705.
+Second, Braidwood and the dissent point out that Con-
+gress did not codify the Task Force or the authority to ap-
+point Task Force members until 1999. And they claim that
+Reorganization Plan No. 3 transferred to the Secretary only
+those functions that existed as of 1966. But that frozen-in-
+time reading of Reorganization Plan No. 3 finds no footing in
+either the statutory text or common sense.
+Starting with the text, Reorganization Plan No. 3 transfers
+to the Secretary “ all functions” of the Public Health Service
+and its officers. 80 Stat. 1610 (emphasis added). That most
+naturally means an ongoing transfer of authority—that is,
+any new powers granted to the Public Health Service and its
+officers by Congress after 1966 would be transferred to the
+Secretary, in addition to those powers existing as of 1966.
+Moreover, the Dictionary Act provides that, “unless the con-
+text indicates otherwise,” “words used in the present tense
+include the future as well as the present.” 1 U. S. C. § 1.
+Reorganization Plan No. 3 speaks in the present tense, pro-
+viding that “all functions” “ are hereby transferred.” 80
+Stat. 1610 (emphasis added). The use of the present tense
+combined with the expansive phrase “all functions” shows
+that Congress intended that Reorganization Plan No. 3 effect
+a continuing transfer of functions from the Public Health
+Service to the Secretary.
+Braidwood and the dissent both lean on a provision of the
+Reorganization Act of 1949 stating that no “reorganization
+plan shall provide for, and no reorganization under this Act
+shall have the effect of . . . authorizing any agency to exercise
+any function which is not expressly authorized by law at the
+time the plan is transmitted to the Congress.” 63 Stat. 205.
+But that language merely prevented “the President, under
+the guise of consolidating and rearranging, from actually cre-
+ating authority in the Executive Branch which had not ex-
+isted before.” Dept. of Justice, Office of Legal Counsel,
+Memorandum of William H. Rehnquist, Assistant Atty. Gen.
+(Sept. 11, 1969), in Reorganization Plan No. 1 of 1969 (ICC):
+Hearing before the Subcommittee on Executive Reorga-
+nization of the Senate Committee on Government Opera-
+tions, 91st Cong., 1st Sess., 29 (1969). In other words, that
+provision barred the President from seizing on a reorga-
+nization plan to unilaterally confer new powers on an
+agency.
+But that provision in no way barred Congress from later
+enacting a law that conferred new powers on an agency sub-
+ject to a reorganization plan. That is precisely what Con-
+gress did in 1999 when it codified the Task Force and granted
+the AHRQ Director authority to appoint the Task Force
+members. At that point, the AHRQ Director's authority to
+appoint Task Force members became one of the “functions”
+transferred to the Secretary. 80 Stat. 1610.
+Reading Reorganization Plan No. 3 to provide for only a
+one-time transfer of functions in 1966 and thereby freeze in
+time the relationship between the Public Health Service and
+the Secretary of HHS would also produce untenable—bor-
+dering on absurd—results from the standpoint of the
+agency's practical operations. It would mean that all func-
+tions of the Public Health Service statutorily conferred on
+the Service through 1966 would rest with the Secretary, but
+any functions statutorily conferred on it after the 1966 Plan
+became effective would fall outside of the Secretary's pur-
+view. There is no good or plausible reason to think that
+Congress created such an “arbitrary bifurcation.” Supp.
+Brief for United States 6.
+To the extent it may be relevant, the then-Secretary of
+HEW explained to Congress in 1966 that one objective of
+Reorganization Plan No. 3 was to vest all of the Public
+Health Service's current and future functions in the Secre-
+tary so that he would have the “flexibility” “to reorganize”
+the Service—then and “at any future time”—“as the require-
+ments of the times demand.” Reorganization Plan No. 3 of
+1966 (Public Health Service): Hearing before a Subcommittee
+of the House Committee on Government Operations, 89th
+Cong., 2d Sess., 7 (1966). If the Secretary were vested with
+only the functions of the Public Health Service that existed
+as of 1966, he would lack the flexibility to reorganize the
+Service as public health needs evolved and as Congress cor-
+respondingly conferred new powers upon the Service.
+Third, the dissent spins out a new theory of its own, posit-
+ing that Reorganization Plan No. 3 of 1966 could not have
+transferred the AHRQ Director's functions to the Secretary
+because otherwise the Director would be an “empty husk.”
+Post, at 819. But as the Government explains, the text of
+Reorganization Plan No. 3 of 1966 is plain: It explicitly states
+that it “ `transfer[s]' ” “ `all functions' ” of “ `officers' ” of the
+Public Health Service, including the AHRQ Director, “ `to
+the Secretary.' ” Supp. Brief for United States 5 (quoting 80
+Stat. 1610). And after that statutory transfer, the officers
+of the Public Health Service are not “empty husks” because
+the Secretary may delegate responsibility to carry out func-
+tions back to the Public Health Service and its officers. See
+n. 6, supra. Section 2 of Reorganization Plan No. 3 ex-
+pressly provides for such delegation: It states that the “Sec-
+retary may from time to time make such provisions as he
+shall deem appropriate authorizing the performance of any
+of the functions transferred to him by the provisions of this
+reorganization plan by any officer, employee, or agency of
+the Public Health Service.” 80 Stat. 1610. And the Secre-
+tary has in fact delegated functions back to the Public Health
+Service. See, e. g., 31 Fed. Reg. 8964 (1966); 33 Fed. Reg.
+5426 (1968); 53 Fed. Reg. 3457 (1988); 61 Fed. Reg. 29566
+(1996).
+So it is not correct, either in statutory text or in actual
+practice, that the Reorganization Plan left the officers of the
+Public Health Service as “empty husks.”
+In sum, Braidwood's and the dissent's arguments on the
+vesting issue fall fat. Read in context, two laws taken to-
+gether—Reorganization Plan No. 3 of 1966 as ratified by the
+1984 Act; and the 1999 statute conferring appointment au-
+thority—expressly vest the Secretary with authority to ap-
+point the Task Force members. 7
+3
+Braidwood's and the dissent's arguments that Congress
+has not properly vested the Secretary with authority to ap-
+point Task Force members fail on their own terms. But if
+there were any doubt on that score, the canon of constitu-
+tional avoidance as applied in this Court's prior Appoint-
+ments Clause cases would again dispel it.
+Edmond v. United States is instructive. 520 U. S. 651
+(1997). There, the challengers argued that Congress gave
+the power to appoint judges of the Coast Guard Court of
+Criminal Appeals to the Judge Advocate General. But be-
+cause the Judge Advocate General was not a Head of Depart-
+ment, it would have been unconstitutional for Congress to
+vest appointment authority in the Judge Advocate General
+alone. Rather than read the statute “in a manner that
+would render it clearly unconstitutional,” the Court adopted
+a “reasonable” alternative reading: It interpreted the statu-
+tory scheme to vest appointment authority in the Secretary
+of Transportation. Id., at 658.
+Here, reading the statutes at issue to vest appointment
+authority in the AHRQ Director alone would likewise render
+them “clearly unconstitutional.” Ibid. Meanwhile, it is at a
+minimum “reasonable” to read Reorganization Plan No. 3 to
+have transferred the AHRQ Director's appointment power
+to the Secretary, such that the statutes together vest the
+7 Even if the statutes vested appointment authority in both the Secre-
+tary and the AHRQ Director, the Government says (and Braidwood
+agreed, at least at oral argument) that such a structure would not raise
+constitutional concerns so long as the Secretary was the one to actually
+make the appointments—as has been the case since June 2023. See Supp.
+Brief for United States 7; Tr. of Oral Arg. 67–70, 111.
+Secretary with authority to appoint the members of the Task
+Force. Ibid.
+C
+Not only has Congress vested authority to appoint the
+Task Force members in the Secretary of HHS, the Secretary
+has now in fact exercised that authority. The Task Force
+members have been inferior officers since 2010 when the Af-
+fordable Care Act was enacted. Until June 2023, the Task
+Force members were appointed by the AHRQ Director
+alone, not by the Secretary. Then in June 2023, after litiga-
+tion belatedly alerted the Government to the fact that Task
+Force members had become officers, the Secretary both rati-
+fed the Director's previous appointments of the Task Force
+members and also re-appointed them (a sequence of events
+that similarly occurred in Edmond). The Secretary has con-
+tinued to appoint members of the Task Force, including all
+current members.
+The fact that the Secretary did not begin personally ap-
+pointing the Task Force members until June 2023 is irrele-
+vant to whether the Task Force members appointed by the
+Secretary have been properly appointed. In Edmond, the
+Secretary of Transportation had not historically appointed
+the Coast Guard judges. After Appointments Clause chal-
+lenges arose in litigation, the Secretary “issued a memoran-
+dum `adopting' ” the Judge Advocate General's appointments
+as his own. Id., at 654. Those developments did not pre-
+vent the Court from concluding that the Coast Guard judges
+were properly appointed. The same is true here.
+* * *
+To sum up: Task Force members issue preventive-services
+recommendations of critical importance to patients, doctors,
+insurers, employers, healthcare organizations, and the Amer-
+ican people more broadly. In doing so, however, the Task
+Force members remain subject to the Secretary of HHS's

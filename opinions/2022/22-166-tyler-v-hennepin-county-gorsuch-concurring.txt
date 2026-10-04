@@ -1,0 +1,77 @@
+Tyler v. Hennepin County — No. 22-166 — October Term 2022 — decided 5/25/23 — Gorsuch, J., concurring
+Citation: 598 U.S. 631
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r27_aplc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+fne under the Eighth Amendment. Tr. of Oral Arg. 27.
+The judgment of the Court of Appeals for the Eighth Circuit
+is reversed.
+It is so ordered.
+Justice Gorsuch, with whom Justice Jackson joins,
+concurring.
+The Court reverses the Eighth Circuit's dismissal of Geral-
+dine Tyler's suit and holds that she has plausibly alleged
+a violation of the Fifth Amendment's Takings Clause. I
+agree. Given its Takings Clause holding, the Court un-
+derstandably declines to pass on the question whether the
+Eighth Circuit committed a further error when it dismissed
+Ms. Tyler's claim under the Eighth Amendment's Excessive
+Fines Clause. Ante, at 647–648. But even a cursory re-
+view of the District Court's excessive-fnes analysis—which
+the Eighth Circuit adopted as “well-reasoned,” 26 F. 4th 789,
+794 (2022)—reveals that it too contains mistakes future lower
+courts should not be quick to emulate.
+First, the District Court concluded that the Minnesota
+tax-forfeiture scheme is not punitive because “its primary
+purpose” is “remedial”—aimed, in other words, at “com -
+pensat[ing] the government for lost revenues due to the non-
+payment of taxes.” 505 F. Supp. 3d 879, 896 (Minn. 2020).
+That primary-purpose test finds no support in our law. Be-
+cause “sanctions frequently serve more than one purpose,”
+this Court has said that the Excessive Fines Clause applies
+to any statutory scheme that “serv[es] in part to punish.”
+Austin v. United States, 509 U. S. 602, 610 (1993) (emphasis
+added). It matters not whether the scheme has a remedial
+purpose, even a predominantly remedial purpose. So long
+as the law “cannot fairly be said solely to serve a remedial
+purpose,” the Excessive Fines Clause applies. Ibid. (em-
+phasis added; internal quotation marks omitted). Nor, this
+Court has held, is it appropriate to label sanctions as “reme-
+dial” when (as here) they bear “ `no correlation to any dam-
+ages sustained by society or to the cost of enforcing the
+law,' ” and “any relationship between the Government's ac-
+tual costs and the amount of the sanction is merely coinciden-
+tal.” Id., at 621–622, and n. 14.
+Second, the District Court asserted that the Minnesota
+tax-forfeiture scheme cannot “be punitive because it actually
+confers a windfall on the delinquent taxpayer when the value
+of the property that is forfeited is less than the amount of
+taxes owed.” 505 F. Supp. 3d, at 896. That observation
+may be factually true, but it is legally irrelevant. Some
+prisoners better themselves behind bars; some addicts credit
+court-ordered rehabilitation with saving their lives. But
+punishment remains punishment all the same. See Tr. of
+Oral Arg. 61. Of course, no one thinks that an individual
+who profits from an economic penalty has a winning
+excessive-fnes claim. But nor has this Court ever held that
+a scheme producing fnes that punishes some individuals can
+escape constitutional scrutiny merely because it does not
+punish others.
+Third, the District Court appears to have inferred that the
+Minnesota scheme is not “punitive” because it does not turn
+on the “culpability” of the individual property owner. 505
+F. Supp. 3d, at 897. But while a focus on “culpability” can
+sometimes make a provision “look more like punishment,”
+this Court has never endorsed the converse view. Austin,
+509 U. S., at 619. Even without emphasizing culpability, this
+Court has said a statutory scheme may still be punitive
+where it serves another “goal of punishment,” such as “[d]e-
+terrence.” United States v. Bajakajian, 524 U. S. 321, 329
+(1998). And the District Court expressly approved the
+Minnesota tax-forfeiture scheme in this case in large part
+because “ `the ultimate possibility of loss of property serves
+as a deterrent to those taxpayers considering tax delin-
+quency.' ” 505 F. Supp. 3d, at 899 (emphasis added). Eco-
+nomic penalties imposed to deter willful noncompliance with
+the law are fnes by any other name. And the Constitu-
+tion has something to say about them: They cannot be
+excessive.

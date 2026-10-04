@@ -1,0 +1,185 @@
+Ellingburg v. United States — No. 24-482 — October Term 2025 — decided 1/20/26 — opinion of the Court — author Kavanaugh (listing code BK)
+Citation: 607 U.S. 163
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r09_4fb4.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Finally, while Congress intended restitution under the MVRA to both
+punish offenders and compensate victims, victims cannot initiate or
+settle the restitution process as they would if it were a civil pro-
+ceeding. The text and structure of the Act demonstrate that Congress
+intended restitution under the Act to impose criminal punishment.
+Pp. 165–169.
+113 F. 4th 839, reversed and remanded.
+Kavanaugh, J., delivered the opinion for a unanimous Court. Thomas,
+J., fled a concurring opinion, in which Gorsuch, J., joined, post, p. 169.
+Amy Mason Saharia argued the cause for petitioner.
+With her on the briefs were Lisa S. Blatt, Atticus W. De-
+Prospo, Rohit P . Asirvatham, and R. Shane Roberts, Jr.
+Ashley Robertson argued the cause for the United States
+urging vacatur. On the briefs were Solicitor General
+Sauer, Deputy Solicitor General Feigin, Acting Assistant
+Attorney General Galeotti, and Andrew W. Lang.
+John F. Bash, by appointment of the Court, 605 U. S. 908,
+argued the cause as amicus curiae in support of the judg-
+ment below. With him on the brief were Nicholas J. Ca-
+luda, Alex Van Dyke, and Christopher G. Michel.*
+Justice Kavanaugh delivered the opinion of the Court.
+Under the Mandatory Victims Restitution Act of 1996, de-
+fendants convicted of certain federal crimes must pay mone-
+tary restitution to the victims. That Act, known as the
+*Andrew T. Tutt, Dana Kagan McGinley, and Nicole L. Masiello fled
+a brief for Restitution Scholars as amici curiae urging reversal. Briefs
+of amici curiae urging vacatur were fled for the Cato Institute et al.
+by Matthew P . Cavedon; for the Constitutional Accountability Center by
+Elizabeth B. Wydra and Brianne J. Gorod; for the NACDL et al. by
+Lauren Willard Zehmer, Abby Wright, Hassan Ahmad, and Jeffrey T.
+Green; and for Wayne A. Logan by Krystal B. Swendsboe .
+Briefs of amici curiae were fled for Beth A. Colgan, pro se; for Jennifer
+Laurin by Mahogane Reed; and for Debra Ricketts-Holder by Allyson N.
+Ho, Bradley G. Hubbard, and Paul G. Cassell.
+MVRA, became law on April 24, 1996. Petitioner Elling-
+burg was sentenced later in 1996 and ordered to pay restitu-
+tion in the amount of $7,567.25. He has not yet satisfied
+that obligation.
+Ellingburg has now raised an Ex Post Facto Clause chal-
+lenge to his continued restitution obligation because he com-
+mitted his crime before the enactment of the MVRA. The
+Ex Post Facto Clause issue turns in part on the threshold
+question of whether restitution under the MVRA is criminal
+punishment. Applying Circuit precedent, the U. S. Court of
+Appeals for the Eighth Circuit concluded that restitution
+under the MVRA is not criminal punishment. 113 F. 4th
+839, 841–842 (2024). We now reverse.
+In this Court, Ellingburg and the United States agree that
+the Eighth Circuit erred and that MVRA restitution is crimi-
+nal punishment. The Court therefore appointed John F.
+Bash as amicus curiae to defend the judgment of the Eighth
+Circuit. 605 U. S. 908 (2025). He has ably discharged his
+responsibilities.
+When determining whether a law violates the Ex Post
+Facto Clause, the Court must evaluate whether the law im-
+poses a criminal or penal sanction as opposed to a civil rem-
+edy. Assessing whether “a statutory scheme is civil or
+criminal is first of all a question of statutory construction”
+that requires the Court to “consider the statute's text and
+its structure.” Smith v. Doe, 538 U. S. 84, 92 (2003) (quota-
+tion marks omitted). 1
+1 If the text and structure of a statute do not demonstrate that Congress
+intended criminal punishment, the statute may still be deemed criminal
+or penal if the “party challenging the statute provides `the clearest proof'
+that `the statutory scheme [is] so punitive either in purpose or effect as to
+negate [the Government's] intention' to deem it `civil.' ” Kansas v. Hen-
+dricks, 521 U. S. 346, 361 (1997) (quoting United States v. Ward, 448 U. S.
+242, 248–249 (1980)).
+Here, the statutory analysis is straightforward: Restitu-
+tion under the MVRA is plainly criminal punishment for pur-
+poses of the Ex Post Facto Clause. 2
+Numerous features of the MVRA lead to that conclusion.
+The MVRA labels restitution as a “penalty” for a criminal
+“offense.” 18 U. S. C. § 3663A(a)(1). A court may order
+restitution only with respect to a criminal “defendant” and
+only after that defendant's conviction of a qualifying crime.
+Ibid. Restitution is imposed during “sentencing” for the of-
+fense. Ibid. At the sentencing proceeding where restitu-
+tion is ordered, the Government, not the victim, is the party
+adverse to the defendant.
+At sentencing, restitution is imposed together with other
+criminal punishments such as imprisonment and fnes. In-
+deed, for misdemeanors, restitution may be “in lieu of” those
+punishments, making restitution the sole punishment for a
+federal offense in certain circumstances. Ibid. In addition,
+when a defendant does not make the required restitution
+payments, the court may modify the terms of his supervised
+release or probation and impose imprisonment if the court
+determines that “alternatives to imprisonment are not ade-
+quate to serve the purposes of punishment and deterrence.”
+§§ 3614(b)(2), 3613A(a)(1).
+As
+a further sign that MVRA restitution is criminal pun-
+ishment, the federal MVRA restitution regime is codified in
+Title 18, “Crimes and Criminal Procedure.” The main stat-
+utory provisions authorizing restitution orders, § 3663 and
+§ 3663A, are contained in Chapter 232 of Title 18, entitled
+“Miscel
+laneous Sentencing Provisions.” Another st atutory
+prov
+ision, § 3556, states that a court “shall order restituti on”
+i
+n “imposing a sentence” for covered offenses. That provi-
+sion is housed in Chapter 227 of Title 18, entitled “Sen-
+2 Amicus contends that Ellingburg's restitution was not imposed under
+the MVRA even though Ellingburg was sentenced after the MVRA took
+effect in 1996. But the Eighth Circuit decided this case on the under-
+standing that the MVRA was applied to Ellingburg.
+tences.” The statute also refers to a “sentence that imposes
+an order of restitution.” § 3664(o). When imposing restitu-
+tion, a district court must follow the procedures applicable
+to other criminal penalties, including the Federal Rules of
+Criminal Procedure. See § 3664(c). And § 3663(c) directs
+the U. S. Sentencing Commission to promulgate criminal
+sentencing guidelines for restitution. § 208, 110 Stat. 1240;
+§ 3663(c)(7).
+When viewed as a whole, then, the MVRA makes abun-
+dantly clear that restitution is criminal punishment. We are
+not saying that all of the statutory features present here
+are necessary to constitute criminal punishment, but they
+are sufficient.
+Given the statutory text and structure, it comes as no
+surprise that this Court's precedents have understood restitu-
+tion under the MVRA to be criminal punishment. In Man-
+rique v. United States , the Court stated that the MVRA
+requires courts “to impose restitution as part of the sen-
+tence.” 581 U. S. 116, 118 (2017). In Pasquantino v.
+United States, the Court explained that restitution under the
+MVRA is designed “to mete out appropriate criminal punish-
+ment.” 544 U. S. 349, 365 (2005). And in Paroline v.
+United States, the Court repeated that description. 572
+U. S. 434, 456 (2014).
+This Court's precedents on related issues further buttress
+the conclusion that MVRA restitution is criminal punish-
+ment. For example, forfeiture under 18 U. S. C. § 982(a)(1)—
+like restitution under the MVRA—occurs at the culmination
+of a criminal proceeding and requires conviction of an under-
+lying crime. That forfeiture, the Court concluded, is crimi-
+nal punishment. See United States v. Bajakajian, 524 U. S.
+321, 328 (1998). By contrast, the Court determined that the
+forfeiture of firearms under 18 U. S. C. § 924(d) ordered dur-
+ing an in rem proceeding is a civil sanction. United States
+v. One Assortment of 89 Firearms, 465 U. S. 354, 363–366
+(1984).
+As the Government cautions, not everything that occurs
+at criminal sentencing or even that appears in a criminal
+judgment may necessarily be part of the punishment. See
+Tr. of Oral Arg. 22–23. But we need not explore that point
+further here because, for the reasons we have explained,
+MVRA restitution is criminal punishment.
+Amicus relies heavily on Smith v. Doe, 538 U. S. 84.
+There, this Court considered a law requiring a defendant
+convicted of certain crimes to register as a sex offender.
+The Court held that the registration mandate was civil.
+The legislature adopted “distinctly civil procedures” for the
+imposition of registration requirements. Id., at 96 (quota-
+tion marks omitted). By contrast, to reiterate what we said
+above, MVRA restitution is labeled as a penalty, is codified
+in the criminal code, is predicated on a criminal conviction,
+is imposed against a criminal defendant, is sometimes im-
+posed in lieu of other penalties, is ordered at sentencing
+where the United States is the adverse party, and can result
+in resentencing when the defendant refuses to pay. So
+Smith v. Doe does not control.
+It is true, as amicus thoroughly explains, that the MVRA
+seeks to compensate crime victims, a nonpunitive goal.
+Several provisions of the MVRA reflect that objective,
+such as a provision requiring that restitution amounts be
+based on a victim's loss. § 3664(f)(1)(A); see also, e. g.,
+§ 3664(j). But those provisions show only that Congress in-
+tended restitution under the MVRA to both punish and com-
+pensate. And so long as the text and structure of the Act
+demonstrate that Congress intended at least “to impose pun-
+ishment,” that “ends the inquiry.” Smith, 538 U. S., at 92;
+see Paroline, 572 U. S., at 456; Pasquantino, 544 U. S.,
+at 365.
+To be sure, as amicus points out, victims receive notice
+of sentencing proceedings and are consulted by prosecutors.
+But outreach to victims and some participation by victims in
+criminal proceedings are not unusual. See, e. g., § 3771(a).
+With respect to restitution, the key point is that victims do

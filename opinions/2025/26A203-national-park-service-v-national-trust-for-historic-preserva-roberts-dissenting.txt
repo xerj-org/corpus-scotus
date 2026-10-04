@@ -1,0 +1,222 @@
+National Park Service v. National Trust for Historic Preservation in the United States — No. 26A203 — October Term 2025 — decided 8/31/26 — ROBERTS, C. J., dissenting
+Citation: 609/2
+Source: https://www.supremecourt.gov/opinions/25pdf/26a203_2b8e.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ C HIEF JUSTICE ROBERTS, with whom J USTICE
+SOTOMAYOR, JUSTICE KAGAN, and J USTICE JACKSON join,
+dissenting.
+ The President ordered the demolition of the East Wing of
+the White House to make way for a new, privately funded
+state ballroom in its place.  Construction of the ballroom
+has proceeded apace for the better part of a year.
+ That construction is likely unlawful.  Pursuant to its ple-
+nary constitutional authority over the District of Columbia
+and federal property, Congress has explicitly prohibited the
+construction of any “building or structure . . . on any reser-
+vation, park, or public grounds of the Federal Government
+in the District of Columbia without express authority of
+Congress.”  40 U. S. C. §8106.  The ballroom is a building or
+structure being erected on federal park grounds—Presi-
+dent’s Park—in the District of Columbia.  Yet Congress has
+not passed any law resembling “express authority” for the
+Executive’s construction of it.
+ The Government points to two statutory provisions in
+support of the ballroom project.  The first authorizes Con-
+gress to appropriate funds for “the care, maintenance, re-
+pair, alteration, refurnishing, improvement, air-condition-
+ing, heating, and lighting (including electric power and
+fixtures) of the Executive Residence at the White House.”  3
+U. S. C. §105(d)(1).  This fiscal year Congress appropriated
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+ROBERTS, C. J., dissenting
+$2,475,000 pursuant to section 105(d)(1) “for required
+maintenance, resolution of safety and health issues, and
+continued preventative maintenance” at the Executive Res-
+idence. Consolidated Appropriations Act, 2026, Pub. L.
+119–75, 140 Stat. 451.  That appropriation of a couple mil-
+lion dollars for ordinary Executive Residence maintenance
+and repairs likely does not authorize the President to use
+hundreds of millions of dollars in private donations to tear
+down the East Wing and construct a ballroom in its stead.
+The second provision tasks the National Park Service
+with managing national park land, such as President’s
+Park, in a manner that “conserve[s]” the “historic objects”
+on that land.  54 U. S. C. §100101(a).  This is likely not ex-
+press authorization to raze the East Wing and replace it
+with a ballroom.
+Given this apparent absence of statutory authority, the
+District Court for the District of Columbia enjoined the ball-
+room’s continued construction in response to a lawsuit filed
+by the National Trust for Historic Preservation in the
+United States. The Court of Appeals affirmed.  Today this
+Court grants the Government’s request to stay that injunc-
+tion and allow construction of the ballroom to go forward—
+not because that construction is legal, but on the ground
+that the Trust likely lacks Article III standing to challenge
+it.
+To have standing to sue as the representative of its mem-
+bers, an organization such as the Trust must show, among
+other things, that one of its members would have standing
+to sue in her own right.  See Hunt v. Washington State Ap-
+ple Advertising Comm’n , 432 U. S. 333, 342–343 (1977).
+The Trust points to executive committee member Alison K.
+Hoagland’s asserted aesthetic injury from the ballroom’s
+construction to satisfy that requirement.
+To serve as the basis for her standing, Hoagland’s aes-
+thetic injury must be “concrete” and “particularized” to
+her—“real, and not abstract.”  Spokeo, Inc. v. Robins , 578
+
+3  Cite as: 609 U. S. ____ (2026)
+ROBERTS, C. J., dissenting
+U. S. 330, 340 (2016) (internal quotation marks omitted).
+Separating the concrete and particularized from the ab -
+stract can be difficult in this context.  Our precedents, how-
+ever, have noted that an injury to a plaintiff ’s “mere es-
+thetic interests” can qualify as “concrete and
+particularized.”  Summers v. Earth Island Institute , 555
+U. S. 488, 494 (2009).  And we said in one of our leading
+standing precedents that it was “[o]f course” true that a “de-
+sire to . . . observe an animal species” like a particular croc-
+odile, “even for purely esthetic purposes,” was “undeniably
+a cognizable interest for purpose of standing.” Lujan v. De-
+fenders of Wildlife, 504 U. S. 555, 562–563 (1992).
+Given the distinctive nature of the White House and Hoa-
+gland’s focused and substantiated interest in viewing it in
+its traditional form, her aesthetic injury from the construc-
+tion of the ballroom is concrete and particularized.
+The White House is an iconic American building whose
+symbolism and history are wrapped up in its architecture.
+As President Theodore Roosevelt once remarked while
+thanking Congress for expressly appropriating funds for
+the construction of the East and West Wings: “The stately
+simplicity of [the White House’s] architecture is an express-
+sion of the character of the period in which it was built, and
+is in accord with the purposes it was designed to serve.  It
+is a good thing to preserve such buildings as historic monu-
+ments which keep alive our sense of continuity with the Na-
+tion’s past.” 36 Cong. Rec. 12 (1902) (Roosevelt’s second an-
+nual message).
+Hoagland, meanwhile, is deeply committed to the preser-
+vation of such historic American buildings, as evidenced by
+her decades-long membership in the Trust, leadership role
+in the organization, academic work as a professor of history
+and historic preservation, volunteer work providing presen-
+tations on the District of Columbia’s historic architecture,
+and authorship of works on historic American architecture.
+Given this commitment to the preservation of historic
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+ROBERTS, C. J., dissenting
+buildings, Hoagland enjoys viewing and appreciating such
+buildings in person.  As a Capitol Hill resident, Hoagland
+regularly visits the White Hous e to take in the historic
+building’s beauty and to appreciate its symbolism.  By over-
+shadowing the traditional White House, Hoagland ex-
+plains, the new ballroom will detract from the building’s
+message of republican simplicity and thereby worsen her
+viewing experience.
+Hoagland’s injury suffices for standing.  A historic preser-
+vationist such as Hoagland c an be aesthetically injured in
+a concrete, particularized way by the transformation of a
+historic building that she frequently enjoys, just as an en -
+vironmentalist can sustain a concrete, particularized aes-
+thetic injury from the extinction of a particular animal or
+the transformation of a particular forest or river that he
+regularly enjoys. See, e.g., Defenders of Wildlife, 504 U. S.,
+at 562–563; Friends of the Earth, Inc. v. Laidlaw Environ-
+mental Services (TOC), Inc., 528 U. S. 167, 180–183 (2000).
+With the Court’s rejection of Hoagland’s standing today,
+however, it now is the case that “I want to look at a croco-
+dile” can adequately answer the ever critical “what’s it to
+you?” question of Article III standing, while “I want to look
+at the White House” cannot—no matter how distinctive the
+particular viewer’s interest in looking at it may be.
+The Court would distinguish our environmental aesthetic
+injury cases on the ground that the plaintiffs there alleged
+“more than mere offense.”  Ante, at 4.  But so has Hoagland.
+She has not simply alleged “distress at or disagreement
+with” the ballroom’s construction. FDA v. Alliance for Hip-
+pocratic Medicine, 602 U. S. 367, 390, n. 3 (2024).  She in-
+stead has alleged that the ballroom’s construction would
+damage what for her is a concrete and particularized inter-
+est in physically viewing, appreciating, and studying a his-
+toric building as it is.
+ Having reframed Hoagland’s aesthetic injury as “mere of-
+fense” at the ballroom’s construction, the Court reasons
+
+5  Cite as: 609 U. S. ____ (2026)
+ROBERTS, C. J., dissenting
+that very little would remain of Article III’s concrete and
+particularized injury requireme nt were we to recognize
+standing here. While it is true that nearly every govern -
+ment action will offend someone somehow, see ante, at 4,
+not every government action will interfere in a particular
+way with someone’s documented interest in viewing a par-
+ticular historic building.  The Court’s string cite to prece-
+dents rejecting the standing of taxpayers who challenged
+federal policies with which they disagreed is inapposite for
+the same reason. See ante, at 3 (citing Valley Forge Chris -
+tian College v. Americans United for Separation of Church
+and State, Inc., 454 U. S. 464, 485 (1982); Schlesinger v. Re-
+servists Comm. to Stop the War , 418 U. S. 208, 227 (1974);
+United States v. Richardson, 418 U. S. 166, 177 (1974)).
+Hoagland is not simply some taxpayer who fancies the
+thought of the traditional White House unadorned by a
+ballroom.
+The Court also observes that even if viewing something
+for “purely esthetic purposes” is a “cognizable interest” for
+standing, having such an interest is not sufficient to estab-
+lish standing. See ante, at 5; Defenders of Wildlife , 504
+U. S., at 562. The claimed injury still must be “concrete and
+particularized.”  Ante, at 5. But we have said that “[t]o es-
+tablish the concrete and particularized injury that standing
+requires,” a plaintiff ’s demonstration that his “mere es-
+thetic interests” are affected “will suffice.” Summers, 555
+U. S., at 494.
+And if a standalone concrete and particularized aesthetic
+injury can be recast as mere offense, what made the envi-
+ronmental plaintiffs with standing in our prior cases differ-
+ent from Hoagland? What saved their aesthetic injuries
+from being classed as mere di staste for the actions of gov-
+ernment or private industry?  In Laidlaw, the plaintiffs had
+standing to fight the pollution of a river in which they had
+“aesthetic and recreational” interests.  528 U. S., at 183.  On
+the Court’s retelling, it is critical that those plaintiffs did
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+ROBERTS, C. J., dissenting
+not only like to look at the river’s “natural beauty,” but also
+liked to use it by fishing and swimming in it and by hiking
+and camping alongside it. Id., at 180–183; see ante, at 4.
+Certainly one may enjoy a river not just by looking at it but
+also by swimming in it and hiking along it.  But the princi-
+pal way a person enjoys a historic building or object is by
+looking at it. The distinction between Hoagland and the
+environmental plaintiffs does not hold up.*
+* * *
+The White House is not just any building, and—when it
+comes to historic preservation—Hoagland is not just any
+person. In failing to appreciate as much, the Court miscon-
+ceives the plaintiff ’s injury, allowing the Executive’s likely
+infringement of the Legislature’s power of the purse and
+authority to regulate federal property in the District of Co-
+lumbia to continue. Today’s de cision is no victory for the
+separation of powers.
+Winston Churchill once remarked that “[w]e shape our
+buildings, and afterwards our buildings shape us.”  On-
+wards to Victory: War Speeches by the Right Hon. Winston
+S. Churchill, C.H., M.P. 317 (1944).  All the more reason to
+ensure that those responsible follow the rules in deciding
+what to tear down and what to build up at the People’s
+House.
+I respectfully dissent.
+——————
+*With respect to the Court’s reference to national security concerns,
+the Government informed the District  Court that its construction work
+on below-ground secure facilities was “driven by national security con-
+cerns independent of the above-grad e construction” of the ballroom.
+No. 25–cv–4316, ECF Doc. 30, p. 48. And the District Court’s injunction
+prohibits only the build ing of a ballroom—not the building of below-
+ground national security facilities or above-ground work necessary to
+protect them.

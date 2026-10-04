@@ -1,0 +1,77 @@
+Bittner v. United States — No. 21-1195 — October Term 2022 — decided 2/28/23 — Opinion of Gorsuch, J.
+Citation: 598 U.S. 85
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r6_0813.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+101
+Cite as: 598 U. S. 85 (2023)
+Opinion of Gorsuch, J.
+The government does not dispute any of this but replies
+that the per-report interpretation risks an anomaly of its
+own. After all, the government observes, the BSA affords
+the Secretary considerable discretion in formulating report-
+ing requirements. So much so, the government contends,
+that the Secretary could require a separate report for each
+account and in that way effectively achieve a per-account
+penalty for nonwillful violations. Brief for United States 32.
+But what does this prove? Assuming the Secretary could
+require more frequent reports (a question not before us),
+that would mean the Secretary could also require less fre-
+quent reports (for example, every other year). Likewise,
+the Secretary could reduce the amount of information re-
+quired in those reports (say, expanding the tick-box option
+to all flers, not just those with 25 or more accounts). Per-
+haps more fundamentally, whether the Secretary may law-
+fully ordain more or fewer reports does nothing to answer
+the question whether the Secretary may impose nonwillful
+penalties on a per-report or per-account basis. That ques-
+tion would still remain. Reply Brief 7–8.
+C
+To the extent doubt persists at this point about the best
+reading of the BSA, a venerable principle supplies a way to
+resolve it. Under the rule of lenity, this Court has long held,
+statutes imposing penalties are to be “construed strictly”
+against the government and in favor of individuals. Com-
+missioner v. Acker, 361 U. S. 87, 91 (1959). Following that
+rule here requires us to favor a per-report approach that
+would restrain BSA penalties over a per-account theory that
+would greatly enhance them.
+The government resists this conclusion by seeking to dis-
+tinguish Acker. That case involved a penalty provision in
+that violations accrue on a per-account basis, which begs the very question
+at issue before us.
+the Internal Revenue Code, the government emphasizes,
+while this case involves a penalty provision in the BSA.
+Brief for United States 44–45. But that distinction makes
+no difference. The rule of lenity is not shackled to the Inter-
+nal Revenue Code or any other chapter of federal statutory
+law. Instead, as Acker acknowledged, “[t]he law is settled
+that penal statutes are to be construed strictly,” and an indi-
+vidual “is not to be subjected to a penalty unless the words
+of the statute plainly impose it.” 361 U. S., at 91 (internal
+quotation marks omitted and emphasis added). Notably,
+too, Acker cited to and relied on cases applying this same
+principle to penalty provisions under a wide array of stat-
+utes, including the Communications Act of 1934, a bank-
+ruptcy law, and the National Banking Act. See ibid. (citing
+FCC v. American Broadcasting Co., 347 U. S. 284, 296 (1954);
+Keppel v. Tiffn Savings Bank, 197 U. S. 356, 362 (1905); and
+Tiffany v. National Bank of Mo., 18 Wall. 409, 410 (1874));
+see also Scalia & Garner 297 (the rule of lenity applies “to
+civil penalties”).
+Two additional features of this case make it a particularly
+appropriate candidate for the rule of lenity. First, the rule
+exists in part to protect the Due Process Clause's promise
+that “a fair warning should be given to the world in language
+that the common world will understand, of what the law in-
+tends to do if a certain line is passed.” McBoyle v. United
+States, 283 U. S. 25, 27 (1931); see also Connally v. General
+Constr. Co., 269 U. S. 385, 393 (1926); Wooden v. United
+States, 595 U. S. –––, ––– – ––– (2022) (Gorsuch, J., concur-
+ring in judgment). And the government's current theory
+poses a serious fair-notice problem. The relevant provisions
+of the BSA nowhere discuss per-account penalties for non-
+willful violations. A number of the government's own pub-
+lic guidance documents have seemingly warned of per-
+report, not per-account, penalties for nonwillful violations.
+See Part II–B, supra; Brief for Tax Counsel 6–24. We are
+even told that, until 2008 and 2009, when the government

@@ -1,0 +1,140 @@
+Hain Celestial Group, Inc. v. Palmquist — No. 24-724 — October Term 2025 — decided 2/24/26 — Thomas, J., concurring
+Citation: 607 U.S. 421
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r14_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+IV
+The District Court's erroneous dismissal of Whole Foods
+did not cure the jurisdictional defect that existed when this
+case was improperly removed to federal court. The Court
+of Appeals therefore correctly vacated the judgment in
+Hain's favor. The judgment of the Court of Appeals is af-
+firmed, and the case is remanded for further proceedings
+consistent with this opinion.
+It is so ordered.
+Justice Thomas, concurring.
+I join the Court's opinion in full. I write separately to
+note my skepticism of the doctrine of “improper joinder,”
+which the District Court invoked to dismiss Whole Foods in
+this case. The doctrine appears to allow federal courts to
+enlarge their jurisdiction by assessing the merits of claims
+over which they lack jurisdiction.
+“Federal courts are courts of limited jurisdiction.” Kok-
+konen v. Guardian Life Ins. Co. of America, 511 U. S. 375,
+377 (1994). As “an essential ingredient of separation and
+equilibration of powers,” the Constitution gives Congress
+broad power over the scope of federal courts' jurisdiction.
+Steel Co. v. Citizens for Better Environment, 523 U. S. 83,
+101 (1998). “When we assume jurisdiction too hastily, we risk
+aggrandizing ourselves at the expense of the political
+branches.” Monsalvo Velazquez v. Bondi, 604 U. S. 712, 737
+(2025) (Thomas, J., dissenting). Accordingly, if a federal
+court determines that it lacks jurisdiction in a case, “the only
+function remaining to the court is that of announcing the fact
+and dismissing the cause.” Ex parte McCardle , 7 Wall. 506,
+514 (1869).
+Court expresses no view on whether using Rule 21 to dismiss a nondiverse
+party added after a proper removal is appropriate. The Court also ex-
+presses no view as to Rule 21's role in cases originally fled by plaintiffs
+in federal court. See, e. g., Publicker Industries, Inc. v. Roman Ceramics
+Corp., 603 F. 2d 1065, 1067, 1069 (CA3 1979).
+Federal courts therefore “must determine that they have
+jurisdiction before proceeding to the merits.” Lance v. Cof-
+fman, 549 U. S. 437, 439 (2007) (per curiam ). “The require-
+ment that jurisdiction be established as a threshold matter
+spring[s] from the nature and limits of the judicial power of
+the United States and is inflexible and without exception.”
+Steel Co., 523 U. S., at 94–95 (internal quotation marks omit-
+ted). “For a court to pronounce upon” the merits “when it
+has no jurisdiction to do so is, by very definition, for a court
+to act ultra vires.” Id., at 101–102.
+In this case, federal jurisdiction was based on diversity of
+citizenship. The removing defendant, Hain Celestial Group,
+invoked federal jurisdiction under 28 U. S. C. § 1332(a), which
+gives district courts jurisdiction over “civil actions where
+the matter in controversy exceeds the sum or value of
+$75,000 . . . and is between . . . citizens of different States.”
+This Court has always interpreted § 1332(a)'s language “to
+require `complete diversity,' ” meaning that a federal court
+can exercise jurisdiction only if no plaintiff shares state citi-
+zenship with any defendant. Carden v. Arkoma Associates,
+494 U. S. 185, 187 (1990) (citing Strawbridge v. Curtiss, 3
+Cranch 267 (1806)).
+Although the parties in this case were not completely di-
+verse, the District Court exercised jurisdiction based on the
+doctrine of “improper joinder.” Under that doctrine, fed-
+eral courts exercise jurisdiction over cases that originally
+involved nondiverse defendants by first deeming the claims
+against those nondiverse defendants sufficiently weak on the
+merits and then dismissing them. See, e. g., International
+Energy Ventures Mgmt., L.L.C. v. United Energy Group,
+Ltd., 818 F. 3d 193, 205–209 (CA5 2016). Here, the Palm-
+quists, Texas citizens, sued both an out-of-state defendant,
+Hain Celestial Group, and a Texas defendant, Whole Foods.
+The District Court therefore lacked jurisdiction over the
+case when it was removed to federal court. The District
+Court nonetheless proceeded to dismiss Whole Foods based
+on its merits assessment that there was not a “reasonable
+basis to predict that [the Palmquists] could recover from
+Whole Foods” under Texas products-liability law. App. to
+Pet. for Cert. 25a–26a. After dismissing Whole Foods, it
+adjudicated the claims against Hain Celestial on the merits.
+The Fifth Circuit vacated that merits judgment for lack of
+jurisdiction, but not because it thought that conducting an
+improper-joinder inquiry was inappropriate. 103 F. 4th 294,
+302–307 (2024). It simply thought that the Palmquists pos-
+sibly stated meritorious claims against Whole Foods under
+Texas law. See id., at 305–307. It reaffirmed that the
+improper-joinder doctrine allows federal courts to engage in
+a “Rule 12(b)(6)-type analysis” of claims against nondiverse
+defendants, albeit with legal ambiguities resolved in the
+plaintiffs' favor. Id., at 306. Federal Rule of Civil Proce-
+dure 12(b)(6) dismissals, of course, are merits determina-
+tions. See Federated Department Stores, Inc. v. Moitie , 452
+U. S. 394, 399, n. 3 (1981).
+Other federal courts adopt a similar approach to dismiss
+claims against nondiverse parties. See, e. g., Johnson v.
+Midwest Div.-RBH, LLC , 88 F. 4th 731, 735–736 (CA8 2023);
+Jerome-Duncan, Inc. v. Auto-By-Tel, L. L. C ., 176 F. 3d 904,
+907–909 (CA6 1999); Legg v. Wyeth, 428 F. 3d 1317, 1324,
+1320–1325 (CA11 2005). Courts justify this approach based
+on a group of this Court's early-20th-century precedents that
+recognized a doctrine called fraudulent joinder. See, e. g.,
+Alabama Great Southern R. Co. v. Thompson, 200 U. S. 206,
+217 (1906).*
+*Many Circuits still use the “fraudulent joinder” term today, even when
+they engage in the same merits analysis that the Fifth Circuit more accu-
+rately calls improper joinder. See, e. g., Johnson, 88 F. 4th, at 735–736
+(holding that “joinder . . . was fraudulent” because state-law claim was
+unlikely to succeed on the merits); Jerome-Duncan, Inc., 176 F. 3d, at 907–
+909 (affirming “fraudulent joinder” dismissal because of weakness of claim
+under state law); Cline v. Dart Transit Co ., 804 Fed. Appx. 307, 312 (CA6
+2020) (holding that “fraudulent joinder occurred” because plaintiff lacked
+“a colorable cause of action”).
+But this Court's precedents do not support the lower
+courts' more recent approach. As I read them, this Court's
+“fraudulent joinder” precedents concerned only whether the
+plaintiff avoided federal diversity jurisdiction by bad faith or
+actual fraud—such as lying about a party's conduct or citi-
+zenship. See Alabama Great Southern R. Co., 200 U. S., at
+218 (asking whether the plaintiff “attempt[ed] to commit a
+fraud upon the jurisdiction of the Federal courts”); Illinois
+Central R. Co. v. Sheegog, 215 U. S. 308, 316 (1909) (asking
+whether a claim was “fraudulent and false”); Mecom v. Fitz-
+simmons Drilling Co., 284 U. S. 183, 190 (1931) (asking
+whether the plaintiff committed “actual fraud”). These
+precedents were limited to cases of “extreme abuse.” Mur-
+riel-Don Coal Co. v. Aspen Ins. UK Ltd., 790 F. Supp. 2d
+590, 596 (ED Ky. 2011) (Thapar, J.). Unlike the lower courts'
+more recent decisions, they did not appear to turn on the
+strength of the claims on the merits.
+Federal courts sitting in diversity likely cannot dismiss
+nondiverse parties based on their view of the merits of the
+claims against those parties. Doing so appears unfaithful to
+Congress's limits on our diversity jurisdiction and inconsist-
+ent with this Court's precedents. As Judge Thapar has put
+it, the improper-joinder doctrine “requires federal courts to
+exercise jurisdiction where none exists over questions of
+state law that the state courts are better suited to address
+themselves.” Id., at 597. In a future case where the issue
+is briefed and squarely presented, this Court should consider
+the propriety of the improper-joinder doctrine.

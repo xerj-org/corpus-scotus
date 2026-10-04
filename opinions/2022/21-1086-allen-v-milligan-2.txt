@@ -1,0 +1,331 @@
+Allen v. Milligan — No. 21-1086 — October Term 2022 — decided 6/08/23 — opinion of the Court — author Roberts (listing code R)
+Citation: 599 U.S. 1
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r33_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tice Thomas dissented in relevant part, contending that be-
+cause “the legislature sought to achieve a [black voting-age
+population] of at least 55%,” race necessarily predominated
+in its decisionmaking. Id., at 198 (opinion concurring in
+judgment part and dissenting in part). But the Court did
+not join in that view, and Justice Thomas again dissents
+along the same lines today.
+The second faw in the dissent's proposed approach is its
+inescapable consequence: Gingles must be overruled. Ac-
+cording to the dissent, racial predominance plagues every
+single illustrative map ever adduced at the first step of Gin-
+gles. For all those maps were created with an express tar-
+get in mind—they were created to show, as our cases require,
+that an additional majority-minority district could be drawn.
+That is the whole point of the enterprise. The upshot of the
+approach the dissent urges is not to change how Gingles is
+applied, but to reject its framework outright.
+The contention that mapmakers must be entirely “blind”
+to race has no footing in our § 2 case law. The line that we
+have long drawn is between consciousness and predomi-
+nance. Plaintiffs adduced at least one illustrative map that
+comported with our precedents. They were required to do
+no more to satisfy the first step of Gingles.
+2
+The next condition Alabama would graft onto § 2 is a re-
+quirement that plaintiffs demonstrate, at the totality of cir-
+cumstances stage, that the State's enacted plan contains
+fewer majority-minority districts than the race-neutral
+benchmark. Brief for Alabama 43. If it does not, then § 2
+should drop out of the picture. Id., at 44.
+Alabama argues that is what should have happened here.
+It notes that one of plaintiffs' experts, Dr. Duchin, used an
+algorithm to create “2 million districting plans for Alabama
+. . . without taking race into account in any way in the gener-
+ation process.” 2 App. 710. Of these two million “race-
+blind” plans, none contained two majority-black districts
+while many plans did not contain any. Ibid. Alabama also
+points to a “race-neutral” computer simulation conducted by
+another one of plaintiffs' experts, Dr. Kosuke Imai, which
+produced 30,000 potential maps. Brief for Alabama 55. As
+with Dr. Duchin's maps, none of the maps that Dr. Imai cre-
+ated contained two majority-black districts. See 2 App.
+571–572. Alabama thus contends that because HB1 suffi-
+ciently “resembles” the “race-neutral” maps created by Dr.
+Duchin and Dr. Imai—all of the maps lack two majority-black
+districts—HB1 does not violate § 2. Brief for Alabama 54.
+Alabama's reliance on the maps created by Dr. Duchin and
+Dr. Imai is misplaced. For one, neither Duchin's nor Imai's
+maps accurately represented the districting process in Ala-
+bama. Dr. Duchin's maps were based on old census data—
+from 2010 instead of 2020—and ignored certain traditional
+districting criteria, such as keeping together communities
+of interest, political subdivisions, or municipalities. 6 And
+Dr. Imai's 30,000 maps failed to incorporate Alabama's own
+districting guidelines, including keeping together communi-
+ties of interest and preserving municipal boundaries. See
+Supp. App. 58–59. 7
+6 Dr. Duchin created her two million map sample as part of an academic
+article that she helped author, not for her work on this case, and the article
+was neither entered into evidence below nor made part of the record here.
+See 2 App. 710; see also M. Duchin & D. Spencer, Models, Race, and the
+Law, 130 Yale L. J. Forum 744, 763–764 (2021) (Duchin & Spencer).
+7 The principal dissent decrees that Dr. Duchin's and Dr. Imai's maps
+are “surely probative,” forgiving the former's use of stale census data as
+well as both mapmakers' collective failure to incorporate many traditional
+districting guidelines. Post, at 66–67, and n. 14 (opinion of Thomas, J.);
+see also post, at 59, n. 9, 60. In doing so, that dissent ignores Dr. Duchin's
+testimony that—when using the correct census data—the “randomized al-
+gorithms” she employed “found plans with two majority-black districts
+in literally thousands of different ways.” MSA 316–317. The principal
+dissent and the dissent by Justice Alito also ignore Duchin's testimony
+that “it is certainly possible” to draw the illustrative maps she produced
+in a race-blind manner. 2 App. 713. In that way, even the race-blind
+But even if the maps created by Dr. Duchin and Dr. Imai
+were adequate comparators, we could not adopt the map-
+comparison test that Alabama proposes. The test is flawed
+in its fundamentals. Districting involves myriad considera-
+tions—compactness, contiguity, political subdivisions, natu-
+ral geographic boundaries, county lines, pairing of incum-
+bents, communities of interest, and population equality. See
+Miller, 515 U. S., at 916. Yet “[q]uantifying, measuring,
+prioritizing, and reconciling these criteria” requires map
+drawers to “make difficult, contestable choices.” Brief for
+Computational Redistricting Experts as Amici Curiae 8
+(Redistricting Brief). And “[i]t is easy to imagine how dif-
+ferent criteria could move the median map toward different
+. . . distributions,” meaning that “the same map could be
+[lawful] or not depending solely on what the mapmakers said
+they set out to do.” Rucho v. Common Cause , 588 U. S.
+–––, ––– – ––– (2019). For example, “the scientific literature
+contains dozens of competing metrics” on the issue of com-
+pactness. Redistricting Brief 8. Which one of these met-
+rics should be used? What happens when the maps they
+produce yield different benchmark results? How are courts
+to decide?
+Alabama does not say; it offers no rule or standard for
+determining which of these choices are better than others.
+Nothing in § 2 provides an answer either. In 1982, the com-
+puterized mapmaking software that Alabama contends plain-
+standard that the dissents urge would be satisfied here. See post, at 64–
+65 (opinion of Thomas, J.); post, at 100 (opinion of Alito, J.). So too could
+that standard be satisfied in every § 2 case; after all, as Duchin explained,
+any map produced in a deliberately race-predominant manner would nec-
+essarily emerge at some point in a random, race-neutral process. 2 App.
+713. And although Justice Alito voices support for an “old-school ap-
+proach” to § 2, even that approach cannot be squared with his understand-
+ing of Gingles. Post, at 99–100. The very reason a plaintiff adduces a
+map at the first step of Gingles is precisely because of its racial composi-
+tion—that is, because it creates an additional majority-minority district
+that does not then exist.
+tiffs must use to demonstrate an (unspecified) level of devia-
+tion did not even exist. See, e. g., J. Chen & N. Steph-
+anopoulos, The Race-Blind Future of Voting Rights, 130 Yale
+L. J. 862, 881–882 (2021) (Chen & Stephanopoulos). And nei-
+ther the text of § 2 nor the fraught debate that produced it
+suggests that “equal access” to the fundamental right of vot-
+ing turns on computer simulations that are technically com-
+plicated, expensive to produce, and available to “[o]nly a
+small cadre of university researchers [that] have the re-
+sources and expertise to run” them. Brief for United States
+as Amicus Curiae 28 (citing Chen & Stephanopoulos 882–
+884).8
+One final point bears mentioning. Throughout these
+cases, Alabama has repeatedly emphasized that HB1 cannot
+have violated § 2 because none of plaintiffs' two million odd
+maps contained more than one majority-minority district.
+See, e. g., Brief for Alabama 1, 23, 30, 31, 54–56, 70, 79. The
+point is that two million is a very big number and that sheer
+volume matters. But as elsewhere, Alabama misconceives
+the math project that it expects courts to oversee. A brief
+submitted by three computational redistricting experts ex-
+plains that the number of possible districting maps in Ala-
+bama is at least in the “trillion trillions.” Redistricting
+Brief 6, n. 7. Another publication reports that the number
+of potential maps may be orders of magnitude higher: “the
+universe of all possible connected, population-balanced dis-
+tricting plans that satisfy the state's requirements,” it ex-
+plains, “is likely in the range of googols.” Duchin & Spencer
+768. Two million maps, in other words, is not many maps
+at all. And Alabama's insistent reliance on that number,
+8 None of this is to suggest that algorithmic mapmaking is categorically
+irrelevant in voting rights cases. Instead, we note only that, in light of
+the difficulties discussed above, courts should exercise caution before
+treating results produced by algorithms as all but dispositive of a § 2 claim.
+And in evaluating algorithmic evidence more generally in this context,
+courts should be attentive to the concerns we have discussed.
+however powerful it may sound in the abstract, is thus close
+to irrelevant in practice. What would the next million maps
+show? The next billion? The first trillion of the trillion
+trillions? Answerless questions all. See, e. g., Redistrict-
+ing Brief 2 (“[I]t is computationally intractable, and thus ef-
+fectively impossible, to generate a complete enumeration of
+all potential districting plans. [Even] algorithms that at-
+tempt to create a manageable sample of that astronomically
+large universe do not consistently identify an average or me-
+dian map.”); Duchin & Spencer 768 (“[A] comprehensive sur-
+vey of [all districting plans within a State] is impossible.”).
+Section 2 cannot require courts to judge a contest of com-
+puters when there is no reliable way to determine who wins,
+or even where the finish line is.
+3
+Alabama's final contention with respect to the race-
+neutral benchmark is that it requires plaintiffs to demon-
+strate that any deviations between the State's enacted plan
+and race-neutral alternatives “can be explained only by ra-
+cial discrimination.” Brief for Alabama 44 (emphasis added).
+We again find little merit in Alabama's proposal. As we
+have already explained, our precedents and the legislative
+compromise struck in the 1982 amendments clearly rejected
+treating discriminatory intent as a requirement for liability
+under § 2. See, e. g., Chisom, 501 U. S., at 403–404; Shaw,
+509 U. S., at 641; Reno v. Bossier Parish School Bd., 520 U. S.
+471, 481–482 (1997). Yet Alabama's proposal is even more
+demanding than the intent test Congress jettisoned. Dem-
+onstrating discriminatory intent, we have long held, “does
+not require a plaintiff to prove that the challenged action
+rested solely on racially discriminatory purpose[ ].” Arling-
+ton Heights v. Metropolitan Housing Development Corp.,
+429 U. S. 252, 265 (1977) (emphasis added); see also Reno, 520
+U. S., at 488. Alabama's proposed approach stands in sharp
+contrast to all this, injecting into the effects test of § 2 an
+evidentiary standard that even our purposeful discrimination
+cases eschew.
+C
+Alabama finally asserts that the Court should outright
+stop applying § 2 in cases like these because the text of § 2
+does not apply to single-member redistricting and because
+§ 2 is unconstitutional as the District Court applied it here.
+We disagree on both counts.
+Alabama first argues that § 2 does not apply to single-
+member redistricting. Echoing Justice Thomas's concur-
+rence in Holder v. Hall, Alabama reads § 2's reference to
+“standard, practice, or procedure” to mean only the “methods
+for conducting a part of the voting process that might . . . be
+used to interfere with a citizen's ability to cast his vote.”
+512 U. S., at 917–918 (opinion concurring in judgment). Ex-
+amples of covered activities would include “registration re-
+quirements, . . . the locations of polling places, the times polls
+are open, the use of paper ballots as opposed to voting ma-
+chines, and other similar aspects of the voting process.” Id.,
+at 922. But not “a single-member districting system or the
+selection of one set of districting lines over another.” Id.,
+at 923.
+This understanding of § 2 cannot be reconciled with our
+precedent. As recounted above, we have applied § 2 to
+States' districting maps in an unbroken line of decisions
+stretching four decades. See supra, at 19; see also Brno-
+vich, 594 U. S., at –––, n. 5 (collecting cases). In doing so,
+we have unanimously held that § 2 and Gingles “[c]ertainly
+. . . apply” to claims challenging single-member districts.
+Growe, 507 U. S., at 40. And we have even invalidated por-
+tions of a State's single-district map under § 2. See LULAC,
+548 U. S., at 427–429. 9 Alabama's approach would require
+9 The dissent suggests that Growe does not support the proposition that
+§ 2 applies to single-member redistricting. Post, at 48–49 (opinion of
+Thomas, J.). The Court has understood Growe much differently. See,
+e. g., Abrams v. Johnson, 521 U. S. 74, 90 (1997) (“Our decision in [Gingles ]
+“abandoning” this precedent, “overruling the interpretation
+of § 2” as set out in nearly a dozen of our cases. Holder, 512
+U. S., at 944 (opinion of Thomas, J.).
+We decline to take that step. Congress is undoubtedly
+aware of our construing § 2 to apply to districting challenges.
+It can change that if it likes. But until and unless it does,
+statutory stare decisis counsels our staying the course. See,
+e. g., Kimble v. Marvel Entertainment, LLC , 576 U. S. 446,
+456 (2015).10
+The statutory text in any event supports the conclusion
+that § 2 applies to single-member districts. Alabama's own
+proffered definition of a “procedure is the manner or method
+of proceeding in a process or course of action.” Brief for
+Alabama 51 (internal quotation marks omitted). But the
+manner of proceeding in the act of voting entails determining
+in which districts voters will vote. The fact that the term
+“procedure” is preceded by the phrase “qualification or pre-
+requisite to voting,” 52 U. S. C. § 10301(a), does not change
+its meaning. It is hard to imagine many more fundamental
+“prerequisites” to voting than determining where to cast
+your ballot or who you are eligible to vote for. Perhaps for
+set out the basic framework for establishing a vote dilution claim against
+at-large, multimember districts; we have since extended the framework to
+single-member districts.” (citing Growe, 507 U. S., at 40–41)); Johnson v.
+De Grandy, 512 U. S. 997, 1006 (1994) (“In Growe, we held that a claim of
+vote dilution in a single-member district requires proof meeting the same
+three threshold conditions for a dilution challenge to a multimember dis-
+trict . . . .”); Bartlett v. Strickland, 556 U. S. 1, 11 (2009) (plurality opinion)
+(“The Court later held that the three Gingles requirements apply equally
+in § 2 cases involving single-member districts . . . .” (citing Growe, 507
+U. S., at 40–41)).
+10 Justice Alito argues that “[t]he Gingles framework should be [re]in-
+terpreted” in light of changing methods in statutory interpretation. Post,
+at 104 (dissenting opinion). But as we have explained, Gingles effectuates
+the delicate legislative bargain that § 2 embodies. And statutory stare
+decisis counsels strongly in favor of not “undo[ing] . . . the compromise
+that was reached between the House and Senate when § 2 was amended
+in 1982.” Brnovich, 594 U. S., at –––.
+that reason, even Alabama does not bear the courage of its
+conviction on this point. It refuses to argue that § 2 is inap-
+plicable to multimember districting, though its textual argu-
+ments apply with equal force in that context.
+The dissent, by contrast, goes where even Alabama does
+not dare, arguing that § 2 is wholly inapplicable to districting
+because it “focuses on ballot access and counting” only.
+Post, at 46 (opinion of Thomas, J.). But the statutory text
+upon which the dissent relies supports the exact opposite
+conclusion. The relevant section provides that “[t]he terms
+`vote' or `voting' shall include all action necessary to make a
+vote effective .” Post, at 47 (quoting 52 U. S. C. § 10310(c)(1);
+emphasis added). Those actions “includ[e], but [are] not lim-
+ited to, . . . action[s] required by law prerequisite to voting,
+casting a ballot, and having such ballot counted properly
+and included in the appropriate totals of votes cast.”
+§ 10310(c)(1). It would be anomalous to read the broad lan-
+guage of the statute—“all action necessary,” “including but
+not limited to”—to have the crabbed reach that Justice
+Thomas posits. And we have already discussed why deter-
+mining where to cast a ballot constitutes a “prerequisite” to
+voting, as the statute requires.
+The dissent also contends that “applying § 2 to districting
+rests on systematic neglect of . . . the ballot-access focus of
+the 1960s' voting-rights struggles.” Post, at 47 (opinion of
+Thomas, J.). But history did not stop in 1960. As we have
+explained, Congress adopted the amended § 2 in response to
+the 1980 decision City of Mobile , a case about districting.
+And—as the dissent itself acknowledges—“Congress drew
+§ 2(b)'s current operative language” from the 1973 decision
+White v. Regester, post, at 48, n. 3 (opinion of Thomas, J.), a
+case that was also about districting (in fact, a case that inval-
+idated two multimember districts in Texas and ordered them
+redrawn into single-member districts, 412 U. S., at 765).
+This was not lost on anyone when § 2 was amended. Indeed,
+it was the precise reason that the contentious debates over
+proportionality raged—debates that would have made little
+sense if § 2 covered only poll taxes and the like, as the dis-
+sent contends.
+We also reject Alabama's argument that § 2 as applied to
+redistricting is unconstitutional under the Fifteenth Amend-
+ment. According to Alabama, that Amendment permits
+Congress to legislate against only purposeful discrimination
+by States. See Brief for Alabama 73. But we held over 40
+years ago “that, even if § 1 of the [Fifteenth] Amendment
+prohibits only purposeful discrimination, the prior decisions
+of this Court foreclose any argument that Congress may not,
+pursuant to § 2 [of the Fifteenth Amendment], outlaw voting
+practices that are discriminatory in effect.” City of Rome
+v. United States, 446 U. S. 156, 173 (1980). The VRA's “ban
+on electoral changes that are discriminatory in effect,” we
+emphasized, “is an appropriate method of promoting the pur-
+poses of the Fifteenth Amendment.” Id., at 177. As City
+of Rome recognized, we had reached the very same conclu-
+sion in South Carolina v. Katzenbach, a decision issued right
+after the VRA was first enacted. 383 U. S., at 308–309, 329–
+337; see also Brnovich, 594 U. S., at –––.
+Alabama further argues that, even if the Fifteenth
+Amendment authorizes the effects test of § 2, that Amend-
+ment does not authorize race-based redistricting as a remedy
+for § 2 violations. But for the last four decades, this Court
+and the lower federal courts have repeatedly applied the ef-
+flects test of § 2 as interpreted in Gingles and, under certain
+circumstances, have authorized race-based redistricting as a
+remedy for state districting maps that violate § 2. See, e. g.,
+supra, at 19; cf. Mississippi Republican Executive Commit-
+tee v. Brooks, 469 U. S. 1002 (1984). In light of that prece-
+dent, including City of Rome , we are not persuaded by Ala-
+bama's arguments that § 2 as interpreted in Gingles exceeds
+the remedial authority of Congress.
+The concern that § 2 may impermissibly elevate race in the
+allocation of political power within the States is, of course,

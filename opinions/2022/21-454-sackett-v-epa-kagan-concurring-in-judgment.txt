@@ -1,0 +1,183 @@
+Sackett v. EPA — No. 21-454 — October Term 2022 — decided 5/25/23 — Kagan, J., concurring in judgment
+Citation: 598 U.S. 651
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r28_hgcj.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+only to the limits of Congress' traditional jurisdiction over
+navigable waters, the EPA and the Corps have continued to
+treat the statute as if it were based on New Deal era concep-
+tions of Congress' commerce power. But, while not all envi-
+ronmental statutes are so textually limited, Congress chose
+to tether federal jurisdiction under the CWA to its tradi-
+tional authority over navigable waters. The EPA and the
+Corps must respect that decision.
+Justice Kagan, with whom Justice Sotomayor and
+Justice Jackson join, concurring in the judgment.
+Like Justice Kavanaugh, “I would stick to the text.”
+Post, at 727 (opinion concurring in judgment). As he ex-
+plains in the principal concurrence, our normal method of
+construing statutes identifies which wetlands the Clean
+Water Act covers—and the answer provided exceeds what
+the Court says today. Because the Act covers “the waters
+of the United States,” and those waters “includ[e]” all wet-
+lands “adjacent” to other covered waters, the Act extends to
+those “adjacent” wetlands. 33 U. S. C. §§ 1362(7), 1344(g)(1).
+And in ordinary language, one thing is adjacent to another
+not only when it is touching, but also when it is nearby. See
+post, at 718–720 (quoting multiple dictionaries). So, for ex-
+ample, one house is adjacent to another even when a stretch
+of grass and a picket fence separate the two. As applied
+here, that means—as the EPA and Army Corps have recog-
+nized for almost half a century—that a wetland comes within
+the Act if (i) it is “contiguous to or bordering a covered
+water, or (ii) if [it] is separated from a covered water only
+by a man-made dike or barrier, natural river berm, beach
+dune, or the like.” Post, at 728 (emphasis in original). In
+excluding all the wetlands in category (ii), the majority's
+“ `continuous surface connection' test disregards the ordinary
+meaning of `adjacent.' ” Post, at 722. The majority thus al-
+ters—more precisely, narrows the scope of—the statute Con-
+gress drafted.
+And make no mistake: Congress wrote the statute it meant
+to. The Clean Water Act was a landmark piece of environ-
+mental legislation, designed to address a problem of “crisis
+proportions.” R. Adler, J. Landman, & D. Cameron, The
+Clean Water Act: 20 Years Later 5 (1993). How bad was
+water pollution in 1972, when the Act passed? Just a few
+years earlier, Ohio's Cuyahoga River had “burst into fames,
+fueled by oil and other industrial wastes.” Ibid. And that
+was merely one of many alarms. Rivers, lakes, and creeks
+across the country were unft for swimming. Drinking
+water was full of hazardous chemicals. Fish were dying in
+record numbers (over 40 million in 1969); and those caught
+were often too contaminated to eat (with mercury and DDT
+far above safe levels). See id., at 5–6. So Congress em-
+barked on what this Court once understood as a “total
+restructuring and complete rewriting” of existing water
+pollution law. Milwaukee v. Illinois, 451 U. S. 304, 317
+(1981) (internal quotation marks omitted). The new Act
+established “a self-consciously comprehensive” and “all-
+encompassing program of water pollution regulation.” Id.,
+at 318–319. Or said a bit differently, the Act created a
+program broad enough to achieve the codified objective of
+“restor[ing] and maintain[ing] the chemical, physical, and
+biological integrity of the Nation's waters.” § 1251(a). If
+you've lately swum in a lake, happily drunk a glass of water
+straight from the tap, or sat down to a good fsh dinner, you
+can appreciate what the law has accomplished.
+Vital to the Clean Water Act's project is the protection of
+wetlands—both those contiguous to covered waters and oth-
+ers nearby. As this Court (again, formerly) recognized,
+wetlands “serve to flter and purify water draining into ad-
+jacent bodies of water, and to slow the fow of surface run-
+off into lakes, rivers, and streams.” United States v. River-
+side Bayview Homes, Inc., 474 U. S. 121, 134 (1985) (citation
+omitted). Wetlands thus “function as integral parts of the
+aquatic environment”—protecting neighboring water if
+themselves healthy, imperiling neighboring water if instead
+degraded. Id., at 135. At the same time, wetlands play a
+crucial part in food control (if anything, more needed now
+than when the statute was enacted). And wetlands perform
+those functions, as Justice Kavanaugh explains, not only
+when they are touching a covered water but also when they
+are separated from it by a natural or artificial barrier—say, a
+berm or dune or dike or levee. See post, at 725–727 (giving
+examples). Those barriers, as he says, “do not block
+all water fow,” and in fact are usually evidence of a signif-
+cant connection between the wetland and the water. Ibid.
+Small wonder, then, that the Act—as written, rather than as
+read today—covers wetlands with that kind of connection.
+Congress chose just the word needed to meet the Act's objec-
+tive. A wetland is protected when it is “adjacent” to a cov-
+ered water—not merely when it is “adjoining” or “contigu-
+ous” or “touching,” or (in the majority's favorite made-up
+locution) has a “continuous surface connection.” See, e. g.,
+ante, at 684.
+Today's majority, though, believes Congress went too far.
+In the majority's view, the Act imposes unjustifiably “crush-
+ing consequences” for violations of its terms. Ante, at 660.
+And many of those violations, it thinks, are of no real con-
+cern, arising from “mundane” land-use conduct “like moving
+dirt.” Ante, at 669. Congress, the majority scolds, has
+unleashed the EPA to regulate “swimming pools[ ] and
+puddles,” wreaking untold havoc on “a staggering array of
+landowners.” Ante, at 659, 670. Surely something has to
+be done; and who else to do it but this Court? It must res-
+cue property owners from Congress's too-ambitious program
+of pollution control.
+So the majority shelves the usual rules of interpretation—
+reading the text, determining what the words used there
+mean, and applying that ordinary understanding even if it
+conflicts with judges' policy preferences. The majority's
+first pass through the statute is, as Justice Kavanaugh
+says, “unorthodox.” Post, at 723. “A minus B, which in-
+cludes C”? Ante, at 675. The majority could use every let-
+ter of the alphabet, and graduate to quadratic equations, and
+still not solve its essential problem. As the majority con-
+cedes, the statute “tells us that at least some wetlands must
+qualify as `waters of the United States.' ” Ibid. More, the
+statute tells us what those “some wetlands” are: the “adja-
+cent” ones. And again, as Justice Kavanaugh shows, “ad-
+jacent” does not mean adjoining. See post, at 718–720;
+supra, at 710. So the majority proceeds to its back-up plan.
+It relies as well on a judicially manufactured clear-statement
+rule. When Congress (so says the majority) exercises
+power “over private property”—particularly, over “land and
+water use”—it must adopt “exceedingly clear language.”
+Ante, at 679 (internal quotation marks omitted). There is,
+in other words, a thumb on the scale for property owners—
+no matter that the Act (i. e., the one Congress enacted) is all
+about stopping property owners from polluting. See supra,
+at 711.
+Even assuming that thumb's existence, the majority still
+would be wrong. As Justice Kavanaugh notes, clear-
+statement rules operate (when they operate) to resolve prob-
+lems of ambiguity and vagueness. See post, at 725; see also
+Bond v. United States, 572 U. S. 844, 859 (2014); United
+States v. Bass, 404 U. S. 336, 347 (1971). And no such prob-
+lems are evident here. One last time: “Adjacent” means
+neighboring, whether or not touching; so, for example, a wet-
+land is adjacent to water on the other side of a sand dune.
+That congressional judgment is as clear as clear can be—
+which is to say, as clear as language gets. And so a clear-
+statement rule must leave it alone. The majority concludes
+otherwise because it is using its thumb not to resolve ambi-
+guity or clarify vagueness, but instead to “correct” breadth.
+Those paying attention have seen this move before—actu-
+ally, just last Term. In another case of environmental regu-
+lation (involving clean air), the Court invoked another clear-
+statement rule (the so-called major questions doctrine) to
+diminish another plainly expansive term (“system of emis-
+sion reduction”). See West Virginia v. EPA, 597 U. S.
+–––, –––, ––– (2022). “[C]ontra the majority,” I said then, “a
+broad term is not the same thing as a `vague' one.” Id., at –––
+(dissenting opinion). And a court must treat the two differ-
+ently. A court may, on occasion, apply a clear-statement rule
+to deal with statutory vagueness or ambiguity. But a court
+may not rewrite Congress's plain instructions because they
+go further than preferred. That is what the majority does
+today in finding that the Clean Water Act excludes many
+wetlands (clearly) “adjacent” to covered waters.
+And still more fundamentally, why ever have a thumb on
+the scale against the Clean Water Act's protections? The
+majority first invokes federalism. See ante, at 679–680.
+But as Justice Kavanaugh observes, “the Federal Govern-
+ment has long regulated the waters of the United States,
+including adjacent wetlands.” Post, at 725. The majority
+next raises the specter of criminal penalties for “indetermi-
+nate” conduct. See ante, at 680–681. But there is no pecu-
+liar indeterminacy in saying—as regulators have said for
+nearly a half century—that a wetland is covered both when
+it touches a covered water and when it is separated by only
+a dike, berm, dune, or similar barrier. (That standard is in
+fact more definite than a host of criminal laws I could name.)
+Today's pop-up clear-statement rule is explicable only as a
+refexive response to Congress's enactment of an ambitious
+scheme of environmental regulation. It is an effort to cabin
+the anti-pollution actions Congress thought appropriate.
+See ante, at 680 (complaining about Congress's protection of
+“vast” and “staggering” “additional area”). And that, too,
+recalls last Term, when I remarked on special canons “magi-
+cally appearing as get-out-of-text-free cards” to stop the
+EPA from taking the measures Congress told it to. See
+West Virginia, 597 U. S., at ––– – ––– (dissenting opinion).
+There, the majority's non-textualism barred the EPA from

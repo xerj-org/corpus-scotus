@@ -1,0 +1,1247 @@
+Bostock v. Clayton County — No. 17-1618 — October Term 2019 — decided 6/15/20 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 590 U.S. 644
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US2PP_web.pdf#page=232 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch delivered the opinion of the Court.
+Sometimes small gestures can have unexpected conse-
+quences. Major initiatives practically guarantee them. In
+our time, few pieces of federal legislation rank in significance
+Aaron M. Frey of Maine, Brian E. Frosh of Maryland, Maura Healey of
+Massachusetts, Dana Nessel of Michigan, Keith Ellison of Minnesota,
+Aaron D. Ford of Nevada, Gurbir S. Grewal of New Jersey, Hector H.
+Balderas of New Mexico, Ellen F. Rosenblum of Oregon, Josh Shapiro of
+Pennsylvania, Peter F. Neronha of Rhode Island, Thomas J. Donovan,
+Jr., of Vermont, Mark R. Herring of Virginia, and Robert Ferguson of
+Washington; for Altria Group, Inc., by Lauren R. Goldman, Scott A.
+Chesin, Murray R. Garnick, Andrew J. Pincus, and Nicole A. Saharsky;
+for the American Bar Association by Robert M. Carlson and Douglas
+Hallward-Driemeier; for the American Federation of Labor and Congress
+of Industrial Organizations by Harold C. Becker and Matthew J. Ginsburg;
+for the American Medical Association et al. by Scott B. Wilkens; for the
+American Psychological Association et al. by Jessica Ring Amunson,
+Emily L. Chapuis, Aaron M. Panner, Deanne M. Ottaviano , and Nathalie
+F. P . Gilfoyle; for Anti-discrimination Scholars by Mitchell P . Reich,
+Thomas P . Schmidt, and Brian Soucek, pro se; for Business Organizations
+by Lisa S. Blatt; for Employment Discrimination Law Scholars by Sasha
+Samberg-Champion, Joseph J. Wardenski, and Sachin S. Pandya and
+Marcia L. McCormick, both pro se; for Former Executive Branch Officials
+and Leaders et al. by Evan Wolfson; for Georgia Equality by Emmet J.
+Bondurant; for GLBTQ Legal Advocates & Defenders et al. by Alan E.
+Schoenfeld, Mary Bonauto, Christopher Stoll, Julie Wilensky , and Shan-
+non Minter; for Historians by Chanakya A. Sethi and Rakesh N. Kilaru;
+for Impact Fund et al. by Lindsay Nako and David Nahmias; for inter-
+ACT: Advocates for Intersex Youth et al. by Jonah M. Knobler; for
+Lambda Legal Defense and Education Fund, Inc., by Karen L. Loewy ,
+Omar Gonzalez-Pagan, Sharon M. McGowan, and Gregory R. Nevins; for
+the Lawyers' Committee for Civil Rights Under Law et al. by Daniel A.
+Rubens, Kristen Clarke, Jon Greenbaum, Dariely Rodriguez, Phylicia H.
+Hill, Vanita Gupta, and Michael Zubrensky; for the Legal Aid Society by
+Brian T. Burgess, Richard Blum, and Frederick H. Rein; for Lesbian,
+Gay, Bisexual, Transgender, and Queer Members of the Legal Profession
+et al. by Margaret Costello; for Local Governments et al. by Zachary W.
+Carter, Richard Dearing, Devin Slack, Michael N. Feuer, James P . Clark,
+Kathleen Kenealy, Blithe Smith Bock, Michael Walsh, Danielle L. Gol-
+dstein, Dennis J. Herrera, Jeremy M. Goldman, Jaime M. Huling Delaye,
+James R. Williams, Greta S. Hansen, Jeremy A. Avila, George McAn-
+drews, William S. Kelly, G. Nicholas Herman, Mark A. Flessner, Christo-
+with the Civil Rights Act of 1964. There, in Title VII, Con-
+gress outlawed discrimination in the workplace on the basis
+of race, color, religion, sex, or national origin. Today, we
+pher J. Caso, Kristin M. Bronson, Lawrence Garcia, Louis N. Rainone,
+Dave Williamson, F. Joseph Abood, Mary C. Wickham, Roger J. Desid-
+erio, Susan L. Segal, Kathleen E. Gill, Mark Barber, Lyndsey M. Olson,
+Peter S. Holmes, Michael Jenkins, John M. Barr, Betsy Cavendish, Ed-
+ward M. Pikula, Jordan B. Yeager , and William Fosbre; for Members of
+Congress by Peter T. Barbur; for the Modern Military Association of
+America et al. by James Moore III, Jonathan L. Marcus, John M. Nannes,
+and Peter Perkowski; for the Muslim Bar Association of New York et al.
+by Adeel A. Mangi and Mr. Knobler; for the National Education Associa-
+tion et al. by Jeffrey A. Lamken, Alice O'Brien, Eric A. Harrington,
+David Strom, Francisco M. Negrón, Jr., and Sonja Trainor; for the Na-
+tional LGBT Bar Association et al. by Sanford Jay Rosen and Michael S.
+Nunez; for the National Women's Law Center et al. by Erica C. Lai,
+Danielle C. Morello, Fatima Goss Graves, Emily Martin, and Sunu
+P . Chandy; for Philosophy Professors by Lisa Hogan and Esteban M.
+Morin; for the Presiding Bishop and President of the House of Deputies
+of the Episcopal Church et al. by Jeffrey S. Trachtman; for Service Em-
+ployees International Union et al. by James M. Finberg, Barbara J. Chis-
+holm, Nicole G. Berner, and Claire Prestel; for the Southern Poverty Law
+Center et al. by Melissa Arbus Sherry; for Statutory Interpretation and
+Equality Law Scholars by Elizabeth B. Wydra, Brianne J. Gorod, Ashwin
+Phatak, and Katie Eyer , pro se; for the Trevor Project et al. by Richard
+W. Smith and Douglas C. Dreier; for Wisconsin Advocacy Organizations
+by Jeffrey A. McIntyre; for the Women's and Children's Advocacy Project
+et al. by Wendy J. Murphy; for Walter Dellinger et al. by Joshua Matz
+and Laurence H. Tribe; for William N. Eskridge, Jr., et al. by Mr. Esk-
+ridge, pro se; for Kenneth B. Mehlman et al. by Roy T. Englert, Jr., and
+Laurie R. Rubenstein; for Brian Slocum et al. by Andrew Rhys Davies;
+and for 206 Businesses by Todd Anten, Kathleen M. Sullivan, Cynthia H.
+Hyndman, Robert S. Cohen, and Justin T. Reinheimer.
+Jeffrey T. Green and Patrick C. Bryant fled a brief of amici curiae
+urging reversal in No. 17–1618 and affirmance in No. 17–1623 for Scholars
+Who Study the LGB Population.
+Briefs of amici curiae urging reversal in Nos. 17–1623 and 18–107 were
+fled for Ryan T. Anderson by Charles S. LiMandri, Paul M. Jonna, and
+Jeffrey M. Trissell; and for W. Burlette Carter by Ms. Carter, pro se.
+Briefs of amici curiae urging reversal in No. 18–107 were fled for the
+Center for Arizona Policy by Aaron T. Martin and Cathi Herrod; for the
+must decide whether an employer can fre someone simply
+for being homosexual or transgender. The answer is clear.
+An employer who fires an individual for being homosexual
+Center for Religious Expression by Nathan W. Kellum; for the Christian
+Employers Alliance by Parker Douglas ; for Family Policy Groups by
+Jonathan R. Whitehead; for the Foundation for Moral Law by Matthew
+J. Clark and John A. Eidsmoe; for Free Speech Advocates by Thomas
+P . Monaghan and Walter M. Weber; for the Great Lakes Justice Center
+by William Wagner, Erin Elizabeth Mersino , and Katherine L. Henry;
+for the Independent Women's Forum et al. by Anita Y . Milanovich; for
+Judicial Watch, Inc., by Robert D. Popper; for Military Spouses United by
+Arthur A. Schulcz, Sr.; for National Medical and Policy Groups That Study
+Sex and Gender Identity by Antony B. Kolenc; for Public Advocate of the
+United States et al. by William J. Olson, Herbert W. Titus, Jeremiah L.
+Morgan, Robert J. Olson, Joseph W. Miller, Gary G. Kreep, and J. Mark
+Brewer; for Scholars of Family and Sexuality by Dean R. Broyles; for
+Scholars of Philosophy et al. by David R. Langdon; for the United States
+Conference of Catholic Bishops et al. by Anthony R. Picarello, Jr., Jeffrey
+Hunter Moon, Michael F. Moses, and Hillary E. Byrnes; for Women's
+Liberation Front by David Bookbinder; for William J. Bennett by Charles
+J. Cooper, David H. Thompson, and John D. Ohlendorf ; and for Walt
+Heyer et al. by Gregory H. Teufel.
+Briefs of amici curiae urging affirmance in No. 17–1618 and reversal in
+Nos. 17–1623 and 18–107 were fled for the State of Tennessee et al. by
+Herbert H. Slatery III, Attorney General of Tennessee, Andrée S.
+Blumstein, Solicitor General, and Sarah K. Campbell, Associate Solicitor
+General, Douglas J. Peterson, Attorney General of Nebraska, and David
+Bydalek, Chief Deputy Attorney General, and Ken Paxton, Attorney Gen-
+eral of Texas, Kyle D. Hawkins, Solicitor General, and M. Stephen Pitt,
+and by the Attorneys General for their respective States as follows: Steve
+Marshall of Alabama, Kevin G. Clarkson of Alaska, Leslie Rutledge of
+Arkansas, Lawrence G. Wasden of Idaho, Jeff Landry of Louisiana, Eric
+S. Schmitt of Missouri, Dave Yost of Ohio, Mike Hunter of Oklahoma,
+Alan Wilson of South Carolina, Jason R. Ravnsborg of South Dakota, and
+Patrick Morrisey of West Virginia; for Advocates for Faith and Freedom
+by C. Thomas Ludden; for the American Public Philosophy Institute by
+David R. Upham; for the Billy Graham Evangelistic Association et al. by
+Frederick W. Claybrook, Jr., Steven W. Fitschen, James A. Davids, and
+David A. Bruce; for Business Organizations by Sean P . Gates; for the
+Council of Christian Colleges & Universities et al. by R. Shawn Gunnar-
+son, Steven M. Sandberg, and Heather E. Gunnarson; for Defend My Pri-
+or transgender fires that person for traits or actions it would
+not have questioned in members of a different sex. Sex
+plays a necessary and undisguisable role in the decision, ex-
+actly what Title VII forbids.
+vacy et al. by Joel A. Ready; for the First Liberty Institute by Kelly J.
+Shackelford, Hiram S. Sasser III, and Stephanie N. Taub; for the H. T.
+Hackney Co. by Edward H. Trent; for the Institute for Faith and Family
+et al. by Deborah J. Dewart and B. Tyler Brooks; for the National Associa-
+tion of Evangelicals et al. by Alexander Dushku and Luke W. Goodrich;
+for the National Organization for Marriage et al. by John C. Eastman and
+Anthony T. Caso; for the Religious Freedom Institute's Islam & Religious
+Freedom Action Team et al. by Michael K. Whitehead; and for David A.
+Robinson by Mr. Robinson, pro se.
+William C. Duncan fled a brief of amici curiae urging affirmance
+in No. 17–1618 and reversal in No. 17–1623 for the Marriage Law
+Foundation.
+Briefs of amici curiae urging affirmance in No. 18–107 were fled for
+Anti-Sexual Assault Organizations et al. by Walter Dellinger; for Law &
+History Professors by Craig J. Konnoth, Kevin Costello, Jack Harrison,
+and Kyle Velte , all pro se , and Andrew H. DeVoogd, Susan M. Finegan,
+and Donald C. Davis; for Scholars Who Study the Transgender Population
+by David R. Carpenter; for the Transgender Law Center et al. by Julia
+R. Lissner, Megan M. Kokontis, Melissa L. Cizmorris, Andrea Chinyere
+Ezie, Lynly Egyes, and Dale Melchert; for the Transgender Legal De-
+fense & Education Fund et al. by Howard S. Zelbo and Carmine D.
+Boccuzzi, Jr.; for Women Business Owners et al. by Thomas Brejcha
+and Joan M. Mannix; and for Samuel R. Bagenstos et al. byDaniel
+Woofter, Kevin K. Russell, Eric F. Citron, Erica Oleszczuk Evans, Mar-
+tin S. Lederman, Mr. Bagenstos, Leah M. Litman, Margo Schlanger, and
+Michael C. Dorf, all pro se.
+Briefs of amici curiae were fled in all cases for Liberty Counsel
+by Mathew D. Staver, Anita L. Staver, Horatio G. Mihet, Roger K. Gan-
+nam, and Rena M. Lindevaldsen; for Members of Congress by Timothy
+J. Newton and Kenneth W. Starr; for the New Civil Liberties Alliance by
+Jonathan F. Mitchell and Aditya Dynar; and for Women CEOs et al. by
+Suzanne B. Goldberg, Richard M. Segal, and Cynthia Cook Robertson.
+Briefs of amici curiae in Nos. 17–1618 and 17–1623 were fled for the
+Foundation for Moral Law by Mr. Eidsmoe; and for Karl Olson by Janine
+M. Brookner.
+Randall L. Wenger, Jeremy L. Samek, and Curtis M. Schube fled a
+brief of amicus curiae for Paul R. McHugh in No. 18–107.
+Those who adopted the Civil Rights Act might not have
+anticipated their work would lead to this particular result.
+Likely, they weren't thinking about many of the Act's conse-
+quences that have become apparent over the years, including
+its prohibition against discrimination on the basis of mother-
+hood or its ban on the sexual harassment of male employees.
+But the limits of the drafters' imagination supply no reason
+to ignore the law's demands. When the express terms of a
+statute give us one answer and extratextual considerations
+suggest another, it's no contest. Only the written word is
+the law, and all persons are entitled to its benefit.
+I
+Few facts are needed to appreciate the legal question we
+face. Each of the three cases before us started the same
+way: An employer fred a long-time employee shortly after
+the employee revealed that he or she is homosexual or trans-
+gender—and allegedly for no reason other than the employ-
+ee's homosexuality or transgender status.
+Gerald Bostock worked for Clayton County, Georgia, as a
+child welfare advocate. Under his leadership, the county
+won national awards for its work. After a decade with the
+county, Mr. Bostock began participating in a gay recreational
+softball league. Not long after that, influential members of
+the community allegedly made disparaging comments about
+Mr. Bostock's sexual orientation and participation in the
+league. Soon, he was fred for conduct “unbecoming” a
+county employee.
+Donald Zarda worked as a skydiving instructor at Altitude
+Express in New York. After several seasons with the com-
+pany, Mr. Zarda mentioned that he was gay and, days later,
+was fred.
+Aimee Stephens worked at R. G. & G. R. Harris Funeral
+Homes in Garden City, Michigan. When she got the job,
+Ms. Stephens presented as a male. But two years into her
+service with the company, she began treatment for despair
+and loneliness. Ultimately, clinicians diagnosed her with
+gender dysphoria and recommended that she begin living as
+a woman. In her sixth year with the company, Ms. Stephens
+wrote a letter to her employer explaining that she planned
+to “live and work full-time as a woman” after she returned
+from an upcoming vacation. The funeral home fred her be-
+fore she left, telling her “this is not going to work out.”
+While these cases began the same way, they ended differ-
+ently. Each employee brought suit under Title VII alleging
+unlawful discrimination on the basis of sex. 78 Stat. 255, 42
+U. S. C. § 2000e–2(a)(1). In Mr. Bostock's case, the Eleventh
+Circuit held that the law does not prohibit employers from
+firing employees for being gay and so his suit could be dis-
+missed as a matter of law. 723 Fed. Appx. 964 (2018) (per
+curiam). Meanwhile, in Mr. Zarda's case, the Second Cir-
+cuit concluded that sexual orientation discrimination does vi-
+olate Title VII and allowed his case to proceed. 883 F. 3d
+100 (2018). Ms. Stephens's case has a more complex proce-
+dural history, but in the end the Sixth Circuit reached a deci-
+sion along the same lines as the Second Circuit's, holding
+that Title VII bars employers from firing employees because
+of their transgender status. 884 F. 3d 560 (2018). During
+the course of the proceedings in these long-running disputes,
+both Mr. Zarda and Ms. Stephens have passed away. But
+their estates continue to press their causes for the benefit of
+their heirs. And we granted certiorari in these matters to
+resolve at last the disagreement among the courts of appeals
+over the scope of Title VII's protections for homosexual and
+transgender persons. 587 U. S. 960 (2019).
+II
+This Court normally interprets a statute in accord with
+the ordinary public meaning of its terms at the time of its
+enactment. After all, only the words on the page constitute
+the law adopted by Congress and approved by the President.
+If judges could add to, remodel, update, or detract from old
+statutory terms inspired only by extratextual sources and
+our own imaginations, we would risk amending statutes out-
+side the legislative process reserved for the people's repre-
+sentatives. And we would deny the people the right to con-
+tinue relying on the original meaning of the law they have
+counted on to settle their rights and obligations. See New
+Prime Inc. v. Oliveira, 586 U. S. 105, 113 (2019).
+With this in mind, our task is clear. We must determine
+the ordinary public meaning of Title VII's command that it
+is “unlawful . . . for an employer . . . to fail or refuse to hire
+or to discharge any individual, or otherwise to discriminate
+against any individual with respect to his compensation,
+terms, conditions, or privileges of employment, because of
+such individual's race, color, religion, sex, or national ori-
+gin.” § 2000e–2(a)(1). To do so, we orient ourselves to the
+time of the statute's adoption, here 1964, and begin by exam-
+ining the key statutory terms in turn before assessing their
+impact on the cases at hand and then confirming our work
+against this Court's precedents.
+A
+The only statutorily protected characteristic at issue in to-
+day's cases is “sex”—and that is also the primary term in
+Title VII whose meaning the parties dispute. Appealing to
+roughly contemporaneous dictionaries, the employers say
+that, as used here, the term “sex” in 1964 referred to “status
+as either male or female [as] determined by reproductive bi-
+ology.” The employees counter by submitting that, even in
+1964, the term bore a broader scope, capturing more than
+anatomy and reaching at least some norms concerning gen-
+der identity and sexual orientation. But because nothing in
+our approach to these cases turns on the outcome of the par-
+ties' debate, and because the employees concede the point for
+argument's sake, we proceed on the assumption that “sex”
+signifed what the employers suggest, referring only to bio-
+logical distinctions between male and female.
+Still, that's just a starting point. The question isn't just
+what “sex” meant, but what Title VII says about it. Most
+notably, the statute prohibits employers from taking certain
+actions “because of ” sex. And, as this Court has previously
+explained, “the ordinary meaning of `because of ' is `by rea-
+son of' or `on account of.' ” University of Tex. Southwestern
+Medical Center v. Nassar, 570 U. S. 338, 350 (2013) (citing
+Gross v. FBL Financial Services, Inc., 557 U. S. 167, 176
+(2009); quotation altered). In the language of law, this
+means that Title VII's “because of ” test incorporates the
+“ `simple' ” and “traditional” standard of but-for causation.
+Nassar, 570 U. S., at 346, 360. That form of causation is es-
+tablished whenever a particular outcome would not have
+happened “but for” the purported cause. See Gross, 557
+U. S., at 176. In other words, a but-for test directs us to
+change one thing at a time and see if the outcome changes.
+If it does, we have found a but-for cause.
+This can be a sweeping standard. Often, events have
+multiple but-for causes. So, for example, if a car accident
+occurred both because the defendant ran a red light and be-
+cause the plaintiff failed to signal his turn at the intersection,
+we might call each a but-for cause of the collision. Cf. Bur-
+rage v. United States, 571 U. S. 204, 211–212 (2014). When
+it comes to Title VII, the adoption of the traditional but-for
+causation standard means a defendant cannot avoid liability
+just by citing some other factor that contributed to its chal-
+lenged employment decision. So long as the plaintiff 's sex
+was one but-for cause of that decision, that is enough to trig-
+ger the law. See ibid.; Nassar, 570 U. S., at 350.
+No doubt, Congress could have taken a more parsimonious
+approach. As it has in other statutes, it could have added
+“solely” to indicate that actions taken “because of ” the con-
+fuence of multiple factors do not violate the law. Cf. 11
+U. S. C. § 525; 16 U. S. C. § 511. Or it could have written
+“primarily because of” to indicate that the prohibited factor
+had to be the main cause of the defendant's challenged em-
+ployment decision. Cf. 22 U. S. C. § 2688. But none of this
+is the law we have. If anything, Congress has moved in the
+opposite direction, supplementing Title VII in 1991 to allow
+a plaintiff to prevail merely by showing that a protected trait
+like sex was a “motivating factor” in a defendant's challenged
+employment practice. Civil Rights Act of 1991, § 107, 105
+Stat. 1075, codified at 42 U. S. C. § 2000e–2(m). Under this
+more forgiving standard, liability can sometimes follow even
+if sex wasn't a but-for cause of the employer's challenged
+decision. Still, because nothing in our analysis depends
+on the motivating factor test, we focus on the more tradi-
+tional but-for causation standard that continues to afford a
+viable, if no longer exclusive, path to relief under Title VII.
+§ 2000e–2(a)(1).
+As sweeping as even the but-for causation standard can
+be, Title VII does not concern itself with everything that
+happens “because of ” sex. The statute imposes liability on
+employers only when they “fail or refuse to hire,” “dis-
+charge,” “or otherwise . . . discriminate against” someone
+because of a statutorily protected characteristic like sex.
+Ibid. The employers acknowledge that they discharged the
+plaintiffs in today's cases, but assert that the statute's list of
+verbs is qualified by the last item on it: “otherwise . . . dis-
+criminate against.” By virtue of the word otherwise , the
+employers suggest, Title VII concerns itself not with every
+discharge, only with those discharges that involve
+discrimination.
+Accepting this point, too, for argument's sake, the question
+becomes: What did “discriminate” mean in 1964? As it
+turns out, it meant then roughly what it means today: “To
+make a difference in treatment or favor (of one as compared
+with others).” Webster's New International Dictionary 745
+(2d ed. 1954). To “discriminate against” a person, then,
+would seem to mean treating that individual worse than
+others who are similarly situated. See Burlington N. &
+S. F. R. Co. v. White, 548 U. S. 53, 59 (2006). In so-called
+“disparate treatment” cases like today's, this Court has also
+held that the difference in treatment based on sex must be
+intentional. See, e. g., Watson v. Fort Worth Bank & Trust,
+487 U. S. 977, 986 (1988). So, taken together, an employer
+who intentionally treats a person worse because of sex—such
+as by firing the person for actions or attributes it would tol-
+erate in an individual of another sex—discriminates against
+that person in violation of Title VII.
+At first glance, another interpretation might seem possi-
+ble. Discrimination sometimes involves “the act, practice,
+or an instance of discriminating categorically rather than
+individually.” Webster's New Collegiate Dictionary 326
+(1975); see also post, at 709, n. 22 (Alito , J., dissenting). On
+that understanding, the statute would require us to consider
+the employer's treatment of groups rather than individuals,
+to see how a policy affects one sex as a whole versus the
+other as a whole. That idea holds some intuitive appeal too.
+Maybe the law concerns itself simply with ensuring that em-
+ployers don't treat women generally less favorably than they
+do men. So how can we tell which sense, individual or
+group, “discriminate” carries in Title VII?
+The statute answers that question directly. It tells us
+three times—including immediately after the words “dis-
+criminate against”—that our focus should be on individuals,
+not groups: Employers may not “fail or refuse to hire or . . .
+discharge any individual, or otherwise . . . discriminate
+against any individual with respect to his compensation,
+terms, conditions, or privileges of employment, because of
+such individual's . . . sex.” § 2000e–2(a)(1) (emphasis
+added). And the meaning of “individual” was as uncontro-
+versial in 1964 as it is today: “A particular being as distin-
+guished from a class, species, or collection.” Webster's New
+International Dictionary, at 1267. Here, again, Congress
+could have written the law differently. It might have said
+that “it shall be an unlawful employment practice to prefer
+one sex to the other in hiring, firing, or the terms or condi-
+tions of employment.” It might have said that there should
+be no “sex discrimination,” perhaps implying a focus on dif-
+ferential treatment between the two sexes as groups. More
+narrowly still, it could have forbidden only “sexist policies”
+against women as a class. But, once again, that is not the
+law we have.
+The consequences of the law's focus on individuals rather
+than groups are anything but academic. Suppose an em-
+ployer fires a woman for refusing his sexual advances. It's
+no defense for the employer to note that, while he treated
+that individual woman worse than he would have treated a
+man, he gives preferential treatment to female employees
+overall. The employer is liable for treating this woman
+worse in part because of her sex. Nor is it a defense for an
+employer to say it discriminates against both men and
+women because of sex. This statute works to protect indi-
+viduals of both sexes from discrimination, and does so
+equally. So an employer who fires a woman, Hannah, be-
+cause she is insufficiently feminine and also fires a man, Bob,
+for being insufficiently masculine may treat men and women
+as groups more or less equally. But in both cases the em-
+ployer fires an individual in part because of sex. Instead of
+avoiding Title VII exposure, this employer doubles it.
+B
+From the ordinary public meaning of the statute's lan-
+guage at the time of the law's adoption, a straightforward
+rule emerges: An employer violates Title VII when it inten-
+tionally fires an individual employee based in part on sex.
+It doesn't matter if other factors besides the plaintiff's sex
+contributed to the decision. And it doesn't matter if the em-
+ployer treated women as a group the same when compared
+to men as a group. If the employer intentionally relies in
+part on an individual employee's sex when deciding to dis-
+charge the employee—put differently, if changing the em-
+ployee's sex would have yielded a different choice by the
+employer—a statutory violation has occurred. Title VII's
+message is “simple but momentous”: An individual employ-
+ee's sex is “not relevant to the selection, evaluation, or com-
+pensation of employees.” Price Waterhouse v. Hopkins, 490
+U. S. 228, 239 (1989) (plurality opinion).
+The statute's message for our cases is equally simple and
+momentous: An individual's homosexuality or transgender
+status is not relevant to employment decisions. That's be-
+cause it is impossible to discriminate against a person for
+being homosexual or transgender without discriminating
+against that individual based on sex. Consider, for example,
+an employer with two employees, both of whom are attracted
+to men. The two individuals are, to the employer's mind,
+materially identical in all respects, except that one is a man
+and the other a woman. If the employer fires the male em-
+ployee for no reason other than the fact he is attracted to
+men, the employer discriminates against him for traits or
+actions it tolerates in his female colleague. Put differently,
+the employer intentionally singles out an employee to fre
+based in part on the employee's sex, and the affected employ-
+ee's sex is a but-for cause of his discharge. Or take an em-
+ployer who fires a transgender person who was identified as
+a male at birth but who now identifies as a female. If the
+employer retains an otherwise identical employee who was
+identified as female at birth, the employer intentionally pe-
+nalizes a person identified as male at birth for traits or ac-
+tions that it tolerates in an employee identified as female at
+birth. Again, the individual employee's sex plays an unmis-
+takable and impermissible role in the discharge decision.
+That distinguishes these cases from countless others
+where Title VII has nothing to say. Take an employer who
+fires a female employee for tardiness or incompetence or sim-
+ply supporting the wrong sports team. Assuming the em-
+ployer would not have tolerated the same trait in a man,
+Title VII stands silent. But unlike any of these other traits
+or actions, homosexuality and transgender status are inextri-
+cably bound up with sex. Not because homosexuality or
+transgender status are related to sex in some vague sense
+or because discrimination on these bases has some disparate
+impact on one sex or another, but because to discriminate
+on these grounds requires an employer to intentionally treat
+individual employees differently because of their sex.
+Nor does it matter that, when an employer treats one em-
+ployee worse because of that individual's sex, other factors
+may contribute to the decision. Consider an employer with
+a policy of firing any woman he discovers to be a Yankees fan.
+Carrying out that rule because an employee is a woman and
+a fan of the Yankees is a firing “because of sex” if the em-
+ployer would have tolerated the same allegiance in a male
+employee. Likewise here. When an employer fires an em-
+ployee because she is homosexual or transgender, two causal
+factors may be in play—both the individual's sex and some-
+thing else (the sex to which the individual is attracted or
+with which the individual identifies). But Title VII doesn't
+care. If an employer would not have discharged an em-
+ployee but for that individual's sex, the statute's causation
+standard is met, and liability may attach.
+Reframing the additional causes in today's cases as addi-
+tional intentions can do no more to insulate the employers
+from liability. Intentionally burning down a neighbor's
+house is arson, even if the perpetrator's ultimate intention
+(or motivation) is only to improve the view. No less, inten-
+tional discrimination based on sex violates Title VII, even if
+it is intended only as a means to achieving the employer's
+ultimate goal of discriminating against homosexual or trans-
+gender employees. There is simply no escaping the role in-
+tent plays here: Just as sex is necessarily a but-for cause
+when an employer discriminates against homosexual or
+transgender employees, an employer who discriminates on
+these grounds inescapably intends to rely on sex in its deci-
+sionmaking. Imagine an employer who has a policy of firing
+any employee known to be homosexual. The employer hosts
+an office holiday party and invites employees to bring their
+spouses. A model employee arrives and introduces a man-
+ager to Susan, the employee's wife. Will that employee be
+fred? If the policy works as the employer intends, the an-
+swer depends entirely on whether the model employee is a
+man or a woman. To be sure, that employer's ultimate goal
+might be to discriminate on the basis of sexual orientation.
+But to achieve that purpose the employer must, along the
+way, intentionally treat an employee worse based in part on
+that individual's sex.
+An employer musters no better a defense by responding
+that it is equally happy to fre male and female employees
+who are homosexual or transgender. Title VII liability is
+not limited to employers who, through the sum of all of their
+employment actions, treat the class of men differently than
+the class of women. Instead, the law makes each instance
+of discriminating against an individual employee because of
+that individual's sex an independent violation of Title VII.
+So just as an employer who fires both Hannah and Bob for
+failing to fulfill traditional sex stereotypes doubles rather
+than eliminates Title VII liability, an employer who fires
+both Hannah and Bob for being gay or transgender does
+the same.
+At bottom, these cases involve no more than the straight-
+forward application of legal terms with plain and settled
+meanings. For an employer to discriminate against employ-
+ees for being homosexual or transgender, the employer must
+intentionally discriminate against individual men and women
+in part because of sex. That has always been prohibited by
+Title VII's plain terms—and that “should be the end of the
+analysis.” 883 F. 3d, at 135 (Cabranes, J., concurring in
+judgment).
+C
+If more support for our conclusion were required, there's
+no need to look far. All that the statute's plain terms sug-
+gest, this Court's cases have already confirmed. Consider
+three of our leading precedents.
+In Phillips v. Martin Marietta Corp ., 400 U. S. 542 (1971)
+(per curiam ), a company allegedly refused to hire women
+with young children, but did hire men with children the same
+age. Because its discrimination depended not only on the
+employee's sex as a female but also on the presence of an-
+other criterion—namely, being a parent of young children—
+the company contended it hadn't engaged in discrimination
+“because of” sex. The company maintained, too, that it
+hadn't violated the law because, as a whole, it tended to favor
+hiring women over men. Unsurprisingly by now, these sub-
+missions did not sway the Court. That an employer dis-
+criminates intentionally against an individual only in part
+because of sex supplies no defense to Title VII. Nor does
+the fact an employer may happen to favor women as a class.
+In Los Angeles Dept. of Water and Power v. Manhart, 435
+U. S. 702 (1978), an employer required women to make larger
+pension fund contributions than men. The employer sought
+to justify its disparate treatment on the ground that women
+tend to live longer than men, and thus are likely to receive
+more from the pension fund over time. By everyone's ad-
+mission, the employer was not guilty of animosity against
+women or a “purely habitual assumptio[n] about a woman's
+inability to perform certain kinds of work”; instead, it relied
+on what appeared to be a statistically accurate statement
+about life expectancy. Id., at 707–708. Even so, the Court
+recognized, a rule that appears evenhanded at the group
+level can prove discriminatory at the level of individuals.
+True, women as a class may live longer than men as a class.
+But “[t]he statute's focus on the individual is unambiguous,”
+and any individual woman might make the larger pension
+contributions and still die as early as a man. Id., at 708.
+Likewise, the Court dismissed as irrelevant the employer's
+insistence that its actions were motivated by a wish to
+achieve classwide equality between the sexes: An employer's
+intentional discrimination on the basis of sex is no more per-
+missible when it is prompted by some further intention (or
+motivation), even one as prosaic as seeking to account for
+actuarial tables. Ibid. The employer violated Title VII be-
+cause, when its policy worked exactly as planned, it could not
+“pass the simple test” asking whether an individual female
+employee would have been treated the same regardless of
+her sex. Id., at 711.
+In Oncale v. Sundowner Offshore Services, Inc., 523 U. S.
+75 (1998), a male plaintiff alleged that he was singled out by
+his male co-workers for sexual harassment. The Court held
+it was immaterial that members of the same sex as the
+victim committed the alleged discrimination. Nor did the
+Court concern itself with whether men as a group were sub-
+ject to discrimination or whether something in addition to
+sex contributed to the discrimination, like the plaintiff's con-
+duct or personal attributes. “[A]ssuredly,” the case didn't
+involve “the principal evil Congress was concerned with
+when it enacted Title VII.” Id., at 79. But, the Court
+unanimously explained, it is “the provisions of our laws
+rather than the principal concerns of our legislators by which
+we are governed.” Ibid. Because the plaintiff alleged that
+the harassment would not have taken place but for his sex—
+that is, the plaintiff would not have suffered similar treat-
+ment if he were female—a triable Title VII claim existed.
+The lessons these cases hold for ours are by now familiar.
+First, it's irrelevant what an employer might call its dis-
+criminatory practice, how others might label it, or what else
+might motivate it. In Manhart, the employer called its rule
+requiring women to pay more into the pension fund a “life
+expectancy” adjustment necessary to achieve sex equality.
+In Phillips, the employer could have accurately spoken of
+its policy as one based on “motherhood.” In much the same
+way, today's employers might describe their actions as moti-
+vated by their employees' homosexuality or transgender sta-
+tus. But just as labels and additional intentions or motiva-
+tions didn't make a difference in Manhart or Phillips, they
+cannot make a difference here. When an employer fires an
+employee for being homosexual or transgender, it necessarily
+and intentionally discriminates against that individual in
+part because of sex. And that is all Title VII has ever de-
+manded to establish liability.
+Second, the plaintiff's sex need not be the sole or primary
+cause of the employer's adverse action. In Phillips, Man-
+hart, and Oncale, the defendant easily could have pointed to
+some other, nonprotected trait and insisted it was the more
+important factor in the adverse employment outcome. So,
+too, it has no significance here if another factor—such as the
+sex the plaintiff is attracted to or presents as—might also be
+at work, or even play a more important role in the employ-
+er's decision.
+Finally, an employer cannot escape liability by demon-
+strating that it treats males and females comparably as
+groups. As Manhart teaches, an employer is liable for in-
+tentionally requiring an individual female employee to pay
+more into a pension plan than a male counterpart even if the
+scheme promotes equality at the group level. Likewise, an
+employer who intentionally fires an individual homosexual or
+transgender employee in part because of that individual's sex
+violates the law even if the employer is willing to subject all
+male and female homosexual or transgender employees to
+the same rule.
+III
+What do the employers have to say in reply? For present
+purposes, they do not dispute that they fred the plaintiffs
+for being homosexual or transgender. Sorting out the true
+reasons for an adverse employment decision is often a hard
+business, but none of that is at issue here. Rather, the em-
+ployers submit that even intentional discrimination against
+employees based on their homosexuality or transgender sta-
+tus supplies no basis for liability under Title VII.
+The employers' argument proceeds in two stages. Seek-
+ing footing in the statutory text, they begin by advancing a
+number of reasons why discrimination on the basis of homo-
+sexuality or transgender status doesn't involve discrimina-
+tion because of sex. But each of these arguments turns out
+only to repackage errors we've already seen and this Court's
+precedents have already rejected. In the end, the employ-
+ers are left to retreat beyond the statute's text, where they
+fault us for ignoring the legislature's purposes in enacting
+Title VII or certain expectations about its operation. They
+warn, too, about consequences that might follow a ruling for
+the employees. But none of these contentions about what
+the employers think the law was meant to do, or should do,
+allow us to ignore the law as it is.
+A
+Maybe most intuitively, the employers assert that discrim-
+ination on the basis of homosexuality and transgender status
+aren't referred to as sex discrimination in ordinary conversa-
+tion. If asked by a friend (rather than a judge) why they
+were fred, even today's plaintiffs would likely respond that
+it was because they were gay or transgender, not because of
+sex. According to the employers, that conversational an-
+swer, not the statute's strict terms, should guide our think-
+ing and suffice to defeat any suggestion that the employees
+now before us were fred because of sex. Cf. post, at 684–
+685 (Alito, J., dissenting); post, at 786–791 (Kavanaugh, J.,
+dissenting).
+But this submission rests on a mistaken understanding of
+what kind of cause the law is looking for in a Title VII case.
+In conversation, a speaker is likely to focus on what seems
+most relevant or informative to the listener. So an em-
+ployee who has just been fred is likely to identify the pri-
+mary or most direct cause rather than list literally every
+but-for cause. To do otherwise would be tiring at best.
+But these conversational conventions do not control Title
+VII's legal analysis, which asks simply whether sex was a
+but-for cause. In Phillips, for example, a woman who was
+not hired under the employer's policy might have told her
+friends that her application was rejected because she was a
+mother, or because she had young children. Given that
+many women could be hired under the policy, it's unlikely
+she would say she was not hired because she was a woman.
+But the Court did not hesitate to recognize that the em-
+ployer in Phillips discriminated against the plaintiff because
+of her sex. Sex wasn't the only factor, or maybe even the
+main factor, but it was one but-for cause—and that was
+enough. You can call the statute's but-for causation test
+what you will—expansive, legalistic, the dissents even dis-
+miss it as wooden or literal. But it is the law.
+Trying another angle, the defendants before us suggest
+that an employer who discriminates based on homosexuality
+or transgender status doesn't intentionally discriminate
+based on sex, as a disparate treatment claim requires. See
+post, at 690–693 (Alito , J., dissenting); post, at 790–791 (Ka-
+vanaugh, J., dissenting). But, as we've seen, an employer
+who discriminates against homosexual or transgender em-
+ployees necessarily and intentionally applies sex-based rules.
+An employer that announces it will not employ anyone who
+is homosexual, for example, intends to penalize male employ-
+ees for being attracted to men and female employees for
+being attracted to women.
+What, then, do the employers mean when they insist inten-
+tional discrimination based on homosexuality or transgender
+status isn't intentional discrimination based on sex? Maybe
+the employers mean they don't intend to harm one sex or
+the other as a class. But as should be clear by now, the
+statute focuses on discrimination against individuals, not
+groups. Alternatively, the employers may mean that they
+don't perceive themselves as motivated by a desire to dis-
+criminate based on sex. But nothing in Title VII turns on
+the employer's labels or any further intentions (or motiva-
+tions) for its conduct beyond sex discrimination. In Man-
+hart, the employer intentionally required women to make
+higher pension contributions only to fulfill the further pur-
+pose of making things more equitable between men and
+women as groups. In Phillips, the employer may have per-
+ceived itself as discriminating based on motherhood, not sex,
+given that its hiring policies as a whole favored women. But
+in both cases, the Court set all this aside as irrelevant. The
+employers' policies involved intentional discrimination be-
+cause of sex, and Title VII liability necessarily followed.
+Aren't these cases different, the employers ask, given that
+an employer could refuse to hire a gay or transgender indi-
+vidual without ever learning the applicant's sex? Suppose
+an employer asked homosexual or transgender applicants to
+tick a box on its application form. The employer then had
+someone else redact any information that could be used
+to discern sex. The resulting applications would disclose
+which individuals are homosexual or transgender without re-
+vealing whether they also happen to be men or women.
+Doesn't that possibility indicate that the employer's discrimi-
+nation against homosexual or transgender persons cannot be
+sex discrimination?
+No, it doesn't. Even in this example, the individual appli-
+cant's sex still weighs as a factor in the employer's decision.
+Change the hypothetical ever so slightly and its faws be-
+come apparent. Suppose an employer's application form of-
+fered a single box to check if the applicant is either black or
+Catholic. If the employer refuses to hire anyone who checks
+that box, would we conclude the employer has complied with
+Title VII, so long as it studiously avoids learning any partic-
+ular applicant's race or religion? Of course not: By inten-
+tionally setting out a rule that makes hiring turn on race or
+religion, the employer violates the law, whatever he might
+know or not know about individual applicants.
+The same holds here. There is no way for an applicant to
+decide whether to check the homosexual or transgender box
+without considering sex. To see why, imagine an applicant
+doesn't know what the words homosexual or transgender
+mean. Then try writing out instructions for who should
+check the box without using the words man, woman, or sex
+(or some synonym). It can't be done. Likewise, there is no
+way an employer can discriminate against those who check
+the homosexual or transgender box without discriminating
+in part because of an applicant's sex. By discriminating
+against homosexuals, the employer intentionally penalizes
+men for being attracted to men and women for being at-
+tracted to women. By discriminating against transgender
+persons, the employer unavoidably discriminates against
+persons with one sex identified at birth and another today.
+Any way you slice it, the employer intentionally refuses to
+hire applicants in part because of the affected individuals'
+sex, even if it never learns any applicant's sex.
+Next, the employers turn to Title VII's list of protected
+characteristics—race, color, religion, sex, and national origin.
+Because homosexuality and transgender status can't be
+found on that list and because they are conceptually distinct
+from sex, the employers reason, they are implicitly excluded
+from Title VII's reach. Put another way, if Congress had
+wanted to address these matters in Title VII, it would have
+referenced them specifically. Cf. post, at 688 (Alito, J., dis-
+senting); post, at 791–793 (Kavanaugh, J., dissenting).
+But that much does not follow. We agree that homosexu-
+ality and transgender status are distinct concepts from sex.
+But, as we've seen, discrimination based on homosexuality
+or transgender status necessarily entails discrimination
+based on sex; the first cannot happen without the second.
+Nor is there any such thing as a “canon of donut holes,” in
+which Congress's failure to speak directly to a specific case
+that falls within a more general statutory rule creates a tacit
+exception. Instead, when Congress chooses not to include
+any exceptions to a broad rule, courts apply the broad rule.
+And that is exactly how this Court has always approached
+Title VII. “Sexual harassment” is conceptually distinct from
+sex discrimination, but it can fall within Title VII's sweep.
+Oncale, 523 U. S., at 79–80. Same with “motherhood dis-
+crimination.” See Phillips, 400 U. S., at 544. Would the em-
+ployers have us reverse those cases on the theory that Con-
+gress could have spoken to those problems more specifically?
+Of course not. As enacted, Title VII prohibits all forms of
+discrimination because of sex, however they may manifest
+themselves or whatever other labels might attach to them.
+The employers try the same point another way. Since
+1964, they observe, Congress has considered several propos-
+als to add sexual orientation to Title VII's list of protected
+characteristics, but no such amendment has become law.
+Meanwhile, Congress has enacted other statutes addressing
+other topics that do discuss sexual orientation. This posten-
+actment legislative history, they urge, should tell us some-
+thing. Cf. post, at 683–684, 722–723 (Alito , J., dissenting);
+post, at 782, 793 (Kavanaugh, J., dissenting).
+But what? There's no authoritative evidence explaining
+why later Congresses adopted other laws referencing sexual
+orientation but didn't amend this one. Maybe some in the
+later legislatures understood the impact Title VII's broad
+language already promised for cases like ours and didn't
+think a revision needed. Maybe others knew about its im-
+pact but hoped no one else would notice. Maybe still others,
+occupied by other concerns, didn't consider the issue at all.
+All we can know for certain is that speculation about why
+a later Congress declined to adopt new legislation offers a
+“particularly dangerous” basis on which to rest an interpre-
+tation of an existing law a different and earlier Congress
+did adopt. Pension Benefit Guaranty Corporation v. LTV
+Corp., 496 U. S. 633, 650 (1990); see also United States v.
+Wells, 519 U. S. 482, 496 (1997); Sullivan v. Finkelstein, 496
+U. S. 617, 632 (1990) (Scalia, J., concurring in part) (“Argu-
+ments based on subsequent legislative history . . . should not
+be taken seriously, not even in a footnote”).
+That leaves the employers to seek a different sort of ex-
+ception. Maybe the traditional and simple but-for causation
+test should apply in all other Title VII cases, but it just
+doesn't work when it comes to cases involving homosexual
+and transgender employees. The test is too blunt to capture
+the nuances here. The employers illustrate their concern
+with an example. When we apply the simple test to
+Mr. Bostock—asking whether Mr. Bostock, a man attracted
+to other men, would have been fred had he been a woman—
+we don't just change his sex. Along the way, we change his
+sexual orientation too (from homosexual to heterosexual).
+If the aim is to isolate whether a plaintiff's sex caused the
+dismissal, the employers stress, we must hold sexual orienta-
+tion constant—meaning we need to change both his sex and
+the sex to which he is attracted. So for Mr. Bostock, the
+question should be whether he would've been fred if he were
+a woman attracted to women. And because his employer
+would have been as quick to fre a lesbian as it was a gay man,
+the employers conclude, no Title VII violation has occurred.
+While the explanation is new, the mistakes are the same.
+The employers might be onto something if Title VII only
+ensured equal treatment between groups of men and women
+or if the statute applied only when sex is the sole or primary
+reason for an employer's challenged adverse employment ac-
+tion. But both of these premises are mistaken. Title VII's
+plain terms and our precedents don't care if an employer
+treats men and women comparably as groups; an employer
+who fires both lesbians and gay men equally doesn't diminish
+but doubles its liability. Just cast a glance back to Manhart,
+where it was no defense that the employer sought to equalize
+pension contributions based on life expectancy. Nor does
+the statute care if other factors besides sex contribute to
+an employer's discharge decision. Mr. Bostock's employer
+might have decided to fre him only because of the confuence
+of two factors, his sex and the sex to which he is attracted.
+But exactly the same might have been said in Phillips,
+where motherhood was the added variable.
+Still, the employers insist, something seems different here.
+Unlike certain other employment policies this Court has ad-
+dressed that harmed only women or only men, the employ-
+ers' policies in the cases before us have the same adverse
+consequences for men and women. How could sex be neces-
+sary to the result if a member of the opposite sex might face
+the same outcome from the same policy?
+What the employers see as unique isn't even unusual.
+Often in life and law two but-for factors combine to yield
+a result that could have also occurred in some other way.
+Imagine that it's a nice day outside and your house is too
+warm, so you decide to open the window. Both the cool tem-
+perature outside and the heat inside are but-for causes of
+your choice to open the window. That doesn't change just
+because you also would have opened the window had it been
+warm outside and cold inside. In either case, no one would
+deny that the window is open “because of” the outside tem-
+perature. Our cases are much the same. So, for example,
+when it comes to homosexual employees, male sex and at-
+traction to men are but-for factors that can combine to get
+them fred. The fact that female sex and attraction to
+women can also get an employee fred does no more than
+show the same outcome can be achieved through the combi-
+nation of different factors. In either case, though, sex plays
+an essential but-for role.
+At bottom, the employers' argument unavoidably comes
+down to a suggestion that sex must be the sole or primary
+cause of an adverse employment action for Title VII liability
+to follow. And, as we've seen, that suggestion is at odds
+with everything we know about the statute. Consider an
+employer eager to revive the workplace gender roles of the
+1950s. He enforces a policy that he will hire only men as
+mechanics and only women as secretaries. When a qualified
+woman applies for a mechanic position and is denied, the
+“simple test” immediately spots the discrimination: A quali-
+fed man would have been given the job, so sex was a but-
+for cause of the employer's refusal to hire. But like the em-
+ployers before us today, this employer would say not so fast.
+By comparing the woman who applied to be a mechanic to a
+man who applied to be a mechanic, we've quietly changed
+two things: the applicant's sex and her trait of failing to con-
+form to 1950s gender roles. The “simple test” thus over-
+looks that it is really the applicant's bucking of 1950s gender
+roles, not her sex, doing the work. So we need to hold that
+second trait constant: Instead of comparing the disappointed
+female applicant to a man who applied for the same position,
+the employer would say, we should compare her to a man
+who applied to be a secretary. And because that jobseeker
+would be refused too, this must not be sex discrimination.
+No one thinks that, so the employers must scramble to
+justify deploying a stricter causation test for use only in
+cases involving discrimination based on sexual orientation
+or transgender status. Such a rule would create a curious
+discontinuity in our case law, to put it mildly. Employer
+hires based on sexual stereotypes? Simple test. Employer
+sets pension contributions based on sex? Simple test. Em-
+ployer fires men who do not behave in a sufficiently mascu-
+line way around the office? Simple test. But when that
+same employer discriminates against women who are at-
+tracted to women, or persons identified at birth as women
+who later identify as men, we suddenly roll out a new and
+more rigorous standard? Why are these reasons for taking
+sex into account different from all the rest? Title VII's text
+can offer no answer.
+B
+Ultimately, the employers are forced to abandon the statu-
+tory text and precedent altogether and appeal to assump-
+tions and policy. Most pointedly, they contend that few in
+1964 would have expected Title VII to apply to discrimina-
+tion against homosexual and transgender persons. And
+whatever the text and our precedent indicate, they say,
+shouldn't this fact cause us to pause before recognizing
+liability?
+It might be tempting to reject this argument out of hand.
+This Court has explained many times over many years that,
+when the meaning of the statute's terms is plain, our job is
+at an end. The people are entitled to rely on the law as
+written, without fearing that courts might disregard its plain
+terms based on some extratextual consideration. See, e. g.,
+Carcieri v. Salazar, 555 U. S. 379, 387 (2009); Connecticut
+Nat. Bank v. Germain, 503 U. S. 249, 253–254 (1992); Rubin
+v. United States, 449 U. S. 424, 430 (1981). Of course, some
+Members of this Court have consulted legislative history
+when interpreting ambiguous statutory language. Cf. post,
+at 721 (Alito, J., dissenting). But that has no bearing here.
+“Legislative history, for those who take it into account, is
+meant to clear up ambiguity, not create it.” Milner v. De-
+partment of Navy , 562 U. S. 562, 574 (2011). And as we
+have seen, no ambiguity exists about how Title VII's terms
+apply to the facts before us. To be sure, the statute's appli-
+cation in these cases reaches “beyond the principal evil” leg-
+islators may have intended or expected to address. Oncale,
+523 U. S., at 79. But “ `[t]he fact that [a statute] has been
+applied in situations not expressly anticipated by Congress' ”
+does not demonstrate ambiguity; instead, it simply “ `demon-
+strates [the] breadth' ” of a legislative command. Sedima,
+S. P . R. L. v. Imrex Co., 473 U. S. 479, 499 (1985). And “it
+is ultimately the provisions of ” those legislative commands
+“rather than the principal concerns of our legislators by
+which we are governed.” Oncale, 523 U. S., at 79; see also
+A. Scalia & B. Garner, Reading Law: The Interpretation of
+Legal Texts 101 (2012) (noting that unexpected applications
+of broad language reflect only Congress's “presumed point
+[to] produce general coverage—not to leave room for courts
+to recognize ad hoc exceptions”).
+Still, while legislative history can never defeat unambigu-
+ous statutory text, historical sources can be useful for a dif-
+ferent purpose: Because the law's ordinary meaning at the
+time of enactment usually governs, we must be sensitive to
+the possibility a statutory term that means one thing today
+or in one context might have meant something else at the
+time of its adoption or might mean something different in
+another context. And we must be attuned to the possibility
+that a statutory phrase ordinarily bears a different meaning
+than the terms do when viewed individually or literally. To
+ferret out such shifts in linguistic usage or subtle distinctions
+between literal and ordinary meaning, this Court has some-
+times consulted the understandings of the law's drafters as
+some (not always conclusive) evidence. For example, in the
+context of the National Motor Vehicle Theft Act, this Court
+admitted that the term “vehicle” in 1931 could literally mean
+“a conveyance working on land, water or air.” McBoyle v.
+United States, 283 U. S. 25, 26 (1931). But given contextual
+clues and “everyday speech” at the time of the Act's adoption
+in 1919, this Court concluded that “vehicles” in that statute
+included only things “moving on land,” not airplanes too.
+Ibid. Similarly, in New Prime, we held that, while the term
+“contracts of employment” today might seem to encompass
+only contracts with employees, at the time of the statute's
+adoption the phrase was ordinarily understood to cover con-
+tracts with independent contractors as well. 586 U. S., at
+112–116. Cf. post, at 785–786 (Kavanaugh, J., dissenting)
+(providing additional examples).
+The employers, however, advocate nothing like that here.
+They do not seek to use historical sources to illustrate that
+the meaning of any of Title VII's language has changed since
+1964 or that the statute's terms, whether viewed individually
+or as a whole, ordinarily carried some message we have
+missed. To the contrary, as we have seen, the employers
+agree with our understanding of all the statutory language—
+“discriminate against any individual . . . because of such indi-
+vidual's . . . sex.” Nor do the competing dissents offer an
+alternative account about what these terms mean either
+when viewed individually or in the aggregate. Rather than
+suggesting that the statutory language bears some other
+meaning, the employers and dissents merely suggest that,
+because few in 1964 expected today's result, we should not
+dare to admit that it follows ineluctably from the statutory
+text. When a new application emerges that is both unex-
+pected and important, they would seemingly have us merely
+point out the question, refer the subject back to Congress,
+and decline to enforce the plain terms of the law in the
+meantime.
+That is exactly the sort of reasoning this Court has long
+rejected. Admittedly, the employers take pains to couch
+their argument in terms of seeking to honor the statute's
+“expected applications” rather than vindicate its “legislative
+intent.” But the concepts are closely related. One could
+easily contend that legislators only intended expected appli-
+cations or that a statute's purpose is limited to achieving
+applications foreseen at the time of enactment. However
+framed, the employers' logic impermissibly seeks to displace
+the plain meaning of the law in favor of something lying be-
+yond it.
+If anything, the employers' new framing may only add new
+problems. The employers assert that “no one” in 1964 or
+for some time after would have anticipated today's result.
+But is that really true? Not long after the law's passage,
+gay and transgender employees began filing Title VII com-
+plaints, so at least some people foresaw this potential appli-
+cation. See, e. g., Smith v. Liberty Mut. Ins. Co., 395 F.
+Supp. 1098, 1099 (ND Ga. 1975) (addressing claim from 1969);
+Holloway v. Arthur Andersen & Co., 566 F. 2d 659, 661 (CA9
+1977) (addressing claim from 1974). And less than a decade
+after Title VII's passage, during debates over the Equal
+Rights Amendment, others counseled that its language—
+which was strikingly similar to Title VII's—might also pro-
+tect homosexuals from discrimination. See, e. g., Note, The
+Legality of Homosexual Marriage, 82 Yale L. J. 573, 583–
+584 (1973).
+Why isn't that enough to demonstrate that today's result
+isn't totally unexpected? How many people have to foresee
+the application for it to qualify as “expected”? Do we look
+only at the moment the statute was enacted, or do we allow
+some time for the implications of a new statute to be worked
+out? Should we consider the expectations of those who had
+no reason to give a particular application any thought or only
+those with reason to think about the question? How do we
+account for those who change their minds over time, after
+learning new facts or hearing a new argument? How spe-
+cifcally or generally should we frame the “application” at
+issue? None of these questions have obvious answers, and
+the employers don't propose any.
+One could also reasonably fear that objections about unex-
+pected applications will not be deployed neutrally. Often
+lurking just behind such objections resides a cynicism that
+Congress could not possibly have meant to protect a disfa-
+vored group. Take this Court's encounter with the Ameri-
+cans with Disabilities Act's directive that no “ `public entity' ”
+can discriminate against any “ `qualified individual with a dis-
+ability.' ” Pennsylvania Dept. of Corrections v. Yeskey, 524
+U. S. 206, 208 (1998). Congress, of course, didn't list every
+public entity the statute would apply to. And no one batted
+an eye at its application to, say, post offices. But when the
+statute was applied to prisons, curiously, some demanded
+a closer look: Pennsylvania argued that “Congress did not
+`envisio[n] that the ADA would be applied to state prison-
+ers.' ” Id., at 211–212. This Court emphatically rejected
+that view, explaining that, “in the context of an unambiguous
+statutory text,” whether a specific application was antici-
+pated by Congress “is irrelevant.” Id., at 212. As Yeskey
+and today's cases exemplify, applying protective laws to
+groups that were politically unpopular at the time of the
+law's passage—whether prisoners in the 1990s or homosex-
+ual and transgender employees in the 1960s—often may be
+seen as unexpected. But to refuse enforcement just because
+of that, because the parties before us happened to be unpopu-
+lar at the time of the law's passage, would not only require
+us to abandon our role as interpreters of statutes; it would
+tilt the scales of justice in favor of the strong or popular and
+neglect the promise that all persons are entitled to the bene-
+ft of the law's terms. Cf. post, at 709–716 (Alito , J., dis-
+senting); post, at 799–800 (Kavanaugh, J., dissenting).
+The employer's position also proves too much. If we
+applied Title VII's plain text only to applications some (yet-
+to-be-determined) group expected in 1964, we'd have more
+than a little law to overturn. Start with Oncale. How
+many people in 1964 could have expected that the law would
+turn out to protect male employees? Let alone to protect
+them from harassment by other male employees? As we
+acknowledged at the time, “male-on-male sexual harassment
+in the workplace was assuredly not the principal evil Con-
+gress was concerned with when it enacted Title VII.” 523
+U. S., at 79. Yet the Court did not hesitate to recognize that
+Title VII's plain terms forbade it. Under the employer's
+logic, it would seem this was a mistake.
+That's just the beginning of the law we would have to un-
+ravel. As one Equal Employment Opportunity Commission
+(EEOC) Commissioner observed shortly after the law's pas-
+sage, the words of “ `the sex provision of Title VII [are] diff-
+cult to . . . control.' ” Franklin, Inventing the “Traditional
+Concept” of Sex Discrimination, 125 Harv. L. Rev. 1307, 1338
+(2012) (quoting Federal Mediation Service To Play Role in
+Implementing Title VII, [1965–1968 Transfer Binder] CCH
+Employment Practices ¶8046, p. 6074). The “difficult[y]”
+may owe something to the initial proponent of the sex dis-
+crimination rule in Title VII, Representative Howard Smith.
+On some accounts, the congressman may have wanted (or at
+least was indifferent to the possibility of) broad language
+with wide-ranging effect. Not necessarily because he was
+interested in rooting out sex discrimination in all its forms,
+but because he may have hoped to scuttle the whole Civil
+Rights Act and thought that adding language covering
+sex discrimination would serve as a poison pill. See C.
+Whalen & B. Whalen, The Longest Debate: A Legislative
+History of the 1964 Civil Rights Act 115–118 (1985). Cer-
+tainly nothing in the meager legislative history of this provi-
+sion suggests it was meant to be read narrowly.
+Whatever his reasons, thanks to the broad language
+Representative Smith introduced, many, maybe most, appli-
+cations of Title VII's sex provision were “unanticipated” at
+the time of the law's adoption. In fact, many now-obvious
+applications met with heated opposition early on, even
+among those tasked with enforcing the law. In the years
+immediately following Title VII's passage, the EEOC off-
+cially opined that listing men's positions and women's posi-
+tions separately in job postings was simply helpful rather
+than discriminatory. Franklin, 125 Harv. L. Rev., at 1340
+(citing Press Release, EEOC (Sept. 22, 1965)). Some courts
+held that Title VII did not prevent an employer from firing
+an employee for refusing his sexual advances. See, e. g.,
+Barnes v. Train, 13 FEP Cases 123, 1974 WL 10628, *1 (D DC,
+Aug. 9, 1974). And courts held that a policy against hiring
+mothers but not fathers of young children wasn't discrimina-
+tion because of sex. See Phillips v. Martin Marietta Corp .,
+411 F. 2d 1 (CA5 1969), rev'd, 400 U. S. 542 (1971) (per curiam).
+Over time, though, the breadth of the statutory language
+proved too difficult to deny. By the end of the 1960s, the
+EEOC reversed its stance on sex-segregated job advertising.
+See Franklin, 125 Harv. L. Rev., at 1345. In 1971, this Court
+held that treating women with children differently from men
+with children violated Title VII. Phillips, 400 U. S., at 544.
+And by the late 1970s, courts began to recognize that sexual
+harassment can sometimes amount to sex discrimination.
+See, e. g., Barnes v. Costle, 561 F. 2d 983, 990 (CADC 1977).
+While to the modern eye each of these examples may seem
+“plainly [to] constitut[e] discrimination because of biological
+sex,” post, at 719 (Alito , J., dissenting), all were hotly con-
+tested for years following Title VII's enactment. And as
+with the discrimination we consider today, many federal
+judges long accepted interpretations of Title VII that ex-
+cluded these situations. Cf. post, at 799–800 (Kavanaugh,
+J., dissenting) (highlighting that certain lower courts have
+rejected Title VII claims based on homosexuality and trans-
+gender status). Would the employers have us undo every
+one of these unexpected applications too?
+The weighty implications of the employers' argument from
+expectations also reveal why they cannot hide behind the no-
+elephants-in-mouseholes canon. That canon recognizes that
+Congress “does not alter the fundamental details of a regula-
+tory scheme in vague terms or ancillary provisions.” Whit-
+man v. American Trucking Assns., Inc., 531 U. S. 457, 468
+(2001). But it has no relevance here. We can't deny that
+today's holding—that employers are prohibited from firing
+employees on the basis of homosexuality or transgender
+status—is an elephant. But where's the mousehole? Title
+VII's prohibition of sex discrimination in employment is a
+major piece of federal civil rights legislation. It is written
+in starkly broad terms. It has repeatedly produced unex-
+pected applications, at least in the view of those on the re-
+ceiving end of them. Congress's key drafting choices—to
+focus on discrimination against individuals and not merely
+between groups and to hold employers liable whenever sex
+is a but-for cause of the plaintiff's injuries—virtually guaran-
+teed that unexpected applications would emerge over time.
+This elephant has never hidden in a mousehole; it has been
+standing before us all along.
+With that, the employers are left to abandon their concern
+for expected applications and fall back to the last line of
+defense for all failing statutory interpretation arguments:
+naked policy appeals. If we were to apply the statute's plain
+language, they complain, any number of undesirable policy
+consequences would follow. Cf. post, at 724–734 (Alito , J.,
+dissenting). Gone here is any pretense of statutory inter-
+pretation; all that's left is a suggestion we should proceed
+without the law's guidance to do as we think best. But
+that's an invitation no court should ever take up. The place
+to make new legislation, or address unwanted consequences
+of old legislation, lies in Congress. When it comes to statu-
+tory interpretation, our role is limited to applying the law's
+demands as faithfully as we can in the cases that come before
+us. As judges we possess no special expertise or authority
+to declare for ourselves what a self-governing people should
+consider just or wise. And the same judicial humility that
+requires us to refrain from adding to statutes requires us to
+refrain from diminishing them.
+What are these consequences anyway? The employers
+worry that our decision will sweep beyond Title VII to other
+federal or state laws that prohibit sex discrimination. And,
+under Title VII itself, they say sex-segregated bathrooms,
+locker rooms, and dress codes will prove unsustainable after
+our decision today. But none of these other laws are before
+us; we have not had the benefit of adversarial testing about
+the meaning of their terms, and we do not prejudge any such
+question today. Under Title VII, too, we do not purport to
+address bathrooms, locker rooms, or anything else of the
+kind. The only question before us is whether an employer
+who fires someone simply for being homosexual or transgen-
+der has discharged or otherwise discriminated against that
+individual “because of such individual's sex.” As used in
+Title VII, the term “ `discriminate against' ” refers to “dis-
+tinctions or differences in treatment that injure protected
+individuals.” Burlington N. & S. F. R ., 548 U. S., at 59.
+Firing employees because of a statutorily protected trait
+surely counts. Whether other policies and practices might
+or might not qualify as unlawful discrimination or find justi-
+fications under other provisions of Title VII are questions
+for future cases, not these.
+Separately, the employers fear that complying with Title
+VII's requirement in cases like ours may require some em-
+ployers to violate their religious convictions. We are also
+deeply concerned with preserving the promise of the free
+exercise of religion enshrined in our Constitution; that guar-
+antee lies at the heart of our pluralistic society. But worries
+about how Title VII may intersect with religious liberties
+are nothing new; they even predate the statute's passage.
+As a result of its deliberations in adopting the law, Congress
+included an express statutory exception for religious organi-
+zations. § 2000e–1(a). This Court has also recognized that
+the First Amendment can bar the application of employment
+discrimination laws “to claims concerning the employment
+relationship between a religious institution and its minis-
+ters.” Hosanna-Tabor Evangelical Lutheran Church and
+School v. EEOC, 565 U. S. 171, 188 (2012). And Congress
+has gone a step further yet in the Religious Freedom Resto-
+ration Act of 1993 (RFRA), 107 Stat. 1488, codified at 42
+U. S. C. § 2000bb et seq. That statute prohibits the federal
+government from substantially burdening a person's exercise
+of religion unless it demonstrates that doing so both furthers
+a compelling governmental interest and represents the least
+restrictive means of furthering that interest. § 2000bb–1.
+Because RFRA operates as a kind of super statute, displac-
+ing the normal operation of other federal laws, it might
+supersede Title VII's commands in appropriate cases. See
+§ 2000bb–3.
+But how these doctrines protecting religious liberty inter-
+act with Title VII are questions for future cases too. Harris
+Funeral Homes did unsuccessfully pursue a RFRA-based de-
+fense in the proceedings below. In its certiorari petition,
+however, the company declined to seek review of that ad-
+verse decision, and no other religious liberty claim is now
+before us. So while other employers in other cases may
+raise free exercise arguments that merit careful consider-
+ation, none of the employers before us today represent in
+this Court that compliance with Title VII will infringe their
+own religious liberties in any way.
+*
+Some of those who supported adding language to Title VII
+to ban sex discrimination may have hoped it would derail the
+entire Civil Rights Act. Yet, contrary to those intentions,

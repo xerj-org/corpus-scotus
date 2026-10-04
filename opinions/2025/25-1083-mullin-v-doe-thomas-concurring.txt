@@ -1,0 +1,285 @@
+Mullin v. Doe — No. 25-1083 — October Term 2025 — decided 6/25/26 — THOMAS, J., concurring
+Citation: 609 U.S. 324
+Source: https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+Nos. 25–1083 and 25–1084
+MARKWAYNE MULLIN, SECRETARY, DEPARTMENT
+OF HOMELAND SECURITY, ET AL., PETITIONERS
+25–1083 v.
+DAHLIA DOE, ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT TO THE UNITED
+STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, ET AL., PETITIONERS
+25–1084 v.
+FRITZ EMMANUEL LESLY MIOT, ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT TO THE
+UNITED STATES COURT OF APPEALS FOR THE
+DISTRICT OF COLUMBIA CIRCUIT
+[June 25, 2026]
+ JUSTICE THOMAS, concurring.
+I join the opinion of the Court in full.  I write separately
+to address two more fundamental problems with the Miot
+respondents’ suit. First, their equal protection claim, while
+meritless under the Court’s precedents, was also beyond the
+District Court’s jurisdiction.  Second, even assuming juris-
+diction, the equal protection claim fails for the additional
+reason that aliens have no equal protection rights against
+the Federal Government.
+I
+Title 8 U. S. C. §1254a(b)(5)(A) precludes district courts
+from reviewing terminations of Temporary Protected Sta-
+tus (TPS) designations. It provides that “[t]here is no
+
+judicial review of any determination of ” the Secretary of
+Homeland Security “with respect to the . . . termination” of
+a designation of a foreign country for purposes of Tempo-
+rary Protected Status. See ante, at 12. As the Court ex-
+plains, this bar precludes the statutory claims challenging
+the Secretary’s “determination” that the TPS designations
+for Syria and Haiti should be terminated because they chal-
+lenge “the process that led to [the Secretary’s] final deci-
+sion.” Ante, at 13. The Court does not decide whether the
+Miot respondents’ equal protection claim is barred as well.
+In my view, this equal protection claim is barred by the
+statute. It falls within the plain text of §1254a(b)(5)(A)’s
+judicial-review bar. Respondents asked a federal court to
+“[s]et aside the termination of Haiti’s . . . designation as . . .
+unconstitutional” because it “was, at least in part, improp -
+erly motivated by animus and discriminatory intent based
+on race and ethnicity.” Amended Complaint in No. 25–cv–
+2471 (D DC), ECF Doc. 74, pp. 84–86.  By asking for a court
+order invalidating the Secreta ry’s decision to terminate
+Haiti’s designation, respondents sought precisely what
+Congress barred: “judicial review of ” the Secretary’s deter-
+mination “with respect to the . . . termination . . . of a des-
+ignation . . . of a foreign state.” §1254a(b)(5)(A). The stat-
+utory text does not distinguish statutory and constitutional
+claims; it bars all “judicial review.” Judicial review, of
+course, means “a court’s power to review the actions of other
+branches or levels of government ,” and it “esp[ecially]” re-
+fers to the “power to invalidate legislative and executive ac-
+tions as being unconstitutional.” Black’s Law Dictionary
+1011 (12th ed. 2024).  Therefore, for the same reasons that
+their statutory claims are barred, their constitutional claim
+is also barred: It challenges “the process that led to” the “de-
+cision to terminate [Haiti’s] TPS designatio[n]” at a mini-
+mum, and it likely is barred even under respondents’ nar-
+rower view that the bar applies “only to substantive claims”
+respecting a termination.  Ante, at 13.
+
+3  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+Respondents suggest that the plain language of the stat-
+ute should not apply. Brief for Respondents in No. 25–1084,
+p. 15. According to this Cou rt’s modern precedent, consti-
+tutional avoidance requires a clear statement to bar judicial
+review of constitutional claims.  See Webster v. Doe, 486
+U. S. 592, 603 (1988). Barring all judicial consideration of
+a constitutional challenge to  the Secretary’s TPS determi-
+nation could, these precedents say, “rais[e] a serious consti-
+tutional question of the validity of the statute as so con -
+strued.” Weinberger v. Salfi, 422 U. S. 749, 762 (1975).
+Accordingly, the argument goes, courts should avoid inter -
+preting the statute to have barred such review unless its
+intent to do so was clear, which respondents appear to
+doubt. Ibid.
+I am unconvinced for two reasons.
+A
+First, the statute makes Congress’s intent to preclude ju-
+dicial review clear.  The canon of constitutional avoidance
+applies only if the statute is ambiguous.  Coney Island Auto
+Parts Unlimited, Inc. v. Burton Tr. for Vista-Pro Automo -
+tive, LLC, 607 U. S. 155, 161 (2026).  Congress’s language—
+“no judicial review”—is not ambiguous.  See ante, at 12–13.
+There is no indication in the text that reviewability may
+turn on the source of law for the underlying claim.  It fol-
+lows that constitutional avoidance has no role.
+B
+Second, even if §1254a(b)(5)(A) were ambiguous, a judi-
+cial-review bar would raise no “serious constitutional ques-
+tion” in the first place. Weinberger, 422 U. S., at 762.  Be-
+cause inferior federal courts are creatures of statute, U. S.
+Const., Art. I, §8, cl. 9, they “possess no jurisdiction but
+what is given them by the power that creates them,” United
+States v. Hudson, 7 Cranch 32, 33 (1812); accord, Trainmen
+v. T o l e d o , P .  & W .  R .  C o ., 321 U. S. 50, 63–64 (1944)
+
+(explaining that Congress has “plenary control over the ju-
+risdiction of the federal courts”).  So, Congress has the au-
+thority to deprive district courts  of jurisdiction to decide
+particular kinds of claims.
+It makes no difference that the Miot respondents alleged
+a violation of the Constitution. As Justice Scalia put it,
+“What could possibly be the basis for” doubting Congress’s
+authority to bar judicial review  of constitutional claims?
+Webster, 486 U. S., at 612 (dissenting opinion).  “The very
+text of the Constitution refutes th[e] principle” that “all con-
+stitutional violations must be remediable in the courts.”
+Ibid.  In some cases, a question of constitutional law is “tex-
+tually committed” to adjudication solely by another branch.
+Nixon v. United States, 506 U. S. 224, 228 (1993); see, e.g.,
+Art. I, §2, cl. 2 (setting the qualifications for House Mem-
+bers); §3, cl. 3 (setting qualifications for Senators); §5, cl. 1
+(establishing that “[e]ach House shall be the Judge of the
+. . . Qualifications of its own Members,” not any court).  In
+other contexts, the “lack of judicially discoverable and man-
+ageable standards” has been taken to show that a claim of
+a constitutional violation cannot be addressed on the merits
+by federal courts. Nixon, 506 U. S., at 228.
+Other familiar principles lik ewise bar judicial review of
+constitutional claims. An obvious one is sovereign immun-
+ity, “a monument to the principle that some constitutional
+claims can go unheard.”  Webster, 486 U. S., at 613 (Scalia,
+J., dissenting). Because of sovereign immunity, no one can
+sue the Federal Government for damages without a waiver,
+even if he brings a constitutional claim and even if damages
+are his only possible remedy.  Likewise, “courts cannot ex-
+amine” “the President’s actions on subjects within his ‘con-
+clusive and preclusive’ constitutional authority,” regardless
+of whether he violates the Constitution in exercising that
+authority. Trump v. United States , 603 U. S. 593, 609
+(2024). The Constitution thus does not require that courts
+be able to hear all constitutional claims.
+
+5  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+* * *
+Congress barred all judicial review of TPS termination
+decisions, including constitutional claims.  Since nothing in
+the Constitution prohibits Congress from doing so, courts
+are obliged to simply “giv[e] effect to [§1254a’s] ordinary
+meaning.” Guerrero-Lasprilla v. Barr, 589 U. S. 221, 244
+(2020) (THOMAS, J., dissenting).1
+II
+Respondents’ equal protection claim also has no basis in
+the Constitution. The Constitution has only one Equal Pro-
+tection Clause, and it applies only to the “State[s],” not the
+Federal Government. Amdt. 14, §1.  Respondents, of
+course, sued the Federal Government. When asked at ar-
+gument how the Equal Protection Clause could have any-
+thing to do with a suit against the Federal Government, re-
+spondents’ counsel, drawing on precedents of this Court,
+stated that the claim “arises under . . . the Fifth Amend-
+ment’s equal protection guarantee” because “the Fifth
+Amendment constrains the federal government in the same
+way that the Fourteenth Amendment constrains states.”
+Tr. of Oral Arg. 118. Because the Fifth Amendment has no
+Equal Protection Clause, this  Court was wrong to read
+equal protection into it in Bolling v. Sharpe, 347 U. S. 497
+(1954). And, even if the Due Process Clause does prohibit
+some discrimination, it would not do so in a case about im-
+migration status.
+A
+There is little evidence for the Court’s modern assump-
+tion that “the Due Process Clause of the Fifth Amendment
+contains an equal protection component whose substance is
+——————
+1 Although I would rule against respondents based on the judicial-re -
+view bar, I also agree with the Court that they are unlikely to succeed on
+the merits.  Cf. Jennings v. Rodriguez, 583 U. S. 281, 314 (2018)
+(THOMAS, J., concurring in part and concurring in judgment).
+
+‘precisely the same’ as the Equal Protection Clause of the
+Fourteenth Amendment.” United States v. Vaello Madero ,
+596 U. S. 159, 166–167 (2022) (T HOMAS, J., concurring)
+(quoting Weinberger v. Wiesenfeld, 420 U. S. 636, 638, n. 2
+(1975)). The Clause says nothing about equal protection or
+discrimination. Reading an implicit “equal protection com -
+ponent” into the Fifth Amendment’s language renders in-
+comprehensible the Fourteenth Amendment’s inclusion of
+both an identical Due Process Clause and the Equal Protec-
+tion Clause. Vaello Madero, 596 U. S., at 170–171 (opinion
+of THOMAS, J.).  History provides no basis for this atextual
+reading, either.2  See id., at 167–171.
+Even if the Due Process Clause did include some nondis-
+crimination principle, it would have no application here.
+The Due Process Clause restricts the Federal Government’s
+ability to “depriv[e]” people of “life, liberty, or property.”
+U. S. Const., Amdt. 5. “The Due Process Clause protects
+rights, not privileges.” Learning Resources, Inc. v. Trump ,
+607 U. S. 229, 323 (2026) (THOMAS, J., dissenting) (internal
+quotation marks omitted). “The founding generation un-
+derstood the phrase ‘life, libe rty, or property’ to refer to a
+relatively narrow set of core pr ivate rights that did not de-
+pend on the will of the government.”  Sessions v. Dimaya,
+584 U. S. 148, 213 (2018) (THOMAS, J., dissenting).
+The termination of Haiti’s TPS designation does not de-
+prive respondents of “life, liberty, or property,” so they have
+no claim even if the words “due process” implicitly forbid
+discriminatory animus. The discretionary and limited sta-
+tus that a TPS designation pr ovides, like any immigration
+status for aliens, is a government-created privilege, not a
+core private right.  See United States ex rel. Knauff v.
+——————
+2 As I have explained, there is “substantial support for the proposition
+that . . . the Citizenship Clause guarantees citizens equal treatment by
+the Federal Government with respect to civil rights.”  Vaello Madero, 596
+U. S., at 179 (THOMAS, J., concurring).  But, respondents are not citizens,
+so the Citizenship Clause cannot guarantee them any rights.
+
+7  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+Shaughnessy, 338 U. S. 537, 542 (1950) (“Admission of al -
+iens to the United States is a privilege granted by the sov-
+ereign United States Government”); Harisiades v. Shaugh-
+nessy, 342 U. S. 580, 586–587 (1952) (explaining that even
+permanent residence is not a “right” but “a matter of per -
+mission and tolerance”); United States ex rel. Turner v. Wil-
+liams, 194 U. S. 279, 290 (1904) (“[T]he deportation of an
+alien who is found to be here in violation of law is not a
+deprivation of liberty without due process of law”).  So, a
+TPS determination does not implicate the Due Process
+Clause even if a discriminatory motive is inconsistent with
+“due process” in other contexts.
+B
+Perhaps for these reasons, this Court has never subjected
+even express racial classifications in immigration laws to
+scrutiny under the Due Process Clause.  While foreigners
+have long been able to claim constitutional protection from
+racial discrimination by States, see Yick Wo v. Hopkins, 118
+U. S. 356, 368–369 (1886), they have never been guaran-
+teed a right to immigration status or citizenship based on
+equal protection principles, even when these laws were
+openly discriminatory, see Act of May 6, 1882, ch. 126, 22
+Stat. 58–59 (severely restricting Chinese immigration); Ta-
+kao Ozawa v. United States, 260 U. S. 178, 192–193 (1922)
+(“In all of the Naturalization acts from 1790 to 1906 the
+privilege of naturalization was confined to white persons
+(with the addition in 1870 of those of African nativity and
+descent),” and legislation up to 1922 had not changed that
+restriction). Congress only amended these laws to elimi -
+nate such discrimination in the middle of the 20th century,3
+——————
+3 The racial restrictions for naturalization were gradually removed
+from 1940 onward.  See Oyama v. California, 332 U. S. 633, 635, n. 3
+(1948).  The last restrictions, however, were not removed until 1952.  See
+ibid. (explaining that persons of Japanese descent were still ineligible in
+1948); Immigration and Nationality Act of 1952, §311, 66 Stat. 239.
+
+but not because the meaning of the Fifth Amendment has
+changed. See 8 U. S. C. §1427(a) (present naturalization
+statute).
+If equal protection principles applied to immigration de-
+cisions, much of even our current immigration law would
+conflict with this Court’s modern equal protection doctrine.
+This Court has interpreted the Equal Protection Clause to
+bar discrimination based on “country of origin.”  Oyama v.
+California, 332 U. S. 633, 640 (1948).  But, our immigration
+laws have distinguished among aliens based on their na-
+tional origin from the beginning. See, e.g., Act of July 6,
+1798, §1, 1 Stat. 577 (authorizing deportation of those who
+are subjects of hostile nations).  Today, applicants for im-
+migration are treated differently based on their nationality
+as a matter of course.  8 U. S. C. §1152(a)(2).  And, respond-
+ents themselves seek a protection from deportation for peo-
+ple from Haiti, but not the neighboring Dominican Repub-
+lic. If they are correct that the Court should apply equal
+protection precedents to immigration decisions, then the
+program that they benefit from may, ironically, be uncon-
+stitutional.

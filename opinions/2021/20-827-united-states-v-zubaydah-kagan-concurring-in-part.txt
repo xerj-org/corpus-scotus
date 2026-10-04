@@ -1,0 +1,111 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — Justice Kagan, concurring in part and dissenting in part.
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+intrude upon the authority of the Executive in military and
+national security affairs,” Department of Navy v. Egan, 484
+U. S. 518, 530 (1988).
+With that understanding of Reynolds, I join all but Part
+II–B–2 of the Court's opinion.
+Justice Kagan, concurring in part and dissenting in part.
+Both sides have substantial interests in this case—the
+Government in safeguarding its relationships with foreign
+intelligence partners; Abu Zubaydah in obtaining informa-
+tion needed to right past wrongs. Sometimes, interests of
+that kind are wholly irreconcilable, and the state secrets
+privilege may then put an end to the suit. But that is not
+so here. The Government's national-security concerns all
+relate to confirming the location of detention sites. Zubay-
+dah requests evidence of a broader scope, concerning not just
+where he was detained, but also what happened there. The
+District Court, using established methods, can segregate the
+two kinds of evidence—protecting classified information
+about location while giving Zubaydah access to unclassifed in-
+formation about detention conditions and interrogation meth-
+ods. I would remand the case to allow that process to go for-
+ward. So although I join the Court in much of its analysis,
+I respectfully dissent from its decision to dismiss this suit.
+Start with where I join the Court: I agree the Government
+has met its burden of showing that testimony by former CIA
+contractors confirming the location of Zubaydah's detention
+would pose a “reasonable danger” of harm to national secu-
+rity. United States v. Reynolds, 345 U. S. 1, 10 (1953); see
+ante, at 207–212. That is true for two reasons. First, testi-
+mony of that kind would remove whatever “element of
+doubt” exists about the accuracy of public reporting on the
+detention site's location, potentially undermining other CIA
+activities in that country. App. to Pet. for Cert. 135a (Decl.
+of Michael Pompeo, Director, CIA). Second (and possibly
+more important here), official confirmation would conflict
+with commitments the Government has made to foreign in-
+telligence services to never disclose clandestine relation-
+ships—even as “time passes” and “new political parties or
+officials come to power” or “media leaks occur.” Id., at 136a.
+Standing by those commitments, the Government credibly
+states, is “critical” to preserving current intelligence part-
+nerships and establishing new ones. Id., at 132a; see id.,
+at 136a; ante, at 207–210. Those concerns explain why the
+Government has refused, across three Presidential adminis-
+trations, to confirm or deny reports about the foreign coun-
+tries involved in the CIA's “former detention and interroga-
+tion program.” App. to Pet. for Cert. 133a; see Tr. of Oral
+Arg. 25. The Court is right to respect that decision, and thus
+to deny Zubaydah's request for the location of his detention.
+But that does not mean, as the Court insists, that we
+should dismiss Zubaydah's suit. From the beginning of this
+litigation, Zubaydah has distinguished between the “where”
+and the “what”—the location of the detention site at issue
+and the treatment he received there. See, e. g., App. to Pet.
+for Cert. 42a (District Court Order). And in this Court, his
+attorney made clear that Zubaydah's primary interest is in
+obtaining information on the latter subject. He wants the
+CIA contractors to testify about “what happened inside [his]
+cell” during a particular 10-month period, irrespective of
+where that cell may have been. Tr. of Oral Arg. 41; see ibid.
+(“I'm not planning to ask did it happen in Poland. . . . I want
+to ask simple questions like, how was Abu Zubaydah fed?
+What was his medical condition? What was his cell like?
+And, yes, was he tortured?”). For its part, the Government
+concedes that information about Zubaydah's treatment is no
+longer classified: It is, on any understanding, not a state se-
+cret. See Tr. of Oral Arg. 6 (explaining that the Govern-
+ment in 2014 “decided to declassify” information about “the
+treatment of detainees” like Zubaydah “to facilitate public
+scrutiny of the United States' actions”). That creates the
+possibility of segregating the classified (location) information
+from the unclassifed (treatment) information and allowing
+discovery into the latter.
+That kind of segregation has happened before, showing
+what could be done in this case. In 2014, the Senate Select
+Committee on Intelligence released a nearly 700-page Re-
+port, describing the CIA's torture of various detainees—all
+while using code words like “Detention Site Green” and “De-
+tention Site Blue” to designate particular facilities. See S.
+Rep. No. 113–288 (2014) (Senate Report). More recently,
+the CIA permitted its former contractors to testify, in civil
+litigation and Military Commission hearings, about their use
+of “enhanced interrogation techniques” on detainees—again
+without disclosing any locations. See, e. g., Stipulation Re-
+garding Discovery in Salim v. Mitchell, No. 2:15–cv–286 (ED
+Wash.), ECF Doc. 47, pp. 5, 7–8. Both the Senate Report
+and the contractors' testimony discuss Zubaydah, explaining
+how he was tortured at the first facility he was brought to
+(whose location has also been identified in public reporting).
+See, e. g., Senate Report, at 17–48, 231, n. 1316 (describing,
+among other interrogation methods, more than 80 water-
+boardings); see also post, at 240–241 (Gorsuch, J., dissent-
+ing). But neither source details what happened to Zubay-
+dah at the site here in question, the second facility at which
+he was detained. What Zubaydah now mainly wants is to
+fll that gap. He is requesting the same information about
+the second facility as he already has about the first: the con-
+tractors' testimony about the treatment he received there,
+scrubbed of any reference to where it occurred. So the pro-
+cedures that worked before—to protect the classified while
+disclosing the unclassifed—can work again. And this case
+can go forward on that basis.
+The Court offers no satisfactory explanation for rejecting
+that approach. It says that segregation cannot succeed be-
+cause of “the specific language of Zubaydah's discovery re-
+quests”—twelve of which “contain the word `Poland' or `Pol-
+ish.' ” Ante, at 206; see ante, at 213–214 (plurality opinion).

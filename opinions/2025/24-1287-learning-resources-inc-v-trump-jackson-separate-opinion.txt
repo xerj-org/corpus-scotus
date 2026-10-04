@@ -1,0 +1,110 @@
+Learning Resources, Inc. v. Trump — No. 24-1287 — October Term 2025 — decided 2/20/26 — Opinion of Jackson, J.
+Citation: 607 U.S. 229
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r12_8nj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+For all those reasons, straight-up statutory construction
+resolves this case for me; I need no major-questions thumb
+on the interpretive scales. IEEPA gives the President sig-
+nificant authority over transactions involving foreign prop-
+erty, including the importation of goods. But in that gener-
+ous delegation, one power is conspicuously missing.
+Nothing in IEEPA's text, nor anything in its context, enables
+the President to unilaterally impose tariffs. And needless
+to say, without statutory authority, the President's tariffs
+cannot stand. See ante, at 240–241.
+Justice Jackson, concurring in part and concurring in the
+judgment.
+I agree with the Court's conclusion that the International
+Emergency Economic Powers Act (IEEPA) does not provide
+the President with the power to tariff. Three of my col-
+leagues have reached this result via the major questions doc-
+trine, see ante, at 242–248 (opinion of Roberts, C. J.)—a
+framing that asks, in essence, whether Congress “would
+likely have intended” to delegate the authority to tariff to
+the President through IEEPA. West Virginia v. EPA, 597
+U. S. 697, 730 (2022) (emphasis added); see also id., at 722–
+723. While probing Congress's intent is the right inquiry,
+my colleagues speculate needlessly. In my view, the Court
+can, and should, consult a statute's legislative history to de-
+termine what Congress actually intended the statute to do.
+As Congress undertakes the legislative process, congres-
+sional committees in the Senate and House often generate
+official reports that describe Congress's aims for the legisla-
+tion. See R. Katzmann, Judging Statutes 19–20 (2014) (Katz-
+mann). Indeed, there is evidence that lawmakers them-
+selves pay more attention to these reports than a statute's
+text to understand the statute's purpose and meaning. A.
+Gluck & L. Bressman, Statutory Interpretation From the In-
+side—An Empirical Study of Congressional Drafting, Dele-
+gation, and the Canons: Part I, 65 Stan. L. Rev. 901, 965–966,
+968–969 (2013); see also Katzmann 37–38. Thus, in contrast
+to the principal dissent's rejection of Committee Reports as
+a means of ascertaining a statute's meaning, post, at 344,
+n. 11 (opinion of Kavanaugh, J.), I think these Senate and
+House Reports are among the best evidence of what Con-
+gress sought to accomplish with its enactments. See Gluck,
+65 Stan. L. Rev., at 965, 977–978, 989.
+In the cases now before us, that evidence shows that Con-
+gress did not intend for IEEPA to authorize the Executive
+to impose tariffs. Accord, ante, at 308, n. 2 (Kagan, J., con-
+curring in part and concurring in judgment). Instead, Con-
+gress intended to delegate to the President the power to
+freeze and control foreign property transactions.
+Four pieces of the relevant legislative record support this
+conclusion. The first two are the House and Senate Reports
+that accompanied the 1941 amendment to IEEPA's predeces-
+sor statute, the Trading with the Enemy Act (TWEA).
+First enacted in 1917, TWEA authorized the President to
+control foreign property during wartime. But some of
+TWEA's sections delegating this authority had lapsed, and
+“there [was] doubt as to the effectiveness of other sections.”
+H. R. Rep. No. 1507, 77th Cong., 1st Sess., 2 (1941). Accord-
+ingly, Congress amended TWEA in 1941, adding the subsec-
+tion that includes the “regulate . . . importation” language
+on which the President relies today. First War Powers Act,
+55 Stat. 839–840. The Reports explained Congress's pri-
+mary purpose for the 1941 amendment: shoring up the Presi-
+dent's ability to control foreign-owned property by maintain-
+ing and strengthening the “existing system of foreign
+property control (commonly known as freezing control).”
+H. R. Rep. No. 1507, at 2–3; see also S. Rep. No. 911, 77th
+Cong., 1st Sess., 2 (1941). 1
+1 In addition to maintaining the President's “freezing control” authority,
+Congress also sought to authorize the President to seize foreign property
+and use it to serve the interests of the United States. H. R. Rep. No.
+1507, at 3. To this end, the 1941 amendment provided that foreign-owned
+When Congress enacted IEEPA in 1977, limiting the cir-
+cumstances under which the President could exercise his
+emergency authorities, it kept the “regulate . . . importation”
+language from TWEA. § 203(a)(1)(B), 91 Stat. 1626. The
+other two relevant pieces of legislative history—the Senate
+and House Reports that accompanied IEEPA—demonstrate
+that Congress's intent regarding the scope of this statu-
+tory language remained the same. As the Senate Report
+explained, Congress's sole objective for the “regulate . . .
+importation” subsection was to grant the President the
+emergency authority “to control or freeze property transac-
+tions where a foreign interest is involved.” S. Rep. No. 95–
+466, p. 5 (1977). The House Report likewise described
+IEEPA as empowering the President to “regulate or freeze
+any property in which any foreign country or a national
+thereof has any interest.” H. R. Rep. No. 95–459, p. 15
+(1977).
+With this evidence of Congress's objective, interpreting
+the text of IEEPA becomes an easy task. Each of the listed
+verbs—“investigate, block during the pendency of an investi-
+gation, regulate, direct and compel, nullify, void, prevent or
+prohibit,” 50 U. S. C. § 1702(a)(1)(B)—provides a means by
+which the President can freeze or control foreign property
+transactions. See ante, at 307–308, and n. 2 (opinion of
+Kagan, J.). Tariffs are different in kind. They are a tax
+on imports; a means of generating revenue from transactions
+between private parties. See ante, at 240–241 (majority
+opinion). Because tariffs are not a means by which the
+President can freeze or control foreign assets, interpreting
+IEEPA to authorize tariffs would require the Court to over-
+ride Congress's expressed purpose for including the “regu-
+late . . . importation” language in the statute.
+property “shall vest . . . in such agency or person as may be designated . . .
+by the President.” 55 Stat. 840. Congress did not include this vesting
+language in IEEPA.

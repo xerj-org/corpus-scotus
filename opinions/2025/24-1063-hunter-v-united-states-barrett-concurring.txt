@@ -1,0 +1,76 @@
+Hunter v. United States — No. 24-1063 — October Term 2025 — decided 6/18/26 — BARRETT, J., concurring
+Citation: 608 U.S. 713
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1063new_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 24–1063
+MUNSON P. HUNTER, III, PETITIONER v.
+UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+JUSTICE BARRETT, concurring.
+ JUSTICE THOMAS raises some thoughtful points about the
+Supreme Court’s supervisory power. See post, at 14–17
+(dissenting opinion). Today’s opinion nowhere mentions
+this power, however, and I do  not understand the Court to
+implicitly assert it.
+ Like J USTICE THOMAS, I am skeptical that the Supreme
+Court possesses an inherent, supervisory authority over in-
+ferior federal courts. See A. Barrett, The Supervisory
+Power of the Supreme Court, 106 Colum. L. Rev. 324
+(2006). At the same time, I have distinguished exercises of
+such authority from the development of procedural common
+law. See A. Barrett, Procedural Common Law, 94 Va.
+L. Rev. 813, 883–884 (2008). The former concerns narrow,
+discretionary rules; the latte r involves doctrines, like pre-
+clusion and abstention, which are “settled by tradition or
+emergent consensus.” Id., at 884.
+In my view, today’s decision rests on longstanding waiver
+principles and thus falls in the latter category.  See ante,
+at 9 (majority opinion) (comparing appeal waivers to “waiv-
+ers of other rights held by criminal defendants”).  It is well
+established that a defendant may “intentional[ly] relin-
+quis[h] or abando[n] . . . a known right.”  Johnson v. Zerbst,
+304 U. S. 458, 464 (1938); see Shutte v. Thompson, 15 Wall.
+151, 159 (1873) (“[A] court whose province it is to
+
+administer justice, will take care that on the trial of every
+cause neither party shall reap any advantage from his own
+fraud”). All the same, the Court and other authorities have
+long recognized that a court should not enforce a waiver
+when doing so would “irreparably discredi[t] the federal
+courts.” United States  v. Mezzanatto , 513 U. S. 196, 204
+(1995) (internal quotation marks omitted); see 1 J. Bishop,
+Commentaries on the Law of Criminal Procedure §118,
+p. 71 (2d ed. 1872) (“[T]hough the doctrine that a party may
+waive a right which the law gives him seems to be univer-
+sal, still it is not so in its practical workings”); R. Bowers,
+Treatise on the Law of Waiver 390 (1914) (explaining that
+there are some rights that a criminal defendant “cannot be
+deprived of even with his own consent”). These established
+waiver principles do not originate from the Court’s supervi-
+sory power. Rather, they belong to the body of procedural
+common law doctrines that courts have long developed.  See
+Barrett, 94 Va. L. Rev., at 884.
+The Court’s decision recognizes these established princi-
+ples and rightly endorses the “emerging consensus” that
+they should inform the enforceability of appeal waivers.
+Id., at 886; see ante, at 4, and n. 1, 11.  When the Govern-
+ment moves to enforce an appeal waiver, it is asking the
+court of appeals to hold a defe ndant to a position that he
+knowingly and voluntarily took below.  In the mine run of
+cases, that waiver should be enforced: The right to appeal,
+like most other rights, can be relinquished, either when the
+appeal is ripe (by declining to file an appeal) or prospec-
+tively (by signing an appeal waiver).  But as the Court ex-
+plains, there are some extreme cases where enforcing an
+appeal waiver would paper over an “egregious” and “obvi-
+ous” error that would “bring the judicial system into disre-
+pute.” Ante, at 11. In those rare circumstances, the appel-
+late court should decline to enforce the waiver so that it may
+correct the error.

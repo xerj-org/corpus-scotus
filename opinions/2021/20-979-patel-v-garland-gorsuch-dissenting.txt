@@ -1,0 +1,671 @@
+Patel v. Garland — No. 20-979 — October Term 2021 — decided 5/16/22 — Gorsuch, J., dissenting
+Citation: 596 U.S. 328
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r31_5367.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(1993). But that presumption “may be overcome by specific
+language” in a provision or evidence “drawn from the statu-
+tory scheme as a whole.” Block v. Community Nutrition
+Institute , 467 U. S. 340, 349 (1984). And as we have ex-
+plained in detail, the text and context of § 1252(a)(2)(B)(i)—
+which is, after all, a jurisdiction-stripping statute—clearly
+indicate that judicial review of fact determinations is pre-
+cluded in the discretionary-relief context. The plain mean-
+ing of that provision, not any interpretative presumption,
+drives our conclusion today. Because the statute is clear, we
+have no reason to resort to the presumption of reviewability.
+* * *
+Federal courts lack jurisdiction to review facts found as
+part of discretionary-relief proceedings under § 1255 and the
+other provisions enumerated in § 1252(a)(2)(B)(i). We there-
+fore affirm the judgment of the Court of Appeals.
+It is so ordered.
+Justice Gorsuch, with whom Justice Breyer, Justice
+Sotomayor, and Justice Kagan join, dissenting.
+It is no secret that when processing applications, licenses,
+and permits the government sometimes makes mistakes.
+Often, they are small ones—a misspelled name, a misplaced
+application. But sometimes a bureaucratic mistake can
+have life-changing consequences. Our case is such a case.
+An immigrant to this country applied for legal residency.
+The government rejected his application. Allegedly, the
+government did so based on a glaring factual error. In cir-
+cumstances like that, our law has long permitted individuals
+to petition a court to consider the question and correct any
+mistake.
+Not anymore. Today, the Court holds that a federal bu-
+reaucracy can make an obvious factual error, one that will
+result in an individual's removal from this country, and noth-
+ing can be done about it. No court may even hear the case.
+It is a bold claim promising dire consequences for countless
+lawful immigrants. And it is such an unlikely assertion of
+raw administrative power that not even the agency that al-
+legedly erred, nor any other arm of the Executive Branch,
+endorses it. Today's majority acts on its own to shield the
+government from the embarrassment of having to correct
+even its most obvious errors. Respectfully, I dissent.
+I
+A
+Pankajkumar Patel has lived in the United States for
+nearly 30 years. He and his wife Jyotsnaben Patel cur-
+rently reside in Georgia. They have three sons—one who is
+already a U. S. citizen, and two who are lawful permanent
+residents and spouses of U. S. citizens. As a young man,
+Mr. Patel entered the country illegally. But in 2007, he tried
+to make things right by applying for an adjustment of his
+immigration status to a lawful permanent resident (also
+known as a green card).
+Mr. Patel had at least some reason to hope. The Immigra-
+tion and Nationality Act (INA) expressly authorizes the At-
+torney General to grant relief in cases like his. The statute
+sets forth a two-step process. At the first step, the govern-
+ment must determine if an individual is statutorily eligible
+for an adjustment of status. Various circumstances speci-
+fed by law, including prior criminal convictions, may render
+an applicant ineligible for relief. See 8 U. S. C. §§ 1255(i)
+(2)(A), 1182. At the second step, once an individual has es-
+tablished his statutory eligibility for relief, the Attorney
+General or his designee is entitled to grant or deny an ad-
+justment of status “in his discretion.” §§ 1255(a), (i)(2); see
+also 8 CFR § 1240.1(a) (2021) (delegating this authority to
+immigration judges). Because this second step is discre-
+tionary, “mere eligibility” for relief does not “automatically
+result in a grant of the application.” Matter of Arai, 13 I. &
+N. Dec. 494, 495 (BIA 1970). Instead, “the actual granting
+of relief . . . is in all cases a matter of grace.” INS v. St. Cyr,
+533 U. S. 289, 308 (2001) (internal quotation marks omitted).
+Seeking relief under this scheme, Mr. Patel fled an appli-
+cation with the necessary paperwork. Soon, the govern-
+ment responded by returning a document allowing Mr. Patel
+to continue to work and remain in the country while it pro-
+cessed his application. So far, so good.
+But then a problem emerged. Several months after filing
+his application, Mr. Patel sought to renew his Georgia driv-
+er's license. When filling out the renewal form, Mr. Patel
+answered the question “Are you a U. S. citizen?” by checking
+a box that said “yes.” After discovering Mr. Patel's errone-
+ous checkmark, Georgia authorities charged him with will-
+fully falsifying his driver's license application. Later, how-
+ever, the State dropped its prosecution after concluding it
+lacked sufficient evidence to prove a crime. Not only has
+Mr. Patel consistently claimed that he intended to deceive no
+one and that he simply ticked the wrong box by mistake.
+Under Georgia law, Mr. Patel was eligible to receive a license
+without being a citizen because he had a pending application
+seeking lawful permanent residence and a valid employment
+authorization document. See Ga. Comp. Rules & Regs.,
+Rules 375-3-1-.02(3)(e), (7) (2022).
+Apparently, the Department of Homeland Security (DHS)
+saw things differently. Operating through United States
+Citizenship and Immigration Services (USCIS), the agency
+denied Mr. Patel's application for adjustment of status, citing
+his faulty driver's license application. According to USCIS,
+Mr. Patel's conduct rendered him statutorily ineligible for
+adjustment of status under a provision that excludes any
+alien who “falsely represents . . . himself . . . to be a citizen
+of the United States” to obtain a “benefit under . . . State
+law.” 8 U. S. C. §§ 1182(a)(6)(C)(ii)(I), 1255(i)(2)(A). On
+USCIS's view, Mr. Patel's application for adjustment of sta-
+tus failed at the first step—and the Attorney General was
+wholly without discretion to afford him relief at the second.
+B
+Some months later, the government elected to bring re-
+moval proceedings against Mr. Patel. As a defense to re-
+moval, Mr. Patel renewed his application for adjustment of
+status consistent with regulations permitting him to do so.
+See 8 CFR § 245.2(a)(5)(ii). At his removal hearing,
+Mr. Patel repeated points he had made to state officials, in-
+sisting that he had harbored no intent to deceive anyone, and
+submitting that he remained statutorily eligible for relief.
+See Matter of Richmond, 26 I. & N. Dec. 779, 784 (BIA 2016)
+(inadmissibility is triggered when a misrepresentation is
+made “with the subjective intent of obtaining . . . benefits”
+(internal quotation marks omitted)).
+None of this moved the immigration judge. Relevant
+here, the immigration judge rested his decision on a factual
+finding. He said he did not believe Mr. Patel's testimony
+that he checked the wrong box mistakenly. Instead, the im-
+migration judge found, Mr. Patel intentionally represented
+himself falsely to obtain a benefit under state law. Accord-
+ing to the immigration judge, Mr. Patel had a strong incen-
+tive to deceive state officials because he could not have ob-
+tained a Georgia driver's license if he had disclosed he was
+“neither a citizen [n]or a lawful permanent resident.” And
+because intentionally deceiving state officials to obtain a ben-
+eft is enough to render an applicant statutorily ineligible for
+relief at step one, the immigration judge concluded, there
+was no need to reach the second-step question whether
+Mr. Patel warranted a favorable exercise of discretion.
+Mr. Patel appealed the immigration judge's ruling to the
+Board of Immigration Appeals (BIA). In his appeal,
+Mr. Patel argued that the immigration judge's finding that
+he had an incentive to deceive state officials was simply
+wrong—under Georgia law he was entitled to a driver's li-
+cense without being a citizen or a lawful permanent resident
+given his pending application for adjustment of status and
+permission to work. Mr. Patel submitted, too, that all the
+record evidence pointed to the conclusion he simply checked
+the wrong box by mistake; even state officials agreed they
+had no case to bring against him for deception. In the end,
+however, a divided panel of the BIA rejected the appeal by
+a vote of 2 to 1.
+Mr. Patel next petitioned for review in the Eleventh Cir-
+cuit. There, he argued that the BIA's finding that he inten-
+tionally sought to deceive state officials was wholly unrea-
+sonable given the evidence before the agency. In response,
+the federal government agreed that the Eleventh Circuit had
+the power to hear Mr. Patel's case but asked the court to
+affirm the BIA's decision on the merits. Instead, a panel of
+the Eleventh Circuit charted its own path, holding that it
+lacked jurisdiction to review the BIA's factual findings no
+matter how wrong they might be. See Patel v. United
+States Atty. Gen., 917 F. 3d 1319, 1324 (2019). Eventually,
+the full court agreed to rehear the case and, by a vote of 9
+to 5, reached the same conclusion. See Patel v. United
+States Atty. Gen., 971 F. 3d 1258 (2020). In doing so, the
+court acknowledged that it had to overrule “numerous” cir-
+cuit precedents holding that it possessed the power to review
+cases like Mr. Patel's. Id., at 1262. It acknowledged, too,
+that its new ruling conficted with the holdings of most other
+courts of appeals. Id., at 1277, and n. 22.
+II
+As it comes to us, this case poses the question: Does a
+federal court have statutory authority to review and correct
+a BIA decision holding an individual ineligible for relief when
+that decision rests on a glaring factual error? Today, the
+majority insists the answer is no. It does not matter if the
+BIA and immigration judge in Mr. Patel's case erred badly
+when they found he harbored an intent to deceive state off-
+cials. It does not matter if the BIA declares other individu-
+als ineligible for relief based on even more obvious factual
+errors. On the majority's telling, courts are powerless to
+correct bureaucratic mistakes like these no matter how
+grave they may be.
+It is an eye-catching conclusion. Normally in this coun-
+try, federal courts shoulder the responsibility of reviewing
+agency decisions to ensure they are at least supported by
+“substantial evidence.” 5 U. S. C. § 706(2)(E). A similar, if
+surely more deferential, principle finds voice in the INA.
+As relevant here, that statute endows federal courts of ap-
+peals with the power to review “all questions of law and fact
+. . . arising from any action taken or proceeding brought
+to remove an alien from the United States.” 8 U. S. C.
+§ 1252(b)(9). And the law further provides that a court may
+reject the agency's factual findings underlying an order of
+removal if it concludes that no “reasonable adjudicator” could
+adopt them. § 1252(b)(4)(B); see also Garland v. Ming Dai,
+593 U. S. –––, ––– (2021).
+That is exactly the sort of argument Mr. Patel seeks to
+pursue. He hopes to persuade a court of law that the BIA's
+factual errors in his case are so obvious no reasonable fact-
+fnder could adopt them. It is a claim expressly permitted
+by statute. Tellingly, in the proceedings before us the gov-
+ernment has continued to maintain that, however his case is
+finally resolved, Mr. Patel is entitled to his day in court.
+Nor is this some new position. For at least 20 years the
+government has taken the view that the law permits judicial
+review in cases like these. Yet even in the face of all this,
+the majority balks. It holds that no court may entertain
+Mr. Patel's challenge. And its reasoning promises that
+countless future immigrants will be left with no avenue to
+correct even more egregious agency errors.
+A
+How does the majority manage to reach such an unlikely
+conclusion? It depends on a Court-appointed amicus who
+offers arguments for the government that even the govern-
+ment refuses to advance on its own behalf. It turns out, too,
+that all of those arguments hinge on a narrow exception to
+the usual rule of judicial review—one found in 8 U. S. C.
+§ 1252(a)(2)(B)(i). As relevant here, that exception reads:
+“Denials of discretionary relief
+“Notwithstanding any other provision of law . . . and
+regardless of whether the judgment, decision, or action
+is made in removal proceedings, no court shall have ju-
+risdiction to review—(i) any judgment regarding the
+granting of relief under section . . . 1255 of this title.”
+This language does not begin to do the work the majority
+demands of it. Recall that requests for adjustment of status
+involve a two-step process. First, the Attorney General,
+acting through the BIA, must determine whether an individ-
+ual is statutorily eligible for adjustment of status. See
+8 U. S. C. §§ 1255(a), (i). If so, the Attorney General may
+proceed to the second step and decide whether to grant an
+adjustment request “in his discretion.” §§ 1255(a), (i)(2)(A).
+Undoubtedly, the exception in § 1252(a)(2)(B)(i) creates a spe-
+cial rule insulating from judicial review the second and
+purely discretionary decision. But nothing in it disturbs the
+general rule that courts may entertain challenges to the
+BIA's factual findings and legal analysis associated with its
+first-step eligibility determination.
+This much follows directly from the statute's terms. Sub-
+paragraph (B)(i) renders unreviewable only those judgments
+“regarding the granting of relief.” That phrase has a well-
+understood meaning. To “grant relief ” is to supply “redress
+or benefit.” United States v. Denedo, 556 U. S. 904, 909 (2009)
+(internal quotation marks omitted). And where, as here,
+the BIA issues a judgment only at step one, it never reaches
+the question whether to grant relief or supply some redress
+or benefit. Instead, the agency resolves only the antecedent
+question whether an individual is statutorily eligible to peti-
+tion for relief, redress, or a benefit. As the BIA has ex-
+plained, a judgment at step one can never “result in a grant
+of the application.” Arai, 13 I. & N., at 495. Any “judg-
+ment regarding the granting of relief” comes only at step
+two where the INA expressly vests the Attorney General
+with substantial discretion. See St. Cyr , 533 U. S., at 307
+(noting the traditional and longstanding “distinction between
+eligibility for discretionary relief, on the one hand, and the
+favorable exercise of discretion, on the other hand” (empha-
+sis added)).
+All of which leads us back to Mr. Patel's case. Before the
+Eleventh Circuit, Mr. Patel sought to challenge the BIA's
+step-one determination that he was statutorily ineligible for
+adjustment of status, arguing that no reasonable adjudicator
+could have found the facts as the agency did. The INA ex-
+pressly authorizes courts to hear claims like his. 8 U. S. C.
+§ 1252(b)(4)(B). Unprompted, however, the Eleventh Circuit
+held that § 1252(a)(2)(B)(i) effectively undoes this arrange-
+ment. That court's self-directed legal analysis was mis-
+taken. Subparagraph (B)(i) only deprives courts of jurisdic-
+tion to review the Attorney General's step-two discretionary
+decision to grant or deny relief, not the BIA's step-one judg-
+ments regarding whether an individual is eligible to be con-
+sidered for such relief.
+B
+The majority, of course, offers a different view. Following
+the Eleventh Circuit's lead, the majority contends that sub-
+paragraph (B)(i)'s phrase “any judgment regarding the
+granting of relief” under § 1255 sweeps more broadly. On
+its account, the statute denies courts the power to correct
+all agency decisions with respect to an adjustment-of-status
+application under § 1255—both the agency's step-one eligibil-
+ity decisions and its step-two discretionary decisions. Ante,
+at 338–339. As a result, no court may correct even the
+agency's most egregious factual mistakes about an individual's
+statutory eligibility for relief. It is a novel reading of a 25-
+year-old statute. One at odds with background law permit-
+ting judicial review. And one even the government disavows.
+It is easy to see why. We do not normally suppose that
+Congress blithely includes words in its laws that perform no
+work. See, e. g., Liu v. SEC, 591 U. S. –––, ––– (2020) (noting
+the “ `cardinal principle of interpretation that courts must
+give effect, if possible, to every clause and word of a stat-
+ute' ”). Yet that is exactly what the majority's interpreta-
+tion requires of us. If subparagraph (B)(i) operated as the
+majority imagines, Congress would have had no need to deny
+courts jurisdiction over “any judgment regarding the grant-
+ing of relief under section 1255.” Instead, Congress could
+have simply omitted the italicized words and denied jurisdic-
+tion over “any judgment under section 1255.” Plainly, all
+those additional words must do something. And the work
+they perform is clear—the phrase directs us to the Attorney
+General's second-step discretionary judgment to grant relief.
+That alone is a judgment “regarding the granting of relief.”
+And under the statute's terms, that judgment alone is
+shielded from judicial review.
+The majority's attempt to resolve its surplusage problem
+only underscores the gravity of its error. First, the major-
+ity tells us that, as used in subparagraph (B)(i), the words
+“any judgment” mean “any authoritative decision.” Ante,
+at 336, 337. Then the majority tells us that the phrase “re-
+garding the granting of relief” expands the universe of cov-
+ered judgments further, because the word “regarding” “ `gen-
+erally has a broadening effect.' ” Ante, at 338–339. But
+how could that be? Under the majority's reading of the word
+“judgment,” the statute already precludes judicial review of
+any authoritative decision “under section 1255.” There is
+no further corner of the universe left to explore. Once
+more, the words regarding the granting of relief are left
+without work to perform. Rather than sort out its surplus-
+age problem, the majority's answer only highlights its bind.
+What is more, the majority's argument rests on a faulty
+premise. The majority insists that the word “regarding”
+has “a broadening effect.” Ibid. It even suggests that fail-
+ing to give the term that effect would be to read it “out of
+the statute entirely.” Ante, at 344. But in truth, the word
+can have either a broadening or narrowing effect depending
+on context. Cf. Yates v. United States, 574 U. S. 528, 537
+(2015) (plurality opinion) (“In law as in life . . . the same
+words, placed in different contexts, sometimes mean differ-
+ent things”). And in subparagraph (B)(i), “regarding” is
+much more likely to serve a narrowing function, focusing our
+attention on a specific subset of judgments—namely, those
+step-two discretionary judgments “regarding the granting
+of relief.”
+To appreciate the point, consider a hypothetical. Imagine
+I said: “Please bring me any book regarding the history of
+the American West from that shelf of history books.” In
+this sentence, the phrase “regarding the history of the Amer-
+ican West” does not broaden the referenced set. Instead, it
+directs you to a narrow subset of books: those regarding the
+history of the American West. Any other interpretation
+misses the point and leaves me with a pile of unwanted
+volumes.
+What is true of this hypothetical is true of subparagraph
+(B)(i). The phrase “regarding the granting of relief” does
+not expand the set—again, the sentence already speaks of
+“any judgment . . . under section . . . 1255.” Instead, it func-
+tions as “limiting language” that narrows the kind of judg-
+ments under § 1255 the command means to cover. iTech
+U. S., Inc. v. Renaud, 5 F. 4th 59, 65 (CADC 2021). And
+here that means limiting our attention to the agency's step-
+two decision, the only place where it can issue a “judgment
+regarding the granting of relief.” Any other reading ren-
+ders the statute a garble. 1
+III
+A
+To the extent doubt remains about the proper construction
+of subparagraph (B)(i), it dissipates quickly with a look to
+the larger statutory context. Here the clues are many—yet
+the majority pauses to consider almost none of them.
+Take first a neighboring statutory provision. After deny-
+ing courts the power to review “any judgment regarding the
+granting of relief” in subparagraph (B)(i), Congress pro-
+ceeded in the very next clause to deny courts jurisdiction to
+entertain another category of cases: “any other decision . . .
+the authority for which is specified . . . to be in the discre-
+tion of the Attorney General.” § 1252(a)(2)(B)(ii) (emphasis
+added). That phrasing has a clear implication: “The proxim-
+ity of clauses (i) and (ii), and the words linking them—`any
+other decision'—suggests that Congress had in mind deci-
+sions of the same genre, i. e., those made discretionary by
+legislation.” Kucana v. Holder, 558 U. S. 233, 246–247
+(2010). And as we have seen, the only judgment under
+1 Perhaps sensing that its textual arguments cannot bear the weight it
+seeks to place on them, the majority suggests that, right or wrong, exist-
+ing precedent commands its reading, pointing us to Guerrero-Lasprilla v.
+Barr, 589 U. S. ––– (2020), and Nasrallah v. Barr, 590 U. S. ––– (2020).
+Ante, at 339–340. But neither case speaks to, much less resolves, the
+question before us. Guerrero-Lasprilla does not even discuss subpara-
+graph (B)(i). As for Nasrallah's passing observation that an individual
+“may not bring a factual challenge to orders denying discretionary relief,
+including . . . adjustment of status,” 590 U. S., at –––, nothing about that
+statement conflicts with a correct reading of subparagraph (B)(i). By its
+terms, Nasrallah's observation is explicitly limited to “determinations
+made discretionary by statute”—that is, step-two judgments “regarding
+the granting of relief,” not judgments regarding statutory eligibility.
+Ibid. (internal quotation marks omitted). Once more, the majority's argu-
+ments fold quickly under pressure.
+§ 1255 that fts that description is the Attorney General's
+second-step decision to grant or deny adjustment of status
+“in his discretion.” §§ 1255(a), (i)(2); see also St. Cyr , 533
+U. S., at 308 (noting that second-step decisions to grant relief
+are “a matter of grace”).
+Next, consider the other statutes subparagraph (B)(i) ad-
+dresses. It doesn't just bar review of “judgments regarding
+the granting of relief” under § 1255 for adjustment of status.
+Subparagraph (B)(i) also bars review of “judgment[s] regard-
+ing the granting of relief under section[s] 1182(h), 1182(i),
+1229b, [and] 1229c.” § 1252(a)(2)(B)(i). These provisions
+bear many differences. But they all have one thing in com-
+mon: a two-step structure in which the Attorney General
+makes a statutory determination, followed by a step-two dis-
+cretionary decision whether to grant relief. 2 That hardly
+seems a coincidence. More likely, it is further indication
+that subparagraph (B)(i) focuses on step-two discretionary
+determinations, not threshold judgments about eligibility.
+Here, too, subparagraph (B)(i) reflects our law's longstanding
+distinction between “[e]ligibility [determinations under] spe-
+cifc statutory standards” and subsequent decisions about
+whether to grant “ultimate relief” through an “exercise of
+discretion.” Jay v. Boyd, 351 U. S. 345, 353–354 (1956).
+Still other clues confirm that subparagraph (B)(i) targets
+second-step discretionary decisions. Take the title Con-
+gress chose in § 1252(a)(2)(B). It labeled this provision “De-
+nials of discretionary relief.” In doing so, Congress left
+little doubt that subparagraph (B) and its accompanying
+clauses (i) and (ii) are designed to bar review of only those
+2 Section 1229b says the Attorney General “may” in his discretion cancel
+removal, but only where an alien satisfies certain statutory criteria.
+§§ 1229b(a), (b). Section 1229c says the Attorney General “may permit”
+voluntary departure, but only if an alien meets certain legal requirements.
+§§ 1229c(a), (b). Likewise, §§ 1182(h) and 1182(i) say the Attorney General
+“may, in his discretion,” waive certain forms of inadmissibility, but only
+for those aliens who satisfy the specified criteria.
+decisions invested to the Attorney General's discretion, not
+antecedent statutory eligibility determinations.
+Consider as well the statute's history. When Congress
+borrows words from an established legal context, it “pre-
+sumably knows and adopts the cluster of ideas that were
+attached” to them. Morissette v. United States, 342 U. S.
+246, 263 (1952). And that's exactly what happened here.
+Before Congress enacted subparagraph (B)(i), courts re-
+viewed both first-step “eligibility” determinations and
+second-step “discretionary” determinations. Foti v. INS,
+375 U. S. 217, 228–230, and n. 15 (1963) (holding second-step
+judgments reviewable “for arbitrariness and abuse of discre-
+tion”). By adding subparagraph (B)(i) in 1996, Congress
+clearly altered that regime. Yet Congress did so carefully.
+In precluding review of judgments “regarding the granting
+of relief,” Congress used language very similar to the lan-
+guage this Court had long used to describe second-step dis-
+cretionary determinations. See, e. g., INS v. Doherty, 502
+U. S. 314, 323 (1992) (distinguishing “the discretionary grant
+of relief” from prima facie eligibility); id., at 333 (Scalia, J.,
+concurring in judgment in part and dissenting in part) (dis-
+tinguishing “the Attorney General's power to grant . . . re-
+lief” from judgments of “statutory ineligibility”); INS v.
+Abudu, 485 U. S. 94, 105 (1988) (distinguishing “the ultimate
+grant of relief” from prima facie eligibility in adjustment-of-
+status cases specifically); INS v. Bagamasbad, 429 U. S. 24,
+26 (1976) (per curiam ) (statute authorized “the Attorney
+General in his discretion to grant relief,” but only “if certain
+eligibility requirements are met”). All of which provides
+still one more strong indication that Congress used the
+phrase “regarding the granting of relief” to target step-two
+discretionary decisions alone.
+B
+Not only does the majority ignore most of these contextual
+clues. Its own arguments from statutory context do more
+to hurt than help its cause. The majority first directs us to
+§ 1252(a)(2)(D). That provision says that “[n]othing in
+subparagraph (B) or (C), or in any other provision of this
+chapter . . . which limits or eliminates judicial review, shall
+be construed as precluding review of constitutional claims or
+questions of law raised upon a petition for review fled with
+an appropriate court of appeals.” According to the majority,
+this language would make no sense and do no work unless
+we read subparagraph (B)(i) to bar judicial review of any
+decision under § 1255. As the majority puts it, subpara-
+graph (D)'s directive preserving judicial review for constitu-
+tional claims and questions of law necessarily implies that
+“something ” must remain unamenable to judicial review
+under subparagraph (B)(i). Ante, at 339. And the only “re-
+maining category” that could be immune from judicial review
+is subparagraph (B)(i) cases involving “questions of fact” like
+Mr. Patel's. Ibid.
+This argument falters almost immediately. Everyone
+agrees that, at the very least, subparagraph (B)(i) precludes
+judicial review of the Attorney General's second-step discre-
+tionary judgments “regarding the granting of relief.” And
+everyone agrees that subparagraph (D) restores judicial re-
+view of these discretionary judgments only to the extent a
+legal question or constitutional claim is in play. So, for ex-
+ample, if the Attorney General sought to exercise his discre-
+tion to discriminate against an applicant on the basis of race,
+subparagraph (D) would allow judicial review despite the
+terms of subparagraph (B)(i). But if no legal or constitu-
+tional defect is alleged, judicial review would be impermissi-
+ble. It is hardly necessary to adopt the majority's interpre-
+tation to ft these two provisions together and give each real
+work to do.
+Even more fundamentally, the majority's argument pro-
+ceeds on a mistaken assumption. On its view, subparagraph
+(D) must leave something unreviewable under subparagraph
+(B)(i) for the former to make any sense as an exception. But
+that takes far too blinkered a view of the statutory scheme;
+it is not as if these are the only two provisions in our Nation's
+immigration laws. By its terms, subparagraph (D) operates
+across a whole chapter of the U. S. Code. And in fact, sub-
+paragraph (D) undoubtedly performs real work as an excep-
+tion with respect to other provisions besides subparagraph
+(B)(i). To take just one example, this Court has already de-
+cided a case discussing subparagraph (D)'s implications for
+cases arising under subparagraph (C). See, e. g., Guerrero-
+Lasprilla v. Barr, 589 U. S. –––, ––– (2020) (explaining sub-
+paragraph (D)'s impact on § 1252(a)(2)(C)).
+The majority's argument fails for still another reason. It
+overlooks the “basic principle of statutory construction that
+a statute dealing with a narrow, precise, and specific subject
+is not submerged by a later enacted statute covering a more
+generalized spectrum.” Radzanower v. Touche Ross & Co.,
+426 U. S. 148, 153 (1976). Congress enacted subparagraph
+(B)(i) in 1996 to address the narrow question of judicial re-
+view over administrative “denials of discretionary relief.”
+Meanwhile, as the majority acknowledges, Congress adopted
+subparagraph (D) nearly a decade later and did so to address
+a much larger problem—the potential that many statutes in
+the INA foreclosing judicial review might be unconstitu-
+tional in certain applications. Ante, at 339. Congress re-
+sponded to this potential problem by allowing legal and con-
+stitutional challenges under “any other provision of [an
+entire] chapter” of the U. S. Code. § 1252(a)(2)(D). In
+doing so, subparagraph (D)'s later-in-time and more general
+reference to “constitutional claims or questions of law”
+across a full chapter of the U. S. Code did nothing to disturb
+subparagraph (B)(i)'s targeted application to judgments “re-
+garding the granting of relief” under § 1255. Instead, the
+statutes work in tandem. The majority's approach ignores
+this conclusion, and along with it subparagraph (B)(i)'s spe-
+cifc language.3
+3 There's at least one more problem here yet. The majority says sub-
+paragraph (D) preserves constitutional and legal questions for judicial
+review, and the majority further assumes that Mr. Patel's petition poses
+Perhaps sensing the weakness of its main contextual argu-
+ment, the majority tries another. It insists that Mr. Patel
+“cannot explain” why subparagraph (B)(i) should be read to
+allow courts to review the BIA's factual findings when sub-
+paragraph (C) prohibits courts from doing so. Ante, at 344.
+But there is no incongruity here. The two subparagraphs
+use different language and perform different work. Subpar-
+agraph (B)(i) only disallows judicial review of judgments “re-
+garding the granting of relief” and covers the mine run of
+cases. Subparagraph (C) speaks more broadly, precluding
+review of “any final order of removal,” and addresses spe-
+cifcally those aliens who are removable because of past crim-
+inal offenses. And it is hardly surprising that Congress
+might wish to use different language allowing greater judi-
+cial review in cases involving noncriminal aliens than in
+cases involving aliens who have been convicted of criminal
+offenses in this country.
+Tellingly too, the majority's contextual arguments yield an
+inexplicable anomaly. On its view, subparagraph (B)(i) pre-
+cludes judicial review of all adjustment-of-status applica-
+tions, whether an individual seeks to challenge the agency's
+step-one eligibility determination or its step-two discretion-
+ary judgment. Subparagraph (D) then sweeps in to restore
+judicial review for legal and constitutional questions. But
+by its terms, subparagraph (D) applies only to “petition[s] for
+review fled with an appropriate court of appeals.”
+only a factual question. Ante, at 339–340. But the question Mr. Patel
+seeks to pose in court is whether the agency's factual determinations are
+ones no “reasonable adjudicator” could have adopted given the record be-
+fore it. 8 U. S. C. § 1252(b)(4)(B); see supra, at 352. The majority never
+explains why that question is something other than a question of law that
+subparagraph (D) expressly preserves for judicial review. But why
+wouldn't it be? Cf. Colorado Nat. Bank v. Commissioner, 305 U. S. 23,
+25 (1938) (“It is settled law that a finding of fact [made by an agency] will
+not be disturbed on review if it is supported by substantial evidence. But
+whether there is substantial evidence to support a finding is a question
+of law”).
+This feature of the law has profound consequences under
+the majority's reading of the INA. Yes, on its account, those
+like Mr. Patel who are subject to removal orders can still
+challenge at least the agency's legal and constitutional errors
+by petitioning for review in a federal court of appeals. But
+individuals frequently seek to adjust their status and secure
+a green card outside the removal context. And when the
+government rejects an application for adjustment of status
+in these cases, individuals routinely seek judicial review in
+district court. See Brief for Respondent 39; see also San-
+chez v. Mayorkas, 593 U. S. –––, ––– (2021) (reviewing one
+such challenge). There, subparagraph (D) does not apply to
+preserve review of legal and constitutional questions. So
+under the majority's construction of subparagraph (B)(i), in-
+dividuals who could once secure judicial review to correct
+administrative errors at step one in district court are now,
+after its decision, likely left with no avenue for judicial relief
+of any kind. An agency may err about the facts, the law,
+or even the Constitution and nothing can be done about it.
+Nor is this some small sideshow. As the government,
+Mr. Patel, and amici stress, thousands of individuals seek to
+obtain a green card every year outside the removal con-
+text—the student hoping to remain in the country, the for-
+eigner who marries a U. S. citizen, the skilled worker spon-
+sored by her employer. In the last three months of 2021
+alone, USCIS denied more than 13,000 green-card applica-
+tions, with nearly 790,000 still pending. 4 The agency issues
+decisions on those applications in unpublished and terse let-
+ters, which appear to receive little or no administrative re-
+view within DHS. See Brief for National Immigration Liti-
+gation Alliance et al. as Amici Curiae 25. With so many
+4 See USCIS, Number of I–485 Applications to Register Perma -
+nent Residence or Adjust Status by Category, Case Status, and USCIS
+Field Office of Service Center Location, October 1, 2021–December
+31, 2021, https://www.uscis.gov/sites/default/files/document/reports/I485_
+performancedata_fy2022_qtr1.pdf (May 6, 2022).
+applications receiving such abbreviated treatment, who can
+be surprised that DHS sometimes makes serious errors, or
+may even be tempted to take shortcuts inconsistent with the
+law? See id., at 23–27 (documenting DHS errors). Until
+today, courts could correct mistakes like these. But the ma-
+jority's construction of subparagraph (B)(i) will almost surely
+end all that and foreclose judicial review for countless law-
+abiding individuals whose lives may be upended by bureau-
+cratic misfeasance.
+The majority's response is hardly satisfying. The major-
+ity does not try to explain how its interpretation fts with the
+usual presumption of judicial reviewability of administrative
+actions—a presumption it claims to endorse and no party
+before us questions. Ante, at 346–347. Instead, the major-
+ity muses that denying green-card applicants any ability to
+seek judicial review might be “consistent with Congress'
+choice to reduce procedural protections in the context of dis-
+cretionary relief.” Ante, at 346. But a hunch about unex-
+pressed legislative intentions is no response to our usual pre-
+sumption of judicial review. Nor is it any answer to the
+mountain of textual and contextual evidence suggesting that
+Congress limited judicial review only with respect to second-
+step discretionary decisions, not decisions about statutory
+eligibility.
+Just look, too, at all the guesswork lurking behind the ma-
+jority's hunch. The majority's argument first depends on a
+hypothesis that Congress intentionally designed a scheme
+that encourages individuals who receive erroneous rulings
+on their green-card applications to overstay their visas and
+remain in this country unlawfully. Next, it depends on a
+second-level hypothesis that Congress replaced a presump-
+tive promise of judicial review with a scheme in which judi-
+cial review depends on the happenstance of a governmental
+decision to seek removal. Finally, the majority's position re-
+lies on a third supposition—that Congress might have with-
+drawn judicial review for thousands upon thousands of law-
+fully present persons annually, and done so without
+expressly discussing the question. Often this Court rejects
+as implausible statutory interpretations that seek to squeeze
+elephants into mouseholes. See, e. g., Whitman v. Ameri-
+can Trucking Assns., Inc., 531 U. S. 457, 468 (2001). Today's
+interpretation seeks to cram a veritable legislative zoo into
+one clause of one subparagraph of one subsection of our Na-
+tion's vast immigration laws.
+*
+The majority concludes that courts are powerless to cor-
+rect an agency decision holding an individual ineligible for
+relief from removal based on a factual error, no matter how
+egregious the error might be. The majority's interpretation
+has the further consequence of denying any chance to correct
+agency errors in processing green-card applications outside
+the removal context. Even the government cannot bring it-
+self to endorse the majority's arresting conclusions. For
+good reason. Those conclusions are at war with all the evi-
+dence before us. They read language out of the statute and
+collapse the law's clear two-step framework. They disre-
+gard the lessons of neighboring provisions and even ignore
+the statute's very title. They make no sense of the statute's
+history. Altogether, the majority's novel expansion of a nar-
+row statutory exception winds up swallowing the law's gen-
+eral rule guaranteeing individuals the chance to seek judicial
+review to correct obvious bureaucratic missteps. It is a con-
+clusion that turns an agency once accountable to the rule
+of law into an authority unto itself. Perhaps some would
+welcome a world like that. But it is hardly the world Con-
+gress ordained.

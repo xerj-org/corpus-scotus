@@ -1,0 +1,76 @@
+Retirement Plans Comm. of IBM v. Jander — No. 18-1165 — October Term 2019 — decided 1/14/20 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 589 U.S. 49
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/589US1PP_Web.pdf#page=90 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Kneedler, G. William Scott, Robert B. Stebbins, Michael A.
+Conley, and David D. Lisitza.
+Samuel E. Bonderoff argued the cause for respondents.
+With him on the brief were Jacob H. Zamansky and James
+Ostaszewski.*
+Per Curiam.
+In Fifth Third Bancorp v. Dudenhoeffer, 573 U. S. 409
+(2014), we held that “[t]o state a claim for breach of the duty
+of prudence” imposed on plan fduciaries by the Employee
+Retirement Income Security Act of 1974 (ERISA) “on the
+basis of inside information, a plaintiff must plausibly allege
+an alternative action that the defendant could have taken
+that would have been consistent with the securities laws and
+that a prudent fduciary in the same circumstances would not
+have viewed as more likely to harm the fund than to help
+it.” Id., at 428. We then set out three considerations that
+“inform the requisite analysis.” Ibid.
+First, we pointed out that the “duty of prudence, under
+ERISA as under the common law of trusts, does not require
+a fduciary to break the law.” Ibid. Accordingly, “ERISA's
+duty of prudence cannot require” the fduciary of an Em-
+ployee Stock Ownership Plan (ESOP) “to perform an ac-
+tion—such as divesting the fund's holdings of the employer's
+stock on the basis of inside information—that would violate
+the securities laws.” Ibid.
+*Briefs of amici curiae urging reversal were fled for the American
+Benefits Council et al. by Russell L. Hirschhorn, John E. Roberts, and
+Lindsey H. Chopin; for DRI–The Voice of the Defense Bar by Michael R.
+Pennington and Scott Burnett Smith; and for the Securities Industry and
+Financial Markets Association et al. by Nicole A. Saharsky, Brian D. Net-
+ter, Matthew A. Waring, Nancy G. Ross, Kevin M. Carroll, and Daryl
+Joseffer.
+Briefs of amici curiae urging affirmance were fled for the American
+Association for Justice et al. by Matthew W. H. Wessler, Gregory A. Beck,
+and Leah M. Nicholls; for Law Professors by Todd M. Schneider; and for
+Occupy the SEC by Akshat Tewary.
+We then added that, where a complaint “faults fduciaries
+for failing to decide, on the basis of the inside information,
+to refrain from making additional stock purchases or for fail-
+ing to disclose that information to the public so that the stock
+would no longer be overvalued, additional considerations
+arise.” Id., at 429. In such cases, “[t]he courts should con-
+sider the extent to which an ERISA-based obligation either
+to refrain on the basis of inside information from making a
+planned trade or to disclose inside information to the public
+could conflict with the complex insider trading and corporate
+disclosure requirements imposed by the federal securities
+laws or with the objectives of those laws.” Ibid. We noted
+that the “U. S. Securities and Exchange Commission ha[d]
+not advised us of its views on these matters, and we be-
+lieve[d] those views may well be relevant.” Ibid.
+Third, and finally, we said that “lower courts faced with
+such claims should also consider whether the complaint has
+plausibly alleged that a prudent fduciary in the defendant's
+position could not have concluded that stopping purchases—
+which the market might take as a sign that insider fduciaries
+viewed the employer's stock as a bad investment—or pub-
+licly disclosing negative information would do more harm
+than good to the fund by causing a drop in the stock price
+and a concomitant drop in the value of the stock already held
+by the fund.” Id., at 429–430.
+The question presented in this case concerned what it
+takes to plausibly allege an alternative action “that a pru-
+dent fduciary in the same circumstances would not have
+viewed as more likely to harm the fund than to help it.” Id.,
+at 428. It asked whether Dudenhoeffer 's “ `more harm than
+good' pleading standard can be satisfied by generalized alle-
+gations that the harm of an inevitable disclosure of an al-
+leged fraud generally increases over time.” Pet. for Cert. i.
+In their briefing on the merits, however, the petitioners
+(fduciaries of the ESOP at issue here) and the Government
+(presenting the views of the Securities and Exchange Com-

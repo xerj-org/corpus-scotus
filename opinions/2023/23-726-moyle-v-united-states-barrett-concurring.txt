@@ -1,0 +1,258 @@
+Moyle v. United States — No. 23-726 — October Term 2023 — decided 6/27/24 — Barrett, J., concurring
+Citation: 603 U.S. 324
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r53_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tion. The fourth provision (included within the definition of
+“emergency medical condition”) specifies that a hospital must
+treat a condition that “plac[es] the health of the individ-
+ual (or, with respect to a pregnant woman, the health of
+the woman or her unborn child) in serious jeopardy.”
+§ 1395dd(e)(1)(A)(i). The parenthetical there, added in an
+amendment to EMTALA, ensures that a woman with no
+health risks of her own can demand emergency-room treat-
+ment if her fetus is in peril. It does not displace the hos-
+pital's duty to a woman whose life or health is in jeop-
+ardy, and who needs an abortion to stabilize her condition.
+Then, the statute requires offering that treatment to the
+woman.1
+Because the Idaho law conflicts with that requirement—
+prevents hospitals from doing what EMTALA commands—
+the Court is right to dissolve its stay of the District Court's
+injunction. Doing so will again give Idaho women access to
+all the needed medical treatments that EMTALA guarantees.
+Justice Barrett, with whom The Chief Justice and
+Justice Kavanaugh join, concurring.
+We granted certiorari before judgment in these cases to
+decide whether the Emergency Medical Treatment and
+Labor Act (EMTALA) preempts a provision of Idaho law
+that prohibits abortions except when necessary to save the
+1 The amendment's history confirms that understanding. As originally
+enacted, EMTALA did not obligate hospitals to provide medical care when
+a woman's fetus, but not the woman herself, was in peril. See Tr. of Oral
+Arg. 105 (Solicitor General describing “well-publicized cases” where
+women's “own health and life were not in danger, but the fetus was in
+grave distress and hospitals weren't treating them”). To fx that problem,
+very large bipartisan majorities in both the House and the Senate elected
+to broaden the provision, entitling a woman to demand care for her un-
+born child as well as herself. See 103 Stat. 2248; 135 Cong. Rec. 31431
+(1989); id., at 31127; id., at 24605; id., at 23393. The amendment would
+likely have sparked far more opposition if it somehow tacitly withdrew
+EMTALA's requirement that hospitals treat women who need an abortion
+to prevent death or serious harm.
+life of the mother. 601 U. S. ––– (2024). Because the shape
+of these cases has substantially shifted since we granted cer-
+tiorari, I concur in the Court's judgment dismissing the writ
+as improvidently granted.
+I
+In 2022, the Department of Health and Human Services
+issued guidance to “remind hospitals of their existing obliga-
+tion to comply with EMTALA.” Centers for Medicare &
+Medicaid Services, Reinforcement of EMTALA Obligations
+Specific to Patients Who Are Pregnant or Are Experiencing
+Pregnancy Loss, Note, p. 1 (July 11, 2022) (rev. Aug. 25, 2022)
+(italics deleted). The guidance tells physicians that if they
+believe that “abortion is the stabilizing treatment necessary
+to resolve” a pregnant woman's emergency medical condi-
+tion, they “must provide that treatment.” Id., at 1 (italics
+and emphasis deleted). Any contrary state law, the guid-
+ance continues, is “preempted.” Ibid. (italics and emphasis
+deleted).
+Idaho's Defense of Life Act criminalizes the performance
+of most abortions. Idaho Code Ann. § 18–622 (Supp. 2023).
+As originally enacted, the Act allowed accused physicians to
+raise an affirmative defense that “the abortion was necessary
+to prevent the death of the pregnant woman.” § 18–622(2)
+(a)(i). Soon before the Act was set to take effect, the United
+States sued Idaho, seeking to enjoin Idaho's law “to the ex-
+tent it conflicts with EMTALA.” 1 App. 5. EMTALA, the
+United States argued, requires physicians to perform abor-
+tions under certain circumstances that Idaho's Act would
+forbid.
+After holding an evidentiary hearing, the District Court
+identified a conflict and granted a preliminary injunction.
+623 F. Supp. 3d 1096 (Idaho 2022). The court based its con-
+clusion on three key assumptions: (1) The Act prohibits the
+termination of ectopic pregnancies; (2) the pregnant woman's
+death must be objectively “imminent” or “certain” before a
+physician can perform an abortion; and (3) the “necessary to
+prevent death” exception is only an affirmative defense. Id.,
+at 1109–1114. The Government's witnesses, whose testi-
+mony the court credited, made similar assumptions. Id., at
+1104–1105. They claimed that the Act might prohibit abor-
+tions as treatment for conditions including severe heart fail-
+ure, preeclampsia, preterm premature rupture of membranes
+(PPROM), sepsis, and placental abruption, because a physi-
+cian could not know, “with certainty,” that an abortion is
+necessary to save the mother's life in those circumstances.
+See, e. g., 1 App. 30–38. They also assumed that the Act
+only permitted abortions where death was “imminent.”
+See, e. g., 2 id., at 608.
+After the District Court ruled, the Idaho Supreme Court
+construed the Act. That court explained that the Act “does
+not require objective certainty, or a particular level of imme-
+diacy, before the abortion can be `necessary' to save the
+woman's life.” Planned Parenthood Great Northwest v.
+State, 171 Idaho 374, 445, 522 P. 3d 1132, 1203 (2023). And
+“treating an ectopic pregnancy, by removing the fetus,” the
+court concluded, does not count as an “ `abortion' ” under the
+Act. Ibid.
+Without holding a new evidentiary hearing, the District
+Court denied Idaho's motion for reconsideration. 2023 WL
+3284977 (May 4, 2023). The Idaho Legislature later
+amended the definition of “abortion” to exclude “[t]he re-
+moval of a dead unborn child” and “[t]he removal of an ec-
+topic or molar pregnancy.” § 18–604(1)(b), (c). It also
+changed the “life of the mother” affirmative defense into an
+exception from the prohibition on criminal abortions. § 18–
+622(2).
+The Ninth Circuit initially stayed the District Court's in-
+junction, 83 F. 4th 1130 (2023), but the en banc court vacated
+the panel's stay, declined to stay the injunction, and sched-
+uled oral argument on the merits, 82 F. 4th 1296 (2023). We
+granted Idaho's and the Legislature's applications to stay the
+District Court's injunction pending appeal, treated the appli-
+cations as petitions for a writ of certiorari before judgment,
+and granted the petitions. 601 U. S. 1109 (2024).
+II
+Before the Ninth Circuit had the opportunity to review
+the District Court's preliminary injunction, this Court
+stayed the injunction and granted certiorari before judg-
+ment. Both decisions were premised on the belief that
+Idaho would suffer irreparable harm under the injunction
+and that these cases were ready for the Court's immediate
+determination. Since then, briefing and oral argument have
+“shed more light on this case than in the nature of things
+was afforded at the time” the Court considered petitioners'
+emergency applications. Belcher v. Stengel, 429 U. S. 118,
+119 (1976) ( per curiam ) (dismissed as improvidently
+granted). I am now convinced that these cases are no longer
+appropriate for early resolution.
+The parties dispute whether EMTALA requires hospitals
+to provide abortions—or any other treatment forbidden by
+state law—as necessary stabilizing care. They also disagree
+about whether EMTALA, as a statute enacted under Con-
+gress's spending power and that operates on private parties,
+can preempt state law (an issue aired for the first time in
+this Court). In my judgment, it would be imprudent to an-
+swer these important questions now. Since this suit began
+in the District Court, Idaho law has significantly changed—
+twice. And since we granted certiorari, the parties' litigat-
+ing positions have rendered the scope of the dispute unclear,
+at best.
+In its stay application, Idaho argued that the Govern-
+ment's interpretation of EMTALA would render Idaho's Act
+virtually unenforceable. As Idaho understood it, the Gov-
+ernment's theory would allow physicians to perform abor-
+tions whenever necessary to avoid “ `serious jeopardy' ”
+to the mother's mental health. Stay Reply Brief in
+No. 23A470, p. 6. On that broad reading, Idaho projected
+that emergency rooms would function as “federal abortion
+enclaves governed not by state law, but by physician judg-
+ment, as enforced by the United States's mandate to per-
+form abortions on demand.” Ibid. (citation omitted). Idaho
+also warned that the Government's interpretation would
+“threate[n] religious healthcare providers” by forcing doc-
+tors and hospitals to perform abortions regardless of con-
+science objections. Id., at 15. Both of these points were
+relevant to the Court's assessment of the irreparable harm
+that Idaho would suffer from the preliminary injunction,
+Nken v. Holder, 556 U. S. 418, 434 (2009), as well as the need
+for “immediate determination in this Court,” Supreme Court
+Rule 11.
+At the merits stage, however, the United States disclaimed
+these interpretations of EMTALA. First, it emphatically
+disavowed the notion that an abortion is ever required as
+stabilizing treatment for mental health conditions. Brief for
+United States 26, n. 5; Tr. of Oral Arg. 76–78. That is an
+important concession: If restricted to conditions posing seri-
+ous jeopardy to a woman's physical health, the Government's
+reading of EMTALA does not gut Idaho's Act.* Second, the
+United States clarified that federal conscience protections,
+for both hospitals and individual physicians, apply in the
+EMTALA context. Tr. of Oral Arg. 87–89. That is another
+critical point: It alleviates Idaho's concern that the Govern-
+ment's interpretation of EMTALA would strip healthcare
+providers of conscience protections.
+Narrowing happened from the other direction too. The
+United States identified PPROM, placental abruption, pre-
+eclampsia, and eclampsia as conditions for which EMTALA
+*The United States also clarified that if pregnancy seriously jeopardizes
+the woman's health postviability, EMTALA requires delivery, not abor-
+tion. Brief for United States 10; Tr. of Oral Arg. 75. And it emphasized
+that EMTALA requires abortion only in an “emergency acute medical sit-
+uation,” where a woman's health is in jeopardy if she does not receive an
+abortion “then and there.” Tr. of Oral Arg. 79–80. These two temporal
+points also narrow the scope of EMTALA's potential conflict with Idaho's
+Act.
+requires an emergency abortion to be available. (The same
+conditions that the Government's witnesses identified—be-
+fore Idaho's law changed.) But in this Court, petitioners
+represent that the Act permits physicians to treat each
+of these conditions with emergency abortions, even if the
+threat to the woman's life is not imminent. Reply Brief in
+No. 23–726, pp. 21–22; Reply Brief in No. 23–727, pp. 8–9; Tr.
+of Oral Arg. 23. The same is true for the conditions identi-
+fed by the Government's witnesses (severe heart failure and
+sepsis). Reply Brief in No. 23–727, pp. 8–9.
+A grant of certiorari before judgment presumes that fur-
+ther proceedings below are unnecessary to the Court's reso-
+lution of the question presented. That was a miscalculation
+in these cases, because the parties' positions are still evolv-
+ing. The United States has clarified that EMTALA's reach
+is far more modest than it appeared when we granted certio-
+rari and a stay. Idaho law has materially changed since the
+District Court entered the preliminary injunction, and,
+based on the parties' arguments before us, it seems that the
+framing of these cases has not had sufficient opportunity to
+catch up. Cf. The Monrosa v. Carbon Black Export, Inc.,
+359 U. S. 180, 184 (1959) (“Examination of a case on the mer-
+its, on oral argument, may bring into `proper focus' a consid-
+eration which, though present in the record at the time of
+granting the writ, only later indicates that the grant was
+improvident”).
+On top of that, petitioners have raised a difficult and conse-
+quential argument, which they did not discuss in their stay
+applications, about whether Congress, in reliance on the
+Spending Clause, can obligate recipients of federal funds to
+violate state criminal law. Brief for Petitioners in No. 23–
+726, pp. 48–51; Reply Brief in No. 23–727, pp. 3–4; see also
+Brief for Prolife Center at the University of St. Thomas as
+Amicus Curiae . The District Court did not address this
+issue below—nor did the Ninth Circuit, which we bypassed.
+We should not jump ahead of the lower courts, particularly
+on an issue of such importance. Cutter v. Wilkinson, 544
+U. S. 709, 718, n. 7 (2005) (“[W]e are a court of review, not
+of first view”); New York v. Uplinger, 467 U. S. 246, 251
+(1984) (Stevens, J., concurring) (dismissing as improvidently
+granted where “constitutional questions” would otherwise be
+considered “premature[ly]”). The lower courts should ad-
+dress the Spending Clause issue in the first instance.
+For these reasons, a “deviation from normal appellate
+practice” in these cases has proved to be unwise. Supreme
+Court Rule 11. I therefore agree that we should dismiss
+the writ of certiorari as improvidently granted and permit
+proceedings to run their course in the courts below.
+Having dismissed the writ, I also agree that we should
+vacate the stay. As the party seeking emergency relief
+from this Court, Idaho bore the burden of showing that it
+would be “ `irreparably injured' ” if the preliminary injunc-
+tion remained in effect. Nken, 556 U. S., at 434. The
+Court's grant of a stay reflected, among other things, its de-
+termination that Idaho had satisfied that burden. Now,
+based on the parties' representations, it appears that the in-
+junction will not stop Idaho from enforcing its law in the vast
+majority of circumstances.
+To be sure, the text of the two laws differs: Idaho's Act
+allows abortion only when “necessary to prevent the death
+of the pregnant woman,” Idaho Code Ann. § 18–622(2)(a)(i),
+while EMTALA requires stabilizing care to prevent “se-
+rious jeopardy” to the woman's health, 42 U. S. C.
+§ 1395dd(e)(1)(A)(i). But Idaho represents that its exception
+is broader than the United States fears, and the United
+States represents that EMTALA's requirement is narrower
+than Idaho fears. That matters in assessing Idaho's irrepa-
+rable harm for purposes of the stay. The dramatic narrow-
+ing of the dispute—especially the Government's position on
+abortions to address mental health and conscience exemp-
+tions for healthcare providers—has undercut the conclusion
+that Idaho would suffer irreparable harm under the prelimi-

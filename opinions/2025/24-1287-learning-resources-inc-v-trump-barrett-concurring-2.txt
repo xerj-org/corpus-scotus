@@ -1,0 +1,146 @@
+Learning Resources, Inc. v. Trump — No. 24-1287 — October Term 2025 — decided 2/20/26 — Barrett, J., concurring
+Citation: 607 U.S. 229
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r12_8nj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Lodge 182, 189–190, 196. Reflecting the same sentiment
+that helped fuel the Revolution, he asked: “[W]hat legislative
+power can be more sacred?” Id., at 196.
+*
+For those who think it important for the Nation to impose
+more tariffs, I understand that today's decision will be disap-
+pointing. All I can offer them is that most major decisions
+affecting the rights and responsibilities of the American peo-
+ple (including the duty to pay taxes and tariffs) are funneled
+through the legislative process for a reason. Yes, legislating
+can be hard and take time. And, yes, it can be tempting to
+bypass Congress when some pressing problem arises. But
+the deliberative nature of the legislative process was the
+whole point of its design. Through that process, the Nation
+can tap the combined wisdom of the people's elected repre-
+sentatives, not just that of one faction or man. There, delib-
+eration tempers impulse, and compromise hammers dis-
+agreements into workable solutions. And because laws
+must earn such broad support to survive the legislative proc-
+ess, they tend to endure, allowing ordinary people to plan
+their lives in ways they cannot when the rules shift from day
+to day. In all, the legislative process helps ensure each of
+us has a stake in the laws that govern us and in the Nation's
+future. For some today, the weight of those virtues is ap-
+parent. For others, it may not seem so obvious. But if his-
+tory is any guide, the tables will turn and the day will come
+when those disappointed by today's result will appreciate the
+legislative process for the bulwark of liberty it is.
+Justice Barrett, concurring.
+As the principal opinion demonstrates, the most natural
+reading of the International Emergency Economic Powers
+Act does not encompass the power to impose tariffs. I write
+only to address Justice Gorsuch's concurrence regarding
+the major questions doctrine.
+To the extent that Justice Gorsuch attacks the view that
+“common sense” alone can explain all our major questions
+decisions, ante, at 272–276, he takes down a straw man. I
+have never espoused that view. Rather, as I explained in
+my concurrence in Biden v. Nebraska, 600 U. S. 477, 507
+(2023), the major questions doctrine “situates text in con-
+text” and is therefore best understood as an ordinary appli-
+cation of textualism. Id., at 511. Textualists—like all
+those who use language to communicate—do not interpret
+words in a vacuum. Instead, we use context, including
+“[b]ackground legal conventions,” “common sense,” and “con-
+stitutional structure,” to ascertain a text's “most natural
+meaning.” Id., at 511–512, 515, 509.
+Part of this context, as I have explained, is Article I of the
+Constitution, which vests Congress with “ `[a]ll legislative
+Powers.' ” Id., at 515 (quoting Art. I, § 1). Obviously, the
+Constitution bears on the meaning of a statute enacted pur-
+suant to it. Because Article I grants all legislative powers
+to Congress, the reasonable interpreter would expect Con-
+gress “to make the big-time policy calls itself, rather than
+pawning them off to another branch.” Nebraska, 600 U. S.,
+at 515 (Barrett, J., concurring). 1
+To the extent that Justice Gorsuch also thinks that
+background legal conventions and constitutional structure
+inform the most natural reading of a statute, then we may
+not be very far apart. See ante, at 262–268 (concurring
+opinion). Our only disagreement may be over the level of
+clarity required before a particular interpretation can be
+deemed the most natural one. I understand Justice Gor-
+1 Contrary to Justice Gorsuch's suggestion, this approach to the major
+questions doctrine does not risk “conflating unenacted legislative intent
+with the law.” Ante, at 279, n. 2 (concurring opinion). Rather, like textu-
+alism more generally, it looks for “a sort of `objectifed' intent—the intent
+that a reasonable person would gather from the text of the law, placed
+alongside the remainder of the corpus juris,” including the Constitution.
+A. Scalia, A Matter of Interpretation 17 (1997).
+such to require Congress always to speak precisely to any
+major power that it intends to give away. See ante, at 267–
+269, 279–280 (concurring opinion). As I have said before, I
+think that other, “less obvious” clues can do the trick. See
+Nebraska, 600 U. S., at 514 (Barrett, J., concurring). I do
+not see any such clues here; in fact, as the Court explains,
+the clues we have point in the opposite direction. See, e. g.,
+ante, at 243–244 (opinion of Roberts, C. J.) (detailing how
+Congress has elsewhere delegated the power to impose tar-
+iffs); ante, at 249 (majority opinion) (stressing that the Gov-
+ernment “cannot identify any statute in which the power to
+regulate includes the power to tax”).
+At times, though, Justice Gorsuch suggests that the
+purpose of the major questions doctrine is something other
+than to ascertain the most natural reading of a statute. For
+example, he writes that the doctrine serves to prevent
+“highly resourceful members of the executive branch” from
+“assum[ing] new power for themselves” because “men are
+not angels.” Ante, at 270 (concurring opinion); see West Vir-
+ginia v. EPA, 597 U. S. 697, 735 (2022) (Gorsuch, J., concur-
+ring) (describing doctrine as a “clear-statement rul[e]” that
+“operates to protect foundational constitutional guaran-
+tees”); National Federation of Independent Business v.
+OSHA, 595 U. S. 109, 124–126 (2022) (Gorsuch, J., concur-
+ring) (similar). But if the Constitution permits Congress to
+give the Executive a particular power, who are we to get in
+the way? Does the Judiciary really protect the Constitution
+by impeding the constitutional action of another branch? If
+Justice Gorsuch thinks that we should forgo the most nat-
+ural reading of a statute because it is preferable for Con-
+gress, rather than the President, to make big decisions, that
+way lies “a lot of trouble” for the textualist. A. Scalia, A
+Matter of Interpretation 28 (1997) (Scalia).
+Strong-form substantive canons—canons instructing a
+judge to adopt “an inferior-but-tenable reading”—veer be-
+yond interpretation and into policymaking. Nebraska, 600
+U. S., at 509 (Barrett, J., concurring). And while the pol-
+icy may be desirable or even constitutionally inspired, judges
+should hesitate to impose disciplining rules on Congress.
+See ibid., n. 2 (explaining that such “prophylactic con-
+straints” are “in tension with the Constitution's structure”).
+As Justice Scalia lamented, “whether these dice-loading
+rules are bad or good, there is also the question of where the
+courts get the authority to impose them. Can we really just
+decree that we will interpret the laws that Congress passes
+to mean less or more than what they fairly say?” Scalia
+28–29.
+Granted, strong-form canons exist elsewhere in the law.
+See Nebraska, 600 U. S., at 508–509 (Barrett, J., concur-
+ring). I do not propose to abandon these canons, nor have
+I taken the position that adopting them necessarily exceeds
+the judicial power. Id., at 509, n. 2. But I am skeptical
+about adding new ones to the mix. Ibid. And while the
+major questions doctrine has an impressive pedigree as an
+interpretive principle, this Court has not (yet, anyway) em-
+braced it as a strong-form rule that imposes a “ `clarity tax' ”
+on Congress. Id., at 508.
+Justice Gorsuch seems to disagree, pointing to a few
+late 19th- and early 20th-century cases. 2 See ante, at 267–
+268 (concurring opinion). But these cases, like our modern
+ones, are consistent with my context-based approach: They
+focus on ascertaining, not shaping, what the statute in dis-
+pute communicates. See, e. g., ICC v. Cincinnati, N. O. & T.
+P . R. Co., 167 U. S. 479, 511 (1897) (concluding that Congress
+“did not intend” to give interstate commission power to set
+railroad rates); Siler v. Louisville & Nashville R. Co., 213
+U. S. 175, 196 (1909) (reasoning that “the legislature never in-
+2 He also points to state cases and longstanding corporate law principles.
+Ante, at 262–267 (concurring opinion). While those sources support the
+existence of a background legal convention that informs a statute's most
+natural meaning, they are not evidence that this Court—which is bound
+by the constraints of Article III—has adopted a true clear-statement rule.

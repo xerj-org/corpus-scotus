@@ -1,0 +1,526 @@
+T. M. v. University of Md. Medical System Corporation — No. 25-197 — October Term 2025 — decided 6/18/26 — THOMAS, J., concurring
+Citation: 608 U.S. 668
+Source: https://www.supremecourt.gov/opinions/25pdf/25-197_new_4g15.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25–197
+T. M., PETITIONER v. UNIVERSITY OF MARYLAND
+MEDICAL SYSTEM CORPORATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+[June 18, 2026]
+JUSTICE THOMAS, concurring.
+When you lose in trial court, you go to an appeals court.
+The so-called Rooker-Feldman doctrine reflects that com -
+monsense understanding.  See Rooker v. Fidelity Trust Co.,
+263 U. S. 413 (1923); District of Columbia Court of Appeals
+v. Feldman, 460 U. S. 462 (1983).  At its core, the doctrine
+says that parties who lose in state trial court do not get to
+appeal to a federal trial court. Instead, they may take their
+appeal to a state appeals court and, if a federal statute al-
+lows, ultimately seek review in this Court. That “basic fact”
+has been a part of our law for more than 200 years.  Reed v.
+Goertz, 598 U. S. 230, 244 (2023) (T HOMAS, J., dissenting).
+The Court’s opinion thus properly rejects petitioner’s quest
+to reimagine, artificially cabin, or overrule Rooker-Feld-
+man. Ante, at 5–18.  I join it in full.  I write separately to
+explain why Rooker, properly understood, is correct as an
+original matter.
+I
+A unanimous three-page opinion, Rooker was uncontro-
+versial in its day. It started as an ordinary lawsuit.  Wil-
+liam and Dora Rooker sued Fidelity Trust Company in state
+court. See Rooker v. Fidelity Trust Co., 191 Ind. 141, 143,
+131 N. E. 769, 770 (1921).  The trial court entered judgment
+against the Rookers. Id., at 154–155, 131 N. E., at 773.  The
+
+ CORPORATION
+THOMAS, J., concurring
+Rookers sought review in the State Supreme Court and lost.
+Id., at 163, 131 N. E., at 776.  This Court denied certiorari.
+Rooker v. Fidelity Trust Co., 259 U. S. 580 (1922).  The
+Rookers then sought review from this Court on a writ of er-
+ror instead.  Rooker v. Fidelity Trust Co., 261 U. S. 114, 116
+(1923). But, the Court declined to grant relief on their
+claims of constitutional errors in the state-court judgment
+and dismissed the writ.  Id., at 116–118.
+Unsatisfied, the Rookers filed a bill in equity in Federal
+District Court. Rooker, 263 U. S., at 414.  They asked the
+Federal District Court to declare the state trial court’s judg-
+ment “null and void” on the ground that it “was rendered
+and affirmed in contravention of the” Constitution.  Id., at
+414–415. The District Court dismi ssed the bill for lack of
+jurisdiction, and this Court affirmed that “plainly” correct
+decree. Id., at 415, 417. “Under the legislation of Con-
+gress,” this Court recognized, “no court of the United States
+other than this Court could entertain a proceeding to re-
+verse or modify the judgment for” constitutional errors.  Id.,
+at 416. “To do so would be an exercise of appellate jurisdic-
+tion.” Ibid. “The jurisdiction possessed by the District
+Courts is strictly original.”  Ibid. Accordingly, the Court
+held that district courts have no jurisdiction to “get rid of ”
+state-court judgments even “for alleged errors of law.”  Ibid.
+Rooker was thus based on two premises.  See ante, at 5–
+7, 9–10. First, “to reverse or modify the” allegedly errone-
+ous judgment of another court is  to “exercise . . . appellate
+jurisdiction.” Rooker, 263 U. S., at 416.  Second, “[t]he ju-
+risdiction possessed by the Dis trict Courts is strictly origi-
+nal”; only “this Court” has “appellate jurisdiction” over
+state-court judgments. Ibid.  From these two premises, it
+follows that district courts lack  jurisdiction to reverse or
+modify the allegedly erroneous judgments of state courts.
+The conclusion follows from the premises, so the only ques-
+tion is whether the premises are true.
+
+3  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+II
+Rooker’s first premise was recognized long before Rooker,
+and its second has been an indubitable “fact of federal stat-
+utory law” for more than 200 years. Reed, 598 U. S., at 244
+(opinion of THOMAS, J.).
+A
+The power to revise or modi fy another court’s judgment
+or decree has been recognized as an exercise of appellate
+jurisdiction from before the ratification of the Constitution.
+1
+The Constitution vests the “judicial Power” in this Court
+and in the “inferior Courts” that Congress creates.  Art. III,
+§1. The jurisdiction of federal courts to exercise that judi-
+cial power is limited to “Cases” and “Controversies.”  §2, cl.
+1. That jurisdiction, in turn, comes in two types: “original”
+and “appellate.” §2, cl. 2.  If a court exercises appellate ju-
+risdiction, it does not exercise original jurisdiction.  Mar-
+bury v. Madison, 1 Cranch 137, 175 (1803); 3 J. Story, Com-
+mentaries on the Constitution of the United States §1698,
+p. 574 (1833) (Story).
+Original jurisdiction is “[a] court’s power to hear and de-
+cide a matter before any other court can review the matter.”
+Black’s Law Dictionary 856 (7th ed. 1999).  In a typical orig-
+inal case, a plaintiff sues a defendant.  The plaintiff com -
+plains of an injury that the defendant’s allegedly illegal con-
+duct caused and “seeks a remedy that runs against the
+defendant.” Reed, 598 U. S., at 243 (opinion of THOMAS, J.).
+The case is “original” inasmuch as there is no earlier pro-
+ceeding in which another court had already “determine[d]
+that defendant’s duties or liabilities ( e.g., a judgment for
+money damages or an injunction).” Ibid.
+Unlike the plaintiff in a typical original action, the appel-
+lant in a typical appeal cannot simply complain of an injury
+that the other party caused before a court has spoken.
+
+ CORPORATION
+THOMAS, J., concurring
+Instead, “the subject matter” under consideration “has al-
+ready been instituted in, and acted upon, by some other
+court.” 3 Story §1755, at 627.  As the party who lost in the
+other court, the appellant “complain[s] of an injury caused
+by” that court’s allegedly erroneous judgment.  Exxon Mobil
+Corp. v. Saudi Basic Industries Corp. , 544 U. S. 280, 291
+(2005). He thus seeks to invoke the court’s jurisdiction to
+remedy an injury of that description and, ordinarily, the ap-
+pellate court cannot directly redress the injury that caused
+the plaintiff to file his original suit.  The remedy, instead,
+consists in “correcting that judicial action ( e.g., reversal or
+vacatur of the challenged judgment),” not in awarding dam-
+ages. Reed, 598 U. S., at 244 (opinion of THOMAS, J.).
+When a party asks one court to revise another’s judg-
+ment, he invokes what the Constitution calls “appellate Ju-
+risdiction.” Art. III, §2, cl. 2.  Appellate jurisdiction is a
+court’s “power to revise the judgments rendered” by other
+courts. 1 J. Kent, Commentaries on American Law 353
+(11th ed. 1867) (Kent); accord, 3 W. Blackstone, Commen-
+taries on the Laws of England 56 (1768) (Blackstone) (“re-
+verse judgments in certain suits originally begun in [an-
+other] court”); ibid. (high court had appellate jurisdiction to
+correct “mistake[s] of the la w, committed by [other]
+courts”); W. Rawle, A View of the Constitution 241 (2d ed.
+1829) (Rawle) (“revision of the [decisions] of other courts”);
+3 Story 626 (power to “revis[e] and correc[t] the proceedings
+in a cause already instituted”); 1 G. Curtis, Commentaries
+on the Jurisdiction, Practice, & Peculiar Jurisprudence of
+the Courts of the United States §113, p. 131 (1854) (Curtis)
+(same); Black’s Law Dictionary 79 (1891) (same); 1 A. Bur-
+rill, A New Law Dictionary 79 (1850) (“review the proceed-
+ings of another [court]”).  For that reason, exercising that
+revising power over the judgments of “state tribunals” in
+
+5  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+cases involving “[federal] questions” is appellate in nature.
+1 Kent 353.1
+The Founders accepted this straightforward account of
+appellate jurisdiction without reservation. The Articles of
+Confederation gave the Confided eration Congress authority
+to create courts with “appellate power . . . to be exercised in
+revising the decisions of state tribunals” in cases of cap-
+tures. Martin v. Hunter’s Lessee, 1 Wheat. 304, 345 (1816)
+(Story, J., for the Court); see Art. IX.  In 1780, the Confided-
+eration Congress created a court under that authority
+whose jurisdiction allowed it to “hear new evidence without
+deference to state courts’” legal conclusions. W. Pryor, The
+Appellate Jurisdiction Clause, in The Heritage Guide to the
+Constitution 499 (3d ed. 2025) (Pryor).  That power was “ap-
+pellate” in nature precisely because it was the “power to re-
+vise the decisions of state courts.” Hunter’s Lessee , 1
+Wheat., at 345; 3 Story 605–606.
+When the Founders deliberated about whether to replace
+the Articles with the Constitution, all maintained the same
+view about the nature of appellate jurisdiction. At that
+time, different “technical sense[s] ha[d] been affixed to the
+term ‘appellate’ ” such that any technical interpretation
+would “not be understood in the same sense” in different
+jurisdictions. The Federalist No. 81, pp. 488–489 (C. Ros-
+siter ed. 1961) (A. Hamilton).  That fact showed “the impro-
+priety of a technical interpretation.”  Id., at 489; accord,
+ante, at 10.  Instead, the Federalists thought that the term
+“appellate jurisdiction” in the proposed Constitution
+——————
+1 To “revise” originally meant to “rev iew” for error.  2 N. Webster, An
+American Dictionary of the English Language (1828); The Federalist No.
+81, p. 489 (C. Rossiter ed. 1961) (A. Hamilton).  The revising power did
+not require literally changing another court’s judgment.  See, e.g.,
+Ex parte Bollman, 4 Cranch 75, 101 (1807) (“grant[ing]” motion “for a
+habeas corpus to the marshal of the district of Columbia,” even though it
+did not change the lower court’s order, is an exercise of “appellate” juris-
+diction); Black’s Law Dictionary 331 (12th ed. 2024) (“A petition for a
+writ of habeas corpus is one type of collateral attack”); infra, at 8–11.
+
+ CORPORATION
+THOMAS, J., concurring
+“denotes nothing more than the power of one tribunal to re-
+view the proceedings of another, either as to the law or fact,
+or both.” The Federalist No. 81, at 489.  For their part, the
+Anti-Federalists seemed to agree.  They worried that “ap-
+pellate jurisdiction,” as used in the Constitution, would au-
+thorize civil-law “appeals,” which involved the power to “re-
+examine the whole merits of ” a previously initiated case,
+including review of facts.  2 H. Storing, The Complete Anti-
+Federalist 433 (1981); see also United States v. Wonson, 28
+F. Cas. 745, 750 (No. 16,750) (CC Mass. 1812) (Story, J.).
+All appeared to agree, however, that “the revising power” of
+a court is “appellate” in nature. Hunter’s Lessee, 1 Wheat.,
+at 344.
+Traditionally, the “most usual modes of exercising appel-
+late jurisdiction” were “by a writ of error, or by an appeal.”2
+3 Story §1756, at 627. But, courts could also exercise appel-
+late jurisdiction through writs of habeas corpus or manda-
+mus, provided that granting such a writ would involve re-
+vising the decision of another court on the merits.  Ibid.; 1
+Curtis §113, at 131; Marbury, 1 Cranch, at 175. Today, this
+Court usually exercises appellate jurisdiction by writs of
+certiorari. 28 U. S. C. §§1257(a), 1254(1).  But, it also hears
+“appeal[s],” in some cases, §1253, applications for stays of
+lower court judgments, in others, §2101(f ), and even peti-
+tions for mandamus, §1651(a).
+——————
+2 A writ of error was “a process of common law origin; and it remove[d]
+nothing for re-examination, but the law.”  3 Story §1756, at 628.  In the
+technical sense, an appeal was “a process of civil la w origin, and re -
+move[d] a cause, entirely subjecting the fact, as well as the law, to review
+and a re-trial.”  Id., at 627–628.  But, “appeal” is also used “in legal lan-
+guage to denote the nature of appe llate jurisdiction, as distinguished
+from original jurisdicti on, without regard to the particular mode, by
+which a cause is transmitted to a superior jurisdiction.”  United States v.
+Wonson, 28 F. Cas. 745, 748, 750 (No. 16,750) (CC Mass. 1812) (Story,
+J.).  In that sense, writs of error we re exercises of appellate jurisdiction
+at common law; appeals were exercises of appellate jurisdiction in equity.
+
+7  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+Thus, whether jurisdiction is appellate turns not on the
+specific mode of proceeding but on the nature of the relief
+sought. See Reed, 598 U. S., at 244 (opinion of THOMAS, J.).
+Scholars and jurists have long recognized that “ any . . .
+mode in which the judgment or proceedings of an inferior
+tribunal c[ould] be revised” was an exercise of appellate ju-
+risdiction. 1 Curtis §113, at 131 (emphasis added).  A court
+therefore acts as “a court of appeal” whenever it “correct[s]
+the errors of other jurisdictions,” 3 Blackstone 55, whatever
+the mode “by which a cause is transmitted to” it, Wonson,
+28 F. Cas., at 748; accord, 3 Story §1755, at 627 (“[W]here
+the object is to revise a judicial proceeding, the mode is
+wholly immaterial”).
+2
+This Court has long understood that to exercise the revis-
+ing power is to exercise appellate jurisdiction, regardless of
+the form of the exercise.
+Most law students learn as much on the first day of con-
+stitutional-law class. In Marbury v. Madison, the Court
+considered whether it had the jurisdiction “to issue a man-
+damus” compelling “an officer for the delivery of ” Mar-
+bury’s judicial commission when no other court had before
+entertained the cause. 1 Cranch, at 175. Writing for the
+Court, Chief Justice Marshall held that the Court lacked
+such jurisdiction.  The Constitution, he said, “define[d] the
+jurisdiction of the supreme court by declaring the cases in
+which it shall take original jurisdiction, and that in all oth-
+ers it shall take appellate jurisdiction.”  Ibid. These cate-
+gories, he reasoned, are mutually exclusive: “[I]n one class
+of cases its jurisdiction is original, and not appellate; in the
+other it is appellate, and not original.”  Ibid. Because the
+Constitution did not give the Co urt original jurisdiction to
+issue mandamus, the Court could do so only if it would “be
+an exercise of appellate jurisdiction” in the case before it.
+Ibid.
+
+ CORPORATION
+THOMAS, J., concurring
+The form of proceeding was not dispositive of the ques-
+tion. Even though mandamus was often issued in original
+cases, and the case was filed first in the Supreme Court, the
+Court agreed that “appellate jurisdiction may be exercised
+in a variety of forms, and that if it be the will of the legisla-
+ture that a mandamus should be used for that purpose, that
+will must be obeyed.”  Ibid.  Because “a mandamus may be
+directed to courts,” the quest ion became whether, in con-
+text, granting mandamus relief would be appellate in na-
+ture. Ibid.
+On the facts of the case, the exercise of jurisdiction was
+original in nature.  There was no decision of another court
+that this Court could revise.  Chief Justice Marshall recog-
+nized that it “is the essential criterion of appellate jurisdic-
+tion, that it revises and corrects the proceedings in a cause
+already instituted.” Ibid. To issue mandamus “to an officer
+for the delivery of a paper, is in effect the same as to sustain
+an original action for that paper, and therefore seems not
+to belong to appellate, but to  original jurisdiction.”  Id., at
+175–176; accord, ante, at 10.
+From Marbury’s holding, then, a clear principle emerged:
+When a court “revises” or “corrects the proceedings in a
+cause already instituted,” it exercises appellate jurisdic-
+tion; when there is no previous “cause” or judicial proceed-
+ing to revise, it exercises “ori ginal” jurisdiction.  1 Cranch,
+at 175. And, from Marbury’s reasoning, another principle
+followed: A court can exercise appellate jurisdiction even if
+the action is filed outside of the most common appellate
+forms, such as a writ of error or a modern appeal, provided
+that there is another court’s decision to be revised. Ibid.
+Chief Justice Marshall reaffirmed both principles for the
+Court just a few years later. See Rawle 227–228.  Ex parte
+Bollman, 4 Cranch 75 (1807), involved two individuals—
+Bollman and Swartwout—who were implicated in the infa-
+mous Burr conspiracy. Both had been jailed by the circuit
+court for the District of Colu mbia pending their trial.  Id.,
+
+9  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+at 75–76. And, each sought a writ of habeas corpus from
+this Court. Id., at 75. The question, as in Marbury, was
+whether this Court had jurisdiction to issue the writs. This
+time the Court held that it had such jurisdiction.
+The arguments before the Court concerned the nature of
+original and appellate jurisdiction.  Counsel for Bollman ar-
+gued that the Judiciary Act gave “this court the power to
+grant writs of habeas corpus,” and that “congress had au -
+thority, by the constitution,” to give the Court such power.
+4 Cranch, at 84–85.  But, this second point, he argued, de-
+pended on “whether this power or jurisdiction be in its na-
+ture original or appellate.” Id., at 85. He conceded that, if
+granting the writ would be an exercise of original jurisdic-
+tion, then Congress could not gi ve this Court the power to
+issue the writ. Id., at 85–86.  “This principle,” he acknowl-
+edged, had been “established by the case of Marbury v.
+Madison.” Id., at 86. Following Marbury, he argued that
+the “criterion which distinguis hes appellate from original
+jurisdiction, is that it revise s and corrects the decisions of
+another tribunal.” 4 Cranch, at 86.  And, the “object of the
+habeas corpus now applied for,” he ur ged, “is to revise and
+correct the proceedings of the Court below . . . so far as re-
+spects the legality of such commitment.” Ibid.
+Again writing for the Cou rt, Chief Justice Marshall
+agreed with this approach. He began by explaining that
+federal courts, as creatures of “written law,” cannot “trans-
+cend th[e] jurisdiction” that is “defined by written law.”  Id.,
+at 93. “[F]or the meaning of the term habeas corpus,” he
+said, “resort may unquestionably be had to the common
+law; but the power to award the writ by any of the courts of
+the United States, must be given by written law.”  Id., at
+93–94. So, the question was the same as in Marbury:
+“whether by any statute, comp atible with the constitution
+of the United States, the power to award the writ . . . has
+been given to this court.”  4 Cranch, at 94.
+
+ CORPORATION
+THOMAS, J., concurring
+This time, though, Chief Justice Marshall answered yes.
+The Judiciary Act, he concluded, purported to give “the
+power to award writs of habeas corpus in order to examine
+into the cause of commitment.” Id., at 100.  And, he
+“acknowledged that the writ was sought in the first in-
+stance in the Supreme Court.” Pryor 500. But, the Consti-
+tution did not stand in the way of the Court’s issuing the
+writ in the case before it.  Though “the mandamus case” of
+Marbury required that the Court “would not exercise origi-
+nal jurisdiction,” he explained, “that which the court is now
+asked to exercise is clearly appellate.” 4 Cranch, at 100–
+101. He reasoned that the “decision that the individual
+shall be imprisoned must always precede the application for
+a writ of habeas corpus.” Id., at 101.  In other words, a court
+had already addressed the issue of the imprisonment, so
+there was “a cause already instituted.” Marbury, 1 Cranch,
+at 175. Because “this writ must always be for the purpose
+of revising that decision,” he concluded that it is “therefore
+appellate in its nature.”  4 Cranch, at 101.
+* * *
+ Thus, both Marbury and Bollman support Rooker’s first
+premise that to reverse or modify the allegedly erroneous
+judgment of another court is to exercise appellate jurisdic -
+tion. Federal courts must inquire into the nature of the ju-
+risdiction a party seeks to invoke and whether it takes “an
+appellate form,” regardless of the label placed on the paper
+filed in the court.  Ex parte Watkins, 7 Pet. 568, 573 (1833)
+(Story, J., for the Court); accord, ante, at 10. And, they fur-
+ther explain that “seek[ing] to revise the acts of ” another
+court is “appellate” in nature.  Ex parte Watkins, 7 Pet., at
+573. Whether the court hears the claim in the form of a
+mandamus petition as in Marbury, a habeas petition as in
+Bollman, or a bill in equity as in Rooker, if a party asks one
+court to revise the judgment of  another court for errors of
+law, it invokes appellate jurisdiction.  The question is then
+
+11  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+whether the court has revising power to “declar[e]” a state-
+court judgment “a nullity [on the merits].” Voorhees v.
+Jackson, 10 Pet. 449, 474 (1836).
+B
+Congress has long given only this Court, and not inferior
+courts, appellate jurisdiction to revise state-court judg -
+ments.
+The Constitution defines the limits of this Court’s juris -
+diction. Its “original Jurisdiction” is limited to “Cases af-
+fecting Ambassadors, other public Ministers and Consuls,
+and those in which a State shall be Party.”  Art. III, §2, cl. 2.
+In “all” other cases, “in Law and Equity,” this Court “shall
+have appellate Jurisdiction,” s ubject to any “Exceptions,
+and under such Regulations as the Congress shall make.”
+§2, cls. 1–2. Only this Court “possesses jurisdiction derived
+immediately from the constitution.”  United States  v. Hud-
+son, 7 Cranch 32, 33 (1812).
+As creatures of statute, inferior federal courts “possess no
+jurisdiction but what is given them by the power that cre-
+ates them.” Ibid.  They have “none” beyond what Congress
+“authorize[s].” Ibid. Whether inferior federal courts have
+revising power thus depends on whether a statute says that
+they do. C. Williams, Jurisdiction and Practice of Federal
+Courts 433 (1917) (Williams). Today, statutes say that
+courts of appeals have revisi ng power over district-court
+judgments, 28 U. S. C. §1291, and that district courts have
+revising power over bankruptcy-court judgments,
+§158(a)(1).
+Since the founding, there has been no doubt that inferior
+“federal” courts have the power “to review the proceedings
+of ” “State courts” only if Congress, in its “discretion,” has
+given them “appellate jurisdiction” to do so.3  The Federalist
+——————
+3 In fact, the only dispute was whether such jurisdiction was constitu -
+tional even if Congress purported to authorize it.  See The Federalist No.
+82, at 494–495 (A. Hamilton).
+
+ CORPORATION
+THOMAS, J., concurring
+Nos. 81, 82, at 488–490, 493–495 (A. Hamilton); see also
+Hudson, 7 Cranch, at 33.  Congress “is not limited by the
+constitution to any particular mode, or time of exercising
+it,” but there must be a stat utory grant of revising power
+over state-court judgments before inferior courts can revise
+them. Hunter’s Lessee, 1 Wheat., at 349; accord, 3 Story
+§1755, at 627 (“any form, which the legislature may choose
+to prescribe”).
+Congress has never purported to give inferior federal
+courts general revising powe r over state-court judgments
+for errors of federal law.  The First Congress declared that,
+in federal-question cases, “a final judgment or decree” of
+“the highest court of law or equity of a State” “may be re-
+examined and reversed or affi rmed in” this Court.  Judici-
+ary Act of 1789, §25, 1 Stat. 85–86.  Congress called that
+revising power “appellate juri sdiction” and identified the
+mode as a writ of error. §§13, 25, id., at 80–81, 85–86.  It
+gave no other federal court revising power over “courts of
+the several states.” §13, id., at 81. And, it gave no other
+federal court civil federal-quest ion jurisdiction, either.  Cf.
+§§9, 11, id., at 75–79.  Thus, only state courts could exercise
+original jurisdiction in federal-question cases, and only this
+federal Court could revise their judgments.
+It took Congress 86 years to give federal district courts
+federal-question jurisdiction, but it limited that jurisdiction
+to original actions.  See Schweiker v. Chilicky, 487 U. S.
+412, 420–421 (1988). In 1875, Congress granted federal
+courts “original” jurisdiction, “concurrent with the courts of
+the several States,” over federal-question cases.  Act of Mar.
+3, 1875, ch. 137, §1, 18 Stat. 470. But, that grant of original
+jurisdiction was not a grant of revising power.  No inferior
+federal court was “empowered . . . to enjoin the judgment of
+a State court.”  D. Chamberlain, The State Judiciary, in
+Constitutional History of the United States 254 (1889); id.,
+at 253–259. State-court “judgments and decrees” were
+“subject in all cases . . . arising under the Constitution,” or
+
+13  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+federal law, “to the revising or  appellate jurisdiction of the
+Supreme Court . . . , but in all other cases controlled only
+by the constitutions and laws of the respective States.” Id.,
+at 259.
+Nothing relevant has changed since 1875. 4  See Atlantic
+Coast Line R. Co.  v. Locomotive Engineers , 398 U. S. 281,
+286 (1970).  Thus was the state of the law before Rooker.
+263 U. S., at 416; Act of Mar. 3, 1911, §§24–27, 36 Stat.
+1091–1094; Act of Sept. 6, 1916, ch. 448, §2, 39 Stat. 726;
+Williams 48–49 (“The appellate jurisdiction [of district
+courts] is very slender”).  And, it remains true today that
+district courts have only “original jurisdiction” in federal-
+question cases, 28 U. S. C. §1331, and that only this Court
+has appellate jurisdiction over state courts in such cases,
+§1257(a). See ante, at 5.  Congress specified no mode for
+district courts to exercise appe llate jurisdiction in federal-
+question cases, §1331; the only federal court authorized to
+do so over state courts is this one—“by writ of certiorari,”
+§1257(a).
+A district court therefore cannot “act as an appellate
+Court” to revise state-court judgments.  Smith v. McIver, 9
+Wheat. 532, 535 (1824) (Marshall, C. J., for the Court).  To
+do so by “declar[ing]” a state-court judgment “void” for
+——————
+4 Arguably, modern federal habeas-cor pus practice has drifted in the
+direction of appellate review of state-court judgments. See Harrington
+v. Richter, 562 U. S. 86, 97–98, 100–101 (2011).  I have my reservations
+about this development.  See Wright v. West, 505 U. S. 277, 285–293
+(1992) (opinion of THOMAS, J.). But, it at least has the advantage of some
+grounding in statutory language, unlik e petitioner’s desired exercise of
+appellate jurisdiction here. Compare 28 U. S. C. §2254(a) (federal courts
+“shall entertain an application for a writ of habeas corpus in behalf of a
+person in custody pursuant to the judgment of a State court only on the
+ground that he is in violation of the Constitution or laws or treaties of
+the United States”) with §1331 (“The district courts shall have original
+jurisdiction of all civil actions arising under th e Constitution, laws, or
+treaties of the United States”).
+
+ CORPORATION
+THOMAS, J., concurring
+errors of federal law “usurps the jurisdiction of an appellate
+court.” Voorhees, 10 Pet., at 474.
+III
+As “creatures of a distinct government,” “state courts are
+not, in any sense of the word, inferior” to inferior federal
+courts. Bollman, 4 Cranch, at 97.  From the founding, state
+courts have had original jurisdiction in federal-question
+cases, and their judgments in such cases could be revised
+only in state appellate courts or in this Court.  Ante, at 13–
+16. Congress did not give fede ral district courts revising
+power over state-court judgments by giving them only orig-
+inal jurisdiction in federal-question cases. Grants of “origi-
+nal jurisdiction” do “not authorize district courts to exercise
+appellate jurisdiction.”  Verizon Md. Inc. v. Public Serv.
+Comm’n of Md., 535 U. S. 635, 644, n. 3 (2002). Rooker thus
+“correctly applied the simple legal proposition that only this
+Court may exercise appellate ju risdiction over state-court
+judgments.” Lance v. Dennis, 546 U. S. 459, 467 (2006)
+(Stevens, J., dissenting). The Court reaffirms that
+longstanding proposition. Ante, at 5–8.  I therefore join its
+opinion in full.

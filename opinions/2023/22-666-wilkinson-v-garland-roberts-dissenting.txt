@@ -1,0 +1,42 @@
+Wilkinson v. Garland — No. 22-666 — October Term 2023 — decided 3/19/24 — Roberts, C. J., dissenting
+Citation: 601 U.S. 209
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+227
+601US1 Unit: $U10 [04-23-24 11:29:10]PAGESPGT: OPINBX
+Cite as: 601 U. S. 209 (2024)
+Roberts, C. J., dissenting
+(noting that “[t]he purpose” of the provision was “to permit
+judicial review over . . . constitutional and statutory-
+construction questions, not discretionary or factual ques-
+tions” (emphasis added)). As the dissent observes, under a
+maximalist reading of “questions of law,” the exception to
+limited judicial review is poised to swallow the rule. See post,
+at 228–230 (opinion of Alito, J.). If that reading is correct,
+Congress went through an awful lot to achieve relatively little.
+I had not yet joined the Court when it decided Guerrero-
+Lasprilla. But I agree that Guerrero-Lasprilla controls
+this case. The fundamental principle of stare decisis—“that
+today's Court should stand by yesterday's decisions”—has
+“enhanced force” when a decision interprets a statute.
+Kimble v. Marvel Entertainment, LLC , 576 U. S. 446, 455–
+456 (2015). Congress remains free to revise the statute, and
+it should do so if we have strayed from its intent concerning
+the scope of judicial review set forth in § 1252(a)(2)(D).
+I concur in today's judgment with the understanding that
+the jurisdiction-stripping provision is not “meaningless.”
+Ante, at 225. When reviewing denials of discretionary re-
+lief, courts should respect the choice of Congress, reflecting
+the will of the People, to limit judicial interference. Courts
+cannot review the facts underlying a hardship determination
+in the cancellation-of-removal context, and they should care-
+fully distinguish between application of the “exceptional and
+extremely unusual hardship” legal standard, such as it is, and
+those unreviewable facts.
+Chief Justice Roberts, dissenting.
+I joined the opinion of the Court in Guerrero-Lasprilla v.
+Barr, 589 U. S. 221 (2020), and continue to believe that it was
+correctly decided. I agree with Justice Alito's dissent in
+this case, however, that the Court errs in reading the lan-
+guage in Guerrero-Lasprilla “as broadly as possible,” indeed
+“to the outer limits of its possible reach.” Post, at 232, 231.

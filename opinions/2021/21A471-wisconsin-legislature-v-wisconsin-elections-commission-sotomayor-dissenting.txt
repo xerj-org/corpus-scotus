@@ -1,0 +1,168 @@
+Wisconsin Legislature v. Wisconsin Elections Commission — No. 21A471 — October Term 2021 — decided 3/23/22 — Sotomayor, J., dissenting
+Citation: 595 U.S. 398
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r17_nko1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ELECTIONS COMM'N
+Sotomayor, J., dissenting
+The question that our VRA precedents ask and the court
+failed to answer is whether a race-neutral alternative that
+did not add a seventh majority-black district would deny
+black voters equal political opportunity. Answering that
+question requires an “ ` “intensely local appraisal” ' of the
+challenged district.” LULAC, 548 U. S., at 437. When the
+Wisconsin Supreme Court endeavored to undertake a full
+strict-scrutiny analysis, it did not do so properly under our
+precedents, and its judgment cannot stand.
+* * *
+The judgment of the Supreme Court of Wisconsin is re-
+versed as to the selection of the Governor's State Assembly
+and Senate maps, and the case is remanded for further pro-
+ceedings not inconsistent with this opinion. On remand, the
+court is free to take additional evidence if it prefers to recon-
+sider the Governor's maps rather than choose from among
+the other submissions. Any new analysis, however, must
+comply with our equal protection jurisprudence.
+It is so ordered.
+Justice Sotomayor , with whom Justice Kagan joins,
+dissenting.
+The Court's action today is unprecedented. In an emer-
+gency posture, the Court summarily overturns a Wisconsin
+Supreme Court decision resolving a conflict over the State's
+redistricting, a decision rendered after a 5-month process in-
+volving all interested stakeholders. Despite the fact that
+summary reversals are generally reserved for decisions in
+violation of settled law, the Court today faults the State Su-
+preme Court for its failure to comply with an obligation that,
+under existing precedent, is hazy at best.
+When the Wisconsin Legislature and executive were un-
+able to agree on reapportioned electoral maps following the
+2020 census, the Wisconsin Supreme Court granted a voter
+petition to ensure that maps were in place before the 2022
+elections. The court announced the criteria that it would
+use to select maps (namely, that it would seek to minimize
+changes from the 2011 maps while accounting for population
+shifts) and permitted any party to intervene and submit
+maps for consideration. See Johnson v. Wisconsin Elec-
+tions Comm'n, 2021 WI 87, ¶81, 399 Wis. 2d 623, 671, 967
+N. W. 2d 469, 493. 1 The court ultimately rejected the State
+Assembly map submitted by the Wisconsin Legislature (ap-
+plicants here) in favor of the map submitted by the Governor
+because it found the Governor's map “vastly superior” under
+its announced “least change” criteria. Johnson v. Wiscon-
+sin Elections Comm'n, 2022 WI 14, ¶¶26, 29, 400 Wis. 2d
+626, 644–645, 646, 971 N. W. 2d 402, 411, 412.
+The court proceeded to a preliminary analysis of whether
+the Equal Protection Clause or the Voting Rights Act of 1965
+(VRA) precluded it from adopting the Governor's map, which
+increased the number of majority-Black Assembly districts
+in Milwaukee from six to seven based on changes in popula-
+tion.2 The court noted that the parties before it had all “ap-
+peared to assume the VRA requires at least some majority-
+Black districts in the Milwaukee area” and that there had
+been no dispute that the preconditions in Thornburg v. Gin-
+gles, 478 U. S. 30 (1986) (for assessing whether race-conscious
+districting is required in order to avoid diluting minority vot-
+ing power) were satisfied, aside from an undeveloped refer-
+ence at oral argument. 400 Wis. 2d, at 655, 971 N. W. 2d, at
+417. The court stressed, however, that no Equal Protection
+Clause or VRA claim was before it and that adjudicating
+such claims would require a fuller record and a closer assess-
+ment. It concluded that neither the Equal Protection
+Clause nor the VRA clearly foreclosed adopting the Gover-
+nor's map in the first instance, id., at 658, 971 N. W. 2d, at
+418, but left open the possibility that a “standard VRA
+1 Before this Court, applicants do not challenge this process.
+2 The court found that the Black voting age population in the Milwaukee
+area had increased 5.5% since the last census, while the White voting age
+population had decreased 9.5%. 2022 WI 14, ¶48, 400 Wis. 2d 626, 658,
+971 N. W. 2d 402, 418.
+ELECTIONS COMM'N
+Sotomayor, J., dissenting
+claim” could be “brought after the adoption of new districts,”
+id., at 653, n. 24, 971 N. W. 2d, at 416, n. 24.
+Applicants now assert that the Wisconsin Supreme Court
+misapplied this Court's precedents in its preliminary assess-
+ment of whether the Governor's map violated the Equal Pro-
+tection Clause. The Court agrees and summarily reverses.
+In doing so, however, the Court assumes the answers to mul-
+tiple questions that our precedent leaves uncertain.
+In its brief discussion of equal protection and the VRA,
+the Wisconsin Supreme Court presumed that the framework
+summarized in this Court's decision in Cooper v. Harris, 581
+U. S. 285 (2017), governed in this posture. The Court tacitly
+accepts that assumption. Ante, at 402–403. Cooper, how-
+ever, arose in a starkly different posture. Cooper outlines
+the specific, burden-shifting procedure for adjudicating
+claims brought under the Equal Protection Clause “[w]hen a
+voter sues state officials for drawing . . . race-based lines.”
+581 U. S., at 291. That framework requires that the plaintiff
+first “prove that race was the predominant factor motivating
+the legislature's decision to place a significant number of vot-
+ers within or without a particular district.” Ibid. (internal
+quotation marks omitted). If the court finds that “racial
+considerations predominated over others,” the burden then
+“shifts to the State to prove that its race-based sorting of
+voters” satisfies strict scrutiny. Id., at 292. The State can
+meet that burden by showing that “it had a strong basis in
+evidence” for concluding that the VRA required its actions,
+a standard that “gives States breathing room to adopt rea-
+sonable compliance measures that may prove, in perfect
+hindsight, not to have been needed.” Id., at 293 (internal
+quotation marks omitted). 3 It is far from clear whether this
+burden-shifting framework should also apply in the unusual
+3 The other precedents on which the Court relies arose in analogous
+postures. See Abbott v. Perez, 585 U. S. ––– (2018); League of United
+Latin American Citizens v. Perry, 548 U. S. 399 (2006); Shaw v. Hunt, 517
+U. S. 899 (1996); Johnson v. De Grandy, 512 U. S. 997 (1994); Thornburg v.
+Gingles, 478 U. S. 30 (1986).
+circumstance where, as here, a state court is adopting a map
+in the first instance with no Equal Protection Clause claim
+before it.
+Even accepting the assumption that this framework con-
+trols, it remains unclear how a court in the posture below
+should apply it. Again, the Wisconsin Supreme Court was
+selecting a map itself, not adjudicating a subsequent chal-
+lenge in the manner that Cooper and other cases have ad-
+dressed. The court accepted an original action to supervise
+the redistricting and, with the input of the parties, designed
+its own process for doing so: accepting proposed maps from
+litigants rather than “craft[ing its] own map” and determin-
+ing to “choose the maps that best conform[ed] with [its] di-
+rectives,” even if those maps were “imperfect,” rather than
+“modify[ing]” the lines they drew. 400 Wis. 2d, at 634–635,
+971 N. W. 2d, at 406. Although the Governor reported that
+he considered race in drawing his Assembly map, the Wis-
+consin Supreme Court selected the Governor's map because
+it scored best on a race-neutral “least change” metric. Id.,
+at 635, 971 N. W. 2d, at 407. Our precedents offer no clear
+answers to the question whose motives should be analyzed
+in these circumstances (the four justices who selected the
+map based on the “least change” criteria, the Governor, or
+some combination) or how. The Court does not purport to
+answer this question.
+The Court also faults the Wisconsin Supreme Court for
+failing to scrutinize each of the Gingles preconditions inde-
+pendently after the parties agreed that some majority-Black
+districts needed to be drawn in Milwaukee. Ante, at 404–
+405.4 But courts generally are not mandated to investigate
+“ `undisputed' ” and nonjurisdictional issues. Ante, at 404.
+4 Applicants proposed a map with fve majority-Black districts and a
+sixth with less than a majority. The court below noted concern that appli-
+cants' map might violate the VRA by “packing” minority voters into a
+“small number of districts to minimize their influence in the districts next
+door.” 400 Wis. 2d, at 659, 971 N. W. 2d, at 419 (internal quotation
+marks omitted).
+ELECTIONS COMM'N
+Sotomayor, J., dissenting
+The Court points to no precedent requiring a court conduct-
+ing a malapportionment analysis to embark on an independ-
+ent inquiry into matters that the parties have conceded or
+not contested, like the Gingles preconditions here.
+This Court's intervention today is not only extraordinary
+but also unnecessary. The Wisconsin Supreme Court
+rightly preserved the possibility that an appropriate plaintiff
+could bring an equal protection or VRA challenge in the
+proper forum. 400 Wis. 2d, at 653, n. 24, 971 N. W. 2d, at
+416, n. 24. I would allow that process to unfold, rather than
+further complicating these proceedings with legal confusion
+through a summary reversal. I respectfully dissent.

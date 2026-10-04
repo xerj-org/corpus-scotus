@@ -1,0 +1,257 @@
+Hewitt v. United States — No. 23-1002 — October Term 2024 — decided 6/26/25 — Opinion of Jackson, J.
+Citation: 606 U.S. 419
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r61_2dp3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+By authorizing retroactive application of the First Step
+Act's more lenient penalties on any eligible offender upon
+whom “a sentence . . . has not been imposed,” the text of
+§ 403(b) indicates that only past sentences with continued va-
+lidity preclude application of the Act's new penalties. A
+judge would thus correctly conclude at resentencing that, if
+an offender's past sentence has been vacated, a sentence “has
+not been imposed” upon that offender for purposes of the
+First Step Act; hence, the court can impose a new sentence
+today.
+IV
+A
+The context and enactment history of the First Step Act
+and § 403(b) further demonstrate that Congress's choice of
+the present-perfect tense was not accidental. Rather, Con-
+gress was reacting to sustained criticism of the prior sen-
+tencing scheme, and with § 403(b), it intended to execute a
+clean break from the controversial and heavily contested
+“stacking” practice.
+Sentencing judges had been among the harshest critics.
+Before the First Step Act was enacted, more than one vet-
+eran District Court Judge decried how the “stacking” pun-
+ishment for first-time § 924(c) offenders was “grossly dispro-
+portionate” and “shockingly harsh given the nature” of the
+offenses and a defendant's “lack of criminal history.”
+United States v. Washington, 301 F. Supp. 2d 1306, 1309 (MD
+Ala. 2004) (lamenting the requirement of a 40-year term of
+imprisonment for a 22-year-old first-time offender, and re-
+marking that it was “the worst and most unconscionable sen-
+tence [the judge] ha[d] given in his 23 years on the federal
+bench”).9 Judges on the Federal Courts of Appeals also
+9 See also, e. g., United States v. Holloway, 68 F. Supp. 3d 310, 312
+(EDNY 2014) (noting that § 924(c) stacking “produce[d] sentences that
+would be laughable if only there weren't real people on the receiving end
+of them”); United States v. Angelos, 345 F. Supp. 2d 1227, 1244–1245, 1248
+(Utah 2004) (assailing being required to give a 24-year-old who had pos-
+“join[ed] in the litany of criticisms directed towards”
+§ 924(c)'s penalty regime for requiring the imposition of sen-
+tences that were “ `out of this world.' ” United States v.
+Hunter, 770 F. 3d 740, 746–747 (CA8 2014) (Bright, J., concur-
+ring); see also United States v. Hungerford, 465 F. 3d 1113,
+1118–1119 (CA9 2006) (Reinhardt, J., concurring in judg-
+ment) (deeming “irrational, inhumane, and absurd” the man-
+datory 159-year sentence imposed upon “a 52 year-old men-
+tally disturbed woman with no prior criminal record” who
+had otherwise “led a spotless, law-abiding existence”);
+United States v. Smith, 756 F. 3d 1179, 1181 (CA10 2014)
+(Gorsuch, J.) (observing that it was “no fanciful possibility”
+that § 924(c) stacking would lead to “prison term[s] of many
+decades” that were “certain to outlast the defendant's life
+and the lives of every person now walking the planet”).
+Meanwhile, other institutional stakeholders raised simi-
+larly pointed objections to Deal's stacking system. In its
+annual report to Congress, the United States Sentencing
+Commission criticized how § 924(c) stacking had “result[ed]
+in excessively severe and unjust sentences,” particularly in
+cases in which “the offense did not involve any physical harm
+or threat of physical harm to a person.” U. S. Sentencing
+Commission, Report to the Congress: Mandatory Minimum
+Penalties in the Federal Criminal Justice System 359 (Oct.
+2011). The United States Judicial Conference expressed
+similar concerns.10
+sessed weapons while dealing small amounts of marijuana “more than dou-
+bl[e]” the sentence recommended for crimes resulting in “actual violence
+to victims,” such as “hijack[ing]” an airplane, “detonat[ing] a bomb in a
+public place,” or committing “rap[e]” or “second-degree murde[r]”).
+10 See, e. g., Hearing before the Over-Criminalization Task Force of 2014
+of the House Committee on the Judiciary, 113th Cong., 2d Sess., 41 (2014)
+(testimony of the Hon. Irene Keeley, U. S. District Judge, Judicial Confer-
+ence of the U. S.) (explaining that § 924(c) stacking produced “particularly
+egregious” sentences for first-time offenders that ran “contrary to the in-
+terests of justice” and “undermine[d] confidence” in its administration).
+The problem, as all seemed to recognize, was not that fed-
+eral law permitted judges to impose lengthy sentences with
+respect to first-time § 924(c) offenders—it was that the stat-
+ute, as Deal had interpreted it, required it. District judges
+could not adhere to the statutory command that they give
+sentences that are “sufficient, but not greater than necessary,
+to comply with the purposes” of punishment, 18 U. S. C.
+§ 3553(a), if they were also required to sentence first-time
+offenders to § 924(c)'s unduly harsh mandatory minimum pen-
+alties. Additionally problematic was the fact that, while
+federal law requires sentencing judges to “avoid unwar-
+ranted sentence disparities among defendants,” § 3553(a)(6),
+the variation among prosecutors' charging practices meant
+that § 924(c) stacking was a reality for only some first-time
+offenders.11
+With sentencing judges routinely imposing what amounted
+to mandatory life sentences on first-time § 924(c) offenders,
+in 2018, Congress eventually heeded the public outcry. An
+“extraordinary political coalition” formed, as members of
+11 The policies of U. S. Attorney's Offices diverged as to when—or
+whether—they would bring multiple § 924(c) counts, a decision over which
+judges lack any control. See id., at 45 (testimony of the Hon. Patti Saris,
+Chair, U. S. Sentencing Commission). This produced disparate sentenc-
+ing outcomes for similarly situated offenders across judicial districts. See
+U. S. Sentencing Commission, Report to the Congress: Mandatory Mini-
+mum Penalties in the Federal Criminal Justice System 361–362 (Oct. 2011)
+(attributing the “geographic concentration” associated with § 924(c) sen-
+tencing “to inconsistencies in the charging of multiple violations of section
+924(c)”); see also In re Hernandez, 857 F. 3d 1162, 1169 (CA11 2017) (Mar-
+tin, J., concurring in result) (finding “troubling” that the defendant “might
+never have received this [stacked] sentence if he had been sentenced in
+another part of the country”). In one case in which prosecutors stacked
+additional § 924(c) counts after the defendant refused a plea offer, the Dis-
+trict Judge specifically lamented the “risk of massive sentencing disparity
+between identically-situated offenders within the federal system,” because
+other U. S. Attorney's Offices might not have proceeded in that same fash-
+ion. United States v. Angelos, 345 F. Supp. 2d 1227, 1253–1254 (Utah
+2004).
+Congress worked together to develop “a bipartisan sentenc-
+ing and prison reform bill” to address § 924(c) stacking. 164
+Cong. Rec. S7645 (Dec. 17, 2018) (statement of Sen. Durbin);
+see also Brief for Sen. Richard J. Durbin et al. as Amici
+Curiae 5–8 (Senators Brief). The First Step Act was the
+much-anticipated, much-heralded fruit of their labor—and
+one that many in Congress hoped would yield immediate
+benefits. See id., at 17. 12
+B
+It is noteworthy for present purposes that the statute
+Congress crafted to depart from the much-maligned “stack-
+ing” sentencing regime did so in a two-part fashion. First,
+§ 403(a) eliminated 25-year stacked sentences for first-time
+§ 924(c) offenders. Second, § 403(b) addressed the retroac-
+tivity of the § 403(a) benefit in a “ `targeted way,' ” so as
+to ensure that judges were no longer constrained to impose
+25-year stacked sentences on first-time § 924(c) offenders
+moving forward. Id., at 15 (quoting 164 Cong. Rec., at
+S7645 (statement of Sen. Durbin)).
+That second part of Congress's response—the focus of the
+cases before us today—was highly consequential. By dis-
+placing the background rule that changes to sentencing stat-
+utes apply only prospectively (to defendants who commit
+their offenses after the law's effective date), Congress made
+clear that the First Step Act's more lenient penalties were to
+apply to some “ `pending' ” cases, too—i. e., the new penalties
+would be applicable to certain defendants who had com-
+mitted their offenses before the First Step Act. Senators
+Brief 15 (quoting § 403(b), 132 Stat. 5222). Per § 403(b), any
+defendant who still needed to be sentenced as of the First
+12 The dissent agrees that our job is to “interpret what Congress meant”
+by the words in § 403(b). Post, at 443. Here, Congress's desire to change
+the derided, draconian sentencing stacking scheme Deal had created could
+not be clearer. Thus, far from “march[ing] in the parade of sentencing
+reform,” post, at 441, we are merely observing the events and circumstances
+that led Congress to take up the banner of sentencing reform itself.
+Step Act's effective date would receive the Act's more lenient
+penalties. Thus, as a practical matter, judges would no
+longer have to impose harsh “stacked” sentences upon first-
+time § 924(c) offenders.
+Notably, because § 403(b) retroactivity was only partial, it
+differed substantially from the full retroactivity Congress
+employed with respect to other kinds of penalty changes it
+instituted in the First Step Act. See, e. g., § 404(b), 132 Stat.
+5222; Terry v. United States, 593 U. S. 486, 491 (2021) (ex-
+plaining that Congress made the First Step Act's statutory
+changes to the crack-cocaine minimums fully retroactive, and
+thus “gave courts authority to reduce the sentences” of pre-
+viously sentenced crack offenders, where applicable). Con-
+gress certainly had the full-retroactivity option before it
+when it crafted § 403; indeed, earlier versions of the Act
+would have extended § 403(a) benefits to at least some
+§ 924(c) offenders who were already sentenced. See, e. g.,
+Sentencing Reform Act of 2015, H. R. 3713, 114th Cong., 2d
+Sess., § 5(b)(2), pp. 14–16 (2016) (providing for reduced terms
+of imprisonment in “certain past cases” (capitalization and
+italics deleted)); Sentencing Reform and Corrections Act of
+2017, S. 1917, 115th Cong., 1st Sess., § 104(b)(2), pp. 13–15
+(2017) (permitting “sentence reduction” for certain “past
+cases” (capitalization deleted)). But authorizing the reopen-
+ing of closed cases upends finality and can also be administra-
+tively burdensome. See Senators Brief 15 (noting that Con-
+gress forwent full retroactivity to serve “judicial economy”
+and “preserv[e] sentences that were actually valid and
+final”). Section 403's partial retroactivity avoided these
+problems, while still advancing Congress's aim of changing
+how first-time § 924(c) defendants are sentenced.
+In short, § 403(b)—a middle-ground solution to the problem
+of harsh “stacked” sentences for first-time § 924(c) offend-
+ers—reflected a balance of Congress's policy objectives. By
+leaving intact § 924(c) sentences that judges had already
+imposed, Congress reinforced its interest in finality and
+avoided burdening district courts with additional litigation.
+But it also substantially advanced its goal of returning a sig-
+nificant amount of sentencing discretion to district court
+judges moving forward, by giving retroactive effect to the
+Act's more lenient penalties for those first-time § 924(c) of-
+fenders who had yet to be sentenced.
+V
+The reading of § 403(b) that petitioners and the Govern-
+ment promote thus coheres with the text, context, and his-
+tory of that provision. Under this view, First Step Act sen-
+tencing benefits apply to all first-time § 924(c) offenders
+sentenced after the Act's enactment date (whether it is an
+initial sentencing or a resentencing). This means that
+§ 403(b)'s retroactivity line falls between those past § 924(c)
+offenders with final sentences that are still in effect, on the
+one hand, and those who still need to be sentenced for their
+§ 924(c) offense, on the other. The former are stuck with
+their old sentences, for finality reasons, while the latter are
+eligible for First Step Act benefits at resentencing, since
+they have to be sentenced regardless.
+Under amicus and the dissent's reading, however, there
+exists a further line of division within the group of offenders
+who currently lack a sentence—separating those who have
+been sentenced previously for the § 924(c) offense at issue
+from those who have not. For individuals in the former
+camp, per amicus and the dissent, a judge must return to
+the superseded sentencing scheme and impose stacked 25-
+year sentences when such defendants are resentenced.
+Carving up the yet-to-be-sentenced group of offenders in
+this way does not reflect Congress's intent. See Senators
+Brief 17 (a bipartisan group of Senators, explaining that
+“[t]he considerations animating the First Step Act's enact-
+ment undermine any suggestion that Congress intentionally
+excluded from Section 403's reach pre-Act offenders whose
+sentences are invalid as a matter of law”). Nor does it com-
+port with the statutory scheme that Congress enacted, for
+two primary reasons.
+First, the text and context of § 403(b) do not support differ-
+entiating between § 924(c) offenders on the mere basis of the
+historical fact of a past sentencing (as we explained in Part
+III, supra), and, frankly, it is not clear what distinguishing
+between previously sentenced and never-before-sentenced
+offenders would accomplish. The prior imposition of a sen-
+tence does not bear on finality; if the offender currently lacks
+a sentence, then a court will have to resentence the defend-
+ant in any event. And though it would make sense to draw
+the line as amicus and the dissent do if the prior imposition
+of a sentence helped judges to more accurately identify seri-
+ous first-time § 924(c) offenders—potentially justifying the
+harsh and outdated stacked penalties that the First Step Act
+supplanted—nothing in the legislative record suggests this
+is so. Stated simply: The distinction between previously
+sentenced defendants and those who have never been sen-
+tenced before seems to make no difference in terms of the
+retroactivity aims of the statute.
+By contrast, requiring judges to impose Deal-era stacked
+§ 924(c) sentences at resentencings runs headlong into the
+animating aims of the First Step Act. See Miller v. French,
+530 U. S. 327, 341 (2000) (rejecting an interpretation that
+would undermine the statute and run “plainly contrary to
+Congress' intent in enacting” it). Neither amicus nor the
+dissent can explain why Congress would have wanted sen-
+tencing judges, who are presently working to dole out pro-
+portionate plenary sentences under the new regime, to have
+to return to the draconian, pre-Act scheme for offenders who
+just happen to be facing resentencing, as opposed to first
+sentencing. Requiring that kind of reversion prevents
+judges from uniformly moving past Deal, which was the pri-
+mary point of Congress's enactment of § 403.
+Second, the reading of § 403(b) that we adopt today is
+plainly more administrable than the one amicus and the dis-

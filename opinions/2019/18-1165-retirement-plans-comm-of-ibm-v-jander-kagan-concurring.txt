@@ -1,0 +1,75 @@
+Retirement Plans Comm. of IBM v. Jander — No. 18-1165 — October Term 2019 — decided 1/14/20 — Kagan, J., concurring
+Citation: 589 U.S. 49
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/589US1PP_Web.pdf#page=90 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+mission as well as the Department of Labor), focused their
+arguments primarily upon other matters. The petitioners
+argued that ERISA imposes no duty on an ESOP fduciary
+to act on inside information. And the Government argued
+that an ERISA-based duty to disclose inside information
+that is not otherwise required to be disclosed by the securi-
+ties laws would “conflict” at least with “objectives of” the
+“complex insider trading and corporate disclosure require-
+ments imposed by the federal securities laws . . . .” Duden-
+hoeffer, 573 U. S., at 429.
+The Second Circuit “did not address the[se] argument[s],
+and, for that reason, neither shall we.” F. Hoffmann-
+La Roche Ltd. v. Empagran S. A., 542 U. S. 155, 175 (2004)
+(citation omitted); see Cutter v. Wilkinson, 544 U. S. 709, 718,
+n. 7 (2005) (“[W]e are a court of review, not of first view”).
+See also 910 F. 3d 620 (CA2 2018). Nevertheless, in light of
+our statement in Dudenhoeffer that the views of the “U. S.
+Securities and Exchange Commission” might “well be rele-
+vant” to discerning the content of ERISA's duty of prudence
+in this context, 573 U. S., at 429, we believe that the Court
+of Appeals should have an opportunity to decide whether
+to entertain these arguments in the first instance. For this
+reason we vacate the judgment below and remand the case,
+leaving it to the Second Circuit whether to determine their
+merits, taking such action as it deems appropriate.
+It is so ordered.
+Justice Kagan, with whom Justice Ginsburg joins,
+concurring.
+Today's per curiam vacates and remands so that the Court
+of Appeals for the Second Circuit can decide whether to con-
+sider two arguments that occupied most of the briefing in
+this Court even though the lower courts had not addressed
+them. I join the Court's opinion with two further notes.
+First, the Court of Appeals may of course determine that
+under its usual rules of waiver or forfeiture, it will not con-
+sider those arguments. The per curiam is clear that the
+Second Circuit is to “decide whether to entertain” the argu-
+ments in the first instance. Ante, at 52. If the arguments
+were not properly preserved, sound judicial practice points
+toward declining to address them. See, e.g., Wood v. Mil-
+yard, 566 U. S. 463, 473 (2012) (“For good reason, appel-
+late courts ordinarily abstain from entertaining issues that
+have not been raised and preserved”). That is so, contrary
+to Justice Gorsuch’s suggestion, whether or not the issue
+will come back in the future. See post, at 55 (concurring
+opinion).
+Second, if the Court of Appeals chooses to address the
+merits of either argument, the opening question must be
+whether it is consistent with this Court's decision in Fifth
+Third Bancorp v. Dudenhoeffer, 573 U. S. 409 (2014). I can-
+not see how. The petitioners argue that ERISA “imposes
+no duty on an ESOP fduciary to act on insider information.”
+Ante, at 52. But Dudenhoeffer makes clear that an ESOP
+fduciary at times has such a duty; the decision sets out ex-
+actly what a plaintiff must allege to state a claim that the
+fduciary breached his duty of prudence by “failing to act on
+inside information.” 573 U. S., at 423; see id., at 428; ante,
+at 50. For its part, the Government argues that (absent ex-
+traordinary circumstances) an ESOP fduciary has only the
+duty to disclose inside information that the federal securities
+laws already impose. See ante, at 52. But Dudenhoeffer
+characterizes the relationship between ERISA's duty of pru-
+dence and the securities laws differently. It recognizes that
+a fduciary can have no obligation to take actions “violat[ing]
+the securities laws” or “conflict[ing]” with their “require-
+ments” or “objectives.” 573 U. S., at 428–429; see ante, at
+50–51. At the same time, the decision explains that when an
+action does not so conflict, it might fall within an ESOP fdu-
+ciary's duty—even if the securities laws do not require it.
+See 573 U. S., at 428. The question in that conflict-free zone
+is whether a prudent fduciary would think the action more

@@ -1,0 +1,73 @@
+Biden v. Texas — No. 21-954 — October Term 2021 — decided 6/30/22 — Kavanaugh, J., concurring
+Citation: 597 U.S. 785
+Source: https://www.supremecourt.gov/opinions/21pdf/597us2r66_k537.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+outside its control, as a practical matter left the Government
+no choice but to appeal. And the agency reasonably chose
+to accede to the District Court's APA analysis of the June 1
+Memorandum and seek to ameliorate those concerns in the
+meantime.
+* * *
+For the reasons explained, the Government's rescission of
+MPP did not violate section 1225 of the INA, and the October
+29 Memoranda did constitute final agency action. We there-
+fore reverse the judgment of the Court of Appeals and re-
+mand the case for further proceedings consistent with this
+opinion. On remand, the District Court should consider in
+the first instance whether the October 29 Memoranda comply
+with section 706 of the APA. See State Farm, 463 U. S., at
+46–57.
+It is so ordered.
+Justice Kavanaugh, concurring.
+I agree with the Court that the District Court had juris-
+diction over Texas's suit. I also agree with the Court that
+the Government prevails on the merits of the two specific
+legal questions presented here. I note, moreover, that six
+Members of the Court agree with the Court's merits conclu-
+sion. See post, at 835 (Barrett, J., dissenting).
+I write separately to briefly elaborate on my understand-
+ing of the relevant statutory provisions and to point out one
+legal issue that remains open for resolution on remand.
+When the Department of Homeland Security lacks suffi-
+cient capacity to detain noncitizens at the southern border
+pending their immigration proceedings (often asylum pro-
+ceedings), the immigration laws afford DHS two primary
+options.
+Option one: DHS may grant noncitizens parole into the
+United States if parole provides a “significant public benefit.”
+8 U. S. C. § 1182(d)(5)(A). Parole entails releasing individu-
+als on a case-by-case basis into the United States subject to
+“reasonable assurances” that they “will appear at all hear-
+ings.” 8 CFR § 212.5(d) (2020); see 8 U. S. C. § 1182(d)(5)(A).
+Notably, every Administration beginning in the late 1990s
+has relied heavily on the parole option, including the admin-
+istrations of Presidents Clinton, Bush, Obama, Trump, and
+Biden. See Tr. of Oral Arg. 4, 49–54.
+Option two: DHS may choose to return noncitizens to Mex-
+ico. 8 U. S. C. § 1225(b)(2)(C). Consistent with that statu-
+tory authority, the prior Administration chose to return a
+relatively small group of noncitizens to Mexico.
+In general, when there is insufficient detention capacity,
+both the parole option and the return-to-Mexico option are
+legally permissible options under the immigration statutes.
+As the recent history illustrates, every President since the
+late 1990s has employed the parole option, and President
+Trump also employed the return-to-Mexico option for a rela-
+tively small group of noncitizens. Because the immigration
+statutes afford substantial discretion to the Executive, dif-
+ferent Presidents may exercise that discretion differently.
+That is Administrative Law 101. See Motor Vehicle Mfrs.
+Assn. of United States, Inc. v. State Farm Mut. Automobile
+Ins. Co., 463 U. S. 29, 59 (1983) (Rehnquist, J., concurring in
+part and dissenting in part).
+To be sure, the Administrative Procedure Act and this
+Court's decision in State Farm require that an executive
+agency's exercise of discretion be reasonable and reasonably
+explained. See id., at 43 (majority opinion); see also FCC v.
+Prometheus Radio Project, 592 U. S. –––, ––– – –––, –––
+(2021); FCC v. Fox Television Stations, Inc., 556 U. S. 502,
+514−515 (2009); 5 U. S. C. § 706. For example, when there
+is insufficient detention capacity and DHS chooses to parole
+noncitizens into the United States rather than returning
+them to Mexico, DHS must reasonably explain why parole
+provides a “significant public benefit.” 8 U. S. C.

@@ -1,0 +1,40 @@
+Thornell v. Jones — No. 22-982 — October Term 2023 — decided 5/30/24 — Sotomayor, J., dissenting
+Citation: 602 U.S. 154
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r27_jhek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+strength of all the evidence and a comparison of the weight
+of aggravating and mitigating factors. The Ninth Circuit
+did not heed that instruction; rather, it downplayed the seri-
+ous aggravating factors present here and overstated the
+strength of mitigating evidence that differed very little from
+the evidence presented at sentencing. Had the Ninth Cir-
+cuit engaged in the analysis required by Strickland, it would
+have had no choice but to affirm the decision of the District
+Court denying habeas relief. We therefore reverse the
+judgment of the Court of Appeals and remand the case for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor, with whom Justice Kagan joins,
+dissenting.
+I agree with the Court that “the Ninth Circuit all but ig-
+nored the strong aggravating circumstances in this case.”
+Ante, at 158. That was error. As part of the prejudice
+inquiry for ineffective-assistance-of-counsel claims, courts
+must “consider all the evidence—the good and the bad,”
+Wong v. Belmontes, 558 U. S. 15, 26 (2009) (per curiam ), and
+must “reweigh the evidence in aggravation against the total-
+ity of available mitigating evidence,” Wiggins v. Smith, 539
+U. S. 510, 534 (2003).
+The majority unnecessarily goes further and engages in
+the reweighing itself. See ante, at 165–171. The record in
+this case is complex, contested, and thousands of pages long.
+In light of this “extensive record” and “intricate procedural
+history, . . . this is not an appropriate case to reach and settle
+[a] fact-sensitive issue.” CRST Van Expedited, Inc. v.
+EEOC, 578 U. S. 419, 435 (2016). That is particularly true
+when, as here, the majority in the first instance parses a
+complex record containing contested medical diagnoses and
+disputed allegations of abuse and trauma.
+“It is not the Court's usual practice to adjudicate either
+legal or predicate factual questions in the first instance.”
+Ibid.; see also Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7

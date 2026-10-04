@@ -1,0 +1,75 @@
+Egbert v. Boule — No. 21-147 — October Term 2021 — decided 6/08/22 — Gorsuch, J., concurring in judgment
+Citation: 596 U.S. 482
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r37_7l48.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(Blackmun, J., dissenting); Carlson, 446 U. S., at 31 (Rehn-
+quist, J., dissenting); Malesko, 534 U. S., at 75 (Scalia, J., con-
+curring); Hernández, 589 U. S., at ––– (Thomas, J., concur-
+ring); post, at 502–504 (opinion of Gorsuch, J.). And, more
+recently, we have indicated that if we were called to decide
+Bivens today, we would decline to discover any implied
+causes of action in the Constitution. See Ziglar, 582 U. S.,
+at 134. But, to decide the case before us, we need not recon-
+sider Bivens itself. Accordingly, we reverse the judgment
+of the Court of Appeals.
+It is so ordered.
+Justice Gorsuch, concurring in the judgment.
+Our Constitution's separation of powers prohibits federal
+courts from assuming legislative authority. As the Court
+today acknowledges, Bivens v. Six Unknown Fed. Narcotics
+Agents, 403 U. S. 388 (1971), crossed that line by “impl[y-
+ing]” a new set of private rights and liabilities Congress
+never ordained. Ante, at 491; see also Alexander v. Sando-
+val, 532 U. S. 275, 286 (2001); Nestlé USA, Inc. v. Doe, 593
+U. S. –––, ––– – ––– (2021) (Gorsuch, J., concurring).
+Recognizing its misstep, this Court has struggled for dec-
+ades to find its way back. Initially, the Court told lower
+courts to follow a “two ste[p]” inquiry before applying Bi-
+vens to any new situation. Ante, at 492. At the first step,
+a court had to ask whether the case before it presented a
+“new context” meaningfully different from Bivens. Ante, at
+492. At the second, a court had to consider whether “ `special
+factors' ” counseled hesitation before recognizing a new cause
+of action. Ibid. But these tests soon produced their own
+set of questions: What distinguishes the first step from the
+second? What makes a context “new” or a factor “special”?
+And, most fundamentally, on what authority may courts rec-
+ognize new causes of action even under these standards?
+Today, the Court helpfully answers some of these lingering
+questions. It recognizes that our two-step inquiry really
+boils down to a “single question”: Is there “any reason to
+think that Congress might be better equipped” than a court
+to “ `weigh the costs and benefits of allowing a damages ac-
+tion to proceed' ”? Ibid.; see Ziglar v. Abbasi, 582 U. S. 120,
+136 (2017). But, respectfully, resolving that much only serves
+to highlight the larger remaining question: When might a
+court ever be “better equipped” than the people's elected rep-
+resentatives to weigh the “costs and benefits” of creating a
+cause of action?
+It seems to me that to ask the question is to answer it.
+To create a new cause of action is to assign new private
+rights and liabilities—a power that is in every meaningful
+sense an act of legislation. See Sandoval, 532 U. S., at 286–
+287; Nestlé, 593 U. S., at ––– (Gorsuch, J., concurring);
+Jesner v. Arab Bank, PLC , 584 U. S. –––, ––– (2018) (Gor-
+such, J., concurring in part and concurring in judgment). If
+exercising that sort of authority may once have been a
+“ `proper function for common-law courts' ” in England, it is
+no longer generally appropriate “ `for federal tribunals' ” in a
+republic where the people elect representatives to make the
+rules that govern them. Sandoval, 532 U. S., at 287.
+Weighing the costs and benefits of new laws is the bread and
+butter of legislative committees. It has no place in federal
+courts charged with deciding cases and controversies under
+existing law.
+Instead of saying as much explicitly, however, the Court
+proceeds on to conduct a case-specific analysis. And there
+I confess difficulties. The plaintiff is an American citizen
+who argues that a federal law enforcement officer violated
+the Fourth Amendment in searching the curtilage of his
+home. Candidly, I struggle to see how this set of facts dif-
+fers meaningfully from those in Bivens itself. To be sure,
+as the Court emphasizes, the episode here took place near
+an international border and the officer's search focused on
+violations of the immigration laws. But why does that mat-
+ter? The Court suggests that Fourth Amendment viola-

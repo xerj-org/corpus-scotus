@@ -1,0 +1,328 @@
+Cox Communications, Inc. v. Sony Music Entertainment — No. 24-171 — October Term 2025 — decided 3/25/26 — opinion of the Court — author Thomas (listing code T)
+Citation: 607 U.S. 583
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r22_k4lo.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+Countless people use the Internet for legal activities, but
+some use it to illegally share copyrighted works, such as
+songs and movies. The Copyright Act authorizes copyright
+owners to sue these copyright infringers. 17 U. S. C.
+§§ 501(a), 504(a). In this case, however, instead of suing
+those infringers, the copyright owners sued petitioners, Cox
+Communications, Inc., and its subsidiary, who provided the
+Internet connections that the infringers used. They con-
+tended that Cox was itself liable for copyright infringement
+because it continued to provide known infringers with In-
+ternet access.
+Based on this theory of infringement, respondents, Sony
+Music Entertainment and other major copyright owners, se-
+cured a billion-dollar verdict against Cox. The United
+States Court of Appeals for the Fourth Circuit agreed that
+because Cox provided Internet service to known infringers,
+it was a willful infringer itself.
+Under our precedents, a company is not liable as a copy-
+right infringer for merely providing a service to the general
+public with knowledge that it will be used by some to in-
+fringe copyrights. Accordingly, we reverse.
+I
+A
+Under the Copyright Act, copyright owners have the ex-
+clusive rights to copy, distribute, and digitally transmit their
+Michael J. Allan; for SoundExchange, Inc., et al. by Jonathan Z. King;
+and for Bruce E. Boyden, pro se.
+Briefs of amici curiae were fled for the American Intellectual Property
+Law Association by Nancy J. Mertzel and Salvatore Anastasi; for the Asso-
+ciation of American Publishers, Inc., et al. by Cynthia S. Arato; for Floor64,
+Inc., by Catherine R. Gellis; for the Motion Picture Association, Inc., by
+Donald B. Verrilli, Jr., Elaine J. Goldenberg, Daniel J. Kane, and Kelly M.
+Klaus; for Professor of Patent Law by Charles Duan, pro se; for Christo-
+pher Cotropia et al. by Andrew Dhuey, and Christopher Cotropia and James
+Gibson, both pro se; and for Joshua Moon et al. by Matthew D. Hardin.
+ENTERTAINMENT
+Opinion of the Court
+copyrighted works. § 106. So, for example, if a musician
+has a copyright for a song recording, others generally cannot
+copy and share that recording without the musician's permis-
+sion. The Copyright Act provides that “[a]nyone who vio-
+lates any of the exclusive rights of the copyright owner . . . is
+an infringer of the copyright.” § 501(a). A willful infringer
+faces statutory damages of up to $150,000 per work.
+§ 504(c)(2).
+This Court has also recognized two categories of second-
+ary copyright liability, which means liability for the copy-
+right infringement of another. Those two categories are
+“contributory” liability and “vicarious” liability. Metro-
+Goldwyn-Mayer Studios Inc. v. Grokster, Ltd., 545 U. S. 913,
+930 (2005). This case concerns contributory liability.
+The provider of a service is contributorily liable for a
+user's infringement if it intended its service to be used for
+infringement. To establish that a provider intended its
+service to be used for infringement, a copyright owner must
+show one of two things. First, it can show that a party af-
+frmatively “induc[ed]” the infringement. Ibid. Or, sec-
+ond, it can show that the party sold a service tailored to
+infringement. Id., at 942 (Ginsburg, J., concurring). Patent
+law, with which copyright law has a “historic kinship,” Sony
+Corp. of America v. Universal City Studios, Inc., 464 U. S.
+417, 439 (1984), tracks these two requirements. See 35
+U. S. C. §§ 271(b), (c).
+In 1998, Congress passed the Digital Millennium Copy-
+right Act, 17 U. S. C. § 1201 et seq., which gave service pro-
+viders a safe-harbor defense to secondary copyright liability.
+Under the DMCA safe-harbor defense, service providers
+cannot be secondarily liable for certain forms of copyright
+infringement if they have implemented “a policy that pro-
+vides for the termination in appropriate circumstances of
+subscribers and account holders” who “are repeat in-
+fringers.” § 512(i)(1)(A). At the same time, the DMCA
+specifies that failure to qualify for the safe-harbor defense
+“shall not bear adversely upon the consideration of a defense
+by the service provider that the service provider's conduct
+is not infringing.” § 512( l).
+B
+Cox Communications, Inc., is an Internet service provider
+that serves about 6 million subscribers. Each subscriber's
+account is associated with a unique Internet Protocol, or
+“IP,” address. Many users can share a particular IP ad-
+dress. For example, a household, coffee shop, or college dor-
+mitory ordinarily has one IP address, but has multiple indi-
+vidual users.
+Internet service providers, such as Cox, have limited
+knowledge about how their Internet services are used and
+who uses them. They do know which IP address corres-
+ponds to which subscriber's account, but they cannot distin-
+guish one individual user from another. For instance, if an
+Internet service provider learns that someone illegally down-
+loaded music from a coffee shop's IP address, the Internet
+service provider cannot determine which individual at the
+coffee shop infringed the copyright. And, more generally,
+Internet service providers also cannot directly control how
+their Internet services are used.
+Sony Music Entertainment and the other plaintiffs in this
+case are major music copyright owners. They have strug-
+gled to protect their copyrights in the age of online music
+sharing. Today, anyone with an Internet connection and
+easily obtained software can upload digital copies of copy-
+righted music and make them available for others to dow-
+nload. This practice often infringes the owners' exclusive
+rights to copy and distribute their works. §§ 106(1), (3).
+Copyright owners can, and do, sue the individuals who in-
+fringe their copyrights in this manner. See, e. g., Sony BMG
+Music Entertainment v. Tenenbaum, 660 F. 3d 487, 490 (CA1
+ENTERTAINMENT
+Opinion of the Court
+2011). However, because online infringement is so wide-
+spread, pursuing each individual infringer does little to stem
+the tide.
+Given the difficulty of pursuing individual infringers, Sony
+attempted to enlist Internet service providers such as Cox
+to help it enforce its copyrights. It enlisted the services of
+an entity called MarkMonitor to track infringement of its
+copyrights across the Internet. MarkMonitor's software
+can detect when copyrighted works are illegally uploaded or
+downloaded and trace the infringing activity to a particular
+IP address. It can also identify the Internet service pro-
+vider for the infringing IP address. When MarkMonitor de-
+tects apparently infringing activity, it sends notices to the
+Internet service provider, identifying the IP address at
+which the infringement occurred. In the roughly 2-year pe-
+riod at issue here, MarkMonitor sent Cox 163,148 such
+notices.
+Cox states that it took steps to limit copyright infringe-
+ment by those using its Internet services. According to
+Cox, it created a system of responding to the notices that it
+received from MarkMonitor. After the second MarkMonitor
+notice for a subscriber's account, Cox sent a warning to that
+subscriber. After additional notices, Cox terminated In-
+ternet access to that subscriber's IP address until the sub-
+scriber responded to the warning. If it continued to receive
+notices for that IP address, Cox suspended service until the
+subscriber called and received a warning over the phone.
+After 13 notices, the subscriber was subject to termination
+of all Internet service. Cox also contractually prohibits its
+subscribers from using their connection “to post, copy, trans-
+mit, or disseminate any content that infringes the patents,
+copyrights . . . or proprietary rights of any party.” 2 App. 405.
+The parties disagree about how to characterize Cox's ef-
+forts to protect Sony's copyrights. Sony points out that Cox
+terminated only 32 subscribers for infringement during the
+claim period, even as it terminated hundreds of thousands of
+subscribers for nonpayment during the same period. Brief
+for Respondents 18. Sony also points to statements from
+Cox employees expressing frustration with the notices and
+an unwillingness to act on them in favor of protecting reve-
+nue from subscriber payments. Id., at 22. Cox resists this
+characterization by pointing out that its warning and suspen-
+sion system ended 98% of identified infringement. Brief for
+Petitioners 10–11.
+C
+Sony sued Cox in the United States District Court for the
+Eastern District of Virginia. It advanced two theories of
+secondary copyright liability.
+First, Sony alleged that Cox was contributorily liable for
+its users' infringement. Sony argued that Cox contributed
+to its users' infringement by continuing to provide Internet
+service to subscribers whose IP addresses it knew were as-
+sociated with infringement. Second, Sony alleged that Cox
+was vicariously liable for its users' infringement. On Sony's
+telling, Cox “proft[ed] directly from the infringement and
+ha[d] a right and ability to supervise the direct infringer[s],”
+Grokster, 545 U. S., at 930, n. 9, because it provided paying
+subscribers with Internet service that was then used to in-
+fringe. According to Sony's allegations, Cox was liable for
+willfully infringing 10,017 copyrighted works, subjecting it
+to up to $1.5 billion in statutory damages.
+In the District Court, Sony prevailed as to both contribu-
+tory and vicarious liability. The jury found in favor of Sony
+on both theories. 464 F. Supp. 3d 795, 807–808 (ED Va.
+2020). It also found that Cox's infringement was willful,
+awarding $1 billion in statutory damages. Ibid. The Dis-
+trict Court denied Cox's post-trial motion for judgment as a
+matter of law in relevant part. Id., at 847.*
+*Cox could not invoke the DMCA safe-harbor defense based on its ef-
+forts to reduce infringement because an earlier decision had foreclosed
+that defense for the relevant period. 93 F. 4th 222, 228 (CA4 2024) (citing
+ENTERTAINMENT
+Opinion of the Court
+The Fourth Circuit affirmed in part and reversed in part.
+It affirmed as to contributory liability because Cox continued
+to provide Internet service to known infringers. Applying
+Circuit precedent, it reasoned that “supplying a product with
+knowledge that the recipient will use it to infringe copy-
+rights is exactly the sort of culpable conduct sufficient for
+contributory infringement.” 93 F. 4th 222, 236 (2024) (citing
+BMG Rights Mgmt. (US) LLC v. Cox Communications, Inc.,
+881 F. 3d 293, 308 (2018)). The Fourth Circuit reversed as
+to vicarious liability because it concluded that Cox did not
+“receiv[e] a direct financial benefit from its subscribers' in-
+fringement.” 93 F. 4th, at 233. The court then vacated the
+damages award and remanded for the jury to reassess dam-
+ages based on contributory liability alone.
+We granted Cox's petition for a writ of certiorari as to
+contributory liability. 606 U. S. 930 (2025). We denied
+Sony's petition for a writ of certiorari regarding vicarious
+liability. 606 U. S. 931 (2025).
+II
+A
+“The Copyright Act does not expressly render anyone lia-
+ble for infringement committed by another.” Sony, 464
+U. S., at 434. Ordinarily, when Congress intends to impose
+secondary liability, it does so expressly. See Central Bank
+of Denver, N. A. v. First Interstate Bank of Denver, N. A.,
+511 U. S. 164, 176–177 (1994). Although our precedents
+have recognized specific forms of secondary copyright liabil-
+ity that predated the Copyright Act, we are loath to expand
+such liability beyond those precedents.
+B
+The provider of a service is contributorily liable for the
+user's infringement only if it intended that the provided
+BMG Rights Mgmt. (US) LLC v. Cox Communications, Inc., 881 F. 3d
+293, 301–305 (CA4 2018)).
+service be used for infringement. The intent required for
+contributory liability can be shown only if the party induced
+the infringement or the provided service is tailored to that
+infringement. Grokster, 545 U. S., at 930; Sony, 464 U. S.,
+at 440–441.
+A provider induces infringement if it actively encourages
+infringement through specific acts. Grokster, 545 U. S., at
+942 (Ginsburg, J., concurring). For example, in Grokster, we
+held that a jury could find two fle-sharing software compa-
+nies liable for inducement. Id., at 941 (majority opinion).
+The companies promoted and marketed their software as a
+tool to infringe copyrights. Id., at 926. The “principal ob-
+ject” of their business models “was use of their software to
+download copyrighted works.” Ibid. Other decisions have
+held providers liable for similar conduct. See Kalem Co. v.
+Harper Brothers, 222 U. S. 55, 62–63 (1911) (finding liability
+where “[t]he defendant not only expected but invoked by ad-
+vertisement the use of its flms” for infringement of an au-
+thor's copyright); Henry v. A. B. Dick Co., 224 U. S. 1, 49
+(1912) (finding liability because the sale was made “with the
+purpose and intent” that the object be used for patent in-
+fringement), overruled on other grounds, Motion Picture
+Patents Co. v. Universal Film Mfg. Co., 243 U. S. 502, 518
+(1917).
+A service is tailored to infringement if it is “not capable
+of `substantial' or `commercially signifcant' noninfringing
+uses.” Grokster, 545 U. S., at 942 (Ginsburg, J., concurring)
+(quoting Sony, 464 U. S., at 442). In Sony, copyright owners
+sued the maker and the retailers of the Betamax video tape
+recorder. Id., at 422. The tape recorder could be used to
+record copyrighted television programs for later personal
+viewing, which would not constitute infringement. Id., at
+449. On the other hand, it could also be used to reproduce
+and sell copyrighted television programming, which would
+constitute infringement. Ibid. The lower court found the
+Betamax maker liable because the tape recorder was “not
+ENTERTAINMENT
+Opinion of the Court
+suitable for any substantial noninfringing use” and infringe-
+ment “was either the most conspicuous use or the major use
+of the Betamax product.” Id., at 428 (internal quotation
+marks omitted). This Court reversed, concluding that “[t]he
+Betamax is . . . capable of substantial noninfringing uses”—
+like personal use—so “sale of such equipment to the general
+public does not constitute contributory infringement.” Id.,
+at 456.
+These two forms of contributory infringement track patent
+law. See Grokster, 545 U. S., at 942 (Ginsburg, J., concur-
+ring). Under 35 U. S. C. § 271(b), “[w]hoever actively in-
+duces infringement of a patent shall be liable as an in-
+fringer.” Such liability requires that the party express “an
+affirmative intent that the product be used to infringe.”
+Grokster, 545 U. S., at 936. Under § 271(c), a party is liable
+when it sells a product used for infringement “knowing the
+same to be especially made or especially adapted for use in
+an infringement of such patent.”
+This Court has repeatedly made clear that mere knowl-
+edge that a service will be used to infringe is insufficient to
+establish the required intent to infringe. In Kalem Co., the
+Court explained that “mere indifferent supposition or knowl-
+edge on the part of the seller” that the buyer will use the
+product unlawfully is “not enough” to make the seller li-
+able for the buyer's conduct. 222 U. S., at 62. In Sony,
+the Court explained that “[t]here is no precedent in the
+law of copyright” for liability based only “on the fact that
+[the defendant] has sold equipment with constructive
+knowledge of the fact that its customers may use that
+equipment to make unauthorized copies of copyrighted mate-
+rial.” 464 U. S., at 439. And, in Grokster, the Court con-
+firmed that “a court would be unable to find contributory
+infringement liability merely based on a failure to take af-
+frmative steps to prevent infringement.” 545 U. S., at 939,
+n. 12.
+III
+Thus, Cox is not contributorily liable for the infringement
+of Sony's copyrights. Cox provided Internet service to its
+subscribers, but it did not intend for that service to be used
+to commit copyright infringement. Holding Cox liable
+merely for failing to terminate Internet service to infringing
+accounts would expand secondary copyright liability beyond
+our precedents.
+Cox neither induced its users' infringement nor provided
+a service tailored to infringement. As for inducement, Cox
+did not “induce” or “encourage” its subscribers to infringe
+in any manner. Id., at 930. Sony provided no “evidence of
+express promotion, marketing, and intent to promote” in-
+fringement. Id., at 926. And, Cox repeatedly discouraged
+copyright infringement by sending warnings, suspending
+services, and terminating accounts. As for providing a
+service tailored to infringement, Cox's Internet service was
+clearly “capable of `substantial' or `commercially signifcant'
+noninfringing uses.” Id., at 942 (Ginsburg, J., concurring).
+Cox did not tailor its service to make copyright in -
+fringement easier. Cox simply provided Internet access,
+which is used for many purposes other than copyright
+infringement.
+The Fourth Circuit found otherwise based only on its Cir-
+cuit precedent establishing a new form of contributory liabil-
+ity. The court did not suggest that Cox induced its users to
+infringe. 93 F. 4th, at 235, n. 4. And, it did not deny that
+Cox's service was “capable of substantial lawful use and not
+designed to promote infringement.” Id., at 236. Rather,
+the court held that “supplying a product with knowledge that
+the recipient will use it to infringe copyrights is . . . sufficient
+for contributory infringement.” Ibid.; see also BMG, 881
+F. 3d, at 311–312. The Fourth Circuit's holding thus went
+beyond the two forms of liability recognized in Grokster and
+Sony. It also conficted with this Court's repeated admoni-

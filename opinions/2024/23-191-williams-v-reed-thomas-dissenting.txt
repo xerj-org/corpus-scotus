@@ -1,0 +1,445 @@
+Williams v. Reed — No. 23-191 — October Term 2024 — decided 2/21/25 — Thomas, J., dissenting
+Citation: 604 U.S. 168
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r11_2b8e.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+not apply an administrative-exhaustion requirement to their
+claims challenging delays in the administrative process.
+Reply Brief for Appellant in Johnson v. Washington, No.
+SC–2022–0897 (Ala. Sup. Ct.), pp. 16–17.
+The dissent further says that our opinion may have “ripple
+effects.” Post, at 190. But as we have emphasized, our
+opinion today is narrow; it resolves this dispute but is care-
+ful not to go beyond this Court's existing precedents. See
+n. 2, supra.
+* * *
+The Alabama Supreme Court interpreted the State's
+administrative-exhaustion requirement for unemployment
+benefits claims to in effect immunize the Alabama Secretary
+of Labor from § 1983 due process suits alleging that the De-
+partment has unlawfully delayed in processing benefits
+claims. By affording immunity from those claims, the Ala-
+bama ruling contravenes this Court's § 1983 precedents. We
+therefore reverse the judgment of the Alabama Supreme
+Court and remand the case for further proceedings not in-
+consistent with this opinion.
+It is so ordered.
+Justice Thomas, with whom Justice Alito , Justice
+Gorsuch , and Justice Barrett join as to Part II,
+dissenting.
+Alabama law requires claimants seeking unemployment
+benefits to exhaust their administrative remedies before
+suing over those benefits in state court. Petitioners, the
+claimants here, failed to complete that process before they
+sued under Rev. Stat. § 1979, 42 U. S. C. § 1983. The Ala-
+bama Supreme Court accordingly held that it lacked jurisdic-
+tion over the suit. That holding was plainly permissible.
+As a matter of first principles, States have unfettered discre-
+tion over whether to provide a forum for § 1983 claims in
+their courts. And, Alabama's exhaustion rule does not
+transgress the limitations that our precedents have recog-
+nized. The Court concludes otherwise by endorsing an as-
+applied theory of futility that is both forfeited and meritless,
+moving our jurisprudence even further off course. I re-
+spectfully dissent.
+I
+This case is straightforward under first principles. Our
+federal system gives States “plenary authority to decide
+whether their local courts will have subject-matter jurisdic-
+tion over federal causes of action.” Haywood v. Drown, 556
+U. S. 729, 743 (2009) (Thomas, J., dissenting). The Constitu-
+tion allows States to hear federal claims in their courts, but
+it does “not impose a duty on state courts to do so.” Id., at
+747. Thus, “[o]nce a State exercises its sovereign preroga-
+tive to deprive its courts of subject-matter jurisdiction over
+a federal cause of action, it is the end of the matter as far as
+the Constitution is concerned.” Id., at 749.
+The only potential constraint that the Constitution places
+on a State's jurisdictional discretion is the possibility that a
+federal statute may preempt state law. The Supremacy
+Clause makes the “Constitution, and the Laws of the United
+States which shall be made in Pursuance thereof . . . the
+supreme Law of the Land.” Art. VI, cl. 2. Accordingly,
+“[f]ederal law must prevail when Congress validly enacts a
+statute that expressly supersedes state law, or when the
+state law conflicts with a federal statute.” Haywood, 556
+U. S., at 764 (Thomas, J., dissenting) (citations omitted).
+This preemption rule raises the “difficult question” whether
+Congress can “require state courts to entertain a federal
+cause of action.” Ibid., n. 8.
+We need not answer that question here because § 1983
+does not raise any preemption issue. By its text, the provi-
+sion does not “command” States to provide a forum for § 1983
+plaintiffs. Id., at 765. Instead, it merely “addresses who
+may sue and be sued for violations of federal law.” Ibid.;
+see § 1983 (deeming “liable” state officials who deny “any citi-
+zen of the United States or other person within the jurisdic-
+tion thereof . . . any rights, privileges, or immunities secured
+by the Constitution and laws”). Nor does Alabama's ex-
+haustion bar, which regulates state-court litigation, create
+any implicit conflict with § 1983. Plaintiffs who do not ex-
+haust state remedies are always free to bring their claims in
+a federal forum. Id., at 766; see also Felder v. Casey, 487
+U. S. 131, 160 (1988) (O'Connor, J., dissenting) (“Every
+[§ 1983] plaintiff has the option of proceeding in federal court,
+and the [state] statute has not the slightest effect on that
+right”). Preemption analysis requires nothing further.
+This Court's precedents err to the extent they recognize a
+broader form of conflict preemption for “state-court proce-
+dural rules that are perceived to `burde[n] the exercise of the
+federal right' in state court.” Haywood, 556 U. S., at 766
+(Thomas, J., dissenting) (quoting Felder, 487 U. S., at 141).
+This form of conflict preemption targets state-law rules that
+constitute an obstacle to the “goals” embodied in federal law.
+Id., at 138. But, only federal law itself can support pre-
+emption under the Supremacy Clause. Extratextual specu-
+lation about Congress's purposes cannot. See Wyeth v. Le-
+vine, 555 U. S. 555, 603–604 (2009) (Thomas, J., concurring
+in judgment).
+Our precedents also err in establishing the requirement at
+issue here—that state jurisdictional rules be “neutral,” even
+in the absence of a directly conflicting federal law. See in-
+fra, at 183. The Supremacy Clause does not of its own force
+“constrai[n] the States' authority to define the subject-matter
+jurisdiction of their own courts.” Haywood, 556 U. S., at 750
+(Thomas, J., dissenting). Rather, in making the Constitu-
+tion and federal law supreme, “it provides only a rule of deci-
+sion that the state court must follow if it adjudicates the
+claim.” Id., at 751. I would therefore disregard our fur-
+ther limitation as “demonstrably erroneous.” See Gamble
+v. United States, 587 U. S. 678, 717–718 (2019) (Thomas, J.,
+concurring).*
+*Petitioners' suit implicates other precedents that may not withstand
+scrutiny. I doubt that petitioners have a true due process interest in
+“mere Government benefits and entitlements.” Axon Enterprise, Inc. v.
+Taken together, this case should begin and end with Ala-
+bama's plenary authority to decide which federal matters its
+state courts will have subject-matter jurisdiction to hear.
+Alabama exercised that authority to create an exhaustion
+requirement, and we should respect its decision.
+II
+This Court should affirm even under existing precedents.
+Alabama's exhaustion requirement does not run afoul of the
+limitations that this Court has identified on a State's author-
+ity to restrict federal causes of action from proceeding in
+state court. Petitioners misread our precedents in arguing
+otherwise, and the majority's theory likewise cannot pass
+muster.
+A
+Although this Court has held that there are limits on a
+State's discretion in regulating state-court jurisdiction over
+federal causes of action, our precedents emphasize that state
+authority predominates. “The general rule `bottomed
+deeply in belief in the importance of state control of state
+FTC, 598 U. S. 175, 201, n. 3 (2023) (Thomas, J., concurring). Tellingly,
+the Court's original expansion of the Due Process Clause into this context
+came without meaningful legal analysis. The Court simply highlighted
+the social importance of “entitlements,” which had come to make up
+“[m]uch of the existing wealth in this country,” and which only the poor
+had been theretofore unable to effectively enforce. See Goldberg v. Kelly,
+397 U. S. 254, 262, and n. 8 (1970) (citing C. Reich, Individual Rights and
+Social Welfare: The Emerging Legal Issues, 74 Yale L. J. 1245, 1255 (1965);
+C. Reich, The New Property, 73 Yale L. J. 733 (1964)). As Justice Black
+recognized at the time, it “strains credulity” as a textual matter “to say
+that the government's promise of charity to an individual is property”
+protected by the Fourteenth Amendment. 397 U. S., at 275 (dissenting
+opinion). Moreover, further examination may be required as to whether
+§ 1983 can provide petitioners a cause of action in any event. Cf. T. Lind-
+ley, Anachronistic Readings of Section 1983, 75 Ala. L. Rev. 897, 900–901
+(2024) (contending that, as originally understood, § 1983 did not provide a
+freestanding cause of action).
+judicial procedure, is that federal law takes the state courts
+as it finds them.' ” Howlett v. Rose, 496 U. S. 356, 372 (1990)
+(quoting H. Hart, The Relations Between State and Federal
+Law, 54 Colum. L. Rev. 489, 508 (1954)). Each State thus
+has “great latitude to establish the structure and jurisdiction
+of [its] own courts.” Howlett, 496 U. S., at 372. This lati-
+tude allows States to decide which federal claims their courts
+can hear. Ibid.
+As relevant here, our precedents establish that States
+must exercise this jurisdictional latitude only through “neu-
+tral” rules that do not embody any “policy disagree-
+ment” with federal law. Haywood, 556 U. S., at 735–737.
+Based on this principle, we have identified two narrow
+exceptions to a State's ordinary discretion. First, a State
+may not refuse to hear a federal claim “solely because [it]
+is brought under a federal law.” McKnett v. St. Louis &
+San Francisco R. Co., 292 U. S. 230, 233–234 (1934). Second,
+a State may not deprive its courts of jurisdiction over a
+“disfavored” federal claim, even if it simultaneously denies
+jurisdiction to an “identical state claim,” where doing so
+would “undermine federal law.” Haywood, 556 U. S., at
+737–739.
+For good reason, no one suggests that the first exception
+applies. Alabama's exhaustion requirement by its terms
+does “not discriminate against rights arising under federal
+laws.” See McKnett, 292 U. S., at 234. Instead, it imposes
+a generally applicable exhaustion process “for the making
+of determinations with respect to claims for unemployment
+compensation benefits.” Ala. Code § 25–4–96 (2016). State
+and federal claims regarding unemployment benefits are
+equally subject to this process, including as to “procedural”
+challenges like the one here. Johnson v. Washington, 387
+So. 3d 138, 143 (Ala. 2023).
+The second exception does not apply either. Alabama's
+exhaustion requirement is nothing like the statute in Hay-
+wood that this Court viewed as “disfavor[ing]” federal law.
+556 U. S., at 738. That statute deprived New York courts
+of jurisdiction over “damages suits fled by prisoners against
+state correction officers,” based on the State's belief that
+they were “by and large frivolous and vexatious.” Id., at
+733 (discussing N. Y . Correc. Law Ann. § 24 (West 1987)).
+This Court deemed New York's rule “effectively an immu-
+nity statute cloaked in jurisdictional garb,” which protected
+correction officers from a subset of disfavored § 1983 claims
+even as New York courts continued to hear most § 1983
+actions. 556 U. S., at 741–742. According to the Hay-
+wood majority, that policy-driven denial could not be squared
+with the supremacy of § 1983's countervailing policy. Id.,
+at 740.
+Alabama's decision to create an exhaustion requirement
+for all unemployment-benefts-related claims does not em-
+body any comparable policy judgment. Rather, this re-
+quirement, which has existed since 1939, is an ordinary juris-
+dictional rule reflecting the Alabama Department of Labor's
+comparative “competence over the subject matter” of un-
+employment benefits. Howlett, 496 U. S., at 381; see 1939
+Ala. Acts no. 497, pp. 737–741. The exhaustion process
+serves all the useful functions that this Court has recognized:
+It allows the agency with subject-matter expertise to retain
+primary responsibility over the area; it avoids unnecessary
+litigation; and it creates a record in case judicial review is
+necessary. McCarthy v. Madigan, 503 U. S. 140, 145 (1992).
+In short, Alabama's exhaustion requirement is a procedural
+step that “promotes judicial efficiency,” ibid., in contrast to
+the statute in Haywood, which created a de facto “immunity”
+shielding a class of claims from judicial review, 556 U. S., at
+742. We have no authority to interfere with Alabama's
+choice.
+B
+Petitioners try to evade Alabama's exhaustion require-
+ment by arguing for a different exception. On their view,
+our decisions in Patsy v. Board of Regents of Fla., 457 U. S.
+496 (1982), and Felder establish that States are categorically
+precluded from imposing exhaustion requirements in the
+§ 1983 context. But, petitioners badly misread both
+decisions.
+Patsy addressed whether federal courts can impose an ex-
+haustion requirement for § 1983 cases in the absence of a con-
+gressional directive to do so. See 457 U. S., at 501. The
+Court held that they cannot, reasoning that federal courts
+may create exhaustion requirements only where doing so is
+consistent with congressional intent, because “Congress is
+vested with the power to prescribe the basic procedural
+scheme under which claims may be heard in federal courts.”
+Id., at 501–502, 516. That analysis has no relevance to the
+question here: whether States have authority “to establish
+the structure and jurisdiction of their own courts.” How-
+lett, 496 U. S., at 372.
+Felder too is inapposite. That decision held that § 1983
+preempted a Wisconsin notice-of-claim statute that effec-
+tively altered the scope of § 1983 liability on the merits. See
+487 U. S., at 153. That is, the statute subjected state-court
+plaintiffs to a dismissal with prejudice if they did not first
+submit their claims against the State or its officers to the
+government for an advance merits determination. Id., at
+136–137, and n. 2; see Haywood, 556 U. S., at 773–774, n. 11
+(Thomas, J., dissenting). Failure to exhaust under that
+statute operated as a state-created merits defense to § 1983
+liability. But, the impermissibility of such a merits defense
+says nothing about a State's discretion to create true juris-
+dictional rules, which speak only to the judiciary's “ `power' ”
+to “ `proceed at all.' ” Steel Co. v. Citizens for Better Envi-
+ronment, 523 U. S. 83, 94 (1998) (quoting Ex parte McCardle,
+7 Wall. 506, 514 (1869)).
+Felder would remain inapposite even if it had involved a
+purportedly jurisdictional rule compelling dismissal without
+prejudice. In that event, the Wisconsin statute would sim-
+ply have raised the problem that this Court later confronted
+in Haywood, where the State singled out a “disfavored” cate-
+gory of claims for second-class treatment. 556 U. S., at 738.
+The notice-of-claim statute in Felder existed to “further the
+State's interest in minimizing liability and the expenses asso-
+ciated with it.” 487 U. S., at 143. And, although Felder
+noted that the statute “impose[d] an exhaustion require-
+ment,” it treated that fact as one of multiple “interrelated”
+factors that caused the Wisconsin statute to “burden” § 1983
+claimants. Id., at 141, 146. The exhaustion requirement
+was not an independently fatal problem, so Felder's language
+on exhaustion should not be overread. See Cohens v. Vir-
+ginia, 6 Wheat. 264, 399 (1821) (“[G]eneral expressions, in
+every opinion, are to be taken in connection with the case in
+which those expressions are used. If they go beyond the
+case, they may be respected, but ought not to control the
+judgment in a subsequent suit when the very point is pre-
+sented for decision”).
+C
+The majority rules for petitioners on narrower grounds,
+but its holding is equally unpersuasive. The majority does
+not dispute that, as a general matter, Alabama is entitled to
+apply its exhaustion requirement to § 1983 claims. See ante,
+at 174, n. 2. It instead holds that, under Haywood, Alabama's
+discretion cannot extend to the specific claims here, which
+challenge delays in the exhaustion process itself. Ante, at
+173–174. On the majority's view, maintaining the exhaus-
+tion requirement for such claims would mean that petitioners
+will never be able to advance to state court, leaving the State
+essentially “immun[e]” from challenges to its exhaustion
+process. Ante, at 175–176. This theory of futility is both
+forfeited and meritless.
+1
+“[T]his Court has almost unfailingly refused to consider
+any federal-law challenge to a state-court decision unless the
+federal claim `was either addressed by or properly presented
+to the state court that rendered the decision we have been
+asked to review.' ” Howell v. Mississippi, 543 U. S. 440, 443
+(2005) (per curiam ) (quoting Adams v. Robertson, 520 U. S.
+83, 86 (1997) (per curiam )). In fact, the Court's historical
+practice has generally been to treat this preservation re-
+quirement as jurisdictional, although our more recent cases
+have expressed uncertainty on this issue. Howell, 543 U. S.,
+at 445–446. In view of petitioners' preservation obligation,
+we should reject as forfeited their newfound theory of futil-
+ity, which was neither presented nor addressed below.
+Until seeking certiorari, petitioners litigated this case as
+a facial challenge, arguing solely that § 1983 “categorically”
+preempted States from applying exhaustion requirements in
+the § 1983 context. Reply Brief for Appellant in Johnson v.
+Washington, No. SC–2022–0897 (Ala. Sup. Ct.), p. 16. The
+Alabama Supreme Court accordingly understood that this
+facial challenge was petitioners' “only” argument for federal
+preemption. 387 So. 3d, at 143–144. Petitioners belatedly
+contend that they also raised a futility-based argument, but
+the briefing they cite merely addressed how the futility of
+waiting for exhaustion affected the proper timing of their
+facial challenge. See Reply Brief 24, n. 3 (citing Reply Brief
+for Appellant in No. SC–2022–0897, at 16–17).
+Because petitioners raised only a facial challenge below,
+they cannot press an as-applied challenge here. “[F]acial”
+and “as-applied” claims are distinct and must be individually
+preserved. See United States v. Stevens, 559 U. S. 460, 473,
+n. 3 (2010); see also, e.g., Moody v. NetChoice, LLC, 603 U. S.
+707, 723 (2024) (“NetChoice chose to litigate these cases as
+facial challenges, and that decision comes at a cost”). So,
+petitioners cannot now argue that Alabama's exhaustion re-
+quirement is impermissible in the specific circumstance
+where exhaustion would be futile.
+There is no reason to treat this case as the “very rare
+exceptio[n]” in which petitioners' forfeiture might be over-
+looked. Adams, 520 U. S., at 86 (internal quotation marks
+omitted). The majority, which ignores that petitioners
+needed to raise their as-applied objection specifically, cer-
+tainly provides no justification. See ante, at 178–179. In-
+stead, its analysis only highlights why we should not decide
+petitioners' as-applied challenge in the first instance.
+The majority's futility theory depends on the assumption
+that petitioners will never have their day in court if we leave
+Alabama's exhaustion requirement intact. See ante, at 175–
+176. But, petitioners' failure to raise their as-applied claim
+below means that we have no way of knowing whether this
+assumption is true. It may be the case that the exhaustion
+requirement here contains an implicit futility exception. Cf.
+Graysville v. Glenn, 46 So. 3d 925, 929 (Ala. 2010) (identify-
+ing futility as a “recognized exceptio[n]” to the “exhaustion-
+of-administrative-remedies doctrine” generally). Or, it may
+be the case that petitioners may obtain mandamus relief, as
+the dissent below suggested and the State underscored.
+See 387 So. 3d, at 146 (Cook, J., dissenting); Tr. of Oral Arg.
+54–56. As a federal court assessing petitioners' objection in
+the first instance, we have no way to assess the viability of
+these or any other mechanisms.
+The majority's attempts to disregard this uncertainty are
+unpersuasive. The majority concludes that the uncertainty
+should count against the State, and expresses doubt about
+the availability of mandamus based on the Alabama Supreme
+Court's failure to address that form of relief. Ante, at 177–
+178. But, that court had no reason to opine on the alterna-
+tive pathways available to petitioners, given that petitioners
+failed to raise an as-applied challenge. We should not re-
+ward petitioners for their own mistake. Likewise, the ma-
+jority's assertion that mandamus would be irrelevant even if
+it were available is puzzling. Ante, at 178. If petitioners
+can secure completion of the exhaustion process through
+mandamus, then by definition they will not be in a “catch-
+22” that “prevents [them] from obtaining a merits resolution
+of their § 1983 claims in state court.” Ante, at 176.
+2
+In any event, petitioners' as-applied challenge fails on the
+merits. Unlike the New York statute in Haywood, Ala-
+bama's exhaustion requirement is not “ `an immunity statute
+cloaked in jurisdictional garb.' ” Contra, ante, at 177 (quot-
+ing Haywood, 556 U. S., at 742).
+Properly understood, Haywood directs our focus to the
+challenged statute's purpose. The Court there viewed the
+New York statute as an immunity statute because it was
+“designed to shield” correction officers from damages claims
+brought by prisoners, “[b]ased on the belief” that these
+claims tended to be “frivolous and vexatious.” Id., at 741–
+742. In other words, States cannot implicitly reject the su-
+premacy of federal law by basing a jurisdictional limitation—
+even one that also applies to state claims—on “policy
+disagreement” with federal law. Id., at 737–738.
+A focus on statutory purpose makes clear that Alabama's
+exhaustion requirement raises no Haywood problem. There
+is no credible argument that Alabama adopted its exhaustion
+requirement in order to defeat challenges to the exhaustion
+process itself. Alabama created its exhaustion scheme in
+1939, decades before the understanding that public benefits
+give rise to a due process interest emerged. See supra, at
+181–182, n. And, the Alabama exhaustion process is by all
+accounts an ordinary exhaustion requirement common
+among public-benefts schemes, which in the mine-run case
+serves to facilitate the adjudication of benefits determina-
+tions on the merits. There is no reason to think that Ala-
+bama intended to cause mischief in the rare context of a
+§ 1983 challenge to its procedures.
+At most, this case presents a circumstance in which Ala-
+bama's “neutral jurisdictional rule” has the effect of defeat-
+ing a federal claim. See Haywood, 556 U. S., at 735. But,
+again, our precedents disallow a State's jurisdictional rule
+only if it is in fact not “neutral”—that is, if it is “based on a
+policy disagreement,” and so is intended to “shut the court-
+house door to federal claims that it considers at odds with
+its local policy.” Id., at 737–738, 740.
+The majority's contrary conclusion misunderstands Hay-
+wood. Ignoring that decision's purpose-focused language,
+the majority asserts that it disallows any state rule that “op-
+erates as an `immunity statute' . . . by wholly barring a `par-
+ticular species' of § 1983 suits in state court.” Ante, at 178
+(quoting 556 U. S., at 739, 742). But, in context, that quoted
+language only reinforces the majority's error. Those lines
+in Haywood reiterate that what mattered there was New
+York's illicit purpose: A State may not “dee[m]” “a particular
+species of suits . . . inappropriate for its trial courts.” Id., at
+739–740. Nor may a State effectively create an “immunity
+statute” “[b]ased on the belief that [certain claims] are frivo-
+lous and vexatious.” Id., at 742. Nothing in Haywood sug-
+gests that a state rule could be impermissible just because it
+has the incidental effect of disallowing certain federal claims.
+The majority also does not grapple with the possible ripple
+effects of its reading of Haywood. It professes only that its
+opinion is “narrow” and does nothing more than “resolv[e]
+this dispute.” Ante, at 179. But, the majority's protesta-
+tions do not make it so.
+A constraint based on incidental effects is notably more
+amorphous than our prior focus on statutory purpose. After
+all, to the extent the Supremacy Clause bars States from
+enacting nominally jurisdictional rules that “registe[r their]
+dissent” from federal policy, States may craft their laws with
+an eye toward avoiding conflict. Haywood, 556 U. S., at 737–
+738. But, the same is not true for incidental effects. No
+statute can be perfectly drafted to anticipate every applica-
+tion that ultimately arises, so it is inevitable that exhaustion
+requirements will occasionally slow or defeat claims that we
+might think, as a policy matter, ought to go forward. That
+happenstance is not a reason for suspicion, just as we do not
+malign the many federal statutes with similarly categorical
+exhaustion requirements. See, e. g., Booth v. Churner, 532
+U. S. 731, 733–734 (2001) (applying the Prison Litigation Re-
+form Act's exhaustion requirement even where the exhaus-
+tion process could not provide the prisoner's requested re-
+lief). Here too, the Court should not encroach on Alabama's
+“latitude to establish the structure and jurisdiction of [its]
+own courts.” Howlett, 496 U. S., at 372.
+III
+The Court's decision is irreconcilable with both first princi-
+ples and precedent. I respectfully dissent.

@@ -1,0 +1,187 @@
+Zorn v. Linton — No. 25-297 — October Term 2025 — decided 3/23/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 607 U.S. 568
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r21_2bo2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tablished law. Rivas-Villegas v. Cortesluna, 595 U. S. 1, 5 (per cu-
+riam). To find that a right is clearly established, courts generally
+“need to identify a case where an officer acting under similar circum-
+stances . . . was held to have violated” the Constitution. Escondido v.
+Emmons, 586 U. S. 38, 43 (per curiam ) (internal quotation marks omit-
+ted). The relevant precedent must define the right with a “high degree
+of specifcity,” so that “every reasonable official would interpret it to
+establish the particular rule the plaintiff seeks to apply.” District of
+Columbia v. Wesby, 583 U. S. 48, 63 (internal quotation marks omitted).
+Amnesty America—the precedent relied upon by the Second Circuit—
+did not clearly establish that Zorn's specific conduct violated the Fourth
+Amendment. Amnesty America involved a wide range of allegations
+of excessive force by police with no indication that the officers gave the
+protesters any warning that they would use such force. 361 F. 3d, at
+123. Reasonable officials would not “interpret [ Amnesty America ] to
+establish” that using a routine wristlock to move a resistant protester
+after warning her, without more, violates the Constitution. Wesby, 583
+U. S., at 63. The Second Circuit concluded otherwise by reading Am-
+nesty America to establish the general principle “that the gratuitous
+use of pain compliance techniques—such as a rear-wristlock—on a pro-
+testor who is passively resisting arrest constitutes excessive force.”
+135 F. 4th 19, 35. But that principle, even assuming Amnesty America
+established it, lacks the “high degree of specifcity” needed to make it
+“clear” to officers which actions violate the law. Wesby, 583 U. S., at
+63 (internal quotation marks omitted). It does not “obviously resolve”
+whether using a rear wristlock to move a noncompliant protester after
+repeated warnings violates the Fourth Amendment, id., at 64, as it fails
+to specify which circumstances make the use of force “gratuitous.” Ac-
+cordingly, Zorn was entitled to qualified immunity.
+135 F. 4th 19, certiorari granted, judgment reversed.
+Per Curiam.
+On the Governor's inauguration day in Vermont, protest-
+ers staged a sit-in at the state capitol. When the capitol
+closed for the day, police officers told them that they would
+be arrested for trespassing. They refused to leave. As of-
+ficers removed the protesters one by one, Sergeant Jacob
+Zorn asked Shela Linton to stand up and warned her that he
+would eventually have to use force to remove her. She re-
+fused to stand. Zorn took Linton's arm, put it behind her
+back, placed pressure on her wrist, and lifted her to her feet.
+Linton sued Zorn for using excessive force, claiming that the
+arrest left her with arm injuries and psychological disorders.
+The Second Circuit held that Zorn was not entitled to quali-
+fed immunity. We reverse.
+I
+On January 8, 2015, Vermont hosted the inauguration for
+Governor Peter Shumlin in the capitol. 1 About 200 protest-
+ers attended, and some of them staged a sit-in to demand
+universal healthcare. Shela Linton joined them. She
+planned to refuse to leave and anticipated being forcibly re-
+moved. “That's the point of the sit-in part of the protest,”
+she later explained. Deposition of S. Linton in No. 5:18–cv–
+5 (D Vt., June 3, 2022), ECF Doc. 74–4, p. 127.
+When the capitol closed to the public for the night, 29 pro-
+testers remained in the legislative chamber, sitting on the
+floor with their arms linked. At that point, police officers
+explained that they would arrest the protesters for trespass
+if they did not leave. The officers dealt with them one at a
+time; some stood up and were escorted out of the chamber
+without force, but others refused to stand and had to be
+lifted to their feet or dragged out.
+After removing more than a dozen protesters, the officers
+turned to Linton. Sergeant Jacob Zorn crouched down to
+speak with her, but she remained seated with her arms inter-
+locked with those of her fellow protesters. As Linton pas-
+sively resisted, Zorn unlinked her arm from another protest-
+er's, put it behind her back in a rear wristlock, and twisted
+her arm. 2 Linton exclaimed “ `ow, ow, ow,' ” while Zorn re-
+1 Because this case comes here on Zorn's motion for summary judgment,
+we view the facts in the light most favorable to the nonmoving party,
+Linton. City and County of San Francisco v. Sheehan, 575 U. S. 600,
+603 (2015).
+2 A rear wristlock is a technique that officers use to gain control over a
+resistant person by gripping his wrist, placing it behind his back,
+and bending it backward. See Dept. of Justice, Use of Force by Police:
+Overview of National and Local Data 49 (Oct. 1999) (summarizing data
+peatedly implored her to “ `please stand up.' ” App. to Pet.
+for Cert. 47–48. After Linton responded, “ `I will not stand
+up,' ” Zorn told her that he would ask “ `one more time' ” and
+then would use more pain compliance. Id., at 48. Linton
+refused, so Zorn placed pressure on her wrist and lifted her
+up by her underarm. Linton yelled as she stood up. Once
+on her feet, Linton continued to jerk her arms and fell back
+to the floor. Zorn asked her to stand up again, and when
+she did not, three officers picked her up by her arms and legs
+and carried her outside. Linton alleged resulting physical
+and psychological injuries including post-traumatic stress
+disorder.
+Linton sued Zorn under Rev. Stat. § 1979, 42 U. S. C.
+§ 1983, claiming that Zorn violated her Fourth Amendment
+right against excessive use of force. The District Court
+granted summary judgment for Zorn after concluding that
+he was entitled to qualified immunity. The District Court
+reasoned that it was not clearly established at the time of the
+encounter that, in these circumstances, lifting Linton while
+putting pressure on her wrist violated the Fourth
+Amendment.
+The Second Circuit reversed. It held that its decision in
+Amnesty America v. West Hartford, 361 F. 3d 113 (2004),
+clearly established that the “gratuitous” use of a rear wrist-
+lock on a protester passively resisting arrest constitutes ex-
+cessive force. 135 F. 4th 19, 35 (2025). It remanded for a
+jury trial against Zorn. Judge Cabranes dissented. “The
+case before us is not an exceptional case,” Judge Cabranes
+reasoned, but “a routine arrest and removal.” Id., at 41.
+II
+Government officials enjoy qualified immunity from suit
+under § 1983 unless their conduct violates clearly established
+law. Rivas-Villegas v. Cortesluna, 595 U. S. 1, 5 (2021) (per
+showing that “[w]hen the suspects used slight resistance, most incidents
+involved officer use of verbal commands, handcuffng, or wrist/arm locks”).
+curiam). “A right is clearly established when it is `suffi-
+ciently clear that every reasonable official would have under-
+stood that what he is doing violates that right.' ” Ibid. A
+right is not clearly established if existing precedent does not
+place the constitutional question “ `beyond debate.' ” Ibid.
+To find that a right is clearly established, courts generally
+“need to identify a case where an officer acting under similar
+circumstances . . . was held to have violated” the Constitu-
+tion. Escondido v. Emmons, 586 U. S. 38, 43 (2019) (per cu-
+riam) (internal quotation marks omitted). The relevant
+precedent must define the right with a “high degree of speci-
+fcity,” so that “every reasonable official would interpret it
+to establish the particular rule the plaintiff seeks to apply.”
+District of Columbia v. Wesby, 583 U. S. 48, 63 (2018) (inter-
+nal quotation marks omitted). Principles stated generally,
+such as that “an officer may not use unreasonable and exces-
+sive force,” do not suffice. Kisela v. Hughes, 584 U. S. 100,
+105 (2018) (per curiam ). In short, officers receive qualified
+immunity unless they could have “read” the relevant prece-
+dent beforehand and “know[n]” that it proscribed their
+specific conduct. City and County of San Francisco v.
+Sheehan, 575 U. S. 600, 616 (2015).
+The Second Circuit contravened these principles. Am-
+nesty America did not clearly establish that Zorn's specific
+conduct violated the Fourth Amendment. 3 Whether any
+particular use of force violates the Fourth Amendment de-
+pends on “the facts and circumstances of each particular
+case,” Graham v. Connor, 490 U. S. 386, 396 (1989), including
+whether the officer gave “warnings” before using force,
+Barnes v. Felix, 605 U. S. 73, 80 (2025). In Amnesty
+America, the court considered a wide range of allegations of
+excessive force. The officers rammed a protester's head into
+a wall, dragged another protester across the ground, and
+3 We assume without deciding that “controlling Circuit precedent” can
+clearly establish law for qualified-immunity purposes. Rivas-Villegas v.
+Cortesluna, 595 U. S. 1, 5 (2021) (per curiam ).
+used rear wristlocks on two more protesters to lift them up
+before throwing one of them to the ground. 361 F. 3d, at
+123. Nothing indicated that the officers gave the protesters
+any warning that they would use such force.
+Amnesty America did not hold that any of those actions
+violated the Fourth Amendment, let alone all of them. In-
+stead, it remanded for a jury trial because, while a “reason-
+able jury could . . . find that the officers gratuitously inflicted
+pain,” it was also “entirely possible that a reasonable jury
+would find . . . that the police officers' use of force was objec-
+tively reasonable given the circumstances.” Id., at 124 (em-
+phasis added). Relevant here, Amnesty America even
+relied on a decision approving the practice of warning
+protesters and then using wristlocks to move them. Ibid.
+(citing Forrester v. San Diego , 25 F. 3d 804, 807–808 (CA9
+1994)).
+Reasonable officials would not “interpret [ Amnesty
+America] to establish” that using a routine wristlock to move
+a resistant protester after warning her, without more, vio-
+lates the Constitution. Wesby, 583 U. S., at 63; see Sheehan,
+575 U. S., at 615–616. Zorn repeatedly warned Linton that
+he would have to use more force if she did not stand up, and
+when she did not do so, he used a wristlock to bring Linton
+to her feet. See App. to Pet. for Cert. 47–49. Amnesty
+America never “held” that such conduct alone “violated” the
+Fourth Amendment. Emmons, 586 U. S., at 43 (internal
+quotation marks omitted). If anything, it implied the oppo-
+site. See Amnesty America, 361 F. 3d, at 124 (citing Forres-
+ter, 25 F. 3d, at 807–808). And its statement that officers
+who had engaged in a wide range of aggressive conduct may
+have used excessive force did not “put [Zorn] on notice that
+his specific conduct was unlawful.” Rivas-Villegas, 595
+U. S., at 6.
+The Second Circuit concluded otherwise by reading Am-
+nesty America to establish the general principle “that the
+gratuitous use of pain compliance techniques—such as a rear-

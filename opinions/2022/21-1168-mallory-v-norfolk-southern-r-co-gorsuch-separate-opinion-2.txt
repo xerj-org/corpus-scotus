@@ -1,0 +1,363 @@
+Mallory v. Norfolk Southern R. Co — No. 21-1168 — October Term 2022 — decided 6/27/23 — Opinion of Gorsuch, J.
+Citation: 600 U.S. 122
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r52_7l48.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+acknowledge that the state law and facts before us fall
+squarely within Pennsylvania Fire's rule. See post, at 150–
+153 (opinion of Alito, J.).
+In the proceedings below, the Pennsylvania Supreme
+Court seemed to recognize that Pennsylvania Fire dictated
+an answer in Mr. Mallory's favor. Still, it ruled for Norfolk
+Southern anyway. It did so because, in its view, intervening
+decisions from this Court had “implicitly overruled” Penn-
+sylvania Fire . See 266 A. 3d, at 559, 567. But in following
+that course, the Pennsylvania Supreme Court clearly erred.
+As this Court has explained: “If a precedent of this Court
+has direct application in a case,” as Pennsylvania Fire does
+here, a lower court “should follow the case which directly
+controls, leaving to this Court the prerogative of overruling
+its own decisions.” Rodriguez de Quijas v. Shearson/Amer-
+ican Express, Inc., 490 U. S. 477, 484 (1989). This is true
+even if the lower court thinks the precedent is in tension
+with “some other line of decisions.” Ibid.5
+IV
+Now before us, Norfolk Southern candidly asks us to do
+what the Pennsylvania Supreme Court could not—overrule
+5 The dissent stresses that Pennsylvania's statute does not use the word
+“consent” in describing the jurisdictional consequences of registration.
+When the dissent finally comes around to addressing Pennsylvania Fire
+at the end of its opinion, it feetingly seeks to distinguish the decision
+along the same lines—stressing that words like “agent” and “jurisdiction”
+do not appear “in Norfolk Southern's registration paperwork.” Post, at
+167, 179, and n. 8. But, as the dissent itself elsewhere acknowledges, “ `[a]
+variety of legal arrangements have been taken to represent express or
+implied consent to' ” personal jurisdiction consistent with due process.
+Post, at 167. And neither Pennsylvania Fire , nor our later decisions
+applying it, nor our precedents approving other forms of consent to per-
+sonal jurisdiction have ever imposed some sort of “magic words” require-
+ment. See infra, at 145–146; Pennsylvania Fire , 243 U. S., at 95; Neirbo
+Co., 308 U. S., at 175.
+Pennsylvania Fire . Brief for Respondent 36–38. To
+smooth the way, Norfolk Southern suggests that this Court's
+decision in International Shoe Co. v. Washington, 326 U. S.
+310 (1945), has already done much of the hard work for us.
+That decision, the company insists, seriously undermined
+Pennsylvania Fire's foundations. Brief for Respondent 34–
+36. We disagree. The two precedents sit comfortably side
+by side. See post, at 152–153 (opinion of Alito, J.).
+A
+Start with how Norfolk Southern sees things. On the
+company's telling, echoed by the dissent, International Shoe
+held that the Due Process Clause tolerates two (and only
+two) types of personal jurisdiction over a corporate defend-
+ant. First, “specific jurisdiction” permits suits that “ `arise
+out of or relate to' ” a corporate defendant's activities in the
+forum State. Ford Motor Co., 592 U. S., at ––– – –––. Sec-
+ond, “general jurisdiction” allows all kinds of suits against
+a corporation, but only in States where the corporation is
+incorporated or has its “principal place of business.” Id.,
+at –––. After International Shoe , Norfolk Southern insists,
+no other bases for personal jurisdiction over a corporate de-
+fendant are permissible. Brief for Respondent 13–15; see
+post, at 164–166 (Barrett, J., dissenting).
+But if this account might seem a plausible summary of
+some of our International Shoe jurisprudence, it oversimpli-
+fes matters. Here is what really happened in Interna-
+tional Shoe . The State of Washington sued a corporate de-
+fendant in state court for claims based on its in-state
+activities even though the defendant had not registered to
+do business in Washington and had not agreed to be present
+and accept service of process there. 326 U. S., at 312–313.
+Despite this, the Court held that the suit against the com-
+pany comported with due process. In doing so, the Court
+reasoned that the Fourteenth Amendment “permit[s]” suits
+against a corporate defendant that has not agreed to be
+“presen[t] within the territorial jurisdiction of a court,” so
+long as “the quality and nature of the [company's] activity”
+in the State “make it reasonable and just” to maintain suit-
+there. Id., at 316, 319–320. Put simply, even without
+agreeing to be present, the out-of-state corporation was still
+amenable to suit in Washington consistent with “ `fair play
+and substantial justice' ”—terms the Court borrowed from
+Justice Holmes, the author of Pennsylvania Fire . Interna-
+tional Shoe , 326 U. S., at 316 (citing McDonald v. Mabee, 243
+U. S. 90, 91–92 (1917)).
+In reality, then, all International Shoe did was stake out
+an additional road to jurisdiction over out-of-state corpora-
+tions. Pennsylvania Fire held that an out-of-state corpora-
+tion that has consented to in-state suits in order to do busi-
+ness in the forum is susceptible to suit there. International
+Shoe held that an out-of-state corporation that has not con-
+sented to in-state suits may also be susceptible to claims in
+the forum State based on “the quality and nature of [its]
+activity” in the forum. 326 U. S., at 319. Consistent with
+all this, our precedents applying International Shoe have
+long spoken of the decision as asking whether a state court
+may exercise jurisdiction over a corporate defendant “ `that
+has not consented to suit in the forum.' ” Goodyear Dunlop
+Tires Operations, S. A. v. Brown, 564 U. S. 915, 927–928
+(2011) (emphasis added); see also Daimler AG v. Bauman,
+571 U. S. 117, 129 (2014). Our precedents have recog-
+nized, too, that “express or implied consent” can continue to
+ground personal jurisdiction—and consent may be mani-
+fested in various ways by word or deed. See, e. g., Insur-
+ance Corp. of Ireland v. Compagnie des Bauxites de Guinee ,
+456 U. S. 694, 703 (1982); BNSF R. Co. v. Tyrrell, 581 U. S. 402,
+415 (2017). See also post, at 152–153 (opinion of Alito, J.).6
+6 Because International Shoe allowed a suit against a corporation that
+had not registered to do business in the forum State, if it disturbed any-
+thing it was only this Court's decision in Old Wayne , not Pennsylvania
+That Norfolk Southern overreads International Shoe finds
+confirmation in that decision's emphasis on “ `fair play and
+substantial justice.' ” 326 U. S., at 316. Sometimes, Inter-
+national Shoe said, the nature of a company's in-state activi-
+ties will support jurisdiction over a nonconsenting corpora-
+tion when those activities “give rise to the liabilities sued
+on.” Id., at 317. Other times, it added, suits “on causes of
+action arising from dealings entirely distinct from [the com-
+pany's] activities” in the forum State may be appropriate.
+Id., at 318. These passages may have pointed the way to
+what (much) later cases would label “specific jurisdiction”
+over claims related to in-forum activities and “general juris-
+diction” in places where a corporation is incorporated or
+headquartered. See, e. g., Helicopteros Nacionales de Co-
+lombia, S. A. v. Hall, 466 U. S. 408, 414–415, and nn. 8–9
+(1984). But the fact remains that International Shoe itself
+eschewed any “mechanical or quantitative” test and instead
+endorsed a flexible approach focused on “the fair and orderly
+administration of the laws which it was the purpose of
+the due process clause to insure.” 326 U. S., at 319. Un-
+questionably, too, International Shoe saw this flexible stand-
+ard as expanding—not contracting—state court jurisdiction.
+See Daimler, 571 U. S., at 128, and n. 6. As we later put
+the point: “The immediate effect of [International Shoe ] was
+to increase the ability of the state courts to obtain personal
+jurisdiction over nonresident defendants.” Shaffer v. Heit-
+ner, 433 U. S. 186, 204 (1977).
+Given all this, it is no wonder that we have already turned
+aside arguments very much like Norfolk Southern's. In
+Burnham, the defendant contended that International Shoe
+implicitly overruled the traditional tag rule holding that indi-
+viduals physically served in a State are subject to suit there
+for claims of any kind. 495 U. S., at 616 (plurality opinion).
+Fire. See supra, at 133; Perkins v. Benguet Consol. Mining Co., 342 U. S.
+437, 443–444 (1952).
+This Court rejected that submission. Instead, as Justice
+Scalia explained, International Shoe simply provided a
+“novel” way to secure personal jurisdiction that did nothing
+to displace other “traditional ones.” Id., at 619. What held
+true there must hold true here. Indeed, seven years after
+deciding International Shoe , the Court cited Pennsylvania
+Fire approvingly. Perkins v. Benguet Consol. Mining Co.,
+342 U. S. 437, 446, n. 6 (1952). 7
+B
+Norfolk Southern offers several replies, but none per-
+suades. The company begins by pointing to this Court's de-
+cision in Shaffer. There, as the company stresses, the Court
+indicated that “ `prior decisions . . . inconsistent with' ” Inter-
+national Shoe “ `are overruled.' ” Brief for Respondent 35
+(quoting Shaffer, 433 U. S., at 212, n. 39); post, at 177–178
+(opinion of Barrett, J.). True as that statement may be,
+however, it only poses the question whether Pennsylvania
+Fire is “inconsistent with” International Shoe . And, as we
+have seen, it is not. Instead, the latter decision expanded
+upon the traditional grounds of personal jurisdiction recog-
+7 Norfolk Southern and the dissent observe that, today, few States con-
+tinue to employ consent statutes like Pennsylvania's. Brief for Respond-
+ent 22; post, at 172–173, 177, n. 6. Surely, too, some States may see strong
+policy reasons for proceeding differently than Pennsylvania has. See,
+e. g., State ex rel. Am. Central Life Ins. Co. v. Landwehr, 300 S. W. 294,
+297 (1927) (abandoning construction of Missouri law at issue in Pennsylva-
+nia Fire based on “the legislative policy in th[e] state”); cf. Cooper Tire ,
+312 Ga., at 437, 863 S. E. 2d, at 92 (Bethel, J., concurring) (suggesting
+Georgia's consent scheme “creates a disincentive for foreign corporations
+to” do business in-state and conflicts with the State's claim to be
+“ `business-friendly' ”). But the meaning of the Due Process Clause is not
+measured by the latest popularity poll, nor does it come with some desue-
+tude rule against a traditional practice like consent-based jurisdiction long
+held consistent with its demands. See Ownbey v. Morgan, 256 U. S. 94,
+110–111 (1921).
+nized by the former. This Court has previously cautioned
+litigants and lower courts against (mis)reading Shaffer as
+suggesting that International Shoe discarded every tradi-
+tional method for securing personal jurisdiction that came
+before. See Burnham, 495 U. S., at 620–622 (plurality opin-
+ion); cf. Daimler, 571 U. S., at 126, 132–133. We find our-
+selves repeating the admonition today. 8
+Next, Norfolk Southern appeals to the spirit of our age.
+After International Shoe , it says, the “primary concern” of
+the personal jurisdiction analysis is “[t]reating defendants
+fairly.” Brief for Respondent 19 (internal quotation marks
+omitted). And on the company's telling, it would be “unfair”
+to allow Mr. Mallory's suit to proceed in Pennsylvania be-
+cause doing so would risk unleashing “ `local prejudice' ”
+against a company that is “not `local' in the eyes of the com-
+munity.” Id., at 19–21.
+But if fairness is what Norfolk Southern seeks, pause for
+a moment to measure this suit against that standard. When
+Mr. Mallory brought his claim in 2017, Norfolk Southern had
+registered to do business in Pennsylvania for many years.
+It had established an office for receiving service of process.
+It had done so pursuant to a statute that gave the company
+the right to do business in-state in return for agreeing to
+answer any suit against it. And the company had taken full
+advantage of its opportunity to do business in the Common-
+wealth, boasting of its presence this way:
+8 Taking up the Shaffer baton from the company, the dissent insists that
+International Shoe “ `cast . . . aside' ” consent statutes in favor of a mini-
+mum contacts analysis. Post, at 175–176. But, as we have seen, nothing
+in International Shoe purported to address, let alone condemn, consent
+statutes. Even the dissent ultimately acknowledges, as it must, that “ `a
+variety of legal arrangements' ” can signal consent to jurisdiction after
+International Shoe , and these arrangements can include state laws re-
+quiring consent to suit in exchange “for access to [a State's] markets.”
+Post, at 167, 168; see also Neirbo Co., 308 U. S., at 175 (calling this form of
+consent “real consent” (emphasis added)).
+Norfolk Southern Corp., State Fact Sheets–Pennsylvania
+(2018), https://nscorp.com/content/dam/nscorp/get-to-know -
+ns/about-ns/state-fact-sheets/pa-state-fact-sheet.pdf.
+All told, when Mr. Mallory sued, Norfolk Southern em-
+ployed nearly 5,000 people in Pennsylvania. It maintained
+more than 2,400 miles of track across the Commonwealth.
+Its 70-acre locomotive shop there was the largest in North
+America. Contrary to what it says in its brief here, the
+company even proclaimed itself a proud part of “the Pennsyl-
+vania Community.” Ibid. By 2020, too, Norfolk Southern
+managed more miles of track in Pennsylvania than in any
+other State. Brief for Public Citizen as Amicus Curiae 21.
+And it employed more people in Pennsylvania than it did in
+Virginia, where its headquarters was located. Ibid. Nor
+are we conjuring these statistics out of thin air. The com-
+pany itself highlighted its “intrastate activities” in the pro-
+ceedings below. 266 A. 3d, at 560, 563 (discussing the frm's
+“extensive operations in Pennsylvania,” including “2,278
+miles of track,” “eleven rail yards,” and “three locomotive
+repair shops”). Given all this, on what plausible account could
+International Shoe's concerns with “fair play and substantial
+justice” require a Pennsylvania court to turn aside Mr. Mal-
+lory's suit? See post, at 153–154 (opinion of Alito, J.).9
+9 The dissent does not dispute the company's extensive in-state contacts
+but replies that counsel for Mr. Mallory abandoned any reliance on them
+at oral argument. Post, at 179–180, and n. 9. In support of its claim,
+however, the dissent shears from context two sentences counsel uttered
+in response to a question about “why [Mr. Mallory] sue[d] in Philadelphia.”
+Tr. of Oral Arg. 48. In reply, counsel explained that Mr. Mallory “used to
+live . . . in Pennsylvania” and “his lawyers are from there.” Id., at 48–49.
+Counsel then agreed that “ [t]hose contacts” would not establish jurisdic-
+tion and pointed this Court to Norfolk Southern's “consent” to suit in
+Pennsylvania. Id., at 49 (emphasis added). All in all, it was a prosaic
+response to a simple question about why Mr. Mallory fled suit where he
+did. Nor, contrary to the dissent's suggestion, are we alone in discussing
+the company's in-state contacts; the lower court, the company, and the
+dissent all point to them too. See 266 A. 3d, at 547; Brief for Respondent
+16–21; post, at 165–166.
+Perhaps sensing its arguments from fairness meet a dead
+end, Norfolk Southern ultimately heads in another direction
+altogether. It suggests the Due Process Clause separately
+prohibits one State from infringing on the sovereignty of an-
+other State through exorbitant claims of personal jurisdic-
+tion. Brief for Respondent 16–19; see post, at 168–171 (opin-
+ion of Barrett, J.). And, in candor, the company is half
+right. Some of our personal jurisdiction cases have dis-
+cussed the federalism implications of one State's assertion of
+jurisdiction over the corporate residents of another. See,
+e. g., Bristol-Myers Squibb Co. v. Superior Court of Cal., San
+Francisco Cty., 582 U. S. 255, 263 (2017). But that neglects
+an important part of the story. To date, our personal juris-
+diction cases have never found a Due Process Clause problem
+sounding in federalism when an out-of-state defendant sub-
+mits to suit in the forum State. After all, personal jurisdic-
+tion is a personal defense that may be waived or forfeited.
+See Insurance Corp. of Ireland, 456 U. S., at 704–705; see
+also post, at 156 (opinion of Alito, J.); post, at 147–148 (opin-
+ion of Jackson, J.).
+That leaves Norfolk Southern one final stand. It argues
+that it has not really submitted to proceedings in Pennsylva-
+nia. Brief for Respondent 11–13; see post, at 167–168, 170
+(opinion of Barrett, J .). The company does not dispute
+that it has fled paperwork with Pennsylvania seeking the
+right to do business there. It does not dispute that it has
+established an office in the Commonwealth to receive service
+of process on any claim. It does not dispute that it appreci-
+ated the jurisdictional consequences attending these actions
+and proceeded anyway, presumably because it thought the
+benefits outweighed the costs. But, in the name of the Due
+Process Clause, Norfolk Southern insists we should dismiss
+all that as a raft of meaningless formalities. 10
+10 While the dissent joins Norfolk Southern in this argument, it wavers.
+At points, the dissent seems to insist that laws like Pennsylvania's “mak[e]
+no sense.” Post, at 167–168. But the closest the dissent comes to identi-
+flying authority for the notion that laws like these are impermissible are
+Taken seriously, this argument would have us undo not
+just Pennsylvania Fire but a legion of precedents that attach
+jurisdictional consequences to what some might dismiss as
+mere formalities. Consider some examples we have already
+encountered. In a typical general jurisdiction case under
+International Shoe , a company is subject to suit on any claim
+in a forum State only because of its decision to fle a piece
+of paper there (a certifcate of incorporation). The frm is
+amenable to suit even if all of its operations are located else-
+where and even if its certifcate only sits collecting dust on an
+office shelf for years thereafter. See, e. g., Goodyear, 564
+U. S., at 924. Then there is the tag rule. The invisible state
+line might seem a trivial thing. But when an individual takes
+one step off a plane after flying from New Jersey to Califor-
+nia, the jurisdictional consequences are immediate and seri-
+ous. See Burnham, 495 U. S., at 619 (plurality opinion).
+Consider, too, just a few other examples. A defendant
+who appears “specially” to contest jurisdiction preserves his
+defense, but one who forgets can lose his. See York v.
+Texas, 137 U. S. 15, 19–21 (1890). Failing to comply with
+certain pretrial court orders, signing a contract with a forum
+selection clause, accepting an in-state benefit with jurisdic-
+tional strings attached—all these actions as well can carry
+with them profound consequences for personal jurisdiction.
+See Insurance Corp. of Ireland, 456 U. S., at 703–706 (collect-
+ing cases); see also post, at 147–148 (opinion of Jackson, J.).
+two cases that did not involve personal jurisdiction or purport to interpret
+the Due Process Clause. Post, at 170 (citing Home Ins. Co. v. Morse, 20
+Wall. 445 (1874); Barron v. Burnside, 121 U. S. 186 (1887)). The dissent's
+observation that one of those cases in turn cited Lafayette Ins. Co. v.
+French, 18 How. 404 (1856), hardly helps—that decision approved a
+consent-to-suit regime for out-of-state corporations under the Full Faith
+and Credit Clause. Id., at 405–407. At other points, however, and as
+we have seen, the dissent rightly acknowledges that a “ `variety of legal
+arrangements [may] represent express or implied consent' ” to personal
+jurisdiction consistent with due process, and these arrangements can in-
+clude requiring at least some companies to consent to suit in exchange “for
+access to [a State's] markets.” Post, at 167, 168.
+The truth is, under our precedents a variety of “actions of
+the defendant” that may seem like technicalities nonetheless
+can “amount to a legal submission to the jurisdiction of a
+court.” Insurance Corp. of Ireland, 456 U. S., at 704–705;
+see also Brief for Stephen E. Sachs as Amicus Curiae 10.
+That was so before International Shoe , and it remains so
+today. Should we overrule them all? Taking Norfolk
+Southern's argument seriously would require just that.
+But, tellingly, the company does not follow where its argu-
+ment leads or even acknowledge its implications. Instead,
+Norfolk Southern asks us to pluck out and overrule just one
+longstanding precedent that it happens to dislike. We de-
+cline the invitation. Post, at 152–153 (opinion of Alito, J.).
+There is no fair play or substantial justice in that. 11
+* * *
+Not every case poses a new question. This case poses a
+very old question indeed—one this Court resolved more than
+a century ago in Pennsylvania Fire . Because that decision
+remains the law, the judgment of the Supreme Court of
+Pennsylvania is vacated, and the case is remanded.
+It is so ordered.
+11 While various separate writings accompany this opinion, it should be
+apparent a majority of the Court today agrees that: Norfolk Southern
+consented to suit in Pennsylvania. Supra, at 134–136; post, at 151 (opinion
+of Alito, J.). Pennsylvania Fire therefore controls this case. Supra, at
+135–136; post, at 151–152 (opinion of Alito, J.). Pennsylvania Fire's rule
+for consent-based jurisdiction has not been overruled. Supra, at 136–138;
+post, at 152–153 (opinion of Alito, J.). International Shoe governs where
+a defendant has not consented to exercise of jurisdiction. Supra, at 138;
+post, at 152–153 (opinion of Alito, J.). Exercising jurisdiction here is
+hardly unfair. Supra, at 141–143; post, at 153–154 (opinion of Alito, J.).
+The federalism concerns in our due process cases have applied only when
+a defendant has not consented. Supra, at 144; post, at 156 (opinion of
+Alito, J.). Nor will this Court now overrule Pennsylvania Fire . Supra,
+at 144–146; post, at 152 (opinion of Alito, J.).

@@ -1,0 +1,333 @@
+Bost v. Illinois Bd. of Elections — No. 24-568 — October Term 2025 — decided 1/14/26 — opinion of the Court — author Roberts (listing code R)
+Citation: 607 U.S. 71
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r05_e2q3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+Three political candidates challenged Illinois's procedure
+for counting mail-in ballots received after election day. We
+consider whether the candidates have standing to maintain
+their suit.
+I
+Illinois law requires election officials to count mail-in bal-
+lots postmarked or certified no later than election day and
+received within two weeks of election day. Ill. Comp. Stat.,
+ch. 10, §§ 5/18A–15(a), 5/19–8(c) (West 2022). In May 2022,
+Congressman Michael Bost and Presidential elector nomi-
+nees Laura Pollastrini and Susan Sweeney (petitioners) sued
+the Illinois State Board of Elections and its executive direc-
+chelman, and John W. Whitehead; for the NRCC et al. by Michael E.
+Toner, Jeremy J. Broggi, Brandis L. Zehr, Blake D. Murphy, and Ryan G.
+Dollar; for the Phyllis Schlafy Eagles et al. by Andrew L. Schlafy; for
+the Public Interest Legal Foundation by J. Christian Adams; for the Re-
+publican National Committee by Thomas R. McCarthy and Gilbert C.
+Dickey; for Restoring Integrity and Trust in Elections et al. by Christo-
+pher O. Murray , Julian R. Ellis, Jr., and Michael L. Francisco; and for
+Michael T. Morley et al. by Michael T. Morley, pro se .
+Briefs of amici curiae urging affirmance were fled for the District of
+Columbia et al. by Brian L. Schwalb, Attorney General of the District
+of Columbia, Caroline S. Van Zile, Solicitor General, Ashwin P . Phatak,
+Principal Deputy Solicitor General, and Chloe Q. Pan, Assistant Attorney
+General, and by the Attorneys General for their respective States as fol-
+lows: Kris Mayes of Arizona, Rob Bonta of California, Philip J. Weiser of
+Colorado, William Tong of Connecticut, Kathleen Jennings of Delaware,
+Anne E. Lopez of Hawaii, Anthony G. Brown of Maryland, Dana Nessel
+of Michigan, Keith Ellison of Minnesota, Aaron D. Ford of Nevada, Mat-
+thew J. Platkin of New Jersey, Raúl Torrez of New Mexico, Letitia James
+of New York, Dan Rayfeld of Oregon, Peter F. Neronha of Rhode Island,
+Charity R. Clark of Vermont, and Nicholas W. Brown of Washington; for
+Bipartisan Former State Secretaries of State by Donald K. Sherman and
+John B. Hill; and for the Democratic Party of Illinois by David R. Fox
+and Richard A. Medina.
+Erick G. Kaardal fled a brief for PA Fair Elections et al. as amici
+curiae.
+tor (respondents), claiming that counting ballots received
+after election day violates federal law. They principally
+contended that doing so conflicts with 2 U. S. C. § 7 and 3
+U. S. C. § 1, which set election day as the Tuesday following
+the first Monday in November.
+In their complaint and declarations, petitioners asserted
+several bases for standing as candidates. 1 They first argued
+that they were “entitled to have their election[ ] results certi-
+fed with votes received in compliance with the federal Elec-
+tion Day statutes.” App. to Pet. for Cert. 87a. And they
+alleged that they “rely on provisions of federal and state law
+in conducting their campaigns including, in particular, re-
+sources allocated to the post-election certifcation process.”
+Id., at 87a–88a. Congressman Bost further explained that
+the late counting of ballots would require him to “organize,
+fundraise, and run [his] campaign for fourteen additional
+days.” Id., at 66a. This, in turn, would “cost [his] cam-
+paign time, money, volunteers and other resources” by, for
+example, requiring the campaign to send poll watchers to
+“monitor late arriving ballots.” Id., at 67a. He also alleged
+that he “risk[ed] injury if untimely and illegal ballots cause[d
+him] to lose [his] election,” and “because [his] margin of vic-
+tory . . . may be reduced.” Id., at 68a. “A diminished mar-
+gin of victory [would] lead to the public perception that [his]
+constituents have concerns about [his] job performance,”
+which would “influence . . . future voters, Congressional lead-
+ership, donors, and potential political opponents.” Id., at
+68a–69a.2
+1 At the time, Congressman Bost was a candidate in the 2022 election,
+and Pollastrini and Sweeney planned to seek reappointment as Presiden-
+tial electors in the 2024 election. Congressman Bost has served as the
+United States Representative for Illinois's 12th Congressional District
+since he was first elected in 2014. And he was previously a member of
+the Illinois House of Representatives, to which he was first elected in 1994.
+2 Petitioners also alleged that Illinois's ballot receipt deadline injured
+them as voters by “dilut[ing] the weight of [their] votes.” App. to Pet.
+for Cert. 88a. They have not advanced that argument before this Court.
+The District Court held that petitioners lacked standing
+and dismissed the suit. 684 F. Supp. 3d 720 (ND Ill. 2023).
+Petitioners appealed, and the Seventh Circuit affirmed. 114
+F. 4th 634 (2024). The court concluded that the costs to
+monitor vote counting after election day could not support
+standing, because those costs would have been voluntarily
+incurred “to avoid a hypothetical future harm—an election
+defeat.” Id., at 642. In doing so, the court noted that Con-
+gressman Bost had won the last election with 75% of the
+vote. Ibid. It also rejected petitioners' asserted “ `compet-
+itive injury,' ” reasoning that they “do not (and cannot) allege
+that the majority of the votes that will be received and
+counted after Election Day will break against them.” Id.,
+at 643. Finally, it dismissed petitioners' asserted injury
+based on an inaccurate vote tally as unduly “speculative,”
+because “the election is months away and the voting process
+has not even started.” Id., at 644. Judge Scudder dis-
+sented in part. In his view, Congressman Bost had standing
+based on the extra costs his campaign would incur to monitor
+the counting of late arriving ballots. We granted certiorari.
+605 U. S. 968 (2025).
+II
+Under Article III of the Constitution, plaintiffs must have
+a “personal stake” in a case to have standing to sue. FDA v.
+Alliance for Hippocratic Medicine , 602 U. S. 367, 379 (2024).
+They must, in other words, be able to answer a basic ques-
+tion: “ `What's it to you?' ” A. Scalia, The Doctrine of Stand-
+ing as an Essential Element of the Separation of Powers, 17
+Suffolk U. L. Rev. 881, 882 (1983). Congressman Bost has
+an obvious answer: He is a candidate for office. And a candi-
+date has a personal stake in the rules that govern the count-
+ing of votes in his election. 3
+3 Because only one plaintiff needs standing for a suit to proceed, we
+do not address whether Pollastrini and Sweeney have standing to sue as
+prospective Presidential electors. See Biden v. Nebraska, 600 U. S. 477,
+489 (2023).
+A
+An unlawful election rule can injure a candidate in several
+ways. It might cause him to lose the election. It might
+require him to expend additional resources. Or it might de-
+crease his vote share and damage his reputation. Respond-
+ents concede that each of these harms can be legally cogniza-
+ble. But they contend that Congressman Bost failed to
+adequately plead any such harm here. We need not resolve
+whether respondents are right, because winning, and doing
+so as inexpensively and decisively as possible, are not a can-
+didate's only interests in an election. 4
+To start, candidates also have an interest in a fair process.
+Candidates are not common competitors in the economic
+marketplace. They seek to represent the people. And
+their interest in that prize cannot be severed from their in-
+terest in the electoral process—a process “of the most funda-
+mental significance under our constitutional structure.” Il-
+linois Bd. of Elections v. Socialist Workers Party , 440 U. S.
+173, 184 (1979). Win or lose, candidates suffer when the
+process departs from the law. Thus, the long-shot and shoo-
+in alike would suffer harm if a State chose to conduct its
+election by, say, flipping a coin. The result of such an elec-
+tion would not reflect the will of the people, and the candi-
+dates would lose the opportunity to compete for the people's
+support. So too, similar harms would result from less dra-
+matic departures—for example, if a State decided to discard
+a random 10% of cast votes. Whether these decisions help,
+hurt, or have no effect on a candidate's electoral prospects,
+they deprive the candidate of a fair process and an accurate
+result.
+4 Respondents do not dispute that Congressman Bost pleaded a distinct
+interest in the “election[ ] results [being] certified with [lawful] votes.”
+App. to Pet. for Cert. 87a. They argue only that this interest is not le-
+gally cognizable. Because we disagree, we need not resolve the parties'
+pleading dispute.
+Such harm to candidates is in no sense “common to all
+members of the public.” Lance v. Coffman, 549 U. S. 437,
+440 (2007) (per curiam ) (internal quotation marks omitted).
+Voters, to be sure, also have a “general interest” in an accu-
+rate vote tally. Ibid. (internal quotation marks omitted).
+But a candidate's interest differs in kind. An unfair and in-
+accurate election plainly affects those who compete for the
+support of the people in a different way than it affects the
+people who lend their support. We have no occasion to theo-
+rize about the “significance of the[se] relative interests,” con-
+tra, post, at 89 (Jackson, J., dissenting), or the “sincer[ity]”
+with which they are held, Carney v. Adams, 592 U. S. 53, 59
+(2020) (internal quotation marks omitted). What matters is
+that the harm candidates suffer is distinct from that suffered
+by the “people generally.” Massachusetts v. Mellon, 262
+U. S. 447, 488 (1923). Those who spend untold time and re-
+sources seeking to claim the right to voice the will of the
+people have “an undeniably different—and more particular-
+ized—interest” in knowing what that will is. Hotze v. Huds-
+peth, 16 F. 4th 1121, 1126 (CA5 2021) (Oldham, J., dissenting).
+Rules that undermine the “integrity of the electoral proc-
+ess” also undermine the winner's political legitimacy.
+Crawford v. Marion County Election Bd., 553 U. S. 181, 197
+(2008) (opinion of Stevens, J.). The counting of unlawful
+votes—or discarding of lawful ones—erodes public conf-
+dence that the election results reflect the people's will. And
+when public confidence in the election results falters, public
+confidence in the elected representative follows. To the rep-
+resentative, that loss of legitimacy—or its diminution—is a
+concrete harm. “[R]eputational harms,” as a general mat-
+ter, are classic Article III injuries. TransUnion LLC v.
+Ramirez, 594 U. S. 413, 425 (2021) (citing Meese v. Keene, 481
+U. S. 465, 473 (1987)). But they are particularly concrete for
+those whose very jobs depend on the support of the people.
+Candidates, in short, are not “mere bystanders” in their
+own elections. Diamond Alternative Energy, LLC v. EPA,
+606 U. S. 100, 110 (2025). They have an obvious personal
+stake in how the result is determined and regarded. Depar-
+tures from the preordained rules cause them particularized
+and concrete harm. 5 The same is true of competitors in
+other contests. Each runner in a 100-meter dash, for exam-
+ple, would suffer if the race were unexpectedly extended to
+105 meters. See Tr. of Oral Arg. 90. Whether a particular
+runner expects to finish strong or fall off the pace in the final
+fve meters, all would be deprived of the chance to compete
+for the prize that the rules define. The fastest to run 105
+meters has not won the 100-meter dash. And in much the
+same way, an unlawful extension of vote counting deprives
+candidates of the opportunity to compete for election under
+the Constitution and laws of the United States.
+B
+Respondents and the dissent dismiss these harms, which
+plainly affect candidates in a “personal and individual way,”
+as generalized grievances. Spokeo, Inc. v. Robins, 578
+U. S. 330, 339 (2016) (internal quotation marks omitted).
+And they suggest that in order to have standing, plaintiff-
+candidates must show some substantial risk that a rule will
+cause them to lose the election, prevent them from achieving
+a legally significant vote threshold, or damage their reputa-
+tion or finances. Brief for Respondents 25–26; post, at 95.
+That approach finds no support in Article III's case or con-
+troversy requirement or our case law interpreting that
+requirement. And it is as practically untenable as it is
+undemocratic.
+5 Contrary to the concurrence's suggestion, post, at 86 (Barrett, J., con-
+curring in judgment), such harm is far “more particularized and more con-
+crete than the mere assertion that something unlawful benefited [a] com-
+petitor.” Already, LLC v. Nike, Inc., 568 U. S. 85, 99 (2013). And it
+bears little resemblance to the specific injury alleged in Already: a risk of
+being sued by a company that had issued an “unconditional and irrevoca-
+ble” covenant not to sue. Id., at 93.
+Premising standing on a candidate's risk of election loss or
+failure to achieve a certain vote threshold could channel
+many election disputes to shortly before election day—or
+worse, after. Only then will many candidates be able to pre-
+dict with any certainty that a rule will be outcome determi-
+native. And only then will they be able to produce the
+“manner and degree of evidence required,” particularly at
+later “stages of the litigation,” to establish standing. Lujan
+v. Defenders of Wildlife , 504 U. S. 555, 561 (1992).
+Yet “[t]his Court has repeatedly emphasized that lower
+federal courts should ordinarily not alter the election rules
+on the eve of an election.” Republican National Committee
+v. Democratic National Committee , 589 U. S. 423, 424 (2020)
+(per curiam ). Such late-breaking, court-ordered rule
+changes can “result in voter confusion and consequent incen-
+tive to remain away from the polls,” and thus undermine the
+“[c]onfdence in the integrity of our electoral processes . . .
+essential to the functioning of our participatory democracy.”
+Purcell v. Gonzalez, 549 U. S. 1, 4–5 (2006) (per curiam ); see
+also Republican Party of Pennsylvania v. Degraffenreid,
+592 U. S. –––, ––– – ––– (2021) (Thomas, J., dissenting from
+denial of certiorari). The democratic consequences can be
+even more dire if courts intervene only after votes have been
+counted. “Count first, and rule upon legality afterwards, is
+not a recipe for producing election results that have the pub-
+lic acceptance democratic stability requires.” Bush v. Gore,
+531 U. S. 1046, 1047 (2000) (Scalia, J., concurring in grant
+of stay).
+Even if some candidates could muster evidence well before
+election day that a rule will likely be outcome determinative,
+respondents' and the dissent's approach would convert Arti-
+cle III judges into political prognosticators and “invite[ ]
+findings on matters as to which neither judges nor anyone
+else can have any confidence.” Rucho v. Common Cause ,
+588 U. S. 684, 711 (2019) (internal quotation marks omitted).
+As a number of prominent historical figures can attest, not
+least among them Charles Evans Hughes and Thomas
+Dewey, “accurately predicting electoral outcomes is not” a
+“simple” endeavor. Id., at 712. And if the prognosticators
+themselves lack the “political clairvoyance” to predict the
+winner after all votes have been cast, then surely judges are
+poorly positioned to assess whether a candidate's risk of loss,
+months earlier, is substantial. Diamond Alternative En-
+ergy, 606 U. S., at 123; see also Vieth v. Jubelirer, 541 U. S.
+267, 287, n. 8 (2004) (plurality opinion). The limits of federal
+courts' jurisdiction do not rest upon such “unstable ground
+outside judicial expertise.” Rucho, 588 U. S., at 713.
+Nor would requiring candidates to plead a substantial risk
+of harm to their vote share leave courts on any surer footing.
+Such an approach would force judges to assess whether an
+election rule is likely to disadvantage a particular candidate.
+And at least as respondents suggest, judges must then also
+ensure that any disadvantage is linked to reputational or f-
+nancial harm. 6
+Judges are no better qualified to make such determina-
+tions than they are to assess a candidate's likelihood of win-
+ning or losing. Even if they could do so, this approach would
+still channel many disputes into postelection litigation. To
+bring a preelection suit, a candidate would have to plead and
+prove that voters who take advantage of the challenged rule
+will favor his rivals. Doing so while campaigning for those
+same voters' support is not just awkward, but politically dan-
+6 Respondents at times appear to suggest that “[a] candidate may have
+standing if she demonstrates that an election rule disadvantages her rela-
+tive to a competitor,” even absent proof of reputational or financial harm
+or a risk that she will lose the election. Brief for Respondents 26; see
+also Tr. of Oral Arg. 94. Yet it is far from clear why a slight but certain
+competitive disadvantage would qualify as an injury in fact but requiring
+a candidate to compete in an unfair election would not. Indeed, the harm
+a candidate would suffer from winning 60% of the vote, instead of 61%,
+seems less salient than the harm she would suffer if she instead won 62%
+because of an unlawful rule, and the public believed she had received an
+unfair advantage.
+gerous. Particularly for new election rules, it may require
+divulging information about vulnerabilities that rival candi-
+dates could exploit. Faced with that prospect, many candi-
+dates are sure to wait until after votes are counted to sue.
+Adding monetary harm to the equation, as the concurrence
+proposes, would change none of this. Post, at 84–85 (Bar-
+rett, J., concurring in judgment). Plaintiffs cannot “manu-
+facture standing by voluntarily” incurring costs. Federal
+Election Comm'n v. Ted Cruz for Senate , 596 U. S. 289, 297
+(2022). They must incur those costs to “mitigate or avoid”
+a “ `substantial risk' ” of some independent harm. Clapper
+v. Amnesty Int'l USA, 568 U. S. 398, 414, n. 5 (2013). Ac-
+knowledging as much, the concurrence ultimately speculates
+that it is “reasonably probable” Congressman Bost's election
+will be at risk because of discrepancies in late-arriving bal-
+lots. Post, at 85. Such conjecture—beyond finding little
+support in the pleadings—carries all the concerns we have
+explained. And the concurrence's approach introduces a
+new one: Apparently, a candidate who pays poll watchers a
+penny would have standing, while one who relies on volun-
+teers would not.
+Nothing about Article III requires this result. Candi-
+dates have a concrete and particularized interest in the rules
+that govern the counting of votes in their elections, regard-
+less whether those rules harm their electoral prospects or
+increase the cost of their campaigns. Their interest extends
+to the integrity of the election—and the democratic process
+by which they earn or lose the support of the people they
+seek to represent. 7
+7 We do not share the dissent's concern that our recognition of this com-
+monsense reality will “open[ ] the floodgates” to candidate-led challenges
+to ballot “format.” Post, at 97–98. Indeed, the dissent itself sug-
+gests that courts already “ `often decide ballot-design cases,' ” pointing to
+a case in which a court concluded that candidates did have standing to
+challenge “ `the form of election ballots.' ” Post, at 98, n. 5 (quoting Kim
+v. Hanlon, 99 F. 4th 140, 147, 153 (CA3 2024)). To the extent the dissent's
+concern is that federal courts will be inundated with more trivial “format”
+challenges, post, at 98, to things like “ballot font and typeface,” Brief for

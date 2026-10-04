@@ -1,0 +1,108 @@
+Trump v. Cook — No. 25A312 — October Term 2025 — decided 6/29/26 — KAVANAUGH, J., concurring
+Citation: 609 U.S. 528
+Source: https://www.supremecourt.gov/opinions/25pdf/25a312_5468.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+KAVANAUGH, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25A312
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, APPLICANT v. LISA D. COOK, MEMBER
+OF THE BOARD OF GOVERNORS OF THE
+FEDERAL RESERVE SYSTEM, ET AL.
+ON APPLICATION FOR STAY
+[June 29, 2026]
+JUSTICE KAVANAUGH, concurring.
+I join the Court’s opinion in full and write separately to
+emphasize two points.
+First, today’s interim ruling does not decide whether the
+President may lawfully remove Governor Cook for cause.
+The ultimate decision about whether the President may
+remove Governor Cook for cause will largely depend on the
+facts regarding the Governor’s actions.  And those facts
+have yet to be determined. The Court’s opinion today
+simply settles some of the legal and procedural ground rules
+under which (i) the Executive Branch may determine and
+assess the facts and (ii) courts may then “assess the validity
+and sufficiency” of any asserted grounds for removal.  Ante,
+at 25.
+Second, in establishing some of those legal and
+procedural ground rules, the Court confirms the
+longstanding historical practice and understanding that
+the Federal Reserve is an independent agency whose
+Governors enjoy for-cause remo val protection consistent
+with Article II of the Constitution.  The Government itself
+expressly “acknowledge[d]” and did “not disput[e]” that
+point in this case, even as the Government simultaneously
+(and successfully) argued that the for-cause removal
+protections for most independent agencies violate Article II.
+
+Tr. of Oral Arg. 6, 48; see Trump v. Slaughter, ___ U. S. ___
+(2026). Specifically, the Government recognized the “long
+tradition of having this exe rcise of monetary policy be
+exercised independent of . . . executive influence.” Tr. of
+Oral Arg. 48. The Government further “acknowledge[d]
+what the Court said in Wilcox, which is that” the Federal
+Reserve is “a quasi-private, uniquely structured entity that
+stands in the distinct historical tradition of the First and
+Second Banks of the United States, and, therefore, we have
+not challenged the—the removal restriction in this case.”
+Tr. of Oral Arg. 6 (referring to Trump v. Wilcox, 605 U. S.
+922, 923 (2025)). The Government also stated that the
+purpose of the Federal Reserve’s independence is to
+“protec[t] the governors from removal for policy
+disagreement or for no reason at all.” Tr. of Oral Arg. 47.
+And it added that it does no t “dispute the importance of
+that” independence “for many of the reasons that [Cook’s]
+amici say.” Id., at 48.
+I agree with the Court, moreover, that we should not
+leave open the question whether the Federal Reserve can
+remain an independent agency in the wake of Slaughter.
+After Slaughter, there is a clear choice: Either the Federal
+Reserve may remain independent (with the Governors
+removable for cause, not at will), or it may not.  Leaving
+that question open would create significant uncertainty
+about whether the Court might soon eliminate the Federal
+Reserve’s independence, and thereby expose the Federal
+Reserve to political influences and jeopardize the efficacy of
+U. S. monetary policy. Even temporary uncertainty about
+the status of the Federal Reserve could spark political
+upheaval, including confusion about whether the President
+could immediately remove mult iple Governors at will, as
+well as turmoil in the U. S. and world economies.
+I would not go down that road.  I would not risk
+destabilizing the U. S. economy just so that we can further
+mull over an issue that, in various permutations, we have
+
+3  Cite as: 609 U. S. ____ (2026)
+KAVANAUGH, J., concurring
+been thinking about for many years. As the Court’s opinion
+explains and the Government agrees, the Federal Reserve
+occupies a unique role in the U. S. Government and
+maintains critical responsibility for the stability and
+success of the U. S. and world economies.  See ante, at 1–6.
+Most importantly for constitu tional purposes, the Federal
+Reserve follows in a distinct historical tradition of central
+bank independence that has long coexisted with Article II.
+That history of course carries great weight in Article II
+cases. See Youngstown Sheet & Tube Co.  v. Sawyer, 343
+U. S. 579, 610–611 (1952) (Frankfurter, J., concurring); id.,
+at 634–638 (Jackson, J., concurring).  In my view, in light
+of that historical practice and precedent, the Federal
+Reserve may continue as an independent agency after
+Slaughter.  If the Federal Reserve’s for-cause removal
+protections are to be elimi nated, that change must occur
+through the legislative process.1
+In short, like the Court, I see no good reason here to
+unsettle a critical constitutional question that has long
+been settled and that should remain settled.
+* * *
+With those additional comments, I join the Court’s
+opinion in full.
+——————
+1 Only J USTICE THOMAS contends that, under Article II, the Federal
+Reserve may not remain an independent agency and that the Governors
+therefore should be re movable at will.  See post, at 24–27 (dissenting
+opinion).

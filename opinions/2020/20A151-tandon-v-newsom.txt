@@ -1,0 +1,111 @@
+Tandon v. Newsom — No. 20A151 — October Term 2020 — decided 4/09/21 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 593 U.S. 61
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r27_o759.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Per Curiam.
+The application for injunctive relief presented to Justice
+Kagan and by her referred to the Court is granted pending
+disposition of the appeal in the United States Court of Ap-
+peals for the Ninth Circuit and disposition of the petition for
+a writ of certiorari, if such writ is timely sought. Should
+the petition for a writ of certiorari be denied, this order shall
+terminate automatically. In the event the petition for a writ
+of certiorari is granted, the order shall terminate upon the
+sending down of the judgment of this Court.
+* * *
+The Ninth Circuit's failure to grant an injunction pending
+appeal was erroneous. This Court's decisions have made
+the following points clear.
+First, government regulations are not neutral and gener-
+ally applicable, and therefore trigger strict scrutiny under
+the Free Exercise Clause, whenever they treat any compara-
+ble secular activity more favorably than religious exercise.
+Roman Catholic Diocese of Brooklyn v. Cuomo, 592 U. S.
+–––, ––– – ––– (2020) (per curiam ). It is no answer that a
+State treats some comparable secular businesses or other
+activities as poorly as or even less favorably than the reli-
+gious exercise at issue. Id., at ––– – ––– (Kavanaugh, J.,
+concurring).
+Second, whether two activities are comparable for pur-
+poses of the Free Exercise Clause must be judged against
+the asserted government interest that justifies the regula-
+tion at issue. Id., at ––– (per curiam ) (describing secular
+activities treated more favorably than religious worship that
+either “have contributed to the spread of COVID–19” or
+“could” have presented similar risks). Comparability is con-
+cerned with the risks various activities pose, not the reasons
+why people gather. Id., at ––– (Gorsuch, J., concurring).
+Third, the government has the burden to establish that
+the challenged law satisfies strict scrutiny. To do so in this
+context, it must do more than assert that certain risk factors
+“are always present in worship, or always absent from the
+other secular activities” the government may allow. South
+Bay United Pentecostal Church v. Newsom , 592 U. S.
+–––, ––– (2021) (statement of Gorsuch, J.); id., at ––– (Bar-
+rett, J., concurring). Instead, narrow tailoring requires
+the government to show that measures less restrictive of the
+First Amendment activity could not address its interest in
+reducing the spread of COVID. Where the government
+permits other activities to proceed with precautions, it must
+show that the religious exercise at issue is more dangerous
+than those activities even when the same precautions are
+applied. Otherwise, precautions that suffice for other activ-
+ities suffice for religious exercise too. Roman Catholic Dio-
+cese, 592 U. S., at ––– – –––; South Bay , 592 U. S., at –––
+(statement of Gorsuch, J.).
+Fourth, even if the government withdraws or modifes a
+COVID restriction in the course of litigation, that does not
+necessarily moot the case. And so long as a case is not moot,
+litigants otherwise entitled to emergency injunctive relief
+remain entitled to such relief where the applicants “remain
+under a constant threat” that government officials will use
+their power to reinstate the challenged restrictions.
+Roman Catholic Diocese , 592 U. S., at –––; see also High
+Plains Harvest Church v. Polis, 592 U. S. ––– (2020).
+These principles dictated the outcome in this case, as they
+did in Gateway City Church v. Newsom, 592 U. S. ––– (2021).
+First, California treats some comparable secular activities
+more favorably than at-home religious exercise, permitting
+hair salons, retail stores, personal care services, movie the-
+aters, private suites at sporting events and concerts, and in-
+door restaurants to bring together more than three house-
+holds at a time. App. to Emergency Application for Writ of
+Injunction 183–189. Second, the Ninth Circuit did not con-
+clude that those activities pose a lesser risk of transmission
+than applicants' proposed religious exercise at home. The
+Ninth Circuit erroneously rejected these comparators sim-
+ply because this Court's previous decisions involved public
+buildings as opposed to private buildings. Tandon v. New-
+som, 992 F. 3d 916, 919–920, 922–924 (CA9 2021). Third,
+instead of requiring the State to explain why it could not
+safely permit at-home worshipers to gather in larger num-
+bers while using precautions used in secular activities, the
+Ninth Circuit erroneously declared that such measures might
+not “translate readily” to the home. Id., at 926. The State
+cannot “assume the worst when people go to worship but
+assume the best when people go to work.” Roberts
+v. Neace, 958 F. 3d 409, 414 (CA6 2020) (per curiam ).
+And fourth, although California officials changed the chal-
+lenged policy shortly after this application was fled, the
+previous restrictions remain in place until April 15th,
+and officials with a track record of “moving the goalposts”
+retain authority to reinstate those heightened restrictions
+at any time. South Bay , 592 U. S., at ––– (statement of
+Gorsuch, J.).
+Applicants are likely to succeed on the merits of their free
+exercise claim; they are irreparably harmed by the loss of
+free exercise rights “for even minimal periods of time”; and
+the State has not shown that “public health would be imper-
+iled” by employing less restrictive measures. Roman Cath-
+olic Diocese , 592 U. S., at –––. Accordingly, applicants are
+entitled to an injunction pending appeal.
+This is the fifth time the Court has summarily rejected
+the Ninth Circuit's analysis of California's COVID restric-
+tions on religious exercise. See Harvest Rock Church v.
+Newsom, 592 U. S. ––– (2020); South Bay , 592 U. S. –––;
+Gish v. Newsom, 592 U. S. ––– (2021); Gateway City , 592
+U. S. –––. It is unsurprising that such litigants are entitled
+to relief. California's Blueprint System contains myriad ex-
+ceptions and accommodations for comparable activities, thus
+requiring the application of strict scrutiny. And histori-
+cally, strict scrutiny requires the State to further “interests

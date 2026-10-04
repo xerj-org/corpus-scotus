@@ -1,0 +1,73 @@
+Mallory v. Norfolk Southern R. Co — No. 21-1168 — October Term 2022 — decided 6/27/23 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 600 U.S. 122
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r52_7l48.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+and Benjamin Cardozo, had reached similar conclusions in
+similar cases in the years leading up to Pennsylvania Fire .
+See Smolik v. Philadelphia & Reading Coal & Iron Co., 222
+F. 148, 150–151 (SDNY 1915) (Hand, J.); Bagdon v. Philadel-
+phia & Reading Coal & Iron Co., 217 N. Y . 432, 436–437,
+111 N. E. 1075, 1076–1077 (1916) (Cardozo, J.). In the years
+following Pennsylvania Fire , too, this Court reaffirmed its
+holding as often as the issue arose. See, e. g., Louisville &
+Nashville R. Co. v. Chatters, 279 U. S. 320, 325–326 (1929);
+Neirbo Co. v. Bethlehem Shipbuilding Corp., 308 U. S. 165,
+175 (1939); see also Robert Mitchell Furniture Co. v. Selden
+Breck Constr. Co., 257 U. S. 213, 215–216 (1921); Wuchter v.
+Pizzutti, 276 U. S. 13, 20 (1928).
+B
+Pennsylvania Fire controls this case. Much like the Mis-
+souri law at issue there, the Pennsylvania law at issue here
+provides that an out-of-state corporation “may not do busi-
+ness in this Commonwealth until it registers with” the De-
+partment of State. 15 Pa. Cons. Stat. § 411(a). As part of
+the registration process, a corporation must identify an “of-
+fce” it will “continuously maintain” in the Commonwealth.
+§ 411(f); see also § 412(a)(5). Upon completing these require-
+ments, the corporation “shall enjoy the same rights and priv-
+ileges as a domestic entity and shall be subject to the same
+liabilities, restrictions, duties and penalties . . . imposed on
+domestic entities.” § 402(d). Among other things, Pennsyl-
+vania law is explicit that “qualification as a foreign corpora-
+tion” shall permit state courts to “exercise general personal
+jurisdiction” over a registered foreign corporation, just as
+they can over domestic corporations. 42 Pa. Cons. Stat.
+§ 5301(a)(2)(i).
+Norfolk Southern has complied with this law for many
+years. In 1998, the company registered to do business in
+Pennsylvania. Acting through its Corporate Secretary as a
+“duly authorized officer,” the company completed an “Ap-
+plication for Certifcate of Authority” from the Common-
+wealth “[i]n compliance with” state law. App. 1–2. As part
+of that process, the company named a “Commercial Regis-
+tered Office Provider” in Philadelphia County, agreeing that
+this was where it “shall be deemed . . . located.” Ibid. The
+Secretary of the Commonwealth approved the application,
+conferring on Norfolk Southern both the benefits and bur-
+dens shared by domestic corporations—including amenabil-
+ity to suit in state court on any claim. Id., at 1. Since 1998,
+Norfolk Southern has regularly updated its information
+on file with the Secretary. In 2009, for example, the
+company advised that it had changed its Registered Office
+Provider and would now be deemed located in Dauphin
+County. Id., at 6; see 15 Pa. Cons. Stat. § 4144(b) (1988).
+All told, then, Norfolk Southern has agreed to be found in
+Pennsylvania and answer any suit there for more than 20
+years.
+Pennsylvania Fire held that suits premised on these
+grounds do not deny a defendant due process of law. Even
+Norfolk Southern does not seriously dispute that much. It
+concedes that it registered to do business in Pennsylvania,
+that it established an office there to receive service of proc-
+ess, and that in doing so it understood it would be amenable
+to suit on any claim. Tr. of Oral Arg. 62; post, at 150–151
+(Alito, J., concurring in part and concurring in judgment);
+post, at 148 (Jackson, J., concurring). Of course, Mr. Mal-
+lory no longer lives in Pennsylvania and his cause of action
+did not accrue there. But none of that makes any more dif-
+ference than the fact that Gold Issue Mining was not from
+Missouri (but from Arizona) and its claim did not arise there
+(but in Colorado). See Pennsylvania Fire , 267 Mo., at 537,
+184 S. W., at 1001. To decide this case, we need not specu-
+late whether any other statutory scheme and set of facts
+would suffice to establish consent to suit. It is enough to

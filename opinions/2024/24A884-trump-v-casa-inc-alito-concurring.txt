@@ -1,0 +1,76 @@
+Trump v. CASA, Inc. — No. 24A884 — October Term 2024 — decided 6/27/25 — Alito, J., concurring
+Citation: 606 U.S. 831
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Alito , with whom Justice Thomas joins,
+concurring.
+I join the opinion of the Court but write separately to note
+two related issues that are left unresolved and potentially
+threaten the practical significance of today's decision: the
+availability of third-party standing and class certifcation.
+First, the Court does not address the weighty issue
+whether the state plaintiffs have third-party standing to as-
+sert the Citizenship Clause claims of their individual resi-
+dents. See ante, at 838, n. 2; see also ante, at 861 (“The
+Government's applications to partially stay the preliminary
+injunctions are granted, but only to the extent that the in-
+junctions are broader than necessary to provide complete re-
+lief to each plaintiff with standing to sue” (emphasis added)).
+Ordinarily, “a litigant must assert his or her own legal rights
+and interests, and cannot rest a claim to relief on the legal
+rights or interests of third parties.” Powers v. Ohio, 499
+U. S. 400, 410 (1991). In limited circumstances, however, the
+Court has permitted a party to assert the rights of a third
+party. Admittedly, the Court has not pinned down the pre-
+cise circumstances in which third-party standing is permissi-
+ble. See Lexmark Int'l, Inc. v. Static Control Components,
+Inc., 572 U. S. 118, 127, n. 3 (2014). And commentators have
+emphasized the need for “greater doctrinal coherence.” C.
+Bradley & E. Young, Unpacking Third-Party Standing, 131
+Yale L. J. 1, 7 (2021) (Bradley & Young).
+But at a minimum, we have said that a litigant seeking to
+assert the legal rights or interests of others must demon-
+strate ordinary Article III standing for itself and answer the
+additional “threshold question whether [it has] standing to
+raise the rights of others.” Kowalski v. Tesmer, 543 U. S.
+125, 129 (2004). But see FDA v. Alliance for Hippocratic
+Medicine, 602 U. S. 367, 398 (2024) (Thomas, J., concurring).
+This latter requirement, as we have explained, entails a
+showing that the litigant has a “close relationship” to the
+right holder and that there is some “ `hindrance' ” to the right
+holder's ability to “protect his own interests.” Kowalski,
+543 U. S., at 130 (quoting Powers, 499 U. S., at 411). So long
+as third-party standing doctrine remains good law, federal
+courts should take care to apply these limitations conscien-
+tiously, including against state plaintiffs. That is especially
+so in cases such as these, in which the parties claiming third-
+party standing (i. e., the States) are not directly subject to
+the challenged policy in the relevant respect and face, at
+most, collateral injuries. See Bradley & Young 56–60.
+Today's decision only underscores the need for rigorous
+and evenhanded enforcement of third-party-standing limita-
+tions. The Court holds today that injunctive relief should
+generally extend only to the suing plaintiff. See ante, at
+851–852. That will have the salutary effect of bringing an
+end to the practice of runaway “universal” injunctions, but
+it leaves other questions unanswered. Perhaps most impor-
+tant, when a State brings a suit to vindicate the rights of
+individual residents and then procures injunctive relief, does
+the injunction bind the defendant with respect to all resi-
+dents of that State? If so, States will have every incentive
+to bring third-party suits on behalf of their residents to ob-
+tain a broader scope of equitable relief than any individual
+resident could procure in his own suit. Left unchecked, the
+practice of refexive state third-party standing will under-
+mine today's decision as a practical matter.
+Second, today's decision will have very little value if dis-
+trict courts award relief to broadly defined classes without
+following “Rule 23's procedural protections” for class certif-
+cation. Ante, at 849. The class action is a powerful tool,
+and we have accordingly held that class “certifcation is
+proper only if the trial court is satisfied, after a rigorous analy-
+sis, that the prerequisites of Rule 23(a) have been satisfied.”
+Wal-Mart Stores, Inc. v. Dukes, 564 U. S. 338, 350–351 (2011)
+(internal quotation marks omitted). These requirements
+are more than “a mere pleading standard,” id., at 350, and a
+hasty application of Rule 23 of the Federal Rules of Civil

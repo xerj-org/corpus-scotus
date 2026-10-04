@@ -1,0 +1,39 @@
+Erlinger v. United States — No. 23-370 — October Term 2023 — decided 6/21/24 — Thomas, J., concurring
+Citation: 602 U.S. 821
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r45_h31i.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+have a jury determine beyond a reasonable doubt whether
+his predicate offenses were committed on different occasions
+for purposes of the Armed Career Criminal Act. But as
+Justice Kavanaugh explains, violations of that right are
+subject to harmless error review. See post, at 859–861 (dis-
+senting opinion). The Seventh Circuit should thus consider
+on remand the Government's contention that the error here
+was harmless.
+Justice Thomas, concurring.
+I join the Court's opinion in full because it correctly ap-
+plies our precedents. The fact that a defendant's prior qual-
+ifying offenses occurred on “occasions different from one an-
+other” results in an increased punishment under the Armed
+Career Criminal Act. 18 U. S. C. § 924(e)(1). The Sixth
+Amendment therefore gives criminal defendants the right to
+have a jury find that fact. See Apprendi v. New Jersey, 530
+U. S. 466, 501 (2000) (Thomas, J., concurring) (“[A] `crime'
+includes every fact that is by law a basis for imposing or
+increasing punishment” (emphasis added)).
+In Almendarez-Torres v. United States, 523 U. S. 224
+(1998), the Court created a “narrow exception” to the Sixth
+Amendment's general rule and allowed a judge to find “the
+fact of a prior conviction,” even though that fact increases a
+defendant's punishment, Alleyne v. United States, 570 U. S.
+99, 111, n. 1 (2013). In this case, the Court acknowledges
+the sharp conflict between Almendarez-Torres and the Sixth
+Amendment. Ante, at 837–838. And, it properly declines
+to extend that dubious exception to the different-occasions
+inquiry under § 924(e)(1). Ante, at 836–842.
+I continue to adhere to my view that we should revisit
+Almendarez-Torres and correct the “error to which I suc-
+cumbed” by joining that decision. Apprendi, 530 U. S., at
+520 (opinion of Thomas, J.); see also Sessions v. Dimaya, 584
+U. S. 148, 226 (2018) (Thomas, J., dissenting); Mathis v.
+United States, 579 U. S. 500, 522 (2016) (Thomas, J., con-

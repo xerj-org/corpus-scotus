@@ -1,0 +1,38 @@
+Google LLC v. Oracle America, Inc. — No. 18-956 — October Term 2020 — decided 4/05/21 — Appendix (Appendix A to opinion of the Court)
+Citation: 593 U.S. 1
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r26_f29g.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+APPENDIXES
+A
+Computer System Diagram
+Some readers might find it helpful to start with an expla-
+nation of what a “software platform” is. Put simply, a soft-
+ware platform collects all of the software tools that a pro-
+grammer may need to build computer programs. The
+Android platform, for instance, includes an “operating sys-
+tem,” “core libraries,” and a “virtual machine,” among other
+tools. App. 197–198.
+The diagram below illustrates the general features of a
+standard computer system, with the dotted line reflecting
+the division between a computer's hardware and its soft-
+ware. (It is not intended to reflect any specific technology
+at issue in this case.)
+J. Garrido & R. Schlesinger, Principles of Modern Operating
+Systems 8 (2008) (“Figure 1.4. An External View of a Com-
+puter System”).
+B
+Sun Java API Diagram
+This image depicts the connection between the three parts
+of the Sun Java API technology at issue, using the District
+Court's example. Oracle, 872 F. Supp. 2d, at 980–981. The
+programmer enters a method call to invoke a task from
+within the API (the solid arrow). The precise symbols in
+the method call correspond to a single task, which is located
+within a particular class. That class is located within a par-
+ticular package. All of the lines of code that provide that
+organization and name the methods, classes, and packages
+are “declaring code.” For each method, the declaring code
+is associated with particular lines of implementing code (the
+dotted arrow). It is that implementing code (which Google
+wrote for its Android API) that actually instructs the com-
+puter in the programmer's application.

@@ -1,0 +1,826 @@
+Jones v. Mississippi — No. 18-1259 — October Term 2020 — decided 4/22/21 — Sotomayor, J., dissenting
+Citation: 593 U.S. 98
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r30_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+That improper intrusion on state postconviction review is
+also worth correcting.
+* * *
+Today's majority labors mightily to avoid confronting the
+tension between Miller and Montgomery. But though the
+Court purports to leave Montgomery's holding intact, it rec-
+ognizes that Montgomery's analysis is untenable and not to
+be repeated. It would be simpler to reject Montgomery in
+both name and substance.
+Justice Sotomayor , with whom Justice Breyer and
+Justice Kagan join, dissenting.
+Today, the Court guts Miller v. Alabama, 567 U. S. 460
+(2012), and Montgomery v. Louisiana, 577 U. S. 190 (2016).
+Contrary to explicit holdings in both decisions, the majority
+claims that the Eighth Amendment permits juvenile offend-
+ers convicted of homicide to be sentenced to life without pa-
+role (LWOP) as long as “the sentence is not mandatory and
+the sentencer therefore has discretion to impose a lesser
+punishment.” Ante, at 100. In the Court's view, a sen-
+tencer never need determine, even implicitly, whether a ju-
+venile convicted of homicide is one of “those rare children
+whose crimes reflect irreparable corruption.” Montgomery,
+577 U. S., at 209. Even if the juvenile's crime reflects “ `un-
+fortunate yet transient immaturity,' ” Miller, 567 U. S., at
+479, he can be sentenced to die in prison.
+This conclusion would come as a shock to the Courts in
+Miller and Montgomery. Miller 's essential holding is that
+“a lifetime in prison is a disproportionate sentence for all
+but the rarest children, those whose crimes reflect `irrepara-
+ble corruption.' ” Montgomery, 577 U. S., at 195 (quoting
+Miller, 567 U. S., at 479–480). Sentencing discretion is “nec-
+essary to separate those juveniles who may be sentenced to
+life without parole from those who may not,” Montgomery,
+577 U. S., at 210, but it is far from sufficient. A sentencer
+must actually “make th[e] judgment” that the juvenile in
+question is one of those rare children for whom LWOP is a
+constitutionally permissible sentence. Miller, 567 U. S., at
+480. The Court has thus expressly rejected the notion that
+sentencing discretion, alone, suffices: “Even if a court consid-
+ers a child's age before sentencing him or her to a lifetime
+in prison, that sentence still violates the Eighth Amendment
+for a child whose crime reflects unfortunate yet transient
+immaturity.” Montgomery, 577 U. S., at 208 (internal quo-
+tation marks omitted).
+Today, however, the Court reduces Miller to a decision
+requiring “just a discretionary sentencing procedure where
+youth [is] considered.” Ante, at 110. Such an abrupt break
+from precedent demands “special justification.” Ramos v.
+Louisiana, 590 U. S. –––, ––– (2020) (Kavanaugh, J., concur-
+ring in part) (internal quotation marks omitted). The Court
+offers none. Instead, the Court attempts to circumvent
+stare decisis principles by claiming that “[t]he Court's deci-
+sion today carefully follows both Miller and Montgomery.”
+Ante, at 118. The Court is fooling no one. Because I can-
+not countenance the Court's abandonment of Miller and
+Montgomery, I dissent.
+I
+Time and again, this Court has recognized that “children
+are constitutionally different from adults for purposes of sen-
+tencing.” Miller, 567 U. S., at 471. In Roper v. Simmons,
+543 U. S. 551 (2005), the Court held that the Eighth Amend-
+ment forbids sentencing children to death because “[c]apital
+punishment must be limited to those offenders . . . whose
+extreme culpability makes them the most deserving of exe-
+cution.” Id., at 568 (internal quotation marks omitted).
+Juvenile offenders “cannot with reliability be classified
+among the worst offenders” for several reasons. Id., at 569.
+First, “as any parent knows,” and as scientific and sociologi-
+cal studies have confirmed, juveniles are less mature and re-
+sponsible than adults, which “often result[s] in impetuous and
+ill-considered actions and decisions.” Ibid. (internal quo-
+tation marks omitted). Second, juveniles are “more vul-
+nerable or susceptible to negative influences and outside
+pressures” and “have less control . . . over their own environ-
+ment.” Ibid. Finally, “the character of a juvenile” is “more
+transitory” than that of an adult. Id., at 570. “[A]s individ-
+uals mature, the impetuousness and recklessness that may
+dominate in younger years can subside.” Ibid. (internal
+quotation marks omitted). Weighed against these “signa-
+ture qualities of youth,” the penological justifications for the
+death penalty collapse. Id., at 570–571 (internal quotation
+marks omitted).
+Next, in Graham v. Florida, 560 U. S. 48 (2010), this Court
+held that “[t]he Constitution prohibits the imposition of a life
+without parole sentence on a juvenile offender who did not
+commit homicide.” Id., at 82. “To justify life without pa-
+role on the assumption that the juvenile offender forever will
+be a danger to society requires the sentencer to make a judg-
+ment that the juvenile is incorrigible.” Id., at 72. But “in-
+corrigibility is inconsistent with youth.” Id., at 73 (internal
+quotation marks omitted). Rather, “[m]aturity can lead to
+that considered reflection which is the foundation for re-
+morse, renewal, and rehabilitation.” Id., at 79. Graham
+therefore insisted that sentencers not deprive juvenile non-
+homicide offenders “of the opportunity to achieve matu-
+rity . . . and self-recognition of human worth and potential”
+by sentencing them to die in prison. Ibid.
+In Miller, this Court extended Graham's logic to juveniles
+convicted of homicide. Miller recognized that “none of what
+[Graham] said about children . . . is crime-specifc.” 567
+U. S., at 473. Thus, taking Graham as its “foundation
+stone,” Miller reiterated that “the distinctive attributes of
+youth diminish the penological justifications for imposing the
+harshest sentences on juvenile offenders, even when they
+commit terrible crimes.” 567 U. S., at 470–471, n. 4, 472.
+Miller emphasized that LWOP is an “ `especially harsh pun-
+ishment for a juvenile.' ” Id., at 475 (quoting Graham, 560
+U. S., at 70). “Imprisoning an offender until he dies alters
+the remainder of his life `by a forfeiture that is irrevocable.' ”
+567 U. S., at 474–475 (quoting Graham, 560 U. S., at 69). It
+is the “denial of hope” itself. Id., at 70 (internal quotation
+marks omitted).
+Miller stopped short of prohibiting LWOP for all juveniles
+convicted of homicide. Instead, it required sentencers to
+distinguish “between the juvenile offender whose crime re-
+flects unfortunate and transient immaturity, and the rare ju-
+venile offender whose crime reflects irreparable corruption.”
+567 U. S., at 479–480 (internal quotation marks omitted).
+Only those rare few in the latter category are constitution-
+ally eligible for LWOP under Miller. As such, before impos-
+ing a sentence of LWOP, a sentencer must actually “make
+that judgment,” and make it correctly. Id., at 480; see
+Adams v. Alabama, 578 U. S. 994, 999 (2016) (Sotomayor ,
+J., concurring in decision to grant, vacate, and remand).
+Finally, in Montgomery, this Court confirmed the substan-
+tive nature of Miller 's prohibition on LWOP for most juve-
+niles. Montgomery held that Miller applies retroactively in
+cases on collateral review because it “rendered life without
+parole an unconstitutional penalty for . . . juvenile offenders
+whose crimes reflect the transient immaturity of youth.”
+577 U. S., at 208. Under the retroactivity doctrine in Teague
+v. Lane, 489 U. S. 288 (1989), a new constitutional rule is
+considered “substantive,” and thus retroactive, if it “alters
+the range of conduct or the class of persons that the law
+punishes.” Montgomery, 577 U. S., at 206 (internal quota-
+tion marks omitted); see Teague, 489 U. S., at 311 (plurality
+opinion). A procedural rule, on the other hand, “regulate[s]
+only the manner of determining the defendant's culpability.”
+Montgomery, 577 U. S., at 206 (emphasis deleted; internal
+quotation marks omitted). Such rules generally have not
+applied retroactively. Id., at 198.
+Montgomery recognized that Miller “has a procedural
+component,” in that “[a] hearing where `youth and its attend-
+ant characteristics' are considered as sentencing factors is
+necessary to separate those juveniles who may be sentenced
+to life without parole from those who may not.” 577 U. S.,
+at 209–210 (quoting Miller, 567 U. S., at 465). The Court
+made clear, however, that “[t]he hearing does not replace . . .
+Miller 's substantive holding that life without parole is an
+excessive sentence for children whose crimes reflect tran-
+sient immaturity.” 577 U. S., at 210. Rather, the hearing
+“gives effect” to Miller 's prohibition on LWOP by “en-
+abl[ing] a prisoner to show that he falls within the category
+of persons whom the law may no longer punish [with
+LWOP].” 577 U. S., at 210. Thus, under Miller, juvenile
+offenders “must be given the opportunity to show their
+crime did not reflect irreparable corruption; and, if it did not,
+their hope for some years of life outside prison walls must
+be restored.” 577 U. S., at 213.
+II
+A
+Today, the Court distorts Miller and Montgomery beyond
+recognition. According to the majority, “a State's discre-
+tionary sentencing system is both constitutionally necessary
+and constitutionally sufficient” for a State to sentence a juve-
+nile convicted of homicide to LWOP. Ante, at 105. “[S]o
+long as the sentencer has discretion to `consider the mitigat-
+ing qualities of youth' and impose a lesser punishment,” any
+juvenile convicted of homicide may be sentenced to LWOP,
+even if his crime reflects transient immaturity. Ante, at 106
+(quoting Miller, 567 U. S., at 476). It does not matter
+whether the sentencer meaningfully considers youth: The
+Court assumes it will, see ante, at 114, but ultimately, the
+mere existence of “a discretionary sentencing procedure suf-
+fces,” ante, at 118.
+The Court rests its conclusion on Montgomery's modest
+statement that “Miller did not impose a formal factfinding
+requirement,” and so “a finding of fact regarding a child's
+incorrigibility . . . is not required.” 577 U. S., at 211. This
+statement is the linchpin of the Court's opinion. See ante,
+at 101, 105, 106, 110–113. As the Court quietly admits in a
+footnote, however, Montgomery went on to clarify that the
+fact “[t]hat Miller did not impose a formal factfinding re-
+quirement does not leave States free to sentence a child
+whose crime reflects transient immaturity to life without pa-
+role. To the contrary, Miller established that this punish-
+ment is disproportionate under the Eighth Amendment.”
+Montgomery, 577 U. S., at 211; see ante, at 106–107, n. 2
+(quoting the same).
+Montgomery was equally explicit elsewhere: “Miller . . .
+did more than require a sentencer to consider a juvenile of-
+fender's youth before imposing life without parole.” 577
+U. S., at 208. Sentencing discretion and “[a] hearing where
+`youth and its attendant characteristics' are considered as
+sentencing factors” are necessary to “giv[e] effect to Miller 's
+substantive holding that life without parole is an excessive
+sentence for children whose crimes reflect transient immatu-
+rity,” but they “d[o] not replace” it. Id., at 210. “Even if a
+court considers a child's age before sentencing him or her to
+a lifetime in prison, that sentence still violates the Eighth
+Amendment for a child whose crime reflects ` “unfortunate
+yet transient immaturity.” ' ” Id., at 208. If a juvenile of-
+fender's crime “did not reflect irreparable corruption,” his
+“hope for some years of life outside prison walls must be
+restored.” Id., at 213. The Court today never addresses
+Montgomery's clear articulation of Miller 's essential holding.
+The lone statement on which the Court fixates recognizes
+only that Miller does not mandate a particular procedure for
+considering a defendant's youth or explaining the sentencer's
+decision. Miller certainly does not require sentencers to in-
+voke any magic words. Using this procedural flexibility,
+States have adopted different approaches to Miller 's inquiry.
+For instance, in some States, the prosecution must prove
+that a juvenile offender is permanently incorrigible beyond
+a reasonable doubt; in others, the sentencing judge must
+make a formal finding of irreparable corruption on the rec-
+ord. See Brief for American Bar Association as Amicus
+Curiae 14–15, 19–21. As the Court correctly notes, Miller
+does not require any one of “those particular policy ap-
+proaches.” Ante, at 121.
+What is necessary, however, is “that a sentencer decide
+whether the juvenile offender before it is a child whose
+crimes reflect transient immaturity or is one of those rare
+children whose crimes reflect irreparable corruption.”
+Tatum v. Arizona, 580 U. S. 952, 954 (2016) (Sotomayor , J.,
+concurring in decision to grant, vacate, and remand) (inter-
+nal quotation marks omitted). That is all petitioner Brett
+Jones seeks. See Tr. of Oral Arg. 6 (“On the most funda-
+mental level . . . what we need is a sentencing judge who
+understands that permanent incorrigibility is the dispositive
+rule and determines whether the defendant fts within that
+rule. And there are any number of ways that it could be
+done”); Brief for Petitioner 31 (challenging the “failure to
+find in any form whether Brett is permanently incorrigi-
+ble”). As Justice Thomas recognizes, “there must be a de-
+termination as to whether Jones falls within th[e] protected
+class” of children who are ineligible for LWOP. Ante, at 126
+(opinion concurring in judgment). Otherwise, the line be-
+tween those who may be sentenced to LWOP and those who
+may not “is more fanciful than real.” Ibid.
+The Court attempts to paper over its mischaracterization
+of Miller and Montgomery in several ways. First, it claims
+that Miller barred only “mandatory life-without-parole sen-
+tences,” not “discretionary life-without-parole sentences.”
+Ante, at 103. Miller did prohibit mandatory LWOP sen-
+tences for juveniles. See 567 U. S., at 465. To say that Mil-
+ler is limited to mandatory LWOP sentences, however, is to
+ignore half of its reasoning. Miller relied on “the confuence
+of . . . two lines of precedent.” Id., at 470. In one line of
+cases, the Court had interpreted the Eighth Amendment to
+require that sentencers make individualized, discretionary
+decisions when imposing the death penalty. For instance, in
+Lockett v. Ohio, 438 U. S. 586 (1978), a plurality of the Court
+concluded that “the sentencer, in all but the rarest kind of
+capital case, [can]not be precluded from considering, as a mit-
+igating factor, any aspect of a defendant's character or record
+and any of the circumstances of the offense.” Id., at 604
+(emphasis deleted; footnote omitted). Miller explained that
+mandatory LWOP sentences violate “individualized sentenc-
+ing cases” like Lockett because they “preclude a sentencer
+from taking account of an offender's age and the wealth
+of characteristics and circumstances attendant to it.” 567
+U. S., at 476–477.
+The Court now pretends that Miller 's reasoning ended
+there. It insists that all Miller required was “a sentencing
+procedure similar to the procedure that this Court has re-
+quired for the individualized consideration of mitigating cir-
+cumstances in capital cases such as Woodson v. North Caro-
+lina, 428 U. S. 280, 303–305 (1976) (plurality opinion), Lockett
+v. Ohio, 438 U. S. 586, 597–609 (1978) (plurality opinion), and
+Eddings v. Oklahoma, 455 U. S. 104, 113–115 (1982).” Ante,
+at 108. Reading that conclusion, one would expect Miller
+to have announced that it rested solely on those cases.
+Miller was clear, however, that it drew primarily from a
+different line of precedent headed by Roper and Graham,
+which “adopted categorical bans on sentencing practices
+based on mismatches between the culpability of a class of
+offenders and the severity of a penalty,” regardless of the
+procedures used to impose the sentences. Miller, 567 U. S.,
+at 470. These cases set forth a substantive proportionality
+principle that the individualized-sentencing cases did not:
+“[L]ife-without-parole sentences, like capital punishment,
+may violate the Eighth Amendment when imposed on chil-
+dren” because “the characteristics of youth, and the way
+they weaken rationales for punishment, can render a life-
+without-parole sentence disproportionate.” Id., at 473.
+Mandatory and discretionary sentencing schemes alike can
+produce disproportionate sentences. Regardless of how it is
+imposed, a juvenile death sentence is unconstitutional under
+Roper, and a juvenile sentence of LWOP for a nonhomicide
+offense is unconstitutional under Graham. See Roper, 543
+U. S., at 575 (holding “that the death penalty cannot be im-
+posed upon juvenile offenders”); Graham, 560 U. S., at 74
+(drawing a “clear line” against “life without parole for juve-
+nile nonhomicide offenders”). So, too, with Miller: No set of
+discretionary sentencing procedures can render a sentence
+of LWOP constitutional for a juvenile whose crime reflects
+“unfortunate yet transient immaturity.” 567 U. S., at 479
+(internal quotation marks omitted).
+The Court claims that Miller relied on Roper and Graham
+“for a simple proposition: Youth matters in sentencing.”
+Ante, at 109. That is true, but the Court confates two ways
+in which youth matters. When Miller was decided, the
+Court's individualized-sentencing cases had already firmly
+established “that a defendant's youth is a relevant mitigating
+circumstance that must be within the effective reach of a
+capital sentencing jury.” Johnson v. Texas, 509 U. S. 350,
+367 (1993); see also Eddings v. Oklahoma, 455 U. S. 104, 116
+(1982) (requiring that sentencers consider “the chronological
+age of a minor” and “the background and mental and emo-
+tional development of a youthful defendant”). The Miller
+Court thus did not need to cite Roper and Graham as a sepa-
+rate “stran[d] of precedent,” Miller, 567 U. S., at 470, for that
+long-recognized proposition. It drew on Roper and Graham
+instead to set a substantive limit on the imposition of LWOP
+on juvenile offenders, even when they commit homicide.
+The Court today reverses course and concludes that youth
+does not matter in this way.
+Next, the Court exaggerates the meaning of two state-
+ments from Miller, arguing that it “mandated `only that a
+sentencer follow a certain process,' ” rather than “ `cate-
+gorically bar[ring] a penalty for a class of offenders or type
+of crime[,] as, for example, we did in Roper or Gra-
+ham.' ” Ante, at 106, 109 (quoting Miller, 567 U. S., at 483).
+Again, Montgomery already rejected this misinterpretation:
+“Miller, it is true, did not bar a punishment for all juvenile
+offenders,” or all juvenile offenders convicted of certain
+crimes, “as the Court did in Roper or Graham.” 577 U. S.,
+at 209. “Miller did bar life without parole, however, for all
+but the rarest of juvenile offenders, those whose crimes re-
+fect permanent incorrigibility.” Ibid. To “separate those
+juveniles who may be sentenced to life without parole from
+those who may not,” as Miller requires, sentencers must fol-
+low a certain process: conducting a “hearing where `youth
+and its attendant characteristics' are considered.” 577 U. S.,
+at 210. That process is not an end in itself. Rather, it
+“gives effect to Miller 's substantive holding that life without
+parole is an excessive sentence for children whose crimes
+reflect transient immaturity.” Ibid.
+Finally, the Court argues that Miller offered nothing more
+than a prediction that “a discretionary sentencing proce-
+dure would help make life-without-parole sentences rela-
+tively rare.” Ante, at 112. Miller 's substantive rule was
+not a prediction. Rather, Miller held that juvenile LWOP
+sentences must be rare because it is only “the rare juvenile
+offender whose crime reflects irreparable corruption.” 567
+U. S., at 479–480 (internal quotation marks omitted). Sim-
+ply put, there are very few juveniles for whom the “ `signa-
+ture qualities' ” of youth do not undermine the penological
+justifications for LWOP. Id., at 476. Youth is “a time
+of immaturity, irresponsibility, impetuousness, and reck-
+lessness,” and, almost invariably, those “qualities are all
+transient.” Ibid. (internal quotation marks and brackets
+omitted).
+In any event, the data since Miller prove that sentenc-
+ing discretion alone will not make LWOP a rare sentence for
+juvenile offenders. Even after Montgomery, Mississip-
+pi courts require only that a sentencer consider youth-
+related factors “in a non-arbitrary fashion” before impos-
+ing a sentence of LWOP. See, e. g., Miller v. State, 327 So.
+3d 121, 129 (Miss. App. 2020). Unbound by Miller 's es-
+sential holding, more than a quarter of Mississippi's re-
+sentencings have resulted in the reimposition of LWOP.
+See Brief for Juvenile Law Center et al. as Amici Cur-
+iae 20.1
+Pennsylvania, in contrast, has recognized that “Miller re-
+quires far more than mere consideration of an offender's
+age,” as “a life-without-parole sentence imposed on a juvenile
+is illegal” unless “the defendant will forever be incorrigible,
+without any hope for rehabilitation.” Commonwealth v.
+Batts, 640 Pa. 401, 440, 444, 163 A. 3d 410, 433, 435 (2017).
+Pennsylvania has adopted a number of procedures to guide
+sentencing courts in applying Miller 's rule, including a pre-
+sumption against juvenile LWOP that the State must rebut
+through proof beyond a reasonable doubt. 640 Pa., at 476,
+163 A. 3d, at 454–455. Fewer than 2 percent of resentenc-
+ings in Pennsylvania have resulted in the reimposition of
+LWOP. See The Campaign for the Fair Sentencing of
+Youth, Tipping Point: A Majority of States Abandon Life-
+Without-Parole Sentences for Children 7 (2018) (Tipping
+Point).
+These States' experiences show that juvenile LWOP sen-
+tences will not be rare simply by virtue of sentencing discre-
+tion. Sentencers will not “necessarily . . . consider the de-
+1 Elsewhere, the numbers are even more alarming. Like Mississippi
+courts, Louisiana courts have concluded that “Miller requires the sentenc-
+ing court to consider an offender's youth and attendant characteristics as
+mitigating circumstances.” State v. Keith, 51,389, p. 3 (La. App. 2 Cir.
+6/21/17), 223 So. 3d 767, 770. As of 2020, Louisiana has imposed LWOP
+on an astonishing 57 percent of eligible juvenile offenders since Miller was
+decided. See Louisiana Center for Children's Rights, Louisiana's Compli-
+ance with Miller v. Alabama 1 (2020).
+fendant's youth,” ante, at 114, and they certainly will not
+necessarily conduct Miller 's essential inquiry. If sentencing
+discretion is all that is required, far too many juvenile offend-
+ers will be sentenced to die in prison. 2
+B
+The Court's misreading of Miller and Montgomery is
+egregious enough on its own. The Court twists precedent
+even further, however, by distorting Miller in a way that
+cannot be reconciled with Montgomery's holding that Miller
+applies retroactively under the Teague doctrine. See ante,
+at 128 (opinion of Thomas, J.). That doctrine divides new
+rules of constitutional law into two categories: substantive
+and procedural. As noted above, Montgomery held that
+Miller applies retroactively based solely on “Teague's first
+exception for substantive rules.” 577 U. S., at 200. For
+Montgomery to make any sense, then, Miller must have
+done more than mandate a certain procedure. Rather, it
+“eliminated a State's power to . . . impose a given punish-
+ment.” 577 U. S., at 201. 3
+2 The harm from these sentences will not fall equally. The racial dispar-
+ities in juvenile LWOP sentencing are stark: 70 percent of all youths sen-
+tenced to LWOP are children of color. See Tipping Point 10; see also
+Brief for Juvenile Law Center et al. as Amici Curiae 21 (reporting that
+“[i]n the years before Graham and Miller, courts sentenced Black juvenile
+offenders to life imprisonment without parole ten times more often than
+white offenders”); Mills, Dorn, & Hritz, Juvenile Life Without Parole in
+Law and Practice: Chronicling the Rapid Change Underway, 65 Am.
+U. L. Rev. 535, 579–580 (2016) (“Non-whites are overrepresented among
+the JLWOP population in ways perhaps unseen in any other aspect of
+our criminal justice system”). The trend has worsened since Miller
+v. Alabama, 567 U. S. 460 (2012): 72 percent of children sentenced to
+LWOP after Miller were Black, compared to 61 percent of children sen-
+tenced before Miller. Tipping Point 10.
+3 Justice Thomas agrees that Montgomery mandates such a reading of
+Miller, but he claims that Miller itself did not establish a substantive rule.
+See ante, at 123–125. That is incorrect. As discussed, Miller prohibited
+mandatory LWOP sentences not only because mandatory sentencing pre-
+Today, however, the Court transforms Miller into a deci-
+sion requiring only a “discretionary sentencing procedure.”
+Ante, at 118. At the same time, the Court insists that it
+“does not disturb” Montgomery's holding “that Miller ap-
+plies retroactively on collateral review.” Ante, at 118. In
+other words, the Court rewrites Miller into a procedural
+rule and, paradoxically, maintains that Miller was neverthe-
+less “substantive for retroactivity purposes.” Ante, at 110.
+That explanation undoes Teague's distinction between sub-
+stantive and procedural rules. If a rule that requires only
+a sentencing procedure is substantive for retroactivity pur-
+poses, then this Court has improperly classified numerous
+sentencing rules as procedural. To take one example, in
+Mills v. Maryland, 486 U. S. 367 (1988), this Court invali-
+dated a capital sentencing procedure requiring jurors to dis-
+regard mitigating factors that were not found unanimously.
+That holding was procedural because it altered only “the
+range of permissible methods for determining whether a de-
+fendant's conduct is punishable by death.” Schriro v. Sum-
+merlin, 542 U. S. 348, 353 (2004). Under the Court's logic
+today, however, the rule in Mills and other rules of sentenc-
+ing procedure should have applied retroactively, even though
+the Court has held that they do not. See Beard v. Banks,
+542 U. S. 406, 416–417 (2004) (holding that Mills announced
+a procedural rule); Summerlin, 542 U. S., at 354 (treating as
+procedural the rule set forth in Ring v. Arizona, 536 U. S.
+584 (2002), that a jury, rather than a judge, must find aggra-
+vating circumstances necessary for the imposition of the
+cludes individualized consideration of a juvenile's youth, but also because
+“such a scheme poses too great a risk of disproportionate punishment.”
+567 U. S., at 479. Applying the principles of proportionality set forth in
+Roper and Graham, Miller “rendered life without parole an unconsti-
+tutional penalty for a class of defendants because of their status[,] that
+is, juvenile offenders whose crimes reflect the transient immaturity of
+youth.” Montgomery, 577 U. S., at 208 (internal quotation marks omit-
+ted). As a result, “Miller is no less substantive than are Roper and Gra-
+ham.” Id., at 209.
+death penalty). If future litigants make such arguments, it
+will be because the Court's contortion of Miller and Mont-
+gomery paves the way for them to do so.
+C
+Rather than read Miller and Montgomery fairly, the
+Court reprises Justice Scalia's dissenting view in Montgom-
+ery that Miller requires only a “youth-protective proce-
+dure.” 577 U. S., at 225 (emphasis deleted). Justice Scalia's
+view did not prevail, however. Montgomery's interpreta-
+tion of Miller is binding precedent, just as Miller itself is.
+Any doubts the Court may harbor about the merits of
+those decisions do not justify overruling them. See June
+Medical Services L. L. C. v. Russo, 591 U. S. –––, ––– (2020)
+(Roberts, C. J., concurring in judgment) (“[F]or precedent
+to mean anything, the doctrine must give way only to a ra-
+tionale that goes beyond whether the case was decided
+correctly”). As this Court has consistently reiterated, “a
+departure from precedent demands special justification.”
+Gamble v. United States, 587 U. S. –––, ––– (2019) (internal
+quotation marks omitted); accord, Kisor v. Wilkie, 588 U. S.
+–––, ––– – ––– (2019); Kimble v. Marvel Entertainment, LLC ,
+576 U. S. 446, 455–456 (2015).
+The Court offers no such justification today. Nor could it.
+The traditional stare decisis factors include the quality of the
+precedent's reasoning, its consistency with other decisions,
+legal and factual developments since the precedent was de-
+cided, and its workability. See Ramos, 590 U. S., at –––
+(opinion of Kavanaugh, J.). None supports overturning
+Miller or Montgomery. As explained above, those decisions
+are firmly rooted in two lines of precedent and fundamental
+principles of proportionality. 4 Subsequent legal and fact-
+4 Justice Thomas claims that Miller and Montgomery “refashio[n] the
+Eighth Amendment to accommodate this Court's views of juvenile jus-
+tice.” Ante, at 122; see ante, at 128. In so doing, Justice Thomas
+“seek[s] to relitigate old Eighth Amendment battles” based on “arguments
+ual developments have reinforced their reasoning. Fifteen
+state courts of last resort, for instance, have recognized that
+Miller announced a substantive rule barring LWOP for any
+juvenile whose crime does not reflect permanent incorrigibil-
+ity. See Reply Brief 18, n. 6. Twenty States and the Dis-
+trict of Columbia have changed their policies to prohibit
+LWOP sentences for all juvenile offenders, including a num-
+ber of States that “had discretionary sentencing schemes or
+a mixture of both mandatory and discretionary sentences.”
+Brief for Former West Virginia Delegate John Ellem et al.
+as Amici Curiae in Mathena v. Malvo, O. T. 2019, No. 18–
+217, pp. 34–35; S. 256, 133d Gen. Assembly (Ohio 2020); Va.
+Code Ann. § 53.1–165.1 (2020). Finally, Miller and Mont-
+gomery have not proved unworkable: To the contrary, they
+have spurred reforms across the country while “avoid[ing]
+intruding more than necessary upon the States' sovereign
+administration of their criminal justice systems.” Mont-
+gomery, 577 U. S., at 211. Requiring sentencers to make an
+explicit or implicit determination of permanent incorrigibil-
+ity before sentencing a juvenile offender to LWOP imposes
+no costs that justify overturning precedent.
+Instead of addressing these factors, the Court simply re-
+writes Miller and Montgomery to say what the Court now
+wishes they had said, and then denies that it has done any
+such thing. See ante, at 118. The Court knows what it is
+doing. It admits as much. Rather than try to harmonize
+its decision today with Montgomery's retroactivity holding,
+it confesses in a footnote that its rewriting of precedent is
+inconsistent with Montgomery and basic retroactivity princi-
+ples. See ante, at 110–111, n. 4. The Court's solution? It
+urges lower courts to simply ignore Montgomery going for-
+this Court has previously (and often) rejected.” Miller, 567 U. S., at 471,
+n. 4; see Graham v. Florida, 560 U. S. 48, 58 (2010) (“To determine
+whether a punishment is cruel and unusual, courts must look beyond his-
+torical conceptions to the evolving standards of decency that mark the
+progress of a maturing society” (internal quotation marks omitted)).
+ward. Ante, at 111, n. 4 (“[T]he Court's retroactivity prece-
+dents that both pre-date and post-date Montgomery . . . and
+not Montgomery . . . must guide the determination of
+whether rules other than Miller are substantive”).5 Instead
+of “disturb[ing]” Montgomery's retroactivity holding, ante,
+at 111, n. 4, the Court attempts to bury it.
+How low this Court's respect for stare decisis has sunk.
+Not long ago, that doctrine was recognized as a pillar of the
+“ `rule of law,' ” critical to “keep the scale of justice even and
+steady, and not liable to waver with every new judge's opin-
+ion.” Ramos, 590 U. S., at ––– – ––– (opinion of Kava-
+naugh, J.) (internal quotation marks omitted). Given these
+weighty interests, the Court “usually require[d] that a party
+ask for overruling, or at least obtain[ed] briefing on the over-
+ruling question,” and then “carefully evaluate[d] the tradi-
+tional stare decisis factors.” Barr v. American Assn. of Po-
+litical Consultants, Inc., 591 U. S. –––, –––, n. 5 (2020).
+Now, it seems, the Court is willing to overrule precedent
+without even acknowledging it is doing so, much less provid-
+ing any special justification. It is hard to see how that ap-
+proach is “founded in the law rather than in the proclivities
+of individuals.” Ramos, 590 U. S., at ––– (opinion of Kava-
+naugh, J.) (internal quotation marks omitted).
+For present purposes, sentencers should hold this Court
+to its word: Miller and Montgomery are still good law.6 See
+5 Of course, as already discussed, the Court is perfectly content to rely
+on Montgomery for its statement that a finding of fact regarding perma-
+nent incorrigibility is not required. That isolated piece of Montgomery,
+apparently, still carries the full weight of precedent. Anything more in-
+convenient, however, the Court today discards.
+6 The Court leaves open the possibility of an “as-applied Eighth Amend-
+ment claim of disproportionality.” Ante, at 120 (citing Harmelin v. Mich-
+igan, 501 U. S 957, 996–1009 (1991) (Kennedy, J., concurring in part and
+concurring in judgment)). In the context of a juvenile offender, such a
+claim should be controlled by this Court's holding that sentencing “a child
+whose crime reflects transient immaturity to life without parole . . . is
+disproportionate under the Eighth Amendment.” Montgomery, 577 U. S.,
+ante, at 118 (“Today's decision does not overrule Miller or
+Montgomery”). Sentencers are thus bound to continue
+applying those decisions faithfully. Thankfully, many States
+have already implemented robust procedures to give effect
+to Miller and Montgomery. In other States, the responsi-
+bility falls squarely on individual sentencers to use their dis-
+cretion to “separate those juveniles who may be sentenced
+to life without parole from those who may not.” Montgom-
+ery, 577 U. S., at 210. Failing to do so violates the Eighth
+Amendment.
+III
+Brett Jones, like all juvenile offenders facing a sentence of
+LWOP, deserves an answer to Miller 's essential question:
+whether his crime demonstrates that he is permanently in-
+corrigible. Ordinarily, an appellate court should not pass on
+that question in the first instance. But the Court today
+guarantees that the state sentencing court will never have
+to give Jones an answer. It thus bears acknowledging that,
+based on the evidence presented below, it is hard to see how
+Jones is one of the rare juvenile offenders “whose crime re-
+flects irreparable corruption.” Miller, 567 U. S., at 479–480
+(internal quotation marks omitted). In fact, many aspects
+of Jones's crime seem to epitomize “unfortunate yet transient
+immaturity.” Id., at 479 (internal quotation marks omitted);
+see 2018 WL 10700848, *11 (Miss., Nov. 27, 2018) (Kitchens,
+P. J., dissenting) (“Jones's actions reflect [the hallmark] fea-
+tures [of youth] at every turn”). 7
+at 211; see Miller, 567 U. S., at 481 (“Harmelin had nothing to do with
+children and did not purport to apply its holding to the sentencing of juve-
+nile offenders”).
+7 Even as it disclaims any responsibility for evaluating permanent incor-
+rigibility, the Court emphasizes the details of Jones's crime and alludes to
+other homicides committed by juveniles throughout the country. See
+ante, at 102, 105. The gravity of these violent acts was not lost on the
+Court in Miller, which set forth its substantive rule specifically for the
+subset of juvenile offenders who commit homicide. See also Roper, 543
+U. S., at 572 (“[W]e cannot deny or overlook the brutal crimes too many
+Jones killed his grandfather just 23 days after Jones's 15th
+birthday. App. 71. In his short life before the murder,
+Jones was the victim of violence and neglect that he was too
+young to escape. Jones's biological father was an alcoholic
+who physically abused Jones's mother, knocking out her teeth
+and breaking her nose on several occasions. Id., at 71–72.
+The two separated when Jones was two years old. Id., at
+71. Jones's mother then married Jones's stepfather, who was
+also abusive, especially toward Jones. He beat Jones with
+belts, switches, and a paddle labeled “The Punisher.” Id.,
+at 39–40, 78, 81. He rarely called Jones or his brother by
+their names, preferring cruel epithets. Id., at 77, 81, 101
+(“[H]is favorite thing to call them was little motherf***ers”).
+According to Jones's mother, Jones's stepfather “hated Brett
+more because Brett reminded him of [Jones's biological fa-
+ther].” Id., at 78. According to Jones's grandmother, he was
+simply “easier to hurt and beat.” Id., at 39. In 2004, after
+Jones came home late one day, Jones's stepfather few into a
+rage and grabbed Jones by the neck, preparing to beat him
+with a belt. Id., at 128–129. This time, however, Jones
+fought back and told his stepfather, “No, you're not going to
+hit me ever again.” Id., at 80 (emphasis deleted). Jones
+took a swing at his stepfather and split open his ear. Ibid.
+The police were called, and Jones was arrested. 8 Ibid.
+Jones's stepfather then threatened to kick out Jones's mother
+and brother if Jones did not move out. Id., at 81. As a
+result, Jones's grandparents picked him up less than two
+juvenile offenders have committed”). Notwithstanding the unique “moral
+culpability and consequential harm” of homicide, Miller reasoned that
+Graham's insights about children “are evident in the same way, and to the
+same degree.” 567 U. S., at 473. The point of Miller and Montgomery
+is that juveniles, even those who commit murder, have the capacity to
+grow and mature, to rehabilitate. The Eighth Amendment requires that
+sentencers (and reviewing courts) not presume that most juveniles will
+forever remain the “murderers,” ante, at 109, they once were.
+8 This was Jones's only prior contact with the juvenile justice system.
+See Brief for Petitioner 35.
+months before the murder and brought him to Mississippi.
+Id., at 47.
+When he moved, Jones lost access to medications that he
+had been taking for mental health issues. Id., at 38–39. 9
+When he was 11 or 12 years old, Jones began cutting himself
+so that he “would not feel the panic and the hurt that was
+inside of [his] head.” Id., at 75. He later experienced hal-
+lucinations and was prescribed antidepressant medications.
+Id., at 92, 124. These medications were supposed to be ta-
+pered off gradually. Id., at 38–39. When Jones left for Mis-
+sissippi, however, they were abruptly cut off.
+The murder was precipitated by a dispute over Jones's girl-
+friend. After Jones moved, his girlfriend ran away from her
+home in Florida to stay at Jones's grandparents' home in se-
+cret. 938 So. 2d 312, 313 (Miss. App. 2006). On the day of
+the murder, Jones's grandfather, Bertis Jones, discovered that
+Jones's girlfriend had been staying in their home. Ibid. He
+ordered her out. Ibid. Later that day, Jones was making
+a sandwich in the kitchen using a steak knife. Id., at 314.
+Jones said something disrespectful to his grandfather, who
+started yelling. Ibid. The two began pushing each other,
+and Jones's grandfather tried to hit him. Ibid. Jones
+stabbed his grandfather with the steak knife. Ibid. Jones's
+grandfather came at Jones again, and the fight continued.
+Ibid. Jones ultimately stabbed his grandfather eight times,
+9 Jones's mother has also been diagnosed with a number of conditions,
+including posttraumatic stress disorder, bipolar disorder, and manic de-
+pression. App. 74. As a result, throughout Jones's life, she experienced
+panic attacks and emotional breakdowns. Id., at 74–75. As a child, Jones
+witnessed his mother cutting herself. Id., at 122–123. The types of ad-
+verse childhood experiences that Jones endured, including physical abuse,
+domestic violence, and mental illness in family members, are strong pre-
+dictors of negative outcomes for children, including violence. J. Garbar-
+ino, Miller's Children 10–12 (2018); see id., at 12 (“[E]levated adversity
+scores are as common among killers as they are rare in the general adoles-
+cent population”).
+grabbing a second knife when the first one broke. 2018 WL
+10700848, *7 (Kitchens, P. J., dissenting).
+No one disputes that this was a terrible crime. Miller,
+however, held that “the distinctive attributes of youth dimin-
+ish the penological justifications for imposing the harshest
+sentences on juvenile offenders, even when they commit ter-
+rible crimes.” 567 U. S., at 472. Jones's crime reflects these
+distinctive attributes: “That a teenager in trouble for having
+been caught concealing his girlfriend at his grandparents'
+home would attempt to solve the problem by resorting to
+violence dramatically epitomizes immaturity, impetuosity,
+and failure to appreciate risks or consequences.” 2018 WL
+10700848, *11 (Kitchens, P. J., dissenting).
+Jones then attempted to save his grandfather by adminis-
+tering CPR. 938 So. 2d, at 314. When that failed, he clum-
+sily tried to hide what he had done. 2018 WL 10700848, *11
+(Kitchens, P. J., dissenting). He was spotted walking around
+in plain sight, covered in blood, trembling and muttering to
+himself. Ibid. When a neighbor questioned him, Jones told
+a feeble lie, claiming that his grandfather had left and that
+the blood on his clothes was “ `a joke.' ” 938 So. 2d, at 314.
+Jones then met up with his girlfriend and attempted to hitch-
+hike, but not to make a getaway. Instead, he was trying to
+go see his grandmother to tell her what had happened. Id.,
+at 315. The police stopped Jones, found that he was carry-
+ing a pocket knife, and asked if it was the knife he “ `did it
+with.' ” Ibid. Jones replied, “ `No, I already got rid of it.' ”
+Ibid. He then agreed to be interviewed by three police de-
+tectives, “without invoking his right to silence or his right
+to counsel and without a parent or guardian present.” 2018
+WL 10700848, *11 (Kitchens, P. J., dissenting). Thus,
+“Jones's behavior in the immediate aftermath of his tragic
+actions also demonstrated his fundamental immaturity.”
+Ibid.
+At his resentencing hearing, Jones provided evidence that
+not only is he capable of rehabilitation, but he had in fact
+already matured significantly since his crime. In more than
+fve years in prison, Jones committed only two disciplinary
+infractions. App. 134–135. While incarcerated, Jones
+earned his GED and sought out work, becoming a “very good
+employee.” Id., at 106, 109, 153. Jones and his prison unit
+manager often discussed the Bible, and in time, his unit man-
+ager came to think of Jones “almost like [a] son.” Id., at
+107. Jones confded in him that Jones “regretted” what he
+had done. Id., at 112.
+Jones's grandmother (Bertis Jones's widow) testifed at
+Jones's resentencing hearing and submitted an amicus brief
+to this Court. She remains “steadfast in her belief that
+Brett is not and never was irreparably corrupt.” Brief for
+Madge Jones et al. as Amici Curiae 4. She speaks with
+Jones weekly, encouraging him as he takes college courses
+and serves in the prison ministry. Ibid. Jones's younger
+brother, Marty, and his other family members have also
+stayed by his side.
+This significant body of evidence does not excuse Jones's
+crime. It does mean, however, that under Miller and Mont-
+gomery, there is a strong likelihood that Jones is constitu-
+tionally ineligible for LWOP. His crime, while terrible, ap-
+pears to have been the product of “unfortunate yet transient
+immaturity.” Miller, 567 U. S., at 479 (internal quotation
+marks omitted). Notably, the State called no witnesses and
+offered no evidence at the resentencing hearing to rebut
+Jones's proof that his crime reflected the “recklessness” and
+“impulsivity” characteristic of juveniles. Montgomery, 577
+U. S., at 207 (internal quotation marks omitted); see App.
+23, 136.
+In resentencing Jones to LWOP, the sentencing court
+failed to apply Miller properly. Instead, it followed the in-
+structions of the Mississippi Supreme Court, which held that
+“Miller rendered [Mississippi's] sentencing scheme unconsti-
+tutional if, and only if, the sentencing authority fails to take
+into account characteristics and circumstances unique to ju-
+veniles.” 122 So. 3d 698, 702 (2013). Thus, the sentencing
+court simply considered the “Miller factors” as part of the
+“mitigating and the aggravating circumstances.” App. 149.
+It never addressed Miller 's central inquiry: whether Jones
+is one of the rare juveniles whose crimes reflect irreparable
+corruption. 567 U. S., at 479–480. Because the sentencing
+court failed to ask and answer this critical question, Jones's
+sentence should not stand.
+IV
+It is important not to lose sight of what is at stake in this
+case. “The Eighth Amendment's prohibition of cruel and
+unusual punishment guarantees individuals the right not to
+be subjected to excessive sanctions.” Miller, 567 U. S., at
+469 (internal quotation marks omitted). In Roper, Graham,
+Miller, and Montgomery, the Court recognized that this
+guarantee has special significance for children. The Eighth
+Amendment does not excuse children's crimes, nor does it
+shield them from all punishment. It does, however, demand
+that most children be spared from punishments that “giv[e] no
+chance for fulfllment outside prison walls, no chance for re-
+conciliation with society, no hope.” Graham, 560 U. S., at 79.
+Jones and other juvenile offenders like him seek only the
+possibility of parole. Not the certainty of release, but the
+opportunity, at some point in their lives, to show a parole
+board all they have done to rehabilitate themselves and to
+ask for a second chance. Jones recognizes that the parole
+board may ultimately decide he must spend his entire life
+behind bars. He simply requests that the State not “mak[e]
+the judgment at the outset that [he] never will be ft to reen-
+ter society.” Id., at 75. The Eighth Amendment requires
+that most juvenile offenders be given this small “hope for
+some years of life outside prison walls.” Montgomery, 577
+U. S., at 213. 10
+10 Having deprived Jones of his constitutional right, the Court gestures
+at a potential lifeline from other institutions, including the Mississippi
+Legislature or Governor. Ante, at 121. But “the remote possibility” of
+At his resentencing hearing, Jones told the court, “I'm not
+the same person I was when I was 15. . . . I've become a
+pretty decent person in life. And I've pretty much taken
+every avenue that I could possibly take in prison to rehabili-
+tate myself.” App. 152. “Minors do have the ability to
+change,” he reflected. Ibid. He noted in closing, “If you
+decide to send me back without the possibility of parole, I
+will still do exactly what I've been doing for ten years. But
+all I can do is ask you . . . please give me just one chance to
+show the world, man, like, I can be somebody. I've done
+everything I could over the past ten years to be some-
+body. . . . I can't change what was already done. I can just
+try to show . . . I've become a grown man.” Id., at 153.
+Today, Jones is 31. His time spent in prison has now
+eclipsed the childhood he had outside of it.
+Jones should know that, despite the Court's decision today,
+what he does in life matters. So, too, do the efforts of the
+almost 1,500 other juvenile offenders like Jones who are
+serving LWOP sentences. Of course, nothing can repair the
+damage their crimes caused. But that is not the question.
+The question is whether the State, at some point, must con-
+sider whether a juvenile offender has demonstrated maturity
+and rehabilitation sufficient to merit a chance at life beyond
+the prison in which he has grown up. See Graham, 560
+U. S., at 79. For most, the answer is yes.
+such action “does not mitigate the harshness of the sentence” that Jones
+now faces. Graham, 560 U. S., at 70. The Eighth Amendment guaran-
+tees juvenile offenders like Jones a basic constitutional protection against
+disproportionate punishments. The Court should not leave the vindica-
+tion of such important legal rights to others, or to chance.

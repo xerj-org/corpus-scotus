@@ -1,0 +1,595 @@
+Trump v. Slaughter — No. 25-332 — October Term 2025 — decided 6/29/26 — GORSUCH, J., concurring
+Citation: 609 U.S. 422
+Source: https://www.supremecourt.gov/opinions/25pdf/25-332_new_geil.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25–332
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, ET AL., PETITIONERS v. REBECCA
+KELLY SLAUGHTER
+ON WRIT OF CERTIORARI BEFORE JUDGMENT TO THE
+UNITED STATES COURT OF APPEALS FOR THE
+DISTRICT OF COLUMBIA CIRCUIT
+[June 29, 2026]
+ JUSTICE GORSUCH, concurring.
+To fulfill his constitutional duty to ensure the laws are
+faithfully executed, the Cou rt holds, the President must
+have the ability to remove principal officers who exercise
+executive power in his name.  That includes those who run
+independent agencies like the Federal Trade Commission
+(FTC). Ante, at 2. With all this, I agree.
+But neither can I ignore the implications that follow.  To-
+day, independent agencies do not just exercise executive
+law-enforcement powers. Cong ress has also delegated to
+them vast legislative and judicial powers, effectively allow-
+ing these agencies to make laws and decide disputes under
+them. And, after today’s decision, the President can effec -
+tively exercise all those powers too.
+It’s a development that raises important questions, not
+least these: Would Congress have delegated so much
+power, including legislative and judicial power, to inde-
+pendent agencies had it known that the President would
+come to control them?  How will Congress respond now—if
+realistically it can? And what , if anything, will this Court
+do about it?
+
+I
+A
+Begin with how we got here.  One strand of the story runs
+this way, and it starts in the academy.  In the early 20th
+century, a group of scholars including Woodrow Wilson and
+James Landis came to the view that our “simple tripartite
+form of government” was “inadequa[te] . . . to deal with
+modern problems.”  J. Landis, The Administrative Process
+1 (1938) (Landis). Really, they thought, our constitutional
+system had become “unworkable.”  F. Goodnow, Politics and
+Administration 14 (1900) (Goodnow); see also H. Laski, Au-
+thority in the Modern State 70–71 (1919).
+To meet modern challenges, Wilson and others argued,
+American government needed to reorient itself around the
+goal of operating with the “utmost possible efficiency.”  W.
+Wilson, The Study of Administration, 2 Pol. Sci. Q. 197
+(1887) (Wilson, Study of Administration).  Impressed by the
+perceived competence of the Prussian bureaucracy, they
+called on the Nation to stop “dogmatiz[ing] about the con-
+stitution of government.” Id., at 197–199 (emphasis de -
+leted); see also id., at 204, 217.  In our changing world, they
+said, the project of “distinguish[ing] . . . between” legisla-
+tive, executive, and judicial powers had to “g[i]ve way . . . to
+the exigencies of governance.” Landis 1–2.
+All told, Wilson and his followers argued for an entirely
+new model of “[p]ublic administration.”  Wilson, Study of
+Administration 212.  To be sure, this model had its nuances,
+and its proponents their disagreements. But a few ideas
+were central to the project.  First, new agencies needed to
+be created and staffed by scientific and technical “expert[s]”
+with the “technical skill” to translate “far-reaching . . . leg-
+islation into reality.” Landis 25–26; id., at 23–25 (empha-
+sizing the “need for expertness”).
+Second, these experts had to be insulated from political
+control. As Wilson put it, th e Nation’s traditional commit-
+ment to “popular sovereignty” entrusted too much to a
+
+3  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+“selfish, ignorant, timid, stubborn, or foolish” people.  Wil-
+son, Study of Administration 207–208.  And letting the pub-
+lic anywhere near the new bureaucracies would amount to
+letting “a rustic handl[e] delicate machinery.” Id., at 215;
+see also W. Wilson, Shorthand Diary, in 1 Papers of Wood-
+row Wilson 143 (A. Link ed. 1966) (“[U]niversal suffrage is
+at the foundation of every evil in this country”); cf. Goodnow
+85.
+Finally, to fulfill their new responsibilities, politically in-
+sulated agency experts needed power.  Lots of it. Much
+more than just executive authority to enforce the laws Con-
+gress writes.  They also required authority over “legislative
+and judicial acts.” W. Wilson, Notes for Lectures on Admin-
+istration at the Johns Hopkins (1891), in 7 Papers of Wood-
+row Wilson 136 (A. Link ed. 1969) (Wilson, Notes).  All told,
+they needed “legislative po wer,” “executive power,” and—
+while they were at it—“what ever power might be required
+to achieve the desired results.”  Landis 10; see also Wilson,
+Notes 138 (describing as “advantag[e]ous” the Prussian
+“union . . . of legislativ[e], administrative, and judicial func-
+tions”).
+B
+Influential as these ideas were, they met with some hard
+realities as they progressed from the academy into the halls
+of government. For an illustration, look no further than the
+FTC itself and the case at the center of today’s dispute,
+Humphrey’s Executor v. United States, 295 U. S. 602 (1935).
+Congress created the FTC in 1914 through legislation that
+by-then President Wilson signed into law.  See ch. 311, 38
+Stat. 717. In establishing the agency, Congress endowed it
+with considerable power both to define and prosecute “un-
+fair methods of competition.”  Id., at 719–720. And in the
+same breath, Congress insulated the agency’s leadership
+from democratic control, at least to a degree:  Once leaders
+were appointed by the President and confirmed by the
+
+Senate, Congress provided, the President could remove
+them only “for inefficiency, neglect of duty, or malfeasance
+in office.” Id., at 718.
+Even so, the notion that the FTC and agencies like it
+would be led by technical experts who would neutrally and
+scientifically chart the Nation’s path soon began to look a
+bit “quaint.” See E. Kagan, Presidential Administration,
+114 Harv. L. Rev. 2245, 2261 (2001).  Maybe that was be -
+cause politicians remained in control of the appointment
+and confirmation processes. Maybe it was because they re-
+tained so many other ways to influence an agency’s actions.
+Maybe it was because policymaking, even when performed
+by technical experts, almost always requires tradeoffs be-
+tween competing values. Or maybe it was because of some
+combination of these and other factors.  See N. Rao, Admin-
+istrative Collusion: How Delegation Diminishes the Collec-
+tive Congress, 90 N. Y. U. L. Rev. 1463, 1477–1484 (2015).
+Whatever the causes, it didn’t take long for the problem
+to surface. Just take William E. Humphrey.  In 1925, about
+a decade after giving up his seat in Congress for a failed
+Senate bid, he landed a job as one of the FTC’s Commission-
+ers. See G. Davis, The Transformation of the Federal Trade
+Commission, 1914–1929, 49 Miss. Valley Hist. Rev. 437,
+445–448 (1962). It seems Humphrey’s primary qualifica-
+tion for the job wasn’t so much his technical expertise as his
+loyalty to the Republican party then holding the White
+House, along perhaps with his “close connection[s] with
+northwestern lumber interests, which had suffered the un-
+favorable publicity of [an FTC] investigation” in recent
+years. Id., at 445.
+If politics rather than neutral technical expertise landed
+Humphrey the job, they also soon made him a target for re-
+moval. Shortly after Democrats  swept the election of 1932,
+President Franklin D. Roosevelt fired Humphrey.  The
+President did not accuse him of inefficiency, neglect of duty,
+or malfeasance, the standard Congress had set for the
+
+5  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+removal of FTC Commissioners.  See 38 Stat. 718.  Nor does
+it seem the President was especially concerned with
+Humphrey’s expertise (or lack of it).  Instead, it appears
+that President Roosevelt could not tolerate the “ada-
+mant[ly] conservative” Humphrey holding influence over
+the FTC during “an important phase of the New Deal,” and
+he wanted someone more sympathetic for the job. W.
+Leuchtenburg, The Case of the Contentious Commissioner:
+Humphreys’ Executor v. U. S., in Freedom and Reform 305–
+306 (H. Hyman & L. Levy eds. 1967); see also id., at 305
+(reciting Humphrey’s complaint that he had been fired for
+“‘purely political reasons’” (quoting Letter from W. Humph-
+rey to G. Norris (Oct. 4, 1933))).
+C
+If the Wilsonian vision of agencies run by neutral experts
+began buckling under the weight of reality early on, an-
+other feature of the plan stuck. Those in charge of these
+new agencies often became very difficult to dislodge.
+Whether this result represented a faithful manifestation of
+the Wilsonian project or something else entirely poses an
+interesting question (political actors—like Humphrey—in-
+sulated from politics?). But that is how things unfolded,
+and once again Humphrey was at the center of it all.  So
+was this Court.
+When President Roosevelt fired Humphrey, he had good
+reason to think he stood on firm legal ground.  To be sure,
+Congress had imposed statutory restrictions on his removal
+authority and the President had not even pretended to com-
+ply with those restrictions wh en he dismissed Humphrey.
+But less than a decade earlier, this Court had held in Myers
+v. United States, 272 U. S. 52 (1926), that Article II of the
+Constitution extends to the President the power, un-
+bounded by contrary statutes, to remove presidentially ap-
+pointed officers like Humphrey.  See id., at 163–176.
+
+As it turned out, the President’s expectations proved mis-
+placed. When Humphrey sued to challenge his dismissal,
+this Court brushed Myers aside, upheld Congress’s removal
+restrictions, and declared Humphrey’s firing unlawful even
+though he was in no position to reclaim his post.  He died
+during the course of the litigation, leaving his heirs as the
+only immediate winners; the decision paved the way for
+them to secure his backpay.  See Humphrey’s, 295 U. S., at
+618, 632. But the broader implications of the Court’s deci -
+sion were unmistakable and me t with mixed reactions.
+James Landis greeted the decision with “deligh[t].”  J. Lan-
+dis, Mr. Justice Brandeis: A Law Clerk’s View, 46 Publica-
+tions of the Am. Jewish Hist. Soc. 467, 472 (1957).  No won-
+der. The Supreme Court, after all, had just signed off on at
+least one aspect of his new model of public administration
+by permitting Congress to insulate agency leaders from di-
+rect presidential control. Meanwhile, and for exactly the
+same reason, President Roosevelt reportedly “saw in the de-
+cision the most direct of all possible trespasses on his pow-
+ers as Chief Executive” and “was completely infuriated.”  J.
+Alsop & T. Catledge, The 168 Days 14 (1938).  So much so
+that “[i]t may very well have been [Humphrey’s], even more
+than the other decisions of 1935, which provided the motive
+for” President Roosevelt’s subs equent attempt to pack the
+Court. R. Tugwell, The Democratic Roosevelt 392 (1957).
+ But if Humphrey’s invited very different reactions, there
+was perhaps one thing nearly everyone could agree on. Af-
+ter the Court’s ruling, Congress rolled out one new “inde-
+pendent” agency after another.  Of course, the term “inde-
+pendent” was always a bit of a misnomer.  As we’ve seen,
+these agencies were never truly independent from politics
+or even the influence of the President’s appointment pow-
+ers. But the leadership of these new agencies at least en-
+joyed protection against at-will presidential removal. And
+Congress turned out so many new independent agencies
+that a committee President Roosevelt assembled a few
+
+7  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+years later complained of the rise of a new “headless ‘fourth
+branch’ of the Government, a haphazard deposit of irre-
+sponsible agencies and uncoordinated powers,” one that did
+“violence to the basic theory of the American Constitution.”
+President’s Committee on Administrative Management,
+Report on Administrative Management in the Government
+of the United States 36 (1937) (Roosevelt Committee). In
+all, the Committee found, Congress had already created “a
+dozen” agencies “independent” of the President. Id., at 36,
+40; see also Investigation of Executive Agencies of the Gov-
+ernment, 75th Cong., 1st Sess., 85 (S. Comm. Print 1937,
+prepared by the Brookings Inst .) (describing “vast and ex-
+tremely important fields of Government activity almost re-
+moved from the President’s direct administrative control”).
+D
+Congress’s newfound ability to insulate agencies from di-
+rect presidential control may have encouraged it to lean
+into the last essential pillar of Wilson’s design too. In
+Humphrey’s wake, Congress increasingly assigned broad
+powers to the agencies it created, including legislative and
+judicial powers. Before Humphrey’s , delegating those sorts
+of authorities to an agency risked “merely increasing” the
+President’s own power—he might remove agency heads and
+seek new ones who would do his bidding.  Landis 46; see
+also I. Sharfman, The Interstate Commerce Commission: A
+Study in Administrative Law and Procedure, pt. 2, p. 453
+(1931). But Humphrey’s changed the equation, making in-
+dependent agencies more tempting repositories for dele-
+gated powers that the President could not access with quite
+such ease.
+The result? Independent agencies today hold tremendous
+sway over the Nation’s affairs. They regulate our busi-
+nesses, 15 U. S. C. §57a, and our financial markets, §78w.
+They set the rules for the internet and airwaves.  47 U. S. C.
+§303. They decide how we light our homes, 42 U. S. C.
+
+§§7171–7172, how we run our elections, 52 U. S. C. §30106,
+and the manner of our employment, 29 U. S. C. §§153, 160.
+They determine what toys our children will play with, 15
+U. S. C. §§2063(a)(2), (3), (d)(2), and how we interact with
+each other at work, 42 U. S. C. §2000e–5.  And, as the dis-
+sent explains, so much more. See post, at 38 (opinion of
+SOTOMAYOR, J.).1
+Often, these agencies do all this with hardly any statu -
+tory guidance, based on broad grants of legislative author-
+ity. The FTC, for example, enjoys what the Court calls the
+“startlin[g]” power to define, outlaw, and prosecute any
+“‘acts or practices which are unfair or deceptive.’ ”  Ante, at
+25 (quoting 15 U. S. C. §57a(a)(1)(B)).  The Securities and
+Exchange Commission (SEC) may “make such rules and
+regulations as may be necessary or appropriate to imple-
+ment,” 15 U. S. C. §78w(a)(1), its mandate “to insure the
+maintenance of fair and honest markets,” §78b. The Fed-
+eral Communications Commission (FCC) has “exclusive au-
+thority to grant licenses” to broadcasters “ ‘based on ‘public
+convenience, interest, or necessity.’ ” Metro Broadcasting,
+Inc. v. FCC, 497 U. S. 547, 553 (1990) (quoting 47 U. S. C.
+§303). One could go on.
+Nor have these agencies hesitated to employ the powers
+Congress has given them.  Take a few examples from just
+the past two years.  In 2024, the SEC took on climate
+change. See 89 Fed. Reg. 21668, 21683 (requiring “Climate-
+Related Disclosures” in SEC filings). That same year, the
+FTC sought to ban nearly a ll employee noncompete agree-
+ments nationwide. 89 Fed. Reg. 38342.  And then there’s
+——————
+1 Some of these agencies, like the Securities and Exchange Commission
+and the Federal Election Commission, do not even have formal statutory
+removal protections.  But in practice, that has generally proved no bar to
+their independence until today.  See, e.g., PHH Corp. v. Consumer Fi-
+nancial Protection Bureau, 881 F. 3d 75, 90 (CADC 2018) (en banc) (tak-
+ing for granted the “traditional for-cause protection enjoyed by the SEC
+Commissioners”).
+
+9  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+late-night comedy. Last year, taking objection to a network
+host’s on-air remarks, the Chairman of the FCC suggested
+there would be “additional work . . . ahead” for the agency
+if broadcasting companies did not “find ways to . . . take ac-
+tion.” The Benny Show, Sept. 17, 2025 (“[W]e can do this
+the easy way or the hard way”).
+Some independent agencies even have de facto authority
+to create new crimes. By the 1990s, one scholar estimated
+that “over 300,000 federal regulations,” many of them
+adopted by independent agencies, “may be enforced crimi -
+nally.” J. Coffee, Jr., Does “Unlawful” Mean “Criminal”?:
+Reflections on the Disappearing Tort/Crime Distinction in
+American Law, 71 B. U. L. Rev. 193, 216 (1991).  More re-
+cent and exact totals are hard to come by—some say there
+may be simply too many regulatory crimes to count.  See
+id., at 218.
+Over time, Congress has afforded agencies not just
+sweeping legislative powers but judicial ones as well, in-
+cluding the power to decide cases and controversies affect-
+ing Americans’ private rights.  We have recently begun ad-
+dressing whether some of these schemes comply with
+Article III’s assurance of an independent judge, the Seventh
+Amendment’s promise of a jury trial, and the Due Process
+Clause’s guarantee of a fair trial before a fair tribunal.  See
+SEC v. Jarkesy, 603 U. S. 109, 123–126 (2024); see also id.,
+at 141 (GORSUCH, J., concurring). Even so, certain of those
+schemes persist. See, e.g., Atlas Roofing Co.  v. Occupa -
+tional Safety and Health Review Comm’n , 430 U. S. 442,
+447–450, 461 (1977).
+Would Congress have gone so far down this road, delegat-
+ing so much legislative and judicial power to agencies, with-
+out Humphrey’s assurance that their leaders would enjoy
+protection against at-will presid ential removal?  Maybe.
+After all, Congress has also granted expansive authorities
+to various “executive” agencies whose heads have been sub-
+ject to at-will presidential removal all along.  But very
+
+possibly not. Humphrey’s itself described removal protec-
+tions as “essential” to the FTC’s structure.  295 U. S., at
+625. Ms. Slaughter cites evidence that “ ‘[a]t no point was
+it proposed that [an FTC] ought to be set up unless it be
+independent.’”  Brief for Respondent 5 (quoting R. Cush -
+man, The Independent Regu latory Commissions 188
+(1941)). Over the years, many commentators have offered
+similar assessments. See, e.g., Landis 111 (noting “a corre-
+lation between the creation of the independent agency and
+broad grants of administrative power”); M. Bernstein, Reg-
+ulating Business by Independent Commission 148–149
+(1955) (observing that many delegations “might not have
+been enacted if Congress had not been able to delegate reg-
+ulatory duties to agencies so mewhat removed from contin-
+uing presidential guidance”). My dissenting colleagues
+share the same view too. See post, at 35–36.
+II
+A
+The Court’s decision today may take aim at removal pro-
+tections and, in that way, one part of Wilson’s vision.  But,
+as we have seen, other parts never fully materialized.  It
+was never the case that neutral experts alone led the agen-
+cies Congress created. And it was never true that those
+agencies were entirely insulated from politics or even pres-
+idential influence.  Nor can the demise of one more vestige
+of Wilson’s ambitions come as a surprise.  As the Court per-
+suasively explains, Myers was right all along and so was
+President Roosevelt: Humphrey’s did “violence to the basic
+theory of the American Constitution,” which leaves no room
+for a “headless ‘fourth branch.’ ” Roosevelt Committee 36.
+Instead, those who exercise executive power must be ac-
+countable through a “chain of dependence” running from
+the “lowest officers” to “the President,” and from him to the
+sovereign American people. 1 Annals of Cong. 499 (1789)
+(J. Madison). As even Wilson and Landis acknowledged,
+
+11  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+their plans for a new scheme of  “public administration” al-
+ways stood in more than a little tension with the Constitu-
+tion’s design.
+But if today’s decision represents an important step back
+toward the Constitution, it’s also worth considering the im-
+plications it holds for the last remaining pillar of Wilson’s
+plan. Apparently relying on the assumption that it can af-
+ford their leaders some protection against presidential re -
+moval, Congress has not just assigned executive law-en-
+forcement power to independent agencies.  It has delegated
+extensive lawmaking and adjudicative functions to them as
+well. Today’s decision may not have occasion to address
+those delegations directly, but  it carries weighty conse-
+quences for them. Open-ended delegations of legislative
+power have not gone away; now they will just be exercised
+by agency officials who answer to the President.  The power
+to write new regulatory crimes still exists, but now the pen
+ultimately rests in the President’s hand. The ability to
+judge disputes in-house remains, but now the house is
+white.
+The whole of the President’s authority also may be
+greater than the sum of its parts. It would be one thing if
+today’s decision afforded the White House more control over
+the airwaves. Or financial markets.  Or energy. But Pres-
+idents now will enjoy waxing authority over all those areas
+and more. A business out of fa vor with the party in control
+of the White House might be able to stave off an FCC inves-
+tigation. But can it survive a subsequent FTC rule declar-
+ing unlawful one of its longstanding trade practices?  What
+about an in-house adjudication by OSHA?  Or a prosecution
+for a new crime the SEC announces?  Not to mention what
+these now-coordinated powers co uld do to disfavored indi-
+viduals who lack the resources needed to fend off such at -
+tacks. It may be true that after today there is no more
+“fourth branch” of government.  But the fourth branch’s
+
+powers still exist; they have just been reassigned to the
+President.
+If all that weren’t enough, Presidents have many other
+ways to consolidate their influence over agencies—both tra-
+ditional executive agencies and now-formerly independent
+ones.  Take just a couple examples.  For decades, Presidents
+have employed the Office of Information and Regulatory Af-
+fairs (OIRA) to oversee propos ed executive agency actions
+that carry significant economic impacts.  See, e.g., Exec. Or-
+der No. 12291, 3 CFR 127 (1981 Comp.); Exec. Order No.
+12866, 3 CFR 638 (1993 Comp.). And even before today’s
+decision, the President has extended OIRA review to many
+independent agencies.  Exec. Order No. 14215, 90 Fed. Reg.
+10447 (2025).  Separately, Presidents can sometimes adjust
+the reach of the civil service laws.  While those laws ordi -
+narily afford rank-and-file ag ency employees considerable
+protection against removal, see 5 U. S. C. §§7511–7513,
+they do not apply to certain employees who hold positions
+“of a confidential policy-determining, policy-making or pol-
+icy-advocating character,” §7511(b)(2).  And by classifying
+more and more positions as subj ect to this exception, Pres-
+idents can seek to exert greater control over not just agency
+leaders but their subordinates as well. See, e.g., 91
+Fed. Reg. 5580, 5628, 5650 (2026) (subjecting “tens of thou-
+sands” of additional positions, in both executive and inde-
+pendent agencies, to this exception).
+So, yes, those who exercise executive power must be ulti-
+mately answerable to the President and, through him, to
+the American people. But while electoral accountability is
+a good thing, it cannot be the only thing.  And allowing Pres-
+idents to control not only executive functions, but also vast
+new reservoirs of legislative and judicial powers, risks in-
+viting exactly what those who framed our Constitution
+feared: the “accumulation of all powers . . . in the same
+hands, whether of one, a few or many, and whether heredi-
+tary, self appointed, or elective .” The Federalist No. 47,
+
+13  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+p. 324 (J. Cooke ed. 1961) (J. Madison) (emphasis added).
+No nation, after all, can expect happy results when “the leg-
+islative and executive powers are united in the same per-
+son”—or, one might add, when judicial powers are added to
+that union. Id., at 325 (internal quotation marks omitted).
+B
+If allowing so much legislat ive and judicial power to ac-
+cumulate in the President’s hands invites real risks, the
+question becomes: Who will address them?
+At first blush, the most natural answer might seem Con-
+gress. Aware now that the premise on which it apparently
+proceeded was flawed—independent agencies are not so in-
+dependent after all—Congress might wish to reconsider
+how much power should remain in the President’s hands.
+But if that seems a straightforward solution, there’s a
+straightforward problem with it. Of course, Congress still
+possesses tools—most notably its appropriations author-
+ity—to “influence how the President exercises” his legisla-
+tive and judicial functions. Learning Resources v. Trump,
+607 U. S. 229, 271 (2026) (G ORSUCH, J., concurring).  But
+“[a]ny President keen on his own authority . . . will have a
+strong incentive to veto” any effort to reclaim those powers.
+Id., at 270–271. The consequence is a ratchet effect:  Au -
+thorities Congress once delegated by a simple majority may
+now require a veto-proof supermajority to retrieve.
+Perhaps, then, if any real response is to come it will have
+to come from this Court. An d that’s hardly unfair.  To be
+sure, Congress had a hand in creating the problem we now
+face. But this Court bears responsibility as well. It was
+this Court that decided Humphrey’s. It was this Court that
+sat by while Congress delegated vast legislative and judi -
+cial powers to one independen t agency after another.  And
+it is this Court that today a llows the President to remove
+those agencies’ leaders and exercise effective control over
+
+all their powers. If the task of fixing a problem belongs to
+those who made it, this Court has some work to do.
+Fortunately, the Constitution provides the blueprint for
+the job ahead. That charter provides a far surer and more
+democratically legitimate scheme of “public administra-
+tion” than anything Wilson conjured up. With the assent of
+the governed, and subject to amendment by them alone, our
+Constitution created three branches of government—not
+four, and not just one led by the President either.  Each
+branch bears the authority and responsibility to exercise
+distinct powers.  Congress must make the laws that govern
+us, the executive branch must faithfully execute those laws,
+and independent judges and juries must decide disputes
+that arise under them.
+Fortunately, too, this Court already has many doctrines
+designed to protect the Constitution’s separation of powers.
+Just as today’s decision holds that Article II requires those
+who exercise executive power to answer to an elected Pres-
+ident, this Court’s nondelegation doctrine recognizes that
+Article I vests “[a]ll” federal legislative power in Congress
+and no one else.  See Art. I, §1.  Of course, Congress can
+enlist experts to advise it in its work and leave implemen -
+tation details to others, but the doctrine holds that Con-
+gress alone can make laws regulating private conduct.  See,
+e.g., Panama Refining Co. v. Ryan, 293 U. S. 388 (1935).  By
+that doctrine’s side stands the major questions doctrine,
+which teaches that, to sustain a claim that Congress has
+delegated to it some “[e]xtraordinary” regulatory power, an
+agency must identify “clear” statutory authority for that
+power. West Virginia v. EPA, 597 U. S. 697, 723 (2022) (in-
+ternal quotation marks omitted). Vagueness doctrine can
+contribute too, with its lesson that “Congress, rather than
+the executive or judicial branch, [must] define what conduct
+is sanctionable and what is not.”  Sessions v. Dimaya, 584
+U. S. 148, 156 (2018) (opinion of K AGAN, J.).  And our doc-
+trines addressing Article III, the Due Process Clause, and
+
+15  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+the Seventh Amendment can help ensure that adjudica-
+tions of private rights take place where they belong, before
+independent judges and juries.  See Jarkesy , 603 U. S., at
+141 (GORSUCH, J., concurring).
+We have, then, no shortage of tools.  The only real ques-
+tion is whether we will use them. Yes, we often recite, the
+Constitution contains “a bar on [the] delegation” of “[l]egis-
+lative power” to agencies.  FCC v. Consumers’ Research, 606
+U. S. 656, 672 (2025). But we have sometimes shrunk from
+applying that rule, worried that “our increasingly complex
+society” cannot manage unless someone else assumes Con-
+gress’s job of making the laws that govern us.  Mistretta v.
+United States, 488 U. S. 361, 372 (1989).  Yes, we say, when
+agencies claim “[e]xtraordinar y” delegated power, they
+“must point to clear congressi onal authorization for” it.
+West Virginia, 597 U. S., at 723 (internal quotation marks
+omitted). But some have also suggested the major ques-
+tions doctrine might be tainted by an “anti-administrative-
+state stance,” one that could prevent the “people . . . found
+in agencies” “from doing important work.”  Id., at 779–781
+(KAGAN, J., dissenting).  And, yes, all agree that the Sev-
+enth Amendment guarantees a jury in suits at common law.
+But it can also seem to some that Congress occasionally has
+“good reaso[n]” to let agencies  decide cases anyway given
+their “greater efficiency and expertise.”  Jarkesy, 603 U. S.,
+at 202 (SOTOMAYOR, J., dissenting).
+Whatever merit these objections once might have held,
+they now speak to a bygone era.  As my dissenting col-
+leagues see it, removal protections were “centrally im-
+portant,” or perhaps even “‘essential,’” to Congress when it
+decided to create so many independent agencies and dele-
+gate so much legislative and judicial power to them.  Post,
+at 36 (quoting Humphrey’s, 295 U. S., at 625).  On their ac-
+count, Congress gave all that power to “specialists” in inde-
+pendent agencies “precisely because [they were] not fully
+controlled by the White House.” Trump v. Wilcox, 605 U. S.
+
+___, ___ (2025) (K AGAN, J., dissenting from grant of appli -
+cation for stay) (slip op., at 6). But now removal protections
+are a thing of the past, and the President enjoys direct con-
+trol over independent and executive agencies alike.  So even
+if entrusting legislative and judicial powers to insulated, in-
+dependent agencies once seemed a good idea to some, it’s
+simply not an option anymore.  Now, we face only two ways
+forward:  Let Presidents exercise all those powers or begin
+subjecting them to the Constitution’s constraints.
+*
+The Court today takes a notable step back toward the
+Constitution. By recognizing that the President is entitled
+to remove a principal officer who exercises executive power
+in his name, the Court does much to vindicate what Frank-
+lin D. Roosevelt and James Madison both understood:  Un-
+der our Constitution, executive power does not belong to a
+“headless ‘fourth branch,’ ” Roosevelt Committee 36, but
+must be exercised through a “chain of dependence” running
+from “the lowest officers” to “the President,” and from him
+to the American people, 1 Annals of Cong. 499 (J. Madison).
+At the same time, it would be a grave mistake to think
+that step is enough on its own.  The fact remains that Con-
+gress has endowed formerly in dependent agencies not just
+with executive authority, but with enormous legislative and
+judicial powers as well. And now the President enjoys con-
+trol over all those powers too.  From here, the only sure path
+is to finish the journey we start today and restore legislative
+and judicial powers to where they belong: in Congress and
+the courts. We have tolerated adventurous theories long
+enough. It is time to return, all the way, to the Constitu-
+tion.

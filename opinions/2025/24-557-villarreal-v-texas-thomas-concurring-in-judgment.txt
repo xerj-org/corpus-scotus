@@ -1,0 +1,235 @@
+Villarreal v. Texas — No. 24-557 — October Term 2025 — decided 2/25/26 — Thomas, J., concurring in judgment
+Citation: 607 U.S. 465
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r16_869c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas, with whom Justice Gorsuch joins,
+concurring in the judgment.
+David Villarreal testifed in his own defense at his murder
+trial. Partway through Villarreal's testimony, trial recessed
+for the day. The trial judge gave Villarreal and his counsel
+an order limiting what they could discuss during the break
+in his testimony. The judge told them that they could confer
+with each other overnight, but not about Villarreal's ongoing
+testimony. Villarreal was convicted. He now challenges
+the trial judge's order as violating his Sixth Amendment
+right to counsel.
+The trial judge's order did not violate Villarreal's right to
+counsel under our precedents. In Geders v. United States,
+425 U. S. 80 (1976), this Court held that a trial judge cannot
+bar a testifying defendant from conferring with counsel over-
+night because of his interest in discussing matters “other
+than his own testimony.” Id., at 88. In Perry v. Leeke, 488
+U. S. 272 (1989), this Court held that a trial judge can bar a
+testifying defendant from conferring with counsel during a
+15-minute recess. Id., at 274, 283–284. Whatever right a
+defendant has to discuss other matters, the Court held, he
+has no “right to discuss [his] testimony while it is in process.”
+Id., at 284. The trial judge's order prohibiting discussion of
+Villarreal's ongoing testimony plainly complied with both
+precedents.
+I cannot join the Court's opinion because it opines on hypo-
+thetical situations not before the Court and needlessly ex-
+pands our precedents. I therefore respectfully concur only
+in the judgment.
+I
+Petitioner David Villarreal was charged with murder and
+tried in Texas state court. Villarreal took the stand to tes-
+tify in his own defense. While Villarreal was still on direct
+examination, the judge had to recess trial for the day due to
+a scheduling conflict. Ordinarily, a witness cannot consult
+with counsel during his testimony. See Perry, 488 U. S., at
+281–282, and nn. 4–5; Geders, 425 U. S., at 87. The trial
+judge therefore instructed Villarreal's counsel not to discuss
+Villarreal's testimony overnight. But his order allowed Vil-
+larreal to confer with counsel about matters other than his
+ongoing testimony:
+“THE COURT: Normally your lawyer couldn't come up
+and confer with you about your testimony in the middle
+of the trial and in the middle of having the jury hear
+your testimony. And so I'd like to tell you that you
+can't confer with your attorney but [at] the same time
+you have a Sixth Amendment right to talk to your
+attorney.
+“So I'm really going to put the burden on [counsel] to
+tell you the truth. . . . I'm going to ask that [counsel]
+pretend that Mr. Villarreal is on the stand. You
+couldn't confer with him during that time.
+. . . . .
+“But I believe if you need to talk to your attorneys, I'm
+not telling you, you can't talk to them. But I'm going
+to rely on [counsel] to use your best judgment in talk-
+ing to [Villarreal] because you can't—you couldn't
+confer with him while he was on the stand about his
+testimony. . . .
+“DEFENSE COUNSEL #1: All right. So just so I am
+clear and don't violate any court orders, that—because
+he is still on direct and still testifying, that it is your
+ruling that we cannot confer with our client?
+“THE COURT: Let me help you with that. For in-
+stance, suppose we go into a sentencing hearing and you
+need to start talking to him about possible sentencing
+issues, you can do that. Does that make sense? I don't
+want you discussing what you couldn't discuss with him
+if he was on the stand in front of the [j]ury.
+“DEFENSE COUNSEL #1: Okay.
+“THE COURT: His testimony. I'm not sure whatever
+else you'd like to talk with him about while he's on the
+stand. But ask yourselves before you talk to him about
+something, is this something that—manage[s] his testi-
+mony in front of the jury? Does that make sense to
+you?
+“DEFENSE COUNSEL #1: Sure, it does.
+“DEFENSE COUNSEL #2: We aren't going to talk to
+him about the facts that he testifed about.
+“THE COURT: All right. Fair enough. But at the
+same time—I'm going to put the burden on the lawyers,
+not on him, because he has a constitutional right to con-
+fer with you. At the same time, all lawyers are under—
+they're under different rules than the defendants are.
+. . . . .
+“And you're going to have to decide, if he asks you any
+questions and such, is this something that is going to be
+considered to be conferring with him on the witness
+stand while the jury is there or not.” 707 S. W. 3d 138,
+141–142 (Tex. Crim. App. 2024) (some alterations and
+boldface omitted).
+Villarreal's counsel objected to the judge's order, but the
+judge overruled that objection. Id., at 142–143.
+Villarreal resumed testifying the next day. Neither he
+nor his counsel reported that the trial judge's order impeded
+any discussions. The record does not reflect that they
+planned to discuss any matter even arguably covered by the
+judge's order. The jury later found Villarreal guilty of
+murder.
+On appeal, Villarreal argued that the trial judge's order,
+by preventing him from discussing his ongoing testimony
+with his counsel, violated his Sixth Amendment right to
+counsel. The Texas Court of Appeals affirmed because a
+trial court may “limit [a defendant's] right to confer with his
+attorneys during an overnight recess to topics other than his
+ongoing testimony.” 596 S. W. 3d 338, 343 (2019). The
+Texas Court of Criminal Appeals also affirmed on the ground
+that a defendant has no right to discuss “ongoing testimony.”
+707 S. W. 3d, at 144–146.
+This Court granted certiorari. 604 U. S. 1241 (2025).
+II
+The Sixth Amendment, made applicable to the States by
+the Fourteenth Amendment, guarantees to a criminal de-
+fendant the right to have “the Assistance of Counsel for his
+defence.” It was enacted in response to English laws that
+sometimes forced defendants to represent themselves at
+trial. See Garza v. Idaho, 586 U. S. 232, 259 (2019) (Thomas,
+J., dissenting). This Court has interpreted it to guarantee
+a defendant a right to discuss with counsel matters other
+than his ongoing testimony. The trial judge's order here al-
+lowed Villarreal and his counsel to discuss matters other
+than Villarreal's ongoing testimony overnight, so it did not
+violate his Sixth Amendment rights.
+A
+Under our precedents, a defendant “has no constitutional
+right to consult with his lawyer while he is testifying.”
+Perry, 488 U. S., at 281. Rather, “when he assumes the role
+of a witness, the rules that generally apply to other wit-
+nesses—rules that serve the truth-seeking function of the
+trial—are generally applicable to him as well.” Id., at 282.
+Criminal defendants originally did not testify in their own
+defense at trial. See Ferguson v. Georgia, 365 U. S. 570,
+573–575 (1961). When they began doing so, this Court ex-
+plained that they would do so “subject to all [the] criticisms
+and burdens” of other witnesses. Reagan v. United States,
+157 U. S. 301, 305 (1895). It is common practice for trial
+judges to prohibit other witnesses from discussing their on-
+going testimony with counsel. See Perry, 488 U. S., at 281–
+282, and nn. 4–5; Geders, 425 U. S., at 87.
+This Court has recognized only one exception to the gen-
+eral rule that a defendant has no constitutional right to con-
+sult with his lawyer while he is testifying. In Geders, this
+Court held that a trial judge could not bar a defendant from
+talking “ `about anything' ” with counsel during an overnight
+recess. Id., at 91. As this Court would explain, the judge's
+order in Geders was unconstitutional only because it would
+impede discussion of matters “beyond the content of the de-
+fendant's own testimony.” Perry, 488 U. S., at 284. In
+Perry, this Court held that a trial judge therefore could bar
+all conferral with counsel during a 15-minute recess because
+the Sixth Amendment does not protect discussion of “th[e]
+testimony while it is in process.” Ibid.
+Allowing any witness to discuss his ongoing testimony
+with counsel, Perry explained, would undermine the truth-
+seeking function of the trial. “Once the defendant places
+himself at the very heart of the trial process,” the trial court
+can ensure that “the story presented on direct is measured
+for its accuracy and completeness by uninfuenced testimony
+on cross-examination.” Id., at 282–283 (internal quotation
+marks omitted).
+B
+The trial judge's order here complied with our precedents.
+The trial judge instructed defense counsel not to “discus[s]
+what you couldn't discuss with [Villarreal] if he was on the
+stand in front of the [j]ury,” and explained that “you couldn't
+confer with him while he was on the stand about his testi-
+mony.” 707 S. W. 3d, at 142 (boldface omitted). The trial
+judge otherwise allowed Villarreal and his counsel to meet
+and discuss anything that they wanted. Ibid. Under Ged-
+ers and Perry, the trial judge's order was constitutional be-
+cause Villarreal could discuss matters other than his testi-
+mony. See Geders, 425 U. S., at 88; Perry, 488 U. S., at 284.
+Perry, in fact, specifically endorsed orders that “permit con-
+sultation between counsel and defendant during such a re-
+cess, but forbid discussion of ongoing testimony.” Id.,
+at 284, n. 8. The order therefore did not deny Villarreal
+“the Assistance of Counsel for his defence.” U. S. Const .,
+Amdt. 6.
+Perry also rejected Villarreal's main counterargument.
+Villarreal argues that because it is difficult to distinguish
+discussion of testimony from discussion of other matters, he
+should have been able to discuss his testimony in order to
+ensure that he could discuss other topics, too. Brief for
+Petitioner 24–38. But in Perry, three Justices dissented
+partly because they, like Villarreal, did not believe that it
+was “possible to distinguish discussions regarding trial strat-
+egy from discussions regarding testimony.” 488 U. S., at
+295, n. 8 (opinion of Marshall, J.). The Perry majority made
+that distinction nonetheless and endorsed orders that turn
+on that distinction. Id., at 284, n. 8.
+III
+I am unable to join the majority opinion because it unnec-
+essarily expands these precedents. It purports to “an-
+nounce” a “rule” under which a defendant has a constitu-
+tional right to “discussion of testimony” so long as that
+discussion is “incidental to other topics.” Ante, at 477, 478,
+n. 5. It identifies new circumstances, not presented here, in
+which a defendant supposedly has a right to discuss matters
+related to his ongoing testimony. Ante, at 477–479. And it
+endorses a methodology under which “any conflict between
+the Sixth Amendment and the desire for untutored testi-
+mony must `be resolved in favor of the right to the assistance
+and guidance of counsel.' ” Ante, at 478.
+The majority opinion finds no support in Perry. As for a
+general right to discuss testimony, this Court in Perry ex-
+plained in straightforward terms that “we do not believe the
+defendant has a constitutional right to discuss [his] testimony
+while it is in process.” 488 U. S., at 284; cf. ante, at 477–479.
+Perry therefore endorsed orders that categorically “forbid
+discussion of ongoing testimony.” 488 U. S., at 284, n. 8.
+That endorsement came in the context of a brief recess. Id.,
+at 284. But, unlike the majority opinion in this case, see
+ante at 477, 479, Perry never stated that those sorts of cate-
+gorical orders are forbidden overnight. As for the potential
+conflict between the possibility for conferral and uncompro-
+mised testimony, see ante, at 478, Perry clarified that the
+Court would not read Geders to demand resolving them in
+favor of conferral in all cases. “[W]hen [a defendant] as-
+sumes the role of a witness, the rules that generally apply
+to other witnesses—rules that serve the truth-seeking func-
+tion of the trial—are generally applicable to him as well.”
+Perry, 488 U. S., at 282. Defendants, in other words, are
+generally “subject to” the same “criticisms and burdens” as
+other witnesses. Reagan, 157 U. S., at 305.
+The majority opinion does not claim that its approach finds
+any support in the original meaning of the Sixth Amend-
+ment. The majority also does not claim that opining on mat-
+ters not presented by the facts was necessary to decide this
+case, which involved an order that all agree was
+constitutional.
+I respectfully concur in the judgment.

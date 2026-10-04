@@ -1,0 +1,221 @@
+Dobbs v. Jackson Women’s Health Organization — No. 19-1392 — October Term 2021 — decided 6/24/22 — Appendix (Appendix to opinion of Breyer, Sotomayor, and Kagan, JJ.)
+Citation: 597 U.S. 215
+Source: https://www.supremecourt.gov/opinions/21pdf/597us1r58_gebh.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+The Justices who wrote those words—O'Connor, Kennedy,
+and Souter—they were judges of wisdom. They would not
+have won any contests for the kind of ideological purity some
+court watchers want Justices to deliver. But if there were
+awards for Justices who left this Court better than they
+found it? And who for that reason left this country better?
+And the rule of law stronger? Sign those Justices up.
+They knew that “the legitimacy of the Court [is] earned
+over time.” Id., at 868. They also would have recognized
+that it can be destroyed much more quickly. They worked
+hard to avert that outcome in Casey. The American public,
+they thought, should never conclude that its constitutional
+protections hung by a thread—that a new majority, adhering
+to a new “doctrinal school,” could “by dint of numbers” alone
+expunge their rights. Id., at 864. It is hard—no, it is im-
+possible—to conclude that anything else has happened here.
+One of us once said that “[i]t is not often in the law that so
+few have so quickly changed so much.” S. Breyer, Breaking
+the Promise of Brown: The Resegregation of America's
+Schools 30 (2022). For all of us, in our time on this Court,
+that has never been more true than today. In overruling
+Roe and Casey, this Court betrays its guiding principles.
+With sorrow—for this Court, but more, for the many mil-
+lions of American women who have today lost a fundamental
+constitutional protection—we dissent.
+APPENDIX
+This Appendix analyzes in full each of the 28 cases the
+majority says support today's decision to overrule Roe v.
+Wade, 410 U. S. 113 (1973), and Planned Parenthood of
+Southeastern Pa. v. Casey, 505 U. S. 833 (1992). As ex-
+plained herein, the Court in each case relied on traditional
+stare decisis factors in overruling.
+A great many of the overrulings the majority cites involve
+a prior precedent that had been rendered out of step with or
+effectively abrogated by contemporary case law in light of
+intervening developments in the broader doctrine. See
+Ramos v. Louisiana, 590 U. S. –––, ––– (2020) (holding the
+Sixth Amendment requires a unanimous jury verdict in state
+prosecutions for serious offenses, and overruling Apodaca
+v. Oregon, 406 U. S. 404 (1972), because “in the years since
+Apodaca, this Court ha[d] spoken inconsistently about its
+meaning” and had undercut its validity “on at least eight
+occasions”); Ring v. Arizona, 536 U. S. 584, 608–609 (2002)
+(recognizing a Sixth Amendment right to have a jury find
+the aggravating factors necessary to impose a death sentence
+and, in so doing, rejecting Walton v. Arizona, 497 U. S. 639
+(1990), as overtaken by and irreconcilable with Apprendi v.
+New Jersey, 530 U. S. 466 (2000)); Agostini v. Felton, 521
+U. S. 203, 235–236 (1997) (considering the Establishment
+Clause's constraint on government aid to religious instruc-
+tion, and overruling Aguilar v. Felton, 473 U. S. 402 (1985),
+in light of several related doctrinal developments that had
+so undermined Aguilar and the assumption on which it
+rested as to render it no longer good law); Batson v. Ken-
+tucky, 476 U. S. 79, 93–96 (1986) (recognizing that a defend-
+ant may make a prima facie showing of purposeful racial dis-
+crimination in selection of a jury venire by relying solely on
+the facts in his case, and, based on subsequent developments
+in equal protection law, rejecting part of Swain v. Alabama,
+380 U. S. 202 (1965), which had imposed a more demanding
+evidentiary burden); Brandenburg v. Ohio, 395 U. S. 444,
+447–448 (1969) (per curiam ) (holding that mere advocacy of
+violence is protected by the First Amendment, unless in-
+tended to incite it or produce imminent lawlessness, and re-
+jecting the contrary rule in Whitney v. California, 274 U. S.
+357 (1927), as having been “thoroughly discredited by later
+decisions”); Katz v. United States, 389 U. S. 347, 351, 353
+(1967) (recognizing that the Fourth Amendment extends to
+material and communications that a person “seeks to pre-
+serve as private,” and rejecting the more limited construc-
+tion articulated in Olmstead v. United States, 277 U. S. 438
+(1928), because “we have since departed from the narrow
+view on which that decision rested,” and “the underpinnings
+of Olmstead . . . have been so eroded by our subsequent
+decisions that the `trespass' doctrine there enunciated can no
+longer be regarded as controlling”); Miranda v. Arizona, 384
+U. S. 436, 463–467, 479, n. 48 (1966) (recognizing that the
+Fifth Amendment requires certain procedural safeguards for
+custodial interrogation, and rejecting Crooker v. California,
+357 U. S. 433 (1958), and Cicenia v. Lagay, 357 U. S. 504
+(1958), which had already been undermined by Escobedo v.
+Illinois, 378 U. S. 478 (1964)); Malloy v. Hogan, 378 U. S. 1,
+6–9 (1964) (explaining that the Fifth Amendment privilege
+against “self-incrimination is also protected by the Four-
+teenth Amendment against abridgment by the States,” and
+rejecting Twining v. New Jersey, 211 U. S. 78 (1908), in light
+of a “marked shift” in Fifth Amendment precedents that had
+“necessarily repudiated” the prior decision); Gideon v. Wain-
+wright, 372 U. S. 335, 343–345 (1963) (acknowledging a right
+to counsel for indigent criminal defendants in state court
+under the Sixth and Fourteenth Amendments, and overrul-
+ing the earlier precedent failing to recognize such a right,
+Betts v. Brady, 316 U. S. 455 (1942)); 31 Smith v. Allwright,
+321 U. S. 649, 659–662 (1944) (recognizing all-white primaries
+are unconstitutional after reconsidering in light of “the uni-
+tary character of the electoral process” recognized in United
+States v. Classic, 313 U. S. 299 (1941), and overruling Grovey
+v. Townsend, 295 U. S. 45 (1935)); United States v. Darby, 312
+U. S. 100, 115–117 (1941) (recognizing Congress's Commerce
+Clause power to regulate employment conditions and ex-
+plaining as “inescapable” the “conclusion . . . that Hammer
+31 We have since come to understand Gideon as part of a larger doctrinal
+shift—already underway at the time of Gideon—where “the Court began
+to hold that the Due Process Clause fully incorporates particular rights
+contained in the first eight Amendments.” McDonald v. Chicago, 561
+U. S. 742, 763 (2010); see also id., at 766.
+v. Dagenhart, [247 U. S. 251 (1918)],” and its contrary rule
+had “long since been” overtaken by precedent construing the
+Commerce Clause power more broadly); Erie R. Co. v. Tomp-
+kins, 304 U. S. 64, 78–80 (1938) (applying state substantive
+law in diversity actions in federal courts and overruling
+Swift v. Tyson, 16 Pet. 1 (1842), because an intervening deci-
+sion had “made clear” the “fallacy underlying the rule”).
+Additional cases the majority cites involved fundamental
+factual changes that had undermined the basic premise of the
+prior precedent. See Citizens United v. Federal Election
+Comm'n, 558 U. S. 310, 364 (2010) (expanding First Amend-
+ment protections for campaign-related speech and citing
+technological changes that undermined the distinctions of
+the earlier regime and made workarounds easy, and overrul-
+ing Austin v. Michigan Chamber of Commerce , 494 U. S. 652
+(1990), and partially overruling McConnell v. Federal Elec-
+tion Comm'n, 540 U. S. 93 (2003)); Crawford v. Washington,
+541 U. S. 36, 62–65 (2004) (expounding on the Sixth Amend-
+ment right to confront witnesses and rejecting the prior
+framework, based on its practical failing to keep out core
+testimonial evidence, and overruling Ohio v. Roberts, 448
+U. S. 56 (1980)); Mapp v. Ohio, 367 U. S. 643, 651–652 (1961)
+(holding that the exclusionary rule under the Fourth Amend-
+ment applies to the States, and overruling the contrary rule
+of Wolf v. Colorado, 338 U. S. 25 (1949), after considering and
+rejecting “the current validity of the factual grounds upon
+which Wolf was based”).
+Some cited overrulings involved both significant doctrinal
+developments and changed facts or understandings that had
+together undermined a basic premise of the prior decision.
+See Janus v. State, County, and Municipal Employees, 585
+U. S. –––, –––, ––– – ––– (2018) (holding that requiring public-
+sector union dues from nonmembers violates the First
+Amendment, and overruling Abood v. Detroit Bd. of Ed., 431
+U. S. 209 (1977), based on “both factual and legal” develop-
+ments that had “eroded the decision's underpinnings and left
+it an outlier among our First Amendment cases” (internal
+quotation marks omitted)); Obergefell v. Hodges, 576 U. S.
+644, 659–663 (2015) (holding that the Fourteenth Amend-
+ment protects the right of same-sex couples to marry in light
+of doctrinal developments, as well as fundamentally changed
+social understanding); Lawrence v. Texas, 539 U. S. 558, 572–
+578 (2003) (overruling Bowers v. Hardwick, 478 U. S. 186
+(1986), after finding anti-sodomy laws to be inconsistent with
+the Fourteenth Amendment in light of developments in the
+legal doctrine, as well as changed social understanding of
+sexuality); United States v. Scott, 437 U. S. 82, 101 (1978)
+(overruling United States v. Jenkins, 420 U. S. 358 (1975),
+three years after it was decided, because of developments in
+the Court's double jeopardy case law, and because interven-
+ing practice had shown that government appeals from mid-
+trial dismissals requested by the defendant were practicable,
+desirable, and consistent with double jeopardy values); Craig
+v. Boren, 429 U. S. 190, 197–199, 210, n. 23 (1976) (holding
+that sex-based classifications are subject to intermediate
+scrutiny under the Fourteenth Amendment's Equal Protec-
+tion Clause, including because Reed v. Reed, 404 U. S. 71
+(1971), and other equal protection cases and social changes
+had overtaken any “inconsistent” suggestion in Goesaert v.
+Cleary, 335 U. S. 464 (1948)); Taylor v. Louisiana, 419 U. S.
+522, 535–537 (1975) (recognizing as “a foregone conclusion
+from the pattern of some of the Court's cases over the past
+30 years, as well as from legislative developments at both
+federal and state levels,” that women could not be excluded
+from jury service, and explaining that the prior decision
+approving such practice, Hoyt v. Florida, 368 U. S. 57 (1961),
+had been rendered inconsistent with equal protection
+jurisprudence).
+Other overrulings occurred very close in time to the origi-
+nal decision so did not engender substantial reliance and
+could not be described as having been “embedded” as “part
+of our national culture.” Dickerson v. United States, 530
+U. S. 428, 443 (2000); see Payne v. Tennessee, 501 U. S. 808
+(1991) (revising procedural rules of evidence that had barred
+admission of certain victim-impact evidence during the pen-
+alty phase of capital cases, and overruling South Carolina v.
+Gathers, 490 U. S. 805 (1989), and Booth v. Maryland, 482
+U. S. 496 (1987), which had been decided two and four years
+prior, respectively); Seminole Tribe of Fla. v. Florida, 517
+U. S. 44 (1996) (holding that Congress cannot abrogate state-
+sovereign immunity under its Article I commerce power, and
+rejecting the result in Pennsylvania v. Union Gas Co., 491
+U. S. 1 (1989), seven years later; the decision in Union Gas
+never garnered a majority); Garcia v. San Antonio Metro-
+politan Transit Authority , 469 U. S. 528, 531 (1985) (holding
+that local governments are not constitutionally immune from
+federal employment laws, and overruling National League
+of Cities v. Usery, 426 U. S. 833 (1976), after “eight years” of
+experience under that regime showed Usery's standard was
+unworkable and, in practice, undermined the federalism
+principles the decision sought to protect).
+The rest of the cited cases were relatively minor in their
+effect, modifying part or an application of a prior precedent's
+test or analysis. See Montejo v. Louisiana, 556 U. S. 778
+(2009) (citing workability and practical concerns with addi-
+tional layers of prophylactic procedural safeguards for de-
+fendants' right to counsel, as had been enshrined in Michi-
+gan v. Jackson, 475 U. S. 625 (1986)); Illinois v. Gates, 462
+U. S. 213, 227–228 (1983) (replacing a two-pronged test under
+Aguilar v. Texas, 378 U. S. 108 (1964), and Spinelli v. United
+States, 393 U. S. 410 (1969), in favor of a traditional totality-
+of-the-circumstances approach to evaluate probable cause for
+issuance of a warrant); Wesberry v. Sanders, 376 U. S. 1, 4
+(1964), and Baker v. Carr, 369 U. S. 186, 209 (1962) (clarifying
+that the “political question” passage of the minority opinion
+in Colegrove v. Green, 328 U. S. 549 (1946), was not control-
+ling law).
+In sum, none of the cases the majority cites is analogous
+to today's decision to overrule 50- and 30-year-old watershed
+constitutional precedents that remain unweakened by any
+changes of law or fact.

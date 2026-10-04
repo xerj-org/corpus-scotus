@@ -1,0 +1,596 @@
+Hunter v. United States — No. 24-1063 — October Term 2025 — decided 6/18/26 — GORSUCH, J., concurring
+Citation: 608 U.S. 713
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1063new_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ J USTICE GORSUCH, with whom JUSTICE SOTOMAYOR and
+JUSTICE JACKSON join, concurring.
+ In our times, the jury trial has given way to a conveyor
+belt of plea bargains.  At le ast some responsibility for that
+development lies with this Cou rt.  When confronted with
+coercive prosecutorial tactics designed to induce defendants
+to take plea deals, the Court has often condoned those prac-
+tices or let them pass in silence.
+ Today, the Court begins to co rrect course.  It rules that
+prosecutors may not always leverage their plea-bargaining
+power to induce a defendant to  forgo the right to contest
+his sentence on appeal.  I agree and write separately to out-
+line how we got here and some of the work still ahead.
+I
+ Because the facts of this case are emblematic of many
+others, they are worth pausing over.  In 2023, the federal
+government secured a 10-count indictment against Munson
+Hunter for his alleged role in various fraudulent transac-
+tions.  Four of the charges focused on a single transaction,
+while the remaining six focused on others.  Altogether, the
+government’s charges threatened Mr. Hunter with up to
+300 years in prison and a $10 million fine.  After bringing
+these charges, though, prosecutors offered Mr. Hunter a
+deal.  If he agreed to waive his right to trial and plead guilty
+
+to one count of wire fraud based on a single transaction
+worth $38,648.77, prosecutors said they would drop the re-
+maining charges against him. Unsurprisingly, Mr. Hunter
+agreed. Ultimately, the deal the parties struck also in-
+cluded an appeal waiver.  By its terms, Mr. Hunter waived
+not only his right to appeal hi s conviction.  He also waived
+his right to appeal whatever  sentence the district court
+might later impose. App. to Pet. for Cert. 6a (Pet. App.).
+After the district court signed off on the parties’ deal and
+accepted Mr. Hunter’s guilty plea, it turned to the question
+of an appropriate sentence.  While Mr. Hunter pleaded
+guilty and admitted to stealing $38,648.77 in one transac-
+tion, the district court proceeded  to sentence him as some -
+one who stole $488,352.25 in 26 transactions. See id., at
+20a–21a; Presentence Investigation Report in No. 23–cr–85
+(SD Tex.), ECF Doc. 125, pp. 10–13.  Some of these addi -
+tional funds and transactions were the subject of counts the
+government agreed to dismiss in exchange for Mr. Hunter’s
+guilty plea. Other funds and transactions were not even
+the subject of the government’s charges.  See ibid.; Super-
+seding Indictment in No. 23–cr–85 (SD Tex.), ECF Doc. 74.
+This made a significant difference for Mr. Hunter.  Had
+the district court sentenced him based on the amount he
+had pleaded guilty to stealing, he would have faced an ad-
+visory sentencing guidelines range of 15 to 21 months in
+prison. See Pet. App. 25a; United States Sentencing Com-
+mission, Guidelines Manual §2B1.1(b)(1) (Nov. 2023); id.,
+ch. 5, pt. A (sentencing table).  Now, though, he faced a rec-
+ommended prison term of 41 to 51 months.  Pet. App. 25a.
+And based on that calculation, the district court chose a
+prison sentence of 51 months. The result? A guilty plea to
+a single charge enabled prosecutors to secure a punishment
+based on other charges they had  agreed to drop or had not
+even brought.
+That was not all.  The district court ordered Mr. Hunter
+to serve time on supervised release after leaving prison.  As
+
+3  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+part of his supervised rele ase, the court directed Mr.
+Hunter to comply with various conditions, one of which is
+of special relevance here.  It arose this way.  Before sentenc-
+ing, Mr. Hunter met with a probation officer.  There, he
+“‘self-reported’” a history of mental health diagnoses.  Brief
+for United States 7. As it turned out, that honesty came
+with a price.  At sentencing, the probation officer urged the
+district court to require Mr. Hunter to “ ‘participate in a
+mental-health treatment program’ and ‘take all mental-
+health medications that are prescribed by [his] treating
+physician’” while on supervised release.  Ibid.
+Mr. Hunter objected to one part of this recommendation.
+He did not dispute that he has suffered from mental health
+issues. He even said that he “want[ed] to take mental
+health programs.” Pet. App. 24a. But, he added, “I don’t
+want to take any medication.  I don’t drink.  I don’t use
+drugs. I don’t even curse. I don’t want to have to be forced
+to medicate.” Ibid. In response, the court did not find that
+forcing Mr. Hunter to take ps ychiatric medication against
+his will would further any particular goal of criminal pun-
+ishment. But it imposed the condition anyway.
+After sentencing, Mr. Hunter sought to appeal the dis-
+trict court’s forced-medication condition to the Fifth Circuit.
+There, he pointed to this Court’s decisions holding that in -
+dividuals enjoy a “constitutionally protected liberty interest
+in avoiding the unwanted administration of antipsychotic
+drugs.” Sell v. United States, 539 U. S. 166, 178 (2003) (in-
+ternal quotation marks omitted). Under those precedents,
+he argued, the district court could not constitutionally force
+him to take psychiatric medication absent compelling evi-
+dence that it was necessary to promote a valid sentencing-
+related interest. And, he submitted, the district court had
+no compelling evidence before it that forcing him to take
+psychiatric medication would advance a legitimate penolog-
+ical interest associated with his crime of stealing
+
+$38,648.77.  See Brief for Appellant in No. 24–20211 (CA5),
+pp. 10–11.
+The Fifth Circuit dismissed the appeal.  In doing so, it
+assumed that the district court had committed a constitu -
+tional error in ordering Mr. Hunter to take psychiatric med-
+ication. Even so, the Court of Appeals held, it was power-
+less to say so. Because Mr. Hunter had agreed to an appeal
+waiver, the court concluded, it couldn’t hear his case. See
+Pet. App. 2a.
+II
+The most remarkable thing about Mr. Hunter’s plea-bar-
+gaining journey may be how unremarkable it is.  Our crim-
+inal justice system is no longer dominated by trials and sen-
+tences based on them, but plea bargains that work out in
+ways not unlike his own.
+Of course, it was not always so.  At the Nation’s founding,
+the right to trial by jury was considered part of every Amer-
+ican’s “birth-right and inheritance.”  3 J. Story, Commen-
+taries on the Constitution of the United States §1773,
+p. 652 (1833). Outraged by British efforts to deny that right
+in the colonies, those who fought the Revolution cited its
+suppression as one of their reasons for declaring independ-
+ence. Declaration of Independence ¶20.  After the Revolu-
+tion, too, the founding generation took care to secure the
+right to trial by jury in cri minal cases not just once, but
+twice, in the Constitution and Bill of Rights they adopted.
+Art. III, §2, cl. 3; Amdt. 6; see also Erlinger v. United States,
+602 U. S. 821, 829–832 (2024).
+Really, it seems plea bargains didn’t begin to emerge as
+an alternative to trial in se rious criminal cases until the
+mid-nineteenth century. See C. McCoy, Plea Bargaining as
+Coercion, 50 Crim. L. Q. 67, 73–74 (2005).  And even then,
+the practice usually met with intense judicial skepticism.
+Many judges considered the “idea that the jury right could
+become the subject of an agreement between the prosecutor
+
+5  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+and the defendant . . . abhorrent.” N. King, Priceless Pro-
+cess: Nonnegotiable Features of Criminal Litigation, 47
+UCLA L. Rev. 113, 125 (1999) (collecting cases); see also A.
+Alschuler, Plea Bargaining and Its History, 79 Colum.
+L. Rev. 1, 19–22 (1979) (same).
+That skepticism continued well into the twentieth cen -
+tury. In Walker v. Johnston, 312 U. S. 275 (1941), this
+Court held that a defendant is “deprived of a constitutional
+right” whenever he is “deceived or coerced by the prosecutor
+into entering a guilty plea.”  Id., at 286. The prosecutor’s
+alleged tactics there? Obstructing the defendant’s effort to
+hire a lawyer, showing the defendant “pictures of the scene
+of the alleged crime,” seeking to “persuade him that he
+would be proved guilty,” and “warning him that he would
+be sentenced to twice as great a [prison] term if he did not”
+agree to plead guilty. Id., at 281–282.
+The Court repeated the message in Machibroda v. United
+States, 368 U. S. 487 (1962). “A guilty plea . . . is void,” the
+Court ruled, when it is “induced by promises or threats
+which deprive it of the character of a voluntary act.”  Id., at
+493. There, too, the Court expressed “no doubt” that a de-
+fendant “is entitled to have his sentence vacated” when a
+prosecutor promises a certain sentence in exchange for a
+guilty plea, discourages the defendant from communicating
+with his attorney about the plea offer, and threatens the
+defendant with additional charges if he “make[s] a scene”
+before sentencing. Id., at 489–490, 493 (internal quotation
+marks omitted).
+Eventually, though, this Court took a dramatic turn. In
+1971, it proclaimed plea bargaining “highly desirable,”
+something “to be encouraged,” and “an essential component
+of the administration of justice.” Santobello v. New York ,
+404 U. S. 257, 260–261.  “If every criminal charge were sub-
+jected to a full-scale trial,” the Court worried, “the States
+and the Federal Government would need to multiply by
+many times the number of judges and court facilities.”  Id.,
+
+at 260; see also Brady v. United States, 397 U. S. 742, 745–
+746, 749–753 (1970) (upholding the validity of a plea en-
+tered pursuant to a sentencing scheme the Court had inval-
+idated as unconstitutionally coercive just two years earlier).
+Bordenkircher v. Hayes, 434 U. S. 357 (1978), illustrates
+the kind of coercive tactics this Court became willing to
+stomach in the name of facilitating plea deals. That case
+began when authorities indicted Paul Hayes, a Kentucky
+man, for forging an $88.30 check.  Id., at 358.  Punishable
+by 2 to 10 years in prison, the charge led to plea negotia-
+tions. Ibid. If Mr. Hayes would save the government from
+“the inconvenience . . . of a trial,” the prosecutor offered to
+recommend a 5-year prison sentence.  Ibid. (internal quota-
+tion marks omitted).  But if not, the prosecutor warned, he
+would return to the grand jury and seek a further indict -
+ment under a Kentucky three-strikes law carrying a life
+sentence. Id., at 358–359.  When Mr. Hayes refused the
+deal, the prosecutor proved true to his word.  Id., at 359. He
+sought and secured the new indictment as promised. Ibid.
+And, after a jury convicted, Mr. Hayes received a life sen-
+tence. See ibid.
+In a decision perhaps unthinkable only a few decades ear-
+lier, this Court in Bordenkircher endorsed the prosecutor’s
+tactics. However thin gs might work in “ ‘an ideal world,’ ”
+the Court said, “ ‘the fact is that the guilty plea and the of -
+ten concomitant plea bargain are important components of
+this country’s criminal justice system.’ ”  Id ., at 361–362
+(quoting Blackledge v. Allison, 431 U. S. 63, 71 (1977)).  As
+the Court saw things, prosecutors need room to issue
+threats in plea bargaining—even when it means threaten-
+ing a life sentence for a forged check worth less than $100.
+434 U. S., at 363–365.
+ Unsurprisingly, prosecutors quickly began taking full ad-
+vantage of this new judicial latitude. See W. Stuntz, The
+Collapse of American Criminal Justice 259–260 (2011).
+They threatened layers of additional charges and decades
+
+7  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+of additional prison time if  defendants dared to exercise
+their right to trial by jury.  Ibid. Prosecutors sometimes
+promised charges against defendants’ spouses and parents
+too. See  id., at 260.  “[T]hreats [that] would be deemed ex-
+tortionate” “[o]utside the plea bargaining process” became
+“par for the course” in our criminal justice system.  Ibid.
+To be sure, this Court is not wholly responsible for these
+developments.  Other causes are at play as well.  Since the
+1970s, the number of federal criminal laws has grown rap-
+idly. The prison terms attached to federal crimes have also
+grown. Some now say there is not an adult American who
+has not committed one felony or another.  D. Husak, Over-
+criminalization: The Limits of the Criminal Law 24 (2008).
+Federal sentencing guidelines , as well, currently recom-
+mend higher sentences for most defendants who “exercise
+[their] constitutional right to trial.”  USSG §3E1.1, and
+comment., n. 2.  And while prosecutors once felt constrained
+by “the traditional maxim that ‘an indictment should not
+include more than one felony,’ . . . today’s prosecutors [of-
+ten] bring as many overlapping felony charges as they can
+in a single case.”  Barrett v. United States, 607 U. S. 128,
+150–151 (2026) (GORSUCH, J., concurring in part) (quoting
+Pointer v. United States, 151 U. S. 396, 403 (1894)).
+Together with this Court’s approval of aggressive negoti-
+ating tactics, developments like these have made it easier
+than ever for prosecutors to cajole defendants into pleading
+guilty. So much so that perhaps 95 percent of convictions
+now come by way of plea bargains. See R. Barkow, Justice
+Abandoned 74–75 (2025).  These days, plea bargaining is
+not just “some adjunct to the criminal justice system; it is
+the criminal justice system.”  R. Scott & W. Stuntz, Plea
+Bargaining as Contract, 101 Yale L. J. 1909, 1912 (1992).
+III
+If plea bargaining on this scale and in this manner is a
+modern phenomenon, appeal waivers represent a more
+
+recent development yet.  Pu rsuant to an appeal waiver, a
+defendant usually must agree to waive not only any right
+he may have to contest his conviction on appeal.  See 28
+U. S. C. §1291; Class v. United States, 583 U. S. 174, 178–
+182 (2018). Typically, he must also agree to waive his right
+to appeal any sentence a district court might issue after ac-
+cepting his guilty plea. See 18 U. S. C. §3742.  A defendant
+must do so even though he does not yet know what that
+sentence will be.  And he must do so even while the govern-
+ment retains its right to appeal any decision it doesn’t like.
+Forty years ago, appeal waivers like these “were rare or
+nonexistent.” A. Alschuler, Plea Bargaining and Mass In-
+carceration, 76 N. Y. U. Annual Survey of Am. Law 205,
+226, and n. 146 (2021). Today, they are commonplace. See
+Q. Sorenson, Appeal Rights Waivers, The Federal Lawyer,
+Oct./Nov. 2018, p. 33; S. Klein, A. Remis, & D. Elm, Waiving
+the Criminal Justice System, 52 Am. Crim. L. Rev. 73, 85–
+87, 122 (2015).
+Consider what this means. Because a defendant con-
+fronted with an appeal waiver during plea bargaining does
+not know what sentence a court will issue, he must negoti-
+ate in the dark.  What if, as the Fifth Circuit assumed here,
+the sentencing judge imposes a punishment the Constitu-
+tion does not tolerate? What if the judge fails to respect this
+Court’s precedents and Congress’s statutes governing how
+he must proceed at sentenci ng and what punishments he
+may lawfully issue? What if a judge goes so far as to allow
+an orangutan to pick the defendant’s sentence from a hat?
+As the government tells it, a defendant with an appeal
+waiver has no way to correct any  of these errors on appeal
+(yes, even when it comes to the orangutan, see Tr. of Oral
+Arg. 65–66, 91–92).  And yet, because an appeal waiver may
+often be bundled together with other terms in a plea deal in
+a take-or-leave package, a defendant may often have little
+choice but to accept risks li ke these—especially given the
+consequences prosecutors can visit on those who refuse.
+
+9  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+Much as plea bargaining initially met with judicial skep-
+ticism, so did appeal waivers.  Some district court judges
+refused to accept plea agreements that included appeal
+waivers or struck those waivers completely. See, e.g.,
+United States v. Raynor, 989 F. Supp. 43 (DC 1997) (Fried-
+man, J.); United States v.  Johnson, 992 F. Supp. 437 (DC
+1997) (Greene, J.); United States v. Perez, 46 F. Supp. 2d 59
+(Mass. 1999) (Gertner, J.); see also United States v. Melan-
+con, 972 F. 2d 566, 571 (CA5 1992) (Parker, J., concurring
+specially). But with time, and subject to differing excep -
+tions, Courts of Appeals largely came to accept appeal waiv-
+ers, much as courts had previously come to accept plea bar-
+gains themselves. See United States v. Guillen, 561 F. 3d
+527, 529, and n. (CADC 2009).  For its part, this Court al-
+lowed debates over appeal waivers to proceed in the lower
+courts for years without comment, offering no statement on
+their legality or “on what particular exceptions may be re-
+quired.” Garza v. Idaho, 586 U. S. 232, 239, n. 6 (2019).
+IV
+Today, the Court breaks its silence.  Agreeing with Mr.
+Hunter and certain Courts of Appeals, it holds that an ap-
+peal waiver is unenforceable when a defendant seeks to ap-
+peal a sentence that represents a “miscarriage of justice.”
+Ante, at 11. To illustrate what this standard means, the
+Court offers some “examples.” Ante, at 12.  At the same
+time, the Court takes care to emphasize that these exam-
+ples are “not intended” to be “exclusive.” Ibid.
+All that is a welcome first step.  But it also leaves lower
+courts considerable work ahead to flesh out the standard
+the Court announces. Fortunately, it seems to me that de-
+cisions from Courts of Appeals that already apply the mis-
+carriage-of-justice rule the Court “approve[s]” of today,
+ante, at 11, 4–5, n. 1, along with certain of our own existing
+precedents, can help illuminate the path forward.
+
+Start with this Court’s first example of a miscarriage of
+justice, “a sentence exceeding what the relevant statute al-
+lows.” Ante, at 12.  Or, put another way, a sentence “not
+authorized by law.” United States v. Phillips, 124 F. 4th
+522, 528 (CA8 2024) (internal quotation marks omitted).
+This category of course embraces sentences that exceed the
+“maximum prescribed” by statute. Ante, at 12.  But, con-
+sistent with lower court decisions, the category should like-
+wise include sentences imposing penalties the law reserves
+for offenses different than those of which the defendant
+stands convicted. See Phillips, 124 F. 4th, at 527–528 (ban
+on receiving federal benefits).  Or ones that order remedies
+the law does not permit.  See United States v. Yung , 37
+F. 4th 70, 82 (CA3 2022) (restitution).  And perhaps man-
+datory minimum sentences for which the defendant does
+not qualify. See 18 U. S. C. §924(e).
+Now take the Court’s next example, a sentence premised
+on “a blatant constitutional error.”  Ante,  a t 1 2 .   A s  t h e
+Court explains, that includes not only sentences based on
+“constitutionally impermissible factor[s]” such as race, reli-
+gion, or sex.  Ibid. It also extends to “constitutionally infirm
+condition[s] of supervised release.” Ibid.  Accordingly, a de-
+fendant may be able to appeal a sentence imposing a condi-
+tion of release that violates his right to be free from forced
+medication, or a condition that violates his right to speak or
+worship freely, or any other condition that violates one of
+his recognized constitutional rights.  Really, I would think
+a miscarriage of justice all but certain to arise whenever a
+sentence infringes a constituti onal right that was “firmly
+established at the time of sentencing.”  United States v.
+Carter, 87 F. 4th 217, 225 (CA4 2023) (internal quotation
+marks omitted); see also United States v.  Del Valle-Cruz,
+785 F. 3d 48, 56–57 (CA1 2015) (constitutional right to raise
+one’s child).
+Next, consider the Court’s third example, sentences
+marred by serious procedural errors. Ante, at 12. That
+
+11  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+includes not only a sentence chosen by an orangutan, see
+supra, at 8–9, but others reflecting a marked departure
+from mandatory sentencing procedures.  Ante,  at 12; see
+also Gall v. United States, 552 U. S. 38, 49–51 (2007) (out-
+lining sentencing procedures).  Appreciating as much,
+Courts of Appeals have often declined to enforce appeal
+waivers when a district court breaks from rules requiring it
+to give reasons for its chosen sentence or address a defend-
+ant’s non-frivolous arguments for a different one.  See, e.g.,
+United States v. Smith, 134 F. 4th 248, 261–263 (CA4
+2025); United States v. Woltmann, 610 F. 3d 37, 39–40 (CA2
+2010).
+Consider also aspects of sentencing that can require a de-
+gree of judicial discretion: the application of the advisory
+sentencing guidelines, the imposition of supervised release
+conditions within statutory and constitutional bounds, and
+the weighing of 18 U. S. C. §3553(a)’s sentencing factors. I
+appreciate that “standard-fare” errors in those areas will
+not often clear the “high bar” the Court sets today.  Ante, at
+11. But some errors may. For example, and as we have
+held, the failure to correct a plain and nonharmless error in
+calculating an advisory guidelines range ordinarily “will se-
+riously affect the fairness, integrity, and public reputation
+of judicial proceedings.”   Rosales-Mireles  v. United States,
+585 U. S. 129, 145 (2018).  Indeed, “‘what reasonable citizen
+wouldn’t bear a rightly diminished view of the judicial pro-
+cess and its integrity if courts refused to correct obvious er-
+rors of their own devise that threaten to require individuals
+to linger longer in federal prison than the law demands?’ ”
+Id., at 141 (quoting United States v.  Sabillon-Umana, 772
+F. 3d 1328, 1333–1334 (CA10 2014)).
+A miscarriage of justice would seem to arise, as well,
+when a district court metes out punishment that is so sub-
+stantively unreasonable that it would fail under the “defer-
+ential abuse-of-discretion standard” that appellate courts
+already apply in sentencing challenges.  Gall, 552 U. S., at
+
+41, 51–52. Along those lines, lower courts applying the mis-
+carriage-of-justice rule have acknowledged that “egregious”
+harm necessarily results from any supervised release con-
+dition, or any other component of a sentence, “wholly unre-
+lated to legitimate sentencing purposes” or “lacking in ra-
+tionality.” United States v. Boudreau, 58 F. 4th 26, 33 (CA1
+2023) (internal quotation marks omitted); see also, e.g.,
+United States v. Velez-Luciano , 814 F. 3d 553, 564–565
+(CA1 2016) (“a highly invasive [medical] procedure” that
+“has no efficacy”).1
+V
+I wonder, too, if there are even deeper problems lurking
+here. Yes, as Mr. Hunter argues, an appeal waiver is un-
+enforceable when a defendant se eks to appeal a sentence
+that represents a “miscarriage of justice.”  And, yes, to re -
+solve today’s case, that is all we need decide. But, as the
+Court recognizes, appeal waivers may raise other problems
+as well. See ante, at 7, n. 3.  Consider just a couple of them.
+The Due Process Clause of the Fifth Amendment, this
+Court has held, tolerates only “voluntary and knowing”
+guilty pleas. McCarthy v. United States, 394 U. S. 459, 466
+(1969). That standard is met on ly if the defendant “inten-
+tional[ly] relinquish[es] or abandon[s] . . . known right[s] or
+privilege[s].” Ibid. (internal quotation marks omitted).  A
+guilty plea thus must be made both “voluntarily” and “with
+full understanding of the consequences.” Kercheval v.
+United States, 274 U. S. 220, 223 (1927).  It’s a rule that
+means a defendant signing a plea agreement containing an
+appeal waiver must voluntarily abandon not just his right
+——————
+1 To the extent J USTICE KAVANAUGH believes the foregoing discussion
+contemplates “a lower bar” than is appropriate, post, at 1 (concurring
+opinion), his unexplained disagreement lies not with me, but with what
+many lower courts and this Court have said in the past about what kinds
+of errors represent miscarriages of justice or otherwise reflect adversely
+on the integrity of the Judiciary.
+
+13  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+to trial but his right to appeal  his conviction and sentence
+as well. And he must fully understand the consequences of
+that decision. Ante, at 7 (“[A]n appeal waiver, like the rest
+of a plea agreement, must be knowing and voluntary to be
+valid”); see also Garza, 586 U. S., at 239; United States v.
+Davis, 588 U. S. 445, 451 (2019) (the “first essential” of due
+process is “fair notice” (internal quotation marks omitted)).
+Those principles may pose an independent problem for
+appeal waivers that purport to  insulate sentencing errors
+from review. After all, and as the district court acknowl-
+edged in this very case, when defendants like Mr. Hunter
+sign plea agreements containing appeal waivers, “no one
+knows . . . what sentence the Court will impose.”  App. 8–9.
+Given that, how can a defendant “know” and “fully under-
+stand” at the time he signs a plea agreement that a court
+might later order punishment that defies the Constitution,
+a federal statute, or this Court’s precedents?  Don’t the par-
+ties generally expect that a sentencing court will act con-
+sistently with the rules of law then in force?  Of course, dis-
+trict courts must discuss an appeal waiver’s general
+implications with a defendant before accepting a plea agree-
+ment containing one. See Fed. Rule Crim. Proc. 11(b)(1)(N);
+App. 10–11.  But the colloquy in this case did not include—
+nor does anything in the Federal Rules contemplate—a
+warning that the district court might later violate the law.
+For good reason.  A legal system branded with a disclaimer
+that its judges might violate the law would be no legal sys -
+tem at all.
+Notably, too, this Court has found prospective waivers of
+many other statutory rights invalid and unenforceable.  We
+have held that a company’s prospective waiver of its right
+to remove lawsuits to federa l court—extracted as a condi-
+tion of doing business in a State—not just “void” but “repug-
+nant to the Constitution and laws of the United States.”
+Home Ins. Co. v. Morse, 20 Wall. 445, 454, 457–458 (1874).
+We have held that an employee’ s rights under Title VII of
+
+the Civil Rights Act of 1964 are not susceptible of prospec-
+tive waiver. Alexander v. Gardner-Denver Co., 415 U. S. 36,
+51–52 (1974).  The same goes for rights under the Fair La-
+bor Standards Act and 42 U. S. C. §1983.  Barrentine v. Ar-
+kansas-Best Freight System, Inc., 450 U. S. 728, 740 (1981);
+McDonald v. West Branch, 466 U. S. 284, 290 (1984).  And
+we have similarly suggested on multiple occasions that a
+private agreement might not be enforced if it “operate[s] . . .
+as a prospective waiver of a party’s right to pursue” various
+other “statutory remedies.”  Mitsubishi Motors Corp. v.
+Soler Chrysler-Plymouth, Inc. , 473 U. S. 614, 637, n. 19
+(1985) (antitrust laws); see also 14 Penn Plaza LLC v. Pyett,
+556 U. S. 247, 273 (2009) (Age Discrimination in Employ -
+ment Act); Vimar Seguros y Reaseguros, S. A.  v. M/V Sky
+Reefer, 515 U. S. 528, 539–541 (1995) (Carriage of Goods by
+Sea Act).
+So far, the government has offered no colorable explana-
+tion why a defendant’s prospective waiver of his statutory
+right to appeal his sentence sh ould be treated differently.
+The government stresses that a criminal defendant “may
+always choose not to appeal” his sentence. Brief for United
+States 22. But a litigant may also choose not to exercise his
+right to remove an existing ca se to federal court or bring
+suit to vindicate a Title VII or antitrust injury.  And none
+of that has prevented us from calling prospective waivers
+void in those contexts.  The government also contends that
+prospectively waiving the right to appeal a sentence does
+not “implicate broader social interests that form part of [an]
+unalterable statutory policy.”  Ibid. (internal quotation
+marks omitted).  But it’s hard to see on what basis we might
+conclude that the Sentencing Reform Act’s promise to de-
+fendants that they may appeal their sentences implicates
+“social interests” and “statutory policy” any less worthy of
+respect than similar promises found in so many other stat -
+utory regimes where we have said prospective waivers are
+impermissible. Certainly, one would think a criminal
+
+15  Cite as: 608 U. S. ____ (2026)
+GORSUCH, J., concurring
+defendant’s right to appeal hi s sentence ranks at least as
+highly as, for instance, a right to nullify a contractual pro -
+vision “ ‘relieving [a] carrier . . . from liability’ ” for damage
+to the goods it transmits. Vimar, 515 U. S., at 534 (quoting
+46 U. S. C. App. §1303(8) (1994 ed.)).
+If a defendant may prospectively waive the right to ap-
+peal his sentence, too, one might wonder what’s to stop
+prosecutors from pushing their luck further yet. Might we
+eventually face plea agreements that include prospective
+waivers of the defendant’s right to complain about future
+unreasonable searches and seizures of his home?  See L.
+Gill, Virginia Governor Vetoes a Ban on Plea Deals that
+Waive People’s Constitutional Rights, Bolts (Apr. 14, 2026),
+https://perma.cc/3FL2-LBNB. Or prospective waivers of a
+defendant’s right to seek a jury (rather than bench) trial in
+future proceedings if he ever is charged with another crime?
+See P. Hamburger, Purchasing Submission 165 (2021).2
+——————
+2 Two of my colleagues seek to bolster the government’s defense of pro-
+spective appeal waivers.  But respectfully, their offerings have problems
+too. After admitting that some rights cannot be prospectively waived,
+JUSTICE BARRETT fails to provide any reason why a criminal defendant’s
+right to appeal an unconstitutional or unlawful sentence should not be
+among them. See post, at 2 (concurring opinion).  Meanwhile, J USTICE
+THOMAS seeks to distinguish between “procedural mechanism[s],” which
+he says can always be prospectively waived, and “substantive rights,”
+which he agrees (sometimes) cannot.  Post, at 8, n. 4 (dissenting opinion).
+But that distinction cannot explain our cases. Morse involved a proce -
+dural right—the right to remove a lawsuit to federal court—yet we held
+it insusceptible of prospective waiver.  20 Wall., at 452–458.  And in Al-
+exander, the plaintiff did not prospectively waive substantive protections
+against racial discrimination by his employer.  See 415 U. S., at 39.  In -
+stead, he waived a procedural mechanism to vindicate those protections,
+agreeing to arbitrate future claims of  racial discrimination rather than
+litigate them. See id., at 40–42. Yet there too, this Court held the pro-
+spective waiver void. See id., at 51–52; see also Barrentine, 450 U. S., at
+730–733 (similar).  Given precedents like these, it would seem to follow,
+a fortiori, that a waiver like Mr. Hunter’s is also void, as it prospectively
+deprives a defendant of any forum (whether on direct appeal or through
+
+Of course, none of these questions is before us in this case.
+All, however, may warrant exploration in future cases
+where they are presented, as may others besides.  See, e.g.,
+Melancon, 972 F. 2d, at 577–579 (Parker, J., concurring
+specially) (discussing the potential application of the uncon-
+stitutional conditions doctrine); United States v. Gordon ,
+480 F. 3d 1205, 1207–1210 (CA10 2007) (applying contract
+principles to a plea bargain’s terms); United States  v. La-
+jeunesse, 85 F. 4th 679, 692 (CA2 2023) (same).
+*
+Two hundred years ago, it was likely unimaginable that
+almost every federal criminal case would be resolved by
+plea bargain. Forty years ago, it may have been no easier
+to foresee that plea bargaining defendants would be pressed
+to waive their statutory right to appeal sentences yet to be
+imposed. Let alone that the federal government would ar-
+gue these waivers prevent defendants from appealing even
+blatantly unlawful or unconstitutional sentences chosen by
+an orangutan. This Court is not responsible for all these
+developments, but it has encouraged some of them and
+stood silent while others took hold.  Today, the Court finally
+begins to correct course, taki ng an important step toward
+reining in appeal waivers. It is not a solution to all of plea
+bargaining’s excesses, and perhaps not even those associ-
+ated with appeal waivers.  But it is a start.
+——————
+collateral attack) to seek relief from an unconstitutional or unlawful sen-
+tence. See Pet. App. 6a; Penn Plaza , 556 U. S., at 269, 273 (holding an
+agreement to arbitrate ADEA claims generally enforceable in light of
+“[a]n arbitrator’s capacity to resolve . . . discrimination claims brought
+under the ADEA,” but conceding that such an agreement “will not be
+upheld” if a party could “block arbitration of [ADEA] claims”); Mitsubishi
+Motors, 473 U. S., at 636–637, and n. 19 (similar); Vimar, 515 U. S., at
+539–541 (similar).  Not only is JUSTICE THOMAS’s account difficult to rec-
+oncile with our precedents.  Under his view, it would seem the govern -
+ment could go so far as to insist that defendants prospectively waive the
+“procedural” right to a jury in any future trial against them.

@@ -1,0 +1,915 @@
+Medical Marijuana, Inc. v. Horn — No. 23-365 — October Term 2024 — decided 4/02/25 — Kavanaugh, J., dissenting
+Citation: 604 U.S. 593
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r23_3e04.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+would define “injured” in slightly different terms, their big-
+gest disagreement concerns what is injured or harmed. Ac-
+cording to Horn, a plaintiff can bring a civil RICO suit so
+long as his business—broadly defined to mean “everything”
+about employment—is harmed. Brief for Respondent 12
+(internal quotation marks omitted). And, according to Med-
+ical Marijuana, a plaintiff can bring a civil RICO suit only if
+his legally protected right in his business or property is in-
+vaded (or, in other words, injured or harmed). See Brief for
+Petitioners 11. The modest conclusion that “injured” means
+“harmed” leaves the scope of the relevant harm unresolved.
+The Court's limited holding is bound to “leave substantial
+confusion and litigation in its wake.” Post, at 648 (opinion
+of Kavanaugh, J.). Notwithstanding its decision to affirm,
+the Court is unwilling to say that Horn has alleged a cogniza-
+ble injury to his business under civil RICO. The Court
+makes clear that it is not deciding whether the Second Cir-
+cuit correctly interpreted “business” to encompass “employ-
+ment.” Ante, at 600. The Court also makes clear that it is
+not deciding the definition of “property.” Ibid. I appreci-
+ate the hesitation to define an entire phrase in a case where
+neither party offers a complete definition. But, rather than
+define one word in isolation, I would wait for a better case.
+* * *
+The decision below implicates a genuine Circuit split, but
+the parties dispute a factbound, threshold issue that directly
+bears on the question presented. And, the related issue of
+how to define “injured in his business or property,” § 1964(c),
+was not decided below and is inadequately briefed. I would
+therefore dismiss the writ of certiorari as improvidently
+granted. I respectfully dissent.
+Justice Kavanaugh, with whom The Chief Justice
+and Justice Alito join, dissenting.
+The Racketeer Influenced and Corrupt Organizations Act,
+known as RICO, provides that any “person injured in his
+business or property by reason of a violation” of the Act
+“shall recover threefold the damages he sustains.” 18
+U. S. C. § 1964(c) (emphasis added). Under the text of RICO,
+therefore, a plaintiff may sue for “business or property” inju-
+ries, and he may seek recovery of the damages he sustains
+from those injuries. But a plaintiff may not sue for “per-
+sonal injuries.” RJR Nabisco, Inc. v. European Commu-
+nity, 579 U. S. 325, 350 (2016).
+Importantly, and key to my disagreement with the Court's
+opinion in this case, the term “injured” is a tort-law term of
+art and therefore “should be given its established common-
+law meaning.” United States v. Castleman, 572 U. S. 157,
+163 (2014) (quotation marks omitted). In tort law, the term
+“injured” means to have suffered “the invasion of any legally
+protected interest.” Restatement (Second) of Torts § 7(1)
+(1964). Personal, property, and business injuries all have
+well-defned meanings in tort law: They mean the invasion
+of a legal right in one's person, property, or business,
+respectively.
+The dispute in this case arises because personal injuries
+in tort law, and thus also in RICO cases, often result in losses
+or damages that are related to the victim's business or prop-
+erty. For example, personal injuries from defective prod-
+ucts or car accidents often lead to lost wages (loss of “busi-
+ness” according to plaintiff Horn) and medical expenses (loss
+of “property” according to Horn).
+So the fundamental question here is whether business or
+property losses from a personal injury transform a tradi-
+tional personal-injury suit into a business-injury or
+property-injury suit that can be brought in federal court for
+treble damages under RICO. Plaintiff Horn and the Second
+Circuit say that the answer is yes. Defendant Medical Mari-
+juana, as well as the Sixth, Seventh, and Eleventh Circuits,
+contend that the answer is no—that RICO does not authorize
+suits for personal injuries regardless of what losses or dam-
+ages a victim sustains from a personal injury. I agree with
+defendant Medical Marijuana and the Sixth, Seventh, and
+Eleventh Circuits.
+A plaintiff cannot circumvent RICO's categorical exclusion
+of personal-injury suits simply by alleging that a personal
+injury resulted in losses of business or property, thereby con-
+verting otherwise excluded personal-injury suits into
+business- or property-injury suits. If the rule were other-
+wise, as plaintiff Horn advocates here, RICO would federal-
+ize many traditional personal-injury tort suits. When
+enacting civil RICO in 1970, Congress did not purport to
+usher in such a massive change to the American tort system.
+As the Eleventh Circuit rightly said, if “Congress intended
+to create a federal treble damages remedy for cases involv-
+ing bodily injury, injury to reputation, mental or emotional
+anguish, or the like, all of which will cause some financial
+loss, it could have enacted a statute referring to injury gen-
+erally, without any restrictive language.” Grogan v. Platt,
+835 F. 2d 844, 847 (1988) (quotation marks omitted). Con-
+gress did not enact such a statute. On the contrary, it
+excluded personal-injury suits. And it is not remotely plau-
+sible to conclude that Congress excluded personal-injury
+suits under RICO and then turned around and somehow still
+implicitly authorized most personal-injury suits under
+RICO.
+For its part, the Court today neither fully agrees with
+plaintiff Horn and the Second Circuit, nor fully agrees with
+defendant Medical Marijuana and the Sixth, Seventh, and
+Eleventh Circuits. Instead, the Court charts an unusual
+middle way. The Court agrees with Horn that the term “in-
+jured” in RICO is not a tort-law term of art and therefore
+should be read according to its ordinary conversational
+meaning, rather than its longstanding legal meaning.
+Therefore, the Court agrees with Horn that personal-injury
+suits are not excluded by RICO so long as the personal inju-
+ries lead to “business or property loss.” Ante, at 601. But
+the Court then declines to decide whether lost wages and
+medical expenses (which are among the most common eco-
+nomic damages in personal-injury suits) qualify as business
+or property losses recoverable in those RICO suits.
+By concluding that traditional personal-injury suits are not
+excluded by RICO and then punting on the critical questions
+of whether lost wages and medical expenses are recoverable
+losses of business or property in those RICO suits, the
+Court's opinion both errs on the law and leaves substantial
+confusion in its wake. The aftermath of the Court's opinion
+could be quite a mess, as courts grapple with RICO personal-
+injury cases where the question is what losses qualify as
+business or property losses.
+Unlike the Court, I would heed the text of the statute,
+recognize that the term “injured” in RICO is a longstanding
+tort-law term of art, and keep things relatively simple:
+RICO excludes suits for personal injuries, regardless of what
+losses or damages ensue from those personal injuries.
+I
+For three reasons, I conclude that RICO does not author-
+ize suits for personal injuries even when those personal inju-
+ries result in losses or damages related to one's business or
+property: (1) the text of RICO excludes personal-injury suits
+and incorporates traditional tort-law principles about what
+injury means; (2) this Court's antitrust precedents, which in-
+terpret the same “injured in his business or property” lan-
+guage on which RICO was deliberately modeled, confirm
+that RICO excludes all losses resulting solely from personal
+injuries; and (3) the federalism canon counsels against feder-
+alizing large swaths of ordinary state-court tort cases absent
+clear direction from Congress.
+A
+First is the statutory text. RICO expressly distinguishes
+among different kinds of injuries—personal injuries versus
+business or property injuries.
+When it enacted RICO in 1970, Congress did not pluck the
+word “injured” out of thin air. Rather, Congress adopted
+language that comes straight from longstanding tort-law
+principles. And those longstanding tort-law principles mat-
+ter when courts construe RICO: In interpreting statutory
+torts, this Court starts “from the premise that when Con-
+gress creates a federal tort it adopts the background of
+general tort law.” Staub v. Proctor Hospital, 562 U. S. 411,
+417 (2011). Therefore, to define the scope of civil RICO's
+cause of action, this Court has repeatedly looked to “gen-
+eral common-law” tort principles regarding “legal injury.”
+Bridge v. Phoenix Bond & Indemnity Co., 553 U. S. 639, 656
+(2008); see Beck v. Prupis, 529 U. S. 494, 500–501 (2000).
+Stated otherwise, “injured” is a “common-law term of art”
+that “should be given its established common-law meaning.”
+United States v. Castleman, 572 U. S. 157, 163 (2014) (quota-
+tion marks omitted). Here, as elsewhere, when “Congress
+transplants a common-law term, the `old soil' comes with it.”
+United States v. Hansen, 599 U. S. 762, 778 (2023) (quotation
+marks omitted).
+What constitutes injury as a matter of traditional tort law?
+For tort-law purposes, injury is the infringement of a legal
+right—“the invasion of any legally protected interest of an-
+other.” Restatement (Second) of Torts § 7(1).
+And with injury so defined, Congress's “cabining RICO's
+private cause of action to particular kinds of injury”—busi-
+ness or property injuries, not personal injuries—makes per-
+fect sense. RJR Nabisco, Inc. v. European Community, 579
+U. S. 325, 350 (2016). That is because tort law has long cate-
+gorized different kinds of legal injuries along precisely
+those lines.
+Personal injury includes “acts constituting a tort because
+intended or likely to cause bodily harm or emotional dis-
+tress.” Restatement (Second) of Torts § 924, Comment a
+(1977); see id., ch. 2, Introductory Note, at 22; Ballentine's
+Law Dictionary 941 (3d ed. 1969). Typical personal-injury
+claims may involve, for example, car accidents or defective
+products.
+Property injury—like trespass or conversion—is an act
+“materially affecting the capacity of particular property for
+ordinary use and enjoyment” or “the diminishing” of one's
+“property” by tortious means. Ballentine's, at 627; see
+Chattanooga Foundry & Pipe Works v. Atlanta, 203 U. S.
+390, 396, 398–399 (1906).
+Those categories are long and widely recognized. In de-
+tailing the “several injuries cognizable by the courts of com-
+mon law,” Blackstone separated “wrongs or injuries that af-
+fected the rights of persons” from “such injuries as affect the
+rights of property.” 3 W. Blackstone, Commentaries on the
+Laws of England 115, 144 (1768). As one court phrased it
+150 years later, actions “to recover damages caused by bodily
+injuries, or by injuries to property,” were “well known as
+distinct classes of actions” and “each separately treated in
+the text books of law”—and “so clearly distinguished” that
+“there is no difficulty in recognizing and classifying them.”
+Gridley v. Fellows, 166 Cal. 765, 769, 138 P. 355, 357 (1914);
+see Kelley v. Boyne, 239 Mich. 204, 213, 214 N. W. 316, 319
+(1927).
+Business injury such as unfair competition and tortious in-
+terference with contract eventually developed into its own
+standalone tort-law category, distinct from personal or prop-
+erty injury. By the late 19th and early 20th centuries,
+courts and commentators embraced the general principle
+that “to interfere with a man's trade by a malicious act is
+actionable” because it violates “a concrete right as distinct
+as his right to his lands and chattels, one which imposes on
+his fellows a correlative duty, the breach of which is a tort.”
+E. McClennen, Some of the Rights of Traders and Laborers,
+16 Harv. L. Rev. 237, 237–238, 241 (1903); cf. F. Cooke, The
+Law of Combinations, Monopolies and Labor Unions § 7 (2d
+ed. 1909). And by 1938, the First Restatement included a
+division titled “Interference with Business Relations” that
+described trade-related wrongs like unfair competition and
+tortious interference with contract. See Restatement
+(First) of Torts, div. 9.
+In short, tort law has long distinguished personal-injury
+suits from business-injury or property-injury suits. And
+RICO incorporated that traditional distinction into the statu-
+tory text. Like some of the States, Congress could have
+decided to authorize RICO suits for any person who has been
+“injured,” period, which would have covered personal-injury
+suits as well as business- or property-injury suits. See Ga.
+Code Ann. § 16–14–6(c) (2024); Fla. Stat. § 772.104(1) (2023).
+But Congress instead decided to limit civil RICO suits to
+plaintiffs who have been “injured in” their “business or
+property.”
+More specifically, RICO's private right of action is avail-
+able to a person who has suffered a business or property
+injury “by reason of a violation” of RICO. § 1964(c). And
+a RICO violation generally requires the defendant to have
+engaged in a “pattern of racketeering activity,” where “rack-
+eteering activity” includes conduct chargeable as any of a
+host of state- and federal-law crimes, such as money launder-
+ing, extortion, and mail or wire fraud, to take some common
+examples. § 1962; see §§ 1961(1), (5). The question for a
+court under civil RICO is simply whether the plaintiff was
+“injured in his business or property by reason of” whatever
+the defendant did to violate RICO. § 1964(c).
+One further important point: Under tort law, injury is dis-
+tinct from the losses or damages that result from an injury.
+Since before the Founding, courts have distinguished “in-
+jury” from “damage.” Uzuegbunam v. Preczewski, 592 U. S.
+279, 286 (2021) (citing Cable v. Rogers, 3 Bulst. 311, 312, 81
+Eng. Rep. 259 (K. B. 1625)). Stated simply, injury is “the
+illegal invasion of a legal right; damage is the loss, hurt, or
+harm which results from the injury.” Ballentine's, at 303;
+see Black's Law Dictionary 466 (rev. 4th ed. 1968).
+For example, negligently driving a car into a pedestrian
+inflicts a legal injury on the pedestrian—wrongful invasion
+of the pedestrian's physical safety. The pedestrian's losses
+or damages resulting from the injury typically will include
+his lost wages and medical expenses, among other things like
+pain and suffering. The injury (the hit from the negligently
+driven car) gives the pedestrian a right to sue; the lost
+wages, medical expenses, and pain and suffering that follow
+are damages that a plaintiff may be able to recover for the
+injury. See Restatement (Second) of Torts §§ 910, 912, Com-
+ment a.
+All of that means that when a victim suffers only a per-
+sonal injury (such as from a car accident or defective prod-
+uct), his lost wages and medical expenses are merely the
+losses or damages that result from that personal injury, not
+themselves a separate business or property injury—that is,
+not a distinct infringement of a legal right in one's business
+or property.
+Therefore, a victim who suffers only a personal injury “by
+reason of” a RICO violation has not been “injured” in his
+“business or property,” even if that personal injury leads him
+to lose wages or incur medical expenses. That victim may
+not sue under RICO.
+B
+This Court's antitrust precedents further confirm that
+RICO's exclusion of personal-injury suits means what it says
+and cannot be circumvented by recharacterizing personal-
+injury losses or damages (such as lost wages or medical
+expenses) as their own standalone business or property
+injuries.
+By the time Congress enacted RICO in 1970, this Court
+had already interpreted identical text in the antitrust laws—
+“injured in his business or property”—to adhere to the tra-
+ditional tort-law understanding of business or property
+injuries as distinct from personal injuries. Those prior anti-
+trust holdings interpreting that same statutory language
+carry weight both as a matter of precedent and because this
+Court presumes that in enacting RICO, Congress adopted
+“the interpretation federal courts had given the words ear-
+lier Congresses had used” in the antitrust laws. Holmes v.
+Securities Investor Protection Corporation, 503 U. S. 258,
+268 (1992); see, e. g., Agency Holding Corp. v. Malley-Duff &
+Associates, Inc., 483 U. S. 143, 151 (1987).
+Enacted long before RICO, the Sherman and Clayton Acts
+provided that any “person who shall be injured in his busi-
+ness or property . . . by reason of” an antitrust violation may
+“sue therefor” and “shall recover three fold the damages by
+him sustained.” Sherman Act, § 7, 26 Stat. 210 (1890) (em-
+phasis added); see Clayton Act, § 4, 38 Stat. 731 (1914), as
+amended, 15 U. S. C. § 15(a). And in applying that statutory
+text, the Court opined that “injured in his business or prop-
+erty” had its traditional tort-law meaning.
+The Court expressly said so in an antitrust price-fxing
+case, Keogh v. Chicago & Northwestern R. Co., 260 U. S. 156
+(1922). There, the Court accepted that the plaintiff “was
+damaged” directly by the defendants' illegal conduct—he
+“lost the benefit of rates” that “he would have enjoyed” “but
+for the conspiracy.” Id., at 160, 162. But being “dam-
+aged”—suffering a loss—was not what the statutory text de-
+manded. The Sherman Act required legal injury. As the
+Court put it, “Section 7 of the Anti-Trust Act” gave “a right
+of action” only to “one who has been ` injured in his business
+or property.' Injury implies violation of a legal right.”
+Id., at 163 (emphasis added).
+In other words, the Keogh Court ruled that “injured” re-
+ferred to the violation of a legal right, not to the harm or
+damage resulting from the violation of a legal right. And
+so the Court went on to determine whether the plaintiff had
+been legally “injured”—which, in Keogh, he had not. 1
+1 The Court does not offer a persuasive substantive response to what it
+calls “century-old” precedent (i. e., case law from the time shortly after
+the antitrust laws were enacted). The Court instead tries minimizing
+Therefore, for an antitrust plaintiff to be “injured in his
+business or property,” this Court and others have required
+that the plaintiff be legally wronged in a business or prop-
+erty interest as traditionally understood. See Chattanooga
+Foundry, 203 U. S., at 396, 399; Gerli v. Silk Assn. of Am.,
+36 F. 2d 959, 960 (SDNY 1929). The question is whether the
+plaintiff's business or property rights were legally violated—
+not whether the plaintiff suffered some sort of business or
+property loss or damage from an injury.
+In Reiter v. Sonotone Corp., the Court applied those basic
+principles to hold that the antitrust laws “exclude personal
+injuries.” 442 U. S. 330, 339 (1979). That is true, the Court
+suggested, even when the personal injuries led to losses or
+damages related to the plaintiff's business or property. As
+its example of excluded personal injuries, the Court cited
+Hamman v. United States, 267 F. Supp. 420 (Mont. 1967).
+In Hamman, the plaintiffs had tried to evade the personal-
+injury exclusion by contending that their property damage
+from a personal injury itself qualified as a distinct property
+injury for purposes of the antitrust laws. Id., at 429, 432.
+Under the antitrust laws, however, that argument does not
+suffice, which is presumably why the Reiter Court cited
+Hamman as exactly the kind of personal-injury suit that the
+it. Ante, at 607, n. 7. But the requirement of legal injury is not a “single
+sentence” from Keogh: It is the holding of Keogh—a holding that has been
+followed to the present day. Specifically, the fxed rates in Keogh were
+fled with and approved by the Interstate Commerce Commission. 260
+U. S., at 160. The plaintiff suffered no “legal” “[i]njury” from rates ele-
+vated by price-fxing because the regulator-approved rate was the “legal
+rate.” Id., at 163. In that circumstance, although the plaintiff suffered
+a loss, there was no legal injury. Keogh's holding is plainly contrary to
+the Court's test. And Keogh is not a one-off, as all of the other above
+cases applying a legal-injury rule (especially Chattanooga Foundry &
+Pipe Works v. Atlanta, 203 U. S. 390 (1906)) make clear. That is why this
+Court has continued to reaffirm Keogh, going so far as to repeatedly call
+it “settled law.” Square D Co. v. Niagara Frontier Tariff Bureau, Inc.,
+476 U. S. 409, 415–417, 420, 422, 424 (1986); see, e. g., South Branch LLC
+v. Commonwealth Edison Co., 46 F. 4th 646, 650–652 (CA7 2022) (applying
+Keogh's definition to civil RICO).
+antitrust laws exclude. 442 U. S., at 339. The Reiter
+Court's citation to Hamman supports the conclusion that
+damages to one's business or property from personal injuries
+do not somehow magically transform those personal injuries
+into distinct business or property injuries that can be alleged
+in an antitrust suit.
+To summarize: Antitrust law has long required plaintiffs
+to allege business or property injuries, and has long excluded
+suits for personal injuries. And critically, antitrust law has
+defined “injured” as traditionally understood under tort
+law—that is, as an invasion of a legal right and distinct from
+the losses or damages that ensue. 2
+RICO aims “to compensate the same type of injury” as the
+antitrust laws; “each requires that a plaintiff show injury `in
+his business or property by reason of' a violation.” Agency
+Holding, 483 U. S., at 151. Those antitrust precedents
+therefore strongly buttress the conclusion that RICO ex-
+cludes personal-injury torts, regardless of what kinds of
+losses or damages ensue. See, e. g., Gause v. Philip Morris,
+2000 WL 34016343, *4–*5 (EDNY, Aug. 8, 2000) (rejecting
+an attempt to reframe loss of income from emphysema as a
+property injury under RICO).
+In RICO, Congress surely did not copy verbatim antitrust
+law's well-established business or property requirement in
+2 The Court points to (1) the rule that paying higher-than-competitive
+prices is an antitrust injury; and (2) a single conclusory line from one per
+curiam opinion from the 1960s. Ante, at 606–607. But the first rule is
+just the holding of Reiter, which specifically relied on a 1906 legal-injury
+precedent to hold that a payment induced at an illegal price is injury in
+one's property. 442 U. S., at 340 (“A person whose property is diminished
+by a payment of money wrongfully induced is injured in his property”
+(quoting Chattanooga Foundry, 203 U. S., at 396 (quotation marks omit-
+ted))). And as for the 1960s case, the Court there merely said that “all
+the law requires” is damage to the plaintiff as compared to “economic
+harm” to “the public at large.” Radiant Burners, Inc. v. Peoples Gas
+Light & Coke Co., 364 U. S. 656, 659–660 (1961) (per curiam ) (quotation
+marks omitted).
+order to silently convert ordinary personal-injury tort cases
+into federal RICO lawsuits with treble damages available.
+C
+Third, even if the above textual and precedential points do
+not themselves clinch the matter, the federalism canon
+weighs heavily against reading RICO to encompass tradi-
+tional personal-injury suits.
+The federalism canon directs courts not to significantly
+alter the federal-state balance absent “exceedingly clear lan-
+guage” from Congress. Sackett v. EPA, 598 U. S. 651, 679
+(2023) (quotation marks omitted); see, e. g., Gregory v. Ash-
+croft, 501 U. S. 452, 460 (1991). If RICO covered personal
+injuries that lead to lost wages and medical expenses, as
+Horn advocates, then civil RICO would federalize huge
+swaths of state tort law in a manner that Congress never
+contemplated or authorized.
+That reading would eviscerate the careful balance that
+Congress struck when enacting RICO. 3 Again, most
+personal-injury torts lead to damages involving a loss of em-
+ployment or income (such as lost wages) or loss of money
+(such as medical expenses). Horn characterizes those dam-
+ages as lost business or lost property. So if Horn's argu-
+ment were accepted and RICO's exclusion of personal inju-
+ries did not actually exclude most personal-injury tort suits,
+then RICO would suddenly authorize a vast new category of
+personal-injury suits seeking treble damages in federal
+court. For example, plaintiffs could easily plead everyday
+product liability claims as federal RICO claims, at least so
+long as there were two or more instances of fraud that a
+3 RICO authorizes both criminal prosecutions and civil actions by the
+Government regardless of whether there has been any business or prop-
+erty injury. See 18 U. S. C. §§ 1963(a), 1964(a)–(b). But Congress delib-
+erately made a different choice for private suits, “cabining RICO's private
+cause of action to particular kinds of injury.” RJR Nabisco, Inc. v. Euro-
+pean Community, 579 U. S. 325, 350 (2016).
+plaintiff could cast as a “pattern” of racketeering activity.
+18 U. S. C. § 1961(5); see Brief for Petitioners 25–29; Brief for
+Chamber of Commerce of the United States of America et al.
+as Amici Curiae 19–21.
+Most state tort suits are personal-injury suits. And the
+States assume an especially active role regarding the rules
+of personal-injury cases, exercising their “traditional author-
+ity to regulate tort actions.” Wos v. E. M. A., 568 U. S. 627,
+639 (2013).
+Interpreting civil RICO to allow plaintiffs to bypass those
+state-law limits—and to triple their damages in federal
+court—would supplant vast “areas of traditional state re-
+sponsibility.” Bond v. United States, 572 U. S. 844, 858
+(2014). In the antitrust context, this Court has emphasized
+that the “maintenance in our federal system of a proper dis-
+tribution between state and national governments” is “of far-
+reaching importance,” and an “intention to disturb the bal-
+ance is not lightly to be imputed to Congress.” Hunt v.
+Crumboch, 325 U. S. 821, 826 (1945) (quotation marks omitted).
+So too with RICO. Indeed, the federalism concerns are
+even greater with RICO than with antitrust. Few antitrust
+violations are likely to inflict personal injury on a plaintiff—
+anticompetitive acts break laws, not legs. But “the breadth
+of the predicate offenses” in RICO practically covers the wa-
+terfront of personal-injury tort law. Sedima, S. P . R. L. v.
+Imrex Co., 473 U. S. 479, 500 (1985). So if RICO were inter-
+preted as Horn suggests, RICO suits for treble damages in
+federal court could supplant many everyday tort suits in
+state court. Avoiding such seismic shifts in the federal-
+state balance, Congress drew the critical RICO boundary at
+issue here—“cabining RICO's private cause of action to par-
+ticular kinds of injury” and “excluding” “personal injuries.”
+RJR Nabisco, 579 U. S., at 350.
+II
+To sum up so far: When civil RICO employed the language
+“injured in his business or property,” it broke no new
+ground. It incorporated well-established tort-law principles
+and antitrust precedents in a straightforward way. If the
+only injury (that is, invasion of a legal right) that a plaintiff
+suffers is a personal injury, the plaintiff cannot recover under
+civil RICO. And RICO does not allow access to its treble-
+damages remedy by silently green-lighting personal-injury
+suits that have downstream financial consequences like lost
+wages or medical expenses. After all, most personal inju-
+ries generate those downstream financial consequences. So
+if RICO were interpreted in that way, it would federalize
+significant swaths of state tort law, and substantially alter
+the federal-state balance.
+Despite all of that, the Court today agrees in part (with
+some important caveats as discussed below) with plaintiff
+Horn on this basic statutory issue and thereby circumvents
+RICO's exclusion of personal injuries—letting in through the
+back door at least some of the personal-injury suits that
+RICO's text bars at the threshold.
+The Court's key mistake, in my view, is to employ an
+ordinary-meaning definition of the term “injured” rather
+than its longstanding meaning as a term of art in American
+tort law. As the Court sees it, the ordinary meaning of “in-
+jured” simply is to have suffered harm or losses or damages.
+Therefore, when a personal injury leads to harm or losses or
+damages related to one's business or property, those down-
+stream harms to business or property are actually their own
+distinct business or property injuries for purposes of RICO.
+So under that reasoning, many personal-injury suits seeking
+treble damages can in fact be brought under RICO in federal
+court. Voila.
+A
+To navigate around RICO's distinction between personal-
+injury suits and business- or property-injury suits, and the
+key point that injury is a longstanding tort-law term of art,
+the Court stresses that RICO uses the term “injured” in-
+stead of “injury.” That single piece of “context,” says the
+Court, means that we should look to the ordinary meaning
+of “injured” and that the traditional tort-law understand-
+ing of injury does not carry over to RICO. Ante, at 603.
+I am mystifed by the Court's attempt to hang its analytical
+hat on such a thin distinction between “injured” and
+“injury.” After all, a person “injured” is a person who
+has suffered an “[i]njury,” a “violation of a legal right”—that
+is, the victim of a tort or wrong. Keogh v. Chicago & North-
+western R. Co., 260 U. S. 156, 163 (1922) (quotation marks
+omitted); see, e. g., Chattanooga Foundry & Pipe Works
+v. Atlanta, 203 U. S. 390, 398–399 (1906); Ziglar v. Abbasi,
+582 U. S. 120, 130 (2017); Alabama Power Co. v. Ickes, 302
+U. S. 464, 479 (1938); Taylor v. Carryl, 20 How. 583, 599
+(1858).
+After reviewing a single dictionary definition of “injured,”
+the Court concludes that the term “injured,” as distinct from
+“injury,” has no specialized legal meaning. From there, the
+Court says that it “is hard to make a term-of-art argument
+without the term of art.” Ante, at 603. But the Court's
+nifty turn of phrase has no substance behind it. Every one
+of the Court's dictionaries—its legal dictionaries, and even
+its generalist ones—includes the rights-violation definition of
+“injure” or “injured,” not just of “injury.” See Ballentine's,
+at 627 (“injured party”); Black's, at 924 (to “injure”); Web-
+ster's New International Dictionary 1111 (1913) (“injured”);
+American Heritage Dictionary 676 (1969) (to “injure”); Web-
+ster's Third New International Dictionary 1164 (1971) (“in-
+jured”). Those sources do not draw the distinction that the
+Court creates in order to avoid RICO's exclusion of per-
+sonal injuries. 4
+4 Meanwhile, the Court's cited definition for “injury in his property” is
+nearly identical to this Court's test for “ injured in his property” in anti-
+trust, the part of speech notwithstanding. Compare Ballentine's, at 627
+(“An injury to his property; also the diminishing of his property by a
+transfer of property, or a payment of money, induced by fraud”), with
+Chattanooga Foundry, 203 U. S., at 396, 398–399 (either “injury to prop-
+erty” or “a payment of money wrongfully induced”).
+Simply put, the Court's attempt to find a key difference
+between “injured” and “injury” rings hollow. And the
+Court's textual gymnastics do not end there. If the Court
+were correct that injured simply means having suffered
+harm or losses or damages, then the statutory term “in-
+jured” would refer to the same thing as the statutory term
+“damages.” But the statute distinguishes “injured” from
+“damages” and makes clear they are not the same thing.
+See § 1964(c) (“Any person injured in his business or prop-
+erty by reason of a violation” of RICO “shall recover three-
+fold the damages he sustains” (emphasis added)). The text
+instead makes clear that damages are the losses that a victim
+sustains from an injury.
+Faced with the problem that its definition of injured refers
+to the same thing as damages in this statute, the Court sim-
+ply redefnes “damages” not to mean losses, but rather to
+mean only “monetary redress” to be paid for the losses.
+Ante, at 603–604.
+The Court is surely correct that “damages” can mean (i)
+losses suffered or (ii) monetary redress from a lawsuit for
+those losses. In fact, the term “damages” is often used in
+both ways. But in this statutory context, only the former
+definition—losses—makes any sense. As used in the RICO
+statute, “damages” are something that a victim “sustains.”
+And the term “sustains” means to “experience or suffer (loss
+or injury).” American Heritage, at 1296. A plaintiff can-
+not suffer or sustain “monetary redress,” as the Court seems
+to think. But he can sustain losses.
+So the term “damages” in RICO means losses, but that is
+exactly what the Court says the term “injured” means. The
+Court affords the same meaning to those different terms.
+In this context, that is another clue that the Court's analysis
+of the term “injured” has gone off track. 5
+5 To be sure, when a plaintiff recovers the damages, he has obtained
+“monetary redress.” But that is because of the statutory word “recover.”
+Nor is it odd, as the Court seems to think, for a statute to say that a
+In short, to reach its conclusion that RICO allows
+personal-injury suits involving losses or damages to business
+or property, the Court reasons that “injured” means some-
+thing different from “injury.” And it changes the statutory
+definition of “damages” to avoid that word carrying the same
+meaning as the Court's reading of “injured.” Neither of
+those efforts is persuasive or permissible as an interpreta-
+tion of RICO's text, in my view.
+The correct reading is instead the textually straightfor-
+ward one: A person “injured in his business or property” is
+a person who has suffered injury in a business or property
+right as traditionally defined—the violation of a legal right
+in his business or property. Keogh, 260 U. S., at 163. Civil
+RICO allows a person to “recover damages” if the damages
+plaintiff can “recover” his losses or damages. Allowing a plaintiff to “re-
+cover” the “damages” sustained—where “damages” unambiguously means
+losses suffered—is a formulation used in countless other statutes and
+cases. For example, “[w]hen an owner of a passenger motor vehicle sus-
+tains damages as a result of a motor vehicle accident because the vehicle
+did not comply with” certain standards, “the owner may bring a civil ac-
+tion against the manufacturer to recover the damages.” 49 U. S. C.
+§ 32508. If a person “purchase[s] or sell[s] any security at a price which
+was affected” by certain manipulation, “the person so injured may sue . . .
+to recover the damages sustained as a result of any such act or transac-
+tion.” 15 U. S. C. § 78i(f). And even specifically in antitrust, a “claimant”
+means a person bringing a civil action except for a State “with respect to
+a civil action brought to recover damages sustained by the State.” 15
+U. S. C. § 7a(4). See also, e. g., Missouri, K. & T. R. Co. v. Haber, 169 U. S.
+613, 615 (1898) (“object was to recover the damages sustained by the plain-
+tiff . . . by reason of the defendants having brought . . . certain cattle
+alleged to have been” infected with “Spanish fever”); Tindle v. Birkett,
+205 U. S. 183, 184 (1907) (“an action brought in 1899 to recover damages
+claimed to have been sustained in consequence of specified false and fraud-
+ulent representations”); Great Northern R. Co. v. Sullivan, 294 U. S. 458,
+462 (1935) (“if injured thereby, plaintiff is entitled to recover the damages
+sustained in consequence of [the defendant's] failure”); Construction Work-
+ers v. Laburnum Constr. Corp., 347 U. S. 656, 666 (1954) (“the recovery of
+damages caused by tortious conduct”).
+result from a business or property injury, but not if the dam-
+ages result from a personal injury. Id., at 162. 6
+B
+The Court also contends that precedent compels us to read
+“injured” as meaning “harmed or damaged,” not as a tort-
+law term of art meaning invasion of a legal right. Ante, at
+601; see ante, at 604–606. But the Court does not cite any
+cases actually holding as much. Instead, the Court offers
+out-of-context citations of isolated mentions of “harm” in
+other cases.
+In relying on passages pulled out of context from judicial
+opinions, the Court makes the mistake of parsing “the lan-
+guage of an opinion” “as though we were dealing with lan-
+guage of a statute.” Reiter v. Sonotone Corp., 442 U. S. 330,
+341 (1979). The Court seizes in particular on the word
+“harm,” which is not in the RICO statute. The Court says
+that injury simply means harm as ordinarily understood.
+So any harm to business or property is its own distinct busi-
+ness or property injury, the Court says. But that is wrong
+as a matter of elementary tort law. As the Restatement
+plainly says, “harm, which is merely personal loss or detri-
+ment, gives rise to a cause of action only when it results
+from the invasion of a legally protected interest, which is to
+6 In a footnote, the Court apparently also endorses Horn's fallback argu-
+ment: According to the Court, even if “injured” refers to the violation of
+a legal right, that is no problem so long as the legal right is the right
+“against business or property harms that result from racketeering activ-
+ity.” Ante, at 602, n. 4; see Brief for Respondent 24. But being “injured”
+is an element of the RICO private right of action. If “injured” means
+violation of a legal right, then the right being violated cannot be the right
+to not suffer from a RICO violation. (That theory would be just as circu-
+lar as it sounds.) The rights violations have to be defined somewhere
+else—and so they are, by “general common-law” tort principles of “legal
+injury.” Bridge v. Phoenix Bond & Indemnity Co., 553 U. S. 639, 656
+(2008).
+say an injury.” Restatement (Second) of Torts § 7, Com-
+ment d.7
+Moreover, contrary to the Court's telling, multiple civil
+RICO precedents confirm that to be “injured” in civil RICO
+means to have suffered “legal injury,” not merely to have
+suffered harm or loss or damage of some kind. Bridge
+v. Phoenix Bond & Indemnity Co., 553 U. S. 639, 656
+(2008). In Bridge, for example, the Court explained that
+whether an element is required in order to state a civil RICO
+claim turns on whether that element is necessary to show
+“legally cognizable injury” under “general common-law
+principle[s].” Ibid.8 In Beck v. Prupis, the Court likewise
+held that when civil RICO says that anyone “injured” by
+reason of a “violation” may sue, it means that a plaintiff may
+recover only if “injured” by a “violation” under “well-
+7 The Court also cites an extraterritoriality case, Yegiazaryan v.
+Smagin, 599 U. S. 533 (2023). But its reading of that case is puzzling.
+Yegiazaryan held that we must apply the presumption against extraterri-
+toriality, rather than a specific rule from the First Restatement of Conflict
+of Laws, to determine whether and to what extent RICO applies abroad.
+In other words, rather than any particular conflict-of-laws rules, RICO
+incorporates our usual, across-the-board extraterritoriality test for federal
+torts—the “presumption against extraterritoriality, with its distinctive
+concerns for comity and discerning congressional meaning.” Id., at 547–
+548. Nothing about that case suggests we should not also apply our other
+usual rule for federal torts—“the premise that when Congress creates a
+federal tort it adopts the background of general tort law.” Staub v. Proc-
+tor Hospital, 562 U. S. 411, 417 (2011).
+8 The Court quotes Bridge but omits the first part of the sentence.
+Bridge held that “predicate acts under RICO” need not be “actionable
+under the common law” so long as they are chargeable under RICO's
+list of state or federal crimes. 553 U. S., at 652 (emphasis added and quo-
+tation marks omitted). In other words, the part of Bridge that the
+Court quotes says that predicate acts need to be crimes, not torts. But
+when it came to determining whether a plaintiff suffered “legal injury”
+from those predicate acts, Bridge made clear that what matters is the
+“general common-law principle[s]” of tort liability. Id., at 656 (emphasis
+added).
+established common law” principles. 529 U. S. 494, 500–501,
+506 (2000).9
+Those Bridge and Beck precedents directly contradict the
+Court's test today that RICO's private right of action “re-
+quires nothing more” than that a plaintiff's “business or
+property has been harmed or damaged.” Ante , at 601.
+Under this Court's precedents, more is certainly required.
+Specifically, the plaintiff must have suffered a business or
+property injury as those terms are understood under general
+tort principles—meaning an invasion of a legal right in his
+business or property.
+C
+The Court further says that distinguishing personal inju-
+ries from business or property injuries, as the text of RICO
+requires, would be difficult at times. To be sure, as with
+almost everything in the law, there may be close calls at the
+margins—here, about whether a plaintiff plausibly alleges a
+business or property injury as distinct from a personal in-
+jury. But that inquiry is at least a familiar judicial exercise.
+Cf. United States v. Burke, 504 U. S. 229, 239 (1992); see also,
+e. g., Willard v. Moneta Bldg. Supply, Inc., 262 Va. 473, 482,
+551 S. E. 2d 596, 600 (2001) (“applicable statute of limita-
+tions” turns on “the type of injury alleged”). And the com-
+monplace reality of some close calls does not mean that we
+can or should disregard Congress's textual limitation on the
+kinds of injury that a plaintiff must allege—and ultimately
+prove—in order to recover under RICO.
+9 And on other RICO-related interpretive issues as well, this Court's
+cases have read civil RICO “to incorporate common-law principles.”
+Holmes v. Securities Investor Protection Corporation, 503 U. S. 258, 266–
+267 (1992) (relying on Associated Gen. Contractors of Cal., Inc. v. Carpen-
+ters, 459 U. S. 519, 531–534 (1983)); see also Anza v. Ideal Steel Supply
+Corp., 547 U. S. 451, 457 (2006); Hemi Group, LLC v. City of New York,
+559 U. S. 1, 9 (2010).
+The Court also focuses incessantly on a scenario where, as
+sometimes happens, a single episode results in injuries both
+to one's person and to one's business or property. Some
+kinds of wrongful acts can cause the invasion of multiple
+legal rights—for example, a car accident might damage the
+car (property injury) and physically harm the driver (per-
+sonal injury). See generally W. Loyd, Actions Arising Out
+of Injury to Both Person and Property, 60 U. Pa. L. Rev. 531
+(1912); contra, ante, at 609, n. 9 (resisting dividing negligence
+actions along these lines). In those scenarios, civil RICO
+allows recovery for the business or property injury (assum-
+ing RICO's other requirements are met), but not the per-
+sonal injury.
+I therefore agree with the Court—and so does defendant
+Medical Marijuana—that civil RICO allows for recovery any
+time a defendant has “invaded the plaintiff's business or
+property rights,” “even if the plaintiff also suffered a per-
+sonal injury.” Brief for Petitioners 34–35; see Reply Brief
+7. As defendant Medical Marijuana acknowledges, and I too
+agree, if a defendant's act causes both personal and property
+injuries to another, then civil RICO “allows suit for the”
+“property injury” but not the “personal injury,” no matter
+which came first. Reply Brief 8.
+In other words, neither Medical Marijuana nor I actually
+adopt the position the Court today labels as the “antecedent-
+personal-injury bar.” Ante, at 599, 609. Under that sup-
+posed bar, RICO would “implicitly” exclude any business or
+property injuries whenever they follow a personal injury.
+Ante, at 599. But by repeatedly criticizing that supposed
+rule, the Court invents and knocks down a straw man. So
+just to be crystal clear, I agree with the Court (as does de-
+fendant Medical Marijuana) that if the plaintiff at some point
+also suffered a personal injury in addition to a business or
+property injury, the plaintiff can still recover damages for
+the business or property injury.
+Consider the Court's hypotheticals. They are supposed
+to show that the so-called “antecedent-personal-injury bar”
+would bar recovery and lead to untenable results in certain
+cases. But in almost all of them, the rule that defendant
+Medical Marijuana proposes (and I agree with) would allow
+recovery, not bar it. Indeed, they are not close calls. Why
+does Tony Soprano “injure” a victim in his property by ex-
+tracting a computer password through violence and then
+using it to drain a bank account? Because he has committed
+at least two traditional wrongs: battery on the password
+holder and conversion of the money. Restatement (Second)
+of Torts §§ 13, 222. A mobster who assaults a carwash
+owner in order to force him to do business with the mob
+“intentionally and improperly interferes” with the owner's
+right to do business with whom he pleases. Id., §§ 766A,
+766B; cf. id., §§ 766C, 912, Comment d (no business injury
+from lost profts after a personal injury “unless the harm to
+the business was intended”); contra, ante, at 601. And when
+a fraudster or a kidnapper uses deceit or extortion to obtain
+money, the victim parts with it because he “has been de-
+frauded or subjected to duress, or whatever it may be”—
+in other words, “injured in his property.” Chattanooga
+Foundry, 203 U. S., at 399.
+The correct rule therefore remains the one that civil RICO
+expressly provides: In a RICO suit, a plaintiff can recover
+“damages” from a “business or property” injury, but not
+damages from a personal injury.
+III
+Now, we get to the important juncture where the Court
+diverges from plaintiff Horn in terms of what RICO plaintiffs
+may recover in personal-injury suits.
+Plaintiff Horn seeks a rule that would blatantly circum-
+vent RICO's exclusion of personal-injury suits. In Horn's
+world, plaintiffs could routinely bring RICO claims for per-
+sonal injuries from drug mislabeling, dangerous products,
+medical malpractice, car accidents, and health consequences
+from pollution, to name a few. As Horn sees it, “injured”
+means to have experienced a loss, and losing money via lost
+wages or medical expenses always entails being “injured” in
+one's business or property. See Reiter v. Sonotone Corp.,
+442 U. S. 330, 338 (1979) (“Money, of course, is a form of prop-
+erty”). Therefore, plaintiffs could routinely repackage
+many state personal-injury suits as RICO suits (so long as
+the defendant committed two or more predicate acts) and
+obtain treble recovery for medical expenses, lost wages, and
+other pecuniary losses. The only kind of damages that Horn
+would exclude are non-economic damages like pain and
+suffering.10
+Plaintiff Horn's approach would dramatically expand civil
+RICO and allow plaintiffs to seize on RICO to replace ordi-
+nary state-law tort suits. Plaintiffs could convert, for exam-
+ple, everyday product liability claims into RICO mass-tort
+class actions and multi-district litigation where plaintiffs
+might now seek recovery of triple their lost wages and triple
+their medical expenses.
+Horn's game-changing rule would likely produce signif-
+cant cascading effects on the American economy and federal
+and state court systems. American businesses facing novel
+RICO suits with treble damages would incur significantly
+increased litigation exposure and corresponding settlement
+pressure. Their insurance premiums would rise. And all
+10 Plaintiff Horn says that his rule is consistent with the Ninth Circuit's.
+But in Diaz v. Gates, the Ninth Circuit specifically rejected conflating
+“mere loss of something of value (such as wages) with injury to a property
+interest (such as the right to earn wages).” 420 F. 3d 897, 900, n. 1 (2005)
+(en banc). And that court held that the plaintiff's harms could give rise
+to a RICO claim because they “amount[ed] to intentional interference with
+contract and interference with prospective business relations.” Id., at
+900. So the Ninth Circuit's rule is distinct from the rules advocated by
+plaintiff Horn and the Court today, which reject any reliance on tort law
+or legal injury.
+of those costs would mean higher prices for consumers, and
+fewer jobs and lower wages for workers. In short, the ef-
+flects of Horn's rule would likely be dramatic, as Medical Mar-
+ijuana and its amici explain. See Brief for DRI Center for
+Law and Public Policy et al. as Amici Curiae 20–22; Brief
+for Chamber of Commerce of the United States of America
+et al. as Amici Curiae 22–23.
+Where is the Court on all of this? Having accepted plain-
+tiff Horn's basic statutory argument, the Court declines to
+accept all the implications of that position. Instead, the
+Court stops short and does not (yet) go as far as Horn would.
+After agreeing with Horn that RICO does not exclude what
+are traditional personal-injury suits, the Court does not (for
+now) adopt Horn's view that lost wages and medical ex-
+penses are “necessarily” recoverable. Ante, at 613. The
+Court instead suggests that lost wages (as distinct from lost
+profts) may not necessarily be a business loss, and pecuniary
+losses such as medical expenses may not necessarily be a
+property loss.
+It is good that the Court pulls back from the precipice and
+does not adopt Horn's argument in full. In particular, the
+Court seems to recognize that it would border on the absurd
+to adopt Horn's position in full and interpret RICO to feder-
+alize (and allow treble damages for) such a large number of
+otherwise standard personal-injury tort suits.
+But instead of simply interpreting RICO not to authorize
+suits for personal injuries, as the statutory text says and as
+I would do, the Court still sticks partway with Horn and his
+overly broad interpretation of the statutory text. The
+Court then backflls to avoid some of the absurd implications
+of that position by emphasizing certain statutory limitations
+on RICO suits and then leaving other questions unanswered
+for now.
+For example, the Court stresses that proximate cause is
+strictly cabined in the RICO context, requiring a direct rela-
+tionship, not mere foreseeability. Ante, at 612; see Hemi
+Group, LLC v. City of New York, 559 U. S. 1, 12 (2010); Anza
+v. Ideal Steel Supply Corp., 547 U. S. 451, 457 (2006); Holmes
+v. Securities Investor Protection Corporation, 503 U. S. 258,
+266–267 (1992). The Court helpfully suggests, moreover,
+that Horn's suit will not clear that direct-relationship bar,
+saying that it may pose an “insurmountable obstacle”
+to Horn's continuing this suit. Ante, at 612–613. And the
+Court notes that RICO does not allow suits for a single tort,
+but requires a “pattern of racketeering activity.” Ante,
+at 613.
+I welcome those limits, and I appreciate that they may
+mitigate some of the potential consequences of the Court's
+overbroad statutory interpretation.
+But the Court then does not answer a significant real-
+world question spawned by its expansive statutory interpre-
+tation: can civil RICO plaintiffs claim lost wages and medical
+expenses as business or property injuries? Lower courts
+will have to resolve the question that the Court's opinion
+does not answer. All of the above text, context, and history
+should counsel against interpreting RICO to cover classic
+damages like lost wages and medical expenses resulting
+solely from personal injuries. But at least until the Court
+squarely holds that lost wages and medical expenses are not
+recoverable, the Court's opinion will leave a good deal of un-
+certainty for the lower courts to address. The Court's opin-
+ion will generate far more confusion and litigation than sim-
+ply reading the statute as written—as the Sixth, Seventh,
+and Eleventh Circuits have done—in light of the basic tort-
+law principles regarding injury that Congress incorporated
+into civil RICO.
+The Court says: “You can't replace something with noth-
+ing.” Ante, at 608. But the Court does not heed its own
+admonition. Today, the Court replaces a statutory limit de-
+rived from centuries of tort law with a punt that will leave
+substantial confusion and litigation in its wake.
+* * *
+This case should have been reasonably straightforward.
+RICO does not authorize personal-injury suits—period.
+That is true even when a personal injury leads to losses re-
+lated to one's business or property, as personal injuries often
+do. The Court's decision to allow personal-injury suits
+under RICO is mistaken as a matter of statutory text and
+context. And the Court's failure to decide the lost-wages
+and medical-expenses questions will undoubtedly produce
+significant confusion and litigation in the lower courts, all of
+which is wasteful and unnecessary—and contrary to Con-
+gress's decision to categorically exclude personal-injury suits
+from civil RICO. I respectfully dissent.

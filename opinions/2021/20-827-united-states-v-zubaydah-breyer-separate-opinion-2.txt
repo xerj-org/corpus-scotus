@@ -1,0 +1,77 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — Opinion of Breyer, J.
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+4
+At the same time, Zubaydah's need is not great. At oral
+argument Zubaydah suggested that he did not seek confr-
+mation of the detention site's Polish location so much as he
+sought information about what had happened there. Tr. of
+Oral Arg. 44 (“We know where Abu Zubaydah was. We
+want to establish how he was treated there”).
+5
+For these reasons, we conclude that in this case the state
+secrets privilege applies to the existence (or nonexistence)
+of a CIA facility in Poland. It therefore precludes further
+discovery into all three categories of information the Ninth
+Circuit concluded to be nonprivileged because, as we have
+explained, such discovery will inevitably confirm or deny the
+existence of such a facility. See supra, at 205–207.
+III
+While Justice Kagan and Justice Gorsuch would send
+the case back for additional proceedings, we believe that it
+must be dismissed. Although application of the state se-
+crets privilege does not always require dismissal, we are un-
+persuaded that the litigation at issue here, founded upon the
+specific document requests set forth in the Appendix, infra,
+at 215–216, can survive the Government's successful privi-
+lege claim.
+Justice Gorsuch first suggests that we should remand
+for the District Court to conduct “ in camera review of any
+evidence the government might wish to present to substanti-
+ate its privilege claim.” Post, at 259–260. It is true that
+sometimes a court must personally review the evidence at
+issue in order to assess the Government's assertion of the state
+secrets privilege. See Reynolds, 345 U. S., at 10. How-
+ever, additional judicial probing is inappropriate here for two
+reasons taken together. First, for the reasons explained
+above, the CIA Director's affidavit, together with the lack of
+contrary evidence, is sufficient to “satisfy [us] . . . that there
+is a reasonable danger that compulsion of the [privileged]
+evidence will expose . . . matters which, in the interest of
+national security, should not be divulged.” Ibid. Second,
+the necessity of additional judicial probing depends, as we
+have explained, on Zubaydah's need for the information he
+seeks. We have explained that much of that information
+is already publicly available from other sources. Supra,
+at 200–201. The public availability of information concern-
+ing Zubaydah's treatment diminishes his need for the discov-
+ery he seeks from Mitchell and Jessen, and thus for further
+judicial probing of the Government's privilege claim. See
+Reynolds, 345 U. S., at 11 (“necessity [is] greatly minimized
+by an available alternative”). Zubaydah's need for informa-
+tion about his treatment may be further diminished by the
+Government's representation that (subject to a security re-
+view) it will allow Zubaydah “to send a declaration that
+could be transmitted to Polish prosecutors.” Letter from
+B. Fletcher, Acting Solicitor General, to S. Harris, Clerk of
+Court 3 (Oct. 15, 2021). And, as we just said, Zubaydah's
+counsel stated at oral argument: “We know where Abu Zu-
+baydah was. We want to establish how he was treated
+there.” Tr. of Oral Arg. 44.
+Alternatively, both Justice Kagan and Justice Gor-
+such suggest that even if “the existence [or nonexistence] of
+a detention site in Poland really does qualify as a state se-
+cret,” we should nonetheless remand so that discovery may
+continue on a different topic: Zubaydah's treatment from
+“December 2002 through September 2003 and without refer-
+ence to geography.” Post, at 260 (Gorsuch, J., dissenting);
+see also post, at 235–237 (Kagan, J., concurring in part and
+dissenting in part). In their view, “familiar judicial tools,”
+such as protective orders and code names, would be adequate
+to protect against the possibility of an “inadvertent disclo-
+sur[e]” of privileged information. Post, at 261 (opinion of
+Gorsuch, J.); see also post, at 236–237 (opinion of Kagan, J.).
+Unfortunately, this suggestion ignores the nature of the
+specific discovery requests at issue here. It may well be
+that such techniques have successfully prevented the disclo-

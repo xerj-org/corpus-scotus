@@ -1,0 +1,187 @@
+Nestlé USA, Inc. v. Doe — No. 19-416 — October Term 2020 — decided 6/17/21 — Opinion of Thomas, J.
+Citation: 593 U.S. 628
+Source: https://www.supremecourt.gov/opinions/20pdf/593us2r48_p8k0.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Judiciary. Sosa indicated that courts may exercise common-
+law authority under the ATS to create private rights of ac-
+tion in very limited circumstances. 542 U. S., at 724. Sosa
+suggested, for example, that courts could recognize causes
+of action for three historical violations of international law:
+“violation of safe conducts, infringement of the rights of am-
+bassadors, and piracy.” Ibid. But our precedents since
+Sosa have clarified that courts must refrain from creating a
+cause of action whenever there is even a single sound reason
+to defer to Congress. See, e. g., Hernández, 589 U. S., at –––.
+Tellingly, we have never created a cause of action under the
+ATS. Even without reexamining Sosa, our existing prece-
+dents prohibit us from creating a cause of action here.
+A
+Originally passed as part of the Judiciary Act of 1789, the
+ATS provides jurisdiction to hear claims brought “by an
+alien for a tort only, committed in violation of the law of
+nations or a treaty of the United States.” 28 U. S. C. § 1350.
+If, for example, a treaty adopted by the United States cre-
+ates a tort-related duty, federal district courts have jurisdic-
+tion to hear claims by aliens for breach of that duty.
+But the statute on its own does not empower aliens to sue.
+We have been clear that “the ATS is a jurisdictional statute
+creating no new causes of action.” Sosa, 542 U. S., at 724.
+Aliens harmed by a violation of international law must rely
+on legislative and executive remedies, not judicial remedies,
+unless provided with an independent cause of action. In
+more than 200 years, Congress has established just one: the
+Torture Victim Protection Act of 1991. That Act creates a
+private right of action for victims of torture and extrajudicial
+killings in violation of international law. 106 Stat. 73, note
+following 28 U. S. C. § 1350.
+Because that cause of action does not apply here, respond-
+ents ask us to create a new one. They suggest that a plain-
+tiff is entitled to a judicially created cause of action absent
+compelling reasons to withhold one. But our precedents de-
+mand precisely the opposite rule.
+In Sosa, we “assume[d]” that the First Congress, which
+enacted the ATS, believed that federal courts, under general
+common law, “would recognize private causes of action for
+certain torts in violation of the law of nations.” 542 U. S.,
+at 724. Although our decision in Erie R. Co. v. Tompkins,
+304 U. S. 64 (1938), “denied the existence of any federal `gen-
+eral' common law,” we suggested that a limited, residual
+amount remained to create causes of action for violations of
+international law. Sosa, 542 U. S., at 726, 729. We noted,
+for example, that courts in certain circumstances likely could
+recognize causes of action for violations of three historical
+torts: “violation of safe conducts, infringement of the rights
+of ambassadors, and piracy.” Id., at 724.
+At the same time, we stressed that this authority was nar-
+row. We noted that there was “no basis to suspect Congress
+had any examples in mind beyond those [three] torts.” Ibid.
+And we suggested that future “development” of law might
+“preclud[e] federal courts from recognizing” new causes of
+action. Id., at 724–725.
+To guide our reasoning in the future, we described a two-
+step test that plaintiffs must satisfy before a court can create
+a cause of action under the ATS. First, the plaintiff must
+establish that the defendant violated “ `a norm that is spe-
+cifc, universal, and obligatory' ” under international law.
+Id., at 732. That norm must be “defined with a specifcity
+comparable to” the three international torts known in 1789.
+Id., at 725. Second, the plaintiff must show that courts
+should exercise “judicial discretion” to create a cause of ac-
+tion rather than defer to Congress. Id., at 726, 736, and
+n. 27; Jesner, 584 U. S., at 257–258 (plurality opinion).
+Judicial authority under that test was narrow at the out-
+set. Our more recent precedents have made it narrower
+still by stressing that judicial creation of a cause of action is
+an extraordinary act that places great stress on the separa-
+tion of powers. Although this Court in the mid-20th cen-
+tury often assumed authority to create causes of action,
+Ziglar v. Abbasi, 582 U. S. 120, 131–132 (2017), “[i]n later
+years, we came to appreciate more fully the tension between
+this practice and the Constitution's separation of legislative
+and judicial power,” Hernández, 589 U. S., at –––. Because
+Erie denied the existence of a federal general common law,
+“a federal court's authority to recognize a damages remedy
+must rest at bottom on a statute enacted by Congress.”
+Hernández, 589 U. S., at ––– – –––. It follows that any judi-
+cially created cause of action risks “upset[ting] the careful
+balance of interests struck by the lawmakers.” Ibid.
+To limit this stress on the separation of powers, our prece-
+dents have made clear that the second step of Sosa—which
+applies in any context where a plaintiff asks a court to create
+a cause of action—is extraordinarily strict. A court
+“ `must' ” not create a private right of action if it can identify
+even one “ `sound reaso[n] to think Congress might doubt the
+efficacy or necessity of [the new] remedy.' ” Jesner, 584
+U. S., at 264 (majority opinion) (quoting Abbasi, 582 U. S., at
+137); see also Hernández, 589 U. S., at ––– (same). This test
+is demanding by design, and we have yet to find it satisfied.
+See Jesner, 584 U. S., at 272 (no judicially created causes of
+action against foreign corporations); see also Sosa, 542 U. S.,
+at 725 (no judicially created cause of action for illegal deten-
+tion even under the less-demanding standard initially cre-
+ated by Sosa).
+B
+Regardless of whether respondents have satisfied the first
+step of the Sosa test, it is clear that they have not satisfied
+the second. Our decisions since Sosa, as well as congres-
+sional activity, compel the conclusion that federal courts
+should not recognize private rights of action for violations of
+international law beyond the three historical torts identified
+in Sosa.
+We recently identified a sound reason to think Congress
+might doubt a judicial decision to create a cause of action
+that would enforce torts beyond those three: Creating a
+cause of action under the ATS “inherent[ly]” raises “foreign-
+policy concerns.” Jesner, 584 U. S., at 265 (majority opin-
+ion). This suit illustrates the point, for the allegations here
+implicate a partnership (the Harkin-Engel Protocol and sub-
+sequent agreements) between the Department of Labor,
+petitioners, and the Government of Ivory Coast. Under
+that partnership, petitioners provide material resources and
+training to cocoa farmers in Ivory Coast—the same kinds of
+activity that respondents contend make petitioners liable for
+violations of international law. Companies or individuals
+may be less likely to engage in intergovernmental efforts if
+they fear those activities will subject them to private suits.
+Although specific foreign-policy concerns may vary from
+case to case, our precedents are clear that creating a cause
+of action to enforce international law beyond three historical
+torts invariably gives rise to foreign-policy concerns. Ibid.
+(“foreign-policy . . . concerns [are] inherent in ATS litiga-
+tion”). Because “[t]he political branches, not the Judiciary,
+have the responsibility and institutional capacity to weigh
+foreign-policy concerns,” there will always be a sound reason
+for courts not to create a cause of action for violations of
+international law—other than perhaps for those three torts
+that were well established in 1789. Id., at 264–265.
+Congressional activity independently provides a sound
+reason to conclude that Congress might doubt a judicially
+created cause of action. It is instructive to consider the
+changes Congress made to the remedies in the Trafficking
+Victims Protection Reauthorization Act of 2003 (TVPRA),
+which imposes liability for offenses related to human traf-
+fcking. The initial text, passed in 2000, imposed criminal
+liability for human trafficking. § 112, 114 Stat. 1464. Con-
+gress later added a private right of action in 2003, allowing
+plaintiffs to sue the immediate “perpetrator” of a human
+trafficking violation. § 4(a)(4)(A), 117 Stat. 2878. And then
+in 2008, Congress created the present private right of action,
+allowing plaintiffs to sue defendants who are involved indi-
+rectly with slavery. §§ 221, 222(b)(3), 122 Stat. 5067–5068.
+This Act highlights that there are many different ways to
+create a cause of action that would enforce developments in
+international law beyond the three historical torts identified
+in Sosa—too many for courts to choose from when using the
+limited judicial discretion that Sosa recognizes. Congress
+may well decide to create a cause of action against one cate-
+gory of defendants but not another. See Jesner, 584 U. S.,
+at 266 (plurality opinion) (recognizing that Congress “unam-
+biguously” limited the only legislative cause of action passed
+under the ATS to one category of defendants). Or it might
+make distinctions—as it did in the TVPRA—between direct
+and indirect liability. Congress settled on the current ap-
+proach to private remedies against human trafficking only
+after its “understanding of the problem evolved” through
+years of studying “how to best craft a response.” Brief for
+Members of Congress as Amici Curiae 9, 13. The judicial
+role is to resolve cases and controversies, which typically
+present only the perspectives of the parties. The Judiciary
+does not have the “institutional capacity” to consider all fac-
+tors relevant to creating a cause of action that will “inher-
+ent[ly]” affect foreign policy. Jesner, 584 U. S., at 265 (ma-
+jority opinion). Respondents attempt to brush aside these
+concerns by suggesting that their allegations about decades-
+old conduct could satisfy the TVPRA if Congress had
+enacted that law earlier. This observation simply proves
+the point. Congress chose not to write a retroactive statute.
+To create a cause of action here would impermissibly second-
+guess Congress' decision not to subject past conduct to a
+new standard.
+When we decided Sosa, we remarked that there is “no
+basis to suspect Congress had any examples in mind beyond
+th[ree] torts” when it enacted the ATS. 542 U. S., at 724.
+We “assume[d]” that no “development” of law had yet “pre-
+cluded federal courts from recognizing” causes of action not
+created by Congress. Id., at 724–725. Nobody here has ex-
+pressly asked us to revisit Sosa. But precedents since Sosa
+have substantially narrowed the circumstances in which “ju-

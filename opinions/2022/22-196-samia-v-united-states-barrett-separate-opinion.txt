@@ -1,0 +1,73 @@
+Samia v. United States — No. 22-196 — October Term 2022 — decided 6/23/23 — Opinion of Barrett, J.
+Citation: 599 U.S. 635
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r46_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Samia offers, as an alternative, that the Government may
+choose to forgo use of the confession entirely, thereby avoid-
+ing the need for severance. But, this ignores the fact that
+confessions are “ `essential to society's compelling interest
+in finding, convicting, and punishing those who violate the
+law.' ” Ibid. And, as described above, Samia's proposal is
+not compelled by the Confrontation Clause.
+* * *
+The Confrontation Clause ensures that defendants have
+the opportunity to confront witnesses against them, but it
+does not provide a freestanding guarantee against the risk
+of potential prejudice that may arise inferentially in a joint
+trial. Here, the Clause was not violated by the admission of
+a nontestifying codefendant's confession that did not directly
+inculpate the defendant and was subject to a proper limit-
+ing instruction.
+We therefore affirm the judgment of the Court of Appeals.
+It is so ordered.
+Justice Barrett, concurring in part and concurring in
+the judgment.
+I agree that the admission of Stillwell's modified confes-
+sion, together with a limiting instruction, did not violate the
+Confrontation Clause. But in my view, the historical evi-
+dence described in Part II–A, ante, is beside the point.
+First is a timing problem. The evidence is largely from
+the late 19th and early 20th centuries—far too late to inform
+the meaning of the Confrontation Clause “at the time of the
+founding.” Crawford v. Washington, 541 U. S. 36, 54 (2004).
+The Court seems to agree, because it does not suggest that
+the history is probative of original meaning. But nor does
+it explain why this seemingly random time period matters.
+For whatever reason (the parties only speculate), there ap-
+pears to be little founding-era evidence illustrating how
+courts handled the admission of a codefendant's confession.
+So why not simply say that the history is inconclusive? And
+if we are going to pick up the thread in 1878, why drop it in
+1896? Ante, at 645. Are cases from 1896 that much more
+important than cases from, say, the 1940s? While the Court
+makes a claim about “longstanding practice” for “most of our
+Nation's history,” ante, at 644, it describes only a snapshot.
+That brings me to my second problem: the substance of
+the snapshot. The cited cases address the rules of evidence
+rather than the Confrontation Clause. Ante, at 644–646. On
+top of that, the two federal cases do not discuss the effective-
+ness of limiting instructions, much less any need for redac-
+tion. Sparf v. United States holds that the co-conspirator
+exception to the hearsay rule does not apply to statements
+made after the conspiracy has ended. 156 U. S. 51, 56 (1895).
+Emphasizing the trial court's error in admitting the state-
+ments against both defendants, the Court explained that the
+trial court should have admitted them against the speaker
+and excluded them against his codefendant. Id., at 58.
+Neither limiting instructions nor redaction came up.
+United States v. Ball is similarly tangential to Samia's case.
+163 U. S. 662 (1896). There, the Court held that the trial
+court had not abused its discretion in trying three codefend-
+ants together. Id., at 672. As support for that point, the
+Court noted that when the Government introduced the ad-
+missions of one defendant, “the [trial] court at once said, in
+the presence of the jury, that, of course, it would be only
+evidence against him, if he said anything; and the court was
+not afterwards requested to make any further ruling upon
+this point.” Ibid. The Court assumed in passing that the
+limiting instruction was effective—but the codefendants did
+not argue otherwise, and they did not ask the court to alter
+the statements.
+The two state cases at least address (and endorse) the use
+of a limiting instruction after the admission of a codefend-
+ant's confession. State v. Workman, 15 S. C. 540, 545 (1881);

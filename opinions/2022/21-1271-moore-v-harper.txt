@@ -1,0 +1,1121 @@
+Moore v. Harper — No. 21-1271 — October Term 2022 — decided 6/27/23 — opinion of the Court — author Roberts (listing code R)
+Citation: 600 U.S. 1
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r50_h3ci.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+Several groups of plaintiffs challenged North Carolina's
+congressional districting map as an impermissible partisan
+Schmidt of Kansas, Daniel Cameron of Kentucky, Jeff Landry of Louisi-
+ana, Lynn Fitch of Mississippi, Austin Knudsen of Montana, Douglas J.
+Peterson of Nebraska, John M. O'Connor of Oklahoma, Alan Wilson of
+South Carolina, Ken Paxton of Texas, and Sean D. Reyes of Utah; for the
+American Legislative Exchange Council by Lee E. Goodman; for Ameri-
+ca's Future, Inc., by William J. Olson, Jeremiah L. Morgan, Robert J.
+Olson, and Patrick McSweeney; for APA Watch by Lawrence J. Joseph;
+for the Claremont Institute's Center for Constitutional Jurisprudence by
+John C. Eastman and Anthony T. Caso; for the Honest Elections Project
+by Cameron T. Norris and Thomas R. McCarthy; for the Lawyers Democ-
+racy Fund et al. by David B. Rivkin, Jr., E. Mark Braden, and Andrew
+M. Grossman; for the Republican National Committee et al. by Jason B.
+Torchinsky, Edward M. Wenger, and Andrew D. Watkins; for Restoring
+Integrity and Trust in Elections, Inc., by John M. Gore and Eric Tung;
+for Taxpayers for Honest Elections by David Stevenson Walker II and
+Philip R. Thomas; for John R. Ashcroft by Jesus A. Osete; and for Kim
+Ward et al. by Anthony R. Holtzman. Briefs of amici curiae urging
+vacatur were fled for the America First Legal Foundation by Jonathan
+F. Mitchell, Adam K. Mortara, and Gene P . Hamilton; for Citizens United
+et al. by Gary M. Lawkowski, Michael Boos, and Daniel H. Jorjani; for
+the National Republican Redistricting Trust by Phillip M. Gordon; and
+for the Public Interest Legal Foundation by J. Christian Adams.
+Briefs of amici curiae urging affirmance were fled for the District of
+Columbia et al. by Karl A. Racine , Attorney General of the District of
+Columbia, Caroline S. Van Zile, Solicitor General, Ashwin P . Phatak,
+Principal Deputy Solicitor General, and Adam J. Tuetken and Arjun
+P . Ogale, Assistant Attorneys General, by Kwame Raoul, Attorney General
+of Illinois, Jane Elinor Notz, Solicitor General, and Alex Hemmer, Deputy
+Solicitor General, and by the Attorneys General for their respective States
+as follows: Rob Bonta of California, Philip J. Weiser of Colorado, William
+Tong of Connecticut, Kathleen Jennings of Delaware, Holly T. Shikada of
+Hawaii, Aaron M. Frey of Maine, Brian E. Frosh of Maryland, Maura
+Healey of Massachusetts, Dana Nessel of Michigan, Keith Ellison of Min-
+nesota, Aaron D. Ford of Nevada, Matthew J. Platkin of New Jersey,
+Hector Balderas of New Mexico, Letitia James of New York, Ellen F.
+Rosenblum of Oregon, Josh Shapiro of Pennsylvania, Peter F. Neronha
+of Rhode Island, Susanne R. Young of Vermont, Robert W. Ferguson of
+gerrymander. The plaintiffs brought claims under North
+Carolina's Constitution, which provides that “[a]ll elections
+shall be free.” Art. I, § 10. Relying on that provision, as
+well as the State Constitution's equal protection, free speech,
+Washington, and Joshua L. Kaul of Wisconsin; for the American Bar Asso-
+ciation by Faith Gay, Caitlin J. Halligan, and Deborah Enix-Ross; for the
+American Civil Liberties Union et al. by Ari Savitzky, Adriel I. Cepeda
+Derieux, Sophia Lin Lakin, Dale E. Ho, John W. Whitehead, David Book-
+binder, Kristi L. Graunke, and David D. Cole; for the Bipartisan Group
+of Former Public Officials et al. by Mary B. McCord, Rupa Bhatta-
+charyya, and Kelsi Brown Corkran; for the Brennan Center for Justice at
+NYU School of Law by Ellyde R. Thompson, Sascha N. Rand, Andrew J.
+Rossman, Wendy R. Weiser, Thomas P . Wolf, Eliza M. Sweren-Becker,
+and Kelly M. Percival; for the Constitutional Accountability Center by
+Elizabeth B. Wydra, Brianne J. Gorod, and David Gans; for Current Elec-
+tion Administrators et al. by Karl J. Sandstrom, Charles G. Curtis, Jr.,
+and Kevin J. Hamilton; for Democracy and Race Scholars by T. Alora
+Thomas-Lundborg, Angela M. Liu, and Gregory P . Luib; for FairDistricts
+Now by Gregory L. Diskant and Jonah M. Knobler; for Former Republi-
+can Officials et al. by Charles A. Rothfeld, Andrew J. Pincus, Paul W.
+Hughes, Michael B. Kimberly , and Eugene R. Fidell; for Law Forward
+et al. by Mel Barnes, Daniel S. Lenz, Jeffrey A. Mandell, and Douglas M.
+Poland; for the League of Women Voters of the United States et al. by
+Jon Sherman, Michelle Kanter Cohen, Meaghan VerGow, L. Nicole Allan,
+and Caren E. Short; for Local Government Law Professors by Joshua A.
+Rosenthal and Jonathan B. Miller; for Making Every Vote Count et al.
+by Robert A. Long, Jr. and Jonathan D. Blake; for the National Associa-
+tion of Counties et al. by John J. Korzen; for Public Citizen by Scott L.
+Nelson and Allison M. Zieve; for Retired Four-Star Admirals et al. by
+Ilana H. Eisenstein; for Scholars of State Constitutional Law by Christo-
+pher J. Cariello, Melanie R. Hallums, and Robert Yablon; for Scholars of
+the Founding Era by Robert A. Atkins, Walter Rieman, and Jonathan H.
+Hurwitz; for State Constitutional Historians et al. by Michael J. Gottlieb
+and Aaron E. Nathan; for Akhil Reed Amar et al. by Vikram David
+Amar, pro se; for Evan Bernick by Anton Metlitsky; for Daniel T. Blue,
+Jr., et al. by Seth P . Waxman, Daniel S. Volchok, Andres C. Salinas, and
+Debo P . Adegbile; for Benjamin L. Ginsberg by Marcos Daniel Jiménez;
+for Thomas Griffith et al. by Richard D. Bernstein; for Sen. Amy Klobu-
+char et al. by David A. O'Neil; for Derek T. Muller by Daniel M. Sullivan;
+for Charles Plambeck et al. by H. David Rosenbloom; for Michael L. Rosin
+by Peter K. Stris and Michael N. Donofrio; for Arnold Schwarzenegger
+and free assembly clauses, the North Carolina Supreme
+Court found in favor of the plaintiffs and struck down the
+legislature's map. The Court concluded that North Caroli-
+na's Legislature deliberately drew the State's congressional
+map to favor Republican candidates.
+In drawing the State's congressional map, North Caroli-
+na's Legislature exercised authority under the Elections
+Clause of the Federal Constitution, which expressly requires
+“the Legislature” of each State to prescribe “[t]he Times,
+Places and Manner of” federal elections. Art. I, § 4, cl. 1.
+We decide today whether that Clause vests state legislatures
+by David C. Frederick; for Stephen M. Shapiro by Mr. Shapiro, pro se;
+for William M. Treanor by Brian A. Sutherland; and for Sen. Sheldon
+Whitehouse et al. by Gerson H. Smoger .
+Briefs of amici curiae were fled for the Anti-Defamation League et al.
+by John B. Harris, Steven M. Freeman, and Karen Levit; for the Arizona
+Independent Redistricting Commission by Brett W. Johnson, Eric H.
+Spencer, and Tracy A. Olson; for Bipartisan Current Election Officials
+et al. by Mark A. Packman; for the Boston University Center for Antirac-
+ist Research et al. by Rebecca MacDowell Lecaroz; for the Campaign
+Legal Center et al. by Paul M. Smith, Adav Noti, and Kevin P . Hancock;
+for the Conference of Chief Justices by Carter G. Phillips, Virginia A.
+Seitz, Kathleen M. Mueller, and Evan Caminker; for the Group of New
+York Voters by Misha Tseytlin; for Human Rights Watch by Rishi N.
+Zutshi; for the Lawyers' Committee for Civil Rights Under Law et al. by
+Damon T. Hewitt, Jon M. Greenbaum, Ezra D. Rosenberg, Antony L.
+Ryan, Helam Gebremariam, David H. Korn, and Evan Norris; for Law-
+yers Defending American Democracy by Gershon M. Ratner; for the
+NAACP Legal Defense & Educational Fund, Inc., by Janai Nelson, Sam-
+uel Spital, and Stuart Naifeh; for the Puerto Rico House of Representa-
+tives by Emil Rodríguez-Escudero and Jorge Martínez-Luciano; for the
+Secretaries of the State of Colorado et al. by Philip J. Weiser, Attorney
+General of Colorado, Eric R. Olson, Solicitor General, and Michael Kotlar-
+czyk, Senior Assistant Attorney General; for White House Watch by
+David W. T. Carroll; for the Wisconsin Voter Alliance et al. by Erick
+G. Kaardal; for Women4Change Indiana, Inc., by Harmony A. Mappes,
+Stephanie L. Gutwein, Jeffrey P . Justman, and Joseph H. Yeager, Jr.; for
+Eugene H. Goldberg by Mr. Goldberg, pro se; for Richard L. Hasen by
+Mr. Hasen, pro se; and for Carolyn Shapiro et al. by Theresa J. Lee and
+Ruth Greenwood.
+with authority to set rules governing federal elections free
+from restrictions imposed under state law.
+I
+The Elections Clause provides: “The Times, Places and
+Manner of holding Elections for Senators and Representa-
+tives, shall be prescribed in each State by the Legislature
+thereof; but the Congress may at any time by Law make or
+alter such Regulations, except as to the Places of chusing
+Senators.” Ibid. The Clause “imposes” on state legisla-
+tures the “duty” to prescribe rules governing federal elec-
+tions. Arizona v. Inter Tribal Council of Ariz., Inc., 570
+U. S. 1, 8 (2013). It also guards “against the possibility that
+a State would refuse to provide for the election of repre-
+sentatives” by authorizing Congress to prescribe its own
+rules. Ibid.
+A
+The 2020 decennial census showed that North Carolina's
+population had increased by nearly one million people, en-
+titling the State to an additional seat in its federal con-
+gressional delegation. U. S. Census Bureau, 2020 Census
+Apportionment Results (2021) (Table A). Following those
+results, North Carolina's General Assembly set out to re-
+draw the State's congressional districts. North Carolina
+League of Conservation Voters, Inc. v. Representative Des-
+tin Hall, 21 CVS 015426 etc. (Super. Ct. Wake Cty., N. C.,
+Dec. 3, 2021), App. to Pet. for Cert. 260a–261a, rev'd and
+remanded on other grounds, Harper v. Hall, 380 N. C. 317,
+868 S. E. 2d 499 (2022) (Harper I). The General Assembly
+also drafted new maps for the State's legislative districts,
+including the State House and the State Senate. Id., at 328–
+329, 868 S. E. 2d, at 513. In November 2021, the Assembly
+enacted three new maps, each passed along party lines. Id.,
+at 329, 868 S. E. 2d, at 513; see N. C. Gen. Stat. Ann. § 120–1
+(2021) (State Senate); § 120–2 (State House); § 163–201 (U. S.
+House of Representatives).
+Shortly after the new maps became law, several groups of
+plaintiffs—including the North Carolina League of Conser-
+vation Voters, Common Cause, and individual voters—sued
+in state court. The plaintiffs asserted that each map consti-
+tuted an impermissible partisan gerrymander in violation of
+the North Carolina Constitution. Harper I, 380 N. C., at
+329–330, 868 S. E. 2d, at 513–514. 1 At trial before a three-
+judge panel of the Wake County Superior Court, the plain-
+tiffs presented expert testimony and other evidence to sup-
+port their claims that North Carolina's General Assembly
+drew state legislative and federal congressional maps to
+favor Republican candidates. Id., at 332, 868 S. E. 2d, at
+515. The trial court agreed, finding that the General As-
+sembly's 2021 congressional districting map was “a partisan
+outlier intentionally and carefully designed to maximize Re-
+publican advantage in North Carolina's Congressional dele-
+gation.” Id., at 345, 868 S. E. 2d, at 522 (internal quotation
+marks omitted). But the court denied relief, reasoning that
+the partisan gerrymandering claims “amounted to political
+questions that are nonjusticiable under the North Carolina
+Constitution.” Id., at 348, 868 S. E. 2d, at 524.
+The North Carolina Supreme Court reversed, holding that
+the legislative defendants violated state law “beyond a rea-
+sonable doubt” by enacting maps that constituted partisan
+gerrymanders. Id., at 353, 868 S. E. 2d, at 528. It also re-
+jected the trial court's conclusion that partisan gerrymander-
+ing claims present a nonjusticiable political question. Ibid.
+The Court acknowledged our decision in Rucho v. Common
+Cause, which held “that partisan gerrymandering claims
+present political questions beyond the reach of the federal
+courts.” 588 U. S. –––, ––– (2019); see Harper I, 380 N. C.,
+at 360–361, 868 S. E. 2d, at 532–533. But “simply because
+1 The plaintiffs also asserted that North Carolina's Legislature discrimi-
+nated on the basis of race and raised other claims under the North Caro-
+lina Constitution. Harper I, 380 N. C., at 350–352, 868 S. E. 2d, at 526–
+527. Those claims are not at issue today.
+the Supreme Court has concluded partisan gerrymandering
+claims are nonjusticiable in federal courts,” the court ex-
+plained, “it does not follow that they are nonjusticiable in
+North Carolina courts.” Id., at 361, 868 S. E. 2d, at 533.
+The State Supreme Court also rejected the argument that
+the Elections Clause in the Federal Constitution vests exclu-
+sive and independent authority in state legislatures to draw
+congressional maps. Id. , at 390–391, 868 S. E. 2d, at
+551–552.
+After holding that the 2021 districting maps “substantially
+infringe upon plaintiffs' fundamental right to equal voting
+power,” the Court struck down the maps and remanded the
+case to the trial “court to oversee the redrawing of the maps
+by the General Assembly or, if necessary, by the court.” Id.,
+at 403, 868 S. E. 2d, at 559. The Court entered judgment
+on February 15, 2022. Harper v. Hall, No. 413PA21, App.
+to Pet. for Cert. 306–309. Two days later, the General As-
+sembly adopted a remedial congressional redistricting plan.
+See 2022 N. C. Sess. Laws 3, p. 10, § 2. But the trial court
+rejected that plan and adopted in its place interim maps de-
+veloped by several Special Masters for use in the 2022 North
+Carolina congressional elections. North Carolina League of
+Conservation Voters, Inc. v. Representative Destin Hall, 21
+CVS 015426 etc. (Super. Ct. Wake Cty., N. C., Feb. 23, 2022),
+App. to Pet. for Cert. 278a–279a, aff'd in part, rev'd in part,
+and remanded, Harper v. Hall, 383 N. C. 89, 881 S. E. 2d 156
+(2022) (Harper II ).
+On February 25, 2022, the legislative defendants fled an
+emergency application in this Court, citing the Elections
+Clause and requesting a stay of the North Carolina Supreme
+Court's decision. We declined to issue emergency relief but
+later granted certiorari. 597 U. S. ––– (2022).
+B
+Following our grant of certiorari, the North Carolina Su-
+preme Court heard an appeal concerning the trial court's re-
+medial order. In December 2022, the Court issued a deci-
+sion affirming in part, reversing in part, and remanding the
+case. As relevant, it agreed with the trial court's determi-
+nation that the General Assembly's remedial congressional
+plan “fell short” of the requirements set forth in Harper I .
+Harper II, 383 N. C., at 125, 881 S. E. 2d, at 181.
+The legislative defendants sought rehearing, requesting
+that the North Carolina Supreme Court “withdraw” its re-
+medial opinion in Harper II. Pet. for Rehearing in Harper
+v. Hall, No. 413PA21, p. 25 (Jan. 20, 2023) (Pet. for Rehear-
+ing). They also asked the Court to “overrule” its decision
+in Harper I, although they conceded that doing so would not
+“negate the force of its order striking down the 2021 plans.”
+Pet. for Rehearing 24. The North Carolina Supreme Court
+granted rehearing in Harper II, and we ordered the parties
+to submit supplemental briefing concerning our jurisdiction
+over this case in light of that decision.
+Following the parties' submission of supplemental briefs
+in this Court, the North Carolina Supreme Court issued a
+decision granting the requests made by the legislative de-
+fendants. The Court withdrew its opinion in Harper II,
+concerning the remedial maps, and “overruled” its decision
+in Harper I. See Harper v. Hall, 384 N. C. 292, 886 S. E. 2d
+393 (2023). Relying on our decision in Rucho and on a re-
+newed look at the constitutional provisions at issue, the
+Court repudiated Harper I 's conclusion that partisan gerry-
+mandering claims are justiciable under the North Carolina
+Constitution. See 384 N. C., at 349–350, 886 S. E. 2d, at 431.
+The North Carolina Supreme Court dismissed the plain-
+tiffs' claims with prejudice. Id., at 301, 886 S. E. 2d, at 401.
+But it did not reinstate the 2021 congressional plans that
+Harper I had struck down under the North Carolina Consti-
+tution. 384 N. C., at 374–378, 886 S. E. 2d, at 446–448. In-
+stead, the Court provided the General Assembly with the “op-
+portunity to enact a new set of legislative and congressional
+redistricting plans, guided by federal law, the objective con-
+straints in Article II, Sections 3 and 5 [of the North Carolina
+Constitution], and this opinion.” Id., at 378, 886 S. E. 2d, at
+448. The Court did not revisit Harper I 's conclusion that
+the Federal Elections Clause does not shield state legisla-
+tures from review by state courts for compliance with state
+constitutional provisions. 384 N. C., at 336, 886 S. E. 2d, at
+422 (“The General Assembly exercises [redistricting] author-
+ity subject to the express limitations in our constitution and
+in federal law.”). We invited the parties to submit ad-
+ditional supplemental briefs addressing the effect of the
+Court's decision on our jurisdiction.
+II
+Before turning to the merits, we must “determine as a
+threshold matter that we have jurisdiction.” Goodyear
+Atomic Corp. v. Miller, 486 U. S. 174, 178 (1988). The Con-
+stitution provides for our jurisdiction over “Cases” and “Con-
+troversies.” Art. III, § 2. That constitutional requirement
+ensures that the parties before us retain a “personal stake”
+in the litigation. Baker v. Carr, 369 U. S. 186, 204 (1962).
+As “[a] corollary to this case-or-controversy requirement,”
+there must exist a dispute “at all stages of review, not merely
+at the time the complaint is fled.” Genesis HealthCare
+Corp. v. Symczyk, 569 U. S. 66, 71 (2013) (internal quotation
+marks omitted). Mootness doctrine “addresses whether an
+intervening circumstance has deprived the plaintiff of a per-
+sonal stake in the outcome of the lawsuit.” West Virginia
+v. EPA, 597 U. S. –––, ––– (2022) (alterations and internal
+quotation marks omitted).
+The North Carolina Supreme Court's decision to withdraw
+Harper II and overrule Harper I does not moot this case.
+The plaintiffs here sought to enjoin the use of the 2021 plans
+enacted by the legislative defendants. Harper I granted
+that relief, and in doing so rejected the Elections Clause de-
+fense at issue before us. 380 N. C., at 403, 868 S. E. 2d, at
+559. Prior to both the appeal and rehearing proceedings in
+Harper II, the North Carolina Supreme Court had already
+entered the judgment and issued the mandate in Harper I .
+See App. to Pet. for Cert. 306–309. And the time during
+which the defendants could seek rehearing as to that judg-
+ment had long since passed. See N. C. Rule App. Proc. 31(a)
+(2023) (requiring that a rehearing petition be brought within
+15 days of the issuance of the mandate). Recognizing this
+reality, the legislative defendants did not ask the North Car-
+olina Supreme Court to disturb the judgment in Harper I as
+part of the rehearing proceedings. They instead acknowl-
+edged that they would remain bound by Harper I 's decision
+enjoining the use of the 2021 plans. See Pet. for Rehearing
+24 (“[O]verruling Harper I will not negate the force of its
+order striking down the 2021 plans.”).
+The North Carolina Supreme Court “overruled” Harper I,
+thereby granting the specific relief requested by the legis-
+lative defendants. As a result, partisan gerrymandering
+claims are no longer justiciable under the State's Constitu-
+tion. Harper, 384 N. C., at 378–379, 886 S. E. 2d, at 449. But
+although the defendants may now draw new congressional
+maps, they agree that the North Carolina Supreme Court
+overruled only the “reasoning of Harper I ” and did not “dis-
+turb . . . its judgment nor . . . alter the presently operative
+statutes of North Carolina.” Second Supp. Letter Brief for
+Petitioners 3. In other words, although partisan gerryman-
+dering claims are no longer viable under the North Carolina
+Constitution, the North Carolina Supreme Court has done
+nothing to alter the effect of the judgment in Harper I en-
+joining the use of the 2021 maps. As a result, the legislative
+defendants' path to complete relief runs through this Court.
+Were we to reverse the judgment in Harper I—a step not
+taken by the North Carolina Supreme Court—the 2021 plans
+enacted by the legislative defendants would again take ef-
+fect. The parties accordingly continue to have a “personal
+stake in the ultimate disposition of the lawsuit.” Chafin v.
+Chafin, 568 U. S. 165, 172 (2013) (internal quotation marks
+omitted).
+A North Carolina statute with specific application to this
+proceeding confirms that the controversy before us remains
+live. Under state law, if “the United States Supreme Court
+. . . reverses” the decision in Harper I, the 2021 maps will
+again become “effective.” 2022 N. C. Sess. Laws 3, p. 10, § 2.
+We have previously found such trigger provisions—in North
+Carolina, no less—sufficient to avoid mootness under Arti-
+cle III. See Hunt v. Cromartie, 526 U. S. 541, 546, n. 1
+(1999) (“Because the State's 1998 law provides that the State
+will revert to the 1997 districting plan upon a favorable deci-
+sion of this Court . . . this case is not moot.”).
+We also have jurisdiction to review the judgment in
+Harper I under 28 U. S. C. § 1257(a). That statute provides
+for this Court's exercise of jurisdiction over “[f]inal judg-
+ments or decrees rendered by the highest court of a State in
+which a decision could be had.” Ibid. We have, however,
+“recurringly encountered situations in which the highest
+court of a State has finally determined the federal issue pres-
+ent in a particular case, but in which there are further pro-
+ceedings in the lower state courts to come.” Cox Broadcast-
+ing Corp. v. Cohn, 420 U. S. 469, 477 (1975).
+Cox Broadcasting delineated “at least four categories of
+such cases in which the Court has treated the decision on
+the federal issue as a final judgment for the purposes of 28
+U. S. C. § 1257,” despite “additional proceedings anticipated
+in the lower state courts.” Ibid. As relevant, the second
+category includes those “cases . . . in which the federal issue,
+finally decided by the highest court in the State, will survive
+and require decision regardless of the outcome of future
+statecourt proceedings.” Id., at 480.
+Harper I fts within this second category of cases de-
+scribed in Cox Broadcasting . By striking down the 2021
+congressional plans enacted by the General Assembly,
+Harper I “finally decided” the “federal issue” whether the
+Elections Clause insulates state legislatures from review by
+state courts for compliance with state law. See 380 N. C.,
+at 390–391, 868 S. E. 2d, at 551–552. That issue both has
+survived and requires decision because subsequent proceed-
+ings have neither altered Harper I 's analysis of the federal
+issue nor negated the effect of its judgment striking down
+the 2021 plans. In its decision “overruling” Harper I, the
+North Carolina Supreme Court in fact reaffirmed that it re-
+tains the authority to review congressional districting plans
+for compliance with state law. Harper, 384 N. C., at 336, 886
+S. E. 2d, at 422.
+That the North Carolina Supreme Court overruled Har-
+per I does not affect the judgment in that case for purposes
+of § 1257(a). “[T]he res judicata consequences of a final, un-
+appealed judgment on the merits” are not “altered by the
+fact that the judgment may have been wrong or rested on a
+legal principle subsequently overruled in another case.”
+Federated Department Stores, Inc. v. Moitie , 452 U. S. 394,
+398 (1981). The North Carolina Supreme Court has said
+much the same. East Carolina Lumber Co. v. West, 247
+N. C. 699, 701, 102 S. E. 2d, 248, 249 (1958) (“An erroneous
+or irregular judgment binds the parties thereto until cor-
+rected in a proper manner.”). That Court did not purport
+to alter or amend in any way the judgment in Harper I. In
+short, the record before us shows that Harper I “finally de-
+cided” the Elections Clause issue, which has survived subse-
+quent proceedings in the North Carolina Supreme Court
+such that it continues to “require decision” by this Court.
+Cox Broadcasting, 420 U. S., at 480.
+Justice Thomas sees it differently. He correctly ob-
+serves that the North Carolina Supreme Court has now dis-
+missed the plaintiffs' claims with prejudice. He posits,
+therefore, that the legislative defendants “are not injured by
+the judgment of Harper I.” Post, at 45 (dissenting opinion).
+But the record before us belies that notion. Harper I en-
+joined the use of the 2021 maps in subsequent elections in
+North Carolina. Well after the time for seeking rehearing
+as to that judgment passed, the legislative defendants in-
+stead sought rehearing with respect to Harper II, a distinct
+decision concerning remedies. The defendants steadfastly
+maintained in rehearing proceedings before the North Caro-
+lina Supreme Court that “overruling Harper I [would] not
+negate the force of its order striking down the 2021 plans.”
+Pet. for Rehearing 24; see also Legislative Defendants' Supp.
+Brief on Rehearing in Harper v. Hall, No. 413PA21–2, p. 56
+(N. C., Feb. 17, 2023) (“[T]he Court's dictate that the 2021
+plans may not be used `in any future elections' would not be
+vacated.”). With those concessions on the record, the North
+Carolina Supreme Court issued its decision “overruling”
+Harper I, and—by contrast—“withdraw[ing]” its decision in
+Harper II . Harper, 384 N. C., at 379, 886 S. E. 2d, at 449.
+And mirroring their representations before the North Caro-
+lina Supreme Court, the legislative defendants now maintain
+in this Court that they continue to remain bound by the judg-
+ment in Harper I.
+In an effort to cast doubt on these consistent representa-
+tions by the injured party before us, Justice Thomas con-
+tends that the legislative defendants have already received
+complete relief because nothing now prevents the implemen-
+tation of the 2021 maps. Post, at 54 (dissenting opinion).
+For the reasons stated above, that would come as a surprise
+to both the legislative defendants and the North Carolina
+Supreme Court. The dissent also emphasizes that several
+of the plaintiffs contest our jurisdiction. Post, at 45. But
+that has been their position from the very beginning, and
+it did not prevent our granting certiorari. The concessions
+offered by the legislative defendants as part of the rehearing
+proceedings, the recent opinion issued by the North Carolina
+Supreme Court, and the legislative defendants' briefing in
+this Court all tell the same story: Harper I continues to en-
+join the use of the 2021 maps. Following the dissent's logic
+and dismissing this case as moot would foreclose the one path
+to full relief available to the legislative defendants: A deci-
+sion by this Court reversing the judgment in Harper I.
+This Court has before it a judgment issued by a State's
+highest court that adjudicates a federal constitutional issue.
+The defendants did not ask the North Carolina Supreme
+Court to vacate that judgment, that court did not purport to
+do so, and the defendants now concede that they remain
+bound by it. Cox Broadcasting considered our exercise of
+jurisdiction where the “federal issue . . . will survive and
+require decision regardless of the outcome of future state-
+court proceedings.” 420 U. S., at 480. Unlike cases in
+which we must anticipate what the future might hold, we
+now know the resolution of the anticipated state court pro-
+ceedings. The record shows that Harper I finally decided
+the Elections Clause question, the judgment in that case con-
+tinues to bind the parties before us, and the 2021 congres-
+sional maps would again take effect in North Carolina were
+we to reverse. Accordingly, we have jurisdiction under both
+Article III and § 1257(a).
+III
+The question on the merits is whether the Elections
+Clause insulates state legislatures from review by state
+courts for compliance with state law.
+Since early in our Nation's history, courts have recognized
+their duty to evaluate the constitutionality of legislative acts.
+We announced our responsibility to review laws that are
+alleged to violate the Federal Constitution in Marbury v.
+Madison, proclaiming that “[i]t is emphatically the province
+and duty of the judicial department to say what the law is.”
+1 Cranch 137, 177 (1803). Marbury confronted and rejected
+the argument that Congress may exceed constitutional limits
+on the exercise of its authority. “Certainly all those who
+have framed written constitutions,” we reasoned, “contem-
+plate them as forming the fundamental and paramount law
+of the nation, and consequently the theory of every such gov-
+ernment must be, that an act of the legislature, repugnant
+to the constitution, is void.” Ibid.
+Marbury proclaimed our authority to invalidate laws that
+violate the Federal Constitution, but it did not fashion this
+concept out of whole cloth. Before the Constitutional Con-
+vention convened in the summer of 1787, a number of state
+courts had already moved “in isolated but important cases
+to impose restraints on what the legislatures were enacting
+as law.” G. Wood, The Creation of the American Republic
+1776–1787, pp. 454–455 (1969). Although judicial review
+emerged cautiously, it matured throughout the founding era.
+These state court decisions provided a model for James Mad-
+ison, Alexander Hamilton, and others who would later defend
+the principle of judicial review.
+In the 1786 case Trevett v. Weeden, for example, lawyer
+James Varnum challenged a Rhode Island statute on the
+ground that it failed to provide the right to a jury trial. Al-
+though Rhode Island lacked a written constitution, Varnum
+argued that the State nevertheless had a constitution re-
+fecting the basic historical rights of the English. And, he
+contended, the courts must honor “the principles of the con-
+stitution in preference to any acts of the General Assembly.”
+J. Varnum, The Case, Trevett v. Weeden, reprinted in 1 B.
+Schwartz, The Bill of Rights: A Documentary History 424
+(1971). Varnum won, to the dismay of the State's legisla-
+ture, which replaced four of the fve judges involved. W.
+Treanor, Judicial Review Before Marbury, 58 Stan. L. Rev.
+455, 478 (2005). His arguments were published as a pam-
+phlet, which “may well have been the most prominent discus-
+sion of judicial review at the time of the Philadelphia Consti-
+tutional Convention.” Id., at 477.
+The North Carolina Supreme Court played its own part in
+establishing judicial review. In Bayard v. Singleton, the
+court considered the constitutionality of a 1785 Act by the
+State's General Assembly that prevented British loyalists
+from challenging property seizures before a jury. 1 Mart.
+48 (1787). The court held the Act “abrogated and without
+any effect,” for “it was clear” that the legislature could not
+pass an Act that “could by any means repeal or alter the
+constitution.” Id., at 50. Otherwise, the legislature “would
+at the same instant of time, destroy their own existence as
+a Legislature, and dissolve the government thereby estab-
+lished.” Ibid. James Iredell, who would later serve as an
+inaugural Justice of this Court, penned at the time an open
+letter “To the Public” expounding a robust concept of judicial
+review. 2 Life and Correspondence of James Iredell 145
+(1846). “[T]he power of the Assembly,” he wrote, “is limited
+and defined by the constitution.” Id., at 146. The legisla-
+ture, after all, “is a creature of the constitution.” Ibid.
+North Carolina and Rhode Island did not stand alone.
+See, e. g., Holmes v. Walton (N. J. 1780), described in A.
+Scott, Holmes vs. Walton: The New Jersey Precedent, 4 Am.
+Hist. Rev. 456 (1899); State v. Parkhurst, 9 N. J. L. 427, 444
+(1802) (citing Holmes as holding that a statute providing for
+a six-person jury was “unconstitutional”). All told, “[s]tate
+courts in at least seven states invalidated state or local laws
+under their State constitutions before 1787,” which “laid the
+foundation for judicial review.” J. Sutton, 51 Imperfect So-
+lutions 13 (2018).
+The Framers recognized state decisions exercising judicial
+review at the Constitutional Convention of 1787. On
+July 17, James Madison spoke in favor of a federal council of
+revision that could negate laws passed by the States. He
+lauded the Rhode Island judges “who refused to execute an
+unconstitutional law,” lamenting that the State's legislature
+then “displaced” them to substitute others “who would be
+willing instruments of the wicked & arbitrary plans of their
+masters.” 2 Records of the Federal Convention of 1787,
+p. 28 (M. Farrand ed. 1911). A week later, Madison extolled
+as one of the key virtues of a constitutional system that “[a]
+law violating a constitution established by the people them-
+selves, would be considered by the Judges as null & void.”
+Id., at 93. Elbridge Gerry, a delegate from Massachusetts,
+also spoke in favor of judicial review. (Known for drawing
+a contorted legislative district that looked like a salamander,
+Gerry later became the namesake for the “gerrymander.”)
+At the Convention, he noted that “[i]n some States the
+Judges had [actually] set aside laws as being agst. the Consti-
+tution.” 1 id., at 97 (alteration in original by James Madi-
+son). Such judicial review, he noted, was met “with general
+approbation.” Ibid.
+Writings in defense of the proposed Constitution echoed
+these comments. In the Federalist Papers, Alexander Ham-
+ilton maintained that “courts of justice” have the “duty . . .
+to declare all acts contrary to the manifest tenor of the Con-
+stitution void.” The Federalist No. 78, p. 466 (C. Rossiter
+ed. 1961). “[T]his doctrine” of judicial review, he also wrote,
+was “equally applicable to most if not all the State govern-
+ments.” Id., No. 81, at 482.
+State cases, debates at the Convention, and writings de-
+fending the Constitution all advanced the concept of judicial
+review. And in the years immediately following ratification,
+courts grew assured of their power to void laws incompati-
+ble with constitutional provisions. See Treanor, 58 Stan.
+L. Rev., at 473, 497–498. The idea that courts may review
+legislative action was so “long and well established” by the
+time we decided Marbury in 1803 that Chief Justice Marshall
+referred to judicial review as “one of the fundamental princi-
+ples of our society.” 1 Cranch, at 176–177.
+IV
+We are asked to decide whether the Elections Clause
+carves out an exception to this basic principle. We hold that
+it does not. The Elections Clause does not insulate state
+legislatures from the ordinary exercise of state judicial
+review.
+A
+We first considered the interplay between state constitu-
+tional provisions and a state legislature's exercise of author-
+ity under the Elections Clause in Ohio ex rel. Davis v. Hilde-
+brant, 241 U. S. 565 (1916). There, we examined the
+application to the Elections Clause of a provision of the Ohio
+Constitution permitting the State's voters “to approve or
+disapprove by popular vote any law enacted by the General
+Assembly.” Id., at 566. In 1915, the Ohio General Assem-
+bly drew new congressional districts, which the State's vot-
+ers then rejected through such a popular referendum.
+Asked to disregard the referendum, the Ohio Supreme Court
+refused, explaining that the Elections Clause—while “confer-
+ring the power therein defined upon the various state legis-
+latures”—did not preclude subjecting legislative Acts under
+the Clause to “a popular vote.” State ex rel. Davis v. Hilde-
+brant, 94 Ohio St. 154, 163, 114 N. E. 55, 58 (1916).
+We unanimously affirmed, rejecting as “plainly without
+substance” the contention that “to include the referendum
+within state legislative power for the purpose of apportion-
+ment is repugnant to § 4 of Article I [the Elections Clause].”
+Hildebrant, 241 U. S., at 569; see also Hawke v. Smith, 253
+U. S. 221, 230–231 (1920) (describing Hildebrant as holding
+that “the referendum provision of the state constitution
+when applied to a law redistricting the State with a view to
+representation in Congress was not unconstitutional”).
+Smiley v. Holm, decided 16 years after Hildebrant, consid-
+ered the effect of a Governor's veto of a state redistricting
+plan. 285 U. S. 355, 361 (1932). Following the 15th decen-
+nial census in 1930, Minnesota lost one seat in its federal
+congressional delegation. The State's legislature divided
+Minnesota's then nine congressional districts in 1931 and
+sent its Act to the Governor for his approval. The Governor
+vetoed the plan pursuant to his authority under the State's
+Constitution. But the Minnesota Secretary of State never-
+theless began to implement the legislature's map for upcom-
+ing elections. A citizen sued, contending that the legisla-
+ture's map “was a nullity in that, after the Governor's veto,
+it was not repassed by the legislature as required by law.”
+Id., at 362. The Minnesota Supreme Court disagreed. In
+its view, “the authority so given by” the Elections Clause “is
+unrestricted, unlimited, and absolute.” State ex rel. Smiley
+v. Holm, 184 Minn. 228, 242, 238 N. W. 494, 501 (1931). The
+Elections Clause, it held, conferred upon the legislature “the
+exclusive right to redistrict” such that its actions were “be-
+yond the reach of the judiciary.” Id., at 243, 238 N. W.,
+at 501.
+We unanimously reversed. A state legislature's “exercise
+of . . . authority” under the Elections Clause, we held, “must
+be in accordance with the method which the State has pre-
+scribed for legislative enactments.” Smiley, 285 U. S., at
+367. Nowhere in the Federal Constitution could we find
+“provision of an attempt to endow the legislature of the State
+with power to enact laws in any manner other than that in
+which the constitution of the State has provided that laws
+shall be enacted.” Id., at 368.
+Smiley relied on founding-era provisions, constitutional
+structure, and historical practice, each of which we found
+persuasive. Two States at the time of the founding pro-
+vided a veto power, restrictions that were “well known.”
+Ibid. (citing provisions in Massachusetts and New York).
+Subjecting state legislatures to such a limitation “was no
+more incongruous with the grant of legislative authority to
+regulate congressional elections than the fact that the Con-
+gress in making its regulations under the same provision
+would be subject to the veto power of the President.” Ibid.;
+see also Wesberry v. Sanders, 376 U. S. 1, 6 (1964) (Congress
+does not have “exclusive authority” under the Elections
+Clause, independent of other federal constitutional provi-
+sions). And “long and continuous interpretation” as evi-
+denced by “the established practice in the states” provided
+further support. Smiley, 285 U. S., at 369. We noted that
+many state constitutions had adopted provisions allowing for
+executive vetoes, “and that the uniform practice . . . has been
+to provide for congressional districts by the enactment of
+statutes with the participation of the Governor wherever
+the state constitution provided for such participation.” Id.,
+at 370.
+This Court recently reinforced the teachings of Hildebrant
+and Smiley in a case considering the constitutionality of an
+Arizona ballot initiative. Voters “amended Arizona's Con-
+stitution to remove redistricting authority from the Arizona
+Legislature and vest that authority in an independent com-
+mission.” Arizona State Legislature v. Arizona Independ-
+ent Redistricting Comm'n, 576 U. S. 787, 792 (2015). The
+Arizona Legislature challenged a congressional map adopted
+by the commission, arguing that the Elections “Clause pre-
+cludes resort to an independent commission . . . to accomplish
+redistricting.” Ibid. A divided Court rejected that argu-
+ment. The majority reasoned that dictionaries of “the
+founding era . . . capaciously define[d] the word `legislature,' ”
+id., at 813–814, and concluded that the people of Arizona re-
+tained the authority to create “an alternative legislative
+process” by vesting the lawmaking power of redistricting in
+an independent commission, id., at 817. The Court ruled, in
+short, that although the Elections Clause expressly refers to
+the “Legislature,” it does not preclude a State from vesting
+congressional redistricting authority in a body other than the
+elected group of officials who ordinarily exercise lawmaking
+power. States, the Court explained, “retain autonomy to es-
+tablish their own governmental processes.” Id., at 816.
+The significant point for present purposes is that the Court
+in Arizona State Legislature recognized that whatever au-
+thority was responsible for redistricting, that entity re-
+mained subject to constraints set forth in the State Constitu-
+tion. The Court embraced the core principle espoused in
+Hildebrant and Smiley “that redistricting is a legislative
+function, to be performed in accordance with the State's pre-
+scriptions for lawmaking, which may include the referendum
+and the Governor's veto.” 576 U. S., at 808; see also id., at
+840–841 (Roberts, C. J., dissenting) (recognizing that Hilde-
+brant and Smiley support the imposition of “some con-
+straints on the legislature”). The Court dismissed the argu-
+ment that the Elections Clause divests state constitutions of
+the power to enforce checks against the exercise of legisla-
+tive power: “Nothing in [the Elections] Clause instructs, nor
+has this Court ever held, that a state legislature may pre-
+scribe regulations on the time, place, and manner of holding
+federal elections in defiance of provisions of the State's con-
+stitution.” 576 U. S., at 817–818 (majority opinion).
+The reasoning we unanimously embraced in Smiley com-
+mands our continued respect: A state legislature may not
+“create congressional districts independently of ” require -
+ments imposed “by the state constitution with respect to the
+enactment of laws.” 285 U. S., at 373.
+B
+The legislative defendants and the dissent both contend
+that, because the Federal Constitution gives state legisla-
+tures the power to regulate congressional elections, only that
+Constitution can restrain the exercise of that power. Brief
+for Petitioners 22; post, at 56 (opinion of Thomas, J.). The
+legislative defendants cite for support Federalist No. 78,
+which explains that the wielding of legislative power is con-
+strained by “the tenor of the commission under which it is
+exercised.” The Federalist No. 78, at 466; see Tr. of Oral
+Arg. 4.
+This argument simply ignores the precedent just de-
+scribed. Hildebrant, Smiley, and Arizona State Legisla-
+ture each rejected the contention that the Elections Clause
+vests state legislatures with exclusive and independent au-
+thority when setting the rules governing federal elections.
+The argument advanced by the defendants and the dissent
+also does not account for the Framers' understanding that
+when legislatures make laws, they are bound by the provi-
+sions of the very documents that give them life. Legisla-
+tures, the Framers recognized, “are the mere creatures of
+the State Constitutions, and cannot be greater than their cre-
+ators.” 2 Farrand 88. “What are Legislatures? Crea-
+tures of the Constitution; they owe their existence to the
+Constitution: they derive their powers from the Constitution:
+It is their commission; and, therefore, all their acts must be
+conformable to it, or else they will be void.” Vanhorne's
+Lessee v. Dorrance, 2 Dall. 304, 308 (CC Pa. 1795). Marbury
+confirmed this understanding, 1 Cranch, at 176–177, and
+nothing in the text of the Elections Clause undermines it.
+When a state legislature carries out its constitutional power
+to prescribe rules regulating federal elections, the “commis-
+sion under which” it exercises authority is two-fold. The
+Federalist No. 78, at 467. The legislature acts both as a law-
+making body created and bound by its state constitution, and
+as the entity assigned particular authority by the Federal
+Constitution. Both constitutions restrain the legislature's
+exercise of power.
+Turning to our precedents, the defendants quote from our
+analysis of the Electors Clause in McPherson v. Blacker,
+146 U. S. 1 (1892). That Clause—similar to the Elections
+Clause—provides that “Each State shall appoint, in such
+Manner as the Legislature thereof may direct, a [specified]
+Number of Electors.” Art. II, § 1, cl. 2. McPherson con-
+sidered a challenge to the Michigan Legislature's decision
+to allocate the State's electoral votes among the individual
+congressional districts, rather than to the State as a whole.
+We upheld that decision, explaining that in choosing Presi-
+dential electors, the Clause “leaves it to the legislature ex-
+clusively to define the method of effecting the object.” 146
+U. S., at 27.
+Our decision in McPherson, however, had nothing to do
+with any conflict between provisions of the Michigan Consti-
+tution and action by the State's legislature—the issue we
+confront today. McPherson instead considered whether
+Michigan's Legislature itself directly violated the Electors
+Clause (by taking from the “State” the power to appoint and
+vesting that power in separate districts), the Fourteenth
+Amendment (by allowing voters to vote for only one Elector
+rather than “Electors”), and a particular federal statute.
+Id., at 8–9 (argument for plaintiffs in error). Nor does the
+quote highlighted by petitioners tell the whole story. Chief
+Justice Fuller's opinion for the Court explained that “[t]he
+legislative power is the supreme authority except as limited
+by the constitution of the State .” Id., at 25 (emphasis
+added); see also ibid. (“What is forbidden or required to be
+done by a State is forbidden or required of the legislative
+power under state constitutions as they exist.”).
+The legislative defendants and Justice Thomas rely as
+well on our decision in Leser v. Garnett, 258 U. S. 130 (1922),
+but it too offers little support. See post, at 56, 58–60.
+Leser addressed an argument that the Nineteenth Amend-
+ment—providing women the right to vote—was invalid be-
+cause state constitutional provisions “render[ed] inoperative
+the alleged ratifcations by their legislatures.” 258 U. S., at
+137. We rejected that position, holding that when state leg-
+islatures ratify amendments to the Constitution, they carry
+out “a federal function derived from the Federal Constitu-
+tion,” which “transcends any limitations sought to be im-
+posed by the people of a State.” Ibid.
+But the legislature in Leser performed a ratifying function
+rather than engaging in traditional lawmaking. The provi-
+sions at issue in today's case—like the provisions examined
+in Hildebrant and Smiley—concern a state legislature's ex-
+ercise of lawmaking power. And as we held in Smiley, when
+state legislatures act pursuant to their Elections Clause au-
+thority, they engage in lawmaking subject to the typical con-
+straints on the exercise of such power. 285 U. S., at 367.
+We have already distinguished Leser on those grounds.
+Smiley, 285 U. S., at 365–366. In addition, Leser cited for
+support our decision in Hawke v. Smith, which sharply sepa-
+rated ratification “from legislative action” under the Elec-
+tions Clause. 253 U. S., at 228. Lawmaking under the
+Elections Clause, Hawke explained, “is entirely different
+from the requirement of the Constitution as to the express-
+sion of assent or dissent to a proposed amendment to the
+Constitution.” Id., at 231.
+Hawke and Smiley delineated the various roles that the
+Constitution assigns to state legislatures. Legislatures act
+as “Consent[ing]” bodies when the Nation purchases land,
+Art. I, § 8, cl. 17; as “Ratif[ying]” bodies when they agree to
+proposed Constitutional amendments, Art. V; and—prior to
+the passage of the Seventeenth Amendment—as “electoral”
+bodies when they choose United States Senators, Smiley, 285
+U. S., at 365; see also Art. I, § 3, cl. 1; Amdt. 17 (providing
+for the direct election of Senators).
+By fulflling their constitutional duty to craft the rules
+governing federal elections, state legislatures do not consent,
+ratify, or elect—they make laws. Elections are complex af-
+fairs, demanding rules that dictate everything from the date
+on which voters will go to the polls to the dimensions and
+font of individual ballots. Legislatures must “provide a
+complete code for congressional elections,” including regula-
+tions “relati[ng] to notices, registration, supervision of vot-
+ing, protection of voters, prevention of fraud and corrupt
+practices, counting of votes, duties of inspectors and canvass-
+ers, and making and publication of election returns.” Smi-
+ley, 285 U. S., at 366. In contrast, a simple up-or-down vote
+suffices to ratify an amendment to the Constitution. Provid-
+ing consent to the purchase of land or electing Senators in-
+volves similarly straightforward exercises of authority. But
+fashioning regulations governing federal elections “unques-
+tionably calls for the exercise of lawmaking authority.” Ar-
+izona State Legislature , 576 U. S., at 808, n. 17. And the
+exercise of such authority in the context of the Elections
+Clause is subject to the ordinary constraints on lawmaking
+in the state constitution.
+In sum, our precedents have long rejected the view that
+legislative action under the Elections Clause is purely fed-
+eral in character, governed only by restraints found in the
+Federal Constitution.
+C
+Addressing our decisions in Smiley and Hildebrant, both
+the legislative defendants and Justice Thomas concede that
+at least some state constitutional provisions can restrain a
+state legislature's exercise of authority under the Elections
+Clause. But they read those cases to differentiate between
+procedural and substantive constraints. Brief for Petition-
+ers 24; post, at 29 (opinion of Thomas, J.). Smiley, in their
+view, stands for the proposition that state constitutions may
+impose only procedural hoops through which legislatures
+must jump in crafting rules governing federal elections.
+This concededly “formalistic” approach views the Governor's
+veto at issue in Smiley as one such procedural restraint. Tr.
+of Oral Arg. 62. But when it comes to substantive provi-
+sions, their argument goes, our precedents have nothing to
+say.
+This argument adopts too cramped a view of our decision
+in Smiley. Chief Justice Hughes's opinion for the Court
+drew no distinction between “procedural” and “substantive”
+restraints on lawmaking. It turned on the view that state
+constitutional provisions apply to a legislature's exercise of
+lawmaking authority under the Elections Clause, with no
+concern about how those provisions might be categorized.
+285 U. S., at 367–368; see also Hildebrant, 241 U. S., at
+569–570.
+The same goes for the Court's decision in Arizona State
+Legislature. The defendants attempt to cabin that case by
+arguing that the Court did not address substantive limits on
+the regulation of federal elections. But as in Smiley, the
+Court's decision in Arizona State Legislature discussed no
+difference between procedure and substance.
+The dissent reads Smiley and Arizona State Legislature
+in a different light. Justice Thomas thinks those cases say
+nothing about whether a State can impose “substantive lim-
+its” on the legislature's exercise of power under the Elections
+Clause. Post, at 59. But in Smiley, we addressed whether
+“the conditions which attach to the making of state laws”
+apply to legislatures exercising authority under the Elec-
+tions Clause. 285 U. S., at 365. We held that they do.
+“Much that is urged in argument with regard to the meaning
+of the term `Legislature,' ” we explained, “is beside the
+point.” Ibid. And we concluded in straightforward terms
+that legislatures must abide by “restriction[s] imposed by
+state constitutions . . . when exercising the lawmaking
+power” under the Elections Clause. Id., at 369. Arizona
+State Legislature said much the same, emphasizing that, by
+its text, nothing in the Elections Clause offers state legisla-
+tures carte blanche to act “in defiance of provisions of the
+State's constitution.” 576 U. S., at 818.
+The defendants and Justice Thomas do not in any event
+offer a defensible line between procedure and substance in
+this context. “The line between procedural and substantive
+law is hazy.” Erie R. Co. v. Tompkins, 304 U. S. 64, 92
+(1938) (Reed, J., concurring in part); see also Shady Grove
+Orthopedic Associates, P . A. v. Allstate Ins. Co., 559 U. S.
+393, 419–420 (2010) (Stevens, J., concurring in part and con-
+curring in judgment). Many rules “are rationally capable of
+classification as either.” Hanna v. Plumer, 380 U. S. 460,
+472 (1965); see also Sun Oil Co. v. Wortman, 486 U. S. 717,
+726 (1988) (“Except at the extremes, the terms `substance'
+and `procedure' precisely describe very little except a dichot-
+omy.”). Procedure, after all, is often used as a vehicle to
+achieve substantive ends. When a governor vetoes a bill
+because of a disagreement with its policy consequences, has
+the governor exercised a procedural or substantive restraint
+on lawmaking? Smiley did not endorse such murky inquir-
+ies into the nature of constitutional restraints, and we see no
+neat distinction today.
+D
+Were there any doubt, historical practice confirms that
+state legislatures remain bound by state constitutional re-
+straints when exercising authority under the Elections
+Clause. We have long looked to “settled and established
+practice” to interpret the Constitution. The Pocket Veto
+Case, 279 U. S. 655, 689 (1929). And we have found histori-
+cal practice particularly pertinent when it comes to the Elec-
+tions and Electors Clauses. Smiley, 285 U. S., at 369 (Elec-
+tions Clause); Chiafalo v. Washington, 591 U. S. –––, ––– –
+––– (2020) (Electors Clause).
+Two state constitutional provisions adopted shortly after
+the founding offer the strongest evidence. Delaware's 1792
+Constitution provided that the State's congressional repre-
+sentatives “shall be voted for at the same places where rep-
+resentatives in the State legislature are voted for, and in the
+same manner.” Art. VIII, § 2. Even though the Elections
+Clause stated that the “Places” and “Manner” of federal elec-
+tions shall be “prescribed” by the state legislatures, the Del-
+aware Constitution expressly enacted rules governing the
+“places” and “manner” of holding elections for federal office.
+An 1810 amendment to the Maryland Constitution likewise
+embodied regulations falling within the scope of the Elec-
+tions and Electors Clauses. Article XIV provided that
+every qualified citizen “shall vote, by ballot, . . . for electors
+of the President and Vice-President of the United States,
+[and] for Representatives of this State in the Congress of
+the United States.” If the Elections Clause had vested ex-
+clusive authority in state legislatures, unchecked by state
+courts enforcing provisions of state constitutions, these
+clauses would have been unenforceable from the start.
+Besides the two specific provisions in Maryland and Dela-
+ware, multiple state constitutions at the time of the founding
+regulated federal elections by requiring that “[a]ll elections
+shall be by ballot.” Ga. Const., Art. IV , § 2 (1789); see also,
+e. g., Pa. Const., Art. III, § 2 (1790); Ky. Const., Art. III, cl. 2
+(1792); Tenn. Const., Art. III, § 3 (1796); Ohio Const., Art. IV ,
+§ 2 (1803); La. Const., Art. VI, § 13 (1812). These provisions
+directed the “manner” of federal elections within the mean-
+ing of the Elections Clause, as Madison himself explained
+at the Constitutional Convention. See 2 Farrand 240
+(“Whether the electors should vote by ballot or vivâ voce”
+falls within the “great latitude” of “regulating the times
+places & manner of holding elections”).
+The legislative defendants discount this evidence. They
+argue that those “by ballot” provisions spoke only “to the
+offices that were created by” state constitutions, and not to
+the federal offices to which the Elections Clause applies. Tr.
+of Oral Arg. 18. We find no textual hook for that strained
+reading. “All” meant then what it means now.
+In addition, the Framers did not write the Elections
+Clause on a blank slate—they instead borrowed from the Ar-
+ticles of Confederation, which provided that “delegates shall
+be annually appointed in such manner as the legislature of
+each state shall direct.” Art. V . The two provisions closely
+parallel. And around the time the Articles were adopted by
+the Second Continental Congress, multiple States regulated
+the “manner” of “appoint[ing] delegates,” ibid., suggesting
+that the Framers did not understand that language to insu-
+late state legislative action from state constitutional provi-
+sions. See Del. Const., Art. XI (1776); Md. Const., Art.
+XXVII (1776); Va. Const., cls. 3–4 (1776); Pa. Const., § 11
+(1776); N. C. Const., Art. XXXVII (1776); Ga. Const., Art.
+XVI (1777); N. Y . Const., Art. XXX (1777); S. C. Const., Art.
+XXII (1778); Mass. Const., pt. 2, ch. IV (1780); N. H. Const.,
+pt. II (1784).
+The defendants stress an 1820 convention held in Massa-
+chusetts to amend the Commonwealth's Constitution. After
+a Boston delegate proposed a provision regulating the man-
+ner of federal elections, Joseph Story—then a Justice of this
+Court—nixed the effort. In Story's view, such a provision
+would run afoul of the Elections Clause by “assum[ing] a
+control over the Legislature, which the constitution of the
+United States does not justify.” Journal of the Debates and
+Proceedings in the Convention of Delegates 110 (1853). But
+Story's comment elicited little discussion, and reflects the
+views of a jurist who, although “a brilliant and accomplished
+man, . . . was not a member of the Founding generation.”
+U. S. Term Limits, Inc. v. Thornton, 514 U. S. 779, 856 (1995)
+(Thomas, J., dissenting).
+V
+A
+Although we conclude that the Elections Clause does not
+exempt state legislatures from the ordinary constraints im-
+posed by state law, state courts do not have free rein.
+“State courts are the appropriate tribunals . . . for the deci-
+sion of questions arising under their local law, whether statu-
+tory or otherwise.” Murdock v. Memphis, 20 Wall. 590, 626
+(1875). At the same time, the Elections Clause expressly
+vests power to carry out its provisions in “the Legislature”
+of each State, a deliberate choice that this Court must re-
+spect. As in other areas where the exercise of federal au-
+thority or the vindication of federal rights implicates ques-
+tions of state law, we have an obligation to ensure that state
+court interpretations of that law do not evade federal law.
+State law, for example, “is one important source” for de-
+fining property rights. Tyler v. Hennepin County, 598 U. S.
+631, 638 (2023); see also Board of Regents of State Colleges
+v. Roth, 408 U. S. 564, 577 (1972) (property rights “are cre-
+ated and their dimensions are defined by existing rules or
+understandings that stem from an independent source such
+as state law”). At the same time, the Federal Constitution
+provides that “private property” shall not “be taken for pub-
+lic use, without just compensation.” Amdt. 5. As a result,
+States “may not sidestep the Takings Clause by disavowing
+traditional property interests.” Phillips v. Washington
+Legal Foundation, 524 U. S. 156, 164 (1998); see also Webb's
+Fabulous Pharmacies, Inc. v. Beckwith, 449 U. S. 155,
+164 (1980) (holding that States may not, “by ipse dixit, . . .
+transform private property into public property without
+compensation”).
+A similar principle applies with respect to the Contracts
+Clause, which provides that “[n]o state shall . . . pass any . . .
+Law impairing the Obligation of Contracts.” Art. I, § 10,
+cl. 1. In that context “we accord respectful consideration
+and great weight to the views of the State's highest court.”
+Indiana ex rel. Anderson v. Brand, 303 U. S. 95, 100 (1938).
+Still, “in order that the constitutional mandate may not be-
+come a dead letter, we are bound to decide for ourselves
+whether a contract was made.” Ibid.; see also General Mo-
+tors Corp. v. Romein, 503 U. S. 181, 187 (1992).
+Cases raising the question whether adequate and inde-
+pendent grounds exist to support a state court judgment in-
+volve a similar inquiry. We have in those cases considered
+whether a state court opinion below adopted novel reasoning
+to stife the “vindication in state courts of . . . federal consti-
+tutional rights.” NAACP v. Alabama ex rel. Patterson, 357
+U. S. 449, 457–458 (1958).
+Running through each of these examples is the concern
+that state courts might read state law in such a manner as
+to circumvent federal constitutional provisions. Therefore,
+although mindful of the general rule of accepting state court
+interpretations of state law, we have tempered such defer-
+ence when required by our duty to safeguard limits imposed
+by the Federal Constitution.
+Members of this Court last discussed the outer bounds of
+state court review in the present context in Bush v. Gore,
+531 U. S. 98 (2000) (per curiam ). Our decision in that case
+turned on an application of the Equal Protection Clause of
+the Fourteenth Amendment. Id., at 104–105. In separate
+writings, several Justices addressed whether Florida's Su-
+preme Court, in construing provisions of Florida statutory
+law, exceeded the bounds of ordinary judicial review to an
+extent that its interpretation violated the Electors Clause.
+Chief Justice Rehnquist, joined in a concurring opinion by
+Justice Thomas and Justice Scalia, acknowledged the usual
+deference we afford state court interpretations of state law,
+but noted “areas in which the Constitution requires this
+Court to undertake an independent, if still deferential, analy-
+sis of state law.” Id., at 114. He declined to give effect to
+interpretations of Florida election laws by the Florida Su-
+preme Court that “impermissibly distorted them beyond
+what a fair reading required.” Id., at 115. Justice Souter,
+for his part, considered whether a state court interpretation
+“transcends the limits of reasonable statutory interpretation
+to the point of supplanting the statute enacted by the `leg-
+islature' within the meaning of Article II.” Id., at 133
+(Souter, J., joined by Stevens, Ginsburg, and Breyer, JJ.,
+dissenting).
+We do not adopt these or any other test by which we can
+measure state court interpretations of state law in cases im-
+plicating the Elections Clause. The questions presented in
+this area are complex and context specific. We hold only
+that state courts may not transgress the ordinary bounds of
+judicial review such that they arrogate to themselves the
+power vested in state legislatures to regulate federal
+elections.
+B
+We decline to address whether the North Carolina Su-
+preme Court strayed beyond the limits derived from the
+Elections Clause. The legislative defendants did not mean-
+ingfully present the issue in their petition for certiorari or
+in their briefing, nor did they press the matter at oral argu-
+ment. See Bay Area Laundry and Dry Cleaning Pension
+Trust Fund v. Ferbar Corp. of Cal., 522 U. S. 192, 206–208
+(1997); see also California v. Texas, 593 U. S. –––, ––– (2021).
+Counsel for the defendants expressly disclaimed the argu-
+ment that this Court should reassess the North Carolina
+Supreme Court's reading of state law. Tr. of Oral Arg. 7
+(“We're not asking this Court to second-guess or reassess.
+We say take the North Carolina Supreme Court's deci-
+sion on face value and as fairly reflecting North Carolina
+law . . . .”). When pressed whether North Carolina's
+Supreme Court did not fairly interpret its State Constitu-
+tion, counsel reiterated that such an argument was “not our
+position in this Court.” Id., at 54. Although counsel at-
+tempted to expand the scope of the argument in rebuttal,
+such belated efforts do not overcome prior failures to pre-
+serve the issue for review. See this Court's Rule 28
+(“[C]ounsel making the opening argument shall present the
+case fairly and completely and not reserve points of sub-
+stance for rebuttal.”).
+* * *
+State courts retain the authority to apply state constitu-
+tional restraints when legislatures act under the power con-
+ferred upon them by the Elections Clause. But federal
+courts must not abandon their own duty to exercise judicial
+review. In interpreting state law in this area, state courts
+may not so exceed the bounds of ordinary judicial review as
+to unconstitutionally intrude upon the role specifically re-
+served to state legislatures by Article I, Section 4, of the
+Federal Constitution. Because we need not decide whether
+that occurred in today's case, the judgment of the North Car-
+olina Supreme Court is affirmed. 2
+It is so ordered.
+2 As noted, supra, at 13–14, the North Carolina Supreme Court with-
+drew the opinion in Harper II, which addressed both the remedial maps
+developed by the General Assembly and an order by the trial court imple-
+menting an interim plan for the 2022 elections. The remedial order, hav-
+ing been withdrawn, is not before us, and our decision today does not pass
+on the constitutionality of any particular map adopted by the state courts.

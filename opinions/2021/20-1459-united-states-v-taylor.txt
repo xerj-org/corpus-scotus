@@ -1,0 +1,440 @@
+United States v. Taylor — No. 20-1459 — October Term 2021 — decided 6/21/22 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 596 U.S. 845
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r52_886a.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch delivered the opinion of the Court.
+Does attempted Hobbs Act robbery qualify as a “crime of
+violence” under 18 U. S. C. § 924(c)(3)(A)? The answer mat-
+ters because a person convicted of attempted Hobbs Act rob-
+bery alone normally faces up to 20 years in prison. But if
+that offense qualifies as a “crime of violence” under § 924(c)
+(3)(A), the same individual may face a second felony convic-
+tion and years or decades of further imprisonment.
+I
+After a robbery went awry and his accomplice shot a man,
+the federal government charged Justin Taylor with violating
+the Hobbs Act and § 924(c). The Hobbs Act makes it a fed-
+eral crime to commit, attempt to commit, or conspire to com-
+mit a robbery with an interstate component. 18 U. S. C.
+§ 1951(a). Meanwhile, § 924(c) authorizes further punish -
+ments for those who use a firearm in connection with a
+“crime of violence.”
+For purposes of § 924(c), a federal felony qualifies as a
+“crime of violence” if it meets either of two definitions. The
+first definition is found in § 924(c)(3)(A), a provision some-
+times called the elements clause. That clause covers of-
+fenses that “ha[ve] as an element the use, attempted use, or
+threatened use of physical force against the person or prop-
+erty of another.” The second definition, located next
+door in § 924(c)(3)(B) and often referred to as the resid-
+ual clause, encompasses offenses that “by [their] nature, in-
+volv[e] a substantial risk that physical force . . . may be
+used.”
+Before the District Court, the government argued that
+Mr. Taylor's Hobbs Act offense qualified as a “crime of vio-
+lence” under these definitions. And at that point, Mr. Taylor
+T. Chen, Shelley M. Fite, Jessica Stengel, Michael C. Holley, and Paresh
+Patel; and for John Pangelinan by Joseph E. Horey.
+A brief of amicus curiae was fled for Neal Goldfarb by Mr. Goldfarb,
+pro se.
+did not disagree, choosing instead to plead guilty to one
+count each of violating the Hobbs Act and § 924(c). For his
+crimes, the District Court sentenced Mr. Taylor to 30 years
+in federal prison—a decade more than he could have received
+for his Hobbs Act conviction alone.
+Later, Mr. Taylor fled a federal habeas petition. In it,
+he did not challenge his Hobbs Act conviction. Instead, he
+focused on § 924(c). Mr. Taylor submitted that his § 924(c)
+conviction was predicated on his admission that he had com-
+mitted both conspiracy to commit Hobbs Act robbery and
+attempted Hobbs Act robbery. And, Mr. Taylor argued, nei-
+ther of those offenses continued to qualify as a “crime of
+violence” after United States v. Davis, 588 U. S. ––– (2019).
+In Davis, this Court held § 924(c)(3)(B)'s residual clause un-
+constitutionally vague, and we refused to enforce a convic-
+tion and sentence premised on its terms. Id., at ––– – –––.
+In his habeas proceeding, Mr. Taylor asked the court to apply
+Davis retroactively and vacate his own § 924(c) conviction
+and sentence.
+The government opposed Mr. Taylor's petition. In doing
+so, it did not seek to revisit Davis or oppose its retroactive
+application to Mr. Taylor's case. Instead, the government
+observed that Davis declared only the residual clause uncon-
+stitutional; even today the elements clause remains in force.
+And, the government argued, the crime of attempted Hobbs
+Act robbery qualifies as a crime of violence under the ele-
+ments clause even if conspiracy to commit Hobbs Act rob-
+bery may not. By this chain of logic, the government rea-
+soned, Mr. Taylor's § 924(c) conviction and sentence
+remained sound.
+Ultimately, the Fourth Circuit agreed to hear the dispute
+and sided with Mr. Taylor. It held that attempted Hobbs
+Act robbery does not qualify as a crime of violence under
+§ 924(c)(3)(A) because no element of the offense requires the
+government to prove that the defendant used, attempted to
+use, or threatened to use force. By way of remedy, the
+Court of Appeals vacated Mr. Taylor's § 924(c) conviction and
+remanded the case for resentencing in light of his sole re-
+maining Hobbs Act conviction. In reaching its judgment,
+the Fourth Circuit acknowledged that other circuits have
+taken a different view, holding that attempted Hobbs Act
+robbery does qualify as a crime of violence under the ele-
+ments clause. 979 F. 3d 203, 208 (2020). We agreed to take
+up this case to resolve that question. 594 U. S. ––– (2021).
+II
+The parties may not see eye to eye on the outcome of this
+case, but they at least agree on how we should go about
+deciding it. To determine whether a federal felony may
+serve as a predicate for a conviction and sentence under the
+elements clause, they say, we must apply a “categorical ap-
+proach.” We must because the clause poses the question
+whether the federal felony at issue “has as an element the
+use, attempted use, or threatened use of physical force.”
+§ 924(c)(3)(A) (emphasis added). And answering that ques-
+tion does not require—in fact, it precludes—an inquiry into
+how any particular defendant may commit the crime. The
+only relevant question is whether the federal felony at issue
+always requires the government to prove—beyond a reason-
+able doubt, as an element of its case—the use, attempted use,
+or threatened use of force. This Court has long understood
+similarly worded statutes to demand similarly categorical
+inquiries. See, e. g., Borden v. United States, 593 U. S.
+–––, ––– (2021) (plurality opinion); Davis, 588 U. S., at –––;
+Leocal v. Ashcroft, 543 U. S. 1, 7 (2004).
+What are the elements the government must prove to se-
+cure a conviction for attempted Hobbs Act robbery? Here
+again the parties share common ground. Under the portion
+of the Hobbs Act relevant here, to win a conviction for a
+completed robbery the government must show that the de-
+fendant engaged in the “unlawful taking or obtaining of per-
+sonal property from the person . . . of another, against his
+will, by means of actual or threatened force.” § 1951(b).
+From this, it follows that to win a case for attempted Hobbs
+Act robbery the government must prove two things: (1) The
+defendant intended to unlawfully take or obtain personal
+property by means of actual or threatened force, and
+(2) he completed a “substantial step” toward that end. See,
+e. g., United States v. Resendiz-Ponce, 549 U. S. 102, 107
+(2007). What exactly constitutes a substantial step is be-
+yond the scope of today's case. For present purposes, it is
+sufficient to observe that the parties again agree. They ac-
+cept that a substantial step demands something more than
+“mere preparation.” Swift & Co. v. United States, 196 U. S.
+375, 402 (1905). The step, they say, must be “unequivocal,”
+Reply Brief 3, and “significant,” though it “need not be vio-
+lent,” Brief for United States 22.
+To know that much is enough to resolve this case. What-
+ever one might say about completed Hobbs Act robbery, at-
+tempted Hobbs Act robbery does not satisfy the elements
+clause. Yes, to secure a conviction the government must
+show an intention to take property by force or threat, along
+with a substantial step toward achieving that object. But
+an intention is just that, no more. And whatever a substan-
+tial step requires, it does not require the government to
+prove that the defendant used, attempted to use, or even
+threatened to use force against another person or his prop-
+erty. As the Model Penal Code explains with respect to the
+Hobbs Act's common-law robbery analogue, “there will be
+cases, appropriately reached by a charge of attempted rob-
+bery, where the actor does not actually harm anyone or even
+threaten harm.” ALI, Model Penal Code § 222.1, p. 114
+(1980). “If, for example, the defendant is apprehended be-
+fore he reaches his robbery victim and thus before he has
+actually engaged in threatening conduct, proof of his purpose
+to engage in such conduct” can “justify a conviction of at-
+tempted robbery” so long as his intention and some other
+substantial step are present. Id., at 115.
+A hypothetical helps illustrate the point. Suppose Adam
+tells a friend that he is planning to rob a particular store
+on a particular date. He then sets about researching the
+business's security measures, layout, and the time of day
+when its cash registers are at their fullest. He buys a ski
+mask, plots his escape route, and recruits his brother to drive
+the getaway car. Finally, he drafts a note—“Your money or
+your life”—that he plans to pass to the cashier. The note is
+a bluff, but Adam hopes its implication that he is armed and
+dangerous will elicit a compliant response. When the day
+finally comes and Adam crosses the threshold into the store,
+the police immediately arrest him. It turns out Adam's
+friend tipped them off.
+There is little question the government could win a lawful
+conviction against Adam for attempted Hobbs Act robbery.
+After all, he intended to take property against the cashier's
+will by threat of force, and his actions constituted a substan-
+tial step toward that goal. At the same time, this example
+helps show why attempted Hobbs Act robbery does not qual-
+ify as a crime of violence under the elements clause. Adam
+did not “use” physical force. He did not “attempt” to use
+such force—his note was a bluff and never delivered. And
+he never even got to the point of threatening the use of force
+against anyone or anything. He may have intended and at-
+tempted to do just that, but he failed. Simply put, no ele-
+ment of attempted Hobbs Act robbery requires proof that
+the defendant used, attempted to use, or threatened to use
+force.
+The upshot of all this for our case is clear. Mr. Taylor
+may be lawfully subject to up to 20 years in federal prison
+for his Hobbs Act conviction. But as the Fourth Circuit rec-
+ognized, Congress has not authorized courts to convict and
+sentence him to a decade of further imprisonment under
+§ 924(c)(3)(A).1
+1 Justice Thomas concedes that the foregoing analysis is correct under
+our categorical approach precedents. See post, at 863 (dissenting opin-
+ion). He contends only that we should overrule 30 years' worth of
+our categorical approach precedents in order to relieve the “ `bind' ” they
+III
+A
+Resisting this conclusion, the government offers three
+principal replies. We take up first the argument the gov-
+ernment presented before the Fourth Circuit and on which
+it prevailed in other circuits. See, e. g., United States v.
+St. Hubert, 909 F. 3d 335, 352–353 (CA11 2018). This theory
+proceeds in the form of a syllogism. The government sub-
+mits that the elements clause encompasses not only any of-
+fense that qualifies as a “crime of violence” but also any
+attempt to commit such a crime. And, the government
+reasons, because completed Hobbs Act robbery qualifies as a
+crime of violence, it follows that attempted Hobbs Act rob-
+bery does too.
+While the government pressed this argument in the courts
+of appeals, it affords it only a passing nod here. And the
+reason why quickly becomes clear: The government's syllo-
+gism rests on a false premise. The elements clause does not
+ask whether the defendant committed a crime of violence or
+attempted to commit one. It asks whether the defendant
+did commit a crime of violence—and it proceeds to define a
+crime of violence as a felony that includes as an element the
+use, attempted use, or threatened use of force. If Congress
+had wanted the elements clause to do the kind of work the
+government supposes, it could have easily said so. For ex-
+ample, it might have swept in those federal crimes that re-
+quire as an element “the use or threatened use of force” and
+those “that constitute an attempt to commit an offense that
+has such an element.” But that simply is not the law we
+have.
+place on prosecutors. Post, at 867, 870. But not even the prosecutors
+for whom Justice Thomas professes concern seek anything like that.
+Nor does he articulate any plausible way to understand the terms of the
+elements clause without reference to the categorical approach. See post,
+at 873 (merely “welcom[ing] briefing” on the topic).
+B
+Recognizing the weakness of the argument it pressed
+below, the government spends much of its time before us
+elaborating two new theories. In the first, the government
+asks us to focus on the “substantial step” element of at-
+tempted Hobbs Act robbery. That element, the government
+submits, categorically requires it to prove that a defend-
+ant used, attempted to use, or threatened to use physical
+force.
+This theory fails too, and for reasons we have already seen.
+Without question, many who commit the crime of attempted
+Hobbs Act robbery do use, attempt to use, or threaten to use
+force. Suppose, for example, that the police had arrested
+Adam after he handed over his threatening note to the cash-
+ier but before he received any money. In a case like that,
+the defendant would have threatened the use of force while
+committing an attempted Hobbs Act robbery. But some
+cases are not all cases, and the government's problem is that
+no element of attempted Hobbs Act robbery requires the
+government to prove beyond a reasonable doubt that the de-
+fendant used, attempted to use, or even threatened to use
+force. Individuals like our foiled robber who are arrested
+before they can threaten anyone may be convicted too. See
+supra, at 851–852; cf. Model Penal Code, at 114–115.
+Seeking a way around this problem, the government re-
+sponds that we (and presumably the drafters of the Model
+Penal Code) misconstrue what qualifies as the “threatened
+use” of force. On its view, anyone who takes a substantial
+step toward completing Hobbs Act robbery (say, by buying
+a weapon, plotting his heist and getaway, writing an extor-
+tive note before he leaves home, and entering a store) objec-
+tively poses a “threatened use” of force even if he never
+communicates his threat to anyone.
+This reply bears its own problems. To start, in the crimi-
+nal law the word “threat” and its cognates usually denote
+“[a] communicated intent to inflict physical or other harm
+on any person or on property.” 2 Of course, threats can be
+communicated verbally or nonverbally—pointing a gun at a
+cashier conveys a threat no less effectively than passing a
+note reading “your money or your life.” But one way or
+another, some form of communication is usually required.
+Even the government concedes that the words “threatened
+force” in the Hobbs Act require proof that the defendant
+communicated a threat to a second person, whether or
+not that individual is the target of the threat. See Reply
+Brief 15.
+That leaves the government to suggest that § 924(c)(3)(A)
+differs from the Hobbs Act and represents an exception to
+the usual rule. Seeking to make that case, the government
+observes that, in some contexts, the word “threat” can be
+used to speak of a more objective or abstract risk. So, for
+example, a critic might say that a prison board's decision to
+parole a particular felon “threatens” community safety. Or
+a conservationist might argue that a government decision
+allowing commercial activity near a national park “threat-
+ens” wildlife habitat. Before us, the government submits
+that the elements clause uses the term in a similar way, re-
+quiring only an objective, if uncommunicated, threat to com-
+munity peace and order. And, the government argues, any-
+one who takes a substantial step toward completing a Hobbs
+Act robbery always or categorically poses such a threat.
+The trouble is, when Congress uses the word “threat” in
+this abstract and predictive (rather than communicative)
+2 Black's Law Dictionary 1327 (5th ed. 1979) (defining “threat”); Stroud's
+Judicial Dictionary 2633 (5th ed. 1986) (defining “threat” and “threaten”);
+see also, e. g., 17 Oxford English Dictionary 998 (2d ed. 1989) (threaten:
+“To try to influence (a person) by menaces; to utter or hold out a threat
+against; to declare (usually conditionally) one's intention of inflicting injury
+upon”); Webster's Third New International Dictionary 2382 (1986)
+(threaten: “to utter threats against”; to “promise punishment, reprisal, or
+other distress to”); American Heritage Dictionary 1265 (2d ed. 1985)
+(threat: “An expression of an intention to inflict pain, injury, evil, or pun-
+ishment”); ibid. (threaten: “[t]o express a threat against”).
+sense, it usually makes its point plain. It may ask, for exam-
+ple, whether an individual or circumstance “poses” or “repre-
+sents” a threat. See, e. g., 6 U. S. C. § 1170(a)(1) (discussing
+“individuals who may pose a threat to transportation secu-
+rity”); 8 U. S. C. § 1735(a) (immigration officials must deter-
+mine that an “alien does not pose a threat to the safety or
+national security of the United States”). Here we have
+nothing like that. In fact, what textual clues we do have
+point in the opposite direction.
+Take this one. The statute speaks of the “use” or “at-
+tempted use” of “physical force against the person or prop-
+erty of another.” Plainly, this language requires the gov-
+ernment to prove that the defendant took specific actions
+against specific persons or their property. Reading the stat-
+ute's remaining reference to the “threatened use of physical
+force against the person or property of another” as requiring
+a communicated threat fts with this design. By contrast,
+the government's competing interpretation would vastly ex-
+pand the statute's reach by sweeping in conduct that poses
+an abstract risk to community peace and order, whether
+known or unknown to anyone at the time. It's a reading
+that would defy our usual rule of statutory interpretation
+that a law's terms are best understood by “the company
+[they] kee[p].” Gustafson v. Alloyd Co., 513 U. S. 561, 575
+(1995).
+Beyond that clue lies another. Next door to the elements
+clause Congress included the residual clause. Under its
+terms, “crimes of violence” were defined to embrace offenses
+that, “by [their] nature, involv[e] a substantial risk that phys-
+ical force . . . may be used” against a person or property.
+§ 924(c)(3)(B). Pretty plainly, that language called for an ab-
+stract inquiry into whether a particular crime, by its nature,
+poses or presents a substantial risk (or “threat”) of force
+being used. See Davis, 588 U. S., at ––– – –––. Of course,
+this Court eventually held the residual clause to be unconsti-
+tutionally vague. Id., at –––. But if the government's view
+of the elements clause caught on, it would only wind up effec-
+tively replicating the work formerly performed by the resid-
+ual clause, collapsing the distinction between them, and per-
+haps inviting similar constitutional questions along the way.
+It's an outcome that would (again) defy our usual rules of
+statutory interpretation—this time because we do not lightly
+assume Congress adopts two separate clauses in the same
+law to perform the same work. See, e. g., Mackey v. Lanier
+Collection Agency & Service, Inc., 486 U. S. 825, 839, n. 14
+(1988).
+C
+Heaping alternative upon alternative, the government's
+final theory accepts that a conviction under the elements
+clause requires a communicated threat of force. But, the ar-
+gument goes, most attempted Hobbs Act robbery prosecu-
+tions involve exactly that. Indeed, the government faults
+Mr. Taylor for failing to identify a single case in which it
+has prosecuted someone for attempted Hobbs Act robbery
+without proving a communicated threat.
+But what does that prove? Put aside the fact that
+Mr. Taylor has identified cases in which the government has
+apparently convicted individuals for attempted Hobbs Act
+robbery without proving a communicated threat. See, e. g.,
+United States v. Williams, 531 Fed. Appx. 270, 271–272 (CA3
+2013). Put aside the oddity of placing a burden on the de-
+fendant to present empirical evidence about the govern-
+ment's own prosecutorial habits. Put aside, too, the practi-
+cal challenges such a burden would present in a world where
+most cases end in plea agreements, and not all of those cases
+make their way into easily accessible commercial databases.
+See J. Turner, Transparency in Plea Bargaining, 96 Notre
+Dame L. Rev. 973, 974, 978–981 (2021).
+An even more fundamental and by now familiar problem
+lurks here. The government's theory cannot be squared
+with the statute's terms. To determine whether a federal
+felony qualifies as a crime of violence, § 924(c)(3)(A) doesn't
+ask whether the crime is sometimes or even usually associ-
+ated with communicated threats of force (or, for that matter,
+with the actual or attempted use of force). It asks whether
+the government must prove, as an element of its case, the
+use, attempted use, or threatened use of force.
+Maybe that is the test the statute presupposes, the gov-
+ernment answers, but this Court's case law requires its pro-
+posed empirical study all the same. Notice, though, the
+move implicit here. After previously admitting that we
+must employ a categorical approach when interpreting the
+reach of § 924(c)(3)(A), the government effectively back-
+tracks. Instead of looking to the elements of attempted
+Hobbs Act robbery, the government now says that a defend-
+ant must present evidence about how his crime of conviction
+is normally committed or usually prosecuted. If this admit-
+tedly atextual theory seems doubtful on its face, a close look
+at the case the government invokes does not improve the
+picture.
+The government points to Gonzales v. Duenas-Alvarez,
+549 U. S. 183 (2007). There, this Court sought to apply pro-
+visions of the Immigration and Nationality Act. Id., at 185.
+Under the INA, an individual with a prior state-court convic-
+tion that meets certain “generic” offense definitions under
+federal law may face deportation. Id., at 186, 189; see also
+8 U. S. C. §§ 1101(a)(43)(G), 1227(a)(2)(A)(iii). In Duenas-
+Alvarez, there was no doubt that the relevant state offense
+overlapped significantly with the federal definition of generic
+“theft.” 549 U. S., at 190. But, Mr. Duenas-Alvarez ar-
+gued, state courts had interpreted the offense broadly to
+reach aiding and abetting conduct that fell “beyond generic
+theft.” Id., at 190–191. To test this assertion, the Court
+looked to state decisional law and asked whether a “realistic
+probability” existed that the State “would apply its statute
+to conduct that falls outside” the federal generic definition.
+Id., at 193.
+None of this begins to help the government for at least two
+reasons. First, the immigration statute at issue in Duenas-
+Alvarez required a federal court to make a judgment about
+the meaning of a state statute. Appreciating the respect
+due state courts as the final arbiters of state law in our fed-
+eral system, this Court reasoned that it made sense to con-
+sult how a state court would interpret its own State's laws.
+Cf. Estate of Thornton v. Caldor, Inc., 472 U. S. 703, 709, n. 8
+(1985). Meanwhile, no such federalism concern is in play
+here. The statute before us asks only whether the elements
+of one federal law align with those prescribed in another.
+Second, in Duenas-Alvarez the elements of the relevant
+state and federal offenses clearly overlapped and the only
+question the Court faced was whether state courts also “ap-
+pl[ied] the statute in [a] special (nongeneric) manner.” 549
+U. S., at 193. Here, we do not reach that question because
+there is no overlap to begin with. Attempted Hobbs Act
+robbery does not require proof of any of the elements
+§ 924(c)(3)(A) demands. That ends the inquiry, and nothing
+in Duenas-Alvarez suggests otherwise.3
+3 Justice Alito offers still another argument on the government's be-
+half. According to our colleague, the crime of completed Hobbs Act rob-
+bery requires the government to prove beyond a reasonable doubt, and a
+unanimous jury must agree on, the particular “means” by which the de-
+fendant committed his offense—by “actual” force, “threatened force,” “vio-
+lence,” or “fear of injury.” § 1951(b)(1); post, at 875–878 (dissenting opin-
+ion). And because attempts to commit robbery by some of these means
+could qualify as crimes of violence under § 924(c)(3)(A), Justice Alito
+would classify the entire offense of attempted Hobbs Act robbery a “crime
+of violence.” Post, at 878. But the parties have not whispered a word
+about any of this. Perhaps for good reason too. For one thing, it is un-
+clear whether the Act's “means” clause sets forth elements or merely lists
+alternative ways a defendant may take or obtain property against the
+victim's will. If the latter is true, as some courts have held, a jury need
+unanimously conclude only that the defendant used one of the listed means;
+it need not agree on which one. See, e. g., United States v. St. Hubert,
+909 F. 3d 335, 348–349 (CA11 2018); United States v. Hancock, 168 F. Supp.
+3d 817, 821 (D MD 2016). For another, even assuming the Act is divisible
+in the sense he suggests, Justice Alito acknowledges that his some-is-
+good-enough approach defies this Court's precedents. Post, at 878; Des-
+camps v. United States, 570 U. S. 254, 260–264 (2013).

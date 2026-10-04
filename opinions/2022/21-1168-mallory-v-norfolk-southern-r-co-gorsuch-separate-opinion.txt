@@ -1,0 +1,218 @@
+Mallory v. Norfolk Southern R. Co — No. 21-1168 — October Term 2022 — decided 6/27/23 — Opinion of Gorsuch, J.
+Citation: 600 U.S. 122
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r52_7l48.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+II
+The question before us is not a new one. In truth, it is a
+very old question—and one this Court resolved in Pennsyl-
+vania Fire Ins. Co. of Philadelphia v. Gold Issue Mining &
+Milling Co., 243 U. S. 93 (1917). There, the Court unani-
+mously held that laws like Pennsylvania's comport with the
+Due Process Clause. Some background helps explain why
+the Court reached the result it did.
+Both at the time of the founding and the Fourteenth
+Amendment's adoption, the Anglo-American legal tradition
+recognized that a tribunal's competence was generally con-
+strained only by the “territorial limits” of the sovereign that
+created it. J. Story, Commentaries on the Conflict of Laws
+§ 539, pp. 450–451 (1834) (Story); see also United States v.
+Union Pacific R. Co., 98 U. S. 569, 602–603 (1879). That
+principle applied to all kinds of actions, but cashed out differ-
+ently based on the object of the court's attention. So, for
+example, an action in rem that claimed an interest in immov-
+able property was usually treated as a “ local” action that
+could be brought only in the jurisdiction where the property
+was located. 3 W. Blackstone, Commentaries on the Laws
+of England 117–118, 294 (1768). Meanwhile, an in personam
+suit against an individual “for injuries that might have hap-
+pened any where” was generally considered a “ transitory”
+action that followed the individual. Id., at 294. All of
+which meant that a suit could be maintained by anyone on
+any claim in any place the defendant could be found. Story
+§ 538, at 450.
+American courts routinely followed these rules. Chief
+Justice Marshall, for one, was careful to distinguish between
+local and transitory actions in a case brought by a Virginia
+plaintiff against a Kentucky defendant based on a fraud per-
+petrated in Ohio. Massie v. Watts, 6 Cranch 148, 162–163
+A. 3d, at 559–560, nn. 9, 11. Nor did we grant review to consider that
+question. Accordingly, any argument along those lines remains for con-
+sideration on remand.
+(1810). Because the action was a transitory one that fol-
+lowed the individual, he held, the suit could be maintained
+“wherever the [defendant] may be found.” Id., at 158, 161–
+163; see also, e. g., Livingston v. Jefferson, 15 F. Cas. 660,
+663–664 (No. 8,411) (CC Va. 1811) (opinion of Marshall, C. J.);
+Peabody v. Hamilton, 106 Mass. 217, 220–221 (1870); Bissell
+v. Briggs, 9 Mass. 462, 468–470 (1813).
+This rule governing transitory actions still applies to natu-
+ral persons today. Some call it “tag” jurisdiction. And our
+leading case applying the rule is not so old. See Burnham
+v. Superior Court of Cal., County of Marin, 495 U. S. 604
+(1990). The case began with Dennis Burnham's business
+trip to California. Id., at 608 (plurality opinion). During
+his short visit, Mr. Burnham's estranged wife served him
+with a summons to appear in California state court for di-
+vorce proceedings. Ibid. This Court unanimously ap-
+proved the state court's exercise of personal jurisdiction over
+Mr. Burnham as consistent with the Due Process Clause—
+and did so even though the Burnhams had spent nearly all
+their married life in New Jersey and Mr. Burnham still re-
+sided there. See id., at 607–608, 616–619; id., at 628 (White,
+J., concurring in part and concurring in judgment); id., at
+635–639 (Brennan, J., concurring in judgment); id., at 640
+(Stevens, J., concurring in judgment).
+As the use of the corporate form proliferated in the 19th
+century, the question arose how to adapt the traditional rule
+about transitory actions for individuals to artificial persons
+created by law. Unsurprisingly, corporations did not relish
+the prospect of being haled into court for any claim any-
+where they conducted business. “No one, after all, has
+ever liked greeting the process server.” Ford Motor Co. v.
+Montana Eighth Judicial Dist. Court, 592 U. S. –––, –––
+(2021) (Gorsuch, J., concurring in judgment). Corporations
+chartered in one State sought the right to send their sales
+agents and products freely into other States. At the same
+time, when confronted with lawsuits in those other States,
+some frms sought to hide behind their foreign character
+and deny their presence to defeat the court's jurisdiction.
+Ibid.; see Brief for Petitioner 13–15; see also R. Jackson,
+What Price “Due Process”?, 5 N. Y . L. Rev. 435, 438 (1927)
+(describing this as the asserted right to “both be and not
+be”).
+Lawmakers across the country soon responded to these
+stratagems. Relevant here, both before and after the Four-
+teenth Amendment's ratification, they adopted statutes re-
+quiring out-of-state corporations to consent to in-state suits
+in exchange for the rights to exploit the local market and to
+receive the full range of benefits enjoyed by in-state corpora-
+tions. These statutes varied. In some States, out-of-state
+corporate defendants were required to agree to answer suits
+brought by in-state plaintiffs. See, e. g., N. Y . Code Proc.
+§ 427 (1849); 1866 Wis. Laws ch. 1, § 86.1; Md. Ann. Code, Art.
+26, § 211 (1868); N. C. Gen. Stat., ch. 17, § 82 (1873). In other
+States, corporations were required to consent to suit if the
+plaintiff's cause of action arose within the State, even if
+the plaintiff happened to reside elsewhere. See, e. g., Iowa
+Code, ch. 101, § 1705 (1851); 1874 Tex. Gen. Laws p. 107; 1881
+Mich. Pub. Acts p. 348. Still other States (and the federal
+government) omitted both of these limitations. They re-
+quired all out-of-state corporations that registered to do
+business in the forum to agree to defend themselves there
+against any manner of suit. See, e. g., Act of Feb. 22, 1867,
+14 Stat. 404; 1889 Nev. Stats. p. 47; S. C. Rev. Stat., Tit. 7,
+ch. 45, § 1466 (1894); Conn. Gen. Stat. § 3931 (1895). Yet an-
+other group of States applied this all-purpose-jurisdiction
+rule to a subset of corporate defendants, like railroads and in-
+surance companies. See, e. g., 1827 Va. Acts ch. 74, p. 77; 1841
+Pa. Laws p. 29; 1854 Ohio Laws p. 91; Ill. Comp. Stat., ch. 112,
+§ 68 (1855); Ark. Stat., ch. 76, § 3561 (1873); Mo. Rev. Stat.,
+ch. 119, Art. 4, § 6013 (1879). Mr. Mallory has collected an
+array of these statutes, enacted between 1835 and 1915, in
+his statutory appendix. See App. to Brief for Petitioner
+1a–274a.4
+III
+A
+Unsurprisingly, some corporations challenged statutes
+like these on various grounds, due process included. And,
+ultimately, one of these disputes reached this Court in Penn-
+sylvania Fire .
+That case arose this way. Pennsylvania Fire was an in-
+surance company incorporated under the laws of Pennsylva-
+nia. In 1909, the company executed a contract in Colorado
+to insure a smelter located near the town of Cripple Creek
+owned by the Gold Issue Mining & Milling Company, an Ari-
+zona corporation. Gold Issue Min. & Milling Co. v. Penn-
+4 Norfolk Southern and the dissent observe that some state courts ap-
+plied these laws narrowly. Brief for Respondent 43–44; post, at 173–175,
+and n. 4 (Barrett, J., dissenting). But, as we will see in a moment, oth-
+ers did not. Part III, infra. Even state courts that adopted narrowing
+constructions of their laws did so by invoking statutory interpretation
+principles and discretionary doctrines. Notably, neither Norfolk South-
+ern nor the dissent has identified a single case (or any other source) from
+this period holding that all-purpose jurisdiction premised on a consent
+statute violates the Due Process Clause. Indeed, some of the decisions
+they cite presumed just the opposite. See, e. g., Camden Rolling Mill Co.
+v. Swede Iron Co., 32 N. J. L. 15, 17–18 (1866) (a law like Pennsylvania's
+“could be judicially adopted” consistent with due process if clearly ex-
+pressed); Sawyer v. North Am. Life Ins. Co., 46 Vt. 697, 706–707 (1874)
+(similar). Nothing in this body of case law, then, comes close to satisfying
+Norfolk Southern's burden of establishing that consent statutes like Penn-
+sylvania's “ `offen[d] some principle of justice so rooted in the traditions
+and conscience of our people as to be ranked' ” among those secured by
+the Due Process Clause. Medina v. California, 505 U. S. 437, 445–448
+(1992). In saying this much, we hardly suggest, as the dissent supposes,
+that the practice of States or their courts is irrelevant. Post, at 173, n. 3.
+Our point is simply that Norfolk Southern has not met its burden of show-
+ing that original and historic understandings of due process foreclose con-
+sent statutes.
+sylvania Fire Ins. Co. of Phila., 267 Mo. 524, 537, 184 S. W.
+999, 1001 (1916). Less than a year later, lightning struck
+and a fre destroyed the insured facility. Ibid. When Gold
+Issue Mining sought to collect on its policy, Pennsylvania
+Fire refused to pay. So, Gold Issue Mining sued. But it
+did not sue where the contract was formed (Colorado), or in
+its home State (Arizona), or even in the insurer's home State
+(Pennsylvania). Instead, Gold Issue Mining brought its
+claim in a Missouri state court. Id., at 534, 184 S. W., at
+1000. Pennsylvania Fire objected to this choice of forum.
+It said the Due Process Clause spared it from having to an-
+swer in Missouri's courts a suit with no connection to the
+State. Id., at 541, 184 S. W., at 1002.
+The Missouri Supreme Court disagreed. It first observed
+that Missouri law required any out-of-state insurance com-
+pany “desiring to transact any business” in the State to fle
+paperwork agreeing to (1) appoint a state official to serve as
+the company's agent for service of process, and (2) accept
+service on that official as valid in any suit. Id., at 543, 184
+S. W., at 1003 (internal quotation marks omitted). For more
+than a decade, Pennsylvania Fire had complied with the law,
+as it had “desir[ed] to transact business” in Missouri “pursu-
+ant to the laws thereof.” Id., at 545, 184 S. W., at 1003.
+And Gold Issue Mining had served process on the appro-
+priate state official, just as the law required. See id., at 535,
+184 S. W., at 1000.
+As to the law's constitutionality, the Missouri Supreme
+Court carefully reviewed this Court's precedents and found
+they “clearly” supported “sustain[ing] the proceeding.” Id.,
+at 569, 576, 184 S. W., at 1010, 1013; see id., at 552–576, 601,
+184 S. W., at 1005–1013, 1020–1021. The Missouri Supreme
+Court explained that its decision was also supported by “the
+origin, growth, and history of transitory actions in England,
+and their importation, adoption, and expansion” in America.
+Id., at 578–586, 184 S. W., at 1013–1016. It stressed, too,
+that the law had long permitted suits against individuals in
+any jurisdiction where they could be found, no matter where
+the underlying cause of action happened to arise. What
+sense would it make to treat a fictitious corporate person
+differently? See id., at 588–592, 600, 184 S. W., at 1016–
+1018, 1020. For all these reasons, the court concluded,
+Pennsylvania Fire “ha[d] due process of law, regardless of
+the place, state or nation where the cause of action arose.”
+Id., at 576, 184 S. W., at 1013.
+Dissatisfed with this answer, Pennsylvania Fire turned
+here. Writing for a unanimous Court, Justice Holmes had
+little trouble dispatching the company's due process argu-
+ment. Under this Court's precedents, there was “no doubt”
+Pennsylvania Fire could be sued in Missouri by an out-
+of-state plaintiff on an out-of-state contract because it had
+agreed to accept service of process in Missouri on any suit
+as a condition of doing business there. Pennsylvania Fire ,
+243 U. S., at 95. Indeed, the Court thought the matter so
+settled by existing law that the case “hardly” presented an
+“open” question. Ibid. The Court acknowledged that the
+outcome might have been different if the corporation had
+never appointed an agent for service of process in Missouri,
+given this Court's earlier decision in Old Wayne Mut. Life
+Assn. of Indianapolis v. McDonough, 204 U. S. 8 (1907).
+But the Court thought that Old Wayne had “left untouched”
+the principle that due process allows a corporation to be sued
+on any claim in a State where it has appointed an agent to
+receive whatever suits may come. 243 U. S., at 95–96. The
+Court found it unnecessary to say more because the com-
+pany's objections had been resolved “at length in the judg-
+ment of the court below.” Id., at 95.
+That assessment was understandable. Not only had the
+Missouri Supreme Court issued a thoughtful opinion. Not
+only did a similar rule apply to transitory actions against
+individuals. Other leading judges, including Learned Hand

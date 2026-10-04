@@ -1,0 +1,543 @@
+Niz-Chavez v. Garland — No. 19-863 — October Term 2020 — decided 4/29/21 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 593 U.S. 155
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r32_21o3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+over the course of weeks, months, maybe years, each containing a new
+morsel of vital information. Congress could reasonably have wished to
+foreclose that possibility. And ultimately, pleas of administrative incon-
+venience never “justify departing from the statute's clear text.” Per-
+eira, 585 U. S., at –––. The modest threshold Congress provided to in-
+voke the stop-time rule is clear from the text and must be complied with
+here. Pp. 169–172.
+789 Fed. Appx. 523, reversed.
+Gorsuch, J., delivered the opinion of the Court, in which Thomas,
+Breyer, Sotomayor, Kagan, and Barrett, JJ., joined. Kavanaugh,
+J., fled a dissenting opinion, in which Roberts, C. J., and Alito , J., joined,
+post, p. 172.
+David J. Zimmer argued the cause for petitioner. With him
+on the briefs were Gerard J. Cedrone and Benjamin Hayes.
+Anthony A. Yang argued the cause for respondent. With
+him on the brief were Acting Solicitor General Wall, Acting
+Assistant Attorney General Clark, Deputy Solicitor Gen-
+eral Kneedler, Donald E. Keener, John W. Blakeley, and
+Patrick J. Glen.*
+Justice Gorsuch delivered the opinion of the Court.
+Anyone who has applied for a passport, fled for Social Se-
+curity benefits, or sought a license understands the govern-
+ment's affinity for forms. Make a mistake or skip a page?
+Go back and try again, sometimes with a penalty for the
+trouble. But it turns out the federal government finds some
+of its forms frustrating too. The Illegal Immigration Re-
+form and Immigrant Responsibility Act of 1996 (IIRIRA),
+110 Stat. 3009–546, requires the government to serve “a no-
+*Briefs of amici curiae urging reversal were fled for the American
+Immigration Lawyers Association et al. by Holly L. Henderson-Fisher
+and David W. Foster; for the National Immigrant Justice Center by Zach-
+ary C. Schauf and Charles Roth; and for Thirty-three Former Immigration
+Judges et al. by Richard W. Mark and Amer S. Ahmed.
+Christopher J. Hajec fled a brief for the Immigration Reform Law Insti-
+tute as amicus curiae urging affirmance.
+tice to appear” on individuals it wishes to remove from this
+country. At first blush, a notice to appear might seem to be
+just that—a single document containing all the information
+an individual needs to know about his removal hearing.
+But, the government says, supplying so much information in
+a single form is too taxing. It needs more flexibility, allow-
+ing its officials to provide information in separate mailings
+(as many as they wish) over time (as long as they find con-
+venient). The question for us is whether the law Congress
+adopted tolerates the government's preferred practice.
+I
+For more than a century, Congress has afforded the Attor-
+ney General (or other executive officials) discretion to allow
+otherwise removable aliens to remain in the country. An
+alien seeking to establish his eligibility for that kind of dis-
+cretionary relief, however, must demonstrate a number of
+things. A nonpermanent resident, for example, must show
+that his removal would cause an “exceptional and extremely
+unusual hardship” to close relatives who are U. S. citizens or
+lawful permanent residents; that he is of good moral charac-
+ter; that he has not been convicted of certain crimes; and
+that he has been continuously present in the country for at
+least 10 years. 8 U. S. C. § 1229b(b)(1).
+The last item on this list lies at the crux of this case.
+Originally, an alien continued to accrue time toward the
+presence requirement during the pendency of his removal
+proceedings. With time, though, some came to question this
+practice, arguing that it gave immigrants an undue incentive
+to delay things. See, e.g., In re Cisneros-Gonzales, 23 I. &
+N. Dec. 668, 670–671 (BIA 2004). In IIRIRA, Congress
+responded to these concerns with a new “stop-time” rule.
+Under the statute's terms, “any period of continuous . . .
+presence in the United States shall be deemed to end . . .
+when the alien is served a notice to appear.” § 1229b(d)(1).
+All of which invites the question: What qualifies as a notice
+to appear sufficient to trigger the stop-time rule? IIRIRA
+defines a notice to appear as “written notice . . . specifying”
+several things. § 1229(a)(1). These include the nature of
+the proceedings against the alien, the legal authority for the
+proceedings, the charges against the alien, the fact that the
+alien may be represented by counsel, the time and place at
+which the proceedings will be held, and the consequences of
+failing to appear. See ibid.
+This seemingly simple rule has generated outsized contro-
+versy. Initially, the dispute focused on the government's
+practice of issuing documents labeled notices to appear that
+failed to include the time and place for the alien's removal
+hearing. The government argued these documents were
+sufficient to trigger the stop-time rule. It insisted that pro-
+ceeding this way served an important governmental interest
+too: If it waited to issue notices until the calendars of its
+hearing officers became clear, aliens would accrue too much
+time toward the presence requirement. Ultimately, how-
+ever, this Court rejected the government's practice in Per-
+eira v. Sessions, 585 U. S. ––– (2018). We explained that,
+in IIRIRA, Congress took pains to describe exactly what
+the government had to include in a notice to appear, and that
+the time and place of the hearing were among them. Id.,
+at –––. The government was not free to short-circuit the
+stop-time rule by sending notices to appear that omitted
+statutorily required information. Id., at –––.
+Today's case represents the next chapter in the same story.
+Perhaps the government could have responded to Pereira by
+issuing notices to appear with all the information § 1229(a)(1)
+requires—and then amending the time or place information
+if circumstances required it. After all, in the very next stat-
+utory subsection, § 1229(a)(2), Congress expressly contem-
+plated that possibility. But, at least in cases like ours, it
+seems the government has chosen instead to continue
+down the same old path. Here, the government sent
+Mr. Niz-Chavez one document containing the charges against
+him. Then, two months later, it sent a second document
+with the time and place of his hearing. In light of Pereira,
+the government now concedes the first document isn't
+enough to trigger the stop-time rule. Still, the government
+submits, the second document does the trick. On its view,
+a “notice to appear” is complete and the stop-time rule kicks
+in whenever it fnishes delivering all the statutorily pre-
+scribed information. The government says it needs this
+kind of flexibility to send information piecemeal. It even
+suggests it should be allowed to spread the statutorily man-
+dated information over as many documents and as much time
+as it wishes.
+Some circuits have accepted the government's notice-by-
+installment theory. Others, however, have held that the
+government must issue a single and comprehensive notice
+before it can trigger the stop-time rule. We agreed to hear
+this case, Niz-Chavez v. Barr, 789 Fed. Appx. 523 (CA6
+2019), to resolve the conflict, 590 U. S. ––– (2020).
+II
+When called on to resolve a dispute over a statute's mean-
+ing, this Court normally seeks to afford the law's terms
+their ordinary meaning at the time Congress adopted them.
+See, e. g., Wisconsin Central Ltd. v. United States, 585 U. S.
+–––, ––– (2018). The people who come before us are entitled,
+as well, to have independent judges exhaust “all the textual
+and structural clues” bearing on that meaning. Id., at –––.
+When exhausting those clues enables us to resolve the inter-
+pretive question put to us, our “sole function” is to apply the
+law as we find it, Lamie v. United States Trustee , 540 U. S.
+526, 534 (2004) (internal quotation marks omitted), not defer
+to some conflicting reading the government might advance.
+A
+In this case, our interpretive task begins with two stat-
+utory provisions we have already touched on. The first,
+§ 1229b(d)(1), states that the stop-time rule is triggered
+“when the alien is served a notice to appear under section
+1229(a).” In turn, § 1229(a)(1) explains that “written notice
+(in this section referred to as a `notice to appear') shall be
+given . . . to the alien . . . specifying” the time and place of
+his hearing and all the other items we noted above. Almost
+immediately, these provisions pose the government with a
+problem. To trigger the stop-time rule, the government
+must serve “a” notice containing all the information Con-
+gress has specified. To an ordinary reader—both in 1996
+and today—“a” notice would seem to suggest just that: “a”
+single document containing the required information, not a
+mishmash of pieces with some assembly required.
+Nor is the government's response (echoed by the dis-
+sent) entirely satisfying. The government submits that
+§ 1229(a)(1) defines the term “notice to appear” as “written
+notice”—and then says it's obvious “written notice” can come
+by means of one document or many. See post, at 178
+(opinion of Kavanaugh, J.). But this argument doesn't
+quite track. Section 1229(a)(1) says that “written notice” is
+“referred to as a `notice to appear.' ” The singular article
+“a” thus falls outside the defined term (“notice to appear”)
+and modifes the entire definition. So even if we were to do
+exactly as the government suggests and substitute “written
+notice” for “notice to appear,” the law would still stubbornly
+require “a” written notice containing all the required
+information.
+Admittedly, a lot here turns on a small word. In the view
+of some, too much. The dissent urges us to overlook the
+fact Congress placed the singular article “a” outside the de-
+fined term in § 1229(a)(1). On its view, we should read the
+statute as if the article came inside the defined term. Post,
+at 178–179. But that's not how the law is written, and the
+dissent never explains what authority might allow us to un-
+dertake the statutory rearranging it advocates. 1 Nor does
+1 The closest the dissent comes is when it alludes to United States Nat.
+Bank of Ore. v. Independent Ins. Agents of America, Inc., 508 U. S. 439
+(1993). But that “unusual” case turned on the “scrivener's error” doc-
+any of this help when it comes to § 1229b(d)(1), the provision
+that actually creates the stop-time rule, for that statute sep-
+arately speaks of “a” notice to appear. Not once but twice
+it seems Congress contemplated “a” single document.
+Perhaps recognizing this much, the government and dis-
+sent pivot and focus their efforts in a different direction.
+Now, they remind us that “[t]he indefinite article `a' is often
+used to refer to something that may be provided in more
+than one installment.” Brief in Opposition 10; see also post,
+at 181–182. The government observes, for example, that a
+writer can publish “a” story serially, or an author may de-
+liver “a” manuscript chapter by chapter. Brief in Opposi-
+tion 10. The dissent offers its own illustrations, highlight-
+ing that “a job application” and “a contract” also can be
+prepared in parts. Post, at 181. So even if IIRIRA speaks
+repeatedly of “a” notice to appear, the government and dis-
+sent contend, it remains possible that Congress meant to
+allow that notice to come over time and in pieces.
+The trouble with this response is that everyone admits lan-
+guage doesn't always work this way. To build on an illustra-
+tion we used in Pereira, someone who agrees to buy “a car”
+would hardly expect to receive the chassis today, wheels next
+week, and an engine to follow. 585 U. S., at –––; see post,
+at 181. At best, then, all of the competing examples the
+government and dissent supply do no more than demonstrate
+context matters. And here at least, it turns out that context
+does little to alter first impressions.
+Start with customary usage. Normally, indefinite articles
+(like “a” or “an”) precede countable nouns. The examples
+above illustrate the point: While you might say “she wrote a
+manuscript” or “he sent three job applications,” no one
+trine, id., at 462, which applies only in exceptional circumstances to obvi-
+ous technical drafting errors. See, e. g., Lamie v. United States Trustee ,
+540 U. S. 526, 538 (2004); A. Scalia & B. Garner, Reading Law 237–238
+(2012). Nobody (the dissent included) contends the conditions required
+for that doctrine's application exist here.
+would say “she wrote manuscript” or “he sent job applica-
+tion.” See The Chicago Manual of Style § 5.7, p. 227 (17th
+ed. 2017); see also R. Huddleston & G. Pullum, The Cam-
+bridge Grammar of the English Language § 3.1, p. 334 (2002).
+By contrast, noncountable nouns—including abstractions
+like “cowardice” or “fun”—“almost never take indefinite arti-
+cles.” The Chicago Manual of Style § 5.7, at 227; see also
+Huddleston, supra, § 3.1, at 334. After all, few would speak
+of “a cowardice” or “three funs.”
+These customs matter because the key term before us (no-
+tice) can refer to either a countable object (“a notice,” “three
+notices”) or a noncountable abstraction (“sufficient notice,”
+“proper notice”). Congress's decision to use the indefinite
+article “a” thus supplies some evidence that it used the term
+in the first of these senses—as a discrete, countable thing.
+All of which suggests that the government must issue a sin-
+gle statutorily compliant document to trigger the stop-time
+rule. If IIRIRA had meant to endow the government with
+the flexibility it supposes, we would have expected the law
+to use “notice” in its noncountable sense. A statute like that
+would have said the stop-time rule applies after the govern-
+ment provides “notice” (or perhaps “sufficient notice”) of
+the mandated information—indicating an indifference about
+whether notice should come all at once or by installment.
+Of course this is just a clue. Sometimes Congress's stat-
+utes stray a good way from ordinary English. Sometimes,
+too, Congress chooses to endow seemingly familiar words
+with specialized definitions. But until and unless someone
+points to evidence suggesting otherwise, affected individuals
+and courts alike are entitled to assume statutory terms bear
+their ordinary meaning. And when it comes to discerning
+the ordinary meaning of words, there are perhaps few better
+places to start than the rules governing their usage.
+Nor is this the only contextual clue before us. A notice
+to appear serves as the basis for commencing a grave legal
+proceeding. As the government has acknowledged, it is
+“like an indictment in a criminal case [or] a complaint in a
+civil case.” Tr. of Oral Arg. in Pereira v. Sessions, O. T.
+2017, No. 17–459, p. 39. The rules Congress has adopted to
+describe those other case-initiating pleadings often use the
+indefinite article to refer to a single document—an indict-
+ment, an information, or a civil complaint. See, e.g., Fed.
+Rules Crim. Proc. 7(a), (c)(1), (e); Fed. Rule Civ. Proc. 3. In
+each case, the aim is to supply an affected party with a single
+document highlighting certain salient features of the pro-
+ceedings against him. No one contends those documents
+may be shattered into bits, so that the government might,
+for example, charge a defendant in “an indictment” issued
+piece by piece over months or years. And it is unclear why
+we should suppose Congress meant for this case-initiating
+document to be different. 2
+The government resists this conclusion by invoking the
+Dictionary Act. When reading the U. S. Code, that Act tells
+us to assume “words importing the singular include and
+apply to several persons, parties, or things,” unless statutory
+context indicates otherwise. 1 U. S. C. § 1. But this in-
+struction has no application here. The Dictionary Act does
+not transform every use of the singular “a” into the plural
+“several.” Instead, it tells us only that a statute using the
+singular “a” can apply to multiple persons, parties, or things.
+So the Act allows the government to send multiple notices
+to appear to multiple people, but it does not mean a notice
+to appear can consist of multiple documents.
+2 The question is not, as the dissent seems to think, whether certain
+other charging documents do or do not require “calendaring” information.
+Post, at 182. Instead, our point is that each case-initiating document must
+contain the catalogue of information Congress has said the defendant or
+respondent is entitled to receive in that document—and no one thinks this
+information may be provided by installment. Nor does anyone dispute
+that Congress has said this case-initiating document must include (among
+other things) “[t]he time and place at which the proceedings will be held.”
+8 U. S. C. § 1229(a)(1)(G)(i).
+Think of the problem this way: Suppose a statute made it
+a crime to vandalize “a” bank. Under the Dictionary Act,
+someone who vandalizes fve banks could not avoid prosecu-
+tion on the ground that he vandalized more than one. Now
+take a hypothetical closer to this case—a person who vandal-
+izes some constituent part of a not-yet-completed bank (say,
+a stack of blocks on a construction site). Did he vandalize
+“a” bank? Answering that question depends on whether
+Congress defined “bank” to include its constituent parts, not
+on what the Dictionary Act says about the word “a.”
+B
+To the extent any doubt remains about the meaning of the
+two specific statutes before us, we believe a wider look at
+IIRIRA's statutory structure and history enough to re-
+solve it.
+Take 8 U. S. C. § 1229(e)(1). That nearby provision sets
+forth special rules the government must follow when it
+seizes an alien at a sensitive location like a domestic violence
+shelter. In circumstances like these, Congress has in -
+structed, “ the Notice to Appear shall include a statement
+that” the government has complied with certain special re-
+quirements. Ibid. (emphasis added). Here again we en-
+counter an article coupled with a singular noun (“the No-
+tice”), a combination that once more seems to suggest a
+discrete document. Nor would the rest of § 1229(e)(1)'s
+terms make much sense on the government's account. If a
+notice to appear were a collection of information rather than
+a single written instrument, Congress would have had no
+need to insist on “includ[ing]” a particular statement in “the
+Notice to Appear.” Ibid. More simply, it could have re-
+quired the government to provide the information, full stop.
+Once more, too, the government's response is less than sat-
+isfying. It suggests that the “Notice to Appear” discussed
+in § 1229(e)(1) isn't the same “notice to appear” described in
+§ 1229(a)(1). No, the government says, by using capital let-
+ters in § 1229(e)(1) Congress sought to prescribe only what
+must be included in a Department of Homeland Security
+form entitled “Notice to Appear.” But that much is hard
+to see. Section 1229(e)(1)'s discussion about what must be
+included in a notice to appear resides just a couple doors
+down from the provisions at issue before us, and it seems
+pretty clearly to modify those provisions in certain special
+circumstances. Meanwhile, the Department of Homeland
+Security form exists only by regulation and the department
+can change that regulation any time. Maybe, too, there is
+another explanation for the capital letters. Maybe they sim-
+ply reflect how clear it was by the time Congress added
+§ 1229(e)(1) in 2006—a decade after IIRIRA's adoption—that
+a notice to appear is a specific document in which the govern-
+ment can (and must) “include” the required certifcation. 3
+Next comes § 1229a(b)(7). It states that an alien who fails
+to appear for his removal proceedings is typically ineligible
+for relief if, “at the time of the notice described in paragraph
+(1) or (2) of section 1229(a),” the government supplies oral as
+well as written notice of the time and place of the removal
+proceedings and the consequences of failing to appear.
+§ 1229a(b)(7). Again, the law seems to speak of the charging
+document as a discrete thing, using a definite article with a
+singular noun (“the notice”). And by speaking of “the no-
+tice” being served at a particular “time” the statute seems
+to equate service with a discrete moment, not an ongoing
+endeavor. To be sure, one could reply (as the government
+and dissent do) that “the time of the notice” refers to the
+3 Even the dissent declines to endorse the government's interpretation
+of § 1229(e)(1). Instead, it merely repeats the anodyne point that singular
+articles are sometimes used “with a thing delivered in constituent install-
+ments.” Post, at 185. But that observation cuts little ice in this context
+for reasons we've already explored in Part II–A, supra. The dissent also
+fails to explain why Congress would have gone to the trouble of insisting
+in § 1229(e)(1) that “the Notice to Appear” contain additional information if
+it really meant only to require the government to provide that information
+whenever and however it pleases.
+moment when the final installment arrives. See post, at
+184–185. But if that's what Congress meant, this was surely
+an awkward way of saying so.
+Section 1229(a)(2) adds to the government's growing list
+of problems. That provision applies when officials wish to
+change the alien's hearing date. It requires the government
+to serve “a written notice” specifying “the new time or place
+of the proceedings” and the “consequences . . . of failing . . . to
+attend such proceedings.” § 1229(a)(2)(A) (emphasis added).
+The government does not argue this statute contemplates
+multiple documents. And if that's the case—if § 1229(a)(2)
+anticipates a single document—it's not exactly obvious
+why the phrase “a notice to appear” found next door in
+§ 1229(a)(1) should operate differently.4
+Finally, there is the statute's history and the government's
+initial response to it. Before IIRIRA, the government
+began removal proceedings by issuing an “order to show
+cause”—the predecessor of today's “notice to appear.” Back
+then, the law expressly authorized the government to specify
+the place and time for an alien's hearing “in the order to
+show cause or otherwise .” § 1252b(a)(2)(A) (1994 ed.) (em-
+phasis added). IIRIRA changed all that. It changed the
+name of the charging document—and it changed the rules
+governing the document's contents. Now time and place in-
+formation must be included in a notice to appear, not “or
+otherwise.” Nor was the alteration an insensible one. Re-
+call that IIRIRA also created the stop-time rule and pegged
+it to the service of a notice to appear. A rational Congress
+4 The dissent seeks to raise the cudgel on the government's behalf, ar-
+guing that § 1229(a)(2) does permit multiple documents. Post, at 185–186.
+But on the dissent's reading, the statute would authorize the government
+to (1) hand an alien one document with a new time for his hearing, (2)
+follow up at its leisure with a second document containing the new hearing
+date, and (3) add a third document later still explaining the consequences
+of failing to appear. To state the theory may be enough to explain why
+the government declines to press it.
+easily could have thought that measuring an alien's period of
+residence against the service date of a discrete document was
+preferable to trying to measure it against a constellation of
+moving pieces.
+Notably, too, the year after Congress adopted IIRIRA the
+government proposed a rule to create “the Notice to Appear,
+Form I–862, replacing the Order to Show Cause, Form I–
+221.” See 62 Fed. Reg. 449 (1997). In the preamble to
+its proposed rule, the government expressly acknowledged
+that “the language of the amended Act indicat[es] that the
+time and place of the hearing must be on the Notice to
+Appear.” Ibid. (emphasis added). We don't mention this,
+as the dissent supposes, in support of some argument that
+“post-enactment regulatory history” should overcome “the
+otherwise-best interpretation of the statute.” Post, at 187.
+Rather, we mention it only to observe that even the party
+now urging otherwise once read the statute just as we do.
+To the extent that dissent accuses us of being “literalists,”
+it seems the literalists once infltrated the Executive Branch
+too. Post, at 181.5
+Perhaps, though, what's really going on here has nothing
+to do with labels like that. Perhaps there's a simpler expla-
+nation. Perhaps when Congress adopted IIRIRA everyone
+understood that it required a single fully compliant document
+to trigger the stop-time rule. Perhaps the government has
+resisted the law's demands only because they leave its off-
+cials with less flexibility than they once had. Regardless,
+when interpreting this or any statute, we do not aim for
+“literal” interpretations, but neither do we seek to indulge
+efforts to endow the Executive Branch with maximum bu-
+reaucratic flexibility. We simply seek the law's ordinary
+5 It makes no difference either that the Executive Branch tempered its
+candor by promising later in its proposed rule to provide a single notice
+only “where practicable.” Post, at 187. That the government let slip (at
+least once) that it understood the plain import of IIRIRA's revisions re-
+mains telling.
+meaning. Today, a long parade of textual and contextual
+clues persuade us of this statute's ordinary meaning. If, in
+the process of discerning that meaning, we happen to consult
+grammar and dictionary definitions—along with statutory
+structure and history—we do so because the rules that gov-
+ern language often inform how ordinary people understand
+the rules that govern them.
+III
+Ultimately, the government is forced to abandon any pre-
+tense of interpreting the statute's terms and retreat to policy
+arguments and pleas for deference. The government admits
+that producing compliant notices has proved taxing over
+time. It may not know the availability of hearing officers'
+schedules at the time it would prefer to initiate proceedings
+against aliens. Nor, the government contends, does it make
+sense to include time and place information in a notice to
+appear when the statute allows it to amend the time and
+place by serving a supplemental notice. Beyond all that, the
+government stresses, its own (current) regulations authorize
+its practice. The dissent expands on all these points at
+length. Post, at 187–192. But as this Court has long made
+plain, pleas of administrative inconvenience and self-serving
+regulations never “justify departing from the statute's clear
+text.” Pereira, 585 U. S., at –––.
+Besides, even viewed in isolation the government's policy
+arguments are hardly unassailable. If the government finds
+filling out forms a chore, it has good company. The world is
+awash in forms, and rarely do agencies afford individuals the
+same latitude in completing them that the government seeks
+for itself today. Take this example: Asylum applicants must
+use a 12-page form and comply with 14 single-spaced pages
+of instructions. Failure to do so properly risks having an
+application returned, losing any chance of relief, or even
+criminal penalties. DHS, I–589, Application for Asylum and
+for Withholding of Removal: Instructions, pp. 5, 14; DHS, I–
+589 Form. Nor is it obvious the government faces an insur-
+mountable chore here. As we have seen, once the govern-
+ment serves a compliant notice to appear, IIRIRA permits
+it to send a supplemental notice amending the time and place
+of an alien's hearing if logistics require a change. See 8
+U. S. C. § 1229(a)(2).
+To be sure, the government seeks to leverage this statu-
+tory feature to its further advantage. Because it may issue
+a supplemental notice changing the time and place of the
+alien's hearing, the government reasons, requiring an initial
+and fully compliant notice serves no meaningful purpose.
+But that much does not follow. True, the government can
+change the time and place if it must. As written, though,
+the statute allows the government to invoke the stop-time
+rule only if it furnishes the alien with a single compliant
+document explaining what it intends to do and when. We
+are no more entitled to denigrate this modest statutory
+promise as some empty formality than we might dismiss as
+pointless the rules and statutes governing the contents of
+civil complaints or criminal indictments.
+Just consider the alternative. On the government's ac-
+count, it would be free to send a person who is not from this
+country—someone who may be unfamiliar with English and
+the habits of American bureaucracies—a series of letters.
+These might trail in over the course of weeks, months, maybe
+years, each containing a new morsel of vital information.
+All of which the individual alien would have to save and com-
+pile in order to prepare for a removal hearing. And as soon
+as the last letter arrives, the alien's ability to accrue time
+toward the residency requirement would be suspended in-
+definitely. Nor is this a wild hypothetical. At oral argu-
+ment the government contended “[t]here's nothing that tex-
+tually limits us” from proceeding in just this fashion. Tr. of
+Oral Arg. 47.
+The dissent's policy arguments stretch even further than
+the government's. It suggests that the best way to help
+aliens is to rule against the alien before us. Post, at 175–
+176, 187–192. Unsurprisingly, however, neither Mr. Niz-
+Chavez nor any of the immigration policy advocates who
+have fled amicus briefs in this Court share that assessment.
+And how does the dissent arrive at its judgment anyway?
+It speculates the government might respond to our decision
+by disadvantaging aliens in one of two ways. First, it might
+ambush aliens with last-minute notices. See post, at 190.
+Alternatively, it might issue compliant notices that trigger
+the stop-time rule as early as possible, only to amend the
+time-and-place information shortly before the hearing date.
+Ibid. But the dissent's preferred construction does nothing
+to foreclose either of these possibilities. And even the dis-
+sent seems to think another outcome is more likely yet: It
+says the government may continue serving notices without
+time and place information in the first instance, only to trig-
+ger the stop-time rule later by providing fully compliant
+notices with time and place information once a hearing date
+is available. Post, at 189. Nor does the dissent question
+that this result would help—and certainly not hurt—most
+aliens.
+In the end, though, all this speculation is beside the point.
+The dissent tries to predict how the government will react
+to a ruling that requires it to follow the law and then pro-
+ceeds to assess the resulting “costs” and “benefits.” Post, at
+188, 191–192. But that kind of raw consequentialist calcula-
+tion plays no role in our decision. Instead, when it comes
+to the policy arguments championed by the parties and the
+dissent alike, our points are simple: As usual, there are (at
+least) two sides to the policy questions before us; a rational
+Congress could reach the policy judgment the statutory text
+suggests it did; and no amount of policy-talk can overcome a
+plain statutory command. Our only job today is to give the
+law's terms their ordinary meaning and, in that small way,
+ensure the federal government does not exceed its statutory
+license. Interpreting the phrase “a notice to appear” to re-
+quire a single notice—rather than 2 or 20 documents—does
+just that.

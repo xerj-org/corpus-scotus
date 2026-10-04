@@ -1,0 +1,37 @@
+Gutierrez v. Saenz — No. 23-7809 — October Term 2024 — decided 6/26/25 — Opinion of Barrett, J.
+Citation: 606 U.S. 305
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r59_g31h.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+allow all manner of defendants to manufacture mootness by
+ensuring that, no matter what procedures a court requires
+the defendant to employ, the same substantive outcome will
+result. In that world, the person “living adjacent to the site
+for proposed construction of a federally licensed dam” would
+lose her claim “to challenge the licensing agency's failure to
+prepare an environmental impact statement” as long as the
+agency promised that the statement would not cause the li-
+cense to be withheld or altered. Lujan, 504 U. S., at 572,
+n. 7. Article III mandates no such result.
+* * *
+In the end, Reed is indistinguishable. Gutierrez has
+standing to challenge Texas's DNA testing procedures under
+the Due Process Clause. The judgment of the U. S. Court
+of Appeals for the Fifth Circuit is therefore reversed, and
+the case is remanded for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Barrett, concurring in part and concurring in
+the judgment.
+When the Fifth Circuit attempted to distinguish this case
+from Reed v. Goertz, 598 U. S. 230 (2023), it failed to consider
+the breadth of the relief that Gutierrez requested in his com-
+plaint. See ante, at 316. I would reverse on that basis
+alone. The Court goes further, borrowing from our some-
+what relaxed redressability inquiry in administrative-law
+procedural injury cases. See ante, at 318–320 (citing Fed-
+eral Election Comm'n v. Akins, 524 U. S. 11, 25 (1998);
+Lujan v. Defenders of Wildlife , 504 U. S. 555, 572, n. 7
+(1992)). By invoking Akins and Lujan in the unique context
+of requests for DNA evidence from Texas prosecutors, the
+Court muddies the waters of standing doctrine. I respect-
+fully join all but Part II–B–2 of the Court's opinion.

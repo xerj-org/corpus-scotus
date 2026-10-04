@@ -1,0 +1,77 @@
+Moore v. Harper — No. 21-1271 — October Term 2022 — decided 6/27/23 — Kavanaugh, J., concurring
+Citation: 600 U.S. 1
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r50_h3ci.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Kavanaugh, concurring.
+I join the Court's opinion in full. The Court today cor-
+rectly concludes that state laws governing federal elections
+are subject to ordinary state court review, including for com-
+pliance with the relevant state constitution. Ante, at 22, 34,
+37. But because the Elections Clause assigns authority re-
+specting federal elections to state legislatures, the Court
+also correctly concludes that “state courts do not have free
+rein” in conducting that review. Ante, at 34. Therefore, a
+state court's interpretation of state law in a case implicating
+the Elections Clause is subject to federal court review.
+Ante, at 34–37; see also Bush v. Palm Beach County Can-
+vassing Bd., 531 U. S. 70, 76–78 (2000) (unanimously conclud-
+ing that a state court's interpretation of state law in a federal
+election case presents a federal issue); cf. Democratic Na-
+tional Committee v. Wisconsin State Legislature , 592 U. S.
+–––, –––, n. 1 (2020) (Kavanaugh, J., concurring in denial of
+application to vacate stay). Federal court review of a state
+court's interpretation of state law in a federal election case
+“does not imply a disrespect for state courts but rather a
+respect for the constitutionally prescribed role of state legis-
+latures.” Bush v. Gore, 531 U. S. 98, 115 (2000) (Rehnquist,
+C. J., concurring).
+The question, then, is what standard a federal court should
+employ to review a state court's interpretation of state law
+in a case implicating the Elections Clause—whether Chief
+Justice Rehnquist's standard from Bush v. Gore; Justice Sou-
+ter's standard from Bush v. Gore; the Solicitor General's pro-
+posal in this case; or some other standard.
+Chief Justice Rehnquist's standard is straightforward:
+whether the state court “impermissibly distorted” state law
+“beyond what a fair reading required.” Ibid. As I under-
+stand it, Justice Souter's standard, at least the critical lan-
+guage, is similar: whether the state court exceeded “the lim-
+its of reasonable” interpretation of state law. Id., at 133
+(dissenting opinion). And the Solicitor General here has
+proposed another similar approach: whether the state court
+reached a “truly aberrant” interpretation of state law.
+Brief for United States as Amicus Curiae 27.
+As I see it, all three standards convey essentially the same
+point: Federal court review of a state court's interpretation
+of state law in a federal election case should be deferential,
+but deference is not abdication. 1 I would adopt Chief Jus-
+tice Rehnquist's straightforward standard. As able counsel
+for North Carolina stated at oral argument, the Rehnquist
+standard “best sums it up.” Tr. of Oral Arg. 131. Chief
+Justice Rehnquist's standard should apply not only to state
+court interpretations of state statutes, but also to state court
+interpretations of state constitutions. And in reviewing
+state court interpretations of state law, “we necessarily must
+examine the law of the State as it existed prior to the action
+of the [state] court.” Bush, 531 U. S., at 114 (Rehnquist,
+C. J., concurring).
+Petitioners here, however, have disclaimed any argument
+that the North Carolina Supreme Court misinterpreted the
+North Carolina Constitution or other state law. See ante,
+at 37. 2 For now, therefore, this Court need not, and ulti-
+mately does not, adopt any specific standard for our review
+of a state court's interpretation of state law in a case impli-
+cating the Elections Clause. See ante, at 36 (“We do not
+adopt these or any other test by which we can measure state
+1 I doubt that there would be a material difference in application among
+the standards formulated by Chief Justice Rehnquist, Justice Souter, and
+the Solicitor General, given the similarities in the three standards, at least
+as described above. To be sure, different judges may reach different con-
+clusions in an individual case about whether a particular state court inter-
+pretation is impermissible under the chosen standard. But I doubt that
+the precise formulation of the standard—assuming it is Chief Justice
+Rehnquist's, Justice Souter's, or the Solicitor General's—would be the de-
+cisive factor in any such disagreement.
+2 Instead, petitioners make the broader argument, which the Court
+today properly rejects, that the Elections Clause bars state courts from
+reviewing state laws for compliance with the relevant state constitution.

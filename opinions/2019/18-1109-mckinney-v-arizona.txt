@@ -1,0 +1,218 @@
+McKinney v. Arizona — No. 18-1109 — October Term 2019 — decided 2/25/20 — opinion of the Court — author Kavanaugh (listing code BK)
+Citation: 589 U.S. 139
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/589US1PP_Web.pdf#page=180 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Kavanaugh delivered the opinion of the Court.
+Over a 4-week span in early 1991, James McKinney and his
+half brother, Charles Hedlund, burglarized fve residences in
+the Phoenix, Arizona, area. During one of the burglaries,
+McKinney and Hedlund beat and repeatedly stabbed Chris-
+tine Mertens. McKinney then shot Mertens in the back of
+the head, fatally wounding her. In another burglary, Mc-
+Kinney and Hedlund killed Jim McClain by shooting him in
+the back of the head with a sawed-off rife.
+In 1992, an Arizona jury convicted McKinney of two counts
+of first-degree murder. Under this Court's precedents, a de-
+fendant convicted of murder is eligible for a death sentence
+if at least one aggravating circumstance is found. See Tui-
+laepa v. California, 512 U. S. 967 (1994); Zant v. Stephens,
+462 U. S. 862 (1983); Gregg v. Georgia, 428 U. S. 153 (1976).
+McKinney's trial judge found aggravating circumstances for
+both murders. For the Mertens murder, the judge found
+that McKinney committed the murder for pecuniary gain and
+that McKinney killed Mertens in an especially heinous, cruel,
+or depraved manner. For the McClain murder, the judge
+found that McKinney committed the murder for pecuniary
+gain and that McKinney had been convicted of another of-
+fense with a potential sentence of life imprisonment or death
+(the Mertens murder).
+The trial judge then weighed the aggravating and mitigat-
+ing circumstances and sentenced McKinney to death for both
+murders. In 1996, the Arizona Supreme Court affirmed Mc-
+Kinney's death sentences.
+gia, Lawrence G. Wasden of Idaho, Curtis T. Hill, Jr., of Indiana, Derek
+Schmidt of Kansas, Jeff Landry of Louisiana, Douglas J. Peterson of Ne-
+braska, Dave Yost of Ohio, Mike Hunter of Oklahoma, Alan Wilson of
+South Carolina, Jason R. Ravnsborg of South Dakota, and Herbert H.
+Slatery III of Tennessee; for Arizona Prosecuting Attorneys' Advisory
+Council by Sheila Sullivan Polk; for Arizona Voice for Crime Victims Inc.
+by Colleen Clase; and for the Criminal Justice Legal Foundation by Kent
+S. Scheidegger and Kymberlee C. Stapleton.
+Nearly 20 years later, on federal habeas corpus review, an
+en banc panel of the U. S. Court of Appeals for the Ninth
+Circuit decided by a 6 to 5 vote that, in sentencing McKinney,
+the Arizona courts had failed to properly consider McKin-
+ney's posttraumatic stress disorder (PTSD) and had thereby
+run afoul of this Court's decision in Eddings v. Oklahoma,
+455 U. S. 104 (1982). In Eddings, this Court held that a capi-
+tal sentencer may not refuse as a matter of law to consider
+relevant mitigating evidence. Id., at 113–114.
+McKinney's case then returned to the Arizona Supreme
+Court. In that court, McKinney argued that he was entitled
+to resentencing by a jury. By contrast, the State asked that
+the Arizona Supreme Court itself conduct a reweighing of
+the aggravating and mitigating circumstances, as permitted
+by Clemons v. Mississippi, 494 U. S. 738 (1990). The Ari-
+zona Supreme Court agreed with the State. The court itself
+reviewed the evidence in the record and reweighed the rele-
+vant aggravating and mitigating circumstances, including
+McKinney's PTSD. The court upheld both death sentences.
+245 Ariz. 225, 426 P. 3d 1204 (2018).
+McKinney petitioned for certiorari in this Court. Be-
+cause of the importance of the case to capital sentencing in
+Arizona, we granted certiorari. 587 U. S. 1050 (2019).
+The issue in this case is narrow. McKinney contends that
+after the Ninth Circuit identified an Eddings error, the Ari-
+zona Supreme Court could not itself reweigh the aggravating
+and mitigating circumstances. Rather, according to McKin-
+ney, a jury must resentence him.
+McKinney's argument does not square with this Court's
+decision in Clemons. In Clemons, a Mississippi jury sen-
+tenced the defendant to death based in part on two aggravat-
+ing circumstances. After the Mississippi Supreme Court
+determined that one of the aggravators was unconstitution-
+ally vague, the defendant argued that he was entitled to re-
+sentencing before a jury so that the jury could properly
+weigh the permissible aggravating and mitigating evidence.
+This Court disagreed. The Court concluded that the Missis-
+sippi Supreme Court could itself reweigh the permissible ag-
+gravating and mitigating evidence. 494 U. S., at 745–750.
+This Court stated that “the Federal Constitution does not
+prevent a state appellate court from upholding a death sen-
+tence that is based in part on an invalid or improperly
+defined aggravating circumstance either by reweighing of
+the aggravating and mitigating evidence or by harmless-
+error review.” Id., at 741. The Court explained that a
+Clemons reweighing is not a resentencing but instead is akin
+to harmless-error review in that both may be conducted by
+an appellate court.
+McKinney contends that Clemons does not apply here.
+He raises two basic arguments.
+First, McKinney maintains that Clemons involved an im-
+properly considered aggravating circumstance, whereas his
+case involves what the Ninth Circuit said was an improperly
+ignored mitigating circumstance. But the Court's analysis
+in Clemons hinged on its assessment of appellate courts'
+ability to weigh aggravating and mitigating evidence, not on
+any unique effect of aggravators as distinct from mitigators.
+After noting that the “primary concern in the Eighth
+Amendment context has been that the sentencing decision
+be based on the facts and circumstances of the defendant, his
+background, and his crime,” the Court explained that noth-
+ing “inherent in the process of appellate reweighing is incon-
+sistent” with that objective. Id., at 748. Indeed, the Court
+explicitly rejected the argument that “appellate courts are
+unable to fully consider and give effect to the mitigating evi-
+dence presented by defendants at the sentencing phase in a
+capital case.” Ibid. And the Court concluded that a state
+appellate court may uphold the death sentence after a “re-
+weighing of the aggravating and mitigating evidence.” Id.,
+at 741.
+In deciding whether a particular defendant warrants a
+death sentence in light of the mix of aggravating and mitigat-
+ing circumstances, there is no meaningful difference for pur-
+poses of appellate reweighing between subtracting an aggra-
+vator from one side of the scale and adding a mitigator to
+the other side. Both involve weighing, and the Court's deci-
+sion in Clemons ruled that appellate tribunals may perform
+a “reweighing of the aggravating and mitigating evidence.”
+Ibid. In short, a Clemons reweighing is a permissible rem-
+edy for an Eddings error.
+Second, the Court decided Clemons back in 1990, and Mc-
+Kinney argues that Clemons is no longer good law in
+the wake of this Court's decisions in Ring v. Arizona, 536
+U. S. 584 (2002), and Hurst v. Florida, 577 U. S. 92 (2016).
+According to McKinney, appellate courts may no longer
+reweigh aggravating and mitigating circumstances in deter-
+mining whether to uphold a death sentence. McKinney is
+incorrect.
+In Ring, this Court held that capital defendants “are enti-
+tled to a jury determination of any fact on which the legisla-
+ture conditions an increase in their maximum punishment”—
+in particular, the finding of an aggravating circumstance.
+536 U. S., at 589. In Hurst, the Court applied Ring and de-
+cided that Florida's capital sentencing scheme impermissibly
+allowed “a sentencing judge to find an aggravating circum-
+stance, independent of a jury's factfinding, that is necessary
+for imposition of the death penalty.” 577 U. S., at 102.
+Under Ring and Hurst, a jury must find the aggravating
+circumstance that makes the defendant death eligible. But
+importantly, in a capital sentencing proceeding just as in an
+ordinary sentencing proceeding, a jury (as opposed to a
+judge) is not constitutionally required to weigh the aggravat-
+ing and mitigating circumstances or to make the ultimate
+sentencing decision within the relevant sentencing range.
+In Apprendi v. New Jersey, 530 U. S. 466 (2000), this Court
+carefully avoided any suggestion that “it is impermissible for
+judges to exercise discretion—taking into consideration vari-
+ous factors relating both to offense and offender—in impos-
+ing a judgment within the range prescribed by statute.”
+Id., at 481. And in the death penalty context, as Justice
+Scalia, joined by Justice Thomas, explained in his concur-
+rence in Ring, the decision in Ring “has nothing to do with
+jury sentencing. What today's decision says is that the jury
+must find the existence of the fact that an aggravating factor
+existed.” 536 U. S., at 612; see also Kansas v. Carr, 577
+U. S. 108, 118–120 (2016). Therefore, as Justice Scalia ex-
+plained, the “States that leave the ultimate life-or-death de-
+cision to the judge may continue to do so.” Ring, 536 U. S.,
+at 612.
+In short, Ring and Hurst did not require jury weighing of
+aggravating and mitigating circumstances, and Ring and
+Hurst did not overrule Clemons so as to prohibit appellate
+reweighing of aggravating and mitigating circumstances.
+In addition to those two arguments about Clemons, Mc-
+Kinney advances an additional argument based on Ring and
+Hurst. This argument focuses not on the weighing of ag-
+gravators and mitigators, but rather on the Arizona trial
+court's initial 1993 finding of the aggravating circumstances
+that made McKinney eligible for the death penalty. McKin-
+ney points out that a jury did not find the aggravating cir-
+cumstances, as is now required by Ring and Hurst.
+The hurdle is that McKinney's case became final on direct
+review in 1996, long before Ring and Hurst. Ring and
+Hurst do not apply retroactively on collateral review. See
+Schriro v. Summerlin, 542 U. S. 348, 358 (2004). Because
+this case comes to us on state collateral review, Ring and
+Hurst do not apply.
+McKinney says, however, that this case has a twist. He
+asserts that the Arizona Supreme Court's 2018 decision re-
+weighing the aggravators and mitigators constituted a re-
+opening of direct review. Because this case (as McKinney
+sees it) is again on direct review, McKinney argues that
+he should receive the benefit of Ring and Hurst—namely, a
+jury resentencing with a jury determination of aggravating
+circumstances.
+But the premise of that argument is wrong because the
+Arizona Supreme Court's reweighing of the aggravating and
+mitigating circumstances occurred on collateral review, not
+direct review. In conducting the reweighing, the Arizona
+Supreme Court explained that it was conducting an inde-
+pendent review in a collateral proceeding. The court cited
+its prior decision in State v. Styers, 227 Ariz. 186, 254 P. 3d
+1132 (2011), which concluded that Arizona could conduct such
+an independent review in a collateral proceeding. See also
+Ariz. Rev. Stat. Ann. § 13–755 (2010); State v. Hedlund, 245
+Ariz. 467, 470–471, 431 P. 3d 181, 184–185 (2018). Under
+these circumstances, we may not second-guess the Arizona
+Supreme Court's characterization of state law. See Mulla-
+ney v. Wilbur, 421 U. S. 684, 691 (1975); see also Jimenez v.
+Quarterman, 555 U. S. 113, 120, n. 4 (2009); Styers v. Ryan,
+811 F. 3d 292, 297, n. 5 (CA9 2015). As a matter of state law,
+the reweighing proceeding in McKinney's case occurred on
+collateral review.
+McKinney responds that the state label of collateral re-
+view cannot control the finality question; that a Clemons re-
+weighing is a sentencing proceeding; and that a Clemons
+reweighing therefore may occur only on direct review (or
+on reopening of direct review). But Clemons itself, over a
+vigorous dissent, stated that an appellate reweighing is not
+a sentencing proceeding that must be conducted by a jury.
+See 494 U. S., at 741, 744–755. The appellate reweighing is
+akin to harmless-error review. Courts routinely conduct
+harmless-error review in collateral proceedings. Cf., e. g.,
+Brecht v. Abrahamson, 507 U. S. 619, 638 (1993). There is
+no good reason—and McKinney supplies none—why state
+courts may not likewise conduct a Clemons reweighing on
+collateral review. As relevant here, when an Eddings error
+is found on collateral review, a state court may conduct a

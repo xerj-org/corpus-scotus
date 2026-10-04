@@ -1,0 +1,255 @@
+County of Maui v. Hawaii Wildlife Fund — No. 18-260 — October Term 2019 — decided 4/23/20 — Thomas, J., dissenting
+Citation: 590 U.S. 165
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=181 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+In other words, under Justice Scalia's interpretation in Ra-
+panos, the fact that the pollutants from Maui's wastewater
+facility reach the ocean via an indirect route does not itself
+exempt Maui's facility from the Clean Water Act's per-
+mitting requirement for point sources. The Court today
+adheres to Justice Scalia's analysis in Rapanos on that
+issue.
+Second, as Justice Scalia's opinion in Rapanos pointed out
+and as the Court's opinion today explains, the statute does
+not establish a bright-line test regarding when a pollutant
+may be considered to have come “from” a point source. The
+source of the vagueness is Congress' statutory text, not the
+Court's opinion. The Court's opinion seeks to translate the
+vague statutory text into more concrete guidance.
+Third, Justice Thomas’ dissent states that “the Court
+does not commit” to “which factors are the most important”
+in determining whether pollutants that enter navigable wa-
+ters come “from” a point source. Post, at 192. That cri-
+tique is not accurate, as I read the Court's opinion. The
+Court identifies relevant factors to consider and emphasizes
+that “[t]ime and distance are obviously important.” Ante,
+at 184. And the Court expressly adds that “[t]ime and dis-
+tance will be the most important factors in most cases, but
+not necessarily every case.” Ante, at 185. Although the
+statutory text does not supply a bright-line test, the Court's
+emphasis on time and distance will help guide application of
+the statutory standard going forward.
+With those additional comments, I join the Court's opinion
+in full.
+Justice Thomas, with whom Justice Gorsuch joins,
+dissenting.
+The Clean Water Act (CWA) requires a federal permit for
+“the discharge of any pollutant by any person.” 33 U. S. C.
+§ 1311(a); see § 1342. The CWA defines a “discharge” as
+“any addition of any pollutant to navigable waters from any
+point source.” § 1362(12). 1 Based on the statutory text and
+structure, I would hold that a permit is required only when
+a point source discharges pollutants directly into navigable
+waters. The Court adopts this interpretation in part, con-
+cluding that a permit is required for “a direct discharge.”
+Ante, at 183. But the Court then departs from the statutory
+text by requiring a permit for “the functional equivalent of
+a direct discharge ,” ibid., which it defines through an open-
+ended inquiry into congressional intent and practical consid-
+erations. Because I would adhere to the text, I respect-
+fully dissent.
+I
+A
+In interpreting the statutory definition of “discharge,” the
+Court focuses on the word “from,” but the most helpful word
+is “addition.” That word, together with “to” and “from,”
+limits the meaning of “discharge” to the augmentation of
+navigable waters.
+Dictionary definitions of “addition” denote an augmen-
+tation or increase. Webster's Third New International Dic-
+tionary defines “addition” as “the act or process of adding:
+the joining or uniting of one thing to another.” Webster's
+Third New International Dictionary 24 (1961); see also ibid.
+(listing “increase” and “augmentation” as synonyms for “ad-
+dition”). Other dictionary definitions from around the time
+of the statute's enactment are in accord. See, e. g., Ameri-
+can Heritage Dictionary 14, 15 (1981) (defining “addition” as
+“[t]he act or process of adding” and defining “add” as “[t]o
+1 The CWA defines “navigable waters” as “the waters of the United
+States, including the territorial seas.” § 1362(7). It defines a “point
+source” as “any discernible, confined and discrete conveyance, including
+but not limited to any pipe, ditch, channel, tunnel, conduit, well, discrete
+fssure, container, rolling stock, concentrated animal feeding operation, or
+vessel or other foating craft, from which pollutants are or may be dis-
+charged,” excluding “agricultural stormwater discharges and return fows
+from irrigated agriculture.” § 1362(14).
+join or unite so as to increase in size, quantity, or scope”);
+see also Webster's New International Dictionary 29, 30 (2d
+ed. 1957) (defining “addition” as the “[a]ct, process, or in-
+stance of adding,” and defining “add” as to “join or unite, as
+one thing to another, or as several particulars, so as to in-
+crease the number, augment the quantity, enlarge the magni-
+tude, or so as to form into one aggregate”).
+The inclusion of the term “addition” in the CWA indicates
+that the statute excludes anything other than a direct dis-
+charge. When a point source releases pollutants to ground-
+water, one would naturally say that the groundwater has
+been augmented with pollutants from the point source. If
+the pollutants eventually reach navigable waters, one would
+not naturally say that the navigable waters have been aug-
+mented with pollutants from the point source. The augmen-
+tation instead occurs with pollutants from the groundwater.
+The prepositions “from” and “to” reinforce this reading.
+When pollutants are released from a point source to another
+point source or groundwater, they are added to the second
+from the first. If the pollutants are later released to naviga-
+ble waters, they are added to the navigable waters from the
+second point source or the groundwater. One would not
+naturally say that the pollutants are added to the navigable
+waters from the original point source.
+Interpreting “discharge” to mean a direct discharge makes
+sense of other parts of the definition as well. It respects
+the statutory definition of a point source as a “conveyance,”
+see § 1362(14), because a point source that releases pollutants
+directly into navigable waters is a means of conveyance.
+And it makes sense of the word “any” before “point source,”
+because that term clarifies that any kind of point source may
+require a permit.
+The structure of the CWA confirms this interpretation.
+It authorizes the Environmental Protection Agency (EPA)
+to regulate discharges from point sources, including through
+the permitting process, but it reserves to the States the pri-
+mary responsibility for regulating other sources of pollution,
+including groundwater. With respect to these sources, the
+EPA merely collects information, coordinates with the
+States, and provides funding. See 33 U. S. C. §§ 1252(a),
+1254(a)(5), 1282(b)(2), 1288, 1314(a), 1329; ante, at 175. In
+the CWA, Congress expressly stated its “policy . . . to recog-
+nize, preserve, and protect the primary responsibilities and
+rights of States to prevent, reduce, and eliminate pollution.”
+§ 1251(b). Thus, construing the EPA's power to regulate
+point sources to allow the agency to regulate nonpoint
+sources and groundwater is in serious tension with Con-
+gress' design.
+My reading is also consistent with our decision in South
+Fla. Water Management Dist. v. Miccosukee Tribe, 541 U. S.
+95 (2004). The petitioner in that case argued that no permit
+was required when a point source was not the original source
+of the pollutant but instead conveyed the pollutant from fur-
+ther up a chain of sources. Id., at 104. We rejected that
+argument because “a point source need not be the original
+source of the pollutant; it need only convey the pollutant to
+`navigable waters.' ” Id., at 105. Although that case did
+not involve the exact question presented here, the direct-
+discharge interpretation comports well with that previous
+decision.
+B
+The Court's main textual argument reads the word “from”
+in isolation. But as the Court recognizes, “the word `from'
+necessarily draws its meaning from context.” Ante, at 178.
+The Court's example using “arrive” instead of “addition” is
+thus unpersuasive, ante, at 181–182, because “from” takes
+different meanings with different verbs. The Court's culi-
+nary example also misses the mark, ante, at 182, because if the
+drippings from the meat collect in the pan before the chef
+adds them to the gravy, the drippings are added to the gravy
+from the pan, not from the meat. This point becomes clear
+if we reorder the majority's recipe to match the statute; the
+chef has not added the drippings to the gravy from the meat.
+The Court's bathwater example, ibid., suffers from the same
+problem; if the well water is put in a bucket before it is put
+in the bathtub, it is added to the bathtub from the bucket.
+Only by reading the phrase in its entirety can we interpret
+the definition of “discharge.” See Deal v. United States, 508
+U. S. 129, 132 (1993).
+The Court also asserts that a narrower reading than the
+one it adopts would create a “massive loophole” in the stat-
+ute. Ante, at 183. Far from creating a loophole, my read-
+ing is the most logical because it is consonant with the scope
+of Congress' power. The CWA presumably was passed as
+an exercise of Congress' authority “[t]o regulate Commerce
+with foreign Nations, and among the several States, and with
+the Indian Tribes.” U. S. Const., Art. I, § 8, cl. 3. My inter-
+pretation ties the statute more closely to navigable waters,
+on the theory that they are at least a channel of these kinds
+of commerce.
+Further, the Court's interpretation creates practical prob-
+lems of its own. As the Court acknowledges, its opinion
+gives almost no guidance, save for a list of seven factors.
+But the Court does not commit to whether those factors are
+the only relevant ones, whether those factors are always rel-
+evant, or which factors are the most important. See ante,
+at 183–185. It ultimately does little to explain how function-
+ally equivalent an indirect discharge must be to require a
+permit.2
+2 Justice Kavanaugh believes that the Court's opinion provides
+enough guidance when it states that “[t]ime and distance will be the most
+important factors in most cases, but not necessarily every case ,” ante,
+at 185 (majority opinion) (emphasis added). See ante, at 188 (concurring
+opinion). His hope for guidance appears misplaced. For all we know,
+these factors may not be the most important in 49 percent of cases. The
+majority's nonexhaustive seven-factor test “may aid in identifying relevant
+facts for analysis, but—like most multifactor tests—it leaves courts adrift
+once those facts have been identified.” Dietz v. Bouldin, 579 U. S. 40, 57
+(2016) (Thomas, J., dissenting); see also Scalia, The Rule of Law as a Law
+The Court suggests that the EPA could clarify matters
+through “administrative guidance,” ante, at 185, but so far
+the EPA has provided only limited advice and recently
+shifted its position, see 84 Fed. Reg. 16810 (2019); ante, at
+173. In any event, the sort of “ `general rules' ” that the
+Court hopes the EPA will promulgate are constitutionally
+suspect. See Department of Transportation v. Association
+of American Railroads, 575 U. S. 43, 67–87 (2015) (Thomas,
+J., concurring in judgment).
+Despite giving minimal guidance as to how this case
+should be decided on remand, the majority speculates about
+whether a permit would be required in other factual circum-
+stances. It poses the examples of a pipe that releases pol-
+lutants over navigable waters and a pipe that releases pollut-
+ants onto land near navigable waters. As an initial matter,
+I am not as sure as the majority that a “pollutant,” as defined
+by the CWA, may be added to the air. 3 Even if the majority
+is correct that a permit is not required in these hypothetical
+cases, drawing the line at discharges to water is not so ab-
+surd as to undermine the most natural reading of the statute.
+In any event, it is unnecessary to decide these hypothetical
+cases today.
+Finally, the Court speculates as to “those circumstances
+in which Congress intended to require a federal permit.”
+Ante, at 183. But we are not a superlegislature (or super-
+EPA) tasked with making good policy—assuming that is
+of Rules, 56 U. Chi. L. Rev. 1175, 1186–1187 (1989) (noting that “when
+balancing is the mode of analysis, not much general guidance may be
+drawn from the opinion” and arguing that “totality of the circumstances
+tests and balancing modes of analysis” should “be avoided where
+possible”).
+3 The CWA defines a “pollutant” as “dredged spoil, solid waste, incinera-
+tor residue, sewage, garbage, sewage sludge, munitions, chemical wastes,
+biological materials, radioactive materials, heat, wrecked or discarded
+equipment, rock, sand, cellar dirt and industrial, municipal, and agricul-
+tural waste discharged into water,” with certain exceptions. § 1362(6).
+even what the Court accomplishes today. “Our job is to fol-
+low the text even if doing so will supposedly undercut a basic
+objective of the statute.” Baker Botts L. L. P . v. ASARCO
+LLC, 576 U. S. 121, 135 (2015) (internal quotation marks
+omitted).
+II
+I do agree with the Court on several points. First, the
+interpretation adopted by respondents and the Ninth Circuit
+is unsupportable. That interpretation—which would re -
+quire permits for discharges that are “ `fairly traceable' ” to,
+and proximately caused by, a point source—is atextual and
+unsettles the CWA's careful balance between federal regula-
+tion of point-source pollution and state regulation of non-
+point-source pollution. Ante, at 174–178.
+Second, I agree that the interpretation adopted by peti-
+tioner and Justice Alito reads the word “any” unnaturally,
+ante, at 179, although the majority appears to deploy that
+argument itself in another part of the opinion, ante, at 182.
+Petitioner's and Justice Alito's interpretation also gives
+insufficient weight to the meaning of “addition,” see supra,
+at 189–190.
+Third, I agree that the EPA's interpretation is not entitled
+to deference for at least two reasons: No party requests it,
+and the EPA's reading is not the best one. Ante, at 180–
+181. I add only that deference under Chevron U. S. A. Inc.
+v. Natural Resources Defense Council, Inc. , 467 U. S.
+837 (1984), likely conflicts with the Vesting Clauses of the
+Constitution. See Baldwin v. United States, 589 U. S.
+1237, 1238–1245 (2020) (Thomas, J., dissenting from denial of
+certiorari); Michigan v. EPA, 576 U. S. 743, 761–764 (2015)
+(Thomas, J., concurring); see also Perez v. Mortgage Bankers
+Assn., 575 U. S. 92, 115–126 (2015) (Thomas, J., concurring
+in judgment).
+Finally, I agree with the Court's implicit conclusion that
+Rapanos v. United States, 547 U. S. 715 (2006), does not re-

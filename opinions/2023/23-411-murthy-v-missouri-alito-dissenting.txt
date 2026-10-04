@@ -1,0 +1,1182 @@
+Murthy v. Missouri — No. 23-411 — October Term 2023 — decided 6/26/24 — Alito, J., dissenting
+Citation: 603 U.S. 43
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r49_n6io.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+The States cite this supposed sovereign injury as a basis
+for asserting third-party standing on behalf of “the citizens
+they would listen to.” Brief for Respondents 30. But
+“[t]his argument is a thinly veiled attempt to circumvent the
+limits on parens patriae standing.” Brackeen, 599 U. S., at
+295, n. 11. Namely, States do not have “ `standing as parens
+patriae to bring an action against the Federal Govern-
+ment.' ” Id., at 295.
+The States, like the individual plaintiffs, have failed to es-
+tablish a likelihood of standing.
+* * *
+The plaintiffs, without any concrete link between their
+injuries and the defendants' conduct, ask us to conduct a
+review of the years-long communications between dozens
+of federal officials, across different agencies, with different
+social-media platforms, about different topics. This Court's
+standing doctrine prevents us from “exercis[ing such] gen-
+eral legal oversight” of the other branches of Government.
+TransUnion, 594 U. S., at 423–424. We therefore reverse
+the judgment of the Fifth Circuit and remand the case for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Alito, with whom Justice Thomas and Justice
+Gorsuch join, dissenting.
+This case involves what the District Court termed “a far-
+reaching and widespread censorship campaign” conducted by
+high-ranking federal officials against Americans who ex-
+pressed certain disfavored views about COVID–19 on social
+media. Missouri v. Biden, 680 F. Supp. 3d 630, 729 (WD La.
+2023). Victims of the campaign perceived by the lower
+courts brought this action to ensure that the Government
+did not continue to coerce social media platforms to suppress
+speech. Among these victims were two States, whose pub-
+lic health officials were hampered in their ability to share
+their expertise with state residents; distinguished professors
+of medicine at Stanford and Harvard; a professor of psychia-
+try at the University of California, Irvine School of Medicine;
+the owner and operator of a news website; and Jill Hines,
+the director of a consumer and human rights advocacy orga-
+nization. All these victims simply wanted to speak out on a
+question of the utmost public importance.
+To protect their right to do so, the District Court issued a
+preliminary injunction, App. 278–285, and the Court of Ap-
+peals found ample evidence to support injunctive relief. See
+Missouri v. Biden, 83 F. 4th 350 (CA5 2023).
+If the lower courts' assessment of the voluminous record
+is correct, this is one of the most important free speech cases
+to reach this Court in years. Freedom of speech serves
+many valuable purposes, but its most important role is
+protection of speech that is essential to democratic self-
+government, see Snyder v. Phelps, 562 U. S. 443, 451–452
+(2011), and speech that advances humanity's store of knowl-
+edge, thought, and expression in fields such as science, medi-
+cine, history, the social sciences, philosophy, and the arts, see
+United States v. Alvarez, 567 U. S. 709, 751 (2012) (Alito ,
+J., dissenting).
+The speech at issue falls squarely into those categories.
+It concerns the COVID–19 virus, which has killed more than
+a million Americans. 1 Our country's response to the
+COVID–19 pandemic was and remains a matter of enormous
+medical, social, political, geopolitical, and economic impor-
+tance, and our dedication to a free marketplace of ideas de-
+mands that dissenting views on such matters be allowed. I
+assume that a fair portion of what social media users had to
+say about COVID–19 and the pandemic was of little lasting
+value. Some was undoubtedly untrue or misleading, and
+1 Centers for Disease Control and Prevention, Deaths by Week and
+State, https://www.cdc.gov/nchs/nvss/vsrr/COVID19/index.htm (last ac -
+cessed June 21, 2024).
+some may have been downright dangerous. But we now
+know that valuable speech was also suppressed. 2 That is
+what inevitably happens when entry to the marketplace of
+ideas is restricted.
+Of course, purely private entities like newspapers are not
+subject to the First Amendment, and as a result, they may
+publish or decline to publish whatever they wish. But gov-
+ernment officials may not coerce private entities to suppress
+speech, see National Rife Association of America v. Vullo,
+602 U. S. 175 (2024), and that is what happened in this case.
+The record before us is vast. It contains evidence of com-
+munications between many different government actors and
+2 This includes information about the origin of the COVID–19 virus.
+When the pandemic began, Facebook began demoting posts supporting
+the theory that the virus leaked from a laboratory. See Interim Staff
+Report of the House Judiciary Committee, The Censorship-Industrial
+Complex: How Top Biden White House Officials Coerced Big Tech To Cen-
+sor Americans, True Information, and Critics of the Biden Administration,
+p. 398 (May 1, 2024) (Committee Report), https://judiciary.house.gov/sites/
+evo-subsites/republicans-judiciary.house.gov/files/evo-media-document /
+Censorship-Industrial-Complex-WH-Report_Appendix.pdf. “In Febru -
+ary 2021, in response to . . . tense conversations with the new Administra-
+tion,” Facebook changed its policy to instead remove posts about the lab
+leak theory wholesale. Ibid.; accord, id., at 463 (Facebook executive ex-
+plained that the platform removed these posts “[b]ecause we were under
+pressure from the administration and others to do more and it was part
+of the `more' package”). But since then, both the Federal Bureau of In-
+vestigation and the Department of Energy have found that the theory is
+probably correct. See, e. g., A. Kaur & D. Diamond, FBI Director Says
+Covid–19 “Most Likely” Originated From Lab Incident, Washington Post
+(Feb. 28, 2023), https://www.washingtonpost.com/nation/2023/02/28 /
+fbi-director-christopher-wray-wuhan-lab; J. Herb & N. Bertrand, US En-
+ergy Department Assesses Covid–19 Likely Resulted From Lab Leak,
+Furthering US Intel Divide Over Virus Origin, CNN (Feb. 27, 2023),
+https://www.cnn.com/2023/02/26/politics/covid-lab-leak-wuhan-china -
+intelligence/index.html. Facebook reversed its policy, and Mark Zucker-
+berg expressed regret that the platform had ever removed the posts: “This
+seems like a good reminder that when we compromise our standards due
+to pressure from an administration in either direction, we'll often regret
+it later.” Committee Report 398.
+a variety of internet platforms, as well as evidence regarding
+the effects of those interactions on the seven different plain-
+tiffs. For present purposes, however, I will focus on (a) just
+a few federal officials (namely, those who worked either in
+the White House or the Surgeon General's office), (b) only
+one of the most influential social media platforms, Facebook,
+and (c) just one plaintiff, Jill Hines, because if any of the
+plaintiffs has standing, we are obligated to reach the merits
+of this case. See Rumsfeld v. Forum for Academic and In-
+stitutional Rights, Inc., 547 U. S. 47, 52, n. 2 (2006).
+With the inquiry focused in this way, here is what the rec-
+ord plainly shows. For months in 2021 and 2022, a coterie
+of officials at the highest levels of the Federal Government
+continuously harried and implicitly threatened Facebook
+with potentially crippling consequences if it did not comply
+with their wishes about the suppression of certain COVID–
+19-related speech. Not surprisingly, Facebook repeatedly
+yielded. As a result Hines was indisputably injured, and
+due to the officials' continuing efforts, she was threatened
+with more of the same when she brought suit. These past
+and threatened future injuries were caused by and traceable
+to censorship that the officials coerced, and the injunctive
+relief she sought was an available and suitable remedy. This
+evidence was more than sufficient to establish Hines's stand-
+ing to sue, see Lujan v. Defenders of Wildlife , 504 U. S. 555,
+561–562 (1992), and consequently, we are obligated to tackle
+the free speech issue that the case presents. The Court,
+however, shirks that duty and thus permits the successful
+campaign of coercion in this case to stand as an attractive
+model for future officials who want to control what the people
+say, hear, and think.
+That is regrettable. What the officials did in this case was
+more subtle than the ham-handed censorship found to be un-
+constitutional in Vullo, but it was no less coercive. And be-
+cause of the perpetrators' high positions, it was even more
+dangerous. It was blatantly unconstitutional, and the coun-
+try may come to regret the Court's failure to say so. Off-
+cials who read today's decision together with Vullo will get
+the message. If a coercive campaign is carried out with
+enough sophistication, it may get by. That is not a message
+this Court should send.
+In the next section of this opinion, I will recount in some
+detail what was done by the officials in this case, but in con-
+sidering the coercive impact of their conduct, two prominent
+facts must be kept in mind.
+First, social media have become a leading source of news
+for many Americans, 3 and with the decline of other media,
+their importance may grow.
+Second, internet platforms, although rich and powerful,
+are at the same time far more vulnerable to Government
+pressure than other news sources. If a President dislikes a
+particular newspaper, he (fortunately) lacks the ability to put
+the paper out of business. But for Facebook and many other
+social media platforms, the situation is fundamentally differ-
+ent. They are critically dependent on the protection pro-
+vided by § 230 of the Communications Decency Act of 1996,
+47 U. S. C. § 230, which shields them from civil liability for
+content they spread. They are vulnerable to antitrust ac-
+tions; indeed, Facebook CEO Mark Zuckerberg has de-
+scribed a potential antitrust lawsuit as an “existential”
+threat to his company.4 And because their substantial over-
+seas operations may be subjected to tough regulation in the
+European Union and other foreign jurisdictions, they rely
+3 See, e. g., J. Liedke & L. Wang, News Platform Fact Sheet, Pew Re-
+search Center (Nov. 15, 2023), https://www.pewresearch.org/journalism/
+fact-sheet/news-platform-fact-sheet; A. Watson, Most Popular Platforms
+for Daily News Consumption in the United States as of August 2022,
+by Age Group, Statista (Jan. 4, 2024), https://www.statista.com/statistics/
+717651/most-popular-news-platforms.
+4 C. Newton, Read the Full Transcript of Mark Zuckerberg's Leaked
+Internal Facebook Meetings, The Verge (Oct. 1, 2019), https://www.
+theverge.com/2019/10/1/20892354/mark-zuckerberg-full-transcript-leaked-
+facebook-meetings.
+on the Federal Government's diplomatic efforts to protect
+their interests.
+For these and other reasons, 5 internet platforms have a
+powerful incentive to please important federal officials, and
+the record in this case shows that high-ranking officials skill-
+fully exploited Facebook's vulnerability. When Facebook
+did not heed their requests as quickly or as fully as the off-
+cials wanted, the platform was publicly accused of “killing
+people” and subtly threatened with retaliation.
+Not surprisingly these efforts bore fruit. Facebook
+adopted new rules that better conformed to the officials'
+wishes, and many users who expressed disapproved views
+about the pandemic or COVID–19 vaccines were “deplat-
+formed” or otherwise injured.
+I
+A
+I begin by recounting the White House-led campaign to
+coerce Facebook. The story starts in early 2021, when
+White House officials began communicating with Facebook
+about the spread of misinformation about COVID–19 on its
+platform. Their emails started as questions, e. g., “Can you
+also give us a sense of misinformation that might be falling
+outside of your removal polices?” 10 Record 3397. But
+when the White House did not get the results it wanted, its
+questions quickly turned to virtual demands. And some-
+times, those statements were paired with explicit references
+to potential consequences.
+We may begin this account with an exchange that occurred
+in March 2021, when the Washington Post reported that
+Facebook was conducting a study that examined whether
+5 For pending or potential legislation affecting internet platforms, see
+Congressional Research Service, C. Cho, L. Zhu, & K. Busch, Defining and
+Regulating Online Platforms (Aug. 25, 2023), https://crsreports.congress.
+gov/product/pdf/R/R47662/11.
+posts on the platform questioning COVID–19's severity or
+the vaccines' efficacy dissuaded some Americans from being
+vaccinated.6 The study noted that Facebook's rules permit-
+ted some of this content to circulate. Rob Flaherty, the
+White House Director of Digital Strategy, promptly emailed
+Facebook about the report. The subject line of his email
+contained this accusation: “You are hiding the ball.” 30 id.,
+at 9366. Flaherty noted that the White House was “gravely
+concerned that [Facebook] is one of the top drivers of vaccine
+hesitancy,” and he demanded to know how Facebook was try-
+ing to solve the problem. Id., at 9365. In his words, “we
+want to know that you're trying, we want to know how we
+can help, and we want to know that you're not playing a shell
+game with us when we ask you what is going on.” Ibid.
+Andy Slavitt, the White House Senior Advisor for the
+COVID–19 Response, chimed in with similar complaints.
+“[R]elative to othe[r]” platforms, he said, “interactions with
+Facebook are not straightforward” even though the misinfor-
+mation problems there, in his view, were “worse.” Id., at
+9364. According to Slavitt, the White House did not believe
+that Facebook was “trying to solve the problem,” so he in-
+formed Facebook that “[i]nternally we have been considering
+our options on what to do about it.” Ibid.
+Facebook responded apologetically to this and other mis-
+sives. It acknowledged that “[w]e obviously have work to
+do to gain your trust.” Id., at 9365. And after a follow-up
+conversation, the platform promised Flaherty and Slavitt
+that it would adopt additional policies to “reduc[e] virality
+of vaccine hesitancy content.” Id., at 9369. In particular,
+Facebook promised to “remove [any] Groups, Pages, and Ac-
+counts” that “disproportionately promot[e] . . . sensational-
+ized content” about the risks of vaccines, even though it ac-
+6 E. Dwoskin, Massive Facebook Study on Users' Doubt in Vaccines
+Finds a Small Group Appears To Play a Big Role in Pushing the Skepti-
+cism, Washington Post (Mar. 14, 2021), https://www.washingtonpost.com/
+technology/2021/03/14/facebook-vaccine-hesitancy-qanon.
+knowledged that user stories about their experiences and
+those of family members or friends were “ofte[n] true.”
+Ibid. Facebook also promised to share additional data with
+the White House, ibid., but Flaherty was not fully satisfied.
+He said that the additional data Facebook offered was not
+“going to get us the info we're looking for,” but “it shows to
+me that you at least understand the ask.” Id., at 9368.
+In April, Flaherty again demanded information on the “ac-
+tions and changes” Facebook was taking “to ensure you're
+not making our country's vaccine hesitancy problem worse.”
+Id., at 9371. To emphasize his urgency, Flaherty likened
+COVID–19 misinformation to misinformation that led to
+the January 6 attack on the Capitol. Ibid. Facebook, he
+charged, had helped to “increase skepticism” of the 2020 elec-
+tion, and he claimed that “an insurrection . . . was plotted, in
+large part, on your platform.” Ibid. He added: “I want
+some assurances, based in data, that you are not doing the
+same thing again here.” Ibid. Facebook was surprised by
+these remarks because it “thought we were doing a better
+job” communicating with the White House, but it promised
+to “more clearly respon[d]” in the future. Ibid.
+The next week, Facebook officers spoke with Slavitt and
+Flaherty about reports of a rare blood clot caused by the
+Johnson & Johnson vaccine. Id., at 9385. The conversation
+quickly shifted when the White House noticed that one of
+the most-viewed vaccine-related posts from the past week
+was a Tucker Carlson video questioning the efficacy of the
+Johnson & Johnson vaccine. Id., at 9376, 9388. Facebook
+informed the White House that the video did not “qualify
+for removal under our policies” and thus would be demoted
+instead, ibid., but that answer did not please Flaherty.
+“How was this not violative?” he queried, and “[w]hat exactly
+is the rule for removal vs demoting?” Id., at 9387. Then,
+for the second time in a week, he invoked the January 6
+attack: “Not for nothing but last time we did this dance, it
+ended in an insurrection.” Id., at 9388. When Facebook
+did not respond promptly, he made his demand more explicit:
+“These questions weren't rhetorical.” Id., at 9387.
+If repeated accusations that Facebook aided an insur-
+rection did not sufficiently convey the White House's dis-
+pleasure, Flaherty and Slavitt made sure to do so by phone. 7
+In one call, both officials chided Facebook for not being
+“straightforward” and not “play[ing] ball.” Committee Re-
+port 141–142. Flaherty also informed Facebook that he was
+reporting on the COVID–19 misinformation problem to the
+President. Id., at 136.
+After a second call, a high-ranking Facebook executive
+perceived that Slavitt was “outraged—not too strong a word
+to describe his reaction”—that the platform had not removed
+a fast-spreading meme suggesting that the vaccines might
+cause harm. Id., at 295. The executive had “countered
+that removing content like that would represent a significant
+incursion into traditional boundaries of free expression in the
+US,” but Slavitt was unmoved, in part because he presumed
+that other platforms “would never accept something like
+this.” Ibid.
+A few weeks later, White House Press Secretary Jen Psaki
+was asked at a press conference about Facebook's decision to
+keep former President Donald Trump off the platform. See
+Press Briefing by Press Secretary Jen Psaki and Secretary
+of Agriculture Tom Vilsack (May 5, 2021) (hereinafter May 5
+Press Briefing).8 Psaki defected that question but took the
+opportunity to call on platforms like Facebook to “ `stop am-
+plifying untrustworthy content . . . , especially related to
+COVID–19, vaccinations, and elections.' ” 78 Record 25170.
+7 Notes recounting these calls were released by the House Judiciary
+Committee after the District Court entered the preliminary injunction
+and were published in a Committee Report. See Committee Report; Fed.
+Rule Evid. 201.
+8 https://www.whitehouse. gov/ briefing-room/press-briefings/2021/05/05/
+press-briefing-by-press-secretary-jen-psaki-and-secretary-of-agriculture-
+tom-vilsack-may-5-2021.
+In the same breath, Psaki reminded the platforms that Presi-
+dent Biden “ `supports . . . a robust anti-trust program.' ”
+Id., at 25171 (emphasis deleted); May 5 Press Briefing.
+Around this same time, Flaherty and Slavitt were
+interrogating Facebook on the mechanics of its content-
+moderation rules for COVID–19 misinformation. 30 Rec-
+ord 9391, 9397. Flaherty also forwarded to Facebook a
+“COVID–19 Vaccine Misinformation Brief” that had been
+drafted by outside researchers and was “informing thinking”
+in the White House on what Facebook's policies should be.
+52 id., at 16186. This document recommended that Face-
+book strengthen its efforts against misinformation in several
+ways. It recommended the adoption of “progressively se-
+vere penalties” for accounts that repeatedly posted misinfor-
+mation, and it proposed that Facebook make it harder for
+users to find “anti-vaccine or vaccine-hesitant propaganda”
+from other users. Ibid. Facebook declined to adopt some
+of these suggestions immediately, but it did “se[t] up more
+dedicated monitoring for [COVID] vaccine content” and
+adopted a policy of “stronger demotions [for] a broader set
+of content.” 30 id., at 9396.
+The White House responded with more questions. Ac-
+knowledging that he sounded “like a broken record,” Flah-
+erty interrogated Facebook about “how much content is
+being demoted, and how effective [Facebook was] at mitigat-
+ing reach, and how quickly.” Id., at 9395. Later, Flaherty
+chastised Facebook for failing to prevent some vaccine-
+hesitant content from showing up through the platform's
+search function. Id., at 9400. “ `[R]emoving bad informa-
+tion from search' is one of the easy, low-bar things you guys
+do to make people like me think you're taking action,” he
+said. Id., at 9399. “If you're not getting that right, it raises
+even more questions about the higher bar stuff.” Ibid. A
+few weeks after this latest round of haranguing, Facebook
+expanded penalties for individual Facebook accounts that re-
+peatedly shared content that fact-checkers deemed misinfor-
+mation; henceforth, all of those individuals' posts would show
+up less frequently in their friends' news feeds. See 9 id., at
+2697; Facebook, Taking Action Against People Who Repeat-
+edly Share Misinformation (May 26, 2021). 9
+Perhaps the most intense period of White House pressure
+began a short time later. On July 15, Surgeon General
+Vivek Murthy released an advisory titled “Confronting
+Health Misinformation.” 78 Record 25171, 25173. Dr. Mur-
+thy suggested, among other things, algorithmic changes to
+demote misinformation and additional consequences for mis-
+information “ `super-spreaders.' ” U. S. Public Health Serv-
+ice, Confronting Health Misinformation: The U. S. Surgeon
+General's Advisory on Building a Healthy Information Envi-
+ronment 12 (2021).10 Dr. Murthy also joined Psaki at a press
+conference, where he asked the platforms to take “much,
+much more . . . aggressive action” to combat COVID–19 mis-
+information “because it's costing people their lives.” Press
+Briefing by Press Secretary Jen Psaki and Surgeon General
+Dr. Vivek H. Murthy (July 15, 2021). 11
+At the same press conference, Psaki singled out Facebook
+as a primary driver of misinformation and asked the plat-
+form to make several changes. Facebook “should provide,
+publicly and transparently, data on the reach of COVID–19
+[and] COVID vaccine misinformation.” Ibid. It “needs to
+move more quickly to remove harmful, violative posts.”
+Ibid. And it should change its algorithm to promote “qual-
+ity information sources.” Ibid. These recommendations
+echoed Slavitt's and Flaherty's private demands from the
+preceding months—as Psaki herself acknowledged. The
+9 https://about.fb.com/news/2021/05/taking-action-against-people-who -
+repeatedly-share-misinformation.
+10 h t t p s : / / w w w. h h s . g o v / s i t e s / d e f a u l t / f i l e s / s u r g e o n - g e n e r a l -
+misinformation-advisory.pdf.
+11 https://www.whitehouse.gov/ briefing-room/press-briefings/2021/07/15/
+press-briefing-by-press-secretary-jen-psaki-and-surgeon-general-dr -
+vivek-h-murthy-july-15-2021.
+White House “engage[s] with [Facebook] regularly,” she said,
+and Facebook “certainly understand[s] what our asks are.”
+Ibid. Apparently, the White House had not gotten every-
+thing it wanted from those private conversations, so it was
+turning up the heat in public.
+Facebook responded by telling the press that it had part-
+nered with the White House to counter misinformation and
+that it had “removed accounts that repeatedly break these
+rules” and “more than 18 million pieces of COVID misinfor-
+mation.” 78 Record 25174. But at another press briefing
+the next day, Psaki said these efforts were “[c]learly not”
+sufficient and expressed confidence that Facebook would
+“make decisions about additional steps they can take.” See
+id., at 25175; Press Briefing by Press Secretary Jen Psaki
+(July 16, 2021). 12
+That same day, President Biden told reporters that social
+media platforms were “ `killing people' ” by allowing COVID-
+related misinformation to circulate. 78 Record 25174, 25212.
+At oral argument, the Government suggested that the Presi-
+dent later disclaimed any desire to hold the platforms ac-
+countable for misinformation, Tr. of Oral Arg. 34–35, but that
+is not so. The President's so-called clarification, like many
+other statements by Government officials, called on “ `Face-
+book' ” to “ `do something about the misinformation' ” on its
+platform. B. Klein, M. Vazquez, & K. Collins, Biden Backs
+Away From His Claim That Facebook Is `Killing People' by
+Allowing COVID Misinformation, CNN (July 19, 2021). 13
+And far from disclaiming potential regulatory action, the
+White House confirmed that it had not “ `taken any options
+off the table.' ” Ibid. In fact, the day after the President's
+supposed clarification, the White House Communications Di-
+rector commended the President for “speak[ing] very ag-
+12 https://www.whitehouse. gov/ briefng-room/press-briefngs/2021/07/16/
+press-briefng-by-press-secretary-jen-psaki-july-16-2021.
+13 https://www.cnn.com/2021/07/19/politics/joe-biden-facebook / index.
+html.
+gressively” and affirmed that platforms “certainly . . . should
+be held accountable” for publishing misinformation. 61 Rec-
+ord 19400–19401. Indeed, she said that the White House
+was “reviewing” whether § 230 should be amended to open
+the platforms to suit. Id., at 19400.
+Facebook responded quickly. The same day the President
+made his “killing people” remark, the platform reached out
+to Dr. Murthy to determine “the scope of what the White
+House expects from us on misinformation going forward.”
+9 id., at 2690. The next day, Facebook asked officials about
+how to “get back to a good place” with the White House. 30
+id., at 9403. And soon after, Facebook sent an email saying
+that it “hear[d]” the officials' “call for us to do more,” and
+promptly assured the White House that it would comply. 9
+id., at 2706. In spite of the White House's infammatory
+rhetoric, Facebook at all times went out of its way to strike
+a conciliatory tone. Only two days after the President's re-
+mark—and before his supposed clarification—Facebook as-
+sured Dr. Murthy that, though “it's not great to be accused
+of killing people,” Facebook would “find a way to deescalate
+and work together collaboratively.” Id., at 2713.
+Concrete changes followed in short order. In early Au-
+gust, the Surgeon General's Office reached out to Facebook
+for “an update of any new/additional steps you are taking
+with respect to health misinformation in light of” the July
+15 advisory. Id., at 2703. In response, Facebook informed
+the Surgeon General that it would soon “expan[d] [its]
+COVID policies to further reduce the spread of potentially
+harmful content.” Id., at 2701.
+White House-Facebook conversations about misinforma-
+tion did not end there. In September, the Wall Street Jour-
+nal wrote about the spread of misinformation on Facebook,
+and Facebook preemptively reached out to the White House
+to clarify. 8 id., at 2681. Flaherty asked (again) for infor-
+mation on “how big the problem is, what solutions you're
+implementing, and how effective they've been.” Ibid.
+Then in October, the Washington Post published yet an-
+other story suggesting that Facebook knew more than it let
+on about the spread of misinformation. Flaherty emailed
+the link to Facebook with the subject line: “not even sure
+what to say at this point.” Id., at 2676. And the Surgeon
+General's Office indicated both publicly and privately that it
+was disappointed in Facebook. See @Surgeon_General, X
+(Oct. 29, 2021) (accusing Facebook of “lacking . . . transpar-
+ency and accountability”); 14 9 Record 2708. Facebook of-
+fered to speak with both the White House and the Surgeon
+General's Office to assuage concerns. 8 id., at 2676.
+Interactions related to COVID–19 misinformation contin-
+ued until at least June 2022. Id., at 2663. At that point,
+Facebook proposed discontinuing its reports on misinforma-
+tion, but assured the White House that it would be “happy
+to continue, or to pick up at a later date, . . . if we hear from
+you that this continues to be of value.” Ibid. Flaherty
+asked Facebook to continue reporting on misinformation be-
+cause the Government was preparing to roll out COVID–19
+vaccines for children under fve years old and, “[o]bviously,”
+that rollout “ha[d] a potential to be just as charged” as other
+vaccine-related controversies. Ibid. Flaherty added that
+he “[w]ould love to get a sense of what you all are planning
+here,” and Facebook agreed to provide information for as
+long as necessary. Ibid.
+What these events show is that top federal officials contin-
+uously and persistently hectored Facebook to crack down on
+what the officials saw as unhelpful social media posts, includ-
+ing not only posts that they thought were false or misleading
+but also stories that they did not claim to be literally false
+but nevertheless wanted obscured. See, e. g., 30 id., at 9361,
+9365, 9369, 9385–9388. And Facebook's reactions to these
+efforts were not what one would expect from an independ-
+ent news source or a journalistic entity dedicated to holding
+14 https://twitter.com/Surgeon_General/status/1454181191494606854.
+the Government accountable for its actions. Instead, Face-
+book's responses resembled that of a subservient entity de-
+termined to stay in the good graces of a powerful task-
+master. Facebook told White House officials that it would
+“work . . . to gain your trust.” Id., at 9365. When criti-
+cized, Facebook representatives whimpered that they
+“thought we were doing a better job” but promised to do
+more going forward. Id., at 9371. They pleaded to know
+how they could “get back to a good place” with the White
+House. Id., at 9403. And when denounced as “killing peo-
+ple,” Facebook responded by expressing a desire to “work
+together collaboratively” with its accuser. 9 id., at 2713; 78
+id., at 25174. The picture is clear.
+B
+While all this was going on, Jill Hines and others were
+subjected to censorship. Hines serves as the co-director of
+Health Freedom Louisiana, an organization that advocated
+against vaccine and mask mandates during the pandemic.
+Over the course of the pandemic—and while the White
+House was pressuring Facebook—the platform repeatedly
+censored Hines's speech.
+For instance, in the summer and fall of 2021, Facebook
+removed two groups that Hines had formed to discuss the
+vaccine. 4 id., at 1313–1315. In January 2022, Facebook re-
+stricted posts from Hines's personal page “for 30 days . . .
+for sharing the image of a display board used in a legislative
+hearing that had Pfzer's preclinical trial data on it.” Id.,
+at 1313. In late May, Facebook restricted Hines for 90
+days for sharing an article about “increased emergency calls
+for teens with myocarditis following [COVID] vaccination.”
+Id., at 1313–1314. Hines's public pages, Reopen Louisiana
+and Health Freedom Louisiana, were subjected to similar
+treatment. Facebook's disciplinary actions meant that both
+public pages suffered a drop in viewership; as Hines put it,
+“Each time you build viewership up [on a page], it is knocked
+back down with each violation.” Id., at 1314. And from
+February to April 2023, Facebook issued warnings and viola-
+tions for several vaccine-related posts shared on Hines's per-
+sonal and public pages, including a post by Robert F. Ken-
+nedy, Jr., and an article entitled “ `Some Americans Shouldn't
+Get Another COVID-19 Vaccine Shot, FDA Says.' ” 78 id.,
+at 25503–25506. The result was that “[n]o one else was per-
+mitted to view or engage with the[se] post[s].” Id., at 25503.
+II
+Hines and the other plaintiffs in this case brought this suit
+and asked for an injunction to stop the censorship campaign
+just described. To maintain that suit, they needed to show
+that they (1) were imminently threatened with an injury in
+fact (2) that is traceable to the defendants and (3) that could
+be redressed by the court. Lujan, 504 U. S., at 560–561;
+O'Shea v. Littleton, 414 U. S. 488, 496 (1974). Hines satisfied
+all these requirements.
+A
+Injury in fact. Because Hines sought and obtained a pre-
+liminary injunction, it was not enough for her to show that
+she had been injured in the past. Instead, she had to iden-
+tify a “real and immediate threat of repeated injury” that
+existed at the time she sued—that is, on August 2, 2022.
+O'Shea, 414 U. S., at 496; see also Friends of the Earth, Inc.
+v. Laidlaw Environmental Services (TOC), Inc., 528 U. S.
+167, 191 (2000); Mollan v. Torrance, 9 Wheat. 537, 539 (1824).
+The Government concedes that Hines suffered past injury,
+but it claims that she did not make the showing needed
+to obtain prospective relief. See Brief for Petitioners 17.
+Both the District Court and the Court of Appeals rejected
+this argument and found that Hines had shown that she was
+likely to be censored in the future. 680 F. Supp. 3d, at 713;
+83 F. 4th, at 368–369. We have previously examined such
+findings under the “clearly erroneous” test. See Duke
+Power Co. v. Carolina Environmental Study Group, Inc.,
+438 U. S. 59, 77 (1978). But no matter what test is applied,
+the record clearly shows that Hines was still being censored
+when she sued—and that the censorship continued thereaf-
+ter. See supra, at 90–91. That was sufficient to establish
+the type of injury needed to obtain injunctive relief.
+O'Shea, 414 U. S., at 496; see also County of Riverside v.
+McLaughlin, 500 U. S. 44, 51 (1991).
+B
+Traceability. To sue the White House officials, Hines had
+to identify a “causal connection” between the actions of those
+officials and her censorship. Bennett v. Spear, 520 U. S. 154,
+167 (1997). Hines did not need to prove that it was only
+because of those officials' conduct that she was censored.
+Rather, as we held in Department of Commerce v. New York,
+588 U. S. 752 (2019), it was enough for her to show that one
+predictable effect of the officials' action was that Facebook
+would modify its censorship policies in a way that affected
+her. Id., at 768.
+Hines easily met that test, and her traceability theory is
+at least as strong as the State of New York's in the Depart-
+ment of Commerce case. There, the State claimed that it
+would be hurt by a census question about citizenship. The
+State predicted that the question would dissuade some non-
+citizen households from complying with their legal duty to
+complete the form, and it asserted that this in turn could
+cause the State to lose a seat in the House of Representa-
+tives, as well as federal funds that are distributed on the
+basis of population. Id., at 766–767. Although this theory
+depended on illegal conduct by third parties and an attenu-
+ated chain of causation, the Court found that the State had
+established traceability. It was enough, the Court held, that
+the failure of some aliens to respond to the census was “likely
+attributable” to the Government's introduction of a citizen-
+ship question. Id., at 768.
+This is not a demanding standard, and Hines made the
+requisite showing—with room to spare. Recall that officials
+from the White House and Surgeon General's Office repeat-
+edly hectored and implicitly threatened Facebook to sup-
+press speech expressing the viewpoint that Hines espoused.
+See supra, at 81–90. Censorship of Hines was the “predict-
+able effect” of these efforts. Department of Commerce , 588
+U. S., at 768. Or, to put the point in different terms, Face-
+book would “likely react in predictable ways” to this unre-
+lenting pressure. Ibid.
+This alone was sufficient to show traceability, but here there
+is even more direct proof. On numerous occasions, the White
+House officials successfully pushed Facebook to tighten its
+censorship policies, see supra, at 82–83, 85–86, 88, and those
+policies had implications for Hines.15 First, in March 2021,
+the White House pressured Facebook into implementing
+a policy of removing accounts that “disproportionately
+promot[e] . . . sensationalized content” about vaccines.
+15 The Court discounts this evidence because Hines did not draw the
+same links in her briefing. See ante, at 67, n. 7. But we have an “inde-
+pendent obligation” to assess standing, Summers v. Earth Island Insti-
+tute, 555 U. S. 488, 499 (2009), and a “virtually unflagging obligation” to
+exercise our jurisdiction if standing exists, Colorado River Water Conser-
+vation Dist. v. United States, 424 U. S. 800, 817 (1976). “[A] case like this
+one, where the record spans over 26,000 pages” and the plaintiffs have
+provided numerous facts, deserves some scrutiny before we simply brush
+standing aside. Ante, at 67, n. 7.
+As it happens, Hines has said enough to establish standing. First, she
+says that, at the behest of the White House, Facebook announced new
+measures to combat misinformation about COVID–19 and the vaccines.
+Second, she says that her Facebook pages fell under those policies. Third,
+she says that she suffered the penalties imposed by Facebook, such as
+demotion of her posts and pages. See 4 Record 1315; 78 id., at 25503.
+She may not explicitly say that the policy changes caused the penalties
+she experienced. But what theory makes more sense—that a user falling
+within Facebook's amended policies was censored under those policies or
+that something else caused her injury?
+Supra, at 82–83. Later that year, Facebook removed two of
+Hines's groups, which posted about vaccines. Supra, at 90.
+And when Hines sued in August 2022, she reported that her
+personal page was “currently restricted” for sharing vaccine-
+related content and, thus, that she was “under constant
+threat of being completely deplatformed.” 4 Record 1314.
+Second, in May, Facebook told Slavitt that it would “se[t]
+up more dedicated monitoring” of vaccine content and apply
+demotions to “a broader set of content.” Supra, at 85.
+Then, a few weeks later, Facebook also increased demotions
+of posts by individual Facebook accounts that repeatedly
+shared misinformation. Supra, at 85–86. Hines says that
+she was repeatedly fact-checked for posting about the vac-
+cines, see supra, at 90–91; 4 Record 1314, so these policy
+changes apparently increased the risk that posts from her
+personal account would have been hidden from her friends'
+Facebook feeds.
+Third, in response to the July 2021 comments from the
+White House and the Surgeon General, Facebook made more
+changes. Supra, at 88. And from the details Hines pro-
+vides about her posting history, this policy change would
+have affected her. For one thing, Facebook “rendered `non-
+recommendable' ” any page linked to another account that
+had been “removed” for spreading misinformation about
+COVID–19. 9 Record 2701. Hines says that two of her
+groups were removed for alleged COVID misinformation
+around this time. Supra, at 90; 4 Record 1315. So under
+the new policy, her other pages would apparently be non-
+recommendable. Perhaps for this reason, though Hines at-
+tempted to convince members of her deplatformed group to
+migrate to a substitute group, only about a quarter of its
+membership made the move before the substitute group too
+was removed. Ibid.
+For another, Facebook “increas[ed] the strength of [its] de-
+motions for COVID and vaccine-related content that third
+party fact checkers rate[d] as `Partly False' or `Missing Con-
+text.' ” 9 id., at 2701. And Facebook “ma[de] it easier to
+have Pages/Groups/Accounts demoted for sharing COVID
+and vaccine-related misinformation by . . . counting content
+removals” under Facebook's COVID–19 policies “towards
+their demotion threshold.” Ibid. Under this new policy,
+Facebook would now consider Hines's “numerous” commu-
+nity standards violations, 4 id., at 1314, when determining
+whether to make her posts less accessible to other users.
+So, for instance, when Hines received several citations in
+early 2023, this amendment would have governed Facebook's
+decision to “downgrad[e] the visibility of [her] posts in Face-
+book's News Feed (thereby limiting its reach to other
+users).” 78 id., at 25503. The record here amply shows
+traceability.
+The Court reaches the opposite conclusion by applying a
+new and heightened standard. The Court notes that Face-
+book began censoring COVID–19-related misinformation be-
+fore officials from the White House and the Surgeon Gener-
+al's Office got involved. Ante, at 68; see also Brief for
+Petitioners 18. And in the Court's view, that fact makes
+it difficult to untangle Government-caused censorship from
+censorship that Facebook might have undertaken anyway.
+See ante, at 68. That may be so, but in the Department of
+Commerce census case, it also would have been difficult for
+New York to determine which noncitizen households failed
+to respond to the census because of a citizenship question
+and which had other reasons. Nevertheless, the Court did
+not require New York to perform that essentially impossible
+operation because it was clear that a citizenship question
+would dissuade at least some noncitizen households from re-
+sponding. As we explained, “Article III `requires no more
+than de facto causality,' ” so a showing that a citizenship
+question affected some aliens sufficed. Department of Com-
+merce, 588 U. S., at 768.
+Here, it is reasonable to infer (indeed, the inference leaps
+out from the record) that the efforts of the federal officials
+affected at least some of Facebook's decisions to censor
+Hines. All of Facebook's demotion, content-removal, and
+deplatforming decisions are governed by its policies.16 So
+when the White House pressured Facebook to amend some of
+the policies related to speech in which Hines engaged, those
+amendments necessarily impacted some of Facebook's cen-
+sorship decisions. Nothing more is needed. What the
+Court seems to want are a series of ironclad links—from a
+particular coercive communication to a particular change in
+Facebook's rules or practice and then to a particular adverse
+action against Hines. No such chain was required in the
+Department of Commerce case, and neither should one be
+demanded here.
+In addition to this heightened linkage requirement, the
+Court argues that Hines lacks standing because the threat
+of future injury dissipated at some point during summer 2022
+when the officials' pressure campaign tapered off. Ante, at
+72, n. 10. But this argument errs in two critical respects.
+First, the effects of the changes the officials coerced per-
+sisted. Those changes controlled censorship decisions be-
+fore and after Hines sued.
+Second, the White House threats did not come with expira-
+tion dates, and it would be silly to assume that the threats
+lost their force merely because White House officials opted
+not to renew them on a regular basis. Indeed, the record
+suggests that Facebook did not feel free to chart its own
+course when Hines sued; rather, the platform had promised
+to continue reporting to the White House and remain respon-
+sive to its concerns for as long as the officials requested.
+Supra, at 89.
+In short, when Hines sued in August 2022, there was still
+a link between the White House and the injuries she was
+presently suffering and could reasonably expect to suffer in
+the future. That is enough for traceability.
+16 See Meta, Policies, https://transparency.meta.com/policies (last ac -
+cessed June 19, 2024).
+C
+Redressability. Finally, Hines was required to show that
+the threat of future injury she faced when the complaint was
+fled “likely would be redressed” by injunctive relief. FDA
+v. Alliance for Hippocratic Medicine , 602 U. S. 367, 380
+(2024). This required proof that a preliminary injunction
+would reduce Hines's “risk of [future] harm . . . to some ex-
+tent.” Massachusetts v. EPA, 549 U. S. 497, 526 (2007) (em-
+phasis added). And as we recently explained, “[t]he second
+and third standing requirements—causation and redressabil-
+ity—are often `fip sides of the same coin.' ” Alliance for
+Hippocratic Medicine , 602 U. S., at 380. Therefore, “[i]f a
+defendant's action causes an injury, enjoining the action or
+awarding damages for the action will typically redress that
+injury.” Id., at 381.
+Hines easily satisfied that requirement. For the reasons
+just explained, there is ample proof that Hines's past injuries
+were a “predictable effect” of the Government's censorship
+campaign, and the preliminary injunction was likely to pre-
+vent the continuation of the harm to at least “some extent.”
+Massachusetts v. EPA, 549 U. S., at 526.
+The Court disagrees because Facebook “remain[s] free to
+enforce . . . even those [policies] tainted by initial governmen-
+tal coercion.” Ante, at 73. But as with traceability, the
+Court applies a new and elevated standard for redressability,
+which has never required plaintiffs to be “certain” that a
+court order would prevent future harm. Larson v. Valente,
+456 U. S. 228, 243–244, n. 15 (1982). In Massachusetts v.
+EPA, for example, no one could say that the relief sought—
+reconsideration by the EPA of its decision not to regulate
+the emission of greenhouse gases—would actually remedy
+the Commonwealth's alleged injuries, such as the loss of land
+due to rising sea levels. The Court's decision did not pre-
+vent the EPA from adhering to its prior decision, 549 U. S.,
+at 534–535, and there was no way to know with any degree
+of certainty that any greenhouse gas regulations that the
+EPA might eventually issue would prevent the oceans from
+rising. Yet the Court found that the redressability require-
+ment was met.
+Similarly, in Department of Commerce , no one could say
+with any certainty that our decision barring a citizenship
+question from the 2020 census questionnaire would prevent
+New York from losing a seat in the House of Representa-
+tives, 588 U. S., at 767, and in fact that result occurred de-
+spite our decision. S. Goldmacher, New York Loses House
+Seat After Coming Up 89 People Short on Census, N. Y .
+Times, Apr. 26, 2021. 17
+As we recently proclaimed in FDA v. Alliance for Hippo-
+cratic Medicine , Article III standing is an important compo-
+nent of our Constitution's structural design. See 602 U. S.,
+at 378–380. That doctrine is cheapened when the rules are
+not evenhandedly applied.
+* * *
+Hines showed that, when she sued, Facebook was censor-
+ing her COVID-related posts and groups. And because the
+White House prompted Facebook to amend its censorship
+policies, Hines's censorship was, at least in part, caused by
+the White House and could be redressed by an injunction
+against the continuation of that conduct. For these reasons,
+Hines met all the requirements for Article III standing.
+III
+I proceed now to the merits of Hines's First Amendment
+claim.18 Government efforts to “dictat[e] the subjects about
+17 https://www.nytimes.com/2021/04/26/nyregion/new-york-census -
+congress.html.
+18 To obtain a preliminary injunction, Hines was required to establish
+that she is likely to succeed on the merits, that she would otherwise suffer
+irreparable harm, and that the equities cut in her favor. Winter v. Natu-
+ral Resources Defense Council, Inc., 555 U. S. 7, 20 (2008). In a First
+Amendment case, the equities are bound up in the merits. See Elrod
+v. Burns, 427 U. S. 347, 373 (1976) (plurality opinion) (“The loss of First
+Amendment freedoms, for even minimal periods of time, unquestionably
+which persons may speak,” First Nat. Bank of Boston v. Bel-
+lotti, 435 U. S. 765, 784–785 (1978), or to suppress protected
+speech are “ `presumptively unconstitutional,' ” Rosenberger
+v. Rector and Visitors of Univ. of Va., 515 U. S. 819, 830
+(1995). And that is so regardless of whether the Govern-
+ment carries out the censorship itself or uses a third party
+“ `to accomplish what . . . is constitutionally forbidden.' ”
+Norwood v. Harrison, 413 U. S. 455, 465 (1973).
+As the Court held more than 60 years ago in Bantam
+Books, Inc. v. Sullivan, 372 U. S. 58 (1963), the Government
+may not coerce or intimidate a third-party intermediary into
+suppressing someone else's speech. Id., at 67. Earlier this
+Term, we reaffirmed that important principle in National
+Rife Association v. Vullo, 602 U. S., at 187–191. As we said
+there, “a government official cannot do indirectly what she
+is barred from doing directly,” id., at 190, and while an off-
+cial may forcefully attempt to persuade, “[w]hat she cannot
+do . . . is use the power of the State to punish or suppress
+disfavored expression,” id., at 188.
+In Vullo, the alleged conduct was blunt. The head of the
+state commission with regulatory authority over insurance
+companies allegedly told executives at Lloyd's directly and
+in no uncertain terms that she would be “ `less interested' ”
+in punishing the company's regulatory infractions if it ceased
+doing business with the National Rife Association. Id., at
+183. The federal officials' conduct here was more subtle and
+sophisticated. The message was delivered piecemeal by
+various officials over a period of time in the form of aggres-
+sive questions, complaints, insistent requests, demands, and
+thinly veiled threats of potentially fatal reprisals. But the
+message was unmistakable, and it was duly received.
+The principle recognized in Bantam Books and Vullo re-
+quires a court to distinguish between permissible persuasion
+and unconstitutional coercion, and in Vullo, we looked to
+constitutes irreparable injury”). So I focus on Hines's likelihood of
+success.
+three leading factors that are helpful in making that determi-
+nation: (1) the authority of the government officials who are
+alleged to have engaged in coercion, (2) the nature of state-
+ments made by those officials, and (3) the reactions of the
+third party alleged to have been coerced. 602 U. S., at 189–
+190, and n. 4, 191–194. In this case, all three factors point
+to coercion.
+A
+I begin with the authority of the relevant officials—high-
+ranking White House officials and the Surgeon General.
+High-ranking White House officials presumably speak for
+and may have the ability to influence the President, and
+as discussed earlier, a Presidential administration has the
+power to inflict potentially fatal damage to social media plat-
+forms like Facebook. See supra, at 80–81. Facebook ap-
+preciates what the White House could do, and President
+Biden has spoken openly about that power—as he has every
+right to do. For instance, he has declared that the “policy
+of [his] Administration [is] to enforce the antitrust laws to
+meet the challenges posed by . . . the rise of the dominant
+Internet platforms,” and he has directed the Attorney Gen-
+eral and other agency heads to “enforce the antitrust laws
+. . . vigorously.” Promoting Competition in the American
+Economy, Executive Order No. 14036, 3 CFR 609 (2021). 19
+He has also foated the idea of amending or repealing § 230
+of the Communications Decency Act. See, e. g., B. Klein,
+White House Reviewing Section 230 Amid Efforts To Push
+Social Media Giants To Crack Down on Misinformation, CNN
+(July 20, 2021); 20 R. Kern, White House Renews Call To `Re-
+move' Section 230 Liability Shield, Politico (Sept. 8, 2022). 21
+19 https://www.whitehouse. gov/ briefing-room/presidential-actions/2021/
+07/09/executive-order-on-promoting-competition-in-the-american-economy.
+20 https://www.cnn.com/2021/07/20/politics/white-house-section-230-face-
+book/index.html.
+21 https://www.politico.com/news/2022/09/08/white-house-renews-call-to-
+remove-section-230-liability-shield-00055771.
+Previous administrations have also wielded significant
+power over Facebook. In a data-privacy case brought
+jointly by the Department of Justice and the Federal Trade
+Commission, Facebook was required “to pay an unprece-
+dented $5 billion civil penalty,” which is “among the largest
+civil penalties ever obtained by the federal government.”
+Press Release, Dept. of Justice, Facebook Agrees To Pay $5
+Billion and Implement Robust New Protections of User In-
+formation in Settlement of Data-Privacy Claims (July 24,
+2019).22
+A matter that may well have been prominent in Face-
+book's thinking during the period in question in this case
+was a dispute between the United States and the European
+Union over international data transfers. In 2020, the Court
+of Justice of the European Union invalidated the mechanism
+for transferring data between the European Union and
+United States because it did not sufficiently protect EU citi-
+zens from Federal Government surveillance. Data Protec-
+tion Comm'r v. Facebook Ireland Limited, Case C–311/18
+(2020). The EU-U. S. conflict over data privacy hindered
+Facebook's international operations, but Facebook could not
+“resolve [the conflict] on its own.” N. Clegg & J. Newstead,
+Our Response to the Decision on Facebook's EU-US Data
+Transfers, Meta (May 22, 2023). 23 Rather, the platform re-
+lied on the White House to negotiate an agreement that
+would preserve its ability to maintain its trans-Atlantic oper-
+ations. K. Mackrael, EU Approves Data-Transfer Deal
+With U. S., Averting Potential Halt in Flows, Wall Street
+Journal, July 10, 2023. 24
+22 https://www.justice. gov/opa/pr/facebook-agrees-pay-5-billion-and -
+implement-robust-new-protections-user-information.
+23 https://about.fb.com/news/2023/05/our-response-to-the-decision-on -
+facebooks-eu-us-data-transfers.
+24 https://www.wsj.com/articles/eu-approves-data-transfer-deal-with-u-s-
+averting-potential-halt-in-fows-7a149c9.
+It is therefore beyond any serious dispute that the top-
+ranking White House officials and the Surgeon General pos-
+sessed the authority to exert enormous coercive pressure.
+B
+1
+Second, I turn to the officials' communications with Face-
+book, which possess all the hallmarks of coercion that we
+identified in Bantam Books and Vullo. Many of the White
+House's emails were “phrased virtually as orders,” Bantam
+Books, 372 U. S., at 68, and the officials' frequent follow-ups
+ensured that they were understood as such, id., at 63. To
+take a few examples, after Flaherty read an article about
+content causing vaccine hesitancy, he demanded “to know
+that [Facebook was] trying” to combat the issue and “to
+know that you're not playing a shell game with us when we
+ask you what is going on.” 30 Record 9365; see supra, at
+82. The next month, he requested “assurances, based in
+data,” that Facebook was not “making our country's vaccine
+hesitancy problem worse.” 30 Record 9371; see supra, at 83.
+A week after that, he questioned Facebook about its policies
+“for removal vs demoting,” and when the platform did not
+promptly respond, he added: “These questions weren't rhe-
+torical.” 30 Record 9387; see supra, at 84. When Facebook
+provided the White House with some data it asked for, Flah-
+erty thanked Facebook for demonstrating “that you at least
+understand the ask.” 30 Record 9368; see supra, at 83.
+Various comments during the July pressure campaign like-
+wise reveal that the White House and the Surgeon General's
+Office expected compliance. At the press conference an-
+nouncing the Surgeon General's recommendations related to
+misinformation, Psaki noted that the White House “engage[s]
+with [Facebook] regularly,” and Facebook “certainly under-
+stand[s] what our asks are.” Supra, at 86–87. The next
+day, she expressed confidence that Facebook would “make
+decisions about additional steps they can take.” 78 Record
+25175; see supra, at 87. And eventually, the Surgeon Gener-
+al's Office prompted Facebook for “an update of any new/
+additional steps you are taking with respect to health misin-
+formation in light of” the July 15 advisory. 9 Record 2703;
+see supra, at 88.
+These demands were coupled with “thinly veiled threats”
+of legal consequences. Bantam Books, 372 U. S., at 68.
+Three instances stand out. Early on, when the White House
+first expressed skepticism that Facebook was effectively
+combating misinformation, Slavitt informed the platform
+that the White House was “considering our options on what
+to do about it.” 30 Record 9364; see supra, at 82. In other
+words, if Facebook did not “solve” its “misinformation” prob-
+lem, the White House might unsheathe its potent authority.
+30 Record 9364.
+The threat was made more explicit in May, when Psaki
+paired a request for platforms to “ `stop amplifying untrust-
+worthy content' ” with a reminder that President Biden
+“ `supports . . . a robust anti-trust program.' ” 78 id., at
+25170–25171 (emphasis deleted); May 5 Press Briefing; see
+also supra, at 85. The Government casts this reference to
+legal consequences as a defense of individual Americans
+against censorship by the platforms. See Reply Brief 9.
+But Psaki's full answer undermines that interpretation.
+Immediately after noting President Biden's support for anti-
+trust enforcement, Psaki added, “So his view is that there's
+more that needs to be done to ensure that this type of . . .
+life-threatening information is not going out to the American
+public.” May 5 Press Briefing. The natural interpretation
+is that the White House might retaliate if the platforms al-
+lowed free speech, not if they suppressed it.
+Finally, in July, the White House asserted that the plat-
+forms “should be held accountable” for publishing misinfor-
+mation. 61 Record 19400; see supra, at 86–88. The totality
+of this record—constant haranguing, dozens of demands for-
+compliance, and references to potential consequences—
+evince “a scheme of state censorship.” Bantam Books, 372
+U. S., at 72.
+2
+The Government tries to spin these interactions as fairly
+benign. In its telling, Flaherty, Slavitt, and other officials
+merely “asked the platforms for information” and then “pub-
+licly and privately criticized the platforms for what the off-
+cials perceived as a . . . failure to live up to the platforms'
+commitments.” Brief for Petitioners 31. References to
+consequences, the Government claims, were “fleeting and
+general” and “cannot plausibly be characterized as coercive
+threats.” Id., at 32.
+This characterization is not true to what happened. Sla-
+vitt and Flaherty did not simply ask Facebook for informa-
+tion. They browbeat the platform for months and made it
+clear that if it did not do more to combat what they saw as
+misinformation, it might be called to account for its short-
+comings. And as for the supposedly “fleeting” nature of the
+numerous references to potential consequences, death
+threats can be very effective even if they are not delivered
+every day.
+The Government also defends the officials' actions on the
+ground that “[t]he President and his senior aides are entitled
+to speak out on such matters of pressing public concern.”
+Reply Brief 11. According to the Government, the officials
+were simply using the President's “bully pulpit” to “in-
+form, persuade, and protect the public.” Brief for Petition-
+ers 5, 24.
+This argument introduces a new understanding of the
+term “bully pulpit,” which was coined by President Theodore
+Roosevelt to denote a President's excellent (i. e., “bully” 25)
+position (i. e., his “pulpit”) to persuade the public.26 But
+25 Webster's International Dictionary of the English Language 191
+(1902).
+26 See D. Goodwin, The Bully Pulpit: Theodore Roosevelt, William How-
+ard Taft, and the Golden Age of Journalism, pp. xi–xii (2013) (Goodwin).
+Flaherty, Slavitt, and other officials who emailed and tele-
+phoned Facebook were not speaking to the public from a
+fgurative pulpit. On the contrary, they were engaged in a
+covert scheme of censorship that came to light only after the
+plaintiffs demanded their emails in discovery and a congres-
+sional Committee obtained them by subpoena. See Commit-
+tee Report 1–2. If these communications represented the
+exercise of the bully pulpit, then everything that top federal
+officials say behind closed doors to any private citizen must
+also represent the exercise of the President's bully pulpit.
+That stretches the concept beyond the breaking point.
+In any event, the Government is hard-pressed to find any
+prior example of the use of the bully pulpit to threaten cen-
+sorship of private speech. The Government cites four in-
+stances in which past Presidents commented publicly about
+the performance of the media. President Reagan lauded the
+media for “tough reporting” on drugs. Reagan Presiden-
+tial Library & Museum, Remarks to Media Executives at a
+White House Briefing on Drug Abuse (Mar. 7, 1988). 27 But
+he never threatened to do anything to media outlets that
+were soft on the issue of drugs. President Theodore Roose-
+velt “lambasted `muck-raking' journalists” as “ `one of the
+most potent forces for evil' ” and encouraged journalists to
+speak truth, rather than slander. Brief for Petitioners 24
+(quoting The American Presidency Project, Remarks at the
+Laying of the Cornerstone of the Office Building of the
+House of Representatives (Apr. 14, 1906)).28 But his com-
+ment did not threaten any action against the muckrakers,
+see Goodwin 480–487, and it is unclear what he could have
+done to them. President George W. Bush denounced por-
+nography as “debilitating” for “communities, marriages, fam-
+ilies, and children.” Presidential Proclamation No. 7725, 3
+27 https://www.reaganlibrary.gov/archives/speech/remarks-media -
+executives-white-house-briefng-drug-abuse.
+28 https://www.presidency.ucsb.edu/documents/remarks-the-laying-the -
+cornerstone-the-offce-building-the-house-representatives-the-man.
+CFR 129 (2003 Comp.). But he never threatened to take
+action against pornography that was not “obscene” within
+the meaning of our precedents.
+The Government's last example is a 1915 speech in which
+President Wilson deplored false reporting that the Japanese
+were using Turtle Bay, California, as a naval base. The
+American Presidency Project, Address at the Associated
+Press Luncheon in New York City (Apr. 20, 1915).29 Speak-
+ing to a gathering of reporters, President Wilson proclaimed:
+“We ought not to permit that sort of thing to use up the
+electrical energy of the [telegraph] wires, because its energy
+is malign, its energy is not of the truth, its energy is of mis-
+chief.” Ibid. Wilson's comment is best understood as met-
+aphorical and hortatory, not as a legal threat. And in any
+event, it is hard to see how he could have brought about
+censorship of telegraph companies because the Mann-Elkins
+Act, enacted in 1910, deemed them to be common carriers,
+and that meant that they were obligated to transmit all mes-
+sages regardless of content. See 36 Stat. 544–545; T. Wu, A
+Brief History of American Telecommunications Regulation,
+in 5 Oxford International Encyclopedia of Legal History 95
+(2007). Thus, none of these examples justifies the conduct
+at issue here.
+C
+Finally, Facebook's responses to the officials' persistent in-
+quiries, criticisms, and threats show that the platform per-
+ceived the statements as something more than mere recom-
+mendations. Time and time again, Facebook responded to
+an angry White House with a promise to do better in the
+future. In March, Facebook attempted to assuage the
+White House by acknowledging “[w]e obviously have work to
+do to gain your trust.” 30 Record 9365. In April, Facebook
+29 https://www.presidency.ucsb.edu/documents/address-the-associated -
+press-luncheon-new-york-city.
+promised to “more clearly respon[d] to [White House] ques-
+tions.” Id., at 9371. In May, Facebook “committed to ad-
+dressing the defensive work around misinformation that
+you've called on us to address.” 9 id., at 2698. In July,
+Facebook reached out to the Surgeon General after “the
+President's remarks about us” and emphasized its efforts “to
+better understand the scope of what the White House ex-
+pects from us on misinformation going forward.” Id., at
+2690. And of course, as we have seen, Facebook repeatedly
+changed its policies to better address the White House's con-
+cerns. See supra, at 82–83, 85–86, 88.
+The Government's primary response is that Facebook oc-
+casionally declined to take its suggestions. Reply Brief 11;
+see, e. g., supra, at 85. The implication is that Facebook
+must have chosen to undertake all of its anti-misinformation
+efforts entirely of its own accord.
+That is bad logic, and in any event, the record shows other-
+wise. It is true that Facebook voluntarily undertook some
+anti-misinformation efforts and that it declined to make some
+requested policy changes. But the interactions recounted
+above unmistakably show that the White House was insis-
+tent that Facebook should do more than it was doing on its
+own, see, e. g., supra, at 86–87, and Facebook repeatedly
+yielded—even if it did not always give the White House
+everything it wanted.
+Internal Facebook emails paint a clear picture of subservi-
+ence. The platform quickly realized that its “handling of
+[COVID] misinformation” was “importan[t]” to the White
+House, so it looked for ways “to be viewed as a trusted,
+transparent partner” and “avoid . . . public spat[s].” Com-
+mittee Report 181, 184, 188. After the White House blamed
+Facebook for aiding an insurrection, the platform realized
+that it was at a “crossroads . . . with the White House.” Id.,
+at 294. “Given what is at stake here,” one Facebook em-
+ployee proposed reevaluating the company's “internal meth-
+ods” to see what “further steps we may/may not be able to
+take.” Id., at 295. This reevaluation led to one of Face-
+book's policy changes. See supra, at 83–86.
+Facebook again took stock of its relationship with the
+White House after the President's accusation that it was
+“killing people.” Internally, Facebook saw little merit in
+many of the White House's critiques. One employee labeled
+the White House's understanding of misinformation “com-
+pletely unclear” and speculated that “it's convenient for them
+to blame us” “when the vaccination campaign isn't going as
+hoped.” Committee Report 473. Nonetheless, Facebook
+figured that its “current course” of “in effect explaining our-
+selves more fully, but not shifting on where we draw the
+lines,” is “a recipe for protracted and increasing acrimony
+with the [White House].” Id., at 573. “Given the bigger
+fsh we have to fry with the Administration,” such as the
+EU-U. S. dispute over “data fows,” that did not “seem [like]
+a great place” for Facebook-White House relations “to be.”
+Ibid. So the platform was motivated to “explore some moves
+that we can make to show that we are trying to be respon-
+sive.” Ibid. That brainstorming resulted in the August
+2021 rule changes. See supra, at 88, 94–95.
+In sum, the officials wielded potent authority. Their com-
+munications with Facebook were virtual demands. And
+Facebook's quavering responses to those demands show that
+it felt a strong need to yield.
+For these reasons, I would hold that Hines is likely to pre-
+vail on her claim that the White House coerced Facebook
+into censoring her speech.
+* * *
+For months, high-ranking Government officials placed un-
+relenting pressure on Facebook to suppress Americans' free
+speech. Because the Court unjustifiably refuses to address
+this serious threat to the First Amendment, I respectfully
+dissent.

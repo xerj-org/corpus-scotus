@@ -1,0 +1,740 @@
+Watson v. Republican National Committee — No. 24-1260 — October Term 2025 — decided 6/29/26 — Alito, J., dissenting
+Citation: 609 U.S. 672
+Source: https://www.supremecourt.gov/opinions/25pdf/609us2r65_g314.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Alito, with whom Justice Thomas and Justice
+Gorsuch join, and with whom Justice Kavanaugh joins as
+to all but Parts II–C–2 and III, dissenting.
+Federal law designates “the Tuesday next after the first
+Monday in November” as “election day,” 3 U. S. C. § 21, and
+provides that elections for federal office must be held on that
+date. See 2 U. S. C. §§ 1, 7; 3 U. S. C. § 1. As the Court ex-
+plains, an election is “the expression of the electorate's
+choice,” ante, at 682, but because the electorate is a collective
+body consisting of many individuals, the way in which it ex-
+presses its choice is less straightforward than would be the
+case if the electorate were a single individual. If the elec-
+torate were an individual, it could issue a document declaring
+that specified men and women were selected to fll the fed-
+eral offices for which the candidates had competed, but be-
+cause the electorate is a collective body, it cannot express its
+selections in that way. Instead, its choices are embodied in
+the collection of ballots cast by the individuals who make
+up the electorate. Taken all together, this collection is the
+equivalent of a single document declaring the winner of each
+race. This expression of the electorate's choices is conveyed
+to the responsible election officials when the collection of in-
+dividual ballots is completed. At that point, the electorate
+authoritatively expresses its choices, and what the election-
+day statutes demand is that this authoritative choice be
+made on election day. If ballots received after election day
+are added to the set of ballots that dictate the election's out-
+come, the electorate's choice does not occur on election day,
+and the federal election-day statutes are violated.
+In this case, we must apply this interpretation of the fed-
+eral election-day statutes to a Mississippi law that requires
+state election officials to accept ballots that arrive up to fve
+days after election day. The acceptance of these late-
+arriving ballots effectively postpones the date on which the
+electorate's choice is made, and federal law precludes that
+postponement.
+For this reason, I would affirm the decision below, which
+held that the provision of Mississippi law requiring accept-
+ance of late ballots violates federal law. Because the Court
+reverses that decision based on a flawed understanding of
+the election-day statutes, I respectfully dissent.
+I
+For more than 100 years, federal law has designated “the
+Tuesday next after the first Monday in November” as the
+day on which United States Senators and Members of the
+House of Representatives are “elected.” 1 See 2 U. S. C. § 7
+(setting that date as “the day for the election” of Members
+of the House of Representatives); § 1 (United States Senators
+“shall be elected” on that same date). Similarly, federal law
+has long provided that the “electors of President and Vice
+President shall be appointed” on that date as well. 3
+U. S. C. § 1.2 And because the appointment of electors in
+each State is now decided by popular vote, voters express
+their preferences for President on that same date.
+Mississippi law allows some voters to cast absentee ballots,
+Miss. Code Ann. § 23–15–713 (Cum. Supp. 2025), and provides
+that voters may submit these ballots to election officials by
+mail or common carrier, § 23–15–637(1)(a). To be counted,
+absentee ballots must be postmarked by election day, and
+state officials must receive them no later than fve days
+“after the election.” Ibid. Ballots arriving after that date
+“shall not be counted.” Ibid. The question we must decide
+is whether the provision allowing receipt of absentee votes
+after election day is consistent with federal law.
+II
+A
+As noted, the federal election-day statutes provide that
+elections for federal office must occur on a specified date,
+1 See 17 Stat. 28 (Representatives); 38 Stat. 384 (Senators).
+2 See 5 Stat. 721.
+“the Tuesday next after the first Monday in November.”
+This may seem like a simple rule, but we must address sev-
+eral issues to understand exactly what it means. The first
+is the meaning of the term “election” as used in the election-
+day statutes. The majority states that the term “election”
+means “the expression of the electorate's choice,” ante, at
+682, and I agree with that definition.
+The second issue is the identification of the acts that con-
+stitute the electorate's expression of its choice, and those acts
+are the final submission and collection of ballots. These acts
+must therefore occur on election day.
+That is what the election-day statutes required when all
+voting occurred in person, and the same requirement applies
+today. Back when all voting occurred in person, the voters
+went to the polls on election day. They then completed bal-
+lots and turned them over to election officials. When the
+polls closed, those officials had in their possession a fxed
+collection of ballots, and taken together, those ballots embod-
+ied the electorate's collective choice. That expression of the
+electorate's choice having been made, the election-day stat-
+utes did not require that anything more be done before mid-
+night on election day. Of course, no one could know the out-
+come of the election until those ballots were examined and
+the valid ballots were counted, but it was not necessary for
+those steps to be finished on election day because the elector-
+ate's choices had been authoritatively expressed.
+Today, not all voting occurs in person on election day.
+Both voting by mail and early voting have become popular,
+and respondents do not dispute the lawfulness of these mod-
+ern practices. Nor do I. But acceptance of these practices
+cannot change the fact that under federal law, the elector-
+ate's collective choice must still be authoritatively expressed
+on election day.
+That requirement is met in a jurisdiction with mail voting
+or early voting provided that the critical act occurs on elec-
+tion day: the completion of the collection of the ballots that
+embody the electorate's collective choice. That is what took
+place when all voting was done in person, and compliance
+with the election-day statutes demands that the same occur
+in a modern election.
+The Court disagrees and concludes that the election-day
+statutes merely require that each individual cast a vote on
+or before election day. See ante, at 685. But if that is all
+that the election-day statutes require, there is no sense in
+which the electorate as a whole can be seen as making its
+choice on election day. Rather, the electorate's choice would
+be made piecemeal over an extended period prior to election
+day, and that prospect is blatantly contrary to what the
+election-day statutes demand.
+Election day is a specified date, not a span of multiple
+days. The election-day statutes require that federal elec-
+tions occur on that date. Under the challenged Mississippi
+law, however, the collection of ballots continues for fve more
+days, and therefore the “election” is not held until the end of
+that period. Because federal law requires that the election
+occur on election day, it preempts Mississippi's statute.
+B
+This conclusion finds support in legal authorities from the
+period when the federal election-day statutes were enacted.
+Legal dictionaries of the era described an “election” as in-
+cluding both the casting and receipt of ballots. See 1 J. Bou-
+vier, Law Dictionary and Concise Encyclopedia 979 (8th ed.
+1914) (“the act of casting and receiving the ballots”); W. An-
+derson, A Dictionary of Law 394 (1889) (“[v]oting and taking
+the votes”). Contemporary state statutes likewise provided
+that an “election” was not “finished” or “closed” until polls
+closed, by which point poll workers stopped accepting bal-
+lots. E. g., Tenn. Code §§ 860–861 (1858); Del. Rev. Stat., ch.
+18, §§ 21, 22 (1874); N. C. Code, ch. 16, § 2689 (1883). Indeed,
+under 19th-century election-law parlance, a voter's presenta-
+tion of a complete ballot constituted a mere “offe[r] to vote,”
+and it was not said that the person had “voted” until an election
+official took custody of the ballot. E. g., Cal. Political Code
+§§ 1225–1228 (1876); Md. Pub. Gen. Laws Art. 5, § 15 (1878).
+State-court decisions from the era corroborate this in-
+terpretation. When statutes pegged certain legal conse-
+quences to an “election” or “voting,” courts held that ballot
+receipt triggered these consequences. For example, a Penn-
+sylvania court held that a 10-day limitations period for con-
+testing the outcome of a race began running once officials
+closed the polls on election night, a process that entailed seal-
+ing the ballot boxes shut. Collings's Case, 2 Luz. L. Obs. 57
+(Pa. Quar. Sess. 1861); Act of July 2, 1839, §§ 72–74, 1841 Pur-
+don's Dig. L. Pa. 351. Similarly, when the Supreme Court
+of Alabama resolved a charge that a defendant illegally
+voted, the court held that the defendant could not be found
+liable unless there was evidence that his ballot had been re-
+ceived by a poll worker and placed in the ballot box. Black-
+well v. Thompson, 2 Stew. & P. 348, 352 (1832). As that
+court put it, “the act of voting is not complete” if “the ballot
+[is] not received.” Ibid.; accord, Goodell v. Judith Basin
+Cty., 70 Mont. 222, 234, 224 P. 1110, 1113 (1924) (“under the
+authorities generally, the act of voting is not completed until
+the ballot is deposited in the ballot box”). Accordingly, if a
+State accepts ballots after election day, then the State ex-
+tends “the period of voting,” and therefore the “election,”
+past that date. Ante, at 683 (internal quotation marks omit-
+ted; emphasis deleted). A 19th-century statute that re-
+quires an “election” to occur on a particular day thus re-
+quires that the State receive all ballots by that date.
+C
+1
+Two centuries of historical practice reinforce the proposi-
+tion that holding an “election” on a particular day means that
+poll workers had to receive the ballots by that date. From
+this country's founding until the late 20th century, election-
+day ballot collection was the near-uniform practice, with only
+a few, late-arriving exceptions.
+Before the Civil War, nearly all voting occurred in person
+at polling places, so election day was ipso facto the day on
+which poll workers collected all the ballots. 3 P. Steinbicker,
+Absentee Voting in the United States, 32 Am. Pol. Sci. Rev.
+898 (1938).
+This practice did not falter when the cannons rang out at
+Fort Sumter. Even when the Civil War took soldiers hun-
+dreds of miles from their usual polling places, election day
+still meant ballot-collection day. States took different ap-
+proaches to ensure that their soldiers could vote while away
+from home. Some States allowed soldiers to mail their bal-
+lots back home, either directly to local officials or to proxies
+who would cast them at the polls. E. g., 1863 W. Va. Acts
+pp. 119–120; 1864 N. Y . Laws pp. 549–551. Others sent com-
+missioners to soldiers' camps to distribute absentee ballots,
+collect them, and then deliver them to officials in each sol-
+dier's hometown. E. g., 1864 Conn. Pub. Acts pp. 52–53. A
+third group of States tasked military officers with adminis-
+tering polling places in the feld, complete with ballot boxes
+and voter-registration lists. On this model, officers col-
+lected ballots, checked names off lists, counted votes, and,
+for some States, even took oaths as election officials. E. g.,
+1866 Nev. Stats. p. 215; 1864 Kan. Sess. Laws pp. 102–103.
+Critically, regardless of the method a State used, each State
+continued to mandate that poll workers, whether on the feld
+or “back home,” received soldiers' ballots by election day. 4
+3 This was true even in the two States that authorized absentee voting
+for soldiers in the 1810s. For Pennsylvania and New Jersey, military off-
+cers would serve as election judges and inspectors in the feld and collect
+ballots from their States' soldiers on election day. See 1813 Pa. Laws
+pp. 213–215; 1814 N. J. Laws pp. 16–18.
+4 The majority questions whether it is defensible to treat ballots in feld-
+voting regimes as “received” as soon as military officers collected them on
+election day, especially since some States did not formally deputize officers
+as election officials. Ante, at 687, n. 4. Regardless of whether such off-
+E. g., 1863 W. Va. Acts p. 120 (requiring that election officials
+count a mailed-in vote if “received . . . on or before the day
+of election”); 1866 Nev. Stats. p. 215 (mandating that feld-
+voting polls be open from 8 a.m. to sunset “on the day of
+election”).
+The practice of collecting all ballots by election day per-
+sisted into the 20th century. To be sure, there were some
+departures from this norm in the years after Congress
+enacted the final election-day statute. During the World
+Wars, for instance, Congress and at least nine States allowed
+absentee ballots to arrive after election day in certain situa-
+tions. See, e. g., 1918 Md. Laws p. 130; 58 Stat. 146 (noting
+that “any extension of time for the receipt of absentee ballots
+permitted by State laws shall apply” to federal “war bal-
+lot[s]” in World War II). Yet that practice returned to the
+margins within a few decades. By 1977, a report from the
+Department of Defense listed only two States as still allow-
+ing ballots to arrive after election day. See Overseas Ab-
+sentee Voting: Hearing on S. 703 before the Senate Commit-
+tee on Rules and Administration, 95th Cong., 1st Sess., 33–
+34 (1977). These short-lived outlier rules thus shed little
+light on the original meaning of “election” in the election-
+day statutes.
+Likewise, although post-election-day deadlines have be-
+come more widespread in the last fve decades, 5 these devel-
+cers were “deputized,” however, these officers (unlike a postal worker)
+often performed the same kinds of functions that poll workers performed
+back at local polling places. Compare 1866 Nev. Stats. pp. 214, 216–217,
+with id., at 215. It is therefore reasonable to conclude that ballots were
+“received” on election day in feld-voting systems. Indeed, the majority
+describes feld voting in this way just one footnote earlier. See ante, at
+687, n. 3 (noting that “ballot casting and ballot receipt” in feld-voting
+systems occurred “simultaneous[ly]” on election day).
+5 See National Conference of State Legislatures, Table 11: Receipt and
+Postmark Deadlines for Absentee/Mail Ballots (May 18, 2026), https://
+www.ncsl.org/elections-and-campaigns/table-11-receipt-and-postmark -
+opments postdate the last election-day statute by over 50
+years and the first statute by over a century. These late-in-
+time practices therefore count for little when discerning the
+timing restrictions that Congress imposed when it enacted
+those statutes. See Pung v. Isabella County , 609 U. S.
+30, 38 (2026).
+In sum, from this Nation's founding until the last few dec-
+ades of the 20th century—a period that spans the enactment
+of all three election-day statutes—having an “election” on a
+particular day meant completing ballot collection on that day.
+2
+The majority brushes aside this impressive historical rec-
+ord because respondents have not offered direct evidence
+that state actors believed that federal law required these
+often-burdensome procedures and timelines. Ante, at 688–
+689. For all we know, the majority reasons, the States
+might have insisted on receiving ballots by election day for
+their own independent reasons. Ibid.
+This argument withers on examination, especially as ap-
+plied to Civil War practices. The States were acutely aware
+of the federal election-day statutes, and they abandoned
+practices that they had previously used and presumably pre-
+ferred in order to comply with them. As the majority notes,
+before 1845, States had “total control over the timing” of
+elections for the House of Representatives and substantial
+leeway to select the date on which voters chose Presidential
+electors. Ante, at 678. States took advantage of this free-
+dom by holding elections on a variety of dates. Ibid. After
+1845, however, States abandoned the practices they pre-
+viously preferred and held elections on the date Congress
+specified. Ibid. The majority's argument therefore boils
+down to this: States complied with what they understood the
+deadlines-for-absentee-mail-ballots (archived at https://perma.cc/6NB3 -
+GPGY).
+federal election-day statutes to require; they did not believe
+that those laws required that ballots be received by election
+day; but they nevertheless eschewed the freedom they had
+asserted before 1845 and voluntarily imposed extraordinary
+burdens on soldiers and election officials during the Civil
+War to ensure that ballots were received by the federally im-
+posed election day. And they did all this, the majority specu-
+lates, because “extending the deadline” for the receipt of bal-
+lots “might not have even occurred to them.” Ante, at 689.
+To say that this is not the most likely explanation of
+States' thought processes would be “a delicately put under-
+statement.” Ante, at 687. The notion that extending ballot-
+receipt deadlines for soldiers might never have crossed the
+minds of legislators during the Civil War is hard to take seri-
+ously. States valued their uniformed citizens' right to vote
+and wanted to ensure that soldiers had a voice in selecting
+the officials who would direct the deadly conflict in which
+they were engaged. 6 See, e. g., 1864 Ky. Acts p. 122 (confer-
+ring on soldiers a statutory right to vote “as fully as if such
+[soldiers] were present” at their usual polling place on elec-
+tion day); 1864 N. H. Laws p. 3061 (similar). And States
+surely knew that it would take time for ballots to make their
+way from the front lines back to soldiers' home precincts.
+States likewise knew that the alternative approach of requir-
+ing soldiers to simulate polling places in the feld on election
+day would be burdensome amid ongoing military engage-
+ments. Most importantly, States knew how to extend dead-
+lines or grant exemptions to accommodate soldiers whose ac-
+tive service in the Civil War made it difficult for them to
+fulfill their civic and legal duties. See, e. g., 1862 Ky. Acts
+p. 67 (giving soldiers up to an extra year to fle an answer in
+pending civil actions); 1861 Wis. Laws ch. 309, p. 319 (sus-
+6 It is irrelevant to the question presented that some States did not
+adopt absentee voting in the Civil War at all. Contra, ante, at 688, n. 5.
+What is relevant is that, where States did endeavor to protect soldiers'
+ability to vote, States required that ballots be received by election day.
+pending civil proceedings in cases where the defendant is
+serving in the military); 1862 Conn. Pub. Acts p. 74 (exempt-
+ing soldiers from various state taxes for fve years following
+honorable discharge); 1865 Minn. Laws pp. 58–59 (exempting
+soldiers from service of civil process and tolling statutes of
+limitations for claims against soldiers). Given these exam-
+ples, it strains credulity to suggest that the thought of ex-
+tending ballot-receipt deadlines simply never occurred to any
+State during the Civil War.
+In any event, the majority does not explain what sort of
+evidence respondents would need to offer in order to “pre-
+cisely tie” the States' practices “to the text of the election-
+day statutes.” Ante, at 687 (internal quotation marks omit-
+ted). Readers are left guessing what kind of evidence suf-
+fces. Perhaps the majority is looking for legislative floor
+statements or committee reports stating: “We would really
+like to give the boys in the feld some extra time for their
+ballots to arrive, but alas, the Presidential Election Day Act
+of 1845 prohibits us from doing so.” But see FS Credit Op-
+portunities Corp . v. Saba Capital Master Fund, Ltd., 608
+U. S. 608, 620–621 (2026) (discounting the probative value of
+such evidence). Regardless, the majority places the burden
+on the wrong side. Given the infeasibility of the majority's
+alternative explanations for States' Civil War absentee-
+voting practices, it would be more appropriate to demand
+floor statements or a committee report stating: “We don't
+think the federal election-day law requires the receipt of bal-
+lots by election day, but we will nevertheless relinquish our
+previously asserted freedom over the timing of elections and
+voluntarily take on the burden and expense of ensuring that
+the ballots of our embattled boys on far-fung battlefelds and
+camps arrive here by the end of election day.” Mississippi
+offers no evidence of this sort. More important, Mississippi
+does not identify a single State that accepted late-arriving
+ballots during the Civil War even though States had strong
+logistical incentives to be lenient on this point.
+The majority separately worries that using historical prac-
+tice to interpret the phrase “election” might “tra[p]” States'
+election practices “in amber.” Ante, at 689 (internal quota-
+tion marks omitted). But the policy of collecting all ballots
+by election day is entirely consistent with—indeed, is com-
+pelled by—the text, context, and history of the election-day
+statutes, and one reason for codifying legal rules in a statute
+is to “trap” those rules “in amber” until they are amended.
+Moreover, the majority's worries are exaggerated. All
+agree that the relevant provisions of the election-day stat-
+utes regulate only “the time of the election.” Ante, at 681
+(quoting Foster v. Love, 522 U. S. 67, 71–72 (1997)). So to
+the extent that historical practice informs the interpretation
+of these statutes, it informs only the timing of election proc-
+esses, not their manner. See also U. S. Const., Art. II, § 1,
+cl. 2 (giving Congress the power to regulate the timing of
+States' Presidential elections, but not their manner). One
+may rely on historical practice to conclude that ballots must
+arrive by election day without committing to the view that
+States must retain every trapping of 19th-century elections.
+In short, although the majority attempts to fend off two
+centuries of American election practice, the takeaway from
+this history is clear. When Congress enacted the three
+election-day statutes, having the “election” on a particular
+date meant that ballots would be collected by that date.
+D
+Having considered text, legal context, and historical prac-
+tice, I turn to precedent. Although few judicial decisions
+interpret the election-day statutes, those precedents favor
+respondents' position.
+The most on-point precedent is the Supreme Court of Mon-
+tana's 1944 decision in Maddox v. Board of State Canvassers,
+116 Mont. 217, 149 P. 2d 112. Maddox concerned a Montana
+statute that allowed the State's servicemembers to vote ab-
+sentee in federal elections as long as officials received their
+ballots by the fourth Monday in December, several weeks
+after election day. Id., at 221, 149 P. 2d, at 114; 1943 Mont.
+Laws p. 172. The Montana court held that “in so far as [that
+provision] purports to extend beyond the election day the
+time within which voters' ballots may be received by the
+election officials . . . it is in conflict” with the federal election-
+day statutes. 116 Mont., at 224, 149 P. 2d, at 115. Consist-
+ent with the election-law principles discussed above, the
+court recognized that a ballot was not “cast” until election
+officials received it. Id., at 223–224, 149 P. 2d, at 115; see
+supra, at 701–702. And because federal law “requires the
+electing to be done on election day,” the court held that Mon-
+tana's post-election-day deadlines were preempted. 116
+Mont., at 224, 149 P. 2d, at 115. Thus, the only other high-
+court decision to address the question presented favors re-
+spondents' position.
+The majority casts aside Maddox on two unpersuasive
+grounds. First, the majority suggests that Maddox turned
+on state law. Ante, at 693–694. But Maddox cited federal
+law and Congress's constitutional powers under the Elec-
+tions and Electors Appointment Clauses in holding that Mon-
+tana's ballot-receipt rules were “in conflict with” a “congres-
+sional Act.” 116 Mont., at 224, 149 P. 2d, at 115; see also id.,
+at 222, 149 P. 2d, at 114 (explaining that “states have no
+power to interfere” with the federal election-day statutes).
+That state law also dictated the same conclusion does not
+diminish the court's federal-law analysis.
+Second, the majority highlights that a one-Justice concur-
+rence and a one-Justice dissent did not read Maddox as fore-
+closing post-election-day ballot receipt. Ante, at 694. But
+separate writings are “generally not the best source of legal
+advice” on the scope of a court's holding, Students for Fair
+Admissions, Inc. v. President and Fellows of Harvard Col-
+lege, 600 U. S. 181, 230 (2023), and that principle is particu-
+larly applicable here. Neither separate opinion discussed
+federal law at all, and the concurrence objected to post-
+election-day ballot receipt even more strongly than did the
+majority opinion. See 116 Mont., at 229, 149 P. 2d, at 117
+(Morris, J., concurring) (predicting that accepting ballots
+after election day would be “almost universally con-
+demned”); id., at 229–232, 149 P. 2d, at 117–119 (Erickson, J.,
+dissenting in part).
+Consider next our decision in Foster v. Love, 522 U. S. 67.
+There, this Court concluded that the election-day statutes
+preempted an arrangement under which a congressional can-
+didate who performed well enough in a primary could win
+election to office outright without facing a further contest.
+In invalidating this arrangement, Foster held that the
+election-day statutes' use of the word “election” meant the
+“combined actions of voters and officials meant to make a
+final selection of an officeholder.” Id., at 71. So, although
+Foster did not “isolat[e] precisely what acts a State must
+cause to be done on federal election day,” id., at 72, the Court
+did contemplate that the election-day statutes require more
+than just unilateral voter action. In other words, Foster ex-
+plained that an “election” does not occur on election day un-
+less both voters and officials play a role.
+The majority contravenes this portion of Foster by holding
+that a State satisfies the election-day statutes so long as vot-
+ers complete their part of the electoral process (i. e., putting
+ballots in mailboxes), even if officials do not take their first
+steps in effectuating the “final selection” of a candidate (i. e.,
+receiving ballots) until days or weeks later. 7 Thus, Foster
+cuts against the majority's position.
+7 The majority maintains that it honors Foster's “combined actions”
+definition. In the majority's view, States may satisfy that definition by
+“establishing the rules for the election” or “providing ballots” in the lead-
+up to election day. Ante, at 693. But the majority's view leads to im-
+plausible outcomes. On the majority's reading of Foster, as soon as States
+have “provid[ed] ballots” and absentee voters have bubbled them in, there
+has been “combined actions of voters and officials . . . to make a final
+selection,” even if voters do not submit their ballots in the mail until
+weeks later. See Republican National Committee v. Wetzel, 120 F. 4th
+200, 207 (CA5 2024) (offering similar hypotheticals).
+III
+The majority's remaining arguments are patently insuff-
+cient to overcome what text, context, history, and precedent
+establish. First, the majority notes that several provisions
+of the Uniformed and Overseas Citizens Absentee Voting
+Act of 1986 (UOCAV A) cross-reference state-law deadlines
+for ballot receipt. See, e. g., 52 U. S. C. § 20303(b)(3). The
+majority next invokes the interpretive canon that counsels
+in favor of reading statutes in a way that accommodates later
+legislative enactments. Ante, at 683–684; see West Virginia
+Univ. Hospitals, Inc. v. Casey, 499 U. S. 83, 100–101 (1991)
+(noting that this substantive canon does not reveal “what the
+lawmakers must have had in mind” but rather advances the
+normative value of consistency across the U. S. Code). The
+majority then concludes that the election-day statutes must
+not impose federal ballot-receipt deadlines because
+UOCAV A's cross-references to state-law deadlines “would
+make little sense” otherwise. Ante, at 684.
+This argument falters. In any statutory-interpretation
+case, a court's goal is to determine what the statute meant at
+the time it became law. See A. Scalia & B. Garner, Reading
+Law 78 (2012). Statutes enacted decades after the fact are
+seldom probative of this meaning. See West Virginia Univ.
+Hospitals, 499 U. S., at 100–101 (“how could an earlier Con-
+gress know what a later Congress would enact?”). The
+threshold for interpreting a later-enacted statute as control-
+ling is accordingly steep: A litigant must show that such an in-
+terpretation is necessary to avoid making “nonsense out of the
+corpus juris.” Id., at 101. That showing is not satisfied
+here. It is easy to make sense of UOCAV A's cross-references
+to state-law ballot-receipt deadlines without eschewing a
+federal election-day deadline. As the majority acknowl-
+edges, UOCAV A applies to primaries, which are not subject
+to the election-day statutes at all. See ante, at 691–692.
+For those elections, state law supplies the only ballot-receipt
+deadlines, so UOCAV A's cross-references to them make per-
+fect sense even if the election-day statutes set a federal
+deadline for general elections. 8 The majority contends that
+this interpretation “does not work” because UOCAV A does
+not distinguish between these kinds of elections. Ibid.
+But that detail does not suffice to render UOCAV A's cross-
+references “nonsense,” as would be needed for this Court to
+treat UOCAV A as controlling our interpretation. Because
+respondents have shown that UOCAV A can be sensibly
+squared with their interpretation of the election-day stat-
+utes, UOCAV A does not foreclose their position.9
+The majority separately suggests that an election-day
+ballot-receipt deadline would call into question the validity
+of early voting, as early-arriving ballots would not be re-
+ceived on election day. Ante, at 689. But, to reiterate, it
+is the electorate's decision, not the voter's, that constitutes
+the “election.” And no matter when a State receives voters'
+individual ballots, the electorate's choice is not made until all
+ballots have been cast and collected. So long as that occurs
+on the Tuesday after the first Monday in November, the
+election-day statutes are satisfied.
+IV
+Not only is today's decision inconsistent with statutory
+text, legal context, historical practice, and precedent; it also
+threatens to produce lamentable consequences. The majori-
+ty's holding spawns a slurry of troubling election-law ques-
+tions and risks further undermining Americans' confidence
+in election integrity.
+8 Additionally, when Congress enacted UOCAV A, at least one State had
+a pre-election-day deadline. See 1986 Miss. Laws p. 832. Thus,
+UOCAV A's cross-references could also reflect the fact that States can set
+earlier deadlines.
+9 The majority further argues that respondents' proposed reconciliation
+fails because one section of UOCAV A applies to general elections only.
+Ante , at 692 (citing 52 U. S. C. § 20304(b)(1)). But that section of
+UOCAV A, unlike others, does not cross-reference state-law deadlines at
+all.
+A
+The majority holds that a State complies with the federal
+election-day statutes if it requires that ballots are post-
+marked by election day and received within fve days after.
+But this ostensibly simple holding obfuscates the many un-
+settling questions that the majority's position entails. For
+instance, do the federal election-day statutes impose any bal-
+lot-receipt deadlines? Mississippi counts absentee ballots
+that arrive up to fve days after the federal election day, but
+nothing in the majority opinion turns on that 5-day duration.
+Indeed, some States will count mail-in ballots that arrive as
+late as 21 days after election day. See Wash. Rev. Code
+§ 29A.60.190 (2025). If the “election” is complete when vot-
+ers fll out their ballots and send them on their way, may
+States eliminate ballot-receipt deadlines entirely? It ap-
+pears that the only federal backstops for ballot receipt are
+the date when newly elected Representatives and Senators
+must report for their swearing in and the date when Presi-
+dential electors must cast their votes.
+Next, would it suffice under federal law if a State author-
+ized voters to tender their ballots to any third party by elec-
+tion day? Mississippi counts late-arriving absentee ballots
+only if they are sent using the Postal Service or a common
+carrier. Miss. Code Ann. § 23–15–637(1)(a). But nothing in
+the election-day statutes gives those entities special treat-
+ment. Could a State therefore count late-arriving ballots if
+they are delivered by some other intermediary? How about
+a relative of the voter? A helpful neighbor? An Uber
+driver who agrees to serve as a courier? 10 A “ballot har-
+vester” affliated with a political party or interest group?
+See ante, at 695 (not disputing that the election-day statutes
+would allow a regime where voters could give their ballots
+to these intermediaries on election day for later delivery).
+10 See Uber Courier, https://www.uber.com/us/en / item-delivery/ (ar -
+chived at https://perma.cc/HPE6-6YWZ).
+May States use something other than a ballot's postmark
+to determine when someone voted? Mississippi requires
+that an absentee ballot be postmarked on or before election
+day, but other States do not. See, e. g., Cal. Elec. Code Ann.
+§ 3020(b)(2) (West Supp. 2026) (relying on the date that a
+voter signed the ballot envelope). Do those States' laws
+comply with the election-day statutes? What happens if a
+voter deposits a ballot in a U. S. mailbox on election day after
+the last mail pickup for the day?
+What happens if a courier offers a recall service? The
+majority's rule apparently rests on the notion that a voter
+has made a “final selection of an officeholder” once the voter
+tenders a ballot to the party who will deliver it. Ante, at
+683 (quoting Foster, 522 U. S., at 71). But the Postal Service
+allows its customers to recall mail mid-transit, as do many
+private parcel services. See, e. g., United States Postal
+Service, Mailing Standards of the United States Postal Serv-
+ice, Domestic Mail Manual § 507.5 (Apr. 6, 2026). Given that
+fact, is a voter's “selection” truly “final” when he or she puts
+a ballot in the mailbox? The majority dodges this question,
+offering the passing suggestion that Mississippi's statute
+would be preempted only insofar as it allows voters to recall
+their ballots. Ante, at 697. May the Fifth Circuit hold as
+much on remand? Must state law expressly prohibit voters
+from using recall services? Do the Postal Service's or Fed-
+Ex's mail-recall policies violate the election-day statutes as
+applied to absentee ballots?
+For state legislatures trying to understand what the
+election-day statutes allow, the majority's decision opens
+Pandora's box.
+B
+Finally, today's decision leaves open opportunities for
+voter fraud that may further undermine Americans' faith in
+the integrity of this country's elections. Diverse sources
+have recognized that mail-in ballots increase the potential
+for fraud. In 2005, a committee chaired by former President
+Jimmy Carter and former Secretary of State James Baker
+found that absentee voting was “the largest source of poten-
+tial voter fraud” in American elections. Commission on
+Federal Election Reform, Building Confidence in U. S. Elec-
+tions 46 (Sept. 2005). Likewise, in Crawford v. Marion
+County Election Bd., 553 U. S. 181 (2008), Justice Stevens
+recognized that the risk of voter fraud “perpetrated using
+absentee ballots” is “real” and “could affect the outcome of a
+close election.” Id., at 195–196 (lead opinion). Some amici
+in that case similarly explained that when voter fraud occurs
+these days, it “generally takes the form of organized fraud
+such as . . . use of fraudulent absentee or mail-in ballots.” 11
+Brief for Brennan Center for Justice et al. as Amici Curiae ,
+O. T. 2007, No. 07–21 etc., p. 19 (citing L. Minnite & D. Calla-
+11 Examples of voter fraud using absentee ballots in recent decades are
+not hard to come by. See, e. g., North Carolina State Board of Elections,
+State Board Unanimously Orders New Election in 9th Congressional Dis-
+trict (Feb. 25, 2019), https://www.ncsbe.gov/news/press-releases/2019/02/
+25/state-board-unanimously-orders-new-election-9th-congressional -
+district (archived at https://perma.cc/7QFU-RYL4) (ordering a new con-
+gressional election after discovering a “coordinated, unlawful and substan-
+tially resourced absentee ballot scheme” in a 2018 race (internal quotation
+marks omitted)); United States v. McCranie, 169 F. 3d 723, 724–726 (CA11
+1999) (detailing how Georgia courts had voided an election after finding
+“widespread” absentee-ballot fraud involving vote buying, vote sell-
+ing, multiple voting, felon voting, and deceased-person voting); In re Pro-
+test of Election Returns and Absentee Ballots in Nov. 4, 1997 Election
+for City of Miami, 707 So. 2d 1170, 1172, 1174 (Fla. App. 1998) (per cu-
+riam) (voiding all absentee ballots cast in an election because “massive
+absentee voter fraud . . . literally and fguratively . . . stole the ballot from
+the hands of every honest voter in the City of Miami” (internal quotation
+marks omitted)); Pabey v. Pastrick, 816 N. E. 2d 1138, 1154 (Ind. 2004)
+(finding “pervasive and widespread deliberate conduct that perverted the
+absentee voting process and compromised the integrity and results of th[e]
+election” (internal quotation marks omitted)); Bradley v. Perrodin, 106
+Cal. App. 4th 1153, 1165–1170, 131 Cal. Rptr. 2d 402, 412–415 (2003) (af-
+firming the annulment of an election where a candidate fraudulently regis-
+tered nine non-citizens and helped them illegally vote using absentee
+ballots).
+han, Securing the Vote: An Analysis of Election Fraud 14–
+15 (2003)).
+It is not difficult to understand why. When someone
+votes by mail, it is harder for officials to verify the identity
+of the person requesting and completing the ballot. Mail
+voting also presents a greater opportunity for voter manipu-
+lation, a more vulnerable chain of ballot custody, and a dimin-
+ished ability to detect improprieties in real time. 12 Today's
+decision compounds these vulnerabilities. Allowing ab-
+sentee ballots to pour in over the days and weeks after elec-
+tion day, by which point preliminary election returns are
+being publicly reported, creates greater opportunity for
+fraud and risks further undermining the public's confidence
+in election integrity. As Justice Kavanaugh has ex-
+plained, when “thousands of absentee ballots fow in after
+election day and potentially fip the result of an election,”
+“charges of a rigged election could explode.” Democratic
+National Committee v. Wisconsin State Legislature , 592
+U. S. 1039, 1047 (2020) (concurring opinion) (internal quota-
+tion marks omitted).
+Likewise, it is not difficult to foresee the types of fraught
+situations that the counting of late mail-in ballots may lead
+to. Suppose that the outcome in a close Presidential elec-
+tion hangs on the final vote in a State that allows officials to
+count mail-in ballots received up until two days before its
+Presidential electors must meet to submit their votes. And
+suppose that, when all the ballots cast in person are counted
+by the morning after the election, one of the candidates is
+ahead by 15,000 votes. As the mail-in ballots arrive and are
+counted, that lead alternatingly dwindles and swells. By
+Thanksgiving, the lead of the candidate who has been ahead
+since election day dips to just 1,500 votes. This figure holds
+12 See MIT Election Data + Science Lab, Voting by Mail and Absentee
+Voting, Administrative Issues (Feb. 28, 2024), https://electionlab.mit.edu/
+research/voting-mail-and-absentee-voting#content-section-113 (archived at
+https://perma.cc/8WEZ-89T8).
+until a few days before the State's electors need to vote,
+when one last tranche of mail-in ballots puts the opposing
+candidate in the lead by, say, 87 votes.13
+It is not pleasant to imagine what this course of events
+would mean for popular faith in the integrity of that election
+and of our electoral process in general. Even in the absence
+of partisan rhetoric, drawn-out ballot-counting “induces a
+large, significant decrease” in Americans' trust in elections.14
+By allowing States to continue receiving new ballots during
+these drawn-out processes, today's decision will only exacer-
+bate voters' distrust.
+In response to these concerns, the majority counters that
+the appearance of fraud could persist under respondents' in-
+terpretation of the statute. Ante, at 696. But that conten-
+tion is as nonresponsive as it is unremarkable. No statutory
+scheme will eliminate concerns about fraud entirely, and
+nobody claims that an election-day ballot-receipt deadline
+would do so. Nevertheless, as the majority acknowledges,
+election-timing laws are one tool that governments have tra-
+ditionally used to reduce opportunities for voter fraud. Ante,
+at 678–679. Indeed, concerns about fraud were a leading
+13 This fact pattern is not very far-removed from reality. An acclaimed
+biography of former President Lyndon Johnson detailed how the Senate
+campaign that propelled his political career was marred by late-arriving
+votes that changed the outcome of the race. See generally R. Caro, The
+Years of Lyndon Johnson: Means of Ascent (1990). In 1948, Johnson eked
+out a razor-thin victory over his primary opponent in a runoff, all but
+guaranteeing that he would win the general election in Texas. Johnson's
+victory was made possible through the election-fipping addition of 202
+votes to the tally several days after polls had closed. Two hundred of
+those late-arriving votes were cast for Johnson, who won the race by just
+87 votes. In the decades since, weighty evidence has come to light casting
+serious doubt on those votes' legitimacy. Id., at xxxi, 316–317, 328–329,
+375–402. Although a complete account of what occurred in that election
+has been lost to history, the incident illustrates the real risks that today's
+decision entails.
+14 M. Lockhart et al., Voters Distrust Delayed Election Results, But a
+Prebunking Message Inoculates Against Distrust, 3 PNAS Nexus 1 (2024).
+cause of the enactment of the federal election-day statutes.
+Ibid.
+It is undeniable that a prohibition on counting late-
+arriving ballots would provide an additional hurdle for bad
+actors seeking to stuff ballot boxes when early election re-
+sults suggest a tight race. The majority incorrectly re-
+moves this safeguard from federal law.
+* * *
+Today's decision is inconsistent with the terms of the
+election-day statutes, contemporary election-law principles,
+two centuries of historical practice, and the case law on the
+question presented. It opens up and fails to resolve a host
+of questions for state election officials and courts. And it
+creates a serious risk of further undermining public conf-
+dence in our elections and our system of self-government. I
+therefore respectfully dissent.

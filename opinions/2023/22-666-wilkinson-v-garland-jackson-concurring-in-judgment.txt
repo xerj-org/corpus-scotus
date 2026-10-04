@@ -1,0 +1,42 @@
+Wilkinson v. Garland — No. 22-666 — October Term 2023 — decided 3/19/24 — Jackson, J., concurring in judgment
+Citation: 601 U.S. 209
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+226
+601US1 Unit: $U10 [04-23-24 11:29:10]PAGESPGT: OPINBX
+WILKINSON v. GARLAND
+Jackson, J., concurring in judgment
+For these reasons, the Court reverses the Third Circuit's
+“jurisdictional” decision, vacates its judgment, and remands
+the case for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Jackson, concurring in the judgment.
+The Immigration and Nationality Act plainly constrains
+judicial review of discretionary-relief determinations. It
+first strips courts of jurisdiction to review “any judgment
+regarding the granting of relief” under provisions including
+8 U. S. C. § 1229b, which governs cancellation of removal.
+See § 1252(a)(2)(B)(i). Then, the Act restores judicial review
+for only a subset of claims—“constitutional claims or ques-
+tions of law” raised in a petition for review in the courts of
+appeals. § 1252(a)(2)(D). Through these provisions, Con-
+gress made clear that courts should play a minimal role in
+the discretionary-relief process.
+In Guerrero-Lasprilla v. Barr, 589 U. S. 221 (2020), the
+Court interpreted the phrase “questions of law” in § 1252(a)
+(2)(D) to include mixed questions of law and fact, i.e., “the
+application of a legal standard to undisputed or established
+facts.” Id., at 225. Today, the Court removes any doubt
+that the phrase “questions of law” encompasses all mixed
+questions, even those that are “primarily factual.” Ante, at
+225. Thus, an immigration judge's determination that a
+“noncitizen's removal would result in `exceptional and ex-
+tremely unusual hardship' ” presents a judicially reviewable
+mixed question. Ante, at 211–212 (quoting § 1229b(b)(1)(D)).
+Pointing to our precedent, the Court holds that “Guerrero-
+Lasprilla compels this conclusion.” Ante, at 221.
+I am skeptical that Congress intended “questions of law”
+as used in § 1252(a)(2)(D) to sweep so broadly, given the stat-
+utory scheme. The legislative history of the provision,
+though not conclusive, provides additional evidence to the
+contrary. See H. R. Conf. Rep. No. 109–72, p. 175 (2005)

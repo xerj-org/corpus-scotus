@@ -1,0 +1,357 @@
+Hain Celestial Group, Inc. v. Palmquist — No. 24-724 — October Term 2025 — decided 2/24/26 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 607 U.S. 421
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r14_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Sarah E. Harrington argued the cause for petitioners.
+With her on the briefs were Paul W. Schmidt, Michael X.
+Imbroscio, Abby C. Wright, Nicole M. Antoine, Matthew C.
+Quallen, Bradley E. Chambers, Kristine L. Roberts, Brian
+M. Ballay, and Alexandra B. Rychlak.
+Russell S. Post argued the cause for respondents. With
+him on the brief were Owen J. McGovern and David C.
+Frederick.*
+Justice Sotomayor delivered the opinion of the Court.
+Federal courts are courts of limited jurisdiction and gener-
+ally can resolve only the cases that Congress grants them
+power to hear. One class of cases over which Congress has
+given federal courts jurisdiction is “diversity” cases between
+“citizens of different States.” 28 U. S. C. § 1332(a).
+If a federal court of appeals finds that a district court
+lacked jurisdiction over a case (for example, because the par-
+ties turned out not to be from different States), then the
+district court's judgment on the merits must be vacated. A
+district court's judgment can stand, however, if the district
+court “cured” the jurisdictional defect before entering final
+judgment, such as by properly dismissing a nondiverse party
+from the case.
+This case asks whether a district court's erroneous dis-
+missal of a nondiverse party before final judgment can cure
+a jurisdictional defect that existed when the case was re-
+moved to federal court. The Fifth Circuit held that it can-
+*Briefs of amici curiae urging reversal were fled for the National Asso-
+ciation of Manufacturers et al. by Jaime A. Santos, Rohiniyurie Tashima,
+Jennifer B. Dickey, and Erica Klenicki; for the Product Liability Advi-
+sory Council, Inc., by Nicole Saharsky and Minh Nguyen-Dang; and for
+the Washington Legal Foundation by Cory L. Andrews and Zac Morgan.
+Lawrence S. Ebner fled a brief for the Atlantic Legal Foundation as ami-
+cus curiae urging vacatur and remand.
+Briefs of amici curiae urging affirmance were fled for the American
+Association for Justice by Deepak Gupta and Jonathan E. Taylor; and for
+Civil Procedure Professors by David Freeman Engstrom, pro se.
+not, and this Court agrees. In these circumstances, the dis-
+trict court's final judgment must be vacated for lack of
+jurisdiction.
+I
+Respondents Sarah Palmquist and Grant Palmquist have
+a young son, E. P., who was born in 2014. For the first two
+years of E. P.'s life, the Palmquists fed him baby food that
+was made by petitioner Hain Celestial Group, Inc., and that
+they purchased from petitioner Whole Foods Market, Inc.
+At first, E. P.'s development progressed ordinarily, and he
+was a healthy child. Things changed when E. P. was 2½
+years old. He began exhibiting serious developmental dis-
+orders and was diagnosed with a range of physical and men-
+tal conditions. After identifying high levels of arsenic, lead,
+and mercury in E. P.'s blood tests, some doctors attributed
+these conditions to heavy-metal poisoning. In 2021, years
+after E. P.'s diagnosis, a subcommittee of the U. S. House of
+Representatives Committee on Oversight and Reform re-
+leased a staff report finding that certain baby foods, includ-
+ing Hain's, contained elevated levels of toxic heavy metals.
+See Staff Report, Subcommittee on Economic and Consumer
+Policy, Baby Foods Are Tainted With Dangerous Levels of
+Arsenic, Lead, Cadmium, and Mercury 2–4 (Feb. 4, 2021).
+Following the report's release, the Palmquists sued both
+Hain and Whole Foods in Texas state court. As to Hain, the
+Palmquists alleged state-law product liability and negligence
+claims. As to Whole Foods, the Palmquists alleged state-
+law breach of warranty and negligence claims based on
+Whole Foods's alleged misrepresentation of Hain's products
+as safe for consumption.
+Hain removed the case to federal court based on the par-
+ties' diversity of citizenship. At the time of removal, how-
+ever, Hain confronted a problem. Generally, 28 U. S. C.
+§ 1332(a) allows federal courts to exercise jurisdiction only
+when the parties are completely diverse, which means that
+no adverse party is from the same State, and the amount in
+controversy exceeds $75,000. Lincoln Property Co. v.
+Roche, 546 U. S. 81, 89 (2005). As the case stood upon re-
+moval, though, this requirement was not met. The Palm-
+quists were Texas citizens. Hain was a Delaware corpora-
+tion with a principal place of business in New York, and so
+was both a Delaware and New York citizen. Whole Foods,
+however, was headquartered in Texas and so was, like the
+Palmquists, a Texas citizen. Because Whole Foods and the
+Palmquists were all Texas citizens, the parties were not com-
+pletely diverse.
+Hain nevertheless argued in its notice of removal that re-
+moval was proper because Whole Foods had been improperly
+joined and should be dismissed, which would leave only par-
+ties who were completely diverse in federal court. The
+Palmquists disagreed, argued that Whole Foods was prop-
+erly joined, and moved to remand the case to state court
+given the lack of diversity jurisdiction. 1
+The District Court sided with Hain. Under Fifth Circuit
+precedent, which was not disputed here, a defendant is im-
+properly joined if the plaintiff fails to “state a claim for relief
+that is facially plausible” against the defendant. 103 F. 4th
+294, 304 (2024); see Smallwood v. Illinois Central R. Co., 385
+F. 3d 568, 573 (2004) (en banc). Applying that test, the Dis-
+trict Court concluded that the Palmquists had not alleged a
+plausible claim against Whole Foods. It thus dismissed
+Whole Foods and denied the Palmquists' motion to remand.
+The Palmquists then went to trial against Hain in federal
+court. After the Palmquists rested their case, Hain moved
+for judgment as a matter of law on all claims. The District
+Court granted that motion in full, explaining that the Palm-
+quists had failed to present sufficient evidence to the jury to
+prove that “the ingestion of heavy metals can cause the
+array of symptoms that [E. P.] suffers from, much less any
+1 Improper joinder is also often referred to as “fraudulent joinder.” Be-
+cause there are no allegations of fraud by the Palmquists in this case, the
+Court uses the term “improper joinder.”
+evidence of at what level those metals would have to be in-
+gested to bring about those symptoms.” 103 F. 4th, at 300.
+The Palmquists appealed that judgment along with the Dis-
+trict Court's improper-joinder decision that had dismissed
+Whole Foods.
+The Fifth Circuit reversed the improper-joinder decision
+and vacated the District Court's judgment. The Court of
+Appeals held that Whole Foods was properly joined because
+the Palmquists had plausibly alleged that Whole Foods had
+violated state law by misrepresenting Hain's products as
+safe. Given that Whole Foods had been erroneously dis-
+missed, the action was not diverse. The Court of Appeals
+then concluded that the District Court lacked jurisdiction
+and that the judgment in Hain's favor had to be vacated.
+The Fifth Circuit denied en banc review.
+Hain and Whole Foods fled a timely petition for certiorari
+seeking review of the Fifth Circuit's holding that the District
+Court's judgment must be vacated. One other Court of Ap-
+peals has held that vacatur is not required in these circum-
+stances, while another agrees with the Fifth Circuit and has
+held that it is. 2 The Court granted certiorari to resolve the
+divide among the Courts of Appeals. See 604 U. S. 1267
+(2025).
+II
+It is important to emphasize at the outset “two `givens' in
+this case.” Caterpillar Inc. v. Lewis, 519 U. S. 61, 70 (1996).
+First, no party asks this Court to revisit the Fifth Circuit's
+holding that the District Court's improper-joinder decision
+was incorrect and that Whole Foods should not have been
+dismissed. See Brief for Petitioners 7, n. 1. Second, no
+party disputes that, had the District Court performed the
+joinder analysis correctly when the case was initially re-
+2 Compare Junk v. Terminix Int'l Co., 628 F. 3d 439, 447, 450–451 (CA8
+2010), with Henderson v. Washington Nat. Ins. Co., 454 F. 3d 1278, 1284–
+1285 (CA11 2006).
+moved, it would have lacked jurisdiction and would have
+been required to remand the case to state court. See 28
+U. S. C. §§ 1332(a), 1447(c). What remains for this Court to
+decide is whether the District Court, having erroneously dis-
+missed Whole Foods, had jurisdiction to enter a final judg-
+ment as to Hain. It did not.
+A
+Federal courts “are all of limited jurisdiction, and their
+proceedings are erroneous, if the jurisdiction be not shown
+upon them.” Kempe's Lessee v. Kennedy, 5 Cranch 173, 185
+(1809) (Marshall, C. J.). Because of this limitation on federal
+courts' authority, a federal court of appeals must “satisfy it-
+self not only of its own jurisdiction, but also of that of the
+lower courts in a cause under review.” Mitchell v. Maurer,
+293 U. S. 237, 244 (1934). In most cases, federal appellate
+courts assess the district court's jurisdiction based on “the
+state of facts that existed at the time of filing.” Grupo Da-
+tafux v. Atlas Global Group, L. P ., 541 U. S. 567, 571 (2004).
+If the court of appeals concludes that the district court
+lacked jurisdiction over the case when it was fled in or re-
+moved to federal court, then the court of appeals typically
+must vacate any judgment on the merits. See Williams v.
+Zbaraz, 448 U. S. 358, 368 (1980); American Fire & Casualty
+Co. v. Finn, 341 U. S. 6, 17–18 (1951).
+There is, however, one exception to the general rule rele-
+vant to this case. If a district court “cures” a jurisdictional
+defect prior to final judgment, then the court of appeals is
+not required to vacate that judgment even if, at some earlier
+point in the case, the district court lacked jurisdiction.
+The Court discussed this exception in Caterpillar Inc. v.
+Lewis, 519 U. S. 61. In Caterpillar, Lewis was a citizen of
+Kentucky who brought a product-liability suit in state court
+against Caterpillar, a Delaware- and Illinois-based equip-
+ment manufacturer, and Whayne Supply, a Kentucky com-
+pany that serviced Caterpillar equipment. Id., at 64–65.
+Lewis's insurer (a Massachusetts corporation) intervened as
+a plaintiff and asserted claims against both Whayne and Cat-
+erpillar. Id., at 65. At that point, complete diversity was
+lacking, as there was one plaintiff (Lewis) and one defendant
+(Whayne) from Kentucky.
+Lewis then settled his claims against Whayne. Ibid.
+Caterpillar, thinking that the settlement would result in
+Whayne's dismissal from the case, promptly removed the
+case to federal court. Ibid. Lewis moved to remand,
+pointing out that Whayne was still in the case because the
+insurer had not settled its claim against Whayne. Id., at
+65–66. Without addressing Lewis's argument, the District
+Court erroneously denied the motion to remand, keeping the
+case in federal court. Id., at 66. Whayne eventually set-
+tled with the insurer and was voluntarily dismissed from the
+case via a partial final judgment under Federal Rule of Civil
+Procedure 54(b). See App. A to Brief for Respondents. That
+dismissal left three completely diverse parties in the case:
+Lewis (from Kentucky), the insurer (from Massachusetts),
+and Caterpillar (from Delaware and Illinois).
+The case then went to trial, at which Caterpillar prevailed.
+519 U. S., at 66–67. Lewis appealed, and the Sixth Circuit
+vacated the verdict. It held that the District Court should
+have remanded the case because, at the time of removal,
+complete diversity did not exist. Id., at 67.
+This Court reversed. It held that, because Whayne had
+been fully dismissed, “the jurisdictional defect [had been]
+cured, i. e., complete diversity [had been] established before
+the trial commenced.” Id., at 73. Because “considerations
+of finality, efficiency, and economy become overwhelming”
+after “a diversity case has been tried in federal court,” the
+Court held that the verdict could stand despite the District
+Court's “statutory misstep” in denying the motion to re-
+mand. Id., at 73, 75, 77. On the other hand, the Court
+stated, had the jurisdictional defect not been cured and in-
+stead “lingered through judgment,” then vacatur would have
+been required. Id., at 76–77.
+B
+The core dispute in this case is whether Whole Foods's
+erroneous dismissal before final judgment cured the jurisdic-
+tional defect that existed at the time of removal. It did not.
+Because the jurisdictional defect lingered through judgment,
+the judgment “must be vacated.” Id., at 77.
+When Hain removed this case to federal court, the District
+Court was required to determine whether it had jurisdiction
+by ensuring that none of the plaintiffs was from the same
+State as any of the defendants. Because Whole Foods (a
+defendant) and the Palmquists (the plaintiffs) were all Texas
+citizens, the District Court lacked jurisdiction. It then tried
+to cure that jurisdictional defect by dismissing Whole Foods
+as improperly joined.
+That dismissal, the Fifth Circuit held, was erroneous. It
+was also “[i]nterlocutory,” meaning that it did “not dispose
+of the whole case.” Dupree v. Younger, 598 U. S. 729, 734
+(2023). The “ `general rule' ” is that parties cannot immedi-
+ately appeal interlocutory orders and must instead wait until
+the end of the case, when those orders “merge into the final
+judgment” and are “reviewable on appeal” from that judg-
+ment. Id., at 735 (quoting Quackenbush v. Allstate Ins. Co.,
+517 U. S. 706, 712 (1996)). Under that general rule, once
+the District Court entered final judgment in Hain's favor,
+the court's earlier jurisdictional holding merged into the
+judgment and was reviewable by the Court of Appeals as
+part of the Palmquists' post-trial appeal.
+On appeal, the question before the Court of Appeals was
+whether the District Court had correctly dismissed Whole
+Foods at the outset. If it had, then this case would be more
+like Caterpillar, where the District Court correctly and f-
+nally dismissed Whayne with the parties' consent and left
+behind a completely diverse set of parties.
+Whole Foods, however, was not dismissed correctly, and
+the interlocutory nature of that dismissal meant that it was
+reversible on appeal from the final judgment in Hain's favor.
+Whole Foods thus was only temporarily and erroneously re-
+moved from the case; it was not “gone for good.” Royal
+Canin U. S. A., Inc. v. Wullschleger, 604 U. S. 22, 33 (2025).
+When the Fifth Circuit reversed the District Court's error,
+it restored Whole Foods to the case and correctly held that
+the jurisdictional defect had not been cured. That meant
+that the defect “lingered through judgment” and that the
+District Court's judgment therefore “must be vacated.”
+Caterpillar, 519 U. S., at 77.
+In Hain's view, the correctness of the District Court's dis-
+missal is irrelevant because, like in Caterpillar, the parties
+were completely diverse by the time of final judgment.
+Hain is mistaken. This Court has never held that a district
+court can create jurisdiction through its own mistakes. A
+rule to the contrary would permit courts to enlarge their
+jurisdiction beyond the limits Congress imposed. Cf. Kok-
+konen v. Guardian Life Ins. Co. of America, 511 U. S. 375,
+377 (1994) (“Federal courts . . . possess only that power au-
+thorized by Constitution and statute, which is not to be ex-
+panded by judicial decree” (citations omitted)).
+Hain also appeals to efficiency, arguing that it would be
+wasteful to send this case back to state court for a new trial.
+This argument also fails. To be sure, Caterpillar recog-
+nized that “considerations of finality, efficiency, and economy
+become overwhelming” after “a diversity case has been tried
+in federal court.” 519 U. S., at 75. Those considerations,
+however, were relevant only to excusing noncompliance with
+the removal statute's requirement “that there be complete
+diversity at the time of removal” after a jurisdictional defect
+had been properly and finally cured. Grupo Datafux, 541
+U. S., at 574. As to the jurisdictional requirement itself,
+Caterpillar held that an uncured jurisdictional defect means
+that “the judgment must be vacated,” 519 U. S., at 76–77,
+regardless of how efficient it might be to leave the judgment
+in place. That the parties may need to litigate a new trial
+in state court does not change the jurisdictional analysis or
+make the District Court's error an effective cure. 3
+III
+As a fallback, Hain argues that, even if the jurisdictional
+defect was not cured, Whole Foods should now be dismissed
+under Federal Rule of Civil Procedure 21. That Rule per-
+mits a federal court “on its own” to “add or drop a party”
+“on just terms.” This argument is unavailing. 4
+In Newman-Green, Inc. v. Alfonzo-Larrain, 490 U. S. 826
+(1989), this Court held that, in appropriate circumstances,
+courts may use Rule 21 “to dismiss a dispensable nondiverse
+party.” Id., at 833, 837. To do so, courts must “carefully
+consider whether the dismissal of a nondiverse party will
+prejudice any of the parties in the litigation,” as “[i]t may be
+that the presence of the nondiverse party produced a tactical
+advantage for one party or another.” Id., at 838.
+3 Other procedural mechanisms may be available to reduce wasteful liti-
+gation. For instance, both partial final judgment under Federal Rule of
+Civil Procedure 54(b) and certifcation under 28 U. S. C. § 1292(b) allow
+district courts to certify matters for early appeal. Those procedures
+could help resolve any uncertainty over whether a nondiverse party
+should remain in the case at the time of removal and avoid the need to
+wait until a post-trial appeal. See Tr. of Oral Arg. 20–23, 34–36.
+4 The Palmquists contend the Rule 21 argument was forfeited, but it is
+fairly included within the question presented, was raised in the petition for
+certiorari, and was pressed before the Fifth Circuit. See Pet. for Cert. i,
+22–24 (arguing that “appellate courts . . . ha[ve] dismissed dispensable
+nondiverse parties in order to preserve jurisdiction as to diverse parties”
+and citing Newman-Green, Inc. v. Alfonzo-Larrain, 490 U. S. 826, 834–836
+(1989)); Brief for Whole Foods in No. 23–40197 (CA5), p. 16; see also this
+Court's Rule 14.1(a).
+This case is very different from Newman-Green. Here,
+the defendants are seeking dismissal of a nondiverse defend-
+ant, whereas in Newman-Green, the plaintiff sought the dis-
+missal. Id., at 829. The identity of the party asking for the
+dismissal is important because “[t]he plaintiff is `the master
+of the complaint,' ” and generally has the right to choose
+whether to proceed in federal or state court. Royal Canin,
+604 U. S., at 35. Dismissing a nondiverse party with the
+plaintiff 's consent is consistent with that right, as is a plain-
+tiff 's ability to amend the complaint to “bring the suit either
+newly within or newly outside a federal court's jurisdiction.”
+Id., at 35–36.
+Hain's proposed use of Rule 21, however, would force the
+Palmquists to litigate this case in federal court against their
+wishes and despite their right to control the forum for this
+case. Hain cites no cases in which a court used Rule 21,
+over the plaintiff 's consistent objections, to dismiss a prop-
+erly joined defendant to preserve jurisdiction over an incor-
+rectly removed case that never should have been in federal
+court. That lack of authority is not surprising. The preju-
+dice to the plaintiff in such circumstances is clear, for “plain-
+tiffs are ordinarily allowed to select whatever forum they
+consider most advantageous.” Atlantic Marine Constr. Co.
+v. United States Dist. Court for Western Dist. of Tex., 571
+U. S. 49, 63 (2013). The Palmquists exercised their right to
+choose a state forum by purposefully and properly joining a
+nondiverse defendant against whom they could not proceed
+in federal court, and diligently asserted that right by
+promptly moving to remand the case to state court. The
+decision to structure their case in this way was the Palm-
+quists' to make; Rule 21 does not permit a court or a defend-
+ant to override their choice in these circumstances. 5
+5 Some courts have used Rule 21 to dismiss nondiverse parties joined
+after the case was properly removed to federal court. See, e. g., Gorfnkle
+v. U. S. Airways, Inc., 431 F. 3d 19, 21–23 (CA1 2005). Because Whole
+Foods was named in the original state-court complaint in this case, the

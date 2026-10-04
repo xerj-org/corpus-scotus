@@ -1,0 +1,75 @@
+Fernandez v. United States — No. 24-556 — October Term 2025 — decided 5/28/26 — Sotomayor, J., concurring in judgment
+Citation: 608 U.S. 411
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r39_5iek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+judgment of the Court of Appeals for the Second Circuit is
+affirmed.
+It is so ordered.
+Justice Sotomayor , with whom Justice Kagan joins,
+concurring in the judgment.
+The First Step Act of 2018 expanded district courts' au-
+thority to “reduce [a] term of imprisonment” upon a finding
+that “extraordinary and compelling reasons warrant such a
+reduction” and that the reduced sentence is consistent with
+traditional sentencing factors. 18 U. S. C. § 3582(c)(1)(A).
+For many of the reasons explained in Justice Jackson's dis-
+senting opinion, the Court's decision interpreting that provi-
+sion today is wrong. The majority improperly narrows the
+scope of § 3582(c)(1)(A) based on tenuous inferences drawn
+from the federal habeas statutes. Its habeas-based rule dis-
+torts and expands the Court's habeas-channeling cases, cre-
+ating an atextual limitation found nowhere in § 3582(c)(1)(A).
+In doing so, it superimposes a technical, and likely unwork-
+able, habeas analysis on top of a sentence-reduction frame-
+work that broadly calls for holistic review. Moreover, the
+rule adopted today risks shutting out meritorious claims for
+a sentence reduction simply because they might resemble, in
+some amorphous way, a claim that might call into question a
+sentence or conviction.
+Even so, the judgment below should be affirmed on a dif-
+ferent, far simpler ground, which follows much more natu-
+rally from the statute before the Court: A motion for com-
+passionate release cannot justify a reduced sentence if it
+relies solely on facts a court already considered in imposing
+the initial sentence, rather than any changed circumstances
+that developed after sentencing.
+In general, a “court may not modify a term of imprison-
+ment once it has been imposed.” § 3582(c). Section 3582(c)
+(1)(A) authorizes a limited departure from that rule of final-
+ity when “extraordinary and compelling reasons” arise so as
+to “warrant . . . a reduction” of the sentence imposed. For
+a reason to “warrant” a change of a sentence, however, it
+cannot have been a consideration that was part of the initial
+sentencing determination to begin with. At the very least,
+changing a sentence already imposed under § 3582(c)(1)(A)
+requires something to have changed, after sentencing, in a
+way that alters the sentencing calculus. See, e. g., Setser v.
+United States, 566 U. S. 231, 242–243 (2012) (explaining that
+§ 3582(c)(1)(A) provides for relief when “ `developments that
+take place after the first sentencing' produc[e] unfairness to
+the defendant” (citation omitted)). Otherwise, district
+courts would have indefinite authority to revise sentences
+already imposed based on information and arguments that
+were previously considered and rejected. Such authority
+would seriously diminish the finality of sentences required
+by § 3582(c).
+The District Court's grant of relief here ran afoul of this
+principle. Petitioner Joe Fernandez has been litigating the
+issues at the core of his § 3582(c)(1)(A) motion since his trial.
+From the start, Fernandez has contended that the evidence
+against him was weak and that the prosecution failed to
+prove beyond a reasonable doubt that he (and not someone
+else) committed the murders for which he was convicted.
+He raised these issues at his trial, see ante, at 415, at his
+sentencing, see App. 57–62, in a motion to reconsider his sen-
+tence, see ante, at 415–416, and in a postconviction motion
+under 28 U. S. C. § 2255, even though “[n]o new evidence had
+surfaced,” ante, at 416–417. Each effort failed in the trial
+court and on appeal. Yet these same arguments finally
+found success under § 3582(c)(1)(A) based on the District
+Court's renewed feelings of “ `doub[t]' ” and “ `disquiet' ”
+about the original trial evidence supporting Fernandez's jury
+verdict. Ante, at 418.*
+*As the majority notes, ante, at 418, n. 1, the District Court also relied
+on a sentencing disparity between Fernandez and some of his codefendants
+in granting relief, but the Second Circuit rejected that separate basis for

@@ -1,0 +1,289 @@
+Jones v. Mississippi — No. 18-1259 — October Term 2020 — decided 4/22/21 — Thomas, J., concurring in judgment
+Citation: 593 U.S. 98
+Source: https://www.supremecourt.gov/opinions/20pdf/593us1r30_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+2019, No. 18–217, pp. 29–36. But the U. S. Constitution, as
+this Court's precedents have interpreted it, does not demand
+those particular policy approaches.
+Finally, our holding today is far from the last word on
+whether Jones will receive relief from his sentence. Jones
+contends that he has maintained a good record in prison and
+that he is a different person now than he was when he killed
+his grandfather. He articulates several moral and policy ar-
+guments for why he should not be forced to spend the rest
+of his life in prison. Our decision allows Jones to present
+those arguments to the state officials authorized to act on
+them, such as the state legislature, state courts, or Gover-
+nor. Those state avenues for sentencing relief remain open
+to Jones, and they will remain open to him for years to
+come.
+* * *
+We affirm the judgment of the Mississippi Court of
+Appeals.
+It is so ordered.
+Justice Thomas, concurring in the judgment.
+The Court correctly holds that the Eighth Amendment
+does not require a finding that a minor be permanently incor-
+rigible as a prerequisite to a sentence of life without parole.
+But in reaching that result, the majority adopts a strained
+reading of Montgomery v. Louisiana, 577 U. S. 190 (2016),
+instead of outright admitting that it is irreconcilable with
+Miller v. Alabama, 567 U. S. 460 (2012)—and the Constitu-
+tion. The better approach is to be patently clear that Mont-
+gomery was a “demonstrably erroneous” decision worthy
+of outright rejection. Gamble v. United States, 587 U. S.
+–––, ––– (2019) (Thomas, J., concurring).
+I
+Brett Jones, then 15, murdered his grandfather. At the
+time of his trial and sentencing, Mississippi law automatically
+punished his crime with life without parole. A few years
+later, however, this Court held that youthful offenders are
+constitutionally entitled to an “individualized sentencing”
+process. Miller, 567 U. S., at 465. The Mississippi Su-
+preme Court thus ordered a new hearing at which the judge
+dutifully considered the factors “relevant to [Jones'] culpabil-
+ity” before again sentencing him to life without parole.
+App. 149.
+Jones appealed, citing yet another new decision—Mont-
+gomery—in which this Court held that Miller 's rule was
+“substantive” and hence had to be retroactively applied to
+cases on collateral review. 577 U. S., at 212. Without more,
+the fact that Miller was now retroactive did not help Jones,
+as he had already received the “individualized” hearing
+Miller required. 567 U. S., at 465. Therefore, Jones ar-
+gued that Montgomery further required the sentencing
+judge to “make a specific `finding' that he is irretrievably
+depraved, irreparably corrupt, or permanently incorrigible.”
+285 So. 3d 626, 632 (Miss. App. 2017). That theory was not
+necessarily a stretch—as Montgomery explained that a life-
+without-parole sentence “violates the Eighth Amendment
+for a child whose crime reflects ` “unfortunate yet transient
+immaturity.” ' ” 577 U. S., at 208. But the Mississippi
+Court of Appeals disagreed, noting that Montgomery also
+“stated that `Miller did not require trial courts to make a
+finding of fact regarding a child's incorrigibility' [or] `impose
+a formal factfinding requirement.' ” 285 So. 3d, at 632.
+II
+Miller and Montgomery are from the same lineage of
+precedent that refashions the Eighth Amendment to accom-
+modate this Court's views of juvenile justice. 1 The similari-
+1 See, e. g., Roper v. Simmons, 543 U. S. 551, 556, 578 (2005) (prohibiting
+the execution of a (barely) juvenile murderer who had bragged that his
+age would allow him to “ `get away with it' ”); Graham v. Florida, 560
+U. S. 48, 74 (2010) (prohibiting life-without-parole sentences for juvenile
+nonhomicide offenders).
+ties end there, however, because the decisions cannot be
+reconciled.
+A
+Miller announced a purely procedural rule: A State may
+not automatically sentence a juvenile to life without parole,
+but must instead provide an individualized sentencing proc-
+ess. In reaching this conclusion, the Court explicitly cab-
+ined its holding to cases in which the sentencer lacked “dis-
+cretion to impose a different punishment.” Miller, 567
+U. S., at 465; accord, e. g., id., at 479–480. Were there any
+doubt that Miller focused only on the availability of individu-
+alized sentencing, the Court stressed that it was “not cate-
+gorically bar[ring] a penalty for a class of offenders or type
+of crime” but instead “mandat[ing] only that a sentencer fol-
+low a certain process.” Id., at 483.
+Miller 's descriptions of its procedural holding track with
+the opinion's mode of analysis. At one point, for example,
+Miller discussed a line of precedents that condition the death
+penalty on an individualized sentencing process. Id., at
+475–476. Reasoning by analogy, the Court explained that
+“mandatory penalties” for juveniles “preclude a sentencer
+from taking account of an offender's age and the wealth of
+characteristics and circumstances attendant to it.” Id., at
+476. The Court also canvassed the jurisdictions that had
+some form of mandatory life-without-parole, id., at 482–487,
+and nn. 9–10, 13–14, which would have been an unusual de-
+tour if the opinion were concerned with anything more than
+nondiscretionary punishments. And it declined to “consider
+[the] alternative argument that the Eighth Amendment re-
+quires a categorical bar on life without parole for juveniles.”
+Id., at 479.
+B
+This narrow holding became inconvenient when the Court
+decided to apply Miller retroactively to prisoners whose sen-
+tences were already final. Under the approach announced
+in Teague v. Lane, 489 U. S. 288 (1989), Miller could have
+been retroactive only if it were a “watershed” rule of crimi-
+nal procedure or a “substantive” rule, Beard v. Banks, 542
+U. S. 406, 416–419, and n. 7 (2004).
+Precedent foreclosed the first option. Miller “mandate[d]
+only that a sentencer follow a certain process” as a prerequi-
+site to life without parole, 567 U. S., at 483, but this directive
+was hardly “watershed.” According to Teague, a procedural
+rule might have a claim to watershed status if it were “ ` “im-
+plicit in the concept of ordered liberty.” ' ” Banks, 542 U. S.,
+at 417. So limited was this possibility that, in “ `the years
+since Teague, we . . . rejected every claim that a new rule
+satisfied the requirements for watershed status.' ” Ramos
+v. Louisiana, 590 U. S. –––, ––– (2020) (Kavanaugh, J., con-
+curring in part). Or in more concrete terms, we repeatedly
+suggested that a rule might be watershed only if it were akin
+to a defendant's right to counsel as articulated in Gideon v.
+Wainwright, 372 U. S. 335 (1963). See Banks, 542 U. S., at
+417–418. Whatever Miller might have done, its narrow rule
+about juvenile sentencing “ `ha[d] none of the primacy and
+centrality of the rule adopted in Gideon.' ” Banks, 542
+U. S., at 420.
+Rather than accept what was plainly the case—that Miller
+was procedural, not watershed, and thus not retroactive—
+Montgomery proceeded to “rewrite” it into a substantive
+rule. 577 U. S., at 224 (Scalia, J., dissenting). Despite ac-
+knowledging that “Miller 's holding has a procedural compo-
+nent,” the majority explained that this procedure was actu-
+ally just a way “to implement a substantive guarantee.”
+Id., at 209–210. This guarantee, according to Montgomery,
+was that “all” juvenile offenders—except for a rare few
+“whose crimes reflect permanent incorrigibility”—are cate-
+gorically exempt from life without parole. Id., at 209.
+That reimagined rule was substantive under our prece-
+dents. Substantive rules include those that “ `prohibi[t] a
+certain category of punishment for a class of defendants be-
+cause of their status or offense.' ” Banks, 542 U. S., at 416.
+For example—a rule that “life without parole is an excessive
+sentence for children whose crimes reflect transient immatu-
+rity.” Montgomery, 577 U. S., at 210. Montgomery could
+not have been clearer that its rule transcended mere pro-
+cedure: “Even if a court considers a child's age before
+sentencing him or her to a lifetime in prison, that sentence
+still violates the Eighth Amendment for a child whose
+crime reflects ` “unfortunate yet transient immaturity.” ' ”
+Id., at 208.
+The problem with this new rule is that it had little to do
+with Miller. Through a feat of legerdemain, Montgomery
+began by acknowledging that Miller did “ `not categorically
+bar a penalty for a class of offenders or type of crime,' ” yet
+just three sentences later concluded that “Miller did bar life
+without parole . . . for all but the rarest of juvenile offenders,
+those whose crimes reflect permanent incorrigibility.” 577
+U. S., at 209. In a similar Janus-faced demonstration, Mont-
+gomery reiterated Miller 's assurance that “trial courts [need
+not] make a finding of fact regarding a child's incorrigibility,”
+yet decided that “Miller drew a line between children whose
+crimes reflect transient immaturity and those rare children
+whose crimes reflect irreparable corruption.” 577 U. S., at
+209–211.2 These statements cannot be reconciled.
+2 The Court's language in this line of precedents is notable. When ad-
+dressing juvenile murderers, this Court has stated that “ `children are
+different' ” and that courts must consider “a child's lesser culpability.”
+Montgomery, 577 U. S., at 207–208 (emphasis added). And yet, when as-
+sessing the Court-created right of an individual of the same age to seek
+an abortion, Members of this Court take pains to emphasize a “young
+woman's” right to choose. See, e. g., Lambert v. Wicklund, 520 U. S. 292,
+301 (1997) (Stevens, J., joined by Ginsburg and Breyer, JJ., concurring in
+judgment) (emphasis added); Planned Parenthood of Southeastern Pa. v.
+Casey, 505 U. S. 833, 899 (1992) (joint opinion of O'Connor, Kennedy, and
+Souter, JJ.); Ohio v. Akron Center for Reproductive Health, 497 U. S. 502,
+532 (1990) (Blackmun, J., joined by Brennan and Marshall, JJ., dissenting).
+It is curious how the Court's view of the maturity of minors ebbs and
+fows depending on the issue.
+C
+Just as the procedural rule of Miller created problems for
+the majority in Montgomery, the substantive rule of Mont-
+gomery creates problems for the majority in this case. If
+Montgomery is correct about the existence of a concrete
+class of offenders who—as a matter of fundamental constitu-
+tional law—are categorically exempt from a sentence of life
+without parole, then there must be a determination as to
+whether Jones falls within that protected class. Otherwise,
+the “line” Miller ostensibly “drew . . . between children
+whose crimes reflect transient immaturity and those rare
+children whose crimes reflect irreparable corruption” is more
+fanciful than real. Montgomery, 577 U. S., at 209.
+Sure enough, this Court has often demanded factual find-
+ings when it comes to other classes of criminals that this
+Court has declared categorically exempt from certain pun-
+ishments. See, e. g., Moore v. Texas, 586 U. S. –––, –––
+(2019) (per curiam ) (finding that an offender “ha[d] shown
+[that] he is a person with intellectual disability”); Madison v.
+Alabama, 586 U. S. –––, –––, ––– – ––– (2019) (vacating and
+remanding “for renewed consideration” of the record after a
+state court “found [a prisoner] mentally competent” and thus
+eligible for execution). I doubt that a majority of this Court
+would tolerate the execution of an offender who alleges in-
+sanity or intellectual disability absent a satisfactory finding
+to the contrary.
+In response, the majority suggests that insanity and in-
+tellectual disability are legitimate “eligibility criteri[a]” be-
+cause they are easy to evaluate, whereas “permanent incorri-
+gibility . . . `is difficult even for expert psychologists to
+[assess].' ” Ante, at 107. This notion that the former cate-
+gories are clear cut and predictable might come as news to
+the States that have spent years chasing the ever-evolving
+definitions of mental incompetence promulgated by this
+Court and its preferred experts. See, e. g., Moore, 586 U. S.,
+at ––– – –––; Moore v. Texas, 581 U. S. 1, 5–6, 8–21 (2017)
+(courts must heed “the force of the medical community's con-
+sensus”); Hall v. Florida, 572 U. S. 701, 724 (2014). I trust,
+however, that future decisions will contain simple and
+static rules.
+D
+Montgomery's creation of a categorical exemption for cer-
+tain offenders thus leaves us with two obvious options.
+First, we could follow Montgomery's logic and hold that the
+“legality” of Jones' sentence turns on whether his crime in
+fact “reflect[s] permanent incorrigibility.” 577 U. S., at 205,
+209. Or we could just acknowledge that Montgomery had
+no basis in law or the Constitution.
+The majority, however, selects a third way: Overrule
+Montgomery in substance but not in name. The opinion
+candidly admits both that Miller 's rule was “procedural” and
+that Montgomery “ma[de] the rule retroactive.” Ante, at
+108, 110–111. The only way to reconcile these statements
+with the bottom-line judgment in this case—that Jones is not
+entitled to a determination whether he falls within a consti-
+tutionally protected category of offenders—is to reject Mont-
+gomery. And sure enough, the majority does just that, albeit
+in a footnote. See ante, at 111, n. 4 (explaining that Montgom-
+ery is “in tension” with many other decisions). But because
+Montgomery's freewheeling approach to the law is ripe for
+abuse, the majority's whisper is worth restating above the
+line: Montgomery gave a good-for-one-ride ticket to a class
+of juvenile offenders, and its errors will never be repeated.
+Firm condemnation of Montgomery is particularly appro-
+priate because this Court is unable to fully repair the dam-
+age it has caused. Although the majority closes the door to
+courts following Montgomery in the future, in doing so it
+tacitly admits that the horses have already left the barn:
+“[M]ost offenders who could seek collateral review as a re-
+sult of Montgomery have done so.” Ante, at 111, n. 4. To-
+day's judgment thus offers cold comfort to the States that
+have already faced the unenviable choice between “permit-
+ting juvenile homicide offenders to be considered for pa-
+role” and relitigating murder sentences long after the fact.
+Montgomery, 577 U. S., at 212; see also id., at 226–227
+(Scalia, J., dissenting). The least we can do is to fully own
+up to Montgomery's sins.
+The majority also largely leaves untouched Montgomery's
+violation of the rule that the Constitution “ `leaves the un-
+avoidably moral question of who “deserves” a particular non-
+prohibited method of punishment to the judgment of the leg-
+islatures that authorize the penalty.' ” Miller, 567 U. S., at
+504 (Thomas, J., dissenting). When the Eighth Amendment
+was enacted, juveniles even younger than Jones could be
+tried as adults, and mandatory death sentences were avail-
+able. See id., at 503, n. 2. “It is therefore implausible that
+a [15]-year-old's . . . prison sentence—of any length, with or
+without parole—would have been viewed as cruel and un-
+usual.” Id., at 504, n. 2. By failing to condemn Montgom-
+ery's expansion of Miller to an entire category of individuals,
+the majority blesses yet another step “on the path to further
+judicial displacement of the legislative role in prescribing ap-
+propriate punishment for crime.” 567 U. S., at 500 (Rob-
+erts, C. J., dissenting).
+Finally, I would expressly reject the portion of Montgom-
+ery that “purported to constitutionalize” the substantive ex-
+ception “so that it would apply in [the petitioner's] state
+court proceeding.” Brief for Jonathan F. Mitchell et al. as
+Amici Curiae in Edwards v. Vannoy, O. T. 2020, No. 19–
+5807, pp. 5–6 (emphasis deleted). Despite this Court's long-
+standing recognition that “the Constitution neither prohibits
+nor requires retrospective effect,” Linkletter v. Walker, 381
+U. S. 618, 629 (1965); cf. Teague, 489 U. S., at 302–310 (plural-
+ity opinion) (narrowing Linkletter even further), the Mont-
+gomery Court demanded that the Louisiana courts “recog-
+nize [Miller 's] retroactive effect.” 577 U. S., at 200, 205.

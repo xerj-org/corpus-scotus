@@ -1,0 +1,111 @@
+United States v. Hemani — No. 24-1234 — October Term 2025 — decided 6/18/26 — ALITO, J., concurring in judgment
+Citation: 608 U.S. 772
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1234_new_6k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+ALITO, J., concurring in judgment
+SUPREME COURT OF THE UNITED STATES
+No. 24–1234
+UNITED STATES, PETITIONER v. ALI
+DANIAL HEMANI
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+JUSTICE ALITO, with whom JUSTICE KAGAN joins, concur-
+ring in the judgment.
+I agree with the Court that the historical analogues that
+the Government cites are not “relevantly similar” to 18
+U. S. C. §922(g)(3) as applied to respondent.  New York
+State Rifle & Pistol Assn., Inc . v. Bruen, 597 U. S. 1, 29
+(2022). I therefore agree that we should affirm the judg-
+ment of the Fifth Circuit.  I also agree that nothing in the
+opinion of the Court should be read to cast doubt on the con-
+stitutionality of other provisions of §922(g), such as
+§§922(g)(1) and (4), the “prohibitions on the possession of
+firearms by felons and the mentally ill,” District of Colum -
+bia v. Heller, 554 U. S. 570, 626 (2008), which we have re-
+peatedly said are “‘presumptively lawful,’” United States v.
+Rahimi, 602 U. S. 680, 699 (2024) (quoting Heller, 554
+U. S., at 627, n. 26).  See ante, at 15–16, n. 6 (quoting Hel-
+ler, 554 U. S., at 626).
+Although I agree with the Court on these points, I would
+affirm on a different ground from those on which the major-
+ity relies. As the opinion of the Court explains, the habit-
+ual-drunkard laws that the Government cites did not allow
+officials to disarm all those who “regularly used intoxi-
+cants,” or even just those who “sometimes used them to ex-
+cess.” Ante, at 10.  These laws instead threatened disarma-
+ment only for those whose use of an intoxicant “rendered
+
+them practically incapacitated and incapable of managing
+their affairs.” Ibid.  Those persons drank so much, so often,
+that they were incapacitated not only during bouts of
+drunkenness but also in a mo re persistent and pervasive
+manner. Yet the Government argues that these historical
+analogues establish a regulatory tradition that allows it to
+disarm “anyone” who regularly uses “any amount” of mari-
+juana unlawfully. Ibid.
+The mismatch between the Government’s historical ana-
+logues and the theory on which the Government defends the
+constitutionality of §922(g)(3) as applied to respondent is
+clear. All that we know about respondent’s marijuana use
+is that he used the drug about every other day.  We do not
+know how much he used, the strength of the marijuana he
+used, how many times he used it on the days in question,
+the time of day when he used it, where he used it, or the
+degree to which this use affected his ability to exercise judg-
+ment and perform daily tasks responsibly. As a result, the
+Government has failed to show that a marijuana user like
+respondent is incapacitated in a way analogous to the ha -
+bitual drunkards that the Government’s analogues regu-
+lated.
+Marijuana consumption is increasingly common in this
+country. Many States have legalized its use and sale, and
+although possession of the drug remains a federal crime,
+very few persons are convicted of that offense each year.
+The Government has largely tolerated the production and
+sale of marijuana when done in accord with state law, and
+it has allowed a multi-billion-dollar marijuana business to
+develop.1  For its part, Congress has restricted the use of
+appropriated funds to prevent States from implementing
+laws that allow the use, distribution, possession, or cultiva-
+tion of medical marijuana, or to prosecute certain parties
+——————
+1 See Congressional Research Service, L. Sacco & J. Lampe, The Fed-
+eral Status of Marijuana and the Policy Gap With States 2 (2026).
+
+3  Cite as: 608 U. S. ____ (2026)
+ALITO, J., concurring in judgment
+that produce, distribute, or possess marijuana in compli-
+ance with state law.2
+In these circumstances, marijuana use today is like alco-
+hol use at the founding. It is widespread and increasingly
+considered socially acceptable in many quarters. And from
+a practical standpoint, law enforcement widely tolerates
+the use of marijuana.
+These similarities underscore the deficiency of the Gov-
+ernment’s analogues. To succeed, the Government would
+need to identify a regulatory principle that justified dis-
+armament of persons who are relevantly similar to the oc-
+casional marijuana user. But whereas the Government’s
+analogues allowed disarmament only of those whose ex-
+treme use of an intoxicant (alcohol) incapacitated them ha-
+bitually, §922(g)(3) as applied to respondent allows dis-
+armament of those who do no more than “regularly us[e]” a
+similar intoxicant (marijuana) unlawfully.
+In attempting to rebuff a Second Amendment challenge,
+the Government need not identify a historical twin or pre -
+cise precursor.  Rahimi, 602 U. S., at 692.  Still, the Gov-
+ernment must cite analogues that are “relevantly similar”
+and that therefore furnish a basis for inferring that a chal-
+lenged law is consistent with the historical understanding
+of the right that the Second Amendment codified.  Here, the
+Government’s analogues are too far afield to justify the ap-
+plication of §922(g) to a marijuana user like respondent.
+We need not say more to decide this case, and I would for
+that reason say no more. I accordingly would affirm on this
+ground alone.
+——————
+2 Ibid.

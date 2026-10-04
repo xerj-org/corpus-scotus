@@ -1,0 +1,362 @@
+Samia v. United States — No. 22-196 — October Term 2022 — decided 6/23/23 — Kagan, J., dissenting
+Citation: 599 U.S. 635
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r46_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Jones v. Commonwealth, 72 Va. 836, 839–840 (1878). One
+even holds that a trial court should not alter a statement by
+redacting a codefendant's name. Workman, 15 S. C., at 545.
+Like the federal cases, though, the state cases make no men-
+tion of the confrontation right. Same for the treatises cited
+by the Court. See S. Phillipps, Law of Evidence *82–*83
+(1816); 3 J. Wigmore, Evidence § 2100, p. 2841, and n. 5 (1904).
+So for all we know, the cases cited by the Court and the
+treatises proceed from the premise that an ordinary hearsay
+rule, as opposed to a constitutional right, was on the line.
+That weakens the importance of these sources, because
+courts might have gone to greater lengths (for example, re-
+daction) to ensure that a jury did not consider a declaration
+whose admission would violate the State or Federal Consti-
+tution. Bruton v. United States, after all, grounds itself in
+the Sixth Amendment. 391 U. S. 123, 126 (1968).
+At best, the evidence recounted in Part II–A shows that,
+during a narrow historical period, some courts assumed and
+others expressly held that a limiting instruction sufficiently
+protected a codefendant from a declaration inadmissible on
+hearsay grounds. In suggesting anything more, the Court
+overclaims. That is unfortunate. While history is often
+important and sometimes dispositive, we should be discrimi-
+nating in its use. Otherwise, we risk undermining the force
+of historical arguments when they matter most.
+Justice Kagan, with whom Justice Sotomayor and
+Justice Jackson join, dissenting.
+Imagine a criminal case involving two defendants—John
+and Mary. John and Mary are arrested for robbing Bill.
+Before trial, John confesses to the robbery in an interview
+with police. But John does more than admit his own
+involvement; he also points a fnger at Mary. John says to
+the police: “Mary and I went out Saturday night and robbed
+Bill.” Mary, on the other hand, never confesses to the rob-
+bery. She maintains that she wasn't involved—in fact, that
+she never left her home on the night in question. The gov-
+ernment tries John and Mary together. At trial, it intro-
+duces a copy of John's confession into evidence, and has it
+read to the jury by the interviewing officer. But John elects
+not to take the stand, leaving Mary's attorney without an
+opportunity to cross-examine him about his confession.
+This Court's precedent bars the government from using
+John's confession in that way. The Confrontation Clause of
+the Sixth Amendment guarantees a criminal defendant the
+right “to be confronted with the witnesses against” her,
+which includes the right to cross-examine those witnesses.
+See Pointer v. Texas, 380 U. S. 400, 404–405 (1965). So when
+two defendants are tried jointly, the pretrial confession of
+one identifying the other as involved in the crime cannot be
+admitted unless the confessing defendant takes the stand.
+That is true, we held in Bruton v. United States, 391 U. S.
+123 (1968), regardless of whether a judge instructs the jury
+to consider the evidence only against the confessor (John),
+and not against his co-defendant (Mary). Even with that
+kind of instruction, a “substantial risk” exists that the jury
+will impermissibly rely on John's confession when determin-
+ing Mary's guilt. Id., at 126.
+Suppose, though, that the government redacts the confes-
+sion to eliminate Mary's name. Mary still sits in the court-
+room alongside John. But the version of the confession
+admitted into evidence now includes a blank space where
+Mary's name belongs. And when the interviewing officer
+reads the confession to the jury, he says “deleted” in place of
+Mary's name. So instead of “Mary and I went out Saturday
+night and robbed Bill,” what the jury hears is “deleted and
+I went out Saturday night and robbed Bill.”
+That confession, too, is inadmissible under our precedent.
+Though the confession no longer identifies Mary by name,
+the implication is obvious: A juror “need only lift his eyes to
+[Mary], sitting at counsel table,” to realize to whom “deleted”
+refers. Gray v. Maryland, 523 U. S. 185, 193 (1998). The
+redacted confession thus presents the same risk as the unre-
+dacted one—that the jury will consider it as evidence against
+Mary even if instructed not to. Because the confessions “so
+closely resemble” each other, we have held, “the law must
+require the same result.” Id., at 192.
+Now consider one last option. The government again
+modifes the confession to avoid the express reference. But
+this time, instead of swapping Mary's name out for “deleted,”
+the government replaces it with the words “a woman.” The
+line read to the jury thus becomes: “A woman and I went
+out Saturday night and robbed Bill.” In the face of prece-
+dent that would bar the government from using either of the
+first two versions of John's confession, a judge must decide
+what to do about this one. Would its admission, too, violate
+Mary's right of confrontation?
+The answer should be obvious. A jury is still going to
+recognize that John is talking about Mary—for who else
+could the mystery “woman” be? This last version of the
+confession thus presents the same risk as the first two: that
+jurors will rely on John's confession when assessing Mary's
+guilt. Yet in today's decision, the Court draws a line of con-
+stitutional significance between the first two examples and
+the third. Confessions that use a defendant's name or a
+symbol of omission—clear Confrontation Clause violation.
+Confessions that replace a defendant's name with another
+placeholder—no Sixth Amendment problem, no matter how
+obvious the reference to the defendant. In so elevating
+form over substance, the majority permits an end-run
+around our precedent and undermines a vital constitutional
+protection for the accused.
+I
+Start with Bruton, the foundation of this Court's prece-
+dent on the introduction of confessions at joint trials. The
+government, we held in that case, cannot introduce a confes-
+sion by a non-testifying defendant that names a co-defendant
+as an accomplice. Admitting the confession against the co-
+defendant would violate her Sixth Amendment right to
+cross-examine witnesses. See 391 U. S., at 126. And an in-
+struction to the jury to disregard the confession when as-
+sessing the co-defendant's guilt cannot remove the constitu-
+tional problem. That is because of the effect that such a
+“powerfully incriminating extrajudicial statement[ ]” is likely
+to have on a jury. Id., at 135–136. In this context, “the
+risk that the jury will not, or cannot, follow [the instruction]
+is so great, and the consequences of failure so vital to the
+defendant, that the practical and human limitations of the
+jury system cannot be ignored.” Id., at 135.
+The Bruton rule applies even when an accusatory confes-
+sion does not expressly name the co-defendant. Bruton, we
+have held, bars the use of confessions “that replace[ ] a name
+with an obvious blank space or symbol or word such as `de-
+leted.' ” Gray, 523 U. S., at 189. (So the Bruton rule ex-
+tends beyond the first John-and-Mary hypothetical to the
+second.) And similarly, Bruton bars the admission of “con-
+fessions that use shortened first names, nicknames, [and] de-
+scriptions as unique as the `red-haired, bearded, one-eyed
+man-with-a-limp.' ” Gray, 523 U. S., at 195; accord, ante,
+at 652. The Court assumed, for example, that at a joint trial
+of four defendants—three Black, one white—Bruton re-
+quired the exclusion of two of the Black defendants' confes-
+sions because they referred to the “white guy” as a partici-
+pant in the crime. Harrington v. California, 395 U. S. 250,
+252–253 (1969); see Gray, 523 U. S., at 195. Though confes-
+sions of that kind do not expressly name a non-confessing
+defendant, they still point directly at him. See id., at 194.
+They thus raise the same constitutional concern—that jurors
+will consider the confession's accusation in evaluating the
+non-confessing defendant's guilt.
+Until today, Bruton's application turned on the effect a
+confession is likely to have on the jury, as a comparison of
+two of our decisions shows. In Richardson v. Marsh, 481
+U. S. 200, 211 (1987), we approved the admission of a confes-
+sion “redacted to eliminate not only [a co-defendant's] name,
+but any reference to his or her existence.” Despite that
+complete redaction, the confession served to incriminate the
+co-defendant later in the trial, when her own testimony
+placed her in a car ride that the confession described. See
+id., at 206, 208. But we thought that a confession that in-
+criminated only “by connection” with subsequent evidence
+was neither so “vivid” nor so “powerful[ ]” as a confession
+that “incriminat[ed] on its face.” Id., at 208–209. For that
+reason, we thought, the jury was more “likely [to] obey the
+instruction” to disregard the confession as to the co-defend-
+ant. Id., at 208. But we held in Gray that the calculus is
+different when a confession “refers directly to the `existence'
+of the nonconfessing defendant,” even though not by name.
+523 U. S., at 192. Such a confession itself points a fnger
+at a co-defendant, so that the jury can “immediately” and
+“vivid[ly]” grasp how it implicates her. Id., at 196. The
+impact is so similar to naming the defendant that “the law
+must require the same result.” Id., at 192. In both situa-
+tions, the confession's “powerfully incriminating” effect “cre-
+ates a special, and vital, need for cross-examination”—just
+as if “the codefendant pointed directly to the defendant in
+the courtroom.” Id., at 194.
+Consider against that backdrop the facts of this case.
+Petitioner Adam Samia was tried jointly with two co-defend-
+ants—Joseph Hunter and Carl David Stillwell—on charges
+related to a murder committed in the Philippines. Accord-
+ing to the prosecution's theory of the case, Paul LeRoux, the
+head of a transnational criminal organization, ordered the
+killing; and Hunter, one of LeRoux's managers, hired Samia
+and Stillwell as hitmen. Before trial, Stillwell confessed to
+federal agents that both he and Samia were present at the
+murder, but told them that Samia was the triggerman. On
+that version of events, Samia shot the victim in a van that
+Stillwell was driving. App. 42–43, 45. At trial, one of the
+agents testifed about Stillwell's confession, replacing Samia's
+name with placeholders like “somebody else” and “the other
+person.” Id., at 75. So, for example, when the prosecutor
+asked the agent what Stillwell had said about his arrival in
+the Philippines, the agent answered: “He stated that he had
+met somebody else over there.” Ibid. And when asked
+whether Stillwell had recounted the crime, the agent testi-
+fed: “Yes. He described a time when the other person he
+was with pulled the trigger on that woman in a van that he
+and Mr. Stillwell was driving.” Id., at 76.
+From the jury's perspective, the identity of the triggerman
+would have been obvious. The jury knew from the start of
+trial that there were just three defendants. It knew based
+on the prosecutor's opening statement that those defendants
+were on trial for offenses related to a death in the Philip-
+pines. And it knew the role that each defendant allegedly
+played in the crime: Hunter had hired Stillwell and Samia as
+hitmen, and those two men carried out the murder. In fact,
+the prosecutor began his opening statement with the exact
+sequence of events Stillwell had described in his interview:
+The prosecutor told jurors that Samia “shot [the victim]
+twice in the face” while the victim “was riding in the back-
+seat of a van driven” by Stillwell. Id., at 52. So when the
+federal agent took the stand on day two of the trial, it didn't
+make a lick of difference that he didn't identify the shooter
+by name, but instead used placeholder terms. Any reason-
+able juror would have realized immediately—and without
+reference to any other evidence—that “the other person”
+who “pulled the trigger” was Samia.
+That fact makes Stillwell's confession inadmissible under
+our Bruton precedent. The agent's testimony about the
+confession pointed a fnger straight at Samia, no less than if
+the agent had used Samia's name or called him “deleted.”
+II
+So how does the majority reach a contrary result? The
+nomenclature it adopts isn't the problem: In describing Bru-
+ton's scope, the majority distinguishes “between confessions
+that directly implicate a defendant and those that do so indi-
+rectly.” Ante, at 648, 652. That distinction roughly tracks
+the one this Court has recognized between confessions that
+themselves incriminate a co-defendant (directly implicate)
+and those that become incriminating only when linked with
+later-introduced evidence (indirectly implicate). See supra,
+at 660–661. But the majority distorts that distinction be-
+yond recognition when applying it to the facts of this case.
+In one blink-and-you-miss-it paragraph of analysis, the ma-
+jority holds that Stillwell's confession does not “directly” im-
+plicate Samia for two reasons. It “was redacted to avoid
+naming Samia.” Ante, at 653. And the redaction was “not
+akin to an obvious blank or the word `deleted.' ” Ibid.
+That analysis altogether fails to capture what our Bruton
+cases care about. This Court has already made clear that
+the first fact relied on—that Stillwell's confession did not use
+Samia's name—is not dispositive. See supra, at 660. A
+confession redacted with a blank space, after all, also avoids
+naming the defendant; yet Gray held that it falls within Bru-
+ton's scope. So today's decision must rest on the second fea-
+ture of the confession: that the placeholder used (e. g., “the
+other person”) was neither a blank space nor the word “de-
+leted.” But that distinction makes nonsense of the Bruton
+rule. Bruton's application has always turned on a confes-
+sion's inculpatory impact. See, e. g., Cruz v. New York, 481
+U. S. 186, 193 (1987) (considering “the likelihood that [a limit-
+ing] instruction will be disregarded” and “the probability
+that such disregard will have a devastating effect”). And as
+the John-and-Mary examples make clear, a confession that
+swaps in a phrase like “the other person” for a defendant's
+name may incriminate just as powerfully as one that swaps
+in a blank space. See supra, at 657–659. So the majority
+warps our Bruton precedent by categorically putting the two
+on opposite sides of the constitutional line. As the Court re-
+marked in another case about Bruton, “[t]he law cannot com-
+mand respect” if we apply such “inexplicable”—and indeed
+unprincipled—line-drawing to a “constitutional imperative.”
+Cruz, 481 U. S., at 193.
+Contrary to the majority's claim, Gray repudiates rather
+than supports the distinction adopted today. In holding that
+Bruton's protections extend beyond confessions with names
+to confessions with blanks, Gray explained that what should
+matter is not a confession's form but its effects. A jury,
+Gray noted, “will often react similarly” to the two kinds of
+confessions; the blank space (rather than name) is “not likely
+[to] fool anyone.” 523 U. S., at 193. Ignoring Gray's forest
+for one tree, the majority points to a passage in which the
+Court described how a confession in the case could have been
+further redacted: Instead of saying “[m]e, deleted, deleted,
+and a few other guys,” the witness could have said “[m]e and
+a few other guys.” Id., at 196. But on Gray's particular
+facts, the latter version was unproblematic. The crime was
+a gang assault involving six perpetrators, while only one
+other person was on trial with the confessing defendant.
+The “[m]e and a few other guys” phrase thus did not point a
+fnger directly at the co-defendant, as “the other person”
+phrase here did at Samia. The more relevant reference dis-
+cussed in Gray was to the “white guy” in a trial with only
+one white defendant, as described above. Id., at 195; see
+supra, at 660. Gray left no doubt that the confession with
+that phrase should have been excluded—and for the same
+reason as the confession with “deleted.” When a modified
+confession has an “accusatory” effect “similar” to one with
+names, the Court reasoned, the law “require[s] the same re-
+sult.” Id., at 192, 194. Gray could not have cared less
+whether the modification takes the form of a blank space or
+of a different, but no less accusatory, placeholder.
+The practical concerns the majority cites in support of its
+decision are equally flimsy. On the majority's view, a ruling
+for Samia would require courts to conduct “extensive pre-
+trial hearings” reviewing “the Government's case in its en-
+tirety.” Ante, at 654. But that charge is a strawman—and
+one that Gray already knocked down. See 523 U. S., at 197.
+The Bruton rule—whether applying to confessions with
+names, with blanks, or with other placeholders—demands
+only that a court consider “in advance of trial” such matters
+as the content of the confession, the number of defendants,
+and the prosecution's general theory of the case. Cruz, 481
+U. S., at 193; see Gray, 523 U. S., at 197; cf. Richardson,
+481 U. S., at 209 (noting that a more demanding inquiry
+would be needed if Bruton applied to confessions incrimi-
+nating only “by connection” with later-introduced evidence).
+Courts have long considered those basic factors when apply-
+ing Bruton.1 And the Government has proved unable to
+cite a single case—including in Circuits applying Bruton to
+confessions like Stillwell's—in which doing so created “ad-
+ministrability” issues, much less “fewer joint trials.” Tr. of
+Oral Arg. 93–96. 2 In any event, greater “convenience in the
+administration of the law,” as Bruton noted, cannot come
+at the expense “of fundamental principles of constitutional
+liberty.” 391 U. S., at 135. “That price,” we recognized
+then, “is too high.” Ibid.
+With nothing else to support it, the majority reaches for
+two props inconsistent with Bruton itself. One is the “pre-
+sumption that jurors follow limiting instructions.” Ante, at
+646–647. The majority correctly describes that presump-
+tion; it just forgets that the presumption does not apply
+when the evidence at issue is an accusatory co-defendant con-
+fession. Bruton could not have been clearer on the point:
+1 See, e. g., United States v. Straker, 800 F. 3d 570, 595–601 (CADC 2015);
+United States v. Hardwick, 544 F. 3d 565, 573 (CA3 2008); United States
+v. Vega Molina, 407 F. 3d 511, 520–521 (CA1 2005); United States v. Wil-
+liams, 429 F. 3d 767, 773–774 (CA8 2005); United States v. Hernandez, 330
+F. 3d 964, 973–974 (CA7 2003).
+2 Seriously, the Government's only proffered complaint when asked to
+expound on administrability issues was with one appellate decision that
+took “six double-column F. 3d pages” to review the trial court's Bruton
+ruling. Tr. of Oral Arg. 96.
+“[W]e cannot accept limiting instructions as an adequate
+substitute for [a defendant's] constitutional right of cross-ex-
+amination.” 391 U. S., at 137; see Gray, 523 U. S., at 192
+(stating that co-defendant confessions are “so prejudicial
+that limiting instructions cannot work”); Richardson, 481
+U. S., at 208 (noting “the overwhelming probability of [ju-
+rors'] inability” to follow instructions to disregard co-defend-
+ant confessions); see supra, at 659–660. And the majority
+does no better in invoking “historical evidentiary practice.”
+See ante, at 644–646. One point here is Justice Barrett's:
+There just isn't much history helping the majority. See
+ante, at 655–657 (opinion concurring in part and concurring
+in judgment). But assume for a moment to the contrary:
+Suppose with the majority that at some relevant time, courts
+conducting joint trials admitted unredacted co-defendant
+confessions subject only to limiting instructions. Ante, at
+644–646. If that history controlled, Bruton itself would
+have been wrongly decided. The majority's real views thus
+come into focus. The point of its opinion is not to distin-
+guish the confession here from the one in Bruton. The
+point is to say why Bruton should go.
+* * *
+And so one might wonder after reading today's decision
+whether Bruton is the next precedent on this Court's chop-
+ping block. The one reason it may not be is that there is
+now no need for formal overruling: Under this decision,
+prosecutors can always circumvent Bruton's protections.
+Consider once more John's confession implicating Mary in a
+robbery—a confession, I'll now add, bearing a striking re-
+semblance to the one in Bruton. See 391 U. S., at 124 (“A
+postal inspector testifed that Evans orally confessed to him
+that Evans and [Bruton] committed the armed robbery”).
+The Bruton rule will still bar the prosecution from using the
+original version of John's confession, expressly naming Mary.
+So too the rule will prevent the prosecution from swapping

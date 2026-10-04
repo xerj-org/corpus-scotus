@@ -1,0 +1,267 @@
+Great Lakes Ins. SE v. Raiders Retreat Realty Co. — No. 22-500 — October Term 2023 — decided 2/21/24 — Thomas, J., concurring
+Citation: 601 U.S. 65
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r04_4g15.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+For the same reasons, we disagree with Raiders' related
+suggestion that we adopt the choice-of-law approach set
+forth in § 187(2)(b) of the Second Restatement of Conflict of
+Laws. In relevant part, that subsection says that choice-of-
+law provisions are enforceable unless they conflict with “a
+fundamental policy of a state which has a materially greater
+interest than the chosen state in the determination of the
+particular issue.” Restatement (Second) of Conflict of Laws
+§ 187(2)(b). As the commentary to the Restatement care-
+fully explains, however, that rule arose out of interstate
+cases and does not deal directly with federal-state conflicts,
+including those that arise in federal enclaves like maritime
+law. See id., § 2, Comment c; § 3, Comment d; § 10, Com-
+ment a. For reasons already stated, that Restatement rule
+is a poor ft for maritime cases. It would operate like a gen-
+eral exception for state law that would prevent maritime
+actors from prospectively identifying the law to govern fu-
+ture disputes. The § 187(2)(b) exception would require par-
+ties to litigate which State possesses the “materially greater
+interest” in the dispute, and thereby create significant uncer-
+tainty. As explained above, no federal maritime interest
+favors injecting that kind of disuniformity and unpredictabil-
+ity into maritime commerce. We therefore decline to adopt
+§ 187(2)(b) for federal maritime law.
+* * *
+In sum, choice-of-law provisions in maritime contracts are
+presumptively enforceable as a matter of federal maritime
+law, with certain narrow exceptions, and no exception to the
+presumption applies in this case. We reverse the judgment
+of the Court of Appeals.
+It is so ordered.
+Justice Thomas, concurring.
+I join the Court's opinion in full because it correctly con-
+cludes that federal maritime law governs the enforceability
+of choice-of-law provisions in maritime contracts. In ar-
+guing that state law should govern, Raiders Retreat Realty
+relies principally on this Court's decision in Wilburn Boat
+Co. v. Fireman's Fund Ins. Co., 348 U. S. 310 (1955). I write
+separately to highlight how Wilburn Boat rests on flawed
+premises and, more broadly, how the decision is at odds with
+the fundamental precept of admiralty law. This Court has
+already retreated from Wilburn Boat's unsound holding, lim-
+iting it to local disputes. Litigants and courts applying
+Wilburn Boat in the future should not ignore these
+developments.
+The Constitution extends the judicial power to “all Cases
+of admiralty and maritime Jurisdiction.” Art. III, § 2, cl. 1.
+We have long understood this grant of jurisdiction to estab-
+lish a uniform body of substantive law called the general
+maritime law. See Knickerbocker Ice Co. v. Stewart, 253
+U. S. 149, 160–161 (1920); The Lottawanna, 21 Wall. 558, 575
+(1875). For almost 150 years before Wilburn Boat, it was
+well established that marine-insurance disputes fell within
+that admiralty jurisdiction. See Insurance Co. v. Dunham,
+11 Wall. 1, 35 (1871); DeLovio v. Boit, 7 F. Cas. 418, 444
+(No. 3,776) (CC Mass. 1815) (Story, J.). And, it was widely
+accepted that courts applied general maritime law in such
+disputes as a result. See Watts v. Camors, 115 U. S. 353, 362
+(1885). Wilburn Boat upset this understanding by inviting
+courts to apply state law in a broad range of marine-
+insurance disputes. That break from settled practice was
+unwarranted.
+Wilburn Boat involved an insurance claim on a small
+houseboat that was destroyed by fre while moored in Lake
+Texoma, an artificial inland lake. 348 U. S., at 311. The
+houseboat's owner conceded that he breached the marine-
+insurance policy's express warranty limiting his use to pri-
+vate pleasure by carrying passengers for hire. Ibid. Even
+though that breach was unrelated to the fre, the insurer de-
+clined coverage on breach-of-warranty grounds, arguing
+that federal maritime law requires literal compliance with
+express warranties and that any breach thus releases the
+insurer from liability. See id., at 311–312. The owner
+countered that Texas law—not federal maritime law—should
+determine the consequences of a breach of warranty, and
+that breaching the private-pleasure warranty would not jus-
+tify denying coverage under Texas law. Id., at 312. To re-
+solve this choice-of-law dispute, the Court posed two ques-
+tions: “(1) Is there a judicially established federal admiralty
+rule governing these warranties? (2) If not, should we fash-
+ion one?” Id., at 314. Answering both questions in the
+negative, this Court concluded that state law governs the
+effect of a breach of warranty in a marine-insurance policy.
+Id., at 316, 320–321.
+Wilburn Boat's rationale is deeply flawed. The Court's
+first conclusion, that there was no established federal admi-
+ralty rule requiring literal compliance with express warran-
+ties, is indefensible. See id., at 314–316. Treatises from
+the early 19th century to the 20th century recognized the
+literal compliance rule as part of the general maritime law
+governing marine insurance. See, e.g., 2 R. Simey & G.
+Mitchison, Arnould on the Law of Marine Insurance and Av-
+erage § 635, p. 863 (12th ed. 1939); 2 T. Parsons, Maritime
+Law 104–105 (1859); 1 J. Park, A System of the Law of
+Marine Insurances 422 (6th ed. 1809); J. Burn, Law of Marine
+Insurances 80 (1801). By the time of Wilburn Boat, at least
+fve Courts of Appeals had applied that rule in marine-
+insurance cases. See, e.g., Home Ins. Co. v. Ciconett, 179
+F. 2d 892, 894 (CA6 1950); Robinson v. Home Ins. Co., 73
+F. 2d 3, 4 (CA5 1934); Aetna Ins. Co. v. Houston Oil &
+Transp. Co., 49 F. 2d 121, 124 (CA5 1931); Fidelity-Phenix
+Ins. Co. v. Chicago Title & Trust Co., 12 F. 2d 573, 574 (CA7
+1926); Shamrock Towing Co. v. American Ins. Co., 9 F. 2d
+57, 60 (CA2 1925); Canton Ins. Office v. Independent Transp.
+Co., 217 F. 213, 217 (CA9 1914). And, as Justice Reed high-
+lighted in dissent, “[n]o case h[eld] to the contrary.” Wil-
+burn Boat, 348 U. S., at 326.
+The Court's only rejoinder was that some Court of Ap-
+peals decisions may have drawn the literal compliance rule
+from state or general common law, rather than general mari-
+time law. Id., at 315. Even so, the Court never explained
+why the two decisions that identified general maritime law
+as the source of the literal compliance rule were not enough
+to “establish” a federal admiralty rule. See Home Ins. Co.,
+179 F. 2d, at 894; Aetna Ins. Co., 49 F. 2d, at 124. Nor did
+it grapple with the seemingly universal endorsement of the
+rule in marine-insurance treatises. See Air & Liquid Sys-
+tems Corp. v. DeVries, 586 U. S. 446, 452 (2019) (“In formu-
+lating federal maritime law, the federal courts may examine,
+among other sources, judicial opinions, legislation, treatises,
+and scholarly writings”). At any rate, that some decisions
+were not explicit about the source of the literal compliance
+rule is unsurprising given the common understanding that
+general maritime law applied in admiralty cases. See
+Watts, 115 U. S., at 362. And, it is telling that many of those
+decisions rely on the classic marine-insurance treatise, Ar-
+nould on Marine Insurance. See Robinson, 73 F. 2d, at 4;
+Fidelity-Phenix, 12 F. 2d, at 574; Shamrock Towing, 9 F. 2d,
+at 60; Canton, 217 F., at 217. In short, at the time of Wil-
+burn Boat, the existence of an established federal maritime
+rule addressing the effect of a breach of warranty could not
+plausibly be questioned.
+The Wilburn Boat Court's justification for not creating a
+federal admiralty rule is equally problematic. It reasoned
+that general insurance regulation is an area that historically
+has been left to the States and that courts are ill suited for
+crafting marine insurance law on a case-by-case basis. See
+348 U. S., at 316–317, 319–320. The fact that States have
+traditionally provided rules of decision for general insurance
+law is no reason to leave marine insurance law to them.
+States have traditionally provided rules of decision for gen-
+eral contract and tort law, yet federal courts continue to de-
+velop maritime law in those areas. See, e.g., Air & Liquid
+Systems Corp., 586 U. S., at 453–455; Exxon Shipping Co. v.
+Baker, 554 U. S. 471, 506–507 (2008); Norfolk Southern
+R. Co. v. James N. Kirby, Pty Ltd., 543 U. S. 14, 33 (2004);
+Bisso v. Inland Waterways Corp., 349 U. S. 85, 90 (1955).
+The Wilburn Boat Court's doubts about the ability of judges
+to craft marine-insurance rules on a case-by-case basis is
+simply a critique of the common-law process. But, federal
+courts exercising admiralty jurisdiction act as common-
+law courts, Air & Liquid Systems Corp., 586 U. S., at 452,
+and the difficulties inherent in that role do not justify aban-
+doning it.
+A noticeable deficiency of Wilburn Boat was its failure
+to even acknowledge the uniformity principle—a singularly
+important concept in admiralty law. We have long recog-
+nized that the Constitution's grant of admiralty jurisdiction
+“referred to a system of law coextensive with, and operating
+uniformly in, the whole country,” and empowered federal
+courts to maintain that national system using a common-law
+process. The Lottawanna, 21 Wall., at 575. Only a uniform
+system of maritime law, the Court has explained, can ensure
+the “consistency at which the Constitution aimed on all sub-
+jects of a commercial character affecting” interstate and for-
+eign commerce. Ibid. This need for uniformity has been
+the “touchstone” for determining the scope of admiralty ju-
+risdiction and the extent to which state law can be given
+effect in admiralty cases. Norfolk Southern, 543 U. S., at 28;
+see also Kossick v. United Fruit Co., 365 U. S. 731, 741–742
+(1961); Southern Pacific Co. v. Jensen, 244 U. S. 205, 216 (1917);
+DeLovio, 7 F. Cas., at 443. Notwithstanding this settled prin-
+ciple, however, Wilburn Boat said nothing about uniformity.
+It did not so much as consider whether a need for uniformity
+required a federal rule on the effect of breaching an express
+warranty in a marine-insurance contract. This silence is in-
+explicable given that both Justice Frankfurter's concurrence
+and Justice Reed's dissent discussed uniformity at length.
+See 348 U. S., at 322–324 (Frankfurter, J., concurring in re-
+sult); id., at 332–334 (Reed, J., dissenting). As Justice Reed
+lamented, “the Court's decision strikes deep into the princi-
+ple of a uniform admiralty law,” and worse, it did so without
+explaining why. Id., at 327.
+Unsurprisingly, Wilburn Boat has been met with univer-
+sal criticism over the past 70 years. A mere two years after
+the decision, the Nation's foremost admiralty scholars wrote
+a stinging critique in their treatise. See G. Gilmore & C.
+Black, Law of Admiralty 44–45, 62–63 (1957). Wilburn
+Boat's rationale, they explained, suggests that state law pro-
+vides the rule of decision “when it happens that such cases
+have not presented themselves to the federal courts in such
+number or with the issues so posed as to result in decision
+of the point involved.” Gilmore, Law of Admiralty, at 62
+(emphasis deleted). This, they concluded, is “a nightmarish
+solution” because “[s]ome of the most important and obvious
+propositions in marine insurance law are rarely litigated.”
+Id., at 62–63. One exhaustive study of the opinion also con-
+cluded that Wilburn Boat “was poorly reasoned and its hold-
+ing poorly articulated.” J. Goldstein, The Life and Times of
+Wilburn Boat: A Critical Guide (Part I), 28 J. Mar. L. & Com.
+395, 396 (1997). It explained that Wilburn Boat did not “ar-
+ticulate any convincing theory of the extent to which uni-
+formity is a basic characteristic of maritime law,” “showed
+little appreciation” for the Judiciary's role in fashioning the
+general maritime law, and “failed to produce a decision or
+analysis that would provide guidance to the lower courts.”
+J. Goldstein, The Life and Times of Wilburn Boat: A Critical
+Guide (Part II), 28 J. Mar. L. & Com. 555, 591 (1997). And,
+a modern treatise explains that “ Wilburn Boat has
+(1) produced a `crazy-quilt' pattern of federal-state regula-
+tion of marine insurance; and (2) bogged the courts down in
+complex and confusing choice-of-law questions.” 2 T.
+Schoenbaum, Admiralty and Maritime Law § 19:9, p. 438 (6th
+ed. 2018).*
+It is little wonder that this Court has retreated from Wil-
+burn Boat in subsequent decisions, implicitly cabining its
+reach to “localized” disputes in accordance with Justice
+Frankfurter's concurrence. See 348 U. S., at 322. In Kos-
+sick, for example, this Court held that general maritime law,
+not a state statute of frauds, governed the validity of a ship-
+owner's oral contract with a seaman. 365 U. S., at 732–733,
+742. The Court attributed the decision in Wilburn Boat in
+part to the inherently local nature of its dispute about “a
+contract of insurance on a houseboat established in the wa-
+ters of a small artificial lake.” 365 U. S., at 742. Fifty
+years later, we endorsed this narrow reading of Wilburn
+Boat in Norfolk Southern, holding that general maritime law
+governed a maritime contract for the carriage of goods pri-
+marily by sea. 543 U. S., at 18–19, 22–23. We explained
+that “[w]hen a contract is a maritime one, and the dispute is
+not inherently local, federal law controls the contract interpre-
+tation.” Id., at 22–23. Today's decision further erodes Wil-
+burn Boat's foundation, and rightly so. See ante, at 73–75.
+In light of these decisions, it is not clear what, if anything,
+is left of Wilburn Boat's rationale. Yet, Raiders and some
+*Critiques of Wilburn Boat are too numerous to list comprehensively.
+See, e.g., D. Robertson, S. Friedell, & M. Sturley, Admiralty and Maritime
+Law in the United States 465 (4th ed. 2020) (“For many informed observ-
+ers, Wilburn Boat is the Supreme Court's most disappointing maritime-
+law decision”); H. Watson, A Fifty Year Retrospective on the American
+Law of Marine Insurance, 91 Tulane L. Rev. 855, 857 (2017) (“Wilburn
+Boat has been the subject of relentless well-deserved criticism”); G. Star-
+ing, Wilburn Boat is a Dead Letter: R. I. P., 42 J. Mar. L. & Com. 465, 468
+(2011) (“Over a half century the decision has been repeatedly criticized for
+its shallow erroneousness”); 1 A. Parks, The Law and Practice of Marine
+Insurance and Average 13 (1987) (“Wilburn cast the law of marine insur-
+ance into a state of turmoil”); H. Baer, Admiralty Law of the Supreme
+Court 389 (3d ed. 1979) (“The Wilburn Boat case has left the admiralty
+bar in a state of utter confusion”).
+courts continue to understand Wilburn Boat to require ap-
+plication of state law in circumstances far different from the
+inherently local dispute at issue there. See, e.g., Travelers
+Property Casualty Co. of Am. v. Ocean Reef Charters LLC ,
+996 F. 3d 1161, 1169–1170 (CA11 2021); In re Settoon Towing ,
+720 F. 3d 268, 282–284 (CA5 2013). But see Lloyd's of Lon-
+don v. Págan-Sánchez, 539 F. 3d 19, 24 (CA1 2008) (recogniz-
+ing that Wilburn Boat applies only to “inherently local” dis-
+putes (internal quotation marks omitted)). Litigants and
+courts should heed our instruction that general maritime law
+applies in maritime contract disputes unless they “so impli-
+cate local interests as to beckon interpretation by state law.”
+Norfolk Southern, 543 U. S., at 27. Wilburn Boat reaches
+no further.

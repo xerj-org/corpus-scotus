@@ -1,0 +1,112 @@
+Allen v. Milligan — No. 21-1086 — October Term 2022 — decided 6/08/23 — Opinion of Roberts, C. J.
+Citation: 599 U.S. 1
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r33_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+themselves emphasize, § 2 “never require[s] adoption of
+districts that violate traditional redistricting principles.”
+Brief for Respondents in No. 21–1087, p. 3. Its exacting re-
+quirements, instead, limit judicial intervention to “those in-
+stances of intensive racial politics” where the “excessive role
+[of race] in the electoral process . . . den[ies] minority voters
+equal opportunity to participate.” Senate Report 33–34.
+B
+Although we are content to reject Alabama's invitation to
+change existing law on the ground that the State misunder-
+stands § 2 and our decisions implementing it, we also address
+how the race-neutral benchmark would operate in practice.
+Alabama's approach fares poorly on that score, which further
+counsels against our adopting it.
+1
+The first change to existing law that Alabama would re-
+quire is prohibiting the illustrative maps that plaintiffs sub-
+mit to satisfy the first Gingles precondition from being
+“based” on race. Brief for Alabama 56. Although Alabama
+is not entirely clear whether, under its view, plaintiffs' illus-
+trative plans must not take race into account at all or
+whether they must just not “prioritize” race, ibid., we see no
+reason to impose such a new rule.
+When it comes to considering race in the context of dis-
+tricting, we have made clear that there is a difference “be-
+tween being aware of racial considerations and being moti-
+vated by them.” Miller, 515 U. S., at 916; see also North
+Carolina v. Covington, 585 U. S. –––, ––– (2018) (per cu-
+riam). The former is permissible; the latter is usually not.
+That is because “[r]edistricting legislatures will . . . almost
+always be aware of racial demographics,” Miller, 515 U. S.,
+at 916, but such “race consciousness does not lead inevitably
+to impermissible race discrimination,” Shaw, 509 U. S., at
+646. Section 2 itself “demands consideration of race.” Ab-
+bott, 585 U. S., at –––. The question whether additional
+majority-minority districts can be drawn, after all, involves
+a “quintessentially race-conscious calculus.” De Grandy ,
+512 U. S., at 1020.
+At the same time, however, race may not be “the predomi-
+nant factor in drawing district lines unless [there is] a com-
+pelling reason.” Cooper, 581 U. S., at 291. Race predomi-
+nates in the drawing of district lines, our cases explain, when
+“race-neutral considerations [come] into play only after the
+race-based decision had been made.” Bethune-Hill v. Vir-
+ginia State Bd. of Elections, 580 U. S. 178, 189 (2017) (inter-
+nal quotation marks omitted). That may occur where “race
+for its own sake is the overriding reason for choosing one
+map over others.” Id., at 190.
+While the line between racial predominance and racial con-
+sciousness can be difficult to discern, see Miller, 515 U. S.,
+at 916, it was not breached here. The Caster plaintiffs relied
+on illustrative maps produced by expert Bill Cooper. See 2
+App. 591–592. Cooper testifed that while it was necessary
+for him to consider race, he also took several other factors
+into account, such as compactness, contiguity, and population
+equality. Ibid. Cooper testifed that he gave all these
+factors “equal weighting.” Id., at 594. And when asked
+squarely whether race predominated in his development of
+the illustrative plans, Cooper responded: “No. It was a con-
+sideration. This is a Section 2 lawsuit, after all. But it did
+not predominate or dominate.” Id., at 595.
+The District Court agreed. It found “Cooper's testimony
+highly credible” and commended Cooper for “work[ing] hard
+to give `equal weight[ ]' to all traditional redistricting crite-
+ria.” 582 F. Supp. 3d, at 1005–1006; see also id., at 978–979.
+The court also explained that Alabama's evidence of racial
+predominance in Cooper's maps was exceedingly thin. Ala-
+bama's expert, Thomas Bryan, “testifed that he never re-
+viewed the exhibits to Mr. Cooper's report” and “that he
+never reviewed” one of the illustrative plans that Cooper
+submitted. Id., at 1006. Bryan further testifed that he
+could offer no “conclusions or opinions as to the apparent
+basis of any individual line drawing decisions in Cooper's il-
+lustrative plans.” 2 App. 740. By his own admission, Bry-
+an's analysis of any race predominance in Cooper's maps
+“was pretty light.” Id., at 739. The District Court did not
+err in finding that race did not predominate in Cooper's maps
+in light of the evidence before it. 5
+The dissent contends that race nevertheless predominated
+in both Cooper's and Duchin's maps because they were
+designed to hit “ `express racial target[s]' ”—namely, two
+“50%-plus majority-black districts.” Post, at 59 (opinion of
+Thomas, J.) (quoting Bethune-Hill, 580 U. S., at 192). This
+argument fails in multiple ways. First, the dissent's reli-
+ance on Bethune-Hill is mistaken. In that case, this Court
+was unwilling to conclude that a State's maps were produced
+in a racially predominant manner. Instead, we remanded
+for the lower court to conduct the predominance analysis it-
+self, explaining that “the use of an express racial target” was
+just one factor among others that the court would have to
+consider as part of “[a] holistic analysis.” Id., at 192. Jus-
+5 The dissent claims that Cooper “treated `the minority population in
+and of itself' as the paramount community of interest in his plans.” Post,
+at 58 (opinion of Thomas, J.) (quoting 2 App. 601). But Cooper testifed
+that he was “aware that the minority population in and of itself can be a
+community of interest.” Id., at 601 (emphasis added). Cooper then ex-
+plained that the relevant community of interest here—the Black Belt—
+was a “historical feature” of the State, not a demographic one. Ibid.
+(emphasis added). The Black Belt, he emphasized, was defined by its
+“historical boundaries”—namely, the group of “rural counties plus Mont-
+gomery County in the central part of the state.” Ibid. The District
+Court treated the Black Belt as a community of interest for the same
+reason.
+The dissent also protests that Cooper's “plans prioritized race over neu-
+tral districting criteria.” Post, at 58 (opinion of Thomas, J.). But as the
+District Court found, and as Alabama does not contest, Cooper's maps
+satisfied other traditional criteria, such as compactness, contiguity, equal
+populations, and respect for political subdivisions.

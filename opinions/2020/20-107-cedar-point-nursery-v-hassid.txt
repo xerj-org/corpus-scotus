@@ -1,0 +1,781 @@
+Cedar Point Nursery v. Hassid — No. 20-107 — October Term 2020 — decided 6/23/21 — opinion of the Court — author Roberts (listing code R)
+Citation: 594 U.S. 139
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r53_0pm1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+143Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+Chief Justice Roberts delivered the opinion of the
+Court.
+A
+California regulation grants labor organizations a “right
+to take access” to an agricultural employer’s property in
+order to solicit support for unionization. Cal. Code Regs.,
+tit. 8, § 20900(e)(1)(C) (2020). Agricultural employers must
+allow union organizers onto their property for up to three
+hours per day, 120 days per year. The question presented
+District of Columbia, Clare E. Connors of Hawaii, Kwame Raoul of Illi-
+nois, Maura Healey of Massachusetts, Dana Nessel of Michigan, Keith
+Ellison of Minnesota, Gurbir S. Grewal of New Jersey, Hector Balderas
+of New Mexico, Letitia James of New York, Ellen F. Rosenblum of Ore-
+gon, Josh Shapiro of Pennsylvania, Peter F. Neronha of Rhode Island,
+Thomas J. Donovan, Jr., of Vermont, and Robert W. Ferguson of Washing-
+ton; for the American Federation of Labor and Congress of Industrial
+Organizations by Harold C. Becker and Matthew J. Ginsburg; for Califor-
+nia Rural Legal Assistance, Inc., et al. by Verónica Meléndez and Cynthia
+L. Rice; for the Constitutional Accountability Center by Elizabeth B.
+Wydra and Brianne J. Gorod; for Legal Historians by Katharine M.
+Mapes; for Local Governments by Jonathan B. Miller, Jessica M. Scheller,
+Peter S. Holmes, Erica R. Franklin, James R. Williams, Michael L.
+Rossi, Jeremy A. Avila, Christopher J. Caso, Kristin M. Bronson, Mi-
+chael N. Feuer, Diana P . Cortes, and Lyndsey M. Olson; for the National
+Employment Law Project et al. by Catherine K. Ruckelshaus and Brian
+Chen; for the Pelican Institute for Public Policy by Sarah Harbison; for
+Property Law Professors by John D. Echeverria, pro se; for the Service
+Employees International Union by Leon Dayan, Nicole G. Berner, and
+Claire Prestel; for United Farm Workers of America by Mario Martinez;
+for the United Food and Commercial Workers Western States Council et al.
+by Henry M. Willis, Michael E. Plank, David A. Rosenfeld, and Robert
+P . Bonsall; and for Sen. Sheldon Whitehouse et al. byGlenn Rothner.
+Briefs of amici curiae were ﬁled for the California Farm Bureau Federa-
+tion by Carl G. Borden; for the Center for Constitutional Jurisprudence by
+John C. Eastmanand Anthony T. Caso; for International Lawyers Assisting
+Workers Network et al. by Jeanne Mirer and Jonathan Hiatt; for the Na-
+tional Association of Counties et al. by Matthew Littleton, David T. Gold-
+berg, Lisa Soronen, Charles W. Thompson, Jr.,and Amanda Kellar Karras;
+and for the New England Legal Foundation by John Pagliaro and Martin
+J. Newhouse.
+
+144 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+is whether the access regulation constitutes a per se physical
+tak
+ing under the Fifth and Fourteenth Amendments.
+I
+The California Agricultural Labor Relations Act of 1975
+gives agricultural employees a right to self-organization and
+makes it an unfair labor practice for employers to interfere
+with that right. Cal. Lab. Code Ann. §§ 1152, 1153(a) (West
+2020). The state Agricultural Labor Relations Board has
+promulgated a regulation providing, in its current form, that
+the self-organization rights of employees include “the right
+of access by union organizers to the premises of an agricul-
+tural employer for the purpose of meeting and talking with
+employees and soliciting their support.” Cal. Code Regs.,
+tit. 8, § 20900(e). Under the regulation, a labor organization
+may “take access” to an agricultural employer’s property
+for up to four 30-day periods in one calendar year.
+§§ 20900(e)(1)(A), (B). In order to take access, a labor orga-
+nization must ﬁle a written notice with the Board and serve
+a copy on the employer. § 20900(e)(1)(B). Two organizers
+per work crew (plus one additional organizer for every 15
+workers over 30 workers in a crew) may enter the employ-
+er’s property for up to one hour before work, one hour during
+the lunch break, and one hour after work. §§ 20900(e)(3)(A)–
+(B), (4)(A). Organizers may not engage in disruptive con-
+duct, but are otherwise free to meet and talk with employees
+as they wish. §§ 20900(e)(3)(A), (4)(C). Interference with
+organizers’ right of access may constitute an unfair labor
+practice, § 20900(e)(5)(C), which can result in sanctions
+against the employer, see,e. g.,Harry Carian Salesv.Ag-
+ricultural Labor Relations Bd., 39 Cal. 3d 209, 231–232, 703
+P. 2d 27, 42 (1985).
+Cedar Point Nursery is a strawberry grower in northern
+California. It employs over 400 seasonal workers and
+around 100 full-time workers, none of whom live on the prop-
+erty. According to the complaint, in October 2015, at ﬁve
+
+145Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+o’clock one morning, members of the United Farm Workers
+entered Cedar
+Point’s property without prior notice. The
+organizers moved to the nursery’s trim shed, where hun-
+dreds of workers were preparing strawberry plants. Call-
+ing through bullhorns, the organizers disturbed operations,
+causing some workers to join the organizers in a protest and
+others to leave the worksite altogether. Cedar Point ﬁled a
+charge against the union for taking access without giving
+notice. The union responded with a charge of its own, alleg-
+ing that Cedar Point had committed an unfair labor practice.
+Fowler Packing Company is a Fresno-based grower and
+shipper of table grapes and citrus. It has 1,800 to 2,500 em-
+ployees in its ﬁeld operations and around 500 in its packing
+facility. As with Cedar Point, none of Fowler’s workers live
+on the premises. In July 2015, organizers from the United
+Farm Workers attempted to take access to Fowler’s prop-
+erty, but the company blocked them from entering. The
+union ﬁled an unfair labor practice charge against Fowler,
+which it later withdrew.
+Believing that the union would likely attempt to enter
+their property again in the near future, the growers ﬁled suit
+in Federal District Court against several Board members in
+their ofﬁcial capacity. The growers argued that the access
+regulation effected an unconstitutionalper sephysical taking
+under the Fifth and Fourteenth Amendments by appropriat-
+ing without compensation an easement for union organizers
+to enter their property. They requested declaratory and
+injunctive relief prohibiting the Board from enforcing the
+regulation against them.
+The District Court denied the growers’ motion for a pre-
+liminary injunction and granted the Board’s motion to dis-
+miss. The court rejected the growers’ argument that the
+access regulation constituted aper sephysical taking, rea-
+soning that it did not “allow the public to access their prop-
+erty in a permanent and continuous manner for whatever
+reason.”Cedar Point Nurseryv.Gould, 2016 WL 1559271,
+
+146 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+*5 (ED Cal., Apr. 18, 2016) (emphasis deleted). In the
+court’
+s view, the regulation was instead subject to evaluation
+under the multifactor balancing test ofPenn Central Trans-
+portation Co.v.New York City, 438 U. S. 104 (1978), which
+the growers had made no attempt to satisfy.Cedar Point
+Nurseryv.Gould, 2016 WL 3549408, *4 (ED Cal., June 29,
+2016).
+A divided panel of the Court of Appeals for the Ninth
+Circuit afﬁrmed. The court identiﬁed three categories of
+regulatory actions in takings jurisprudence: regulations that
+impose permanent physical invasions, regulations that de-
+prive an owner of all economically beneﬁcial use of his prop-
+erty, and the remainder of regulatory actions.Cedar Point
+Nurseryv.Shiroma, 923 F. 3d 524, 530–531 (2019). On the
+court’s understanding, while regulations in the ﬁrst two cate-
+gories constituteper setakings, those in the third must be
+evaluated underPenn Central. 923 F. 3d, at 531. The
+court agreed with the District Court that the access regula-
+tion did not fall into the ﬁrst category because it did not
+“allow random members of the public to unpredictably tra-
+verse [the growers’] property 24 hours a day, 365 days a
+year.”Id., at 532. And given that the growers did not con-
+tend that the regulation deprived them of all economically
+beneﬁcial use of their property,per setreatment was inap-
+propriate.Id., at 531, 534.
+Judge Leavy dissented. He observed that this Court had
+never allowed labor organizers to enter an employer’s prop-
+erty for substantial periods of time when its employees lived
+off premises.Id., at 536; seeLechmere, Inc.v.NLRB, 502
+U. S. 527, 540–541 (1992);NLRBv.Babcock & Wilcox Co.,
+351 U. S. 105, 113 (1956). As he saw it, the regulation con-
+stituted a physical occupation and therefore effected aper se
+taking. 923 F. 3d, at 538.
+The Ninth Circuit denied rehearing en banc. Judge Ikuta
+dissented, joined by seven other judges. She reasoned that
+the access regulation appropriated from the growers a tradi-
+
+147Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+tional form of private property—an easement in gross—and
+transferred that
+property to union organizers. Cedar Point
+Nurseryv.Shiroma, 956 F. 3d 1162, 1168, 1171 (2020). The
+appropriation of such an easement, she concluded, consti-
+tuted aper sephysical taking under the precedents of this
+Court.Id., at 1168.
+We granted certiorari. 592 U. S. ––– (2020).
+II
+A
+The Takings Clause of the Fifth Amendment, applicable
+to the States through the Fourteenth Amendment, provides:
+“[N]or shall private property be taken for public use, with-
+out just compensation.” The Founders recognized that the
+protection of private property is indispensable to the promo-
+tion of individual freedom. As John Adams tersely put it,
+“[p]roperty must be secured, or liberty cannot exist.” Dis-
+courses on Davila, in 6 Works of John Adams 280 (C. Adams
+ed. 1851). This Court agrees, having noted that protection
+of property rights is “necessary to preserve freedom” and
+“empowers persons to shape and to plan their own destiny
+in a world where governments are always eager to do so for
+them.”Murrv.Wisconsin, 582 U. S. 383, 394 (2017).
+When the government physically acquires private prop-
+erty for a public use, the Takings Clause imposes a clear and
+categorical obligation to provide the owner with just com-
+pensation.Tahoe-Sierra Preservation Council, Inc.v.
+Tahoe Regional Planning Agency, 535 U. S. 302, 321 (2002).
+The Court’s physical takings jurisprudence is “as old as the
+Republic.”Id., at 322. The government commits a physi-
+cal taking when it uses its power of eminent domain to
+formally condemn property. SeeUnited Statesv.General
+Motors Corp., 323 U. S. 373, 374–375 (1945);United States ex
+rel. TVAv.Powelson, 319 U. S. 266, 270–271 (1943). The
+same is true when the government physically takes posses-
+sion of property without acquiring title to it. SeeUnited
+
+148 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+States v. Pewee Coal Co., 341 U. S. 114, 115–117 (1951) (plu-
+ral
+ity opinion). And the government likewise effects a
+physical taking when it occupies property—say, by recurring
+ﬂooding as a result of building a dam. See United States v.
+Cress, 243 U. S. 316, 327–328 (1917). These sorts of physical
+appropriations constitute the “clearest sort of taking,”Pa-
+lazzolov.Rhode Island, 533 U. S. 606, 617 (2001), and we
+assess them using a simple,per serule: The government
+must pay for what it takes. SeeTahoe-Sierra, 535 U. S.,
+at 322.
+When the government, rather than appropriating private
+property for itself or a third party, instead imposes regula-
+tions that restrict an owner’s ability to use his own property,
+a different standard applies.Id., at 321–322. Our jurispru-
+dence governing such use restrictions has developed more
+recently. Before the 20th century, the Takings Clause was
+understood to be limited to physical appropriations of prop-
+erty. SeeHornev.Department of Agriculture, 576 U. S.
+351, 360 (2015);Legal Tender Cases, 12 Wall. 457, 551 (1871).
+InPennsylvania Coal Co.v.Mahon, 260 U. S. 393 (1922),
+however, the Court established the proposition that “while
+property may be regulated to a certain extent, if regulation
+goes too far it will be recognized as a taking.”Id., at 415.
+This framework now applies to use restrictions as varied as
+zoning ordinances,Village of Euclidv.Ambler Realty Co.,
+272 U. S. 365, 387–388 (1926), orders barring the mining of
+gold,United Statesv.Central Eureka Mining Co., 357 U. S.
+155, 168 (1958), and regulations prohibiting the sale of eagle
+feathers,Andrusv.Allard, 444 U. S. 51, 65–66 (1979). To
+determine whether a use restriction effects a taking, this
+Court has generally applied the ﬂexible test developed
+inPenn Central, balancing factors such as the economic im-
+pact of the regulation, its interference with reasonable
+investment-backed expectations, and the character of the
+government action. 438 U. S., at 124.
+
+149Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+Our cases have often described use restrictions that go
+“too
+far” as “regulatory takings.” See, e. g., Horne, 576
+U. S., at 360; Yee v. Escondido, 503 U. S. 519, 527 (1992). But
+that label can mislead. Government action that physically
+appropriates property is no less a physical taking because it
+arises from a regulation. That explains why we held that
+an administrative reserve requirement compelling raisin
+growers to physically set aside a percentage of their crop for
+the government constituted a physical rather than a regula-
+tory taking. Horne, 576 U. S., at 361. The essential ques-
+tion is not, as the Ninth Circuit seemed to think, whether
+the government action at issue comes garbed as a regulation
+(or statute, or ordinance, or miscellaneous decree). It is
+whether the government has physically taken property for
+itself or someone else—by whatever means—or has instead
+restricted a property owner’s ability to use his own property.
+See Tahoe-Sierra, 535 U. S., at 321–323. Whenever a regu-
+lation results in a physical appropriation of property, a per se
+taking has occurred, and Penn Central has no place.
+B
+The access regulation appropriates a right to invade the
+growers’ property and therefore constitutes a per se physical
+taking. The regulation grants union organizers a right to
+physically enter and occupy the growers’ land for three hours
+per day, 120 days per year. Rather than restraining the
+growers’ use of their own property, the regulation appro-
+priates for the enjoyment of third parties the owners’ right
+to exclude.
+The right to exclude is “one of the most treasured” rights
+of property ownership. Loretto v. Teleprompter Manhattan
+CATV Corp., 458 U. S. 419, 435 (1982). According to Black-
+stone, the very idea of property entails “that sole and des-
+potic dominion which one man claims and exercises over the
+external things of the world, in total exclusion of the right
+
+150 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+of any other individual in the universe.” 2 W. Blackstone,
+Commentar
+ies on the Laws of England 2 (1766). In less ex-
+uberant terms, we have stated that the right to exclude is
+“universally held to be a fundamental element of the prop-
+erty right,” and is “one of the most essential sticks in the
+bundle of rights that are commonly characterized as prop-
+erty.”Kaiser Aetnav.United States, 444 U. S. 164, 176,
+179–180 (1979); seeDolanv.City of Tigard, 512 U. S. 374,
+384, 393 (1994);Nollanv.California Coastal Comm’n, 483
+U. S. 825, 831 (1987); see also Merrill, Property and the Right
+to Exclude, 77 Neb. L. Rev. 730 (1998) (calling the right to
+exclude the “sine qua non” of property).
+Given the central importance to property ownership of the
+right to exclude, it comes as little surprise that the Court
+has long treated government-authorized physical invasions
+as takings requiring just compensation. The Court has
+often described the property interest taken as a servitude
+or an easement.
+For example, inUnited Statesv.Causby, we held that the
+invasion of private property by overﬂights effected a taking.
+328 U. S. 256 (1946). The government frequently ﬂew mili-
+tary aircraft low over the Causby farm, grazing the treetops
+and terrorizing the poultry.Id., at 259. The Court ob-
+served that ownership of the land extended to airspace that
+low, and that “invasions of it are in the same category as
+invasions of the surface.”Id., at 265. Because the dam-
+ages suffered by the Causbys “were the product of a direct
+invasion of [their] domain,” we held that “a servitude has
+been imposed upon the land.”Id., at 265–266, 267; see also
+Portsmouth Harbor Land & Hotel Co.v.United States, 260
+U. S. 327, 330 (1922) (government assertion of a right to ﬁre
+coastal defense guns across private property would consti-
+tute a taking).
+We similarly held that the appropriation of an easement
+effected a taking inKaiser Aetnav.United States. A real-
+estate developer dredged a pond, converted it into a marina,
+
+151Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+and connected it to a nearby bay and the ocean. 444 U. S.,
+at 167.
+The government asserted that the developer could
+not exclude the public from the marina because the pond had
+become a navigable water.Id., at 168. We held that the
+right to exclude “falls within [the] category of interests that
+the Government cannot take without compensation.”Id., at
+180. After noting that “the imposition of the navigational
+servitude” would “result in an actual physical invasion of the
+privately owned marina” by members of the public, we cited
+CausbyandPortsmouthfor the proposition that “even if the
+Government physically invades only an easement in prop-
+erty, it must nonetheless pay just compensation.” 444 U. S.,
+at 180.
+InLorettov.Teleprompter Manhattan CATV Corp., we
+made clear that a permanent physical occupation constitutes
+aper setaking regardless whether it results in only a trivial
+economic loss. New York adopted a law requiring landlords
+to allow cable companies to install equipment on their prop-
+erties. 458 U. S., at 423. Loretto alleged that the installa-
+tion of a ½-inch diameter cable and two 1½-cubic-foot boxes
+on her roof caused a taking.Id., at 424. We agreed, stating
+that where government action results in a “permanent physi-
+cal occupation of property, our cases uniformly have found a
+taking to the extent of the occupation, without regard to
+whether the action achieves an important public beneﬁt or
+has only minimal economic impact on the owner.”Id., at
+434–435.
+We reiterated that the appropriation of an easement con-
+stitutes a physical taking inNollanv.California Coastal
+Commission. The Nollans sought a permit to build a larger
+home on their beachfront lot. 483 U. S., at 828. The Cali-
+fornia Coastal Commission issued the permit subject to the
+condition that the Nollans grant the public an easement to
+pass through their property along the beach.Ibid.As a
+starting point to our analysis, we explained that, had the
+Commission simply required the Nollans to grant the public
+
+152 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+an easement across their property, “we have no doubt there
+would
+have been a taking.” Id., at 831; see also Dolan, 512
+U. S., at 384 (holding that compelled dedication of an ease-
+ment for public use would constitute a taking).
+More recently, in Horne v. Department of Agriculture , we
+observed that “people still do not expect their property, real
+or personal, to be actually occupied or taken away.” 576
+U. S., at 361. The physical appropriation by the government
+of the raisins in that case was a per se taking, even if a regu-
+latory limit with the same economic impact would not have
+been.Id., at 362; seesupra, at 149. “The Constitution,”
+we explained, “is concerned with means as well as ends.”
+576 U. S., at 362.
+The upshot of this line of precedent is that government-
+authorized invasions of property—whether by plane, boat,
+cable, or beachcomber—are physical takings requiring just
+compensation. As in those cases, the government here has
+appropriated a right of access to the growers’ property,
+allowing union organizers to traverse it at will for three
+hours a day, 120 days a year. The regulation appropriates a
+right to physically invade the growers’ property—to literally
+“take access,” as the regulation provides. Cal. Code Regs.,
+tit. 8, § 20900(e)(1)(C). It is therefore aper sephysical
+taking under our precedents. Accordingly, the growers’
+complaint states a claim for an uncompensated taking in
+violation of the Fifth and Fourteenth Amendments.
+C
+The Ninth Circuit saw matters differently, as do the Board
+and the dissent. In the decision below, the Ninth Circuit
+took the view that the access regulation did not qualify as a
+per setaking because, although it grants a right to physically
+invade the growers’ property, it does not allow for perma-
+nent and continuous access “24 hours a day, 365 days a year.”
+923 F. 3d, at 532 (citingNollan, 483 U. S., at 832). The dis-
+sent likewise concludes that the regulation cannot amount to
+
+153Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+a per se taking because it allows “access short of 365 days a
+year.
+” Post, at 174 (opinion of Breyer, J.). That position
+is insupportable as a matter of precedent and common sense.
+There is no reason the law should analyze an abrogation of
+the right to exclude in one manner if it extends for 365 days,
+but in an entirely different manner if it lasts for 364.
+To begin with, we have held that a physical appropriation
+is a taking whether it is permanent or temporary. Our cases
+establish that “compensation is mandated when a leasehold
+is taken and the government occupies property for its
+own purposes, even though that use is temporary.”Tahoe-
+Sierra, 535 U. S., at 322 (citingGeneral Motors Corp., 323
+U. S. 373;United Statesv.Petty Motor Co., 327 U. S. 372
+(1946)). The duration of an appropriation—just like the size
+of an appropriation, seeLoretto, 458 U. S., at 436–437—bears
+only on the amount of compensation. SeeUnited Statesv.
+Dow, 357 U. S. 17, 26 (1958). For example, after ﬁnding a
+taking by physical invasion, the Court inCausbyremanded
+the case to the lower court to determine “whether the ease-
+ment taken was temporary or permanent,” in order to ﬁx the
+compensation due. 328 U. S., at 267–268.
+To be sure,Lorettoemphasized the heightened concerns
+associated with “[t]he permanence and absolute exclusivity
+of a physical occupation” in contrast to “temporary limita-
+tions on the right to exclude,” and stated that “[n]ot every
+physicalinvasionis a taking.” 458 U. S., at 435, n. 12; see
+alsoid., at 432–435. The latter point is well taken, as we
+will explain. ButNollanclariﬁed that appropriation of a
+right to physically invade property may constitute a taking
+“even though no particular individual is permitted to station
+himself permanently upon the premises.” 483 U. S., at 832.
+Next, we have recognized that physical invasions consti-
+tute takings even if they are intermittent as opposed to con-
+tinuous.Causbyheld that overﬂights of private property
+effected a taking, even though they occurred on only 4% of
+takeoffs and 7% of landings at the nearby airport. 328 U. S.,
+
+154 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+at 259. And while Nollan happened to involve a legally con-
+tinuous
+right of access, we have no doubt that the Court
+would have reached the same conclusion if the easement de-
+manded by the Commission had lasted for only 364 days per
+year. After all, the easement was hardly continuous as a
+practical matter. As Justice Brennan observed in dissent,
+given the shifting tides, “public passage for a portion of the
+year would either be impossible or would not occur on [the
+Nollans’] property.” 483 U. S., at 854. What matters is not
+that the easement notionally ran round the clock, but that
+the government had taken a right to physically invade the
+Nollans’ land. And when the government physically takes
+an interest in property, it must pay for the right to do so.
+See Horne, 576 U. S., at 357–358; Tahoe-Sierra, 535 U. S., at
+322. The fact that a right to take access is exercised only
+from time to time does not make it any less a physical taking.
+Even the Board declines to defend the Ninth Circuit’s ab-
+solutist stance. It prudently concedes that “a requirement
+that landowners grant an easement otherwise identical to
+the one inNollanbut limited to daylight hours, might very
+well qualify as ‘a taking without regard to other factors that
+a court might ordinarily examine.’ ” Brief for Respondents
+25–26 (quotingLoretto, 458 U. S., at 432; citation and some
+internal quotation marks omitted). But the access regula-
+tion, it contends, nevertheless fails to qualify as aper se
+taking because it “authorizes only limited and intermittent
+access for a narrow purpose.” Brief for Respondents 26.
+That position is little more defensible than the Ninth Cir-
+cuit’s. The fact that the regulation grants access only to
+union organizers and only for a limited time does not trans-
+form it from a physical taking into a use restriction. Saying
+that appropriation of a three hour per day, 120 day per year
+right to invade the growers’ premises “does not constitute a
+taking of a property interest but rather . . . a mere restric-
+tion on its use, is to use words in a manner that deprives
+them of all their ordinary meaning.”Nollan, 483 U. S., at
+831 (citation and internal quotation marks omitted).
+
+155Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+The Board also takes issue with the growers’ premise that
+the access
+regulation appropriates an easement. In the
+Board’s estimation, the regulation does not exact a true ease-
+ment in gross under California law because the access right
+may not be transferred, does not burden any particular par-
+cel of property, and may not be recorded. This, the Board
+says, reinforces its conclusion that the regulation does not
+take a constitutionally protected property interest from the
+growers. The dissent agrees, suggesting that the access
+right cannot effect a per se taking because it does not require
+the growers to grant the union organizers an easement as
+deﬁned by state property law. Seepost, at 167, 174.
+These arguments misconstrue our physical takings doc-
+trine. As a general matter, it is true that the property
+rights protected by the Takings Clause are creatures of state
+law. SeePhillipsv.Washington Legal Foundation, 524
+U. S. 156, 164 (1998);Lucasv.South Carolina Coastal Coun-
+cil, 505 U. S. 1003, 1030 (1992). But no one disputes that,
+without the access regulation, the growers would have had
+the right under California law to exclude union organizers
+from their property. SeeAllredv.Harris, 14 Cal. App. 4th
+1386, 1390, 18 Cal. Rptr. 2d 530, 533 (1993). And no one
+disputes that the access regulation took that right from
+them. The Board cannot absolve itself of takings liability
+by appropriating the growers’ right to exclude in a form that
+is a slight mismatch from state easement law. Under the
+Constitution, property rights “cannot be so easily manipu-
+lated.”Horne, 576 U. S., at 365 (internal quotation marks
+omitted); see alsoWebb’s Fabulous Pharmacies, Inc.v.
+Beckwith, 449 U. S. 155, 164 (1980) (“a State, byipse dixit,
+may not transform private property into public property
+without compensation”).
+Our decisions consistently reﬂect this intuitive approach.
+We have recognized that the government can commit a phys-
+ical taking either by appropriating property through a con-
+demnation proceeding or by simply “enter[ing] into physical
+possession of property without authority of a court order.”
+
+156 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+Dow, 357 U. S., at 21; see also United States v. Clarke, 445
+U.
+S. 253, 256–257, and n. 3 (1980). In the latter situation,
+the government’s intrusion does not vest it with a property
+interest recognized by state law, such as a fee simple or a
+leasehold. SeeDow, 357 U. S., at 21. Yet we recognize a
+physical taking all the same. Seeid., at 22. Any other re-
+sult would allow the government to appropriate private
+property without just compensation so long as it avoids for-
+mal condemnation. We have never tolerated that outcome.
+SeePewee Coal Co., 341 U. S., at 116–117. For much the
+same reason, inPortsmouth,Causby, andLorettowe never
+paused to consider whether the physical invasions at issue
+vested the intruders with formal easements according to the
+nuances of state property law (nor do we see how they could
+have). Instead, we followed our traditional rule: Because
+the government appropriated a right to invade, compensa-
+tion was due. That same test governs here.
+The Board and the dissent further contend that our deci-
+sion inPruneYard Shopping Centerv.Robins, 447 U. S. 74
+(1980), establishes that the access regulation cannot qualify
+as aper setaking. There the California Supreme Court
+held that the State Constitution protected the right to en-
+gage in leaﬂeting at the PruneYard, a privately owned shop-
+ping center.Id., at 78. The shopping center argued that
+the decision had taken without just compensation its right
+to exclude.Id., at 82. Applying thePenn Centralfactors,
+we held that no compensable taking had occurred. 447 U. S.,
+at 83; cf.Heart of Atlanta Motel, Inc.v.United States, 379
+U. S. 241, 261 (1964) (rejecting claim that provisions of the
+Civil Rights Act of 1964 prohibiting racial discrimination in
+public accommodations effected a taking).
+The Board and the dissent argue thatPruneYardshows
+that limited rights of access to private property should be
+evaluated as regulatory rather thanper setakings. See
+post, at 171. We disagree. Unlike the growers’ properties,
+the PruneYard was open to the public, welcoming some
+
+157Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+25,000 patrons a day. 447 U. S., at 77–78. Limitations on
+how a
+business generally open to the public may treat indi-
+viduals on the premises are readily distinguishable from reg-
+ulations granting a right to invade property closed to the
+public. SeeHorne, 576 U. S., at 364 (distinguishingPrune-
+Yardas involving “an already publicly accessible” business);
+Nollan, 483 U. S., at 832, n. 1 (same).
+The Board also relies on our decision inNLRBv.Bab-
+cock & Wilcox Co. But that reliance is misplaced. InBab-
+cock, the National Labor Relations Board found that several
+employers had committed unfair labor practices under the
+National Labor Relations Act by preventing union organiz-
+ers from distributing literature on company property. 351
+U. S., at 109. We held that the statute did not require em-
+ployers to allow organizers onto their property, at least out-
+side the unusual circumstance where their employees were
+otherwise “beyond the reach of reasonable union efforts to
+communicate with them.”Id., at 113; see alsoLechmere,
+502 U. S., at 540 (employees residing off company property
+are presumptively not beyond the reach of the union’s mes-
+sage). The Board contends thatBabcock’s approach of bal-
+ancing property and organizational rights should guide our
+analysis here. SeeLoretto, 458 U. S., at 434, n. 11 (discuss-
+ingBabcockprinciple). ButBabcockdid not involve a
+takings claim. Whatever speciﬁc takings issues may be pre-
+sented by the highly contingent access right we recognized
+under the NLRA, California’s access regulation effects a
+per sephysical taking under our precedents. SeeTahoe-
+Sierra, 535 U. S., at 322.
+D
+In its thoughtful opinion, the dissent advances a distinctive
+view of property rights. The dissent encourages readers to
+consider the issue “through the lens of ordinary English,”
+and contends that, so viewed, the “regulation does notappro-
+priateanything.”Post, at 166, 167. Rather, the access reg-
+ulation merely “regulates. . . the owners’ right to exclude,” so
+
+158 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+it must be assessed “underPenn Central’s fact-intensive test.”
+Post
+, at 165, 168. “A right to enter my woods only on certain
+occasions,” the dissent elaborates, “is a taking only if the regu-
+lation allowing it goes ‘too far.’ ” Post, at 174. The dissent
+contends that our decisions inCausby,Portsmouth, andKai-
+ser Aetnaapplied just such a ﬂexible approach, under which
+the Court “balanced several factors” to determine whether the
+physical invasions at issue effected a taking.Post, at 172–
+173. According to the dissent, this kind of latitude toward
+temporary invasions is a practical necessity for governing in
+our complex modern world. Seepost, at 174–175.
+With respect, our own understanding of the role of prop-
+erty rights in our constitutional order is markedly different.
+In “ordinary English” “appropriation” means “takingas
+one’s own,” 1 Oxford English Dictionary 587 (2d ed. 1989)
+(emphasis added), and the regulation expressly grants to
+labor organizers the “right totakeaccess,” Cal. Code Regs.,
+tit. 8, § 20900(e)(1)(C) (emphasis added). We cannot agree
+that the right to exclude is an empty formality, subject to
+modiﬁcation at the government’s pleasure. On the contrary,
+it is a “fundamental element of the property right,”Kaiser
+Aetna, 444 U. S., at 179–180, that cannot be balanced away.
+Our cases establish that appropriations of a right to invade
+areper sephysical takings, not use restrictions subject to
+Penn Central: “[W]hen [government] planes use private air-
+space to approach a government airport, [the government] is
+required to pay for that share no matter how small.”Tahoe-
+Sierra, 535 U. S., at 322 (citingCausby). And whileKaiser
+Aetnamay have referred to the test fromPenn Central, see
+444 U. S., at 174–175, the Court concluded categorically that
+the government must pay just compensation for physical in-
+vasions, seeid., at 180 (citingCausbyandPortsmouth).
+With regard to the complexities of modern society, we think
+they only reinforce the importance of safeguarding the basic
+property rights that help preserve individual liberty, as the
+Founders explained. Seesupra, at 147.
+
+159Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+In the end, the dissent’s permissive approach to property
+rights
+hearkens back to views expressed (in dissent) for dec-
+ades. See,e. g.,Nollan, 483 U. S., at 864 (Brennan, J., dis-
+senting) (“[The Court’s] reasoning is hardly suited to the
+complex reality of natural resource protection in the 20th
+century.”);Loretto, 458 U. S., at 455 (Blackmun, J., dissent-
+ing) (“[T]oday’s decision . . . represents an archaic judicial
+response to a modern social problem.”);Causby, 328 U. S., at
+275 (Black, J., dissenting) (“Today’s opinion is, I fear, an
+opening wedge for an unwarranted judicial interference with
+the power of Congress to develop solutions for new and vital
+national problems.”). As for today’s considered dissent, it
+concludes with “Better the devil we know . . . ,”post, at 179,
+but its objections, to borrow from then-Justice Rehnquist’s
+invocation of Wordsworth, “bear[ ] the sound of ‘Old, un-
+happy, far-off things, and battles long ago,’ ”Kaiser Aetna,
+444 U. S., at 177.
+III
+The Board, seconded by the dissent, warns that treating
+the access regulation as aper sephysical taking will endan-
+ger a host of state and federal government activities involv-
+ing entry onto private property. Seepost, at 174–176.
+That fear is unfounded.
+First, our holding does nothing to efface the distinction
+between trespass and takings. Isolated physical invasions,
+not undertaken pursuant to a granted right of access, are
+properly assessed as individual torts rather than appropria-
+tions of a property right. This basic distinction is ﬁrmly
+grounded in our precedent. SeePortsmouth, 260 U. S., at
+329–330 (“[W]hile a single act may not be enough, a continu-
+ance of them in sufﬁcient number and for a sufﬁcient time
+may prove [the intent to take property]. Every successive
+trespass adds to the force of the evidence.”); 1 P. Nichols,
+The Law of Eminent Domain § 112, p. 311 (1917) (“[A] mere
+occasional trespass would not constitute a taking.”). And
+lower courts have had little trouble applying it. See,e. g.,
+
+160 CED
+AR POINT NURSERY v. HASSID
+Opinion of the Court
+Hendler v. United States, 952 F. 2d 1364, 1377 (CA Fed. 1991)
+(identi
+flying a “truckdriver parking on someone’s vacant land
+to eat lunch” as an example of a mere trespass).
+The distinction between trespass and takings accounts for
+our treatment of temporary government-induced ﬂooding in
+Arkansas Game and Fish Commissionv.United States, 568
+U. S. 23 (2012). There we held, “simply and only,” that such
+ﬂooding “gains no automatic exemption from Takings Clause
+inspection.”Id., at 38. Because this type of ﬂooding can
+present complex questions of causation, we instructed lower
+courts evaluating takings claims based on temporary ﬂooding
+to consider a range of factors including the duration of the
+invasion, the degree to which it was intended or foreseeable,
+and the character of the land at issue.Id., at 38–39.
+Applying those factors on remand, the Federal Circuit con-
+cluded that the government had effected a taking in the form
+of a temporary ﬂowage easement.Arkansas Game and
+Fish Comm’nv.United States, 736 F. 3d 1364, 1372 (2013).
+Our approach inArkansas Game and Fish Commissionre-
+ﬂects nothing more than an application of the traditional
+trespass-versus-takings distinction to the unique considera-
+tions that accompany temporary ﬂooding.
+Second, many government-authorized physical invasions
+will not amount to takings because they are consistent with
+longstanding background restrictions on property rights.
+As we explained inLucasv.South Carolina Coastal Coun-
+cil, the government does not take a property interest when
+it merely asserts a “pre-existing limitation upon the land
+owner’s title.” 505 U. S., at 1028–1029. For example, the
+government owes a landowner no compensation for requiring
+him to abate a nuisance on his property, because he never
+had a right to engage in the nuisance in the ﬁrst place. See
+id., at 1029–1030.
+These background limitations also encompass traditional
+common law privileges to access private property. One such
+privilege allowed individuals to enter property in the event
+
+161Cite
+as: 594 U. S. 139 (2021)
+Opinion of the Court
+of public or private necessity. See Restatement (Second) of
+Tor
+ts § 196 (1964) (entry to avert an imminent public disas-
+ter); § 197 (entry to avert serious harm to a person, land, or
+chattels); cf. Lucas, 505 U. S., at 1029, n. 16. The common
+law also recognized a privilege to enter property to effect an
+arrest or enforce the criminal law under certain circum-
+stances. Restatement (Second) of Torts §§ 204–205. Be-
+cause a property owner traditionally had no right to exclude
+an ofﬁcial engaged in a reasonable search, see, e. g., Sandford
+v. Nichols, 13 Mass. 286, 288 (1816), government searches
+that are consistent with the Fourth Amendment and state
+law cannot be said to take any property right from landown-
+ers. See generally Camara v. Municipal Court of City and
+County of San Francisco , 387 U. S. 523, 538 (1967).
+Third, the government may require property owners to
+cede a right of access as a condition of receiving certain ben-
+eﬁts, without causing a taking. In Nollan, we held that “a
+permit condition that serves the same legitimate police-
+power purpose as a refusal to issue the permit should not be
+found to be a taking if the refusal to issue the permit would
+not constitute a taking.” 483 U. S., at 836. The inquiry, we
+later explained, is whether the permit condition bears an “es-
+sential nexus” and “rough proportionality” to the impact of
+the proposed use of the property. Dolan, 512 U. S., at 386,
+391; see also Koontz v. St. Johns River Water Management
+Dist., 570 U. S. 595, 599 (2013).
+Under this framework, government health and safety in-
+spection regimes will generally not constitute takings. See,
+e. g., Ruckelshaus v. Monsanto Co., 467 U. S. 986, 1007 (1984).
+When the government conditions the grant of a beneﬁt such
+as a permit, license, or registration on allowing access for
+reasonable health and safety inspections, both the nexus and
+rough proportionality requirements of the constitutional con-
+ditions framework should not be difﬁcult to satisfy. See,
+e. g., 7 U. S. C. § 136g(a)(1)(A) (pesticide inspections); 16
+U. S. C. § 823b(a) (hydroelectric project investigations); 21

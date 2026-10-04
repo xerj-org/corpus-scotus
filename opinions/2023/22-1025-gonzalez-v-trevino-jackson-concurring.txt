@@ -1,0 +1,39 @@
+Gonzalez v. Trevino — No. 22-1025 — October Term 2023 — decided 6/20/24 — Jackson, J., concurring
+Citation: 602 U.S. 653
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r42_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+§ 37.10(a)(3). That may have been an unwise concession.
+But it should have foreclosed Gonzalez's attempt to contest
+her mens rea for purposes of her § 1983 retaliatory arrest
+claim. And even if Gonzalez had not made the concession,
+the question here would be whether an objectively reason-
+able officer would have known that Gonzalez accidentally
+(rather than intentionally) took the document. In short, this
+is (at most) a case about probable cause as to mens rea, not
+about conduct-based comparisons. This case has nothing to
+do with the Nieves exception.
+At this point, the Court's grant of certiorari looks ill-
+advised given that the question presented about the Nieves
+exception bears no relation to the issue on which Gonzalez's
+suit actually turns. In any event, we are where we are. I
+concur in the per curiam because the per curiam does not
+seem to say anything that is harmful to the law, even though
+the per curiam (in my view) does not really have anything
+to do with Gonzalez's case.
+Justice Jackson, with whom Justice Sotomayor joins,
+concurring.
+Today, the Court rightly recognizes that petitioner Sylvia
+Gonzalez's survey—showing that, in the last decade, no one
+charged with the crime for which she was arrested had en-
+gaged in conduct similar to hers—is objective evidence ad-
+missible to prove that she “was arrested when otherwise
+similarly situated individuals not engaged in the same sort
+of protected speech had not been.” Nieves v. Bartlett, 587
+U. S. 391, 407 (2019); see ante, at 658.
+That recognition, however, should not be taken to suggest
+that plaintiffs cannot use other types of objective evidence
+to make this showing. The Nieves exception is satisfied in
+“circumstances where officers have probable cause to make
+arrests, but typically exercise their discretion not to do so.”
+587 U. S., at 406. “The only express limit we placed on the
+sort of evidence a plaintiff may present for that purpose is

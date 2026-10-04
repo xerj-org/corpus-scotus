@@ -1,0 +1,145 @@
+Gonzalez v. Trevino — No. 22-1025 — October Term 2023 — decided 6/20/24 — Thomas, J., dissenting
+Citation: 602 U.S. 653
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r42_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+that it must be objective.” Ante, at 658. As the United
+States explains, such objective evidence could “include off-
+cers' employment of an unusual, irregular, or unnecessarily
+onerous arrest procedure,” as well as “[t]he timing of and
+events leading up to a plaintiff's arrest.” Brief for United
+States as Amicus Curiae 20.* Similarly, “if officers falsely
+document the arrest or include other indicia of retaliatory
+motive in arrest-related documents, that too might suggest
+meaningfully differential treatment.” Id., at 21.
+Here, in addition to her survey, Gonzalez presented this
+other kind of evidence as well. Before the District Court,
+Gonzalez pointed to, among other things, details about the
+anomalous procedures used for her arrest and statements in
+the arresting officer's warrant affidavit suggesting a retalia-
+tory motive. See Brief for Petitioner 43–44. Those catego-
+ries of evidence, too, can support the conclusion that Gon-
+zalez “was arrested when otherwise similarly situated
+individuals not engaged in the same sort of protected speech
+had not been.” Nieves, 587 U. S., at 407. On remand, the
+lower courts may consider the full scope of objective evi-
+dence that Gonzalez has offered to establish differential
+treatment. See ante, at 658.
+With this understanding, I join the Court's per curiam
+opinion.
+Justice Thomas, dissenting.
+I continue to believe that “plaintiffs bringing a First
+Amendment retaliatory-arrest claim under § 1983 should
+have to plead and prove a lack of probable cause.” Lozman
+*Justice Alito suggests that evidence of this sort—such as the fact
+that “a police officer has been surveilling [a plaintiff's] house for several
+weeks”—would not “count toward the Nieves exception.” Ante, at 667
+(concurring opinion). He does not explain, however, why such evidence
+would not be objective, or why such evidence would not be relevant to
+proving that a plaintiff “was arrested when otherwise similarly situated
+individuals not engaged in the same sort of protected speech had not
+been.” Nieves, 587 U. S., at 407.
+v. Riviera Beach, 585 U. S. 87, 107 (2018) (Thomas, J., dis-
+senting).* Under the Court's precedents, 42 U. S. C. § 1983
+is “construed in light of common-law principles that were
+well settled at the time of its enactment.” Kalina v. Flet-
+cher, 522 U. S. 118, 123 (1997). “Because no common-law
+tort for retaliatory arrest in violation of the freedom of
+speech existed when § 1983 was enacted, we look to the
+common-law torts that provide the closest analogy to this
+claim.” Nieves v. Bartlett, 587 U. S. 391, 409 (2019)
+(Thomas, J., concurring in part and concurring in judgment)
+(internal quotation marks and alteration omitted). As I
+have previously explained, the common-law torts most analo-
+gous to retaliatory-arrest claims are false imprisonment, ma-
+licious arrest, and malicious prosecution—all of which re-
+quired a plaintiff to prove “the absence of probable cause.”
+Id., at 409–410. Gonzalez concedes that there was probable
+cause for her arrest. Brief for Petitioner 30. Her
+retaliatory-arrest claim therefore cannot proceed.
+Resisting that conclusion, Gonzalez contends that there is
+still another common-law analogue for a retaliatory-arrest
+claim: abuse of process. Although the exact contours of that
+tort are unclear, abuse of process generally addressed the
+“extortionate perversion of lawfully initiated process to ille-
+gitimate ends.” Heck v. Humphrey, 512 U. S. 477, 486, n. 5
+(1994). Critically for Gonzalez's argument, an abuse-of-
+process claim did not require a plaintiff to establish the ab-
+sence of probable cause. See C. Addison, Wrongs and Their
+Remedies 601–602 (3d ed. 1870) (Addison); 1 T. Cooley, Law
+of Torts 356 (3d ed. 1906) (Cooley).
+*I also remain “skeptical that 42 U. S. C. § 1983 recognizes a claim for
+retaliatory arrests under the First Amendment.” Lozman, 585 U. S., at
+104, n. 2 (Thomas, J., dissenting). “Because no party questions whether
+§ 1983 claims for retaliatory arrests under the First Amendment are ac-
+tionable, I assume that § 1983 permits such claims.” Nieves v. Bartlett,
+587 U. S. 391, 409, n. (2019) (Thomas, J., concurring in part and concurring
+in judgment).
+I am not persuaded that an abuse-of-process claim is analo-
+gous to Gonzalez's retaliatory-arrest claim. Gonzalez's cen-
+tral argument is that her arrest was invalid because the de-
+fendants had an improper motive. As she sees it, even
+though the defendants had probable cause to arrest her, they
+did so only in retaliation for her constitutionally protected
+speech. See App. to Pet. for Cert. 126a, 129a. Abuse of
+process, however, appeared to be less concerned with why
+process was initiated and more with whether process was
+ultimately used as “intended by the law.” Mayer v. Walter,
+64 Pa. 283, 285–286 (1870); see Addison 602 (abuse-of-process
+tort applies where process has been “prostituted to an illegal
+purpose”). An abuse of process occurred when an ordinary
+process was distorted “for a purpose not justified by the
+law,” and the tort required “ `an act in the use of the process
+not proper in the regular prosecution of the proceeding.' ”
+Cooley 354–356. For example, a plaintiff could assert an
+abuse-of-process claim if an officer arrested and detained him
+in an oppressive manner as a means of extortion. See id.,
+at 354–355 (providing as an example “causing an arrest . . .
+and keeping [the plaintiff] imprisoned until, by stress
+thereof, he is compelled to surrender property to which the
+other is not entitled”). Or, a plaintiff could bring an abuse-
+of-process claim if an officer deprived him of food while he
+was detained. Wood v. Graves, 144 Mass. 365, 366, 11 N. E.
+567, 576 (1887) (describing where a person “arrested . . . is
+treated with cruelty, is deprived of proper food, or is other-
+wise treated with oppression and undue hardship”). Either
+way, the essential question appears to have been how the
+process was used—not whether the process was initiated
+with an improper motive. See Glidewell v. Murray-Lacy &
+Co., 124 Va. 563, 569, 98 S. E. 665, 667 (1919) (explaining that
+the “distinctive nature of an action for abuse of process . . .
+lies for the improper use of a regularly issued process, not
+for maliciously causing process to issue”); Cooley 356 (“ `Reg-
+ular and legitimate use of process, though with a bad inten-
+tion, is not a malicious abuse of process' ”). Because Gonza-
+lez's retaliatory-arrest claim focuses on the motives behind
+her arrest and not the process itself, the abuse-of-process
+tort is a poor ft.
+The Court takes an even more dubious route in its at-
+tempt to salvage Gonzalez's case. In Nieves v. Bartlett, the
+Court correctly recognized that probable cause precludes a
+retaliatory-arrest claim. 587 U. S., at 406. But, it intro-
+duced one purportedly “narrow qualification.” Ibid.; see
+Lund v. Rockford, 956 F. 3d 938, 944 (CA7 2020) (considering
+whether a plaintiff's “case squeeze[d] through the crack of an
+opening that Nieves left ajar”). The Nieves Court con-
+cluded that a plaintiff need not show a lack of probable cause
+if he “presents objective evidence that he was arrested when
+otherwise similarly situated individuals not engaged in the
+same sort of protected speech had not been.” 587 U. S.,
+at 407.
+Today, the Court expands that qualification. Nieves's ex-
+ception can now apply if a plaintiff presents evidence of any
+objective fact that “makes it more likely that an officer has
+declined to arrest someone for engaging in such conduct
+in the past.” Ante, at 658 (emphasis deleted). Accordingly,
+even though Gonzalez's proffered evidence does not point to
+a single “similarly situated individua[l],” the Court none-
+theless concludes she may satisfy the Nieves exception.
+Nieves, 587 U. S., at 407.
+There is “no basis in either the common law or our First
+Amendment precedents” for the exception created in Nieves
+and expanded upon today. Id., at 409 (opinion of Thomas,
+J.). And, the Court should not craft § 1983 rules “as a mat-
+ter of policy.” Id., at 411. I would adhere to the only rule
+grounded in history: Probable cause defeats a retaliatory-
+arrest claim. I respectfully dissent.

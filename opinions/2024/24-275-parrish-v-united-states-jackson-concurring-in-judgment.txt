@@ -1,0 +1,74 @@
+Parrish v. United States — No. 24-275 — October Term 2024 — decided 6/12/25 — Jackson, J., concurring in judgment
+Citation: 605 U.S. 376
+Source: https://www.supremecourt.gov/opinions/24pdf/605us2r43_e29g.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+When a district court grants reopening to a litigant who
+has already fled a notice making his intent to appeal clear,
+no second notice of appeal is required. Instead, the original
+notice relates forward to the date reopening is granted.
+Donte Parrish's notice of appeal thus did all that was re-
+quired of it. The judgment of the Fourth Circuit is re-
+versed, and the case is remanded for further proceedings
+consistent with this opinion.
+It is so ordered.
+Justice Jackson, with whom Justice Thomas joins, con-
+curring in the judgment.
+As the Court explains, Donte Parrish submitted a late no-
+tice of appeal, which the Fourth Circuit construed as a “mo-
+tion to reopen” the time to appeal and the District Court
+subsequently granted. I agree with the Court's conclusion
+that Parrish did not need to do anything more in order for
+his notice of appeal to be treated as timely. I write sepa-
+rately to explain why, in my view, it is unnecessary to resort
+to ripening or relation-forward principles to reach that
+result.
+All parties agree that the statutory deadline for filing a
+notice of appeal had passed when Parrish's notice arrived at
+the courthouse. There is also no dispute that, because the
+deadline to fle a notice of appeal is jurisdictional, Parrish's
+tardiness could not have been waived or excused unless a
+provision of law extended the period during which he could
+fle the notice. Luckily for Parrish, the relevant statute in
+this case contains such a provision: Section 2107(c) of Title
+28 permits a district court to “reopen the time for appeal for
+a period of 14 days from the date of entry of the [reopening]
+order” if certain conditions are met. See § 2107(c) (allowing
+reopening if the movant did not receive notice of the judg-
+ment within 21 days of its issuance; he sought reopening
+within 14 days of notice or 180 days of judgment, whichever
+is earlier; and no party would be prejudiced by reopening);
+see also ante, at 382. After the Fourth Circuit construed
+Parrish's notice as a motion to reopen under this provision,
+the District Court properly concluded that Parrish met the
+statutory criteria and reopened the window in which Parrish
+could fle.
+As a practical matter, litigants fle motions like this one—
+seeking to reopen or extend a deadline—every day in federal
+district court. When they do so, they often attach to their
+motion the (late) document they hope to receive permission
+to fle. For example, when a party has missed a filing dead-
+line, they frequently ask for an extension of time to fle the
+substantive document they had hoped to submit. The mo-
+tion they submit usually explains or seeks to justify the
+delay, and a proposed order extending the relevant deadline
+(ready for the court's signature) is often included. The pro-
+posed substantive filing is also appended to that packet—
+which the district court then dockets, if it grants the
+extension.
+Because Parrish's filing was effectively submitted in this
+manner, to me, the court that received it should have handled
+it in that way. Having construed Parrish's notice of appeal
+as a motion to reopen, the court should have done what dis-
+trict courts do every day in our federal system when such a
+motion is granted: docket the proposed substantive filing—
+here, the notice of appeal. With the notice of appeal thus
+docketed, the court should have then transferred the case to
+the Court of Appeals for further proceedings.
+This way of conceptualizing Parrish's filing does not re-
+quire reliance on principles of ripening or relation forward.
+It also makes sense, because Parrish fled what the court
+construed as a “motion to reopen” for the purpose of allowing
+that very document (the notice of appeal) to be fled. It
+would indeed be strange to reopen a case because the litigant
+has fled a proposed notice of appeal, but then fail to treat

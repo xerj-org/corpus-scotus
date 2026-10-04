@@ -1,0 +1,107 @@
+Margolin v. NAIJ — No. 25-767 — October Term 2025 — decided 5/26/26 — Thomas, J., concurring
+Citation: 608 U.S. 339
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r36_n758.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+So too here. The Fourth Circuit violated the party-
+presentation principle when it decided “a case different from
+the one [respondent] advanced.” 160 F. 4th, at 118 (Quat-
+tlebaum, J., dissenting from denial of rehearing en banc).
+As respondent conceded below, our precedent establishes that
+Congress, through the CSRA, intended to channel covered
+claims to the MSPB. ECF Doc. 72, pp. 8–9; ECF Doc. 11–1, p.
+18. The parties thus confined their arguments to the narrow
+question whether respondent's claims were, in fact, covered.
+Unsatisfied with rejecting respondent's arguments on that
+question, however, the Fourth Circuit sua sponte addressed
+a much broader one and remanded for further proceedings
+on that question. The court transformed respondent's argu-
+ment that the CSRA did not channel its claims into one that
+the CSRA might not—in light of current conditions—channel
+any claims. And the court did so without giving either side
+a chance to address its theory. See Clark, 607 U. S., at 9.
+That “ `drasti[c]' ” departure from the principle of party pres-
+entation “ `constitute[d] an abuse of discretion.' ” Id., at 10
+(quoting Sineneng-Smith, 590 U. S., at 375).
+Federal courts are not “roving commissions,” Broadrick v.
+Oklahoma, 413 U. S. 601, 611 (1973), licensed to “ `sally forth
+each day looking for wrongs to right,' ” Sineneng-Smith, 590
+U. S., at 376 (quoting United States v. Samuels, 808 F. 2d
+1298, 1301 (CA8 1987) (Arnold, J., concurring in denial of re-
+hearing en banc)). The Court of Appeals lost sight of those
+principles here.
+The petition for a writ of certiorari is granted, the judg-
+ment of the Fourth Circuit is reversed, and the case is re-
+manded for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Thomas, with whom Justice Barrett joins,
+concurring.
+I agree with the Court that the Fourth Circuit erred by
+disregarding traditional party-presentation principles. I
+write separately to explain why the Fourth Circuit's decision
+was also wrong on the merits.
+As the Fourth Circuit seemed to acknowledge, this Court's
+precedent establishes that the District Court lacked jurisdic-
+tion over this challenge to a federal workplace policy. The
+Civil Service Reform Act of 1978, 5 U. S. C. § 1101 et seq .,
+provides a statutory review scheme through which certain
+federal employees must raise certain workplace complaints.
+The scheme authorizes judicial review only after the employ-
+ees have had their claims heard by the Merit Systems Pro-
+tection Board (and sometimes the Office of the Special Coun-
+sel). §§ 1214, 7512, 7703; 28 U. S. C. § 1295(a)(9). In Elgin v.
+Department of Treasury , 567 U. S. 1 (2012), this Court held
+that “covered employees appealing covered agency actions”
+must “proceed exclusively through the statutory review
+scheme.” Id., at 10. Respondent concedes that its mem-
+bers are covered employees. The Fourth Circuit agreed
+that the workplace policy at issue is a covered agency action.
+National Assn. of Immigration Judges v. Owen, 139 F. 4th
+293, 308–313 (2025). Thus, the Fourth Circuit had to ac-
+knowledge that, under Elgin, “the National Association of
+Immigration Judges would be required to bring its case
+through [this] administrative scheme,” which would require
+the dismissal of this case. 139 F. 4th, at 299; see also id.,
+at 305.
+Nevertheless, the Fourth Circuit strained to avoid dis-
+missal of the case based on its belief that new political con-
+siderations changed the governing law. The court explained
+that it would not allow its “black robes to insulate [it] from
+taking notice of items in the public record.” Id., at 313.
+Specifically, the Fourth Circuit worried that because “the
+President removed the Special Counsel” and “two members
+of the MSPB,” there were now “serious questions as to
+whether the CSRA's adjudicatory scheme continues to func-
+tion as intended.” Id., at 305. Congress designed the
+CSRA to rely on MSPB independence, the Fourth Circuit
+claimed, so now that “the Government has questioned the
+constitutionality of the removal protections enshrined in the
+CSRA,” it was no longer clear that the statutory scheme was
+functioning as Congress intended. Id., at 308. If it were
+not, the court reasoned, Congress might not have intended
+for such claims to be channeled to the MSPB any longer.
+The Fourth Circuit thus remanded to the District Court for
+factfinding as to how the CSRA scheme is functioning and
+whether a “new examination of Congressional intent may be
+required in light of changing circumstances.” Ibid.
+The Fourth Circuit's analysis bears little resemblance to
+legal interpretation. Neither the President's view that he
+can remove federal executive officials, see Myers v. United
+States, 272 U. S. 52 (1926), nor his having done so, change the
+meaning of the statute or the binding nature of this Court's
+interpretation of it. “Conditions may have changed, but the
+statute has not.” United States ex rel. Marcus v. Hess, 317
+U. S. 537, 547 (1943). Courts may not “rewrite the statutory
+scheme in order to approximate what we think Congress
+might have wanted had it known that” the President or
+courts may conclude that its removal restrictions were “be-
+yond its authority.” Seminole Tribe of Fla. v. Florida, 517
+U. S. 44, 76 (1996). Statutes change only when Congress
+changes them, not when judges decide that they no longer
+vindicate Congress's purposes. See U. S. Const., Art. I,
+§§ 1, 7.
+As Judge Quattlebaum wrote in dissent, the Fourth Cir-
+cuit's decision below “undermines important principles of our
+system of justice,” including that law remains law despite
+the “political controversies of the day.” National Assn. of
+Immigration Judges v. Owen, 160 F. 4th 100, 118 (2025) (en
+banc).

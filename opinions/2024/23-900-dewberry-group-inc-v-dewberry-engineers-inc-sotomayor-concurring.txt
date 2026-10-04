@@ -1,0 +1,133 @@
+Dewberry Group, Inc. v. Dewberry Engineers Inc. — No. 23-900 — October Term 2024 — decided 2/26/25 — Sotomayor, J., concurring
+Citation: 604 U.S. 321
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r15_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+sum provision. We have concluded only that the courts
+below did not invoke that provision to support the $43 mil-
+lion award. Whether (or how) they could have used the pro-
+vision is not properly before us; still less is whether Dew-
+berry Engineers may press its just-sum theory on remand
+given forfeiture rules. Second, we also state no view on the
+position of the Government respecting when courts, even
+without relying on the just-sum provision, can look behind a
+defendant's tax or accounting records to consider “the eco-
+nomic realities of a transaction” and identify the defendant's
+“true financial gain.” Brief for United States as Amicus
+Curiae 13; see id., at 18–22, 30–34; Tr. of Oral Arg. 36–41.
+Again, it is now up to the lower courts to decide whether to
+consider the Government's proposals. And third, we offer
+no opinion on whether, as raised during oral argument here,
+corporate veil-piercing is an available option on remand.
+See id., at 77; Brief for Respondent 52, n. 8.
+All we hold today is that the courts below were wrong to
+treat Dewberry Group and its affliates as a single entity in
+calculating the “defendant's profts.” Dewberry Group is
+the sole defendant here, and under that language only its
+own profts are recoverable.
+We therefore vacate the judgment of the Court of Appeals
+and remand the case for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Sotomayor, concurring.
+I join in full the Court's opinion, which holds that courts
+must respect principles of corporate separateness in calculat-
+ing a “defendant's profts” for purposes of the Lanham Act.
+See ante, at 327 and this page. Those principles and the Lan-
+ham Act's plain text prohibited the lower courts from attribut-
+ing to Dewberry Group all the profts of its affliates, absent
+veil piercing. See ante, at 326–327. Dewberry Group itself,
+however, reports no profts on its tax returns. It has oper-
+ated at a loss for decades, while its affliates have made tens
+of millions in profts with the aid of the Group's trademark-
+infringing services. Before the lower courts, Dewberry
+Group indicated that its own tax returns should control the
+calculation of its profts, meaning that the Group would owe
+zero dollars in disgorgement.*
+I write separately to underscore that principles of corpo-
+rate separateness do not blind courts to economic realities.
+Nor do they force courts to accept clever accounting, includ-
+ing efforts to obscure a defendant's true financial gain
+through arrangements with affiliates. To the contrary,
+there are myriad ways in which courts might consider ac-
+counting arrangements between a defendant and its affliates
+in calculating a “defendant's profts.” Two examples illus-
+trate the point.
+First, consider a company that establishes a non -
+arm's-length relationship with an affliate that effectively
+assigns some portion of its revenues to the latter. For in-
+stance, if the company charges below-market rates to its
+affliate for infringing services, that arrangement might be
+seen as essentially assigning a share of the company's earn-
+ings to its affliate in advance. The affliate's profts in that
+scenario might bear on what the company itself would have
+earned in an arm's-length relationship. Taking account of
+such evidence in calculating the company's profts would
+likely not transgress corporate formalities or the Lanham
+Act's text, so long as the court's focus remained on calculat-
+ing “profts properly ascribable to the defendant itself.”
+Ante, at 323.
+This Court, moreover, has long recognized in the tax con-
+text that it is possible to account for anticipatory assignment
+schemes without contravening principles of corporate sepa-
+*See 77 F. 4th 265, 290 (CA4 2023) (“Dewberry Group presented evi-
+dence that it `generated zero profts because the Dewberry Group, Inc. tax
+entity showed losses on its tax returns' ”); 2022 WL 1439826, *9, *13 (ED
+Va., Mar. 2, 2022); 10 App. in No. 22–1622 etc. (CA4), pp. 4958–4965.
+rateness. See, e. g., Commissioner v. Banks, 543 U. S. 426,
+433 (2005) (“A taxpayer cannot exclude an economic gain
+from gross income by assigning the gain in advance to an-
+other party”); Commissioner v. Sunnen, 333 U. S. 591, 604
+(1948) (similar); Lucas v. Earl, 281 U. S. 111, 114–115 (1930)
+(similar). That precedent may provide guidance in calculat-
+ing a “defendant's profts” under the Lanham Act when
+courts are faced with similar arrangements, “ `however skill-
+fully devised[,] to prevent [income] . . . from vesting even for
+a second in the man who earned it.' ” Banks, 543 U. S.,
+at 434 (quoting Lucas, 281 U. S., at 115 (second alteration
+in original)).
+Second, courts calculating disgorgement awards might
+consider evidence that a company indirectly received com-
+pensation for infringing services through related corporate
+entities. For instance, where there is evidence that a com-
+pany charged below-market rates for infringing services to
+affliates, but a common owner made up the difference via
+cash infusions to the company, that evidence may bear on the
+company's profts under the Lanham Act. Indeed, such cash
+infusions may reflect some portion of the profts that the
+company would have earned from its infringing services in
+an arm's-length relationship. See Brief for United States as
+Amicus Curiae 18–19. Again, drawing on such evidence in
+calculating a Lanham Act disgorgement award need not im-
+permissibly attribute an affliate's profts to the defendant.
+This is all to say that principles of corporate separateness
+do not force courts to close their eyes to practical realities in
+calculating a “defendant's profts.” After all, the Lanham Act
+itself directs courts to calculate such profts “subject to the
+principles of equity.” 15 U. S. C. § 1117(a). Those principles,
+unsurprisingly, support the view that companies cannot evade
+accountability for wrongdoing through creative accounting.
+Equity “regards substance rather than form.” 2 S. Simons,
+Pomeroy's Equity Jurisprudence § 378, p. 40 (5th ed. 1941)
+(internal quotation marks omitted). And equity demands
+“the wrongdoer should not proft by his own wrong.” Liu
+v. SEC, 591 U. S. 71, 80 (2020) (internal quotation marks
+omitted). Congress enacted the Lanham Act, moreover, to
+ensure “trademarks [w]ould receive nationally the greatest
+protection that can be given them.” Park 'N Fly, Inc. v.
+Dollar Park & Fly, Inc., 469 U. S. 189, 193 (1985) (internal
+quotation marks omitted). Disgorgement awards play a
+leading role in that regime, and the text of the Act forecloses
+any claim that Congress looked favorably on easy evasion.
+Because this issue was not considered below within the
+right framework, the Court today rightly declines to decide
+exactly when and how courts may look beyond a defendant's
+books in calculating Lanham Act disgorgement awards. See
+ante, at 330. In new award proceedings on remand, how-
+ever, the lower courts may explore that important issue and
+consider reopening the record if appropriate. See Zenith
+Radio Corp. v. Hazeltine Research, Inc., 401 U. S. 321, 331
+(1971) (“[A] motion to reopen to submit additional proof is
+addressed to [the trial court's] sound discretion”). Courts
+must be attentive to practical business realities for our Na-
+tion's trademark laws to function, and the Lanham Act gives
+courts the power and the duty to do so.

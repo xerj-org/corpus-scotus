@@ -1,0 +1,105 @@
+GE Energy Power Conversion France SAS v. Outokumpu Stainless USA, LLC — No. 18-1048 — October Term 2019 — decided 6/01/20 — Sotomayor, J., concurring
+Citation: 590 U.S. 432
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US2PP_web.pdf#page=20 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+IV
+The Court of Appeals did not analyze whether Article II(3)
+of the New York Convention conflicts with equitable estop-
+pel. Instead, the court held that Article II(1) and (2) include
+a “requirement that the parties actually sign an agreement
+to arbitrate their disputes in order to compel arbitration.”
+902 F. 3d, at 1326. But those provisions address the recog-
+nition of arbitration agreements, not who is bound by a rec-
+ognized agreement. Article II(1) simply requires contract-
+ing states to “recognize an agreement in writing,” and
+Article II(2) defines the term “agreement in writing.”
+Here, the three agreements at issue were both written and
+signed.3 Only Article II(3) speaks to who may request re-
+ferral under those agreements, and it does not prohibit the
+application of domestic law. See supra, at 440–441.
+Because the Court of Appeals concluded that the Conven-
+tion prohibits enforcement by nonsignatories, the court did
+not determine whether GE Energy could enforce the arbitra-
+tion clauses under principles of equitable estoppel or which
+body of law governs that determination. Those questions
+can be addressed on remand. We hold only that the New
+York Convention does not conflict with the enforcement of
+arbitration agreements by nonsignatories under domestic-
+law equitable estoppel doctrines.
+* * *
+For the foregoing reasons, we reverse the judgment of the
+Court of Appeals and remand the case for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor, concurring.
+I agree with the Court that the Convention on the Recog-
+nition and Enforcement of Foreign Arbitral Awards, June 10,
+3 We do not address whether Article II(2) requires a signed agreement.
+446 GE ENERGY POWER CONVERSION FRANCE SAS
+v. OUTOKUMPU STAINLESS USA, LLC
+Sotomayor, J., concurring
+1958, 21 U. S. T. 2517, T. I. A. S. No. 6997 (Convention), does
+not categorically prohibit the application of domestic doc-
+trines, such as equitable estoppel, that may permit non-
+signatories to enforce arbitration agreements. I note, how-
+ever, that the application of such domestic doctrines is
+subject to an important limitation: Any applicable domestic
+doctrines must be rooted in the principle of consent to
+arbitrate.
+This limitation is part and parcel of the Federal Arbitra-
+tion Act (FAA) itself. It is a “basic precept,” Stolt-Nielsen
+S. A. v. AnimalFeeds Int'l Corp., 559 U. S. 662, 681 (2010),
+that “[a]rbitration under the [FAA] is a matter of consent,
+not coercion,” Volt Information Sciences, Inc. v. Board of
+Trustees of Leland Stanford Junior Univ., 489 U. S. 468, 479
+(1989); see also, e. g., Lamps Plus, Inc. v. Varela, 587 U. S.
+176, 184 (2019) (“Consent is essential under the FAA”); Gran-
+ite Rock Co. v. Teamsters, 561 U. S. 287, 299 (2010) (“[T]he
+first principle that underscores all of our arbitration deci-
+sions” is that “[a]rbitration is strictly `a matter of consent' ”).
+“We have emphasized th[is] `foundational FAA principle'
+many times,” Lamps Plus, 587 U. S., at 184 (quoting Stolt-
+Nielsen, 559 U. S., at 684) (citing cases), and even the parties
+find common ground on the point, see Tr. of Oral Arg. 7, 49;
+Brief for Respondents 2.
+Because this consent principle governs the FAA on the
+whole, it constrains any domestic doctrines under Chapter 1
+of the FAA that might “appl[y]” to Convention proceedings
+(to the extent they do not “conflict with” the Convention).
+9 U. S. C. § 208; cf. ante, at 439. Parties seeking to enforce
+arbitration agreements under Article II of the Convention
+thus may not rely on domestic nonsignatory doctrines that
+fail to reflect consent to arbitrate.
+While the FAA's consent principle itself is crystalline, it is
+admittedly difficult to articulate a bright-line test for deter-
+mining whether a particular domestic nonsignatory doctrine
+reflects consent to arbitrate. That is in no small part be-
+cause some domestic nonsignatory doctrines vary from juris-
+diction to jurisdiction. With equitable estoppel, for in-
+stance, one formulation of the doctrine may account for a
+party's consent to arbitrate while another does not. Cf.
+Brief for Respondents 45 (maintaining that courts have ap-
+plied at least “three different versions” of GE Energy's
+equitable-estoppel theory, including one that allegedly
+“allows a non-party to force arbitration even of claims wholly
+unconnected to the agreement”). Lower courts must there-
+fore determine, on a case-by-case basis, whether applying
+a domestic nonsignatory doctrine would violate the FAA's
+inherent consent restriction.*
+Article II of the Convention leaves much to the contract-
+ing states to resolve on their own, and the FAA imposes few
+restrictions. Nevertheless, courts applying domestic non-
+signatory doctrines to enforce arbitration agreements under
+the Convention must strictly adhere to “the foundational
+FAA principle that arbitration is a matter of consent.”
+Stolt-Nielsen, 559 U. S., at 684. Because the Court's opinion
+is consistent with this limitation, I join it in full.
+*In this case, however, I am skeptical that any domestic nonsignatory
+doctrines need come into play at all, because Outokumpu appears to have
+expressly agreed to arbitrate disputes under the relevant contract with
+subcontractors like GE Energy. The contract provided that disputes aris-
+ing between the buyer and seller in connection with the contract were
+subject to arbitration. App. 171. It also specified that the seller in the
+contract “shall be understood” to include “[s]ub-contractors.” Id., at 88–
+89. And it appended a list of potential subcontractors, one of which was
+GE Energy's predecessor, Converteam. Id., at 184–185.

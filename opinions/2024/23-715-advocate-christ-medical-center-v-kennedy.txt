@@ -1,0 +1,541 @@
+Advocate Christ Medical Center v. Kennedy — No. 23-715 — October Term 2024 — decided 4/29/25 — opinion of the Court — author Barrett (listing code AB)
+Citation: 605 U.S. 1
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r28_limq.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Jackson, J., fled a dissenting opinion, in which Sotomayor, J., joined,
+post, p. 20.
+Melissa Arbus Sherry argued the cause for petitioners.
+With her on the briefs were Hyland Hunt, Ruthanne M.
+Deutsch, Daniel F. Miller , Sara J. MacCarthy , Heather D.
+Mogden, Eric J. Konopka, Jordan R. Goldberg, and Maureen
+O'Brien Griffn.
+Ephraim A. McDowell argued the cause for respondent.
+With him on the brief were Solicitor General Prelogar,
+Principal Deputy Assistant Attorney General Boynton,
+Deputy Solicitor General Kneedler , Mark B. Stern, and
+Stephanie R. Marcus.*
+Justice Barrett delivered the opinion of the Court.
+The Medicare program, which provides health insurance to
+elderly or disabled Americans, is governed by a notoriously
+complex statute. Unsurprisingly, then, the provision at
+issue in this case is highly technical: It prescribes a percent-
+age used to calculate the rate that the Government will pay
+a hospital that treats a disproportionate share of low-income
+Medicare patients. The percentage is determined by the
+sum of two fractions—the so-called Medicare fraction and
+Medicaid fraction. Relevant here, the numerator of the
+Medicare fraction counts the number of patient days attrib-
+utable to Medicare patients who were “entitled to benefits
+under [Medicare] part A” and were “entitled to supplemen-
+tary security income benefits . . . under subchapter XVI.”
+42 U. S. C. § 1395ww(d)(5)(F)(vi)(I).
+In Becerra v. Empire Health Foundation, for Valley Hos-
+pital Medical Center , we held that the phrase “ `entitled to
+*Briefs of amici curiae urging reversal were fled for the American
+Hospital Association et al. by Morgan L. Ratner; and for Twenty-Six State
+and Regional Hospital Associations by Robert L. Roth, Kelly A. Carroll,
+Sven C. Collins, and Lloyd A. Bookman.
+Alan J. Sedley fled a brief for the Empire Health Foundation as ami-
+cus curiae.
+[Medicare Part A] benefts' ” includes “all those qualifying
+for the program, regardless of whether they are receiving
+Medicare payments for part or all of a hospital stay.” 597
+U. S. 424, 445 (2022) (quoting § 1395ww(d)(5)(F)(vi)(I); alter-
+ation in original). We did not decide, however, what it
+means to be “entitled to supplementary security income ben-
+efts . . . under subchapter XVI.” § 1395ww(d)(5)(F)(vi)(I).
+Today, we hold that a person is entitled to such benefits when
+she is eligible to receive a cash payment during the month
+of her hospitalization.
+I
+The Medicare program reimburses hospitals that pro -
+vide inpatient services to Medicare beneficiaries. See
+§ 1395ww(d). As a rule, the “program pays a hospital a fxed
+rate for treating each Medicare patient, based on the pa-
+tient's diagnosis,” which is “designed to reflect the amounts
+an effciently run hospital, in the same region, would expend
+to treat a patient with the same diagnosis.” Id., at 429 (cit-
+ing §§ 1395ww(d)(1)–(4) and 42 CFR § 412.2 (2022)). Because
+the fxed-rate payment is provided “regardless of the hospi-
+tal's actual costs,” it “gives hospitals an incentive to provide
+efficient levels of medical service.” Empire Health, 597
+U. S., at 429.
+Congress also “provided for various hospital-specifc rate
+adjustments—including the one at issue here for treating
+low-income patients.” Ibid. That adjustment is called the
+“disproportionate share hospital” (DSH) adjustment, which
+provides “hospitals serving an `unusually high percentage of
+low-income patients' enhanced Medicare payments.” Ibid.
+(quoting Sebelius v. Auburn Regional Medical Center , 568
+U. S. 145, 150 (2013)). This adjustment accounts for the fact
+that “low-income individuals are often more expensive to
+treat than higher income ones, even for the same medical
+conditions.” Empire Health, 597 U. S., at 429. The en-
+hanced payment incentivizes hospitals to treat low-income
+patients. See ibid.
+In Empire Health, we described the DSH adjustment in
+great detail, so here, we will be brief. To calculate a hospi-
+tal's DSH adjustment, the Department of Health and Human
+Services (HHS) adds together “two statutorily described
+fractions, usually called the Medicare fraction and the Medic-
+aid fraction.” Ibid.; see § 1395ww(d)(5)(F)(vi). Together,
+these fractions are “designed to capture two different low-
+income populations that a hospital serves.” Id., at 429.
+The “Medicare fraction represents the proportion of a hospi-
+tal's Medicare patients who have low incomes, as identified
+by their entitlement to supplementary security income (SSI)
+benefits.” Id., at 429–430. And “[t]he Medicaid fraction
+represents the proportion of a hospital's patients who are not
+entitled to Medicare and have low incomes, as identified by
+their eligibility for Medicaid.” Id., at 430.
+Like Empire Health, this case concerns the Medicare frac-
+tion, which is defined as:
+“the fraction (expressed as a percentage), the numerator
+of which is the number of such hospital's patient days
+for such period which were made up of patients who (for
+such days) were entitled to benefits under part A of this
+subchapter and were entitled to supplementary security
+income benefits (excluding any State supplementation)
+under subchapter XVI of this chapter, and the denomi-
+nator of which is the number of such hospital's patient
+days for such fiscal year which were made up of patients
+who (for such days) were entitled to benefits under part
+A of this subchapter.” § 1395ww(d)(5)(F)(vi)(I). 1
+In plainer English, the Medicare fraction works like this:
+The numerator counts “the number of patient days attribut-
+1 Although the Medicare fraction employs the phrase “supplementary
+security income,” § 1395ww(d)(5)(F)(vi)(I) (emphasis added), subchapter
+XVI refers to this benefit as “supplemental security income,” § 1381 (em-
+phasis added). Despite the slight variation in wording, these two phrases
+refer to the same benefit.
+able to Medicare patients who are poor”—i. e., those Medi-
+care patients who are entitled to SSI benefits under subchap-
+ter XVI. Id., at 430. The denominator counts “the number
+of patient days attributable to all Medicare patients.” Ibid.
+When the Medicare fraction is expressed as a percentage and
+added to the Medicaid fraction's percentage, the sum of
+the two yields the “ `disproportionate patient percentage.' ”
+§ 1395ww(d)(5)(F)(vi). The resulting percentage “deter -
+mines whether a hospital will receive a DSH adjustment”—
+and if so, how much. Id ., at 431. “The higher the
+disproportionate-patient percentage,” the more funding a
+hospital receives. Id ., at 432 (citing §§ 1395ww(d)(5)
+(F)(vii)–(xiv)).
+For purposes of this case, the key phrase in the Medicare
+fraction is “entitled to supplementary security income bene-
+fts . . . under subchapter XVI.” § 1395ww(d)(5)(F)(vi)(I).
+Supplemental security income is “a subsistence allowance”
+offered to the country's “needy aged, blind, and disabled.”
+Schweiker v. Wilson, 450 U. S. 221, 223 (1981); see also § 1381
+(describing subchapter XVI as a “national program to pro-
+vide supplemental security income to individuals who have
+attained age 65 or are blind or disabled”). HHS interprets
+the relevant text to refer to patients who are “entitled to
+receive SSI benefits during the month” in which they were
+hospitalized. 75 Fed. Reg. 50281 (2010). 2
+2 To calculate the number of people eligible for SSI benefits in a particu-
+lar month, HHS obtains data from the Social Security Administration
+(SSA) that seeks to “captur[e] all SSI-entitled individuals during the
+month(s) that they are entitled to receive SSI benefits.” 75 Fed. Reg.
+50281. SSA collects this data by identifying certain “status codes” that
+indicate whether a person was entitled to SSI benefits during a particular
+month. Ibid. As part of a 2010 rulemaking, HHS evaluated various
+codes used by SSA and concluded that three codes (C01, M01, and M02)
+capture the relevant population of those entitled to a monthly SSI cash
+benefit. Ibid. Code C01 represents SSI enrollees who receive an auto-
+matic cash payment, and codes M01 and M02 represent SSI enrollees
+whose cash payments are managed manually. See Advocate Christ Medi-
+Petitioners, a group of more than 200 hospitals, disagree
+with this interpretation. They insist that the phrase encom-
+passes all patients enrolled in the SSI system at the time of
+their hospitalizations, even if those patients were not enti-
+tled to an SSI payment during that month. This approach
+sweeps more people into the numerator of the Medicare frac-
+tion, thereby increasing the amount of funding a hospital
+may receive. See §§ 1395ww(d)(5)(F)(vii)–(xiv). The hospi-
+tals claim that because HHS misconstrued the Medicare frac-
+tion, it underfunded them during the fiscal years 2006 to
+2009.
+The hospitals have lost at every step of this litigation.
+The Provider Reimbursement Review Board, a tribunal
+within HHS, denied the hospitals' request for additional re-
+imbursement on procedural grounds. The Centers for
+Medicare & Medicaid Services, which administers Medicare
+for HHS, also denied relief, this time on the merits. The
+hospitals then sought review in the District Court, which
+rejected their claims and granted summary judgment to
+HHS. See Advocate Christ Medical Center v. Azar, No. 17–
+cv–1519 (D DC, June 8, 2022), App. to Pet. for Cert. 18. The
+cal Center v. Becerra, 80 F. 4th 346, 350, n. 1 (CADC 2023). As part of
+that rulemaking, HHS rejected a proposal to begin using additional SSA
+codes that, according to the commenter, “represent individuals who [are]
+eligible for SSI, but not eligible for SSI payments” in a given month, in-
+cluding because the individual is in “suspended” status. 75 Fed. Reg.
+50280–50281; see 20 CFR §§ 416.1320–416.1330, 416.1339 (2024) (describing
+suspension of benefits payments). In rejecting this proposal, HHS ex-
+plained that “none of the SSI status codes . . . mentioned would be used
+to describe an individual who was entitled to receive SSI benefits during
+the month that one of those status codes was used.” 75 Fed. Reg. 50281.
+This case does not present the question whether HHS correctly includes
+only three SSI status codes as part of its calculation for the Medicare
+fraction. Below, the D. C. Circuit declined to consider whether HHS “un-
+reasonably excluded from the Medicare fraction individuals assigned codes
+`S' and `E02' ” because the hospitals raised the argument for the first time
+in their reply brief. 80 F. 4th, at 354. We too decline to consider this
+issue.
+D. C. Circuit also agreed with HHS. See Advocate Christ
+Medical Center v. Becerra, 80 F. 4th 346 (2023). In explain-
+ing that SSI benefits in “subchapter XVI [are] about cash
+payments for needy individuals,” the D. C. Circuit observed
+that “it makes little sense to say that individuals are `enti-
+tled' to the benefit in months when they are not even eligible
+for [a payment].” Id., at 352–353. We granted certiorari.
+602 U. S. 1021 (2024).
+II
+To determine when a person is “entitled to supplementary
+security income benefits,” § 1395ww(d)(5)(F)(vi)(I), we must
+know what the benefits are. See Empire Health, 597 U. S.,
+at 435–439. The answer is clear: SSI benefits are cash bene-
+fits. See 42 U. S. C. ch. 7, subch. XVI. Section 1381a,
+which describes the basic entitlement to benefits, provides
+that “[e]very . . . individual who is determined . . . to be
+eligible on the basis of his income and resources shall . . .
+be paid benefits by the Commissioner.” (Emphasis added.)
+The word “paid” obviously connotes a cash benefit. Section
+1382(b) sings the same tune: It specifies the amount that SSA
+is required to pay eligible individuals, stating that “[t]he ben-
+eft under this subchapter . . . shall be payable at the rate of
+[specific dollar amounts].” § 1382(b)(1). A benefit quanti-
+fed in dollar amounts is plainly a cash benefit. Echoing the
+point, other provisions explain how and when the cash bene-
+ft is to be paid to recipients. See, e. g., § 1383 (prescribing
+procedures for the “payment of benefits” (boldface deleted));
+§ 1383(a)(4)(A) (permitting a “cash advance against such ben-
+efts” to individuals in limited circumstances). 3 Subchapter
+XVI's codified statement of purpose is of a piece: to “estab-
+3 See also § 1382(h) (describing rules for “determining eligibility for, and
+the amount of, benefits payable” to individuals who receive other types of
+financial assistance); § 1382f(a) (providing an “[i]ncrease of dollar amounts”
+of SSI benefits based on cost-of-living adjustments (boldface deleted));
+§ 1383(b)(1)(A) (providing “appropriate adjustments in future payments”
+in the case of overpayments or underpayments of SSI benefits).
+lis[h] a national program to provide supplemental security
+income to individuals who have attained age 65 or are blind
+or disabled.” § 1381 (emphasis added). “Income” is “a gain
+or recurrent benefit that is usu[ally] measured in money and
+for a given period of time.” 2 Webster's Third New Inter-
+national Dictionary 1143 (1971).
+Statutory provisions outside subchapter XVI also under-
+stand the phrase “[SSI] benefits . . . under subchapter XVI”
+to mean a cash benefit. Take § 1320b–19 in subchapter XI,
+which directs the Commissioner of Social Security to estab-
+lish the Ticket to Work and Self-Suffciency Program. Sec-
+tion 1320b–19 defines the phrase “supplemental security in-
+come benefit” to mean “a cash benefit under section 1382 or
+1382h(a) of this title.” § 1320b–19(k)(5); see also § 1320a–
+6(b) (defining the term “supplemental security income bene-
+fts” to “mea[n] benefits paid or payable by the Commissioner
+of Social Security under subchapter XVI”). Same too in
+subchapter VIII, which provides special benefits for certain
+World War II veterans. There, Congress defined the
+“ `[f]ederal benefit rate under subchapter XVI' ” to mean
+“with respect to any month, the amount of the supplemental
+security income cash benefit.” § 1012(4).
+Just as subchapter XVI makes clear that SSI benefits are
+cash benefits, it also establishes that eligibility for such bene-
+fts is determined on a monthly basis. Section 1382(c)(1)
+provides that “[a]n individual's eligibility for a benefit under
+this subchapter for a month shall be determined” based on
+the individual's “income, resources, and other relevant char-
+acteristics in such month.” The statute's reference to termi-
+nation of benefits also refers back to months of ineligibility:
+An individual must reapply for the program after she has
+been “ineligible for benefits . . . for a period of 12 consecutive
+months.” § 1383( j)(1)(B). Other examples similarly con -
+frm that eligibility is a month-to-month inquiry. See, e. g.,
+§ 1382(e)(1)(A) (providing that “no person shall be an eligible
+individual . . . with respect to any month if throughout such
+month he is an inmate of a public institution”); § 1382(e)(1)(D)
+(providing that “[a] person may be an eligible individual . . .
+with respect to any month throughout which he is a resident
+of a public emergency shelter for the homeless”); §§ 1382(e)
+(4)(A)(i)–(ii) (providing that “[n]o person shall be considered
+an eligible individual . . . with respect to any month if during
+such month the person is . . . fleeing to avoid prosecution” or
+violating “a condition of probation or parole”).
+A note for the sake of completeness: While subchapter
+XVI speaks primarily in terms of eligibility for SSI benefits,
+the Medicare fraction focuses on whether an individual is
+entitled to such benefits. Nothing turns on this difference.
+In Empire Health, we treated the word “entitled” in the
+Medicare statute (including the Medicare fraction) as synon-
+ymous with “qualifying” for or “being eligible . . . for bene-
+fts.” 597 U. S., at 435. See also Webster's Third New In-
+ternational Dictionary 758 (1986) (defining “entitle” as “to
+give a right or legal title to” or to “qualify (one) for some-
+thing”); id., at 736 (defining “eligible” as “fitted or qualified
+to be chosen or used” or “entitled to something”). This case
+also involves the Medicare fraction, so we follow the same
+course. See Brown v. Gardner, 513 U. S. 115, 118 (1994)
+(noting that the presumption of consistent usage is “surely
+at its most vigorous when a term is repeated within a
+given sentence”).
+We therefore conclude that an individual is “entitled to
+[SSI] benefits . . . under subchapter XVI” when she is eligible
+to receive an SSI cash payment. And because eligibility is
+determined on a monthly basis, an individual is considered
+“entitled to [SSI] benefits” for purposes of the Medicare frac-
+tion only if she is eligible for such benefits during the month
+of her hospitalization.
+III
+The hospitals advance two primary arguments for reading
+the phrase “entitled to [SSI] benefits . . . under subchapter
+XVI” more broadly. First, they characterize SSI benefits
+as encompassing noncash benefits for which eligibility is
+not determined on a monthly basis. Second, the hospitals,
+joined by the dissent, argue that eligibility for SSI benefits
+persists until a person must reapply for them, which occurs
+after 12 consecutive months of ineligibility for a cash pay-
+ment. See § 1383(j)(1)(B).
+A
+As the hospitals see it, SSI benefits include both cash and
+noncash benefits—specifically, vocational rehabilitation serv-
+ices and continued Medicaid coverage. 4 And a patient re-
+mains eligible for these benefits, the hospitals assert, even
+in months when the patient does not receive a cash payment.
+The hospitals' theory stumbles out of the gate, because
+neither vocational rehabilitation services nor continued Med-
+icaid coverage fts the description of a “supplementa[l] se-
+curity income” benefit. § 1395ww(d)(5)(F)(vi)(I) (emphasis
+added). And even beyond that self-evident point, none of
+these benefits is housed “under subchapter XVI .” Ibid.
+(emphasis added).
+Begin with the hospitals' reliance on the Ticket to Work
+and Self-Suffciency Program. This program, which is avail-
+able to people eligible for SSI benefits based on disability or
+blindness, provides career development support and ex-
+panded employment opportunities through state agencies or
+private employment networks. See § 1320b–19. Because
+subchapter XI establishes the Ticket to Work program, it
+is not a benefit “under subchapter XVI.” § 1395ww(d)(5)
+(F)(vi)(I).
+Nor do any of subchapter XVI's other references to voca-
+tional rehabilitation services confer an SSI benefit. Section
+1382d(a), for example, requires the Commissioner to refer
+blind or disabled minors who receive SSI monthly cash pay-
+4 In the court below, the hospitals pressed Medicare Part D's prescrip-
+tion drug subsidy as another noncash SSI benefit. Because the hospitals
+have abandoned their reliance on that program, we do not address it.
+ments to the “appropriate State agency administering [a]
+State program under subchapter V” of the Social Security
+Act. The remainder of § 1382d authorizes SSA to “reim-
+burse” state agencies that administer or supervise “vo-
+cational rehabilitation services approved under title I of
+the Rehabilitation Act of 1973.” § 1382d(d). These express
+cross-references to subchapter V of the Social Security Act
+and title I of the Rehabilitation Act point to benefits housed
+elsewhere—not within subchapter XVI.
+The hospitals' reliance on continued Medicaid coverage
+also fails. In most States, eligibility for SSI benefits quali-
+fies an individual for Medicaid health coverage. See
+§ 1396a(a)(10)(A)(i)(II). Thus, if a person earns excess in-
+come and loses her eligibility for SSI payments, she gener-
+ally also loses access to Medicaid. See ibid.; Baystate Medi-
+cal Center v. Leavitt, 545 F. Supp. 2d 20, 37, n. 24 (DC 2008).
+Section 1382h(b) creates a limited exception to that default
+rule. It provides that “for purposes of subchapter XIX
+[governing Medicaid], any individual who was determined to
+be a blind or disabled individual eligible to receive [an SSI]
+benefit under section 1382” and “who in a subsequent month
+is ineligible for benefits under this subchapter” due to excess
+“income” is still “considered to be receiving [SSI] benefits.”
+§ 1382h(b). According to the hospitals, the benefit of contin-
+ued Medicaid coverage “arises solely out of section 1382h(b)”
+and therefore counts as an SSI benefit. Brief for Petition-
+ers 37.
+The hospitals are mistaken. Section 1382h(b) does not
+create a supplemental security income benefit—it aids in the
+administration of the Medicaid program. (Hence the open-
+ing phrase of § 1382h(b) states that the provision is “for pur-
+poses of subchapter XIX,” which governs Medicaid.) The
+provision merely allows certain blind or disabled people who
+are not eligible to receive SSI benefits in a given month to
+be treated as if they remain eligible for SSI benefits so that
+they can continue receiving Medicaid benefits. If continued
+Medicaid coverage is an SSI benefit under subchapter XVI,
+this is a very odd way of establishing it. Under the hospi-
+tals' theory, this provision confers an SSI benefit on people
+it simultaneously describes as “ineligible for [SSI] benefits.”
+§ 1382h(b). That defies common sense.
+B
+The hospitals, joined by the dissent, advance a second ar-
+gument: Eligibility, even for purely cash benefits, begins
+when a person enters the SSI system and continues until she
+has been ineligible for 12 consecutive months, at which point
+she must submit a new application for benefits. See post,
+at 26, 29–32 (opinion of Jackson, J.).
+To support this theory, the hospitals and the dissent em-
+phasize that when a person first applies for benefits, she
+must disclose her income “rate” “for the calendar year.”
+§ 1382(a)(1)(A); see post, at 30. True enough. But her “cal-
+endar year” income does not render her eligible for SSI ben-
+efts, nor does it establish that SSI benefits operate in inter-
+vals with a duration longer than one month. For that, she
+must still show that she meets the requirements for a given
+month. In fact, a nearby provision of the statute directs
+eligibility determinations “for a month” to be made “on the
+basis of the individual's . . . income, resources, and other rele-
+vant characteristics in such month.” § 1382(c) (emphasis
+added). And while the dissent looks to § 1383(a)(2)(B)(viii)
+for help, none is forthcoming. That the Commissioner may
+“defer (in the case of initial entitlement) or suspend (in the
+case of existing entitlement)” a payment of a benefit,
+§ 1383(a)(2)(B)(viii), merely addresses a question of timing—
+it does not, as the dissent suggests, “contemplate a long-term
+benefits relationship,” post, at 30.
+Nor does the reapplication requirement change the nature
+of eligibility. Under § 1383(j)(1)(B), a once-eligible individ-
+ual must submit a new application after she has been “ineli-
+gible for benefits . . . for a period of 12 consecutive months.”
+Note that this provision does not say that an individual re-
+mains eligible until this 12-month period has lapsed. On the
+contrary: It states that a person who “was an eligible in-
+dividual” at one point must reapply after 12 consecutive
+months of ineligibility . § 1383(j)(1)(A) (emphasis added).
+As the D. C. Circuit observed, “it makes little sense to say
+that individuals are `entitled' to the benefit in months when
+they are not even eligible for it.” 80 F. 4th, at 353. 5
+Leaning on Empire Health, which dealt with Medicare
+Part A, the hospitals and the dissent urge us to think of
+SSI benefits as an “income-insurance program.” Brief for
+Petitioners 41; see post, at 35. The shoe does not ft. In-
+surance programs generally “provid[e] basic protection
+against [certain future] costs,” including, in the case of Medi-
+care Part A, “the costs of hospital, related post-hospital,
+home health services, and hospice care.” § 1395c (describing
+Medicare Part A as an “insurance program”). SSI benefits,
+by contrast, do not provide an ongoing backstop against un-
+expected costs—they operate as a welfare payment that
+directly subsidizes recipients' income. See Schweiker, 450
+U. S., at 223 (describing SSI as “provid[ing] a subsistence
+allowance”); Bowen v. Galbreath, 485 U. S. 74, 75 (1988) (de-
+scribing SSI as a “welfare program”).
+5 Moreover, this provision appears to be a housekeeping measure: Added
+roughly 14 years after SSI benefits were established, it ties the reapplica-
+tion process to SSA's longstanding practice of removing people from its
+database after 12 months of ineligibility. See 101 Stat. 3576; Tr. of Oral
+Arg. 60. Nor do other housekeeping provisions demonstrate that eligibil-
+ity for SSI benefits is determined on something other than a monthly
+basis. See, e. g., § 1383(e)(1)(B)(ii)(II)(bb) (ensuring SSA's access to bene-
+ft recipient's financial information until “the cessation of the recipient's
+eligibility for benefits under this subchapter”); § 1382c(a)(3)(H)(ii)(I) (re-
+quiring SSA to review, at least “once every 3 years,” “the continued eligi-
+bility for benefits under this subchapter of each individual who has not
+attained 18 years of age and is eligible for such benefits by reason of an
+impairment . . . likely to improve”).
+Notwithstanding these differences, the hospitals and the
+dissent insist that consistency with Empire Health requires
+us to reject HHS's interpretation. See Brief for Petitioners
+19–21; post, at 33–36. Recall that in Empire Health, we in-
+terpreted “ `entitled to [Medicare Part A] benefts' ” to mean
+“all those qualifying for the program, regardless of whether
+they are receiving Medicare payments for part or all of a
+hospital stay.” 597 U. S., at 445 (quoting § 1395ww(d)(5)(F)
+(vi)(I); alteration in original). So too here, the hospitals and
+the dissent assert: Being “entitled to [SSI] benefits” means
+that a patient is entitled to SSI benefits even if she does not
+qualify for a payment during the month of hospitalization. 6
+Yet rather than supporting this interpretation, Empire
+Health cuts against it. We defined the entitlement to bene-
+fts under Medicare Part A after carefully examining the
+prerequisites and characteristics of that particular benefit.
+See id., at 435–439. Medicare Part A, we observed, pro-
+vides automatic and ongoing health insurance to individuals
+over the age of 65 or who have a chronic disability. Id., at
+435–436. And we explained that the Medicare Part A enti-
+tlement “never goes away” unless a benefciary's chronic
+“disability diminishes,” and that “the stoppage of payment
+for any given service cannot be thought to affect the broader
+statutory entitlement to Part A benefits.” Id., at 437. For
+example, even if a patient “hit some limit on coverage” for
+eye care under Part A, the “policy [would] pay for more eye
+6 The dissent also criticizes our reading of the statute on the ground that
+it excludes from the Medicare fraction's numerator certain patients who
+fail to receive payment during their month of hospitalization due to rea-
+sons unrelated to income. See post, at 28. But Congress's decision to
+exclude certain individuals from eligibility for SSI benefits under subchap-
+ter XVI reflects that “the SSI program is broad in its reach, [but] its
+coverage is not complete.” Schweiker v. Wilson, 450 U. S. 221, 224 (1981).
+And again, we take no position on whether HHS has unreasonably ex-
+cluded particular codes from the Medicare fraction.
+care in the next coverage period and meanwhile will pay for
+[a] knee replacement.” Ibid.
+Just as our decision in Empire Health turned on the spe-
+cifc features of Medicare Part A, this case turns on the spe-
+cifc features of SSI benefits under subchapter XVI. And a
+comparison of the two programs reveals critical distinctions.
+Again, while Medicare Part A benefits extend beyond spe-
+cifc payments for any given medical need, SSI benefits
+under subchapter XVI consist of monthly cash payments and
+nothing more. And while Medicare Part A's entitlement is
+automatic and ongoing (with the exception of a disability that
+diminishes), the SSI benefit is neither: Recipients must apply
+for and be deemed eligible for benefits, and recipients can
+(and do) fuctuate in and out of eligibility depending on their
+income and resources from one month to the next. Consist-
+ency with Empire Health's beneft-focused analysis thus
+requires us to recognize and give effect to the differences
+between Medicare Part A and SSI benefits.
+C
+Finally, invoking statutory purpose, the hospitals and the
+dissent insist that their interpretation of “entitled to [SSI]
+benefits . . . under subchapter XVI” best accords with “Con-
+gress's ultimate goal [of] provid[ing] hospitals that serve
+the neediest among us with the appropriate level of critical
+funds.” Post, at 21. (Indeed, the dissent frames its argu-
+ment as one primarily about the statute's purpose and only
+secondarily about its text.) They regard our reading as in-
+consistent with the overall purpose of the Medicare fraction
+and DSH adjustment, because people who happen not to
+qualify for an SSI cash payment in a given month are un-
+likely to be any healthier or less costly to treat from one
+month to the next. As they see it, including these patients
+in the numerator of the Medicare fraction better measures a
+hospital's burden, ensuring that the hospital receives “the
+appropriate level of critical funds.” Ibid.
+This argument overlooks that Congress chose a specific
+means to advance its end of better funding hospitals that
+care for a disproportionate percentage of needy Medicare pa-
+tients. It could have chosen another. For instance, it could
+have captured the number of poor Medicare patients by rely-
+ing on proof of annual income. (That measure might in-
+crease the numerator and therefore the reimbursement rate.)
+Alternatively, it could have more precisely isolated the
+expensive-to-treat Medicare patients by using not only their
+annual incomes, but also their health histories. (That meas-
+ure might decrease the numerator and therefore the reim-
+bursement rate.) But instead of choosing one of these (or
+some other) option, Congress decided to approximate a hos-
+pital's share of expensive-to-treat Medicare patients by using
+the patient's entitlement to SSI benefits under subchapter
+XVI. That is not a perfect measure of income—but neither
+is income a perfect measure of whether a patient is more
+costly to treat. In the end, the Medicare fraction and ulti-
+mate DSH adjustment reflect a balance of multiple compet-
+ing interests, including increased funding for hospitals, ad-
+ministrability, efficiency, and allocation of fnite resources.
+So yes, Congress sought to increase the reimbursement
+rate for hospitals that care for a disproportionate share of
+low-income Medicare patients. But as we have explained
+many times before, “[n]o statute pursues a single policy at
+all costs, and we are not free to rewrite this statute (or any
+other) as if it did.” Bartenwerfer v. Buckley, 598 U. S. 69,
+81 (2023); Luna Perez v. Sturgis Public Schools, 598 U. S.
+142, 150 (2023) (“no law ` “pursues its . . . purpose[s] at all
+costs” ' ” (alterations in original)); American Express Co. v.
+Italian Colors Restaurant, 570 U. S. 228, 234 (2013) (same);
+Kucana v. Holder, 558 U. S. 233, 252 (2010) (same); Rodri-
+guez v. United States, 480 U. S. 522, 525–526 (1987) (per cu-
+riam) (same). We must determine how Congress chose to
+pursue its objective. Henson v. Santander Consumer USA
+Inc., 582 U. S. 79, 89 (2017) (“Legislation is, after all, the art

@@ -1,0 +1,530 @@
+Hamm v. Smith — No. 24-872 — October Term 2025 — decided 5/21/26 — Thomas, J., dissenting
+Citation: 608 U.S 278
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r35_j4el.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+572 U. S., at 723 (second alteration in original). In close
+cases such as this one, the inquiry may well involve a sub-
+stantial amount of evidence, but that inquiry is nevertheless
+critical to avoid the “unacceptable risk that persons with in-
+tellectual disability will be executed” contrary to the Eighth
+Amendment. Id., at 704.
+* * *
+In cases presenting multiple IQ scores, courts should con-
+tinue to consider multiple IQ scores in light of this Court's
+precedents and “ `the views of medical experts.' ” Moore, 581
+U. S., at 5. If a conflict among the States or lower courts
+emerges and a case properly presents the issue, it may be
+appropriate for this Court to weigh in with more specific
+guidance about the permissible method or methods by which
+courts must analyze such scores. The Court rightly decides
+that it is inappropriate to do so in this case. I therefore
+concur in the decision to dismiss the writ of certiorari as
+improvidently granted.
+Justice Thomas, dissenting.
+In 1997, Joseph Clifton Smith murdered Durk Van Dam.
+The trial court, accepting the jury's recommendation, sen-
+tenced Smith to death. Smith lost his appeal in 2001. But
+a year later, in Atkins v. Virginia, 536 U. S. 304 (2002), this
+Court held for the first time that convicted murderers like
+Smith cannot be executed if they are deemed insufficiently
+intelligent, which the Court suggested would require that
+they had an IQ of 70 or below. Id., at 308–309, and n. 3,
+316–321. Such persons could not be executed, the Court
+said, even if they “know the difference between right and
+wrong,” even if they “are competent to stand trial,” and even
+if they are intelligent enough to deserve other “criminal
+sanctions.” Id., at 318. The Court did not pretend that the
+Constitution had ever been understood to impose such a rule.
+Id., at 340–341 (Scalia, J., dissenting). Just 13 years earlier,
+it had acknowledged the opposite. Penry v. Lynaugh, 492
+U. S. 302, 330–335 (1989). But the Court set aside the Con-
+stitution and imposed a new rule anyway. The result was
+predictable: To avoid execution, Smith tried to convince
+courts that he is not intelligent enough to be executed.
+Today, the Court rewards Smith's efforts. It dismisses
+the State's petition challenging the lower courts' vacatur of
+his death sentence under Atkins. But Smith is not insuff-
+ciently intelligent to be executed. He can read at an 11th-
+grade level. He took fve IQ tests and did not once receive
+a score of 70 or below, instead scoring 75, 74, 72, 78, and 74.
+The lower courts held that he could not be executed based
+only on the hypothetical possibility that these IQ scores
+were all wrong and that his IQ is in fact 70 or below. I join
+Justice Alito's opinion because it persuasively explains
+why that approach is statistically indefensible.
+As this case shows, though, Atkins has bred only confusion
+and absurdity. Nothing in the text or history of the Consti-
+tution supports Atkins. It should be overruled.
+I
+A
+In 1997, just two days after being released from custody
+for burglary, Joseph Clifton Smith murdered Durk Van Dam.
+Smith plotted with his friend Larry Reid to rob Van Dam,
+whom they heard was carrying cash. They lured Van Dam
+to an isolated location. There, Smith and Reid beat Van
+Dam and attacked him with a power saw, eventually killing
+him. Smith and Reid then divided the money that they
+stole from Van Dam. Smith told one person that he had hit
+Van Dam on the head and cut him, and he told another that
+he had hit, cut, and stabbed Van Dam.
+The police discovered Van Dam's badly mutilated body in
+a wooded area. He had injuries from the saw on his neck,
+shoulder, and back. He also suffered a hemorrhage under
+his scalp, broken ribs, and brain swelling. The broken ribs
+caused one of Van Dam's lungs to collapse. A forensic pa-
+thologist testifed that 35 blunt-force injuries caused his
+death. He died trying to defend himself.
+A jury convicted Smith of murdering Van Dam and recom-
+mended that he be sentenced to death. The trial court
+found three aggravating circumstances and no significant
+mitigating circumstances. The three aggravating circum-
+stances were that Smith was on leave from his term of im-
+prisonment for burglary at the time of the murder; that the
+murder occurred during a robbery; and “that the murder was
+especially heinous, atrocious, or cruel.” Smith v. State, 795
+So. 2d 788, 797, n. 1, 841–842 (Ala. Crim. App. 2000) (per cu-
+riam). As for mitigating circumstances, the trial court re-
+jected Smith's arguments that his bad upbringing or lack of
+intelligence justified a sentence other than death. It ex-
+plained that Smith's upbringing did not “ `justify a[n] act of
+senseless rage directed at an innocent human being.' ” Id.,
+at 841. And it found that Smith's “ `lack of intelligence is
+not an excuse for murder, especially in the context of this
+case.' ” Ibid. Smith “knew he had,” in his words, “F–––
+Up,” and, “while in control [of himself,] he savagely at-
+tacked” Van Dam. Ibid. (internal quotation marks omitted).
+The trial court accepted the jury's recommendation and sen-
+tenced Smith to death.
+The Alabama Court of Criminal Appeals affirmed the con-
+viction and death sentence. Id., at 842. Both the Supreme
+Court of Alabama and this Court denied certiorari. Ex parte
+Smith, 795 So. 2d 842 (2001); Smith v. Alabama, 534 U. S.
+872 (2001).
+B
+A year later, this Court's decision in Atkins opened a new
+avenue for convicted murderers such as Smith to challenge
+their death sentences.
+Atkins arose out of another robbery and murder. Daryl
+Atkins and a friend abducted and robbed a United States
+airman named Eric Nesbitt. 536 U. S., at 307; id., at 338
+(Scalia, J., dissenting). After abducting and robbing him,
+Atkins shot Nesbitt eight times, killing him. Id., at 307 (ma-
+jority opinion). The jury found Atkins guilty of capital mur-
+der. At the penalty phase, the jury heard “extensive evi-
+dence” of Atkins's “alleged mental retardation,” including
+testimony from a psychologist that Atkins “was `mildly men-
+tally retarded' ” with an “IQ of 59,” and testimony from an-
+other psychologist who concluded that Atkins was “of `aver-
+age intelligence, at least.' ” Id., at 308–309; id., at 338–339
+(Scalia, J., dissenting). The jury also learned that Atkins
+had “16 prior felony convictions for robbery, attempted rob-
+bery, abduction, use of a firearm, and maiming.” Id., at 339.
+Atkins had previously attacked a different victim with a gun,
+“knocked her to the ground, and then helped her up, only
+to shoot her in the stomach.” Ibid. After hearing all the
+evidence, the jury sentenced Atkins to death. Ibid.; id., at
+309 (majority opinion).
+This Court held that Atkins's sentence was unconstitu-
+tional “cruel and unusual punishment” under the Eighth
+Amendment. Id., at 311, 321. The Court said that the
+Eighth Amendment prohibits all “ `[e]xcessive' sanctions.”
+Id., at 311. Whether a punishment was excessive, the Court
+said, depended not on the “standards that prevailed . . . when
+the Bill of Rights was adopted,” but on the “ `evolving stand-
+ards of decency that mark the progress of a maturing soci-
+ety.' ” Id., at 311–312 (quoting Trop v. Dulles, 356 U. S. 86,
+100–101 (1958)). According to the Court, “the American
+public, legislators, scholars, and judges ha[d] deliberated”
+over whether “the death penalty should ever be imposed on
+a mentally retarded criminal” and decided that it should not.
+Atkins, 536 U. S., at 307, 313–317. The Court concluded
+that there was a “national consensus” against imposing the
+death penalty on the mentally retarded, largely because 18
+States barred it. Id., at 314–316. The Court itself agreed
+with this supposed “consensus”; it was “not persuaded that
+the execution of mentally retarded criminals will measurably
+advance the deterrent or the retributive purpose of the
+death penalty.” Id., at 321.
+The Atkins Court promised that it would allow States to
+define mental retardation. It admitted that there was “seri-
+ous disagreement” about “determining which offenders are
+in fact retarded.” Id., at 317. Accordingly, the Court de-
+cided to “ `leave to the State[s] the task of developing appro-
+priate ways to enforce the constitutional restriction upon
+[their] execution of sentences.' ” Ibid. So, despite the
+Court's holding that the Eighth Amendment forbids “the ex-
+ecution of mentally retarded offenders,” whether an offender
+was “mentally retarded” would depend on state rules. Ibid.
+Still, the Court suggested that someone with an IQ above
+70 could not be mentally retarded for Eighth Amendment
+purposes. See id., at 308, n. 3, 316–318; Brumfeld v. Cain,
+576 U. S. 305, 345–346 (2015) (Thomas, J., dissenting). The
+Court drew from “clinical definitions of mental retardation”
+that include three necessary elements. Atkins, 536 U. S., at
+318. First, the offender must have “ `subaverage intellec-
+tual functioning' ” based primarily on IQ tests. Id., at 308,
+n. 3, 318. Second, he must have “significant limitations in
+adaptive skills such as communication, self-care, and self-
+direction.” Id., at 318. And third, these limitations must
+have manifested before age 18. Ibid. “ `Mild' mental retar-
+dation,” the Court explained, “is typically used to describe
+people with an IQ level of 50–55 to approximately 70.” Id.,
+at 308, n. 3. Apparently drawing on that category's upper
+limit, the Court noted that “only fve [States] ha[d] executed
+offenders possessing a known IQ less than 70 since” 1989.
+Id., at 316. It was thereafter reasonable to understand At-
+kins to allow States to execute people with IQs above 70.
+See Brumfeld, 576 U. S., at 345–346 (Thomas, J., dissenting).
+C
+In the years since, the Alabama courts have faithfully ap-
+plied that understanding of Atkins. When called to imple-
+ment it, they observed that other “states with statutes pro-
+hibiting the execution of a mentally retarded defendant
+require that a defendant, to be considered mentally retarded,
+must have significantly subaverage intellectual functioning
+(an IQ of 70 or below), and significant or substantial defcits
+in adaptive behavior” “before the defendant reached age 18.”
+Ex parte Perkins, 851 So. 2d 453, 456 (Ala. 2002); see also
+Ex parte Smith, 213 So. 3d 214, 224 (Ala. 2003). Consistent
+with Atkins, the Alabama courts held that “[a]ll three factors
+must be met in order for a person to be classified as mentally
+retarded for purposes of an Atkins claim.” Smith v. State,
+213 So. 3d 239, 248 (Ala. 2007). And, consistent with Atkins,
+they held that the prisoner has the burden to prove that he
+is mentally retarded by a preponderance of the evidence.
+213 So. 3d, at 252.
+When it came to applying Atkins to Smith, the Alabama
+courts had no trouble recognizing that he did not satisfy the
+first requirement and therefore is not mentally retarded.
+The Court of Criminal Appeals explained that, by 2008,
+Smith had scored 75, 74, and 72 on three IQ tests. Smith v.
+State, 71 So. 3d 12, 19–20 (2008). Though his lowest score
+suggested that Smith's true IQ “could be . . . as low as 69”
+taking account of the error range for that score, it could also
+be “as high as 75.” Id., at 19. Smith asked the court “to
+apply that margin of error to conclude that . . . he is mentally
+retarded.” Id., at 20. But the court rejected that argu-
+ment, which would require “expanding the definition of men-
+tally retarded” to include people whose true IQ is likely
+above 70. Ibid.
+Unable to persuade the Alabama courts that he was men-
+tally retarded, Smith sought habeas relief in federal court,
+arguing that the Alabama courts unreasonably applied At-
+kins. See 28 U. S. C. § 2254(d). The District Court initially
+denied habeas relief for the straightforward reason that the
+Court of Criminal Appeals did not act unreasonably when it
+refused to “reduc[e]” Smith's lowest “IQ score of 72 such that
+[it] would . . . fall within the mental retardation range.”
+Smith v. Thomas, No. 05–cv–0474 (SD Ala., Sept. 30, 2013),
+ECF Doc. 59, pp. 61–62. Smith's own expert, the court ex-
+plained, testifed that his scores were at best close “ `to those
+individuals who would be considered mentally retarded' ”—
+a conclusion that “is incompatible with a determination that
+Smith is mentally retarded himself.” Id., at 60 (emphasis
+deleted). And, the court observed, “every IQ test adminis-
+tered to Smith during his developmental period yielded an
+unadjusted score above the cutoff for mental retardation.”
+Id., at 61, n. 24.
+The Eleventh Circuit disagreed. It thought that it was
+“unreasonable” to suppose that Smith did not have signif-
+cantly subaverage intelligence. Smith v. Campbell, 620 Fed.
+Appx. 734, 750–751 (2015). The court ordered the District
+Court to give Smith a new hearing for reconsideration of his
+Atkins claim de novo. 620 Fed. Appx., at 751–752.
+D
+Smith would go to his hearing armed with new decisions
+of this Court. In Hall v. Florida, 572 U. S. 701 (2014), this
+Court acknowledged that States can require defendants to
+show an IQ of 70 or below in order to establish that they are
+mentally retarded, but held that States must in some manner
+account for the test's standard error range. States may,
+“consistently with Atkins,” define mental retardation to re-
+quire an IQ of “70 points” or below if they consider “the
+IQ test's standard error of measurement.” Id., at 711–712.
+Under Florida's test, as the Court understood it, a prisoner
+with a single IQ score of 71 whose error range included 70
+would be conclusively not mentally retarded even if “other
+evidence” suggested that his “true IQ” was in fact 70 or
+below. Id., at 712, 713. The Court thought that this “strict
+IQ test score cutoff of 70” was impermissible because it “ig-
+nores the inherent imprecision of” IQ tests and “risks exe-
+cuting a person who suffers from intellectual disability.”
+Id., at 712–713, 723. Hall therefore held it unconstitutional
+to treat as decisive a single above-70 score whose error range
+includes 70. Id., at 723–724. In imposing this new consti-
+tutional rule, Hall relied on “medical experts” and “profes-
+sional studies.” Id., at 709–710.
+Hall did not tell courts what to do when low scores whose
+error ranges touch 70 are paired with multiple higher scores
+whose error ranges do not. The Court, as in Atkins, left
+States without guidance: “[T]he analysis of multiple IQ
+scores jointly is a complicated endeavor.” 572 U. S., at 714.
+Exactly how courts should weigh multiple IQ scores re-
+mained unclear. See id., at 742–743 (Alito, J., dissenting).
+The next two decisions further walked back Atkins's
+promise to allow States to define mental retardation and in-
+stead outsourced the project to clinical practice. In Moore
+v. Texas, 581 U. S. 1 (2017) (Moore I), the Court reiterated
+that “courts must account for” a test's error range “where
+an IQ score is close to, but above, 70” because “other evi-
+dence” may show that “ `[the] individual's true IQ score' ” is
+70 or less. Id., at 13–15. The Court also told lower courts
+not to “overemphasiz[e] . . . perceived adaptive strengths”
+when considering whether the prisoner has “significant adap-
+tive defcits” under the second element of the mental-
+retardation definition. Id., at 15–16. And it criticized the
+use of factors under that element that invite “lay perceptions
+of intellectual disability” and “lay stereotypes” to guide the
+analysis. Id., at 18. Then, in a second Moore v. Texas, 586
+U. S. 133 (2019) (per curiam) (Moore II), the Court reaffirmed
+these additional restrictions. Id., at 139–143. The Court in
+Moore I and Moore II based its conclusions, not on States' ac-
+tual practices, as in Atkins, but “solely on what it deem[ed] to
+be medical consensus about intellectual disability.” See
+Moore I, 581 U. S., at 22, 29 (Roberts, C. J., dissenting).
+E
+After these decisions, Smith returned to the District
+Court. Smith v. Dunn , No. 05–cv– 00474 (SD Ala.,
+Aug. 17, 2021), ECF Doc. 135. Since the last hearing,
+Smith's expert had administered a test on which Smith
+scored 78, making his claim of mental retardation even more
+implausible. App. 167, 218. The expert admitted that “78
+is definitely above 70 to 75 IQ range” and indicates an IQ as
+high as 83. Id., at 167, 218–219. In addition, another test
+his own expert administered indicated that Smith reads “at
+an 11th-grade level”—a result that the expert admitted is
+“not consistent” with mental retardation. Id., at 228–229.
+In 2017, the State's expert administered a fifth IQ test on
+which Smith, again, scored higher than 70. Smith scored a
+74. Even in isolation, that score yielded a 90th percentile
+confidence level that Smith's IQ is 71 to 78. Id., at 268. The
+State's expert also emphasized that Smith “show[ed] up at
+an 11th-grade level with regard to sentence comprehension,”
+a fact that is “totally inconsistent with intellectual disabil-
+ity.” Id., at 285. Overall, both experts agreed that Smith's
+IQ scores over 35 years demonstrated a remarkably consist-
+ent pattern. Id., at 167, 270. The IQ scores before the Dis-
+trict Court were 75, 74, 72, 78, and 74.
+Nonetheless, the District Court found that Smith is men-
+tally retarded and therefore that his death sentence was un-
+constitutional. ECF Doc. 135, p. 7. The court conceded
+that Smith's performance on the test the State's expert ad-
+ministered is “above what is considered significant subaver-
+age intellectual functioning.” Ibid. It further acknowl-
+edged that “multiple IQ scores . . . taken over a long period
+of time place him in the borderline range, functioning just
+above intellectual disability.” Ibid. The court admitted
+that “this leans in favor of finding that Smith does not have
+significant subaverage intellectual functioning.” Ibid. But
+it still did “not find it strong enough” to not move on to the
+second step of Alabama's mental-retardation test and ad-
+dress Smith's “adaptive defcits.” Ibid. The District Court
+thought that Smith's scores left it “not clear” whether he
+was mentally retarded because his lowest score, 72, “could
+mean his IQ is actually as low as 69.” Id., at 5, 10 (emphasis
+added). So the court moved on. Because of Smith's adap-
+tive defcits, the court found that he has significant subaver-
+age intellectual functioning. After concluding that Smith is
+mentally retarded, the court vacated his death sentence.
+Id., at 4–13.
+The Eleventh Circuit affirmed. Smith v. Commissioner,
+Ala. Dept. of Corrections, 67 F. 4th 1335 (2023) (per curiam ).
+The court acknowledged that “[w]hether Smith has signif-
+cantly subaverage intellectual functioning turns on whether
+he has an IQ equal to or less than 70.” Id., at 1345 (citing
+Ex parte Perkins, 851 So. 2d, at 456). Given that Smith had
+fve IQ scores ranging from 72 to 78, one would have thought
+that this acknowledgment would have resolved the case
+against Smith. Nevertheless, the court reasoned that “a
+district court must move on to consider an offender's adap-
+tive functioning when the lower end of his lowest IQ score
+is equal to or less than 70,” no matter how many higher test
+results he has. 67 F. 4th, at 1346; accord, id., at 1347. In
+other words, even if Smith had scored four 120s, a single
+72 would allow the court to move on to the other mental-
+retardation factors. “Smith carried his burden under the in-
+tellectual prong,” the court held, because he “needed to
+prove only that the lower end of his standard-error range is
+equal to or less than 70.” Id., at 1349.
+When Alabama petitioned this Court for certiorari, we
+granted the petition and vacated the Eleventh Circuit's judg-
+ment. Hamm v. Smith, 604 U. S. 1 (2024) (per curiam ).
+The Court asked for clarification about the Eleventh Circuit's
+reasoning. Id., at 2. On one reading, the Court thought,
+the Eleventh Circuit's decision “would suggest a per se rule
+that the lower end of the standard-error range for an offend-
+er's lowest score is dispositive.” Ibid. Another reading,
+under which the decision would be more defensible, “would
+suggest a more holistic approach to multiple IQ scores that
+considers the relevant evidence.” Ibid. The Court then in-
+vited the Eleventh Circuit to clarify which of those two
+meanings it intended. Id., at 2–3.
+Taking the hint, the Eleventh Circuit clarified that it
+meant the more “ `holistic approach to multiple IQ scores.' ”
+Smith v. Commissioner, Ala. Dept. of Corrections, 2024 WL
+4793028, *1 (Nov. 14, 2024) (per curiam ). The court, again,
+upheld the District Court's analysis on the first element be-
+cause the District Court “found that Smith's IQ scores could
+not rule out the possibility that Smith is intellectually dis-
+abled.” Id., at *3 (emphasis added). And, based on that
+reasoning, the court went on to conclude, not that Smith's
+true IQ is likely 70 or lower, but that it “could be less than
+or equal to 70.” Ibid. (emphasis added).
+This Court, again, granted certiorari. It appeared ready
+to decide “[w]hether and how courts may consider the cumu-
+lative effect of multiple IQ scores in assessing an Atkins
+claim.” 605 U. S. 1001 (2025).
+Today, however, the Court dismisses the State's petition
+as improvidently granted, without explanation. The effect
+of the Court's failure, twice in this case, to bring clarity to
+precedents that manifestly “lac[k] clarity” is that Alabama
+will not be able to carry out its lawful sentence. Moore II,
+586 U. S., at 143 (Roberts, C. J., concurring).
+II
+We should end the hopeless enterprise that this Court
+today shows it cannot control. Because nothing in the text
+and history of the Eighth Amendment justifies Atkins, it is
+demonstrably erroneous. And because we cannot favor de-
+cisions lying “outside the realm of permissible interpreta-
+tion” “over the text of the Constitution,” we should overrule
+Atkins. Gamble v. United States, 587 U. S. 678, 711–712
+(2019) (Thomas, J., concurring). Atkins also cannot survive
+this Court's more recent stare decisis criteria because it is
+egregiously wrong, unworkable, and has created no legiti-
+mate reliance interests.
+A
+Atkins is demonstrably erroneous. It is irreconcilable
+with the Eighth Amendment's original meaning, and nothing
+in the common law supports it.
+1
+The Eighth Amendment prohibits “cruel and unusual pun-
+ishments.” As originally understood, that prohibition con-
+cerns cruel and unusual methods of punishment. Grants
+Pass v. Johnson, 603 U. S. 520, 541–543 (2024); accord, Al-
+dridge v. Commonwealth, 2 Va. Cas. 447, 449–450 (1824)
+(“merely applicable to the modes of punishment”). Because
+capital punishment need not be cruel and has not “long fallen
+out of use,” the “Constitution allows” it. Bucklew v. Pre-
+cythe, 587 U. S. 119, 129–130 (2019).
+The concept of “cruel” punishments originally meant what
+it usually means now: “savage” or “barbarous” punishments
+that “give pain to others, in body or mind.” N. Webster, An
+American Dictionary of the English Language (1828).
+Thus, punishments like crucifxion or immolation are “cruel,”
+but death, by itself, is not. See In re Kemmler , 136 U. S.
+436, 446 (1890). In England, capital punishment generally
+consisted in “being hanged by the neck till dead,” 4 W. Black-
+stone, Commentaries on the Laws of England 370 (1769)
+(Blackstone), a method that often involved no pain if per-
+formed as intended, S. Banner, The Death Penalty: An
+American History 170 (2002). But for especially “atrocious
+crimes” such as high treason, English law contemplated en-
+hanced punishments, including “embowelling alive, behead-
+ing, and quartering.” 4 Blackstone 370. The cruelty of
+such punishments consisted in the intentional “superadd[i-
+tion]” of “terror, pain, or disgrace” to death. Ibid. By the
+founding, these enhanced death sentences were theoretically
+still authorized, but they had “ `dwindled away' and would
+for that reason have been `unusual' in the sense that they
+were no longer `regularly or customarily employed.' ” Baze
+v. Rees, 553 U. S. 35, 97 (2008) (Thomas, J., concurring in
+judgment).
+Supporters of the Eighth Amendment were concerned
+that Congress, like Parliament before it, might enhance pun-
+ishments with cruelty that had by the founding fallen into
+disuse. See id., at 97–98. One speaker at the Massachu-
+setts ratifying convention complained that the original Con-
+stitution “nowhere restrained” Congress “from inventing the
+most cruel and unheard-of punishments,” leaving “racks and
+gibbets” as “amongst the most mild instruments of their dis-
+cipline. 2 Debates on the Constitution 111 (J. Elliot ed., 2d
+ed. 1891). And Patrick Henry complained that, without a
+Bill of Rights, Congress could inflict “tortures, or cruel and
+barbarous punishment[s].” 3 id., at 447–448.
+Atkins claims, including Smith's, have nothing to do with
+these concerns. Executing someone with a particular IQ
+does not implicate a “method” of execution at all. It cer-
+tainly does not implicate a method that rises to the level of
+deliberate and unusual torture. It is therefore beyond the
+scope of the Eighth Amendment.
+2
+The only possible historical analogue to Atkins's doctrine
+was a common-law protection that cannot justify it. At com-
+mon law, the severely mentally retarded—whom the common
+law called “idiots”—could not be punished. 4 Blackstone
+24–25. The common law protected such people from punish-
+ment because their disability is so severe that they lack
+“knowledge to distinguish between good and evil”—“[t]hey
+are forgiven for they know not what they do!” A. High-
+more, Law of Idiocy and Lunacy 195 (1807) (Highmore). Idi-
+ots, said Hale, have “no possibility to understand, what is
+forbidden by law to be done, or under what penalties.” 1
+M. Hale, Pleas of the Crown 34 (1736) (Hale).
+In modern parlance, one had to be “severely” or “pro-
+foundly” mentally retarded to be a common-law idiot.
+Penry, 492 U. S., at 333. Psychiatrists recognize “four de-
+grees of mental retardation: mild, moderate, severe, and pro-
+found.” Smith, 213 So. 3d, at 248–249, and n. 3. “ `Mild'
+mental retardation,” Atkins explained, “is typically used to
+describe people with an IQ level of 50–55 to approximately
+70.” 536 U. S., at 308, n. 3. People within this category
+“know the difference between right and wrong and are com-
+petent to stand trial.” Id., at 318. “Moderate” describes
+those whose IQs are 35–40 to 50–55. Smith, 213 So. 3d, at
+249, n. 3. “Severe” describes those whose IQs are 20–25 to
+35–40. Ibid. And “profound” describes those whose IQs
+are below 20 or 25. Ibid. This Court has explained that
+common-law idiots generally had IQs around 25, making
+them severely or profoundly mentally retarded. See Penry,
+492 U. S., at 333.
+The common law therefore provides no support for Atkins
+claims, as this case demonstrates. No one contends that
+Smith is a common-law idiot. He reads at an 11th-grade
+level. His IQ is above 70—above the threshold for mental
+retardation and about triple what is typical of idiots. And,
+even setting aside IQ entirely, there is no doubt that Smith
+is able “to distinguish between good and evil,” Highmore
+195, and that he is able to “understand . . . what is forbidden
+by law,” 1 Hale 34. His own expert “found that . . . Smith
+knew right from wrong.” ECF Doc. 135, p. 3.
+* * *
+Nothing in our history, from 1791 to 2002, suggests that
+there is anything unlawful about executing murderers now
+protected by Atkins—let alone one such as Smith who reads
+at an 11th-grade level and has never scored below 71 on a
+single IQ test. We therefore must adhere “to the correct,
+original meaning” of the Eighth Amendment, not Atkins.
+Gamble, 587 U. S., at 712 (Thomas, J., concurring).
+B
+Even under its modern approach to stare decisis, this
+Court has “ `often' ” concluded that precedents must be over-
+ruled. Ramos v. Louisiana, 590 U. S. 83, 116–122 (2020)
+(Kavanaugh, J., concurring in part). Atkins satisfies the
+criteria the Court has recently relied on to overrule constitu-
+tional precedents. See Ramos, 590 U. S., at 120–122.
+Atkins is egregiously wrong, unworkable, and has created
+no legitimate reliance interests. Ramos, 590 U. S., at 121–
+122. Atkins is egregiously wrong because it is irreconcil-
+able with original meaning and was poorly reasoned from
+the start, as more recent Eighth Amendment precedents dis-
+crediting its methodology show.* See Part II–A, supra; At-
+kins, 536 U. S., at 321–328 (Rehnquist, C. J., dissenting); id.,
+at 337–354 (Scalia, J., dissenting). Atkins is also unwork-
+able, as its progeny and this case demonstrate. See Part I,
+supra. Finally, prospective murderers who would argue
+that they are too unintelligent to be executed are not plan-
+ning murders in “reliance” on this Court's Eighth Amend-
+ment jurisprudence. Ramos, 590 U. S., at 122 (opinion of
+Kavanaugh, J.). Nor, if they were, would such a reliance
+interest be “legitimate.” Ibid. Stare decisis is therefore
+no obstacle to restoring the original meaning of the Eighth
+*We recently rejected the premise that the Cruel and Unusual Punish-
+ments Clause prohibits all “excessive” punishments. See Grants Pass v.
+Johnson, 603 U. S. 520, 541–550 (2024); contra, Atkins, 536 U. S., at 311–
+312. And the Court has stopped using Atkins's “evolving standards of
+decency” approach to determine the meaning of the Eighth Amendment.
+Id., at 312. See Grants Pass, 603 U. S. 520; United States v. Tsarnaev,
+595 U. S. 302 (2022); Jones v. Mississippi, 593 U. S. 98 (2021); Barr v. Lee,
+591 U. S. 979 (2020) (per curiam ); Bucklew v. Precythe, 587 U. S. 119
+(2019); Madison v. Alabama, 586 U. S. 265 (2019); contra, Atkins, 536 U. S.,
+at 311–312.

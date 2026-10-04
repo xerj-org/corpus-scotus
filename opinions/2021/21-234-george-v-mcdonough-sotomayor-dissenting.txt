@@ -1,0 +1,112 @@
+George v. McDonough — No. 21-234 — October Term 2021 — decided 6/15/22 — Sotomayor, J., dissenting
+Citation: 596 U.S. 740
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r47_m6hn.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+More modestly, George seeks to distinguish the statutory
+meaning from the prior practice on just one point. Because
+Congress did not expressly enact the specific regulatory
+principle barring collateral relief for subsequent changes in
+interpretation, he insists that the principle did not carry over
+to the statute. But this argument, too, misses the mark.
+The point of the old-soil principle is that “when Congress
+employs a term of art,” that usage itself suffices to “ `adop[t]
+the cluster of ideas that were attached to each borrowed
+word' ” in the absence of indication to the contrary. FAA v.
+Cooper, 566 U. S. 284, 292 (2012). Here, the governing stat-
+ute “is silent” on a host of matters ranging from the defni-
+tion of clear and unmistakable error to “the specific proce-
+dures that govern a [collateral] claim.” Disabled American
+Veterans, 234 F. 3d, at 694, 696 (citing 38 U. S. C. § 7111).
+And we take the statutory “silence” on the details of prior
+regulatory practice to “l[eave] the matter where it was pre-
+[codification].” Kucana v. Holder, 558 U. S. 233, 250 (2010).
+We decline George's invitation to gerrymander out this one
+feature of the prior practice.
+* * *
+The invalidation of a V A regulation after a veteran's bene-
+fts decision becomes final cannot support a claim for collat-
+eral relief based on clear and unmistakable error. We affirm
+the judgment of the Court of Appeals.
+It is so ordered.
+Justice Sotomayor, dissenting.
+I join all but Part II–C of Justice Gorsuch's dissent.
+The Board of Veterans' Appeals (Board) clearly and unmis-
+takably violated a statutory command in its decision denying
+petitioner Kevin George's application for service-related ben-
+efts. As Justice Gorsuch explains, in the context of this
+specific statutory framework, the mere fact that the Board
+relied on a plainly invalid regulation does not shield its
+final decision from review based on clear and unmistakable
+1error.
+The Court thinks otherwise. In support of its holding,
+the Court notes that Congress, when it enacted the clear-
+and-unmistakable-error statutes in 1997, codified a pre -
+existing regulatory doctrine under which clear and unmis-
+takable error did not encompass a subsequent “change in
+interpretation of law.” 38 CFR § 3.105 (Cum. Supp. 1963);
+see ante, at 746–747. I agree that Congress incorporated
+this pre-existing regulatory doctrine based on its use of
+“clear and unmistakable error,” a longstanding term of art.
+See ante, at 746, 753.2 I diverge from Justice Gorsuch on
+this point. The question remains, however: What consti-
+tutes a “change in interpretation of law” excluded from clear
+and unmistakable error? In George's view, a change in in-
+terpretation of law occurs where “an agency . . . choos[es]
+another permissible alternative construction” of a statute,
+but not where, as here, a court invalidates a regulation that
+had egregiously violated the governing statute all along.
+Brief for Petitioner 18; see also post, at 759–760 ( Gor -
+such, J., dissenting).
+The Court disagrees. It holds that under the pre-existing
+doctrine, judicial invalidation of an unmistakably erroneous
+1 In my view, some invalid Department of Veterans Affairs (V A) regula-
+tions might not be erroneous enough for reliance on them to constitute
+clear and unmistakable error. After all, by definition, not every error is
+clear and unmistakable. The Board's 1977 decision in George's case, how-
+ever, meets this demanding standard. The presumption-of-soundness
+regulation the Board applied was clearly and unmistakably contrary to the
+unambiguous terms of 38 U. S. C. § 1111, as even the V A eventually con-
+ceded. See post, at 757–758 (Gorsuch, J., dissenting).
+2 Were there any doubt, legislative history would render the conclusion
+unavoidable. See H. R. Rep. No. 105–52, pp. 1–2 (1997) (“H. R. 1090 would
+. . . codify existing regulations which make [V A] decisions . . . subject to
+revision on the grounds of clear and unmistakable error”); S. Rep.
+No. 105–57, p. 4 (1997) (“The Committee bill . . . would codify, in statute,
+the allowance currently specified by regulation” for review based on clear
+and unmistakable error).
+regulation was understood to constitute a “change in inter-
+pretation of law” for purposes of clear and unmistakable
+error. See ante, at 746–750. The Court's citations offer lit-
+tle support for this conclusion, however. In Berger v. Brown,
+10 Vet. App. 166, 170 (1997), for example, the Court of Veter-
+ans Appeals (Veterans Court) stated that opinions from that
+body “that formulate new interpretations of the law . . . can-
+not be the basis of a valid [clear-and-unmistakable-error]
+claim.” But the Veterans Court emphasized that the deci-
+sion under attack, unlike the Board's decision in George's
+case, had followed “a plausible interpretation of the law,”
+precluded by “nothing in the plain language of the statute,”
+and added that “[t]he statute was, and still is for that matter,
+susceptible of differing interpretations.” Ibid. Similarly,
+in Damrel v. Brown, 6 Vet. App. 242, 246 (1994), the relevant
+change in interpretation of law was a Veterans Court-
+created rule, not the invalidation of a regulation as clearly
+contrary to the governing statute. And although it was well
+established by 1997 that clear and unmistakable error “must
+be based on . . . the law that existed at the time of the prior
+. . . decision,” Russell v. Principi, 3 Vet. App. 310, 314 (1992)
+(en banc), this is not inconsistent with George's request for
+review based on the plain terms of a statute as it existed in
+1977, when the Board ruled against him.
+Other authorities relied upon by the Court are equivocal.
+The V A opined in 1994 that invalidation of a regulation by
+the Veterans Court constituted a “ `change in interpretation
+of law,' ” but it also admitted “that V A's historical approach
+has not been entirely consistent.” Op. Gen. Counsel Prece-
+dent 9–94, ¶¶6, 8, pp. 4–5 (Mar. 25). Meanwhile, the Veter-
+ans Court's 1992 decision in Look v. Derwinski, 2 Vet. App.
+157, while not a model of clarity, undeniably “approv[ed of]
+collateral relief” based on “a later invalidated regulation,” as
+the Court recognizes. Ante, at 749.
+My takeaway from these conflicting authorities is that the
+pre-existing doctrine Congress incorporated in 1997 was un-

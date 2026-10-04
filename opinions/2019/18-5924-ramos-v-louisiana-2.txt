@@ -1,0 +1,189 @@
+Ramos v. Louisiana — No. 18-5924 — October Term 2019 — decided 4/20/20 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 590 U.S. 83
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=99 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+what Apodaca might mean. 36 To its credit, Louisiana ac-
+knowledges the problem. The State expressly tells us it is
+not “asking the Court to accord Justice Powell's solo opinion
+in Apodaca precedential force.” 37 Instead, in an effort to
+win today's case, Louisiana embraces the idea that every-
+thing is up for grabs. It contends that this Court has never
+definitively ruled on the propriety of nonunanimous juries
+under the Sixth Amendment—and that we should use this
+case to hold for the first time that nonunanimous juries are
+permissible in state and federal courts alike.
+III
+Louisiana's approach may not be quite as tough as trying
+to defend Justice Powell's dual-track theory of incorporation,
+but it's pretty close. How does the State deal with the fact
+this Court has said 13 times over 120 years that the Sixth
+Amendment does require unanimity? Or the fact that fve
+Justices in Apodaca said the same? The best the State can
+offer is to suggest that all these statements came in dicta.38
+36 See, e. g., Burch v. Louisiana, 441 U. S. 130, 136, and n. 9 (1979) (de-
+scribing both plurality opinion and Justice Powell's separate writing);
+Brown v. Louisiana, 447 U. S. 323, 331 (1980) (plurality opinion) (describ-
+ing neither); see also McKoy v. North Carolina, 494 U. S. 433, 468 (1990)
+(Scalia, J., dissenting) (same). On a few occasions we've suggested that
+perhaps Apodaca means the Sixth Amendment does not require unanimity
+at all. See Ludwig v. Massachusetts, 427 U. S. 618, 625 (1976) (quoting
+Apodaca plurality); Gaudin, 515 U. S., at 510–511, n. 2 (same); see also Hol-
+land v. Illinois, 493 U. S. 474, 511 (1990) (Stevens, J., dissenting) (same).
+But on another occasion, we suggested that it could make a difference
+whether a particular right was rooted in the Sixth Amendment's jury trial
+guarantee or Fourteenth Amendment due process guarantee. See Schad
+v. Arizona, 501 U. S. 624, 634, n. 5 (1991) (plurality opinion). The dissent
+contends that these cases have “reiterated time and again what Apodaca
+had established.” Post, at 145 (opinion of Alito, J.). More accurately,
+these “reiterations” have suggested different things at different times.
+37 See Brief for Respondent 47; Tr. of Oral Arg. 37–38.
+38 In at least some of these cases, that may be a fair characterization.
+For example, while Thompson was quick to say that the U. S. Constitution
+requires “the unanimous verdict of a jury of twelve persons,” the question
+But even supposing (without granting) that Louisiana is
+right and it's dicta all the way down, why would the Court
+now walk away from many of its own statements about the
+Constitution's meaning? And what about the prior 400
+years of English and American cases requiring unanimity—
+should we dismiss all those as dicta too?
+Sensibly, Louisiana doesn't dispute that the common law
+required unanimity. Instead, it argues that the drafting his-
+tory of the Sixth Amendment reveals an intent by the fram-
+ers to leave this particular feature behind. The State points
+to the fact that Madison's proposal for the Sixth Amendment
+originally read: “The trial of all crimes . . . shall be by an
+impartial jury of freeholders of the vicinage, with the requi-
+site of unanimity for conviction, of the right of challenge, and
+other accustomed requisites. . . .” 39 Louisiana notes that
+the House of Representatives approved this text with minor
+modifications. Yet, the State stresses, the Senate replaced
+“impartial jury of freeholders of the vicinage” with “impar-
+tial jury of the State and district wherein the crime shall
+have been committed” and also removed the explicit refer-
+ences to unanimity, the right of challenge, and “other accus-
+tomed requisites.” In light of these revisions, Louisiana
+would have us infer an intent to abandon the common law's
+traditional unanimity requirement.
+But this snippet of drafting history could just as easily
+support the opposite inference. Maybe the Senate deleted
+the language about unanimity, the right of challenge, and
+“other accustomed requisites” because all this was so
+plainly included in the promise of a “trial by an impartial
+jury” that Senators considered the language surplusage.
+before the Court was whether, in the circumstances of the defendant's
+case, a trial by eight jurors in a Utah state court would violate the Ex
+Post Facto Clause. 170 U. S., at 351. The Sixth Amendment's unanimity
+requirement was unnecessary to the outcome, and the Utah Constitution
+required unanimity either way. Id., at 345.
+39 1 Annals of Cong. 435 (1789).
+The truth is that we have little contemporaneous evidence
+shedding light on why the Senate acted as it did. 40 So
+rather than dwelling on text left on the cutting room floor,
+we are much better served by interpreting the language
+Congress retained and the States ratified. And, as we've
+seen, at the time of the Amendment's adoption, the right
+to a jury trial meant a trial in which the jury renders a
+unanimous verdict.
+Further undermining Louisiana's inference about the
+drafting history is the fact it proves too much. If the Sen-
+ate's deletion of the word “unanimity” changed the meaning
+of the text that remains, then the same would seemingly
+have to follow for the other deleted words as well. So it's
+not just unanimity that died in the Senate, but all the “other
+accustomed requisites” associated with the common law jury
+trial right—i. e., everything history might have taught us
+about what it means to have a jury trial. Taking the State's
+argument from drafting history to its logical conclusion
+would thus leave the right to a “trial by jury” devoid of
+meaning. A right mentioned twice in the Constitution
+would be reduced to an empty promise. That can't be right.
+Faced with this hard fact, Louisiana's only remaining
+option is to invite us to distinguish between the historic
+features of common law jury trials that (we think) serve “im-
+portant enough” functions to migrate silently into the Sixth
+Amendment and those that don't. And, on the State's
+account, we should conclude that unanimity isn't worthy
+enough to make the trip.
+But to see the dangers of Louisiana's overwise approach,
+there's no need to look any further than Apodaca itself.
+There, four Justices, pursuing the functionalist approach
+40 In private writings, Madison did explain some of the Senate's objec-
+tions with his original phrasing of the vicinage requirement. See 5 Writ-
+ings of James Madison 420–424 (G. Hunt ed. 1904) (letters to E. Pendleton,
+Sept. 14 and 23, 1789). But this is little help in explaining the other
+changes made in the Senate.
+Louisiana espouses, began by describing the “ `essential' ”
+benefit of a jury trial as “ `the interposition . . . of the com-
+monsense judgment of a group of laymen' ” between the de-
+fendant and the possibility of an “ `overzealous prosecu-
+tor.' ” 41 And measured against that muddy yardstick, they
+quickly concluded that requiring 12 rather than 10 votes to
+convict offers no meaningful improvement.42 Meanwhile,
+these Justices argued, States have good and important rea-
+sons for dispensing with unanimity, such as seeking to reduce
+the rate of hung juries. 43
+Who can profess confidence in a breezy cost-benefit analy-
+sis like that? Lost in the accounting are the racially dis-
+criminatory reasons that Louisiana and Oregon adopted
+their peculiar rules in the first place.44 What's more, the
+plurality never explained why the promised benefit of aban-
+doning unanimity—reducing the rate of hung juries—always
+scores as a credit, not a cost. But who can say whether any
+particular hung jury is a waste, rather than an example of
+a jury doing exactly what the plurality said it should—
+deliberating carefully and safeguarding against overzealous
+41 406 U. S., at 410 (plurality opinion) (quoting Williams v. Florida, 399
+U. S. 78, 100 (1970), and Duncan, 391 U. S., at 156).
+42 406 U. S., at 410–411.
+43 Id., at 411.
+44 The dissent chides us for acknowledging the racist history of Louisi-
+ana's and Oregon's laws, and commends the Apodaca plurality's decision
+to disregard these facts. Post, at 141–144, 153. But if the Sixth Amend-
+ment calls on judges to assess the functional benefits of jury rules, as the
+Apodaca plurality suggested, how can that analysis proceed to ignore the
+very functions those rules were adopted to serve? The dissent answers
+that Louisiana and Oregon eventually recodifed their nonunanimous jury
+laws in new proceedings untainted by racism. See post, at 142–143, n. 3.
+But that cannot explain Apodaca's omission: The States' proceedings took
+place only after the Court's decision. Nor can our shared respect for “ra-
+tional and civil discourse,” post, at 144, supply an excuse for leaving an
+uncomfortable past unexamined. Still, the dissent is right about one
+thing—a jurisdiction adopting a nonunanimous jury rule even for benign
+reasons would still violate the Sixth Amendment.
+prosecutions? And what about the fact, too, that some stud-
+ies suggest that the elimination of unanimity has only a small
+effect on the rate of hung juries? 45 Or the fact that others
+profess to have found that requiring unanimity may provide
+other possible benefits, including more open-minded and
+more thorough deliberations? 46 It seems the Apodaca plu-
+rality never even conceived of such possibilities.
+Our real objection here isn't that the Apodaca plurality's
+cost-benefit analysis was too skimpy. The deeper problem
+is that the plurality subjected the ancient guarantee of a
+unanimous jury verdict to its own functionalist assessment
+in the first place. And Louisiana asks us to repeat the error
+today, just replacing Apodaca's functionalist assessment with
+our own updated version. All this overlooks the fact that,
+at the time of the Sixth Amendment's adoption, the right to
+trial by jury included a right to a unanimous verdict. When
+the American people chose to enshrine that right in the Con-
+stitution, they weren't suggesting fruitful topics for future
+cost-benefit analyses. They were seeking to ensure that
+their children's children would enjoy the same hard-won lib-
+erty they enjoyed. As judges, it is not our role to reassess
+whether the right to a unanimous jury is “important enough”
+to retain. With humility, we must accept that this right may
+serve purposes evading our current notice. We are en-
+trusted to preserve and protect that liberty, not balance it
+away aided by no more than social statistics.47
+45 See H. Kalven & H. Zeisel, The American Jury 461 (1966); Diamond,
+Rose, & Murphy, Revisiting the Unanimity Requirement: The Behavior of
+the Non-unanimous Civil Jury, 100 Nw. U. L. Rev. 201, 207–208 (2006).
+46 Devine et al., Jury Decision Making: 45 Years of Empirical Research
+on Deliberating Groups, 7 Psych. Pub. Pol'y & L. 622, 669 (2001); R. Hastie,
+S. Penrod, & N. Pennington, Inside the Jury 115, 164–165 (1983); Hans,
+The Power of Twelve: The Impact of Jury Size and Unanimity on Civil
+Jury Decision Making, 4 Del. L. Rev. 1, 24–25 (2001).
+47 The dissent seems to suggest that we must abandon the Sixth Amend-
+ment's historical meaning in favor of Apodaca's functionalism because a
+parade of horribles would follow otherwise. In particular, the dissent re-

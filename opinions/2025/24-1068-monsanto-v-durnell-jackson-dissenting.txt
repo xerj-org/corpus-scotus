@@ -1,0 +1,897 @@
+Monsanto v. Durnell — No. 24-1068 — October Term 2025 — decided 6/25/26 — JACKSON, J., dissenting
+Citation: 609 U.S. 371
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 24–1068
+MONSANTO COMPANY, PETITIONER v.
+JOHN L. DURNELL
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS OF
+MISSOURI, EASTERN DISTRICT
+[June 25, 2026]
+JUSTICE JACKSON, with whom J USTICE GORSUCH joins,
+dissenting.
+In 2019, John Durnell brought a state-law failure-to-
+warn claim against Monsanto, an agrochemical company
+that manufactures and distributes a widely used pesticide
+called Roundup. Durnell claimed that he had developed
+non-Hodgkin’s lymphoma, a type of blood cancer, due to his
+two-decade-long use of Roundup.  Roundup’s label did not
+(and still does not) include any warning about the risk of
+developing cancer. Durnell thus sued Monsanto in Mis-
+souri state court, alleging that Roundup’s label lacked a
+necessary warning. After a 9-day trial, the jury agreed and
+awarded Durnell $1.25 million in compensatory damages.
+Monsanto argues that 7 U. S. C. §136v(b)—a provision of
+the Federal Insecticide, Fungicide, and Rodenticide Act
+(FIFRA)—expressly preempts Durnell’s failure-to-warn
+claim. See ibid. (providing that state labeling “require-
+ments” that are “in addition to or different from those re-
+quired under” FIFRA are preempted).  Today, the Court
+agrees. The majority emphasizes that the Environmental
+Protection Agency (EPA) has consistently registered
+Roundup—a precondition to Monsanto’s ability to sell that
+product—and has thus approved Roundup’s label without a
+cancer warning. Ante, at 6–7. According to the majority,
+the EPA’s registration decision and approval of Roundup’s
+
+label created a labeling “requirement” under FIFRA:
+namely, that Monsanto sell Roundup with the label exactly
+as the EPA approved it.  Ante, at 10–11.  Thus, the majority
+concludes, Durnell’s lawsuit added a labeling requirement
+that federal law did not require, triggering preemption per
+§136v(b). Ante,  at 11.
+In so holding, the Court departs from the near-
+unanimous view of the many state and federal courts that
+have rejected this preemption argument. 1  In my view, the
+majority should have joined that chorus.  Durnell’s failure-
+to-warn claim is not “in addition to or different from”
+FIFRA’s mandates; it is equivalent to FIFRA’s key labeling
+requirement—the misbranding prohibition. And Durnell’s
+claim does not conflict with any other FIFRA “requirement”
+for §136v(b) purposes because the EPA’s registration of a
+pesticide and approval of its label does not create a labeling
+requirement under FIFRA.
+So, I respectfully dissent. In accepting Monsanto’s argu-
+ment and holding that Durnell’s failure-to-warn claim is
+preempted, the Court misunderstands FIFRA’s require-
+ments, misinterprets the scope of FIFRA’s preemption, and
+ultimately leaves Durnell without a remedy for the signifi -
+cant harms he has suffered.
+I
+Congress has the power to preempt state law.  It can do
+so expressly through the text of a federal statute or im-
+pliedly. Regardless of the method, federal preemption is
+——————
+1 See, e.g., 707 S. W. 3d 828, 835 (Mo. App. 2025) (case below); Carson
+v. Monsanto Co., 92 F. 4th 980, 986 (CA11 2024); Hardeman v. Monsanto
+Co., 997 F. 3d 941, 954 (CA9 2021); Anderson v. Monsanto Co. , 719
+S. W. 3d 755, 798 (Mo. App. 2025); Caranci v. Monsanto Co., 338 A. 3d
+151, 170 (Pa. Super. 2025); Dennis v. Monsanto Co., 116 Cal. App. 5th
+322, 342, 339 Cal. Rptr. 175, 188 (2025); Johnson  v. Monsanto Co., 333
+Ore. App. 678, 699–701, 554 P. 3d 290, 306–308 (2024); Pilliod v. Mon-
+santo Co., 67 Cal. App. 5th 591, 613, 282 Cal. Rptr. 3d 679, 698 (2021);
+but see Schaffner v. Monsanto Corp., 113 F. 4th 364, 399 (CA3 2024).
+
+3  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+typically premised on a conflict between federal and state
+law. See Murphy v. National Collegiate Athletic Assn., 584
+U. S. 453, 477 (2018).  Under the Constitution’s Supremacy
+Clause, Art. VI, cl. 2, “federal law takes precedence” over
+conflicting state law “and [thus] the state law is
+preempted.” Murphy, 584 U. S., at 477.
+Importantly, however, there is not always a complete con-
+flict between a federal statute and state law, even if they
+address the same subject matter.  That is, federal law does
+not necessarily box out all state regulation on a particular
+issue.  Congress can and does enact statutory provisions
+that specifically define the preemptive scope of the federal
+law. See, e.g., Montgomery v. Caribe Transport II, LLC, 608
+U. S. ___, ___–___ (2026) (slip op., at 2–3) (describing
+preemption provision that carves out state safety regula-
+tions); cf. Cipollone v. Liggett Group, Inc., 505 U. S. 504, 517
+(1992) (“Congress’ enactment of a provision defining the
+pre-emptive reach of a statute implies that matters beyond
+that reach are not pre-empted”).  And federal preemption
+provisions often permit parallel state laws—i.e., those that
+“merely duplicate federal requirements.”  Bates v. Dow
+Agrosciences LLC, 544 U. S. 431, 442, 453 (2005).  When al-
+lowing state-law versions of a federal mandate, Congress
+displaces state law only “to the extent of th[e] difference”
+from federal law. Id., at 453.  Thus, state law can still “pro-
+vide a traditional damages re medy for violations of com-
+mon-law duties when those duties parallel federal require-
+ments.” Medtronic, Inc. v. Lohr, 518 U. S. 470, 495 (1996).
+FIFRA fits this mold.  It is a federal statute that regulates
+the sale and use of pesticides, and among other things, re-
+quires that pesticides bear detailed labels providing con-
+sumers with information about how to use them and what
+risks they pose.  FIFRA expressly limits States’ authority
+to regulate pesticide labels, but it does not eliminate that
+authority. Instead, FIFRA preempts only those state “re-
+quirements for labeling or packaging in addition to or
+
+different from” the requirements under FIFRA.  §136v(b). 2
+This means that state labeling requirements “equivalent
+to” FIFRA’s requirements are not preempted.  Bates, 544
+U. S., at 447.  In other words, FIFRA’s preemption clause
+does not block state-law claims where the violation of state
+law is also a violation of FIFRA.  Id., at 454.
+II
+To analyze the reach of FIFRA’s preemption provision, I
+begin, per usual, with the statute’s text.  See Chamber of
+Commerce of United States of America v. Whiting, 563 U. S.
+582, 594 (2011). To repeat: §136v(b) provides that a “State
+shall not impose or continue in effect any requirements for
+labeling or packaging in addition to or different from those
+required under” FIFRA.  To distinguish the state laws this
+provision preempts from those that can continue unabated,
+one must, first, identify the “requirements” under FIFRA,
+and, second, determine whether the state law imposes re-
+quirements that are “in addition to or different from” (as
+opposed to the equivalent of ) those FIFRA requirements.
+Here, the majority falters on both tasks.  FIFRA’s label-
+ing requirements are established by statute and regulation,
+and those requirements are no different than the labeling
+duties imposed by Missouri via its failure-to-warn tort. The
+state-law claim at issue reflects a parallel requirement that
+is fully consistent with FIFRA’s primary labeling duty—its
+misbranding prohibition—and makes no additional asks of
+those who are subject to it.
+A
+“A requirement is a rule of law that must be obeyed.”
+Bates, 544 U. S., at 445.  In interpretating FIFRA, this
+Court has previously held that the term “requirements” in-
+cludes “positive enactments, such as statutes and
+——————
+2 As the majority points out, many federal statutes contain similarly
+limited express preemption clauses.  Ante, at 13–14 (collecting statutes).
+
+5  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+regulations,” as well as “common-law duties.” Id., at 443.
+Thus, the “requirements” under FIFRA that can preempt
+state labeling requirements are those directives “set out in
+FIFRA and its implementing regulations.”  Id., at 452.
+FIFRA’s principal labeling requirement is its prohibition
+on selling or distributing “misbranded” pesticides.
+§136j(a)(1)(E). The statutory definition of “misbranded” is
+extensive, establishing many detailed supplementary label-
+ing requirements. See §136(q). For example, a pesticide
+that contains a highly toxic substance but does not have the
+“skull and crossbones” and the word “ ‘poison’” on its label
+is misbranded.  §136(q)(2)(D).  So too is a pesticide that does
+not bear an ingredient statement.  §136(q)(2)(A). And so is
+a pesticide that has “false or misleading” statements on its
+label. §136(q)(1)(A).
+Another type of prohibited misbranding is relevant to to-
+day’s dispute: A pesticide is misbranded if “the label does
+not contain a warning or caution statement which may be
+necessary and . . . is adequate to protect health and the en-
+vironment.” §136(q)(1)(G).  Adequate warnings must,
+among other things, protect against “any unreasonable risk
+to [humans] or the environment, taking into account the
+economic, social, and environmental costs and benefits of
+the use of any pesticide.”  §136(bb); see §136(x).  Conse-
+quently—and this is important to remember—one require-
+ment under FIFRA is that a pesticide’s label must contain
+“adequate” and “necessary” warnings.  §136(q)(1)(G).
+FIFRA does not specify the particular warnings that are
+adequate and necessary (and thus comply with the mis-
+branding prohibition).  But the EPA has started to fill in
+that gap by promulgating regulations to “give content to”
+FIFRA’s misbranding prohibition in certain contexts.
+Bates, 544 U. S., at 453.  For the adequate-and-necessary-
+warnings requirement, EPA regulations require labels to
+contain specific precautionary statements in a certain cir-
+cumstance: where the pesticide may cause particularly
+
+acute hazards. See 40 CFR §§156.60–156.70 (2025); see
+also §156.10(a)(1)(vii).  The regulations dictate that, for cer-
+tain categories of toxins, a pesticide manufacturer must add
+to the product label different “signal word[s]”: “‘DANGER,’”
+“‘WARNING,’” and “‘CAUTION.’ ”  §156.64.
+To date, the EPA has not promulgated any other regula-
+tions pertaining to FIFRA’s adequate-and-necessary-warn-
+ing requirement. 3  Critically for present purposes, the
+EPA’s regulations do not set specific requirements for label
+warnings relating to chronic risks, like cancer. 4  FIFRA’s
+misbranding prohibition establishes the broad requirement
+that a pesticide’s label co ntain necessary and adequate
+warnings for any chronic risks, but neither the statute nor
+——————
+3 The EPA has promulgated regulations that give content to a different
+aspect of FIFRA’s misbranding proh ibition: the false-or-misleading-
+statement element.  Those regulati ons provide a nonexhaustive list of
+statements that qualify as false or  misleading and therefore would ren-
+der the pesticide misbranded.  See 40 CFR §156.10(a)(5) (2025) (prohib-
+iting, for example, “[c]laims as to the safety of the pesticide” such as
+“‘safe’” or “‘nontoxic to humans and pets’”).
+4 The majority asserts that cancer warnings are a type of precautionary
+statement covered by the EPA’s regulations, relying on its unsupported
+view of the “ordinary meaning of ‘hazards’ and ‘precautionary state -
+ments.’ ”  Ante, at 10–11, n. 5. That is mistaken.  Whatever the ordinary
+meaning of the term (and whatever the United States’ litigation-created
+interpretation), the “[p]recautiona ry statements” regulations are ex -
+pressly directed at only acute hazards. §156.70. The regulations require
+that, if the pesticide may pose “an acute hazard” to “humans or domestic
+animals,” then the pesticide’s label “must bear precautionary statements
+describing the particular hazard.”  §156.70(b) (emphasis added).  The
+regulations then list the “typical hazard and precautionary statements”:
+warnings that the pesticide is or may be “[f]atal” or “[h]armful” if swal-
+lowed or that it could cause eye or skin irritation.  §156.70(c).  The risk
+of developing cancer is not listed as an “acute” hazard.  Nor could it be;
+cancer is a long-term or chronic risk.  While the EPA does, as part of its
+registration decision, evaluate the chronic risks a pesticide may pose, see
+ante, at 11, n. 5, the EPA has not promulgated regulations addressing
+when a cancer warning must be included on a label or what a cancer
+warning must say.  The precaution ary-statements regulations simply
+have nothing to do with cancer warnings.
+
+7  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+the EPA’s regulations dictate more specific requirements
+for such warnings.
+B
+All this has implications for the meaning of FIFRA’s
+preemption provision. The provision’s language establishes
+that when FIFRA itself or the EPA’s regulations require
+specific statements on a pesticide’s label—such as the skull
+and crossbones or a particular “signal word”—a state law
+that requires additional or different statements is
+preempted. But, absent such federal-law requirements, a
+state-law duty that simply parallels FIFRA’s misbranding
+prohibition is not preempted.
+Suppose, for example, a State mandates that pesticides
+causing moderate skin irritation bear the word
+“WARNING.” That state law would be preempted by
+FIFRA because the EPA’s regulations require that the label
+for pesticides causing moderate skin irritation bear the sig-
+nal word “CAUTION.” 40 CFR §§156.62, 156.64(a)(3).  The
+State’s labeling requirement is different from (and indeed
+conflicts with) the EPA’s regulations. By contrast, if a State
+seeks to hold a manufacturer liable under state law for fail-
+ing to label a pesticide with the same warning words that
+federal regulations require, application of the state law
+would not be preempted under 7 U. S. C. §136v(b).  In that
+situation, the State is not requiring anything “in addition
+to or different from” FIFRA’s requirements.
+Consider another example. A State wants to ensure that
+the pesticides its residents use are properly labeled and
+contain all warnings necessary and adequate to protect
+against unreasonable risks to its residents and the environ-
+ment. So it either enacts a statute that makes liable any
+pesticide manufacturer that fa ils to provide adequate and
+necessary warnings, or relies on the existing tort regime to
+accomplish this same result.  In either case, the state-law
+scheme merely “duplicate[ s]” FIFRA’s adequate-and-
+
+necessary-warnings requireme nt—and is therefore not
+preempted. Bates, 544 U. S., at 442.  Why not? Because
+the State is not requiring anything “in addition to or differ-
+ent from” what FIFRA’s own misbranding prohibition re -
+quires.
+With that background, it is easy to see that Durnell’s
+failure-to-warn claim—which faults Monsanto for not in-
+cluding cancer warnings on the Roundup label—does not
+trigger preemption under FIFRA.  Missouri’s failure-to-
+warn tort punishes the sale of unreasonably dangerous
+products, like pesticides, without “adequate warning of the
+danger.” Moore v. Ford Motor Co. , 332 S. W. 3d 749, 756
+(Mo. 2011) (en banc). As the Missouri Court of Appeals ex-
+plained, Durnell’s claim has the same “practical effect” as
+FIFRA’s misbranding prohibition: “[B]oth require a pesti-
+cide manufacturer to adequately warn users of the poten-
+tial dangers of using its product.”  707 S. W. 3d 828, 833
+(2025) (internal quotation marks omitted).  Durnell’s claim
+does not impose any labeling requirement that is “in addi-
+tion to or different from” what FIFRA itself requires,
+§136v(b); instead, the standards prescribed by federal and
+state law are equivalent.5
+——————
+5 To be clear, Missouri’s failure-to-warn claim is equivalent to FIFRA’s
+misbranding prohibition at least as presented to us.  Monsanto argues
+that Missouri’s tort is not equivalent because it permits, but does not
+require, a jury to conduct the cost-benefit analysis that FIFRA’s ade -
+quate-and-necessary-warnings requirement appears to mandate.  See
+Rodriguez v. Suzuki Motor Corp., 996 S. W. 2d 47, 65 (Mo. 1999) (en
+banc) (leaving the decision of what it means to be “unreasonably danger-
+ous” to the jury (internal quotation marks omitted)); 7 U. S. C. §136(bb)
+(incorporating the “costs and benefits of the use of any pesticide” into the
+definition of “misbranded”).
+But any potential difference does not doom Durnell’s claim.  Recall that
+preemption displaces state law only “to the extent of th[e] difference” be-
+tween state and federal law. Bates v. Dow Agrosciences LLC, 544 U. S.
+431, 453 (2005).  Monsanto has not properly presented any argument
+that Durnell’s claim in fact  imposes a requiremen t that differs from
+
+9  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+Why might a federal law that expressly seeks “[u]ni-
+formity” in labeling, §136v(b), leave room for parallel state
+tort suits like Durnell’s?  As we have previously explained,
+“FIFRA contemplates that pesticide labels will evolve over
+time.” Bates, 544 U. S., at 451. To that end, “tort suits can
+serve as a catalyst”—encouraging pesticide manufacturers
+to “keep abreast of all possible injuries stemming from use
+of their product” and to maintain labels with the necessary
+and adequate warnings. Ibid. (internal quotation marks
+omitted). Parallel state tort liability is an enforcement tool
+that can have a salutary information-forcing effect, and
+that, in turn, helps ensure the effectiveness of FIFRA’s mis-
+branding prohibition.
+III
+The majority does not view FIFRA’s misbranding prohi-
+bition as the relevant federal “requirement” for preemption
+purposes. Instead, it ventures far beyond FIFRA and its
+regulations, purporting to identify the relevant labeling re-
+quirement in the EPA’s approval of Roundup’s label. Ante,
+at 10–11, 14. The argument goes like this: A manufacturer
+must register its pesticide wi th the EPA before selling or
+distributing it. §136a(a). As part of the registration
+——————
+FIFRA’s misbranding prohibition.  Monsanto did not seek a jury instruc-
+tion at trial directing the jury to find for Durnell only if his evidence met
+the requirements for FIFRA’s misbranding standard. See id., at 454.
+Since it declined to present that argument to the jury, Monsanto cannot
+now complain that Durnell’s claim is actually broader than the federal
+requirement. Nor does Monsanto argu e before us that the evidence at
+trial was insufficient to support a jury verdict for a failure-to-warn claim
+that was equivalent to FIFRA’s misbranding standard.  Cf. Boyle v.
+United Technologies Corp. , 487 U. S. 500, 513 (1988) (holding that a
+plaintiff would not be entitled to a new trial, even after the Court of Ap-
+peals reformulated the relevant defens e, “[i]f the evidence presented in
+the first trial [still] would not suffice . . . to support a jury verdict under
+the properly formulated defense”).   Accordingly, we cannot address
+whether Durnell’s failure-to-warn clai m, in light of the evidence pre-
+sented, is different than FIFRA’s misbranding standard.
+
+process, the EPA reviews and approves the pesticide’s label,
+confirming that the label complies with FIFRA’s require-
+ments. §136a(c)(5)(B).  Furthermore, the EPA generally re-
+quires a manufacturer to get the agency’s approval before
+changing its product’s label.  40 CFR §152.44.
+As the majority sees it, the EPA’s registration of a pesti-
+cide and approval of its label creates a federal requirement
+that the manufacturer use the label exactly as the EPA ap-
+proved it. Ante, at 11. Here, the majority says, because the
+EPA approved Roundup’s label without a cancer warning,
+state law cannot require Roundup’s label to include one.
+Ante, at 11, 14.
+This theory has some intuitive appeal—federal approval
+should count for something, after all.  But, in reality, the
+majority’s view is unmoored fr om the statute’s text and ir -
+reconcilable with our precedents.
+A
+1
+Start with the text.  In the same section of FIFRA that
+lays out the pesticide registration process, the statute con-
+tains a crucial caveat: “In no event shall registration of [a
+pesticide] be construed as a defense for the commission of
+any offense under” FIFRA, 7 U. S. C. §136a(f )(2)—includ-
+ing misbranding, §136j(a)(1)(E). Rather, per the terms of
+the statute, registration is merely “prima facie evidence
+that the pesticide [and] its labeling . . . comply with the reg-
+istration provisions of ” FIFRA. §136a(f )(2).
+These two parts of §136a(f )(2) work in tandem. Registra-
+tion is prima facie evidence that the pesticide’s label com-
+plies with FIFRA’s requirement s, meaning that the EPA’s
+approval reflects the agency’s best judgment that the label
+satisfies FIFRA. See §136a(c)(5)(B). But prima facie evi-
+dence is not conclusive evidence. Thus, the statute clarifies
+that, in the face of a misbranding charge, the EPA’s regis -
+tration is not a defense. This means that the EPA’s
+
+11  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+approval of a pesticide’s label cannot conclusively establish
+that the pesticide is not misbranded.  The statute, in other
+words, does not treat as infallible the EPA’s judgment as to
+whether FIFRA’s misbranding provision has been violated.
+For that reason, a pesticide may be “registered but never-
+theless misbranded.”  Bates, 544 U. S., at 438.
+This, in turn, must mean that the EPA’s (not infallible)
+approval of a pesticide’s label does not establish a “rule of
+law that must be obeyed” when it comes to the pesticide’s
+label. Id., at 445.  Because the EPA’s registration decision
+is not conclusive of the label’s compliance with the statute,
+that registration decision itself cannot carry the force of
+law, much less capture the universe of requirements with
+which a manufacturer must comply to prevent its product
+from being misbranded in violation of FIFRA.  To conclude
+otherwise would turn the registration decision from “prima
+facie evidence” of compliance with FIFRA into conclusive
+proof of such compliance.  It defies logic to treat the EPA’s
+approval of a pesticide’s label as creating a legal require-
+ment under FIFRA when that approved label may not com-
+ply with the law.
+The majority fails to grapple with any of this.  Nor does
+it address the internal tension its theory produces.  The ma-
+jority says that the registration process creates a require -
+ment because a pesticide manufacturer must use the label
+exactly as the EPA approved it, with no additions or
+changes. But the statutory misbranding prohibition might
+well require a different or additional warning on the label
+than what the EPA approved, since approval is merely
+prima facie evidence of compliance. The majority’s theory
+thus cannot be squared with what FIFRA plainly requires.
+That is, notwithstanding the EPA’s approval of its label, a
+manufacturer has “a continuing obligation to adhere to
+FIFRA’s labeling requirements,” including the misbranding
+prohibition. Id., at 438.
+
+In short, the EPA’s approval of the label cannot set a “re-
+quirement” for §136v(b) purposes. Instead, the require-
+ments of FIFRA—the misbranding prohibition and the im -
+plementing regulations—dictate the contents of the label.
+This is so because §136a(f )(2) makes clear that FIFRA’s
+misbranding prohibition continues to apply  to pesticides
+even after they have been registered.  The upshot here is
+that, even though the EPA approved Roundup’s label, that
+label could still lack a necessary warning.
+A real-world example illustrates the interplay between
+registration and misbranding. In 1999, the EPA approved
+a label for a Roundup product distributed by Monsanto that
+did not include any statements warning the user that the
+pesticide could leak. 6  But the EPA itself soon determined
+that the approved label did not meet the requirements of
+FIFRA because, “[w]hen used in accordance with its label
+directions,” the pesticide could “leak or spray onto the user.”
+In re: The Monsanto Co., 2000 WL 1886918, *2 (EAB, Sept.
+29, 2000). Accordingly, the EPA imposed civil penalties on
+Monsanto for “distributing or selling misbranded pesti-
+cides.” Ibid.
+This example rebuts the majority’s claim that a regis-
+tered pesticide can be misbranded only if the label contains
+information that was not on the label that the EPA ap -
+proved or omits information that was. Ante, at 16–17. Far
+from creating a new requireme nt under FIFRA, the EPA’s
+approval of the label did not suffice to establish compliance
+with the statutory requirement that a pesticide not be mis-
+branded, nor did it shield Monsanto from liability for
+——————
+6 See Roundup® L & G READY-TO-USE Fast Acting Formula Grass &
+Weed Killer, EPA Reg. No. 239–2638,  pp. 11–12 (June 8, 1999), https://
+www3.epa.gov/pesticides/chem_search/ppls/071995-00008-19990608.pdf
+(archived at https://perma.cc/7EkZ-SPFW).
+
+13  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+violating the misbranding requirement.7 And if a state-
+tort duty, akin to Durnell’s failure-to-warn claim, had like-
+wise required Monsanto to include a leak warning on the
+label, the State’s requirement would have been identical to
+FIFRA’s and therefore would not have been preempted—
+regardless of the fact that the EPA had previously approved
+the label without that warning.
+The continuing force of FIFRA’s misbranding prohibition,
+even after the EPA’s registration of a pesticide, thus re-
+solves today’s preemption dispute. Since FIFRA’s mis-
+branding prohibition remains a requirement with which
+registered pesticides must comply, state-law duties that are
+equivalent to the misbranding prohibition add nothing new
+or different that would trigger preemption.  If an additional
+warning is necessary to comply with FIFRA’s misbranding
+prohibition, then a state-law duty can require that warning,
+even if the EPA approved the label without it.
+2
+The majority tries valiantly to discount the relevance of
+§136a(f )(2)—the provision clarifying that the EPA’s regis-
+tration decision is not conclusive of a pesticide manufac-
+turer’s compliance with FIFRA’s misbranding prohibition.
+Its efforts fail.
+——————
+7 For a similar example, see In re: Ecolab Inc. , 2009 WL 10729367
+(EPA, June 22, 2009) (imposing civil penalties for misbranding on man -
+ufacturer whose three pesticides were  ineffective against certain bacte-
+ria even though the EPA-approved labels stated that the pesticides were
+effective against those bacteria).  See also A–33, EPA Reg. No. 42964–5,
+pp. 2, 4 (Aug. 24, 2004), https://www3 .epa.gov/pesticides/chem_search/
+ppls/042964-00005-20040824.pdf (a rchived at  https://perma.cc/2JPG-
+NXYA) (first label); A–33 Dry, EPA Reg. No. 42964–25, p. 3 (May 17,
+2002), https://www3.epa.gov/pesticides/chem_search/ppls/042964-00025-
+20050517 (archived at https://perma .cc/T6LJ-ZUZB) (second label);
+Omega, EPA Reg. No. 42964–14, p. 2 (May 24, 2001), https://www3.epa.
+gov/pesticides/chem_search/ppls/042964-00014-20010524.pdf (archived
+at https://perma.cc/27XH-WMJZ) (third label).
+
+The majority notes, for example, that §136a(f )(2) is in the
+portion of the registration statute titled “[m]iscellaneous,”
+and reasons that “it would be rather bizarre” for a miscel-
+laneous provision to “upend” the statute’s preemption pro-
+vision. Ante, at 18. But the policy concern about exposing
+manufacturers to disruptive tort liability is no basis for ig -
+noring the statute’s text. And the argument is also substan-
+tively faulty. It assumes the conclusion that the EPA’s ap-
+proval of a label creates a “requirement” with preemptive
+force (hence the bizarreness of  housing this consequential
+provision in a “miscellaneous” section of the statute). Un-
+der a correct interpretation of §136a(f )(2), however, the
+EPA’s approval of the label does not create requirements.
+So registration does not preem pt different or additional
+state-law requirements, §136a(f )(2) does not upend any-
+thing, and the “miscellaneous” placement of this provision
+makes sense.
+The majority also tries to cast doubt on §136a(f )(2)’s rel-
+evance to the preemption provision. In particular, the ma-
+jority argues that §136a(f )(2) does not apply to state tort
+lawsuits as a general matter, and that it would not apply
+here because Monsanto did not invoke the fact of registra-
+tion as a defense to Durnell’s claim. Ante, at 16, 19. But
+this framing misses the point.  Section 136a(f )(2)’s rele-
+vance to the preemption question is not whether Monsanto
+intends to, or can, invoke registration as a defense to Dur-
+nell’s failure-to-warn suit. Instead, §136a(f )(2) clarifies
+that a “no misbranding” conclusion cannot be based on the
+fact of registration alone, thus demonstrating that registra-
+tion itself does not create a labeling requirement under
+FIFRA—in any context.
+In addition to its attempt to downplay §136a(f )(2), the
+majority also insists that the EPA’s registration of a pesti-
+cide must create a labeling requirement because the manu-
+facturer cannot change its pesticide’s label without the
+EPA’s approval, on pain of civil or criminal penalties.  Ante,
+
+15  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+at 10, 15, 17. But the majority’s analysis—which errone-
+ously treats the EPA-approved label as a requirement un-
+der FIFRA—misstates FIFRA and the EPA’s implementing
+regulations, and it also misunderstands the nature of
+FIFRA’s express preemption clause.
+First of all, it is wrong to say that FIFRA establishes that
+a manufacturer can face civil or criminal penalties solely for
+using a label that differs from what the EPA approved. The
+closest FIFRA comes to this is the provision that makes it
+unlawful for any person to “alter . . . any labeling required
+under” FIFRA. §136j(a)(2)(A). Notably, this provision does
+not say that it is unlawful to alter the label that the EPA
+approved. Instead, it protects only the “labeling required
+under” FIFRA. And given §136a(f )(2), we know that the
+EPA-approved label is not coextensive with the “labeling re-
+quired under” FIFRA because FIFRA’s ongoing misbrand-
+ing prohibition could require that the EPA-approved label
+be amended.
+Another variation of this argument is the majority’s con-
+tention that it is a violation of FIFRA’s misbranding provi-
+sion “if a manufacturer sells its pesticide with a different
+label than the one [the] EPA approved.”  Ante,  at 4. The
+majority offers no support for this assertion—and there is
+none. The statutory definition of misbranding does not say
+that a pesticide sold with a label different from the EPA-
+approved label is necessarily misbranded.  See generally
+§136(q).
+Second, the fact that a pesticide manufacturer must seek
+the EPA’s approval for most labeling changes does not
+change the express preemption calculus. Whatever the
+manufacturer must do procedurally to get its product ap-
+proved for marketing, FIFRA requires the manufacturer
+not to sell a misbranded pesticide.  The majority implicitly
+acknowledges this when it notes that the EPA can require
+changes to a pesticide’s label in light of new information or
+analysis. Ante, at 10. The agency mandates such changes
+
+to ensure continued compliance with FIFRA’s require-
+ments, including the misbranding prohibition. See
+§136d(b) (providing that the EPA can cancel a pesticide’s
+registration or change its classification “[i]f it appears to the
+Administrator that a pesticide or its labeling . . . does not
+comply with” FIFRA); §136d(d ) (authorizing the EPA Ad-
+ministrator to “requir[e] modifica tion of the labeling”).  So
+FIFRA’s misbranding prohibition continues to apply to reg-
+istered pesticides. And state-law requirements that paral -
+lel FIFRA’s misbranding prohibition add nothing new.
+Therefore, such state-law requirements can likewise apply
+to registered pesticides.
+At the end of the day, then, the majority’s theory of ex-
+press preemption rests on a mi sinterpretation of FIFRA.
+The EPA’s approval of a pesticide’s label does not create a
+labeling requirement under FIFRA.  Instead, FIFRA’s key
+labeling requirement—the stat utory prohibition on mis-
+branding—continues to apply to registered pesticides even
+though the EPA has approved their labels.  State-law
+claims that parallel the misbranding prohibition are not
+preempted, even if the claim requires a warning that was
+absent from the EPA-approved label. The majority thinks
+it “implausibl[e]” that the “EPA’s registration and labeling
+determinations do not have preemptive force.” Ante, at 15.
+But, at bottom, the majority’s quibble is with the text of
+FIFRA’s misbranding requirement and preemption provi -
+sion, not with Durnell’s claim.
+B
+Perhaps recognizing all this, Monsanto embraces a more
+extreme position: that a registered pesticide can never be
+misbranded. Tr. of Oral Arg. 10–11.  That argument is eas-
+ily disposed of because it c annot be squared with our deci-
+sion in Bates, 544 U. S. 431, which recognized that a pesti-
+cide can be “registered but nevertheless misbranded,” id.,
+at 438. Indeed, Bates—the only prior case in which we
+
+17  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+interpreted FIFRA’s preemption provision—not only re-
+quires flat rejection of this view; it also confirms that the
+majority’s interpretation of §136v(b) is wrong.
+The plaintiffs in Bates brought state tort claims against
+Dow Agrosciences for failing to warn them that the use of
+its pesticide in a particular type of soil would stunt crop
+growth. Id., at 435.  We held that States could impose label-
+based requirements that were equivalent to FIFRA’s mis-
+branding prohibition. Id., at 452–453. And we remanded
+for the lower courts to decide  in the first instance whether
+the particular failure-to-warn claim at issue in Bates im-
+posed a requirement equivalent to FIFRA’s misbranding
+prohibition. Id., at 453–454.
+That disposition is critical. Had Bates accepted the the-
+ory the majority adopts today, there would have been no
+need to remand the case.  That is, if the EPA’s approval of
+a label preempted States from requiring any different or ad-
+ditional warnings, then a failure-to-warn claim would be
+impossible. Our remand in Bates  thus necessarily rejected
+the theory that the EPA’s approval of the label creates a
+labeling requirement that can preempt a state failure-to-
+warn claim.
+The majority tries unsuccessfully to rewrite Bates to sup-
+port its view.  It focuses principally on an example Bates
+gave of the type of EPA regulation that could preempt a
+failure-to-warn claim: the precautionary-statements regu-
+lations that require a “CAUTION” designation or a
+“DANGER” designation depending on the pesticide’s tox-
+icity. Ante, at 11–12 (citing Bates, 544 U. S., at 453).  The
+EPA’s registration determination, the majority says, is “just
+like” those EPA regulations.  Ante, at 12.
+But the majority provides no justification for this compar-
+ison.  For good reason: It is only the EPA’s duly promul-
+gated regulations that can prescribe the content of a pesti -
+cide’s label, not the individua lized registration decision.
+Indeed, Bates made clear that the EPA’s registration
+
+decision and the regulation providing for certain designa-
+tions are not alike. Bates explained that the relevant fed-
+eral requirements could be found in FIFRA’s misbranding
+prohibition and “any relevant  EPA regulations that give
+content” to the misbranding standards.  544 U. S., at 453.
+Bates also noted that “there appear to be relatively few reg-
+ulations that refine or elaborate upon FIFRA’s broadly
+phrased misbranding standards.”  Ibid., n. 28.  Thus, Bates
+gave no suggestion that the EPA’s registration of a particu-
+lar pesticide (and corresponding approval of its label) also
+created requirements under FIFRA.
+Nor could it. Because registration of a pesticide is not
+conclusive of FIFRA compliance, the registration decision
+cannot give content to FIFRA’s misbranding standard.  In -
+stead, Bates’s reference to the EPA regulations means just
+that—the regulations that the EPA promulgated pursuant
+to its statutory authority. See §136w(a).
+The majority also points out that the Bates plaintiffs’
+failure-to-warn claim concerned a pesticide’s lack of effi-
+cacy, while Durnell’s claim here relates to the pesticide’s
+safety. Ante, at 12; see also Brief for Petitioner 31–34.  That
+matters to Bates’s outcome, the majority says, because the
+EPA had not reviewed the pesticide’s efficacy as part of the
+registration process, so the EPA-approved label would of
+course not preempt state-required statements related to ef-
+ficacy. See §136a(c)(5).
+The problem with this argument is that it is irrelevant to
+our actual holding in Bates. Our decision did not rely on
+the fact that the EPA had waived review of the pesticide’s
+efficacy in its registration de termination.  Indeed, outside
+of our discussion of the case’s factual background, we men-
+tioned the agency’s decision to  waive efficacy review only
+once: when explaining why it was particularly important to
+allow tort litigation in those circumstances. 544 U. S., at
+450. But this was in the context of discussing an alterna -
+tive ground for our holding, namely, applying a
+
+19  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+presumption against preemption. Id., at 449–450.  It was
+not support for our primary holding, grounded in the text of
+the statute, that FIFRA does not preempt state tort claims
+that parallel its requirements.8
+Instead of relying on our precedent about FIFRA, the ma-
+jority points to our decision in Riegel v. Medtronic, Inc., 552
+U. S. 312 (2008). See ante, at 12–13.  Riegel  involved an
+entirely separate statute: the Medical Device Amendments
+of 1976 (MDA). Similar to FIFRA, the MDA established a
+premarket registration scheme for medical devices that in-
+cluded review and approval of the devices’ labeling by the
+Food and Drug Administration (FDA).  21 U. S. C.
+§360e(d)(1)(A). The MDA also has an express preemption
+provision similar to FIFRA’s. Specifically, the MDA
+preempts state requirements “with respect to a device in-
+tended for human use” that are “different from, or in addi-
+tion to, any requirement applicable under [the MDA] to the
+device.” §360k(a). We held in  Riegel that “[p]remarket ap-
+proval . . . imposes ‘requirements’ ” specific to medical de-
+vices under the MDA. 552 U. S., at 322–323.  So, the ma-
+jority says, if premarket approval under the MDA creates
+labeling requirements, then the EPA’s registration and ap-
+proval of pesticide labels under FIFRA does too.  Ante,  at
+13–14.
+But in treating Riegel as dispositive, the majority ignores
+a key difference between the MDA and FIFRA: The MDA
+has nothing analogous to 7 U. S. C. §136a(f )(2).  This mat-
+ters because, again, §136a(f )(2) establishes that the EPA’s
+——————
+8 Confirming the irrelevance of the EPA’s waiver of efficacy review to
+our holding in Bates, we granted, vacated, and remanded—in light of
+Bates—a case holding that FIFRA preempted a safety-based failure-to-
+warn claim. Oken v. Monsanto Co., 544 U. S. 1012 (2005); see Oken v.
+Monsanto Co. , 371 F. 3d 1312, 1314–1315 (CA11 2004) ( per curiam).
+Had Bates concluded that the EPA’s approval of a label did not preempt
+a failure-to-warn claim only because the EPA did not review the label’s
+statements related to efficacy, vacating and remanding a safety-based
+case would have been unnecessary.
+
+approval of a pesticide’s label is not conclusive of the label’s
+compliance with FIFRA and therefore cannot establish a re-
+quirement under FIFRA. Because the MDA lacks an
+analogous provision, it might well be that the FDA’s ap -
+proval of a medical device’s label does create labeling re-
+quirements under the MDA.9
+There is another reason that the right outcome in today’s
+case differs from  Riegel : Riegel did not involve “parallel
+claims.” 552 U. S., at 330.  The litigation in Riegel pro-
+ceeded on the assumption that the medical device “violated
+state tort law notwithstanding compliance with the rele-
+vant federal requirements.”  Ibid. So this Court had no oc-
+casion to consider whether there was an applicable federal
+requirement, apart from the FDA’s premarket approval
+process, that might be equivalent to the plaintiffs’ tort
+claim. Here, by contrast, it is precisely because FIFRA’s
+misbranding prohibition parallels Missouri’s failure-to-
+warn claim that Durnell’s claim is not preempted.
+Thus, it is Bates, not Riegel, that is dispositive here.  Con-
+tra, ante, at 13. Bates confirms what FIFRA’s text makes
+clear: The EPA’s approval of a label does not create a re-
+quirement under FIFRA.
+IV
+Having rejected Monsanto’s express preemption argu-
+ment, I conclude by addressing  its alternative contention
+that Durnell’s failure-to-warn claim is impliedly
+——————
+9 The majority tries to wave away the MDA’s lack of a provision analo-
+gous to §136a(f )(2), arguing that, in any event, the FDA could withdraw
+premarket approval from a medical de vice that it had previously ap-
+proved. Ante, at 19–20, n. 9. But the statutory caveat in §136a(f )(2) is
+broader than the FDA’s withdrawal authority in the MDA.  Specifically,
+§136a(f )(2) makes clear that registration  does not preclude a pesticide
+from being misbranded—regardless of who  makes the misbranding de-
+termination.  By contrast, the MDA gives authority only to the FDA to
+withdraw premarket approval from a medical device if it determines that
+device is misbranded.  21 U. S. C. §360e(e)(1)(F); see §352(a).
+
+21  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+preempted. Specifically, Monsant o argues that it is impos-
+sible to comply with both the labeling requirements of Mis-
+souri law and the labeling requirements of FIFRA.  See Mu-
+tual Pharmaceutical Co.  v. Bartlett , 570 U. S. 472, 480
+(2013).
+Monsanto is wrong. It can easily comply with both fed-
+eral and state law by stopping sales of Roundup.  Under
+FIFRA, it is unlawful to sell a misbranded pesticide.
+§136j(a)(1)(E). Under Missouri failure-to-warn law, manu-
+facturers have a duty not to sell products made unreasona-
+bly dangerous by inadequate warnings. See Racer v. Utter-
+man, 629 S. W. 2d 387, 395 (Mo. App. 1981).  Far from being
+incompatible, both federal and state law require  Monsanto
+to stop selling its pesticide if the label lacks adequate warn-
+ings.
+To be sure, our decision in Bartlett largely rejected a
+“stop-selling rationale” as “i ncompatible with our pre-
+emption jurisprudence.” 570 U. S., at 488 (internal quota-
+tion marks omitted).  But we also expressly left open the
+possibility that a manufacturer could avoid state and fed-
+eral liability if the state claim “parallel[ed] the federal mis-
+branding statute” at issue in that case. Id., at 487, n. 4.
+This was because the relevant misbranding statute could
+require the manufacturer to pull the product from the mar-
+ket. Ibid. As support for this conclusion, we cited Bates,
+implying that we were not deciding whether a “stop-selling
+rationale” would (or would not) work to avoid implied
+preemption where the federal and state standards are
+equivalent and impose a duty not to sell misbranded prod -
+ucts. This case thus falls squarely into the exception seem -
+ingly left open by Bartlett.
+In any event, Monsanto’s implied preemption argument
+fails on its own terms.  The premise of Monsanto’s conten-
+tion is that Missouri law requires it to add a cancer warn -
+ing, but FIFRA prohibits Monsanto from adding such a
+
+warning without approval from the EPA. Monsanto says it
+thus cannot do under federal law what state law requires.
+But Monsanto overstates the difficulty of adding a cancer
+warning to Roundup’s label.  In PLIVA, Inc. v. Mensing, 564
+U. S. 604 (2011), we explained how true impossibility works
+in the labeling context.  There, a plaintiff alleged that a ge-
+neric drug manufacturer had failed to include adequate
+warnings on its label. Id., at 610. Federal law, however,
+required the label on a generi c drug to match exactly the
+label on the brand-name drug.  Id ., at 612–613.  So, for a
+generic manufacturer to add a warning, it would have to
+ask the FDA to ask the brand-name manufacturer to add
+the warning.  Id., at 616.  We explained that the state-law
+claim was preempted because it was impossible for the ge-
+neric manufacturer to add th e required warning without
+the “special permission and assistance” of the Government.
+Id., at 623–624.
+Here, by contrast, Monsanto does not need the EPA’s
+“special permission and assistance” to add a cancer warn-
+ing. Like all pesticide manufacturers, Monsanto bears pri-
+mary responsibility for maintaining the warnings on its la-
+bel. See Bates, 544 U. S., at 438 (“[M]anufacturers have a
+continuing obligation to adhere to FIFRA’s labeling require-
+ments”).  To the extent it n eeds the EPA’s approval at all
+(more on that below), all it must do is submit an application
+for an amended registration t hat reflects the labeling
+change, which the EPA “shall” approve as long as the
+change does not violate FIFRA.  §136a(f )(1); see 40 CFR
+§152.44(a).  This is a far cry from the contingent chain of
+approvals a generic drug manufacturer was required to se-
+cure in PLIVA.
+But there is no need for Monsanto to undertake this
+amended-registration path here. Monsanto can add a can-
+cer warning without the EPA’s approval.  The EPA’s regu -
+lations permit pesticide manufacturers to make “minor
+modifications” to their labels without getting prior approval
+
+23  Cite as: 609 U. S. ____ (2026)
+JACKSON, J., dissenting
+from the agency. §152.46. Instead, the manufacturer need
+only notify the EPA of the change (and in some cases, noti -
+fication is not even required). Ibid.
+The majority claims that adding a cancer warning would
+not be a “minor” modification. Ante, at 10–11, n. 5.  For
+support, it relies on the regulation that requires the EPA’s
+approval for “ ‘statements pertaining to the hazards of the
+product.’” Ibid. (quoting §156.70(c)). But that regulation
+does not apply to chronic conditions like cancer.  See supra,
+at 6, and n. 4.  The prior-approval requirement for hazard
+and precautionary statements says nothing about whether
+cancer warnings also need prior approval from the EPA.
+While a cancer warning may not seem like a minor mod-
+ification, facts on the ground belie that appearance.  On at
+least six occasions, the EPA has permitted manufacturers
+to add state-specific cancer warnings as minor modifica -
+tions without the agency’s prior approval. 10  A m o n g  t h e
+manufacturers that have previously added a cancer
+——————
+10 See, e.g., Letter from K. Montague, EPA, Office of Pesticide
+Programs, to L. Zahigian, Lawn and Garden Products, Inc. (Sept. 14,
+2017), https://www3.epa.gov/pesticides/chem_search/ppls/054705-00006-
+20170914.pdf (archived at https://perma.cc/9Y47-RGPK); Letter from K.
+Davis, EPA, Office of Pesticide Programs, to L. Radevski, Chase Products
+Co. (June 21, 2017), https://www3.epa.g ov/pesticides/chem_search/ppls/
+000498-000156-20170621.pdf (archived at  https://perma.cc/46KX-
+U46D); Letter from M. Walsh, EPA, O ffice of Pesticide Programs, to E.
+Smith, PBI/Gordon Corporation (May 30, 2017), https://www3.epa.
+gov/pesticides/chem_search/ppls/033955-000394-20170530.pdf (archived
+at https://perma.cc/6469-9D7S); Letter from M. Walsh, EPA, Office of
+Pesticide Programs, to C. Zemanek, The Scotts Company LLC (Mar. 1,
+2017), https://www3.epa.gov/pesticides/chem_search/ppls/000239-00739-
+20170301.pdf (archived at https://per ma.cc/P9SH-74HV); Letter from J.
+Urbanski, EPA, Office of Pesticide Programs, to V. Lawless, Wellmark
+International (Apr. 21, 2015), https://www3.epa.gov/pesticides /
+chem_search/ppls/002724-00702-20150421.pdf (archived at https://
+perma.cc/GJR9-FRQ2); Letter from J. Gaines, EPA, Office of Pesticide
+Programs, to L. Hodges, Bayer Cr opScience (Dec. 17, 2012), https://
+www3.epa.gov/pesticides/chem_search/ppls/000264-00343-20131217.pdf
+(archived at https://perma.cc/P4RU-6X2W).
+
+warning without prior approval is a subsidiary of Mon-
+santo’s parent company, Bayer.
+* * *
+The majority reads into FI FRA a labeling requirement
+that does not exist, and it re ads out of FIFRA the statute’s
+ongoing prohibition on misbranding.  This interpretation
+cannot be squared with the text of FIFRA or our precedents.
+Ultimately, the effect of the majority’s interpretation is
+both remarkable and regrettable, for it unjustifiably closes
+the courthouse doors to state tort plaintiffs like Durnell.

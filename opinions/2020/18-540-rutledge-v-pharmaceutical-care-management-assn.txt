@@ -1,0 +1,339 @@
+Rutledge v. Pharmaceutical Care Management Assn. — No. 18-540 — October Term 2020 — decided 12/10/20 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 592 U.S. 80
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=120 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Sotomayor delivered the opinion of the Court.
+Arkansas' Act 900 regulates the price at which pharmacy
+benefit managers reimburse pharmacies for the cost of drugs
+covered by prescription-drug plans. The question pre -
+sented in this case is whether the Employee Retirement
+Income Security Act of 1974 (ERISA), 88 Stat. 829, as
+amended, 29 U. S. C. § 1001 et seq., pre-empts Act 900. The
+Court holds that the Act has neither an impermissible con-
+nection with nor reference to ERISA and is therefore not
+pre-empted.
+I
+A
+Pharmacy benefit managers (PBMs) are a little-known but
+important part of the process by which many Americans get
+their prescription drugs. Generally speaking, PBMs serve
+as intermediaries between prescription-drug plans and the
+AARP et al. by Dara S. Smith, Barbara A. Jones, and William Alvarado
+Rivera; for the AIDS Healthcare Foundation by Laura Boudreau; for the
+Alliance for Transparent and Affordable Prescriptions by Daniel L. Geyser
+and J. Carl Cecere; for the American Medical Association et al. by Jack R.
+Bierig and Aphrodite Kokolis; for the Arkansas Pharmacists Association
+et al. by Howard R. Rubin and Robert T. Smith; for the Community Oncol-
+ogy Alliance, Inc., et al. by Jonathan E. Levitt and Todd Mizeski; for FMI
+et al. by William E. Copley and Saul Cohen; for the National Association of
+Chain Drug Stores, Inc., by Adam G. Unikowsky and Don L. Bell II; for the
+National Association of Specialty Pharmacy by Robert M. Palumbos, Jona-
+than L. Swichar, and Bradley A. Wasser; and for the National Council of
+Insurance Legislators by Nathaniel S. Shapo and Thomas P . Peabody.
+Briefs of amici curiae urging affirmance were fled for the Academy of
+Managed Care Pharmacy by Tacy F. Flint; for America's Health Insurance
+Plans, Inc., by Anthony F. Shelley, Dawn E. Murphy-Johnson, Julie
+Simon Miller, and Thomas M. Palumbo; for the Chamber of Commerce
+of the United States of America et al. by Helgi C. Walker, Matthew S.
+Rozen, and Daryl L. Joseffer; for Employers Health Purchasing Corp. by
+Carter G. Phillips and Jennifer J. Clark; for J. B. Hunt Transport Serv-
+ices, Inc., by Brandon P . Long, Mark D. Spencer, and Richard D. Nix; and
+for the Society of Human Resource Management by Richard B. Lapp,
+Camille A. Olson, and Mark Casciari.
+MANAGEMENT ASSN.
+Opinion of the Court
+pharmacies that benefciaries use. When a benefciary of a
+prescription-drug plan goes to a pharmacy to fll a prescrip-
+tion, the pharmacy checks with a PBM to determine that
+person's coverage and copayment information. After the
+benefciary leaves with his or her prescription, the PBM re-
+imburses the pharmacy for the prescription, less the amount
+of the benefciary's copayment. The prescription-drug plan,
+in turn, reimburses the PBM.
+The amount a PBM “reimburses” a pharmacy for a drug
+is not necessarily tied to how much the pharmacy paid to
+purchase that drug from a wholesaler. Instead, PBMs' con-
+tracts with pharmacies typically set reimbursement rates ac-
+cording to a list specifying the maximum allowable cost
+(MAC) for each drug. PBMs normally develop and adminis-
+ter their own unique MAC lists. Likewise, the amount that
+prescription-drug plans reimburse PBMs is a matter of con-
+tract between a given plan and a PBM. A PBM's reim-
+bursement from a plan often differs from and exceeds a
+PBM's reimbursement to a pharmacy. That difference gen-
+erates a proft for PBMs.
+In 2015, Arkansas adopted Act 900 in response to concerns
+that the reimbursement rates set by PBMs were often too
+low to cover pharmacies' costs, and that many pharmacies,
+particularly rural and independent ones, were at risk of los-
+ing money and closing. 2015 Ark. Acts no. 900. In effect,
+Act 900 requires PBMs to reimburse Arkansas pharmacies
+at a price equal to or higher than that which the pharmacy
+paid to buy the drug from a wholesaler.
+Act 900 accomplishes this result through three key en-
+forcement mechanisms. First, the Act requires PBMs to
+tether reimbursement rates to pharmacies' acquisition costs
+by timely updating their MAC lists when drug wholesale
+prices increase. Ark. Code Ann. § 17–92–507(c)(2) (Supp.
+2019). Second, PBMs must provide administrative appeal
+procedures for pharmacies to challenge MAC reimbursement
+prices that are below the pharmacies' acquisition costs.
+§ 17–92–507(c)(4)(A)(i)(b). If a pharmacy could not have
+acquired the drug at a lower price from its typical whole-
+saler, a PBM must increase its reimbursement rate to cover
+the pharmacy's acquisition cost. § 17–92–507(c)(4)(C)(i)( b).
+PBMs must also allow pharmacies to “reverse and rebill”
+each reimbursement claim affected by the pharmacy's inabil-
+ity to procure the drug from its typical wholesaler at a price
+equal to or less than the MAC reimbursement price. § 17–
+92–507(c)(4)(C)(iii). Third, and finally, the Act permits a
+pharmacy to decline to sell a drug to a benefciary if the
+relevant PBM will reimburse the pharmacy at less than its
+acquisition cost. § 17–92–507(e).
+B
+Respondent Pharmaceutical Care Management Associa-
+tion (PCMA) is a national trade association representing the
+11 largest PBMs in the country. After the enactment of Act
+900, PCMA fled suit in the Eastern District of Arkansas,
+alleging, as relevant here, that Act 900 is pre-empted by
+ERISA. See 29 U. S. C. § 1144(a) (ERISA pre-empts “any
+and all State laws insofar as they may now or hereafter re-
+late to any employee benefit plan”).
+Before the District Court issued its opinion in response to
+the parties' cross-motions for summary judgment, the Court
+of Appeals for the Eighth Circuit decided, in a different case,
+that ERISA pre-empts a similar Iowa statute. Pharmaceu-
+tical Care Mgmt. Assn. v. Gerhart, 852 F. 3d 722 (2017). The
+Eighth Circuit concluded that the Iowa statute was pre-
+empted for two reasons. First, it made “implicit reference”
+to ERISA by regulating PBMs that administer benefits for
+ERISA plans. Id., at 729. Second, it was impermissibly
+“connected with” an ERISA plan because, by requiring an
+appeal process for pharmacies to challenge PBM reimburse-
+ment rates and restricting the sources from which PBMs
+could determine pricing, the law limited a plan administra-
+tor's ability to control the calculation of drug benefits. Id.,
+MANAGEMENT ASSN.
+Opinion of the Court
+at 726, 731. Concluding that Arkansas' Act 900 contains
+similar features, the District Court held that ERISA like-
+wise pre-empts Act 900. 240 F. Supp. 3d 951, 958 (ED Ark.
+2017). The Eighth Circuit affirmed. 891 F. 3d 1109, 1113
+(2018). This Court granted certiorari. 589 U. S. 1127 (2020).
+II
+ERISA pre-empts “any and all State laws insofar as they
+may now or hereafter relate to any employee benefit plan”
+covered by ERISA. 29 U. S. C. § 1144(a). “[A] state law re-
+lates to an ERISA plan if it has a connection with or refer-
+ence to such a plan.” Egelhoff v. Egelhoff, 532 U. S. 141, 147
+(2001) (internal quotation marks omitted). Because Act 900
+has neither of those impermissible relationships with an
+ERISA plan, ERISA does not pre-empt it.
+A
+To determine whether a state law has an “impermissible
+connection” with an ERISA plan, this Court considers
+ERISA's objectives “as a guide to the scope of the state law
+that Congress understood would survive.” California Div.
+of Labor Standards Enforcement v. Dillingham Constr.,
+N. A., Inc., 519 U. S. 316, 325 (1997) (internal quotation
+marks omitted). ERISA was enacted “to make the benefits
+promised by an employer more secure by mandating certain
+oversight systems and other standard procedures.” Go-
+beille v. Liberty Mut. Ins. Co., 577 U. S. 312, 320–321 (2016).
+In pursuit of that goal, Congress sought “to ensure that
+plans and plan sponsors would be subject to a uniform body
+of benefits law,” thereby “minimiz[ing] the administrative
+and financial burden of complying with conflicting directives”
+and ensuring that plans do not have to tailor substantive
+benefits to the particularities of multiple jurisdictions.
+Ingersoll-Rand Co. v. McClendon, 498 U. S. 133, 142 (1990).
+ERISA is therefore primarily concerned with preempting
+laws that require providers to structure benefit plans in par-
+ticular ways, such as by requiring payment of specific bene-
+fts, Shaw v. Delta Air Lines, Inc., 463 U. S. 85 (1983), or by
+binding plan administrators to specific rules for determining
+benefciary status, Egelhoff, 532 U. S. 141. A state law may
+also be subject to pre-emption if “acute, albeit indirect, eco-
+nomic effects of the state law force an ERISA plan to adopt
+a certain scheme of substantive coverage.” Gobeille, 577
+U. S., at 320 (internal quotation marks omitted). As a short-
+hand for these considerations, this Court asks whether a
+state law “governs a central matter of plan administration
+or interferes with nationally uniform plan administration.”
+Ibid. (internal quotation marks and ellipsis omitted). If it
+does, it is pre-empted.
+Crucially, not every state law that affects an ERISA plan
+or causes some disuniformity in plan administration has an
+impermissible connection with an ERISA plan. That is es-
+pecially so if a law merely affects costs. In New York State
+Conference of Blue Cross & Blue Shield Plans v. Travelers
+Ins. Co., 514 U. S. 645 (1995), this Court addressed a New
+York law that imposed surcharges of up to 13% on hospital
+billing rates for patients covered by insurers other than Blue
+Cross/Blue Shield (Blues). Plans that bought insurance
+from the Blues therefore paid less for New York hospital
+services than plans that did not. This Court presumed that
+the surcharges would be passed on to insurance buyers, in-
+cluding ERISA plans, which in turn would incentivize
+ERISA plans to choose the Blues over other alternatives in
+New York. Id., at 659. Nevertheless, the Court held that
+such an “indirect economic influence” did not create an im-
+permissible connection between the New York law and
+ERISA plans because it did not “bind plan administrators to
+any particular choice.” Ibid. The law might “affect a
+plan's shopping decisions, but it [did] not affect the fact that
+any plan will shop for the best deal it can get.” Id., at 660.
+If a plan wished, it could still provide a uniform interstate
+benefit package. Ibid.
+MANAGEMENT ASSN.
+Opinion of the Court
+In short, ERISA does not pre-empt state rate regulations
+that merely increase costs or alter incentives for ERISA
+plans without forcing plans to adopt any particular scheme
+of substantive coverage. Id., at 668; cf. De Buono v. NYSA–
+ILA Medical and Clinical Services Fund, 520 U. S. 806, 816
+(1997) (concluding that ERISA did not pre-empt a state tax
+on gross receipts for patient services that simply increased
+the cost of providing benefits); Dillingham, 519 U. S., at 332
+(holding that ERISA did not pre-empt a California statute
+that incentivized, but did not require, plans to follow certain
+standards for apprenticeship programs).
+The logic of Travelers decides this case. Like the New
+York surcharge law in Travelers, Act 900 is merely a form
+of cost regulation. It requires PBMs to reimburse pharma-
+cies for prescription drugs at a rate equal to or higher than
+the pharmacy's acquisition cost. PBMs may well pass those
+increased costs on to plans, meaning that ERISA plans may
+pay more for prescription-drug benefits in Arkansas than in,
+say, Arizona. But “cost uniformity was almost certainly not
+an object of pre-emption.” Travelers, 514 U. S., at 662.
+Nor is the effect of Act 900 so acute that it will effectively
+dictate plan choices. See id., at 668. Indeed, Act 900 is less
+intrusive than the law at issue in Travelers, which created a
+compelling incentive for plans to buy insurance from the
+Blues instead of other insurers. Act 900, by contrast, ap-
+plies equally to all PBMs and pharmacies in Arkansas. As
+a result, Act 900 does not have an impermissible connection
+with an ERISA plan.
+B
+Act 900 also does not “refer to” ERISA. A law refers to
+ERISA if it “ `acts immediately and exclusively upon ERISA
+plans or where the existence of ERISA plans is essential to
+the law's operation.' ” Gobeille, 577 U. S., at 319–320 (quot-
+ing Dillingham, 519 U. S., at 325; ellipsis omitted).
+Act 900 does not act immediately and exclusively upon
+ERISA plans because it applies to PBMs whether or not
+they manage an ERISA plan. Indeed, the Act does not di-
+rectly regulate health benefit plans at all, ERISA or other-
+wise. It affects plans only insofar as PBMs may pass along
+higher pharmacy rates to plans with which they contract.
+ERISA plans are likewise not essential to Act 900's opera-
+tion. Act 900 defines a PBM as any “entity that administers
+or manages a pharmacy benefits plan or program,” and it
+defines a “pharmacy benefits plan or program,” in turn, as
+any “plan or program that pays for, reimburses, covers the
+cost of, or otherwise provides for pharmacist services to indi-
+viduals who reside in or are employed in [Arkansas].” Ark.
+Code Ann. §§ 17–92–507(a)(7), (9). Under those provisions,
+Act 900 regulates PBMs whether or not the plans they serv-
+ice fall within ERISA's coverage.1 Act 900 is therefore anal-
+ogous to the law in Travelers, which did not refer to ERISA
+plans because it imposed surcharges “regardless of whether
+the commercial coverage [was] ultimately secured by an
+ERISA plan, private purchase, or otherwise.” 514 U. S., at
+656; see also Dillingham, 519 U. S., at 328 (concluding that
+the relevant California law did not refer to ERISA plans
+because the apprenticeship programs it regulated did not
+need to be ERISA programs).
+III
+PCMA disagrees that Act 900 amounts to nothing more
+than cost regulation. It contends that Act 900 has an imper-
+missible connection with an ERISA plan because its enforce-
+ment mechanisms both directly affect central matters of plan
+administration and interfere with nationally uniform plan ad-
+ministration. The mechanisms that PCMA identifies, how-
+ever, do not require plan administrators to structure their
+benefit plans in any particular manner, nor do they lead to
+anything more than potential operational ineffciencies. 2
+1 PBMs contract with a variety of healthcare plans and programs that
+are not covered by ERISA, including Medicaid, Medicare, military, and
+market place plans.
+2 PCMA does not suggest that Act 900's enforcement mechanisms over-
+lap with “fundamental components of ERISA's regulation of plan adminis-
+tration.” Gobeille v. Liberty Mut. Ins. Co., 577 U. S. 312, 323 (2016).
+MANAGEMENT ASSN.
+Opinion of the Court
+PCMA first claims that Act 900 affects plan design by man-
+dating a particular pricing methodology for pharmacy bene-
+fts. As PCMA reasons, while a plan might prefer that
+PBMs reimburse pharmacies using a MAC list constructed
+with an eye toward containing costs and ensuring predict-
+ability, Act 900 ignores that preference and instead requires
+PBMs to reimburse pharmacies based on acquisition costs.
+But that argument is just a long way of saying that Act 900
+regulates reimbursement rates. Requiring PBMs to reim-
+burse pharmacies at or above their acquisition costs does not
+require plans to provide any particular benefit to any partic-
+ular benefciary in any particular way. It simply establishes
+a floor for the cost of the benefits that plans choose to pro-
+vide. The plans in Travelers might likewise have preferred
+that their insurers reimburse hospital services without pay-
+ing an additional surcharge, but that did not transform New
+York's cost regulation into central plan administration. 3
+Act 900's appeal procedure likewise does not govern cen-
+tral matters of plan administration. True, plan administra-
+tors must “comply with a particular process, subject to state-
+specific deadlines, and [Act 900] dictates the substantive
+standard governing the resolution of [an] appeal.” Brief for
+Respondent 24. Moreover, if a pharmacy wins its appeal, a
+plan, depending on the terms of its contract with a PBM,
+may need to recalculate and reprocess how much it (and its
+benefciary) owes. But any contract dispute implicating the
+cost of a medical benefit would involve similar demands and
+could lead to similar results. Taken to its logical endpoint,
+PCMA's argument would pre-empt any suits under state law
+that could affect the price or provision of benefits. Yet this
+Court has held that ERISA does not pre-empt “state-law
+mechanisms of executing judgments against ERISA welfare
+3 PCMA also points to Act 900's requirement that PBMs update their
+MAC lists to reflect statutorily mandated prices. But that obligation does
+not affect plan design for the same reasons. Moreover, if PBMs were not
+required to update their MAC lists, they would be in constant noncompli-
+ance with Act 900's cost regulation.
+benefit plans, even when those mechanisms prevent plan par-
+ticipants from receiving their benefits.” Mackey v. Lanier
+Collection Agency & Service, Inc., 486 U. S. 825, 831–832
+(1988).
+PCMA also argues that Act 900 interferes with central
+matters of plan administration by allowing pharmacies to de-
+cline to dispense a prescription if the PBM's reimbursement
+will be less than the pharmacy's cost of acquisition. PCMA
+contends that such a refusal effectively denies plan benefci-
+aries their benefits, but that argument misunderstands the
+statutory scheme. Act 900 requires PBMs to compensate
+pharmacies at or above their acquisition costs. When a
+pharmacy declines to dispense a prescription, the responsi-
+bility lies first with the PBM for offering the pharmacy a
+below-acquisition reimbursement.
+Finally, PCMA argues that Act 900's enforcement mecha-
+nisms interfere with nationally uniform plan administration
+by creating “operational ineffciencies.” Brief for Respond-
+ent 34. But creating ineffciencies alone is not enough to
+trigger ERISA pre-emption. See, e. g., Mackey, 486 U. S.,
+at 831 (holding that ERISA did not pre-empt a state garnish-
+ment procedure despite petitioners' contention that such ac-
+tions would impose “substantial administrative burdens and
+costs” on plans). PCMA argues that those operational inef-
+fciencies will lead to increased costs and, potentially, de-
+creased benefits. ERISA does not pre-empt a state law that
+merely increases costs, however, even if plans decide to limit
+benefits or charge plan members higher rates as a result.
+See De Buono , 520 U. S., at 816 (“Any state tax, or other
+law, that increases the cost of providing benefits to covered
+employees will have some effect on the administration of
+ERISA plans, but that simply cannot mean that every state
+law with such an effect is pre-empted by the federal
+statute”).
+* * *
+In sum, Act 900 amounts to cost regulation that does not
+bear an impermissible connection with or reference to

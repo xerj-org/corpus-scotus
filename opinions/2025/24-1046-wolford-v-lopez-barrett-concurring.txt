@@ -1,0 +1,512 @@
+Wolford v. Lopez — No. 24-1046 — October Term 2025 — decided 6/25/26 — BARRETT, J., concurring
+Citation: 609 U.S. 185
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1046_nmio.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 24–1046
+JASON WOLFORD, ET AL., PETITIONERS v. ANNE E.
+LOPEZ, ATTORNEY GENERAL OF HAWAII
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE BARRETT, with whom J USTICE THOMAS and
+JUSTICE GORSUCH join as to Part II–B, concurring.
+I join the Court’s opinion in full.  I write to add a few
+points about why Hawaii’s law triggers—and fails—Second
+Amendment scrutiny.
+I
+Hawaii and the principal dissent insist that this is a case
+about property law, not the Second Amendment.  The argu-
+ment goes like this: No one has the right to enter private
+property—let alone to bring firearms onto it—without the
+owner’s consent.  Brief for Respondent 14–15. Whether con-
+sent can be implied or must be express depends on local cus-
+tom and property rules, which States have always had au-
+thority to modify.  Id., at 15–16. By requiring express
+consent, Hawaii has simply modified a default rule of prop-
+erty law. And because the “ ‘pre-existing [Second Amend-
+ment] right’ ” did not require any particular default rule,
+Hawaii’s law does not even implicate the Second Amend-
+ment. Id., at 13 (quoting New York State Rifle & Pistol
+Assn., Inc. v. Bruen, 597 U. S. 1, 20 (2022)); see post, at 6–
+13 (JACKSON, J., dissenting). No further analysis is neces-
+sary.
+ This argument misunderstands the role of historical evi-
+dence in a Second Amendment challenge. Bruen
+
+establishes a two-part test for assessing whether a modern
+law is consistent with the Second Amendment.  See 597
+U. S., at 24. Each step require s a court to look at different
+evidence—plain text at the first, tradition at the second—
+but together, the two steps illu minate the original scope of
+the right. See ibid. While history is relevant to both steps,
+it plays a different “rol[e]” at each one.  United States v.
+Rahimi, 602 U. S. 680, 738 (2024) (B ARRETT, J., concur -
+ring).  We look to history that “elucidates how contemporar-
+ies understood the text—for example, the meaning of the
+phrase ‘bear Arms’ ”—at Bruen’s first step .  602 U. S., at
+738–739. We save “historical gun regulations,” however, for
+Bruen’s second step. 602 U. S., at 739. 1
+In this case, Bruen’s first step is easily satisfied.  Peti-
+tioners are members of “the people” and wish to “bear”
+“Arms” onto private property held open to the public.  U. S.
+Const., Amdt. 2. Hawaii’s law makes it a crime for
+“A [licensed] person carrying a firearm [to] intention-
+ally, knowingly, or recklessly enter or remain on pri -
+vate property of another person while carrying a loaded
+or unloaded firearm, whether the firearm is operable
+or not, and whether the firearm is concealed or uncon-
+cealed, unless the person has been given express au-
+thorization to carry a firearm on the property by the
+owner, lessee, operator, or manager of the property.”
+Haw. Rev. Stat. §134–9.5(a) (2023).
+——————
+1 The principal dissent erroneously cl aims that this division leaves
+judges “free to insert any meaning they desire into the text of the Second
+Amendment.” Post, at 17 (opinion of JACKSON, J.). No one disputes that
+the Second Amendment’s text has a fixed meaning that must be satisfied
+before a law is deemed presumptively unconstitutional.  See ante, at 7
+(identifying “three subsidiary questi ons” that must be answered at
+Bruen’s first step). The disagreemen t is instead whether courts can
+smuggle additional limits, drawn from our regulatory tradition, into the
+plain-text stage of the inquiry.  The answer is and always has been no.
+
+3  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+This is obviously a “regulat[ion]” of “arms-bearing conduct,”
+so it falls within the Second Amendment’s plain text.
+Rahimi, 602 U. S., at 691.  Whether the law nevertheless
+comports with our historical tradition of firearm regula -
+tion—including the traditional property laws that Hawaii
+invokes today—is a question for Bruen’s second step, not its
+first.
+It is irrelevant, for purposes of the Amendment’s plain
+text, that a property owner has the right to exclude anyone
+who wishes to enter her prope rty with firearms.  No one
+doubts that all property owners in Hawaii could bar the
+carry of arms on their respective premises, if they wanted
+to. But the Second Amendment does not apply to private
+parties. It does apply to the States.  See U. S. Const., Amdt.
+14, §1.  And when a State enacts a property law that regu -
+lates arms-bearing conduct, that law implicates the Second
+Amendment.2
+Consider how Hawaii and the principal dissent’s argu-
+ment would play out in another context. What if a State
+made it a crime to wear religious head garb (say, a hijab)
+onto private property open to the public without obtaining
+express authorization? Could that statute evade constitu-
+tional scrutiny? On Hawaii and the principal dissent’s
+logic, the answer is apparently yes: No one has the right to
+enter another’s property without permission, and the State
+has merely adjusted the default to require permission to be
+clear. But that is plainly wrong. Because the law regulates
+religious and expressive conduct, its enactment is state ac-
+tion that triggers First Amendment scrutiny.  Cf. Martin v.
+——————
+2 If Hawaii and the principal dissent  were right that the Second
+Amendment does not kick in until a property owner gives consent, one
+wonders: Could a State simply prohibit its citizens from authorizing the
+carry of firearms onto their property?  This would certainly interfere with
+the liberty of property owners, but it  is hard to see how, on Hawaii and
+the principal dissent’s logic, the Second Amendment would come into
+play.
+
+City of Struthers, 319 U. S. 141, 143 (1943) (municipal ordi-
+nance prohibiting door-to-door solicitation violates the First
+Amendment).
+The same goes for a default rule, like Hawaii’s, that tar-
+gets the right to bear arms.  Property laws, no less than
+other laws, are subject to constitutional limits. See ante, at
+18, n. 13. So when a property law “restrict[s]” the bearing
+of arms, ante, at 7, the State must prove that the law abides
+by the limits of the Second Amendment.
+II
+The Second Amendment secures the pre-existing right of
+the people to have and carry weapons for their defense.  But
+that right was not unlimited at the founding, and it is not
+unlimited today. See District of Columbia  v. Heller, 554
+U. S. 570, 626 (2008). Now, as then, States may regulate
+the keeping and bearing of arms so long as they do not “in -
+firing[e]” the right, as originally understood.  U. S. Const.,
+Amdt. 2. To determine when a modern regulation crosses
+the line, we assess whether it comports with “the Nation’s
+historical tradition of firearm regulation.” Bruen, 597 U. S.,
+at 24. By asking “why” and “h ow” States historically regu-
+lated the right, we can identify the range of permissible reg-
+ulatory goals and how far States may go to achieve them.
+Id., at 29. Both the end pursued and means deployed must
+be “consistent with the principles that underpin our regu-
+latory tradition.”  Rahimi, 602 U. S., at 692.
+Under Hawaii’s new default ru le, no licensed individual
+(with narrow exceptions) can carry a gun onto someone
+else’s property, even if it is held open to the public, without
+express and unambiguous authorization. Haw. Rev. Stat.
+§134–9.5(a) (2023).  Hawaii explains that this law reflects
+Hawaiians’ aversion to the public carry of weapons—an at-
+titude reinforced by almost two centuries of restrictive gun
+laws. See 2023 Haw. Sess. Laws 114 (explaining that the
+default rule was enacted “based on the legislature’s
+
+5  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+assessment of public sentiment and broadly shared prefer -
+ences within the State”); Brief for Respondent 6–7, 21–22.
+The State represents that Hawaiians do not think that peo-
+ple should be able to carry guns onto private property—
+even if it is held open to the public—unless they obtain ex-
+press consent. See id., at 6.  In fact, the overwhelming ma-
+jority of Hawaiians agree that  “loaded, concealed firearms
+should not be allowed into businesses at all.” Id., at 7 (em-
+phasis in original). These a ttitudes appear to reflect the
+State’s “Aloha Spirit,” which, as explained by the Supreme
+Court of Hawaii, “clashes with a federally-mandated life-
+style that lets citizens walk around with deadly weapons
+during day-to-day activities.”  State v. Wilson, 154 Haw. 8,
+27, 543 P. 3d 440, 459 (2024).
+ To satisfy Bruen, Hawaii must identify historical laws
+that pursued an analogous goal in an analogous way.  Ha -
+waii draws two analogies: one to 18th-century antipoaching
+laws and the other to 19th-century laws that were mostly
+designed to suppress newly freed blacks.  Unsurprisingly,
+the analogies fail.3
+——————
+3 Hawaii and the principal dissent also claim that the new law merely
+“codifie[s]” the State’s cu stomary implied license.  Post, at 12; see Brief
+for Respondent 21–22. The Court rightly rejects this argument.  See
+ante, at 16–19. I will add only that Hawaii and the principal dissent offer
+no evidence that, before the new default rule, Hawaiians had a custom
+of requiring express consent before an individual could carry firearms
+onto property held open to the public.  See I. Ayres & S. Jonnalagadda,
+Guests With Guns: Public Support for “No Carry” Defaults on Private
+Land, 48 J. Law, Med. & Ethics 183, 184, App. 2 (2020) (Table A1) (ex -
+plaining that Hawaii previously lacked a “no carry” default for private
+property and retail es tablishments); cf. post, at 10 (conceding that the
+common law implied license “might generally include the ability to enter
+armed”). So when Hawaii and the principal dissent invoke Hawaii’s
+unique “custom,” post, at 12; Brief for Respondent 22, they are really in-
+voking the State’s longstanding proh ibition on public carry—a regime
+that we held unconstitutional in New York State Rifle & Pistol Assn., Inc.
+v. Bruen, 597 U. S. 1, 15, n. 2, 39 (2022).
+
+A
+Hawaii first points to several 18th-century laws that,
+broadly speaking, prohibited the carry of firearms onto cer-
+tain property without the owner’s consent. See ante, at 19–
+21. Hawaii argues that these laws stand for the principle
+that a State may “vindicate a property owner’s right to con-
+trol whether and under what conditions the public enters
+his property” by “condition[ing] . . . entry on obtaining the
+property owner’s consent.”  Brief for Respondent 28. But
+that is pitched at too high a level of generality.  Because
+Hawaii’s law applies only to the carry of firearms onto prop-
+erty held open to the public, the State must offer a justifi-
+cation for singling out firearms for disfavored treatment.
+Cf. Bruen, 597 U. S., at 29 (asking “how and why the regu-
+lations burden a law-abiding citizen’s right to armed self-
+defense” (emphasis added)).  On that score, the reason is
+clear: Hawaiians disapprove of people carrying guns in pub-
+lic. The problem for Hawaii, however, is that the 18th-cen-
+tury laws support neither the end that Hawaii pursues nor
+the means that it deploys, so they cannot justify Hawaii’s
+default rule.
+Start with the “why” of the 18th-century laws.  As the
+Court explains, ante, at 21–22, they were enacted in re-
+sponse to the various “abuses, damages and inconven-
+iences” caused “by persons carrying guns and presuming to
+hunt on other people’s lands,” 1721 Pa. Laws ch. 246, §3
+(preamble), in 3 The Statutes at Large of Pennsylvania
+From 1682 to 1801, p. 255 (J. Mitchell & H. Flanders eds.
+1896). Perhaps chief among these was significant damage
+to property.  One colony complained that “great Numbers of
+idle and disorderly Persons” would “hunt with Fire-Arms”
+and “tread down the Grass,  and Corn and other Grain
+standing and growing in the Fields and Inclosures” in the
+process, causing “Ruin and Destruction [to] the most valu-
+able Improvements.” Act of Dec. 20, 1763, ch. 1233, pream-
+ble, in Laws of New-York from the Year 1691, to 1773
+
+7  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+inclusive, p. 441 (1774).  Another lamented that wandering
+poachers often left deer carcasses to rot, attracting “wolves
+and other beasts of prey,” and frequently destroyed cattle.
+1769 S. C. Laws no. 988, in 4 The Statutes at Large of South
+Carolina 310 (T. Cooper & D. McCord eds. 1838); see 1 J.
+Logan, A History of the Upper Country of South Carolina
+28–29 (1859).  Besides damaging property, poachers also
+deprived the landowner of game that was rightfully his.
+See M. Brady, Property v. Guns: The Level-of-Generality
+Problem in Wolford, 78 Stan. L. Rev. Online 156, 165 (2026)
+(Brady). Finally, fellow hunters and innocent bystanders
+were often put in harm’s way; founding-era newspapers
+were replete with stories of injuries or deaths caused by in-
+advertent gunfire. See T. Lund, American Wildlife Law 32
+(1980); Brady 167–168.  Poaching and its associated harms
+were thus a common problem throughout the 18th century.
+By requiring hunters to obtain permission before carrying
+firearms onto another’s property, legislatures aimed to min-
+imize the risk of incidental harm to persons and property.
+Yet the 18th-century laws were targeted in “how” they
+combated the dangers of poaching: They imposed a default
+rule rather than a flat prohibition, and they generally con-
+fined it to places where poaching was likely to occur. 4  For
+example, Pennsylvania’s 1721 law and New Jersey’s 1722
+law each applied only to “improved or inclosed lands of any
+plantation.” 1721 Pa. Laws ch. 246, §3, at 255; see 1722
+N. J. Laws ch. 35, §4, in Acts of the General Assembly of the
+Province of New-Jersey 101 (S. Nevill ed. 1752) (“improved
+——————
+4 The principal dissent claims that New Jersey’s 1771 law was more
+sweeping and covered property that was open to the public.  Post, at 21;
+see 1771 N. J. Laws ch. 540, §1, in Acts of the General Assembly of the
+Province of New-Jersey 344 (S. Allin son ed. 1776) (covering “any Lands
+not his own, and for which the Owner pays Taxes, or is in his lawful
+Possession”).  As the Court explains , there are reasons to doubt this
+claim. See ante , at 21, n. 16.  But even if the principal dissent were cor-
+rect, New Jersey’s rule would have been an “outlie[r]” for the period.
+Bruen, 597 U. S., at 65.
+
+or inclosed Lands in any Plantation”).  In other words, they
+covered fenced or developed areas of a “cultivated estate” or
+“farm.” 2 N. Webster, An American Dictionary of the Eng-
+lish Language (1828) (defining “plantation”); see Brady 173
+(“‘Enclosure’ and ‘improvement’ were visible ways a party
+could claim possession”); see also, e.g., 1763 N. Y. Laws
+ch. 1233, §1, at 442 (covering “any Orchard, Garden, Corn-
+Field, or other inclosed Land”). Similarly, Massachusetts’s
+1790 law applied to several small islands where “great
+numbers of sheep and deer” had been killed and “other
+damages sustained,” and where “the few persons residing
+on said islands [could] not give proper security.”  Act of Jan.
+30, preamble, 1790 Mass. Laws 259.  In this way, legisla-
+tures confined the default rule  to places where poaching
+was rampant, while leaving individuals free to carry arms
+across other kinds of property—including property custom-
+arily open to the public. See McKee v. Gratz, 260 U. S. 127,
+136 (1922) (explaining that it was then “customary to wan-
+der, shoot and fish at will” across “the large expanses of un-
+enclosed and uncultivated land” “until the owner s[aw] fit
+to prohibit it”). They did not broadly restrict the carry of
+firearms in public.
+What, then, is the regulatory principle that justified
+these laws? Some might zero in on the fact that they tar-
+geted poaching and conclude that a modern law is not “rel -
+evantly similar” if it addresses something other than hunt-
+ing. Cf. Brief for Petitioners 33–34.  That focus, however,
+is too narrow.5  Colonial legislatures targeted poaching be-
+cause that was the particular misconduct that they hap-
+pened to confront.  But “[t]he  regulatory challenges posed
+by firearms today are not always the same as those that
+preoccupied” earlier generations.  Bruen, 597 U. S., at 27.
+——————
+5 On this much, I agree with the principal dissent: “[T]o set the princi-
+ple of Hawaii’s analogues at ‘poaching’ is to demand a historical twin.”
+Post, at 24.
+
+9  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+Today, the right to bear arms is misused in other ways that
+were unknown to our forebears but pose an equivalent risk
+to persons or property. The antipoaching laws support the
+principle that when a State iden tifies specific places that
+are prone to particular “abuse[s]” of the right, W. Rawle,
+View of the Constitution of the United States of America
+123 (1825), it can respond with “focused regulations” to ad-
+dress the threat, Rahimi, 602 U. S., at 700.
+So the problem with Hawaii’s default rule is not that it
+targets a regulatory problem besides poaching.  It is that
+the rule does not target any particular abuse of firearms at
+all. Rather than identifying a specific threat to public peace
+and safety, Hawaii admits that it enacted the rule because
+many of its citizens oppose the public carry of guns.  In
+other words, Hawaii is responding to the general danger as-
+sociated with the presence of firearms, not to any specific,
+heightened risk of their misuse.  See 2023 Haw. Sess. Laws
+114 (invoking general “risks to public health, safety, and
+welfare associated with firearms and gun violence”). And
+rather than confining the rule to specific places where fire-
+arms are likely to be misused, Hawaii applies it to all pri-
+vate property, even property held open to the public.  From
+the hardware store, to the gas station, to the fast-food res -
+taurant—individuals cannot carry weapons for self-defense
+unless they obtain express consent.6
+The 18th-century hunting regulations do not support
+such a rule. Mere disapproval of protected conduct is not a
+valid reason to severely restrict it.
+——————
+6 Hawaii already prohibits the carry of firearms in places that it deems
+sensitive, including schools, banks, an d establishments serving alcohol.
+See Haw. Rev. Stat. §§134–9.1(a)(8), (12), (4).  So Hawaii cannot credibly
+say that the separate default rule, which applies to all private property,
+targets anything more specific than the general risk associated with the
+carry of firearms.
+
+B
+Hawaii also notes that several States enacted similar de-
+fault rules in the mid-to-late 19th-century.7  These laws get
+Hawaii nowhere.
+Once again, look to their “why.”  Hawaii offers no evi-
+dence that these laws were designed to vindicate the com-
+munity’s aversion to people carrying guns in public.  Nor is
+it plausible that they rested on such a basis.  At the time,
+guns were commonly owned for self-defense and hunting,
+and that trend only increased when many Civil War veter-
+ans brought their weapons home.  See T. Lansford, The
+Early History of Guns: From Colonial Times to the Civil
+War, in 1 Guns and Contemporary Society 28 (G. Utter ed.
+2016). And while state courts often upheld gun regulations
+during this period, they did so because the States were pur-
+suing specific regulatory ends, not because they were hos-
+tile to gun rights. See, e.g., State v. Chandler, 5 La. Ann.
+489, 489–490 (1850); Cockrum v. State, 24 Tex. 394, 401–
+402 (1859); Sutton v. State, 12 Fla. 135, 136–137 (1867).
+In fact, Hawaii does not dispute that most of the 19th-
+century laws were understood not to address the carry of
+guns in general but to curtail the freedom of blacks in par -
+ticular.8  After the Civil War, the labor market in the South
+——————
+7 The Court has consistently reserved whether the relevant timeframe
+for assessing the Second Amendment’s original meaning, as applied to
+the States, is 1791 or 1868.  See United States v. Hemani, 608 U. S. ___,
+___, n. 3 (2026) (slip op., at 7, n. 3).  Today’s opinion rightly declines to
+resolve this question.
+8 The exception is Oregon’s 1893 law, which appears to have been a
+hunting regulation.  See The Eugene Gu ard, May 15, 1893, p. 2, col. 2,
+https://www.newspapers.com/image/131045758 (archived at https://
+perma.cc/7MHJ-QC4A) (“The last legislature passed a very stringent
+hunting law”); Albany Weekly Herald, Sept. 28, 1893, p. 3, col. 4,
+https://www.newspapers.com/image/565701266 (archived at https://
+perma.cc/H5AC-ENC8) (“THE TRESPASS LAW.  Hunters Will Find Its
+Provisions Rather Stringent”).  As the Court explains, this law is distin-
+guishable on other grounds. See ante, at 22–23.
+
+11  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+was a source of “considerable irritation” to the white land-
+owning class. J. Taylor, Louisiana Reconstructed, 1863–
+1877, p. 90 (1974) (Taylor).  Newly emancipated slaves were
+“prone to test [their] freedom by coming and going as [they]
+pleased,” ibid., and their liberty to forage, hunt, and fish for
+food reduced their incentive to work on plantations, see B.
+Sawers, Race and Property After the Civil War: Creating
+the Right To Exclude, 87 Miss. L. J. 703, 741–743 (2018)
+(Sawers). Now forced to compete for black labor, white
+landowners “resented” how blacks could provide for them-
+selves, E. Foner, Reconstruction: America’s Unfinished
+Revolution, 1863–1877, p. 203 (updated ed. 2014) (Foner),
+and concluded that they would not work on plantations un-
+less compelled to do so, Taylor 90–91.  So Southern States
+enacted a series of harsh laws, known as the Black Codes,
+to “‘stabilize the black work force and limit its economic op-
+tions apart from plantation labor.’ ”  Timbs v. Indiana, 586
+U. S. 146, 168 (2019) (THOMAS, J., concurring in judgment);
+see post, at 26–27 (JACKSON, J., dissenting).
+Louisiana was one of those States.  In 1865, three of its
+local governments enacted sweeping measures that one ob-
+server described as restoring “slavery in substance.”
+S. Exec. Doc. No. 2, 39th Cong., 1st Sess., 96 (1865). Among
+other things, these ordinances prohibited blacks from rent-
+ing or keeping a house within town limits, barred them
+from entering the town without permission of their employ-
+ers, and forbade them from carrying weapons without au-
+thorization. Id., at 92–96.  Fearing backlash from Con -
+gress, the state government opted for a subtler approach.
+See W. Caskey, Secession and Restoration of Louisiana 187
+(1938). In the fall of that same year, the Democratic-con-
+trolled legislature convened a special session and tasked a
+joint committee with proposing legislation “‘to make [freed-
+men’s] labor available to the agricultural interests of the
+State.’”  T. Wilson, The Black Codes of the South 78 (1965).
+The resulting package of laws was facially neutral, id., at
+
+78–79, but no one was under any illusions about its true
+aims. As the eventual mayor of New Orleans remarked, the
+“‘whole thought and time’” of the special session was
+“‘given to plans for getting things back as near to slavery
+as possible.’”  Foner 199; see Taylor 101 (“It was understood
+when [Louisiana’s vagrancy law] was passed that it was to
+be used against blacks but not against whites”).  Ostensibly
+neutral measures like these, we have recognized, were re-
+ally “consciously conceived methods of resurrecting the in-
+cidents of slavery.” General Building Contractors Assn.,
+Inc. v. Pennsylvania, 458 U. S. 375, 387 (1982).
+One provision of Louisiana’s Black Code was the default
+rule that Hawaii invokes today. At the time, Louisiana ap -
+parently did not restrict by statute where individuals could
+hunt for game.  See Sawers 746, 748; see Fur, Fin, and
+Feather: Containing the Game Laws of the Principal States
+of the United States, and Canada 52 (4th ed. 1868) .  But
+under the State’s 1865 law, no one was permitted to carry
+firearms “on the premises or plantations” of another with-
+out his permission. 1865 La. Acts No. 10, §1, p. 14.  Like
+the other components of Louisiana’s Black Code, this law
+was designed to control black labor: It “restricted the ability
+of blacks to feed themselves on open land,” thus “pushing
+[them] into the agricultural labor market.”  Sawers 748; cf.
+Foner 203 (explaining that “by limiting hunting,” Southern
+States “made it more difficult for blacks to obtain food or
+income without working on plantations”).  In addition, by
+presumptively banning the carry of firearms on private
+property, the law put blacks “at a further disadvantage in
+protecting themselves” against private violence. B. Crouch,
+“All the Vile Passions”: The Texas Black Code of 1866, 97
+S. W. Hist. Q. 12, 29 (1993); see 3 Cong. Rec. 1648 (1875)
+(Report of Rep. Hoar) (describing Louisiana’s law as
+
+13  Cite as: 609 U. S. ____ (2026)
+BARRETT, J., concurring
+“depriving the great mass of the colored laborers of the
+State of the right to keep and bear arms”).9
+It is beyond me why Hawaii would claim that these vile
+laws can justify its present-day restriction. We can put
+aside the question whether they are legitimate evidence of
+the Second Amendment’s scope, post, at 30–32 (opinion of
+JACKSON, J.), because regardless, they do not help Hawaii.
+The State seems to think Bruen is a matching game: South-
+ern States enacted broad default rules, Hawaii reasons, so
+it can do the same today.  But even if Hawaii is right that
+the how is analogous, it also must identify an analogous
+why. The Black Codes were enacted to subordinate newly
+freed slaves.10  Hawaii obviously does not contend that its
+law promotes an analogous interest. So its law and the de-
+fault rules in the Black Codes are not “‘relevantly similar.’”
+Bruen, 597 U. S., at 29.  Most would take that as a compli-
+ment.
+——————
+9 Two of Hawaii’s other laws from 1866—one from Texas and the other
+from Florida—were similarly part of their respective State’s Black Code.
+See Crouch, 97 S. W. Hist. Q., at 12, 22–23, 28–29; J. Richardson, Florida
+Black Codes, 47 Fla. Hist. Q. 365, 375, n. 34 (1968).  Florida’s Black Code
+was notoriously aggressive, even for its time.  See T. Wilson, The Black
+Codes of the South 96 (1965).  For instance, the committee that proposed
+the laws described slavery as a “benign” and “greatly misunderstood” in-
+stitution that had ensured a “well regulated labor system,” and believed
+its task was to “devis[e] a plan to  make the labor of the emancipated
+slave available” again.  Fla. Senate J. 56 (1865).
+10 The principal dissent contends that the Black Codes shared a “why”
+with the 18th-century laws because all “were enacted to prevent poach-
+ing and other related harms.”  Post, at 30, n. 17.  But the relevant ques-
+tion under Bruen, 597 U. S. 1, is not simply whether two laws targeted
+similar conduct.  It is instead why they targeted that conduct—that is,
+what “reason” justified the restriction. United States  v. Rahimi, 602
+U. S. 680, 692 (2024). For the 18th-century laws, it was the risk of harm
+to persons and property caused by hunting.  For the Black Codes, it was
+the ability of blacks to provide for themselves without working on plan-
+tations. Because the two sets of la ws did not share an analogous justifi-
+cation, they do not stand for the same regulatory principle.
+
+* * *
+Applying old principles to new circumstances is not al-
+ways easy. This case, however, is not hard.  While most
+Hawaiians might prefer that no one carry firearms in public
+places, a majority’s opposition to a constitutional right is
+not a permissible basis for restricting it.  After all, “[t]he
+very purpose of a Bill of Righ ts was to withdraw certain
+subjects from the vicissitudes of political controversy” and
+“to place them beyond the reach of majorities and officials.”
+West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624, 638
+(1943).

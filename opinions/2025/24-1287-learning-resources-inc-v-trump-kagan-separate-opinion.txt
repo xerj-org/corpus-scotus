@@ -1,0 +1,221 @@
+Learning Resources, Inc. v. Trump — No. 24-1287 — October Term 2025 — decided 2/20/26 — Opinion of Kagan, J.
+Citation: 607 U.S. 229
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r12_8nj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tended to and did not in fact” give a state commission power
+to set maximum railroad rates). I would not treat this evi-
+dence as precedent for a judicial fex. Justice Gorsuch
+proposes to do something new. The innovation is in signif-
+cant tension with textualism, so I do not support the project.
+Justice Kagan, with whom Justice Sotomayor and
+Justice Jackson join, concurring in part and concurring in
+the judgment.
+The Court holds today that the International Emergency
+Economic Powers Act (IEEPA) does not authorize the Presi-
+dent to impose tariffs. I agree with that conclusion, as I
+do with the bulk of the principal opinion's reasoning. But
+because I think the ordinary tools of statutory interpretation
+amply support today's result, I do not join the part of that
+opinion invoking the so-called major-questions doctrine.
+The question that part asks, similar to the one posed in
+other “ `major questions' cases,” is whether the President can
+identify “clear congressional authorization” for his action—
+here, to impose tariffs under IEEPA. Ante, at 242, 248, 255.
+The demand is for a clear statement—something more ex-
+plicit or specific than the statutory basis that would ordi-
+narily suffice to support executive action. See, e. g., West
+Virginia v. EPA, 597 U. S. 697, 721–724, 732 (2022); Biden v.
+Nebraska, 600 U. S. 477, 505–506 (2023). The reason for that
+requirement, according to today's opinion, is that the Execu-
+tive has claimed an “extraordinary” power—one never as-
+serted before and having large-scale “economic and political
+significance.” Ante, at 242, 246; see ante, at 242–246.
+I objected, in the principal cases cited, to the demand for
+a special brand of legislative clarity. See West Virginia, 597
+U. S., at 764–784 (Kagan, J., dissenting); Nebraska, 600 U. S.,
+at 542–550 (Kagan, J., dissenting). In my view, the Court
+used its clear-authorization rule in those cases to negate ex-
+pansive delegations Congress had approved. I explained
+there that the proper way to interpret a delegation provision
+is through the standard rules of statutory construction. See
+West Virginia, 597 U. S., at 765–766 (Kagan, J., dissenting).
+That means, most concisely stated, reading text in context.
+More expansively put, it means examining a delegation pro-
+vision's language, assessing that provision's place in the
+broader statutory scheme, and applying a “modicum of com-
+mon sense” about how Congress typically delegates. Id., at
+764 (Kagan, J., dissenting); see FDA v. Brown & William-
+son Tobacco Corp., 529 U. S. 120, 133 (2000). The last of
+those inquiries includes consideration of whether Congress
+ever has before, or likely would, delegate the power the Ex-
+ecutive asserts—a matter also of import in applying the
+major-questions doctrine. See ante, at 243–245; Nebraska,
+600 U. S., at 512–514, 517–519 (Barrett, J., concurring); id.,
+at 546, n. 3 (Kagan, J., dissenting). In the past, though, I
+have thought that the Court used that doctrine to override—
+rather than help discover—the best reading of delegation
+statutes. See West Virginia, 597 U. S., at 756 (Kagan, J.,
+dissenting); Nebraska , 600 U. S., at 543 ( Kagan, J. ,
+dissenting).
+This case presents more nearly the opposite situation: The
+use of a clear-statement rule here is unnecessary because
+ordinary principles of statutory interpretation lead to the
+same result. 1 It is not just that the Government's argu-
+1 Justice Gorsuch claims not to understand this statement, insisting
+that I now must be applying the major-questions doctrine, and his own ver-
+sion of it to boot. See ante, at 271 (concurring opinion) (“My concurring col-
+leagues all but endorse it today”); ante, at 256–257, 261–262, 272 (similar).
+Given how strong his apparent desire for converts, see ante, at 256–280, I
+almost regret to inform him that I am not one. But that is the fact of the
+matter. I proceed in this case just as I did in West Virginia and Nebraska:
+I consider a delegation provision's language, broaden the scope to take in
+the statutory setting, and apply some common sense about how Congress
+normally delegates. See West Virginia v. EPA, 597 U. S. 697, 756–766
+(2022) (Kagan, J., dissenting); Biden v. Nebraska, 600 U. S. 477, 534–542
+ments fail to satisfy an especially strict test; it is that they
+fail to satisfy the normal one. Even without a clear-
+statement rule in the picture, the conclusion follows: IEEPA
+does not authorize the President to impose tariffs. And in-
+deed, the principal opinion's reasoning well explains why.
+The rest of this opinion draws on that analysis (I hope with-
+out too much rehashing) to demonstrate what I view as the
+fundamental point: Usual text-in-context interpretation
+dooms the tariffs the President has imposed. The crucial
+provision of IEEPA, when viewed in light of the broader
+statutory scheme and with a practical awareness of how Con-
+gress delegates tariff authority, does not give the President
+the power he wants.
+Most important, IEEPA's key phrase—the one the Gov-
+ernment relies on—says nothing about imposing tariffs or
+taxes. That text authorizes the President, upon finding a
+foreign threat and declaring an emergency, to “regulate” the
+“importation” of foreign goods. 50 U. S. C. § 1702(a)(1)(B).
+And the meaning of “regulate,” both in common parlance and
+as Congress uses the word, does not encompass taxing. See
+ante, at 249–250. To “regulate,” according to the Govern-
+ment's preferred definition, means to “fx, establish or con-
+trol; to adjust by rule, method, or established mode; to direct
+by rule or restriction; to subject to governing principles or
+laws.” Brief for Federal Parties 24 (quoting Black's Law
+Dictionary 1156 (5th ed. 1979)). Nothing in that definition
+naturally refers to levying taxes. Nor does Congress ever
+use the word “regulate” in that way. Hundreds of provi-
+(2023) (Kagan, J., dissenting). Contrary to Justice Gorsuch's sugges-
+tion, see ante, at 257–261, that conventional method of interpretation will
+not always favor (or always disfavor) executive officials, given the variety
+of delegation schemes Congress adopts. I'll let Justice Gorsuch reliti-
+gate on his own our old debates about other statutes, unrelated to the one
+before us. What matters here is only that IEEPA's delegation refutes
+the Executive's assertion of authority to levy tariffs, without any help
+from the major-questions doctrine.
+sions in the U. S. Code give agencies the authority to “regu-
+late” one thing or another. Yet the Government cannot
+identify a single one that is understood to grant taxing
+power. See Tr. of Oral Arg. 30. When Congress wants to
+delegate that power, it uses a whole different vocabulary—
+terms like “duty,” “tariff,” or “surcharge,” which do not ap-
+pear in IEEPA. See ante, at 243 (citing representative stat-
+utes); see also ante, at 254 (discussing, in particular, 19
+U. S. C. § 1862 (1970 ed.)). And likewise, when Congress
+means to cover both regulatory and taxing powers, it refers
+to each separately. See ante, at 249–250 (also citing stat-
+utes). Of course, Congress knows that taxes can be used
+for regulatory ends: They can be a means of controlling or
+adjusting behavior. But Congress still follows the path this
+Court long ago marked out, and the one most consonant with
+ordinary meaning, of treating the power to “regulate” trade
+as “entirely distinct” from the power to “levy taxes.” Gib-
+bons v. Ogden, 9 Wheat. 1, 201–202 (1824); see ante, at 250.
+So in granting only the former, IEEPA excludes the latter:
+The President has the ability to regulate, but not to impose
+taxes on, imports.
+The surrounding statutory language confirms the point.
+As the principal opinion explains, “regulate” is one of 9 verbs
+listed in IEEPA's delegation provision. See ante, at 250.
+(The others are “investigate,” “block,” “direct,” “compel,”
+“nullify,” “void,” “prevent,” and “prohibit.” § 1702(a)(1)(B).)
+Those verbs are followed by 11 objects, each describing a
+distinct sort of transaction involving foreign property—not
+just “importation,” but also “acquisition,” “use,” “transfer,”
+and so forth. Ibid. Combine the verbs and objects in all
+possible ways, and the statute authorizes 99 actions a Presi-
+dent can take to address a foreign threat. And exactly none
+of the other 98 involves raising revenues. Rather, each en-
+ables the President to impose penalties, restrictions, or con-
+trols on foreign commerce. See ante, at 250. So when the
+phrase “regulate . . . importation” is invoked to impose quan-
+tity or quality limits on bringing foreign goods into the coun-
+try—for example, by setting quotas or requiring quaran-
+tines—the phrase fts well with its 98 neighbors. Just like
+the rest, it provides a way to constrain or alter various for-
+eign transactions. But when that phrase is invoked to impose
+tariffs? Then it becomes the odd man out—the only one of 99
+permission slips to involve “the core congressional power of
+the purse.” Ante, at 243; see ante, at 240–244. So even if
+(contra both conventional and congressional usage) the word
+“regulate” might refer to taxation in some other (hitherto un-
+discovered) statutory context, it would not do so in IEEPA. 2
+Likewise, Congress's consistent practice in delegating tar-
+iff power refutes the Government's position. As the princi-
+pal opinion details, Title 19 of the U. S. Code includes multi-
+ple provisions granting the President authority to levy
+tariffs. See ante, at 243–244. But in each and every in-
+stance, Congress has not only used specific language (e . g.,
+“duty” or “surcharge”), see supra, at 307, but also imposed
+tight restraints on the power given. It has capped the tar-
+iff 's rate (e. g., 15%); or limited the tariff 's duration (e . g., 150
+days); or established strict procedural conditions before the
+tariff can take effect (e . g., investigations, public hearings,
+and reports); or all of the above. See ante, at 243–244. What
+Congress has never done in a tariff provision is what the Gov-
+ernment claims it did here—conferred power on the President
+to impose a tariff of any amount, for any time, on only his
+own say-so. And construing IEEPA to give that unparal-
+2 The legislative history of IEEPA offers yet more proof that Congress
+did not authorize taxation. The Senate Report, in its description of the
+statute, reduces the 99 authorized actions to the following: the power “to
+control or freeze property transactions where a foreign interest is in-
+volved.” S. Rep. No. 95–466, p. 5 (1977). The House Report similarly
+describes the delegation provision as “authoriz[ing] the President” to “reg-
+ulate or freeze any property in which any foreign country or a national
+thereof has any interest.” H. R. Rep. No. 95–459, p. 15 (1977). Neither
+of those descriptions at all suggests that Congress intended to cede its
+taxing power.
+leled authority would effectively erase all the carefully con-
+fined tariff provisions in Title 19. For any President could
+then escape the rigors of those laws—could put in place, say,
+a non-time-limited 100% tariff on all foreign products—by
+the simple expedient of identifying a foreign threat. That
+gutting of Title 19's tariff scheme is not what Congress, when
+delegating power to “regulate” imports, could have meant
+to accomplish.
+Nor has any President until now understood IEEPA to
+authorize imposing tariffs. Between 1977 (when IEEPA
+was enacted) and 2024, eight Presidents had the chance to
+make use of IEEPA's delegation of power. And all chose
+the same course. They invoked the statute's “regulate im-
+portation” provision for a variety of non-tariff purposes.
+See ante, at 245. But they looked elsewhere—to Title 19's
+provisions—for tariff authority. See ibid. In other words,
+each President read the statutes as Congress wrote them,
+with IEEPA enabling him to regulate imports and Title 19
+enabling him—in confined situations—to tax those foreign
+goods. None, as far as anyone has suggested, even consid-
+ered doing otherwise. 3
+3 Presidents followed the same practice, with one quasi-exception, under
+IEEPA's predecessor statute, the Trading with the Enemy Act (TWEA).
+Beginning in 1941, TWEA authorized the President, as IEEPA does now,
+to “regulate . . . importation.” 12 U. S. C. § 95a(1)(B) (1940 ed., Supp. I).
+During the next three decades, six Presidents used that delegation for
+only non-tariff ends, while relying on Title 19 to levy tariffs. In 1971,
+when President Nixon imposed tariffs in response to a balance-of -
+payments defcit, he continued in that tradition by invoking two statutes
+(the Tariff Act of 1930 and Trade Expansion Act of 1962) found in Title
+19. See Presidential Proclamation No. 4074, 3 CFR 60 (1971–1975 Comp.).
+But in defending his act against a legal challenge, the Department of Jus-
+tice argued that even if the two cited statutes did not authorize the tariffs,
+TWEA would do so. That after-the-fact claim of authority was upheld in
+the Court of Customs and Patent Appeals. See United States v. Yoshida
+Int'l, Inc., 526 F. 2d 560, 572, 577–578 (CCPA 1975); ante, at 252. The princi-
+pal opinion well explains why that single lower court decision about TWEA
+has no bearing on IEEPA's meaning. See ante, at 252–253, and n. 5.

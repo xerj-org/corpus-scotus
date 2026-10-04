@@ -1,0 +1,631 @@
+Berger v. North Carolina State Conference of the NAACP — No. 21-248 — October Term 2021 — decided 6/23/22 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 597 U.S. 179
+Source: https://www.supremecourt.gov/opinions/21pdf/597us1r57_b0nd.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch delivered the opinion of the Court.
+At the heart of this lawsuit lies a challenge to the constitu-
+tionality of a North Carolina election law. But the merits
+of that dispute are not before us, only an antecedent question
+of civil procedure: Are two leaders of North Carolina's state
+legislature entitled to participate in the case under the terms
+of Federal Rule of Civil Procedure 24(a)(2)?
+I
+A
+Within wide constitutional bounds, States are free to
+structure themselves as they wish. Often, they choose to
+Knudsen of Montana, Douglas J. Peterson of Nebraska, Alan Wilson of
+South Carolina, Ken Paxton of Texas, and Sean D. Reyes of Utah; for the
+American Legislative Exchange Council by Jason Torchinsky, Phillip M.
+Gordon, and Jonathon Paul Hauenschild; for the Honest Elections Proj-
+ect by Jonathan P . Lienhard and Dallin B. Holt; for the Lawyers Democ-
+racy Fund et al. by Richard B. Raile; for the Republican State Leadership
+Committee by Charles R. Spies; for the Wisconsin Legislature by Jeffrey
+Matthew Harris and Taylor A. R. Meehan; and for Former North Carolina
+Supreme Court Justice Robert F. Orr by Andrew H. Erteschik and John
+M. Durnovich.
+Briefs of amici curiae urging affirmance were fled for Federal Courts
+Scholars by Adam S. Gershenson and Kathleen R. Hartnett; and for Re-
+tired Federal Judges by Michael J. Gottlieb and Mark T. Stancil.
+Briefs of amici curiae were fled for the State of Minnesota et al. by
+Keith Ellison, Attorney General of Minnesota, Liz Kramer, Solicitor Gen-
+eral, Jason Marisam, Assistant Attorney General, and Alethea Huyser,
+Special Assistant Attorney General, by Joshua L. Kaul, Attorney General
+of Wisconsin, and Brian P . Keenan and Anthony Russomanno, Assistant
+Attorneys General, by Matthew J. Platkin, Acting Attorney General of
+New Jersey, and by the Attorneys General for their respective jurisdic-
+tions as follows: William Tong of Connecticut, Kathleen Jennings of Dela-
+ware, Karl A. Racine of the District of Columbia, Kwame Raoul of Illi-
+nois, Aaron M. Frey of Maine, Brian E. Frosh of Maryland, Dana Nessel
+of Michigan, Aaron D. Ford of Nevada, Letitia James of New York, Ellen
+F. Rosenblum of Oregon, Josh Shapiro of Pennsylvania, and Thomas J.
+Donovan, Jr., of Vermont; for the Liberty Justice Center by Daniel R.
+Suhr and Jeffrey D. Jennings; and for the Republican National Committee
+by David A. Warrington and Harmeet K. Dhillon.
+CONFERENCE OF THE NAACP
+Opinion of the Court
+conduct their affairs through a variety of branches, agencies,
+and elected and appointed officials. These constituent
+pieces sometimes work together to achieve shared goals;
+other times they reach very different judgments about im-
+portant policy questions and act accordingly. This diffusion
+of governmental powers within and across institutions may
+be an everyday feature of American life. But it can also
+pose its difficulties when a State's laws or policies are chal-
+lenged in federal court.
+Suppose someone seeks to attack a state law on the ground
+that it is inconsistent with the Federal Constitution. Gener-
+ally, States themselves are immune from suit in federal
+court. See Sossamon v. Texas, 563 U. S. 277, 284 (2011).
+So usually a plaintiff will sue the individual state officials
+most responsible for enforcing the law in question and seek
+injunctive or declaratory relief against them. See Ex parte
+Young, 209 U. S. 123, 159–160 (1908). Despite the artifce,
+of course, a State will as a practical matter often retain a
+strong interest in this kind of litigation. After all, however
+captioned, a suit of this sort can implicate “the continued
+enforceability of [the State's] own statutes.” Maine v. Tay-
+lor, 477 U. S. 131, 137 (1986). To defend its practical inter-
+ests, the State may choose to mount a legal defense of the
+named official defendants and speak with a “single voice,”
+often through an attorney general. Virginia House of Dele-
+gates v. Bethune-Hill, 587 U. S. –––, ––– (2019).
+Still, not every State has structured itself this way. Some
+have chosen to authorize multiple officials to defend their
+practical interests in cases like these. See ibid. North
+Carolina falls into this camp. The State's attorney general
+wields some authority to represent individual official defend-
+ants in federal litigation. See Martin v. Thornburg, 320
+N. C. 533, 545–546, 359 S. E. 2d 472, 479 (1987); N. C. Const.,
+Art. III, §§ 7(1), (2) (establishing the office of attorney gen-
+eral and declaring that his “duties shall be prescribed by
+law”). But North Carolina's General Assembly has also em-
+powered the leaders of its two legislative houses to partici-
+pate in litigation on the State's behalf under certain circum-
+stances and with counsel of their own choosing. See N. C.
+Gen. Stat. Ann. § 1–72.2 (2021).
+The reasons why a State might choose to proceed this way
+are understandable enough. Sometimes leaders in different
+branches of government may see the State's interests at
+stake in litigation differently. Some States may judge that
+important public perspectives would be lost without a mech-
+anism allowing multiple officials to respond. It seems North
+Carolina has some experience with just these sorts of issues.
+More than once a North Carolina attorney general has op-
+posed laws enacted by the General Assembly and declined
+to defend them fully in federal litigation. See, e. g., North
+Carolina v. North Carolina State Conference of NAACP ,
+581 U. S. 985, 986 (2017) (Roberts, C. J., statement respect-
+ing denial of certiorari); App. 79; see also N. Devins & S. Pra-
+kash, Fifty States, Fifty Attorneys General, and Fifty Ap-
+proaches to the Duty To Defend, 124 Yale L. J. 2100, 2152,
+n. 217, 2187 (2015).
+B
+The facts of this case also illustrate how divided state gov-
+ernment can lead to disagreements over the defense of state
+law in federal court. In November 2018, the people of North
+Carolina amended the State Constitution to provide that
+“[v]oters offering to vote in person shall present photo-
+graphic identification [(photo ID)].” Art. VI, § 2(4). The
+people further provided that “[t]he General Assembly shall
+enact general laws governing the requirements of such
+photographic identification, which may include exceptions.”
+Ibid. Consistent with that directive, the General Assembly
+eventually approved Senate Bill 824 (S. B. 824). 2017 Gen.
+Assem., 2018 Reg. Sess. Under that law's terms, those
+seeking to vote must do one of three things: present an ac-
+ceptable photo ID, complete a provisional ballot and later
+produce a photo ID, or submit a form explaining why they
+CONFERENCE OF THE NAACP
+Opinion of the Court
+cannot present a photo ID. See N. C. Gen. Stat. Ann.
+§§ 163A–1145.1(a), (c), (d), as added by § 1.2(a), 2018 N. C.
+Sess. Laws 144, pp. 73–74. Photo ID cards are available free
+of charge in each of the State's 100 counties without the need
+for corroborating documentation. § 163A–869.1, as added by
+§ 1.1(a), id., at 72–73. After the law's passage, the Governor
+vetoed the bill, the General Assembly responded by over-
+riding that veto, and S. B. 824 went into effect on Decem-
+ber 19, 2018.
+The next day, the National Association for the Advance-
+ment of Colored People (NAACP) sued the Governor and
+the members of the State Board of Elections (collectively,
+Board). The Governor appoints the Board's members and
+may remove them under certain circumstances. See N. C.
+Gen. Stat. Ann. §§ 143B–16, 163–19, 163–40. In its lawsuit,
+the NAACP alleged that S. B. 824 offends the Federal Con-
+stitution. The State's attorney general assumed responsi-
+bility for defending the Board. See § 114–2. Like the Gov-
+ernor, the attorney general is an independently elected
+official. See N. C. Const., Art. III, § 7(1). Much like the
+Governor, too, while serving as a state senator the attorney
+general voted against an earlier voter-ID law and fled a dec-
+laration in support of a legal challenge against it. See North
+Carolina State Conference of NAACP v. McCrory, 997 F.
+Supp. 2d 322, 337–338, 357–359 (MDNC 2014).
+Soon, the speaker of the State House of Representatives
+and president pro tempore of the State Senate (legislative
+leaders) moved to intervene. App. 52. They noted that
+North Carolina law expressly authorizes them “to intervene
+on behalf of the General Assembly as a party in any judicial
+proceeding challenging a North Carolina statute or provision
+of the North Carolina Constitution.” N. C. Gen. Stat. Ann.
+§ 1–72.2(b). They observed that, in cases of this sort, state
+law further provides that “both the General Assembly and
+the Governor constitute the State of North Carolina.” § 1–
+72.2(a). And the legislative leaders suggested that, without
+their participation, important state interests would not be
+adequately represented in light of the Governor's opposition
+to S. B. 824, the Board's allegiance to the Governor, and the
+attorney general's opposition to earlier voter-ID efforts.
+App. 65–70. Finally, the legislative leaders pointed to paral-
+lel state-court proceedings in which they claimed the Board
+had offered only a “tepid” defense of S. B. 824. Id., at 127,
+n. 1.
+The District Court denied the motion to intervene. North
+Carolina State Con ference of NAACP v. Cooper , 332
+F. R. D. 161 (MDNC 2019). In doing so, the court applied a
+“presumption” that the legislative leaders' interests would
+be adequately represented by the Governor and Board and
+their legal representative, the attorney general. Id., at 168–
+170. On the court's view, the legislative leaders might some-
+day have an interest sufficient to warrant intervention if the
+existing parties refused to offer any defense of S. B. 824.
+Id., at 166. But because nothing like that had yet happened,
+the District Court denied the motion to intervene without
+prejudice to renewal later. Id., at 172–173.
+In time, the legislative leaders took up the District Court's
+offer to renew their motion. They pointed to this Court's
+intervening decision in Bethune-Hill, which “clarified” that
+legislative leaders sometimes may be legally entitled to in-
+tervene and represent “the interest of the State in defending
+the constitutionality of ” a state law. App. 159. They also
+updated the District Court on the Board's conduct in state-
+court proceedings. There, the Board had conceded that its
+“ `primary objective' ” wasn't defending S. B. 824, but obtain-
+ing guidance regarding which law it would need to enforce
+in an upcoming election (S. B. 824 or preexisting law). Id.,
+at 156. Seizing on this concession, the state-court plaintiffs
+argued that even the Board did not think it would ultimately
+prevail on the merits. Id., at 157. In the end, however, the
+District Court was unmoved by these developments. It de-
+nied the legislative leaders' renewed motion and addressed
+CONFERENCE OF THE NAACP
+Opinion of the Court
+Bethune-Hill only in a footnote stating that the decision did
+not “change the calculus.” North Carolina State Confer-
+ence of NAACP v. Cooper, 2019 WL 5840845, *2, n. 3
+(MDNC, Nov. 7, 2019).
+As the federal litigation proceeded without the legislative
+leaders, the NAACP sought a preliminary injunction to pre-
+vent the Board from enforcing S. B. 824 in upcoming elec-
+tions. By this point, the District Court had dismissed the
+Governor from the suit. Only the Board members, repre-
+sented by the attorney general, remained as defendants. In
+support of its motion for injunctive relief, the NAACP of-
+fered fve expert reports. In reply, the Board did not op-
+pose the motion on timeliness grounds even though the
+NAACP had waited nine months before seeking what it de-
+scribed as critical emergency relief. See App. 311–313;
+Memorandum of Law in No. 1:18–cv–1034 (MDNC, Sept. 17,
+2019), ECF Doc. 73. Nor did the Board produce competing
+expert reports. Instead, it supplied a single affidavit from
+its executive director and stressed again the need for clarity
+about which law to apply. App. 312. Once more unsatisfied
+with the vigor of the Board's response, the legislative leaders
+sought to lodge an amicus brief, fve expert reports, and
+several other declarations. At the end of the day, however,
+the District Court refused to consider the amicus brief and
+accompanying materials, struck them from the record, and
+granted a preliminary injunction barring enforcement of
+S. B. 824. North Carolina State Conference of NAACP v.
+Cooper, 430 F. Supp. 3d 15, 54 (MDNC 2019).
+C
+The Fourth Circuit took up the District Court's prelimi-
+nary injunction and intervention rulings in separate appeals
+before separate panels. While these appeals were pending,
+the Board did not seek an interim stay of the District Court's
+preliminary injunction. Apparently, it chose not to do so
+“due to the disruptive effect such relief would have had on”
+election administration. App. 366, n. 8. As a result, S. B.
+824 was not enforced during the State's March 2020 pri-
+mary election.
+In the appeal concerning the District Court's preliminary
+injunction ruling, the legislative leaders sought leave to in-
+tervene and the Fourth Circuit granted their motion. See
+Order in North Carolina State Conference of NAACP v.
+Raymond, No. 20–1092 (CA4, Mar. 27, 2020), ECF Doc. 43.
+Meanwhile, the Governor fled an amicus brief contending
+that the District Court had not gone far enough: “[The] pre-
+liminary injunctio[n] should be made permanent, and . . . this
+unconstitutional law should never go into effect.” App. 844.
+After considering all the submissions before it, a unanimous
+panel of the Court of Appeals largely agreed with the legisla-
+tive leaders and reversed. North Carolina State Confer-
+ence of NAACP v. Raymond, 981 F. 3d 295, 298 (2020). The
+panel held that the District Court had abused its discretion
+in issuing the preliminary injunction because the record con-
+tained insufficient evidence to show that S. B. 824 violated
+the Federal Constitution. In particular, the panel explained
+that North Carolina's law “is more protective of the right
+to vote than other states' voter ID laws that courts have
+approved.” Id., at 310. Later, the Court of Appeals denied
+rehearing en banc; no judge noted a dissent. Any further
+District Court proceedings were thus left to unfold without
+a preliminary injunction in place.
+Separately and hoping to participate in those future pro-
+ceedings, the legislative leaders asked another panel of the
+Fourth Circuit to vacate the District Court's decision deny-
+ing their motion to intervene. The legislative leaders
+stressed that state law expressly authorizes them to partici-
+pate in cases like this one, and they argued that they satis-
+fed all the requirements for intervention as a matter of right
+under Federal Rule of Civil Procedure 24(a)(2). For its part,
+the Court of Appeals again agreed with the legislative lead-
+ers, this time holding that the District Court had erred when
+CONFERENCE OF THE NAACP
+Opinion of the Court
+denying them leave to intervene. 970 F. 3d 489, 503–504,
+506 (2020).
+Eventually, however, the Fourth Circuit decided to rehear
+the matter en banc and changed course. A nine-judge ma-
+jority ruled that the legislative leaders were not entitled to
+intervene in District Court proceedings because they could
+not overcome a “heightened presumption” that the Board al-
+ready “adequately represented” their interests. 999 F. 3d
+915, 927, 932–934 (2021). Six judges dissented. Among
+other things, the dissenters suggested that the majority had
+erred by “ignor[ing] North Carolina's law requesting two
+agents in cases challenging the constitutionality of its duly-
+enacted statutes” and by “setting the bar for the Intervenors
+to clear too high.” Id., at 945 (opinion of Quattlebaum, J.);
+see also id., at 939 (opinion of Wilkinson, J.); id., at 941 (opin-
+ion of Niemeyer, J.).
+The legislative leaders responded by petitioning this Court
+to review the Fourth Circuit's en banc ruling. We agreed
+to hear the matter in order to resolve disagreements among
+the circuits about the proper treatment of motions to inter-
+vene in cases like this one. 595 U. S. ––– (2021).
+II
+Our starting point lies in Rule 24(a)(2) of the Federal
+Rules of Civil Procedure. As relevant here, the Rule pro-
+vides that a “court must permit anyone to intervene” who,
+(1) “[o]n timely motion,” (2) “claims an interest relating to
+the property or transaction that is the subject of the action,
+and is so situated that disposing of the action may as a practi-
+cal matter impair or impede the movant's ability to protect
+its interest,” (3) “unless existing parties adequately repre-
+sent that interest.” Everyone before us agrees that the leg-
+islative leaders' motion to intervene was timely. The only
+disagreements we face concern the Rule's two remaining
+requirements.
+A
+We focus first on the question whether the legislative lead-
+ers have claimed an interest in the resolution of this lawsuit
+that may be practically impaired or impeded without their
+participation. No one questions that States possess “ `a le-
+gitimate interest in the continued enforce[ment] of [their]
+own statutes.' ” Cameron v. EMW Women's Surgical Cen-
+ter, P . S. C., 595 U. S. 267, 277 (2022) (quoting Taylor, 477
+U. S., at 137). No one questions that States may organize
+themselves in a variety of ways. After all, the separation
+of government powers has long been recognized as vital to
+the preservation of liberty, and it is through the power to
+“structure . . . its government, and the character of those
+who exercise government authority, [that] a State defines it-
+self as a sovereign.” Gregory v. Ashcroft, 501 U. S. 452, 460
+(1991). Nor does anyone question that, when a State
+chooses to allocate authority among different officials who do
+not answer to one another, different interests and perspec-
+tives, all important to the administration of state govern-
+ment, may emerge. See, e. g., Brnovich v. Democratic Na-
+tional Committee , 594 U. S. ––– (2021) (Arizona's secretary
+of state and attorney general took opposite sides).
+Appropriate respect for these realities suggests that fed-
+eral courts should rarely question that a State's interests
+will be practically impaired or impeded if its duly authorized
+representatives are excluded from participating in federal
+litigation challenging state law. To hold otherwise would
+not only evince disrespect for a State's chosen means of dif-
+fusing its sovereign powers among various branches and of-
+ficials. It would not only risk turning a deaf federal ear to
+voices the State has deemed crucial to understanding the full
+range of its interests. It would encourage plaintiffs to make
+strategic choices to control which state agents they will face
+across the aisle in federal court. It would tempt litigants to
+select as their defendants those individual officials they
+CONFERENCE OF THE NAACP
+Opinion of the Court
+consider most sympathetic to their cause or most inclined to
+settle favorably and quickly. All of which would risk a hob-
+bled litigation rather than a full and fair adversarial testing
+of the State's interests and arguments.
+Nor are state interests the only interests at stake. Re-
+specting the States' “plan[s] for the distribution of govern-
+mental powers” also serves important national interests.
+Mayor of Philadelphia v. Educational Equality League , 415
+U. S. 605, 615, n. 13 (1974). It better enables the States to
+serve as a “balance” to federal authority. Bond v. United
+States, 564 U. S. 211, 221 (2011). It permits States to accom-
+modate government to local conditions and circumstances.
+See ibid. And it allows States to serve as laboratories of
+“innovation and experimentation” from which the federal
+government itself may learn and from which a “mobile citi-
+zenry” benefits. Gregory, 501 U. S., at 458. Finally, a fed-
+eral court tasked with testing the constitutionality of state
+law wields weighty “authority over a State's most fundamen-
+tal political processes.” Alden v. Maine, 527 U. S. 706, 751
+(1999). Permitting the participation of lawfully authorized
+state agents promotes informed federal-court decision-
+making and avoids the risk of setting aside duly enacted
+state law based on an incomplete understanding of relevant
+state interests.
+This Court's teachings on these scores have been many,
+clear, and recent. Earlier this Term in Cameron, we ex-
+plained that a State is free to “empowe[r] multiple officials
+to defend its sovereign interests in federal court.” 595
+U. S., at 277. Three Terms ago in Bethune-Hill, we ob-
+served that “ `a State must be able to designate agents to
+represent it in federal court' ” and may authorize its legisla-
+ture “to litigate on the State's behalf, either generally or in
+a defined class of cases.” 587 U. S., at ––– – –––. “[T]he
+choice belongs to” the sovereign State. Id., at –––. In Hol-
+lingsworth v. Perry, this Court stressed that “state law may
+provide for other officials,” besides an attorney general, “to
+speak for the State in federal court” as some States have
+done for their “presiding legislative officers.” 570 U. S. 693,
+710 (2013). And in Karcher v. May, this Court held that
+two state legislative leaders “authori[zed] under state law to
+represent the State's interests” in federal court could defend
+state laws there as parties. 484 U. S. 72, 75, 81–82 (1987).
+These principles and precedents are dispositive here.
+North Carolina has expressly authorized the legislative lead-
+ers to defend the State's practical interests in litigation of
+this sort. State law provides that “[t]he Speaker of the
+House of Representatives and the President Pro Tempore of
+the Senate, as agents of the State, by and through counsel of
+their choice,” “shall jointly have standing to intervene on
+behalf of the General Assembly as a party in any judicial
+proceeding challenging a North Carolina statute or provision
+of the North Carolina Constitution.” N. C. Gen. Stat. Ann.
+§ 1–72.2(b). Even beyond these instructions, the State has
+made plain that it considers the leaders of the General
+Assembly “necessary parties” to suits like this one. § 120–
+32.6(b).
+Tellingly, the Board seems to agree that, if North Carolina
+law authorizes participation by the legislative leaders on be-
+half of the State, a federal court should find the interest
+requirement of Rule 24(a)(2) satisfied. Brief for State Re-
+spondents 20, 28. The Board submits only that, in fact,
+North Carolina law does not afford the legislative leaders
+that authority. Id., at 49–50. But while we are hardly the
+final arbiters of North Carolina law, the Board's argument
+seems more than a little difficult to square with the express
+statutory language above. One of these provisions is even
+entitled, “General Assembly Acting on Behalf of the State of
+North Carolina in Certain Actions.” § 120–32.6(b). It pro-
+vides that the legislative leaders may defend state laws “as
+agents of the State.” Ibid.
+Retreating, the Board argues alternatively that the stat-
+utes authorizing the legislative leaders to participate here
+CONFERENCE OF THE NAACP
+Opinion of the Court
+violate the State Constitution by usurping authority vested
+in the executive branch. Brief for State Respondents 50–
+55; N. C. Const., Art. I, § 6. But the Board's logic is hard to
+follow given its concession that the legislative leaders may
+intervene permissively under Rule 24(b), and likely as a mat-
+ter of right under Rule 24(a)(2) if the attorney general ceases
+to represent the Board. Brief for State Respondents 2, 48,
+55. Nor, for that matter, does the Board identify anything
+to support its suggestion that the State's executive branch
+holds a constitutional monopoly on representing North Caro-
+lina's practical interests in court. Instead, the parties direct
+us to a provision stating that the General Assembly may
+determine the scope of the attorney general's powers. See
+N. C. Const., Art. III, § 7(2); Bailey v. State, 353 N. C. 142,
+152–153, 540 S. E. 2d 313, 320 (2000). And, as we have seen,
+while the General Assembly has afforded the attorney gen-
+eral considerable authority, it has also reserved to itself some
+authority to defend state law on behalf of the State. See
+N. C. Gen. Stat. Ann. § 120–32.6(b). In fact, it seems the
+General Assembly has sometimes even entrusted the defense
+of state interests to private persons. See § 1–608(b) (per-
+mitting private citizens to bring false-claims actions “for
+the State”).
+The NAACP offers a different reply. It points out that
+Rule 24(a)(2) permits intervention only by “new” parties.
+And, it submits, the legislative leaders are already effec-
+tively “existing” parties to this suit challenging the enforce-
+ment of state law. Brief for NAACP Respondents 12–14.
+But whatever other problems may attend this argument, it
+rests on a premise that is both formally and functionally mis-
+taken. As a formal matter and consistent with principles of
+sovereign immunity, the NAACP has not sued the State.
+Only state officers are or may be “parties” here—and, so far,
+the legislative leaders are not among them. See Young, 209
+U. S., at 159–160. Functionally, of course, this suit impli-
+cates North Carolina's sovereign interests regardless of the
+named parties. See Part I–A, supra. Yet, contrary to the
+premise implicit in the NAACP's argument, a plaintiff who
+chooses to name this or that official defendant does not neces-
+sarily and always capture all relevant state interests. In-
+stead and as we have seen, where a State chooses to divide
+its sovereign authority among different officials and author-
+ize their participation in a suit challenging state law, a full
+consideration of the State's practical interests may require
+the involvement of different voices with different perspec-
+tives. To hold otherwise would risk allowing a private
+plaintiff to pick its preferred defendants and potentially si-
+lence those whom the State deems essential to a fair under-
+standing of its interests.
+B
+The only remaining question we face concerns adequacy
+of representation. Interpreting Rule 24(a)(2), lower courts
+have adopted a variety of tests for evaluating whether an
+existing defendant already “adequately represent[s]” the
+same interests a proposed intervenor seeks to vindicate. In
+this case, both the District Court and the en banc Court of
+Appeals applied a “presumption” that the Board adequately
+represented the legislative leaders' interests and held that
+the leaders could not overcome this presumption. 999 F. 3d,
+at 934; Cooper, 332 F. R. D., at 171.
+Once more, we cannot agree. As an initial matter, Rule
+24(a)(2) promises intervention to those who bear an interest
+that may be practically impaired or impeded “unless existing
+parties adequately represent that interest.” In some cases,
+too, this Court has described the Rule's test as presenting
+proposed intervenors with only a minimal challenge.
+Take Trbovich v. Mine Workers, in which this Court ad-
+dressed a request to intervene by a private party who as-
+serted a related interest to that of an existing government
+party. 404 U. S. 528 (1972). There, the Secretary of Labor
+sued to set aside a union election. The same union member
+who fled the administrative complaint that triggered the
+CONFERENCE OF THE NAACP
+Opinion of the Court
+Secretary's suit sought to intervene under Rule 24(a). Id.,
+at 529–530. At a high level of abstraction, the union mem-
+ber's interest and the Secretary's might have seemed closely
+aligned. Even so, this Court rejected the Secretary's sug-
+gestion that he should be presumed an adequate representa-
+tive of the union member's interests “unless the court . . .
+find[s] that the Secretary has failed to perform his statutory
+duty.” Id., at 538. The Court acknowledged that the Sec-
+retary's and the union member's interests were “related,”
+but it emphasized that the interests were not “identical”—
+the union member sought relief against his union, full stop;
+meanwhile, the Secretary also had to bear in mind broader
+public-policy implications. Id., at 538–539. Rather than
+endorse a presumption of adequacy, the Court held that a
+movant's burden in circumstances like these “should be
+treated as minimal.” Id., at 538, n. 10.
+To be sure, some lower courts have suggested that a pre-
+sumption of adequate representation remains appropriate in
+certain classes of cases. But even taken on their own terms,
+none of these presumptions applies to cases like ours. For
+example, the Fourth Circuit has endorsed a presumption of
+adequate representation where a member of the public seeks
+to intervene to defend a law alongside the government. See
+999 F. 3d, at 932–933. There, the Fourth Circuit has rea-
+soned, a court may presume that legally authorized govern-
+ment agents will adequately represent the public's interest
+in its chosen laws. Here, by contrast, the legislative leaders
+are among those North Carolina has expressly authorized to
+participate in litigation to protect the State's interests in its
+duly enacted laws. Id., at 951 (Quattlebaum, J., dissenting).
+Similarly, some lower courts have adopted a presumption
+of adequate representation in cases where a movant's inter-
+ests are identical to those of an existing party. See 7C
+C. Wright, A. Miller, & M. Kane, Federal Practice and Proce-
+dure § 1909 (3d ed. Supp. 2022) (Wright & Miller). But even
+the Board concedes that this presumption applies only when
+interests “overla[p] fully.” Brief for State Respondents 26.
+Where “the absentee's interest is similar to, but not identical
+with, that of one of the parties,” that normally is not enough
+to trigger a presumption of adequate representation. 7C
+Wright & Miller § 1909. And again, a presumption like that
+holds no purchase here. North Carolina has authorized dif-
+ferent agents to defend its practical interests precisely be-
+cause, thanks to how it has structured its government, each
+may be expected to vindicate different points of view on the
+State's behalf. For a federal court to presume a full overlap
+of interests when state law more nearly presumes the oppo-
+site would make little sense and do much violence to our
+system of cooperative federalism. In cases like ours, state
+agents may pursue “related” state interests, but they cannot
+be fairly presumed to bear “identical” ones. Trbovich, 404
+U. S., at 538.
+In the end, to resolve this case we need not decide whether
+a presumption of adequate representation might sometimes
+be appropriate when a private litigant seeks to defend a law
+alongside the government or in any other circumstance. We
+need only acknowledge that a presumption of adequate rep-
+resentation is inappropriate when a duly authorized state
+agent seeks to intervene to defend a state law. In its en
+banc decision, the Fourth Circuit reasoned that “a proposed
+intervenor's governmental status makes a heightened pre-
+sumption of adequacy more appropriate, not less.” 999
+F. 3d, at 933; accord, Planned Parenthood of Wis., Inc. v.
+Kaul, 942 F. 3d 793, 801 (CA7 2019). But, respectfully, that
+gets things backward. Any presumption against interven-
+tion is especially inappropriate when wielded to displace a
+State's prerogative to select which agents may defend its
+laws and protect its interests. Normally, a State's chosen
+representatives should be greeted in federal court with
+respect, not adverse presumptions. If the intervenor in
+CONFERENCE OF THE NAACP
+Opinion of the Court
+Trbovich faced only a “minimal” burden, it cannot be that
+duly designated state agents seeking to vindicate state law
+should have to clear some higher hurdle.
+Setting aside the lower courts' erroneous presumptions,
+the proper resolution of today's case follows quickly. Cast-
+ing aspersions on no one, this litigation illustrates how di-
+vided state governments sometimes warrant participation
+by multiple state officials in federal court. See 999 F. 3d, at
+939–941 (Wilkinson, J., dissenting). Recall just some of the
+facts of this case. See Parts I–B and I–C, supra. When
+confronted with a motion for a preliminary injunction, the
+Board declined to offer expert-witness affdavits in support
+of S. B. 824, even though its opponent offered many and the
+legislative leaders sought to supplement the record with
+their own. After the District Court issued its (ultimately
+overturned) injunction, the Board declined to seek a stay.
+That tactical choice, motivated by the Board's overriding
+concern for stability and certainty, meant that the State
+could not enforce its new law during a statewide election.
+Throughout, Board members have been appointed and poten-
+tially removable by a Governor who vetoed S. B. 824 and
+who fled his own briefs in this litigation calling the law “un-
+constitutional” and arguing that it “should never go into ef-
+fect.” See supra, at 189. And at all times, the Board has
+been represented by an attorney general who, though no
+doubt a vigorous advocate for his clients' interests, is also an
+elected official who may feel allegiance to the voting public
+or share the Board's administrative concerns.
+The legislative leaders seek to give voice to a different
+perspective. Their “primary objective” is not clarifying
+which law applies. See supra, at 187. They are not bur-
+dened by misgivings about the law's wisdom. If allowed to
+intervene, the legislative leaders say, they will focus on de-
+fending the law vigorously on the merits without an eye to
+crosscutting administrative concerns. And, they add, the
+differences between their interest and the Board's in this
+case demonstrate why state law empowers them to partici-
+pate in litigation over the validity of state legislation—alive
+as it is to the possibility that different branches of govern-
+ment may seek to vindicate different and valuable state in-
+terests. Perhaps recognizing all this, the Fourth Circuit it-
+self allowed the legislative leaders to intervene in the appeal
+from the District Court's preliminary injunction ruling.
+The same result should follow here.
+By way of reply, the NAACP—but not the Board—worries
+that allowing the legislative leaders to intervene could
+“make trial management impossible.” Brief for NAACP
+Respondents 26; but see Tr. of Oral Arg. 64 (noting that the
+Board has “no problem litigating alongside” the legislative
+leaders). We are not insensitive to the concern. In some
+other case, a proliferation of motions to intervene may be a
+cause for caution. At some point, too, it may be that the
+interests of existing parties will come to overlap fully with
+the interests of any remaining proposed intervenor.
+But that case is not this case. Not only do the legislative
+leaders bring a distinct state interest to bear on this litiga-
+tion. No one has suggested that a cascade of motions lies
+on the horizon here. Recall that the NAACP initially
+named the Governor as a defendant. Absent his eventual
+dismissal from this litigation, the Governor might have been
+able to hire his own outside counsel while the attorney gen-
+eral continued to represent the Board. See Martin, 320
+N. C., at 547–548, 359 S. E. 2d, at 480. Introducing the legis-
+lative leaders and their counsel after the Governor's de-
+parture may not represent a neat one-for-one swap. But
+litigation on this scale is hardly inconsistent with what the
+Board and the NAACP originally anticipated.
+Nor is it unusual. In matters ranging from civil-rights
+actions to suits testing the constitutionality of state or fed-
+eral legislation, federal courts routinely handle cases involv-
+ing multiple officials sometimes represented by different
+attorneys taking different positions. See, e. g., Whole Wom-
+an's Health v. Jackson, 595 U. S. 30 (2021); Brnovich, 594
+U. S. –––; United States v. Windsor, 570 U. S. 744 (2013);

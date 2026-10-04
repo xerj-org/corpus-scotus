@@ -1,0 +1,266 @@
+Wisconsin Legislature v. Wisconsin Elections Commission — No. 21A471 — October Term 2021 — decided 3/23/22 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 595 U.S. 398
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r17_nko1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+justify race-based districting, the State must show a strong basis
+in evidence for concluding that the statute required its action. Ibid.
+Here, the Wisconsin Supreme Court erred in its efforts to apply
+Cooper's understanding of what the Equal Protection Clause requires.
+Whether the court viewed the Governor or itself as the state mapmaker
+who must satisfy strict scrutiny, the court's application of Cooper was
+flawed. The Governor failed to carry his burden as he provided insuf-
+fcient evidence or analysis to support his claim that the VRA required
+the seven majority-black districts that he drew. Similarly, the court
+failed to satisfy strict scrutiny itself, for three reasons. First, the court
+erroneously believed that it had to conclude only that the VRA might
+support race-based districting—not that the statute required it. But
+the Court's precedent instructs otherwise. In Cooper, for example, the
+Court explained that “race-based districting is narrowly tailored . . . if
+a State had `good reasons' for thinking that the Act demanded such
+steps.” 581 U. S., at 301 (emphasis added). Second, the court fell short
+in its application of the analytical framework this Court provided in
+Thornburg v. Gingles, 478 U. S. 30, 46–51, to demonstrate a § 2 violation.
+Rather than carefully evaluating evidence at the district level, as re-
+quired, the court relied on generalizations to reach the conclusion that
+the preconditions to demonstrating a § 2 violation identified in Gingles
+were satisfied. Third, the court improperly reduced Gingles' totality-
+of-circumstances analysis to the single factor of proportionality, an
+approach the Court rejected in Johnson v. De Grandy , 512 U. S. 997,
+1020–1021. In sum, this Court's VRA precedents ask a question not
+answered below: whether a race-neutral alternative that did not add a
+seventh majority-black district would deny black voters equal political
+opportunity. The Wisconsin Supreme Court's strict-scrutiny analysis
+did not comply with this Court's equal protection jurisprudence and its
+judgment cannot stand.
+Certiorari granted; 2022 WI 14, 400 Wis. 2d 626, 971 N. W. 2d 402, reversed
+and remanded.
+Per Curiam.
+Because of population shifts revealed by the 2020 decen-
+nial census, Wisconsin's State Assembly and Senate districts
+are no longer equally apportioned. The Wisconsin Legisla-
+ture passed new maps to fx the problem, but the Governor
+vetoed them. At an impasse, the legislature and the Gover-
+nor turned to the Wisconsin Supreme Court, which had al-
+ready agreed to hear an original action brought by a group
+ELECTIONS COMM'N
+Per Curiam
+of voters seeking to remedy the malapportionment. Rather
+than attempt to draw new maps itself, the court invited the
+parties and intervenors—including the legislature and the
+Governor—to propose maps that complied with the State
+Constitution, the Federal Constitution, and the Voting
+Rights Act of 1965 (VRA), 79 Stat. 437, as amended, 52
+U. S. C. § 10301 et seq., and that otherwise minimized changes
+from the current maps.
+On March 3, the court issued a decision selecting the As-
+sembly and Senate maps that the Governor had proposed.
+Johnson v. Wisconsin Elections Comm'n, 2022 WI 14, 400
+Wis. 2d 626, 971 N. W. 2d 402. (Because the State Constitu-
+tion requires three Assembly districts to be nested within
+each Senate district, the court analyzed and selected the
+maps as a unit. Id., at 644–645, 971 N. W. 2d, at 411.) The
+Governor's Assembly map intentionally created seven major-
+ity-black districts—one more than the current map. 1 The
+Governor argued that the addition of a seventh majority-
+black district was necessary for compliance with the VRA.
+In adopting the Governor's map, the court explained: “[W]e
+cannot say for certain on this record that seven majority-
+Black assembly districts are required by the VRA.” Id., at
+658, 971 N. W. 2d, at 418. It nevertheless concluded that the
+Governor's map complied with the Equal Protection Clause
+of the Fourteenth Amendment because there were “good
+reasons” to think that the VRA “may” require the additional
+majority-black district. Id., at 659, 971 N. W. 2d, at 419.
+The legislature and the voters who initiated the state-
+court proceeding now seek relief from that decision. They
+argue that the court selected race-based maps without suffi-
+1 The Governor's map accomplished this addition by reducing the black
+voting-age population in the other six majority-black districts. The black
+voting-age populations in the Governor's seven districts all cluster be-
+tween 50.1% and 51.4%, compared to the current six districts' range of
+51% to 62%. See 2022 WI 14, ¶87, 400 Wis. 2d 626, 674–675, 971 N. W. 2d
+402, 426 (Ziegler, C. J., dissenting).
+cient justification, in violation of the Equal Protection
+Clause. They ask this Court either to grant an emergency
+stay or to construe their application as a petition for certio-
+rari and reverse the decision below.
+We agree that the court committed legal error in its appli-
+cation of decisions of this Court regarding the relationship
+between the constitutional guarantee of equal protection and
+the VRA. We accordingly construe the application for stay
+presented to Justice Barrett and by her referred to the
+Court as a petition for certiorari, grant the petition, reverse
+the imposition of the Governor's State Assembly and Senate
+maps, and remand to the Wisconsin Supreme Court for pro-
+ceedings not inconsistent with this opinion. Summarily cor-
+recting the error gives the court sufficient time to adopt
+maps consistent with the timetable for Wisconsin's August
+9th primary election.
+* * *
+Under the Equal Protection Clause, districting maps that
+sort voters on the basis of race “ `are by their very nature
+odious.' ” Shaw v. Reno, 509 U. S. 630, 643 (1993). Such
+laws “cannot be upheld unless they are narrowly tailored to
+achieving a compelling state interest.” Miller v. Johnson,
+515 U. S. 900, 904 (1995). We have assumed that complying
+with the VRA is a compelling interest. Cooper v. Harris,
+581 U. S. 285, 292 (2017). And we have held that if race is
+the predominant factor motivating the placement of voters
+in or out of a particular district, the State bears the burden
+of showing that the design of that district withstands strict
+scrutiny. Ibid. Thus, our precedents hold that a State can
+satisfy strict scrutiny if it proves that its race-based sorting
+of voters is narrowly tailored to comply with the VRA.
+Ibid.
+A State violates § 2 of the VRA “if, based on the totality
+of circumstances, it is shown that the political processes lead-
+ing to nomination or election in the State or political subdivi-
+sion are not equally open to participation by members of [a
+ELECTIONS COMM'N
+Per Curiam
+minority group] in that its members have less opportunity
+than other members of the electorate to participate in the
+political process and to elect representatives of their choice.”
+52 U. S. C. § 10301(b). We have construed § 2 to prohibit the
+distribution of minority voters into districts in a way that
+dilutes their voting power. See Thornburg v. Gingles, 478
+U. S. 30, 46–51 (1986). In Gingles, we provided a framework
+for demonstrating a violation of that sort. First, three “pre-
+conditions” must be shown: (1) The minority group must be
+sufficiently large and compact to constitute a majority in a
+reasonably confgured district, (2) the minority group must
+be politically cohesive, and (3) a majority group must vote
+sufficiently as a bloc to enable it to usually defeat the minor-
+ity group's preferred candidate. Id., at 50–51.
+If the preconditions are established, a court considers the
+totality of circumstances to determine “whether the political
+process is equally open to minority voters.” Id., at 79; see
+also Johnson v. De Grandy, 512 U. S. 997, 1011–1012 (1994)
+(satisfying the Gingles preconditions is necessary but not
+sufficient to show a § 2 violation; “courts must also examine
+other evidence in the totality of circumstances”). We have
+identified as relevant to the totality analysis several factors
+enumerated in the Senate Report on the 1982 amendments
+to the VRA, as well as “whether the number of districts in
+which the minority group forms an effective majority is
+roughly proportional to its share of the population in the
+relevant area.” League of United Latin American Citizens
+v. Perry, 548 U. S. 399, 426 (2006) (LULAC).
+We said in Cooper that when a State invokes § 2 to justify
+race-based districting, “it must show (to meet the `narrow
+tailoring' requirement) that it had `a strong basis in evidence'
+for concluding that the statute required its action.” 581
+U. S., at 292. The Wisconsin Supreme Court concluded that
+the Governor's intentional addition of a seventh majority-
+black district triggered the Equal Protection Clause and that
+Cooper's strict-scrutiny test must accordingly be satisfied.
+Accepting those conclusions, we hold that the court erred in
+its efforts to apply Cooper's understanding of what the Equal
+Protection Clause requires.
+It is not clear whether the court viewed the Governor or
+itself as the state mapmaker who must satisfy strict scrutiny,
+but the court's application of Cooper was flawed either way.
+If the former, the Governor failed to carry his burden. His
+main explanation for drawing the seventh majority-black dis-
+trict was that there is now a sufficiently large and compact
+population of black residents to fll it, Brief for Intervenor-
+Respondent Evers in Johnson v. Wisconsin Elections
+Comm'n, No. 2021AP1450–OA (Wis. Sup. Ct., Dec. 15, 2021),
+p. 14—apparently embracing just the sort of uncritical
+majority-minority district maximization that we have ex-
+pressly rejected. De Grandy, 512 U. S., at 1017 (“Failure to
+maximize cannot be the measure of § 2”). He provided al-
+most no other evidence or analysis supporting his claim that
+the VRA required the seven majority-black districts that he
+drew. See 400 Wis. 2d, at 676–677, 686–689, 971 N. W. 2d, at
+427–428, 432–433 (Ziegler, C. J., dissenting). Strict scrutiny
+requires much more. See Abbott v. Perez, 585 U. S. –––, –––
+(2018) (“[W]here we have accepted a State's `good reasons'
+for using race in drawing district lines, the State made a
+strong showing of a preenactment analysis with justifiable
+conclusions”). If the Wisconsin Supreme Court was review-
+ing whether the Governor satisfied strict scrutiny, it erred
+by adopting his maps.
+If, on the other hand, the court sought to shoulder strict
+scrutiny's burden itself, it fared little better. First, it mis-
+understood Cooper's inquiry. The court believed that it had
+to conclude only that the VRA might support race-based dis-
+tricting—not that the statute required it. See 400 Wis. 2d,
+at 658, 659, 971 N. W. 2d, at 418, 419 (“[W]e cannot say for
+certain on this record that seven majority-Black assembly
+districts are required by the VRA,” but “we see good rea-
+sons to conclude a seventh majority-Black assembly district
+ELECTIONS COMM'N
+Per Curiam
+may be required” (emphasis added)). Our precedent in-
+structs otherwise. Thus in Cooper we explained, for exam-
+ple, that “race-based districting is narrowly tailored . . . if a
+State had `good reasons' for thinking that the Act demanded
+such steps.” 581 U. S., at 301 (emphasis added). And we
+concluded that “experience gave the State no reason to think
+that the VRA required” it to move voters based on race.
+Id., at 303 (emphasis added). That principle grew out of the
+more general proposition that “the institution that makes the
+racial distinction must have had a `strong basis in evidence'
+to conclude that remedial action was necessary, `before it em-
+barks on an affirmative-action program.' ” Shaw v. Hunt,
+517 U. S. 899, 910 (1996) (some emphasis added).
+To be sure, we said in Cooper that States have “ `breathing
+room' ” to make reasonable mistakes; we will not fault a
+State just because its “compliance measures . . . may prove,
+in perfect hindsight, not to have been needed.” 581 U. S.,
+at 293. But that “leeway” does not allow a State to adopt a
+racial gerrymander that the State does not, at the time of
+imposition, “judg[e] necessary under a proper interpretation
+of the VRA.” Id., at 306.
+Second, the court's analysis of Gingles' preconditions fell
+short of our standards. As we explained in Cooper, “[t]o
+have a strong basis in evidence to conclude that § 2 demands
+. . . race-based steps, the State must carefully evaluate
+whether a plaintiff could establish the Gingles preconditions
+. . . in a new district created without those measures.” 581
+U. S., at 304. Rather than carefully evaluating evidence at
+the district level, the court improperly relied on generaliza-
+tions to reach the conclusion that the preconditions were sat-
+isfed. See id., at 305, n. 5 (a “generalized conclusion fails to
+meaningfully . . . address the relevant local question”
+whether the preconditions would be satisfied as to each
+district).
+The court's entire discussion of the first precondition was
+to say that “it is undisputed” and “the parties' submissions
+demonstrate” that seven sufficiently large and compact
+majority-black districts could be drawn. 400 Wis. 2d, at 654,
+971 N. W. 2d, at 416. Similarly, its discussion of the second
+precondition consisted of nothing but the statement that
+“[e]xperts from multiple parties analyzed voting trends and
+concluded political cohesion existed; no party disagreed.”
+Ibid., 917 N. W. 2d, at 417. And while the court did cite one
+specific expert report for the third precondition—calculating,
+based on eight previous races, how often white voters in the
+Milwaukee area defeat the preferred candidate of black vot-
+ers—it made virtually no effort to parse that data at the
+district level or respond to criticisms of the expert's analysis.
+Id., at 655, 971 N. W. 2d, at 417; see id., at 689–693, 971 N. W.
+2d, at 433–435 (Ziegler, C. J., dissenting). 2
+Third, the court improperly reduced Gingles' totality-of-
+circumstances analysis to a single factor. The court ac-
+knowledged the Senate factors but concluded that they had
+no role to play in its analysis. 400 Wis. 2d, at 656–657, and
+n. 28, 971 N. W. 2d, at 417–418, and n. 28. Instead, it focused
+exclusively on proportionality. See id., at 656–659, 971
+N. W. 2d, at 417–419. We rejected just that approach in De
+Grandy, explaining that “[n]o single statistic provides courts
+with a shortcut to determine whether a set of single-member
+districts unlawfully dilutes minority voting strength.” 512
+U. S., at 1020–1021; see also id., at 1026 (O'Connor, J., concur-
+ring) (“The Court . . . makes clear that proportionality is
+never dispositive. Lack of proportionality can never by it-
+self prove dilution, for courts must always carefully and
+searchingly review the totality of the circumstances”).
+2 That sole piece of cited record evidence came from an intervenor who
+argued that the Governor's map violated the VRA. 400 Wis. 2d, at 677,
+694, 971 N. W. 2d, at 427–428, 436 (Ziegler, C. J., dissenting); Response
+Brief for Intervenor-Petitioner Black Leaders Organizing for Communi-
+ties et al. in Johnson v. Wisconsin Elections Comm'n, No. 2021AP1450–
+OA (Wis. Sup. Ct., Dec. 30, 2021), pp. 7–20. The court did not acknowl-
+edge or respond to that argument.

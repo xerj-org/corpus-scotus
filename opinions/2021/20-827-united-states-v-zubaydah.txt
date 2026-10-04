@@ -1,0 +1,430 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — opinion of the Court — author Breyer (listing code B)
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+David F. Klein argued the cause for respondents. With
+him on the brief were John Patrick Chamberlain and Joseph
+Margulies, pro se.*
+Justice Breyer delivered the opinion of the Court, ex-
+cept as to Parts II–B–2 and III.†
+Abu Zubaydah, a detainee in the Guantánamo Bay Naval
+Base, and his attorney fled an ex parte 28 U. S. C. § 1782
+motion in Federal District Court seeking to subpoena two
+former Central Intelligence Agency contractors. Zubaydah
+sought to obtain information (for use in Polish litigation)
+about his treatment in 2002 and 2003 at a CIA detention site,
+*Briefs of amici curiae urging affirmance were fled for the American
+Civil Liberties Union et al. by Lawrence S. Lustberg, James G. Connell
+III, Alka Pradhan, David D. Cole, Dror Ladin, Hina Shamsi, and Ashley
+Gorski; for the Bureau of Investigative Journalism et al. by Daniel M.
+Greenfeld; for the Center for Justice and Accountability by Carmen K.
+Cheung; for the Coalition of Human Rights Scholars by Matthew R. Nicely
+and Devin S. Sikes; for the Council on American-Islamic Relations by
+Lena F. Masri and Justin Sadowsky; for Current and Former U. N. Spe-
+cial Rapporteurs by Hope Metcalf ; for the Electronic Frontier Foundation
+by Richard R. Wiebe, Cindy A. Cohn, David Greene, Lee Tien, Kurt Op-
+sahl, Andrew Crocker, and Thomas E. Moore III; for Evidence Law Pro-
+fessors by Timothy K. Ford; for Former Federal Judges by Meaghan Ver-
+Gow; for Human Rights Organizations by Timothy J. Droske; for the
+National Religious Campaign Against Torture et al. by Michael K. Robert-
+son, David J. Butler, and Anna M. Greve; for Physicians for Human
+Rights et al. by Gerson H. Smoger; for Public Citizen by Wendy Liu, Alli-
+son M. Zieve, and Scott L. Nelson; for September 11th Families for Peace-
+ful Tomorrows by Steven S. Sparling, Marjorie E. Sheldon, and Arielle
+Warshall Katz; for Torture Survivors Maher Arar et al. by Hannah R.
+Garry; and for Bilal Abdul Kareem by Eric L. Lewis and Tara J.
+Plochocki.
+Briefs of amici curiae were fled for the Center for Constitutional
+Rights by Baher Azmy, Katherine Gallagher, and Maria LaHood; and for
+the Floyd Abrams Institute for Freedom of Expression et al. by David
+A. Schulz.
+†Justice Kagan joins all but Parts III and IV of this opinion and the
+judgment of dismissal.
+which Zubaydah says was located in Poland. See 28 U. S. C.
+§ 1782 (permitting district courts to order production of testi-
+mony or documents “for use in a proceeding in a foreign . . .
+tribunal”). The Government intervened. It moved to
+quash the subpoenas based on the state secrets privilege.
+That privilege allows the Government to bar the disclosure
+of information that, were it revealed, would harm national
+security. United States v. Reynolds, 345 U. S. 1, 6–7 (1953).
+The Court of Appeals for the Ninth Circuit mostly ac-
+cepted the Government's claim of privilege. Husayn v.
+Mitchell, 938 F. 3d 1123, 1134 (2019). But it concluded that
+the privilege did not cover information about the location of
+the detention site, which Zubaydah alleges to have been in
+Poland. Ibid. The Court of Appeals believed that the
+site's location had already been publicly disclosed and that
+the state secrets privilege did not bar disclosure of informa-
+tion that was no longer secret (and which, in any event, was
+being sought from private parties). Id., at 1132–1133. The
+Government argues that the privilege should apply because
+Zubaydah's discovery request could force former CIA con-
+tractors to confirm the location of the detention site and that
+confirmation would itself significantly harm national security
+interests. In our view, the Government has provided suffi-
+cient support for its claim of harm to warrant application of the
+privilege. We reverse the Ninth Circuit's contrary holding.
+I
+A
+For present purposes, we can assume the following: In the
+aftermath of the September 11, 2001, terrorist attacks, the
+CIA believed that Zubaydah was a senior al Qaeda lieuten-
+ant likely to possess knowledge of future attacks against the
+United States. S. Rep. No. 288, 113th Cong., 2d Sess., p. 21,
+and n. 60 (2014) (SSCI Report). In March 2002, Zubaydah
+was captured by Pakistani government officials working
+with the CIA. Id., at 21. The CIA then transferred him
+to a detention site that some sources allege was located in
+Thailand. Id., at 22–23; see also 3 Record 552.
+Zubaydah remained at this location for several months.
+SSCI Report 22, 67. During that time he was subjected to
+what the Government then called “enhanced interroga-
+tion” techniques, including waterboarding, stress positions,
+cramped confinement, and sleep deprivation. Id., at 40–41.
+The Government has since concluded that this treatment
+constituted torture. See Press Conference by the Presi-
+dent, Office of the Press Secretary, Aug. 1, 2014, https://
+obamawhitehouse.archives.gov/the-press-office/2014/08/01 /
+press-conference-president.
+In December 2002, the CIA transferred Zubaydah to a dif-
+ferent detention site—the site at issue here. SSCI Re-
+port 67. The CIA has never confirmed its location, but
+Zubaydah and many others believe it was in Poland.
+In September 2006, the Government transferred Zubaydah
+to its detention facility at the Guantánamo Bay Naval Base.
+3 Record 583. He has been detained in Guantánamo Bay
+ever since. 938 F. 3d, at 1125.
+Some of this information and related details have appeared
+in various publicly-available documents, including:
+• The almost-500 page Executive Summary of a Senate Se-
+lect Committee on Intelligence Report concerning the
+CIA's use of “enhanced interrogation” techniques. See
+generally SSCI Report.
+• The European Court of Human Rights' findings concern-
+ing Zubaydah's treatment, which that court concluded
+had taken place in Poland. 3 Record 382–607.
+• Testimony given by James Mitchell and John Jessen, the
+former CIA contractors who are the targets of Zubay-
+dah's subpoenas and who designed and implemented the
+CIA's post-September 11 enhanced-interrogation pro-
+gram. Id., at 106–149; Tr. in United States v. Khalid
+Shaikh Mohammad, et al. (Jan. 21–31, 2020).
+• Mitchell's memoir of his involvement with the CIA's
+enhanced-interrogation program. See generally J.
+Mitchell & B. Harlow, Enhanced Interrogation: Inside
+the Minds and Motives of the Islamic Terrorists Trying
+to Destroy America (2016).
+Some of these and other publicly available sources say
+that, in 2002 and 2003, Zubaydah was detained at a CIA facil-
+ity in Poland. But, the Government states, the CIA itself
+has never confirmed that one or more of its clandestine de-
+tention sites was located in any specific foreign country.
+App. to Pet. for Cert. 134a. Neither, as far as we can tell
+from the record, have the contractors Mitchell and Jessen
+named the specific foreign countries in which CIA detention
+sites were located. Rather, they (like the SSCI Report)
+have used code names to refer to the locations where Zubay-
+dah was held. See, e. g., SSCI Report 62; Tr. in United
+States v. Khalid Shaikh Mohammad, et al. (Jan. 21, 2020),
+at 30190. Finally, although at least one former Polish gov-
+ernment official has stated that Poland cooperated with the
+CIA, to our knowledge, the Polish government itself has
+never confirmed such allegations. 3 Record 472.
+B
+1
+In 2010, lawyers representing Zubaydah fled a criminal
+complaint in Poland asking prosecutors there to hold ac-
+countable any Polish nationals who were involved in his
+alleged mistreatment in that country. 938 F. 3d, at 1127.
+Invoking a Mutual Legal Assistance Treaty, the Polish
+prosecutors asked American authorities for information.
+3 Record 441. The United States Department of Justice re-
+fused their request on the ground that providing the infor-
+mation would adversely affect our national security . Id.,
+at 444; see also App. to Brief for Petitioner 4a. The Polish
+investigation closed without prosecutions. 938 F. 3d, at 1127.
+In 2015, the European Court of Human Rights considered
+the matter. It concluded that the CIA had held and tor-
+tured Zubaydah at a site located in Poland. 3 Record 558.
+It also stated that Poland had failed adequately to investi-
+gate the human rights violations that the court believed had
+occurred on Polish soil. Id., at 581.
+In response, the Polish prosecutors reopened their investi-
+gation. 938 F. 3d, at 1128. They again requested informa-
+tion from the United States under the Mutual Legal Assist-
+ance Treaty, and the United States again denied their
+requests. Ibid.; see also 3 Record 632–633. At that point,
+the Polish prosecutors invited Zubaydah's lawyers to submit
+evidence that would aid their investigation.
+2
+Soon afterward, Zubaydah (and his lawyer) fled the ex
+parte 28 U. S. C. § 1782 discovery application now before us.
+938 F. 3d, at 1128. Section 1782 says that a district court
+may order a person in its district to provide testimony or
+documents “for use in a proceeding in a foreign . . . tribunal,
+including criminal investigations conducted before formal ac-
+cusation.” Zubaydah asked for permission to serve the con-
+tractors, Mitchell and Jessen, with subpoenas commanding
+them to appear for depositions and to produce “documents,
+memoranda and correspondence” regarding an alleged CIA
+detention facility in Poland and Zubaydah's treatment there.
+The Appendix, infra, at 215–216, lists Zubaydah's document
+requests. Twelve of Zubaydah's thirteen document re-
+quests referred to Poland, and 10 specifically requested docu-
+ments “concerning” an alleged CIA detention facility located
+in Stare Kiejkuty, Poland. Ibid. The District Court
+granted Zubaydah's request. App. to Pet. for Cert. 70a.
+The Government intervened. 938 F. 3d, at 1129. Sec-
+tion 1782(a) provides that a “person may not be compelled to
+give his testimony or statement or to produce a document or
+other thing in violation of any legally applicable privilege.”
+The Government claimed that disclosure of the information
+Zubaydah sought would violate the state secrets privilege.
+938 F. 3d, at 1129. It asked the court to quash the subpoe-
+nas. Ibid.
+To support its privilege claim, the Government submitted
+a declaration from the Director of the CIA. App. to Pet.
+for Cert. 123a–137a. The Director said that Mitchell and
+Jessen's response to Zubaydah's subpoenas would, in this
+case, confirm or deny whether Poland had cooperated with
+the CIA. Id., at 129a–130a. And that confirmation, the Di-
+rector explained, would significantly harm our national secu-
+rity interests. Id., at 131a.
+The District Court granted the Government's motion to
+quash the subpoenas. Id., at 60a. It did not accept the
+Government's claim “that merely confirming [that] a deten-
+tion site was operated in Poland would pose a grave risk to
+national security.” Id., at 59a. But it nonetheless thought
+the state secrets privilege applied. It concluded that the
+state secrets privilege allowed the Government to suppress
+“operational details concerning the specifics of cooperation
+with a foreign government, including the roles and identities
+of foreign individuals.” Id., at 55a–56a (emphasis added).
+And it believed that it was not possible to conduct “[m]ean-
+ingful discovery . . . in this matter” without disclosing these
+(or other) protected types of information. Id., at 57a. The
+court rejected Zubaydah's suggestion that it would be possi-
+ble to conduct further discovery through the use of code
+names that would conceal the locations of CIA detention
+facilities. Id., at 55a–57a. The court consequently dis-
+missed Zubaydah's § 1782 application. Id., at 60a.
+Zubaydah appealed. A divided panel of the Court of Ap-
+peals for the Ninth Circuit affirmed in part and reversed in
+part. The panel listed the following examples of privileged
+information sought by Zubaydah: “documents, memoranda,
+and correspondence about the identities and roles of foreign
+individuals involved with the detention facility, operational
+details about the facility, and any contracts made with Polish
+government officials or private persons residing in Poland
+[that] might implicate the CIA's intelligence gathering ef-
+forts.” 938 F. 3d, at 1134; see also Appendix, infra, at 215–
+216. But the panel majority held that the District Court
+nonetheless should not have dismissed the case. That was
+because, in its view, the state secrets privilege did not apply
+to information that was already publicly known. 938 F. 3d,
+at 1133. It added that because Mitchell and Jessen are “pri-
+vate parties,” their disclosures would not tend to show that
+the Government itself had “confirm[ed] or den[ied] any-
+thing.” Ibid.
+More specifically, the panel majority wrote that three cate-
+gories of information were not covered by the state secrets
+privilege: “the fact that the CIA operated a detention facility
+in Poland in the early 2000s; information about the use of
+interrogation techniques and conditions of confinement in
+that detention facility; and details of Abu Zubaydah's treat-
+ment there.” Id., at 1134 (emphasis added). The panel then
+remanded the case to the District Court for further proceed-
+ings. Id., at 1135, 1137–1138.
+The Court of Appeals denied, over a twelve-judge dissent,
+the Government's request for rehearing en banc. 965 F. 3d
+775 (2020). We granted the Government's petition for cer-
+tiorari to determine whether the Court of Appeals erred.
+We believe that it did.
+II
+A
+The state secrets privilege permits the Government to
+prevent disclosure of information when that disclosure would
+harm national security interests. See Reynolds, 345 U. S.,
+at 10–11 (disclosure of Air Force accident investigation re-
+port could disclose “military secrets”); In re Sealed Case, 494
+F. 3d 139, 144 (CADC 2007) (disclosure of inspector general
+reports would “create the risk of revealing covert operatives,
+organizational structure and functions, and intelligence-
+gathering sources, methods, and capabilities”); see also Mol-
+erio v. FBI, 749 F. 2d 815, 819, 822 (CADC 1984) (Scalia, J.)
+(disclosure of FBI's rationale for not hiring plaintiff “would
+impair the national security”).
+To assert the privilege, the Government must submit to
+the court a “formal claim of privilege, lodged by the head of
+the department which has control over the matter, after ac-
+tual personal consideration by that officer.” Reynolds, 345
+U. S., at 7–8. “The court itself must determine whether the
+circumstances are appropriate for the claim of privilege.”
+Id., at 8. “Judicial control over the evidence in a case cannot
+be abdicated to the caprice of executive officers.” Id., at 9–
+10. Nonetheless, in assessing the Government's claim that
+disclosure may harm national security, courts must exercise
+the traditional “reluctan[ce] to intrude upon the authority
+of the Executive in military and national security affairs.”
+Department of Navy v. Egan, 484 U. S. 518, 530 (1988).
+Although the court itself must assess the sufficiency of the
+Government's privilege claim, “the showing of necessity
+which is made,” by the party seeking disclosure of the osten-
+sibly privileged information, “will determine how far the
+court should probe in satisfying itself that the occasion for
+invoking the privilege is appropriate.” Reynolds, 345 U. S.,
+at 11. “Where there is a strong showing of necessity, the
+claim of privilege should not be lightly accepted.” Ibid. In
+contrast, “where necessity is dubious, a formal claim of privi-
+lege,” demonstrating “a reasonable possibility” of harm to
+national security, “will have to prevail.” Ibid. And in all
+events, “even the most compelling necessity cannot overcome
+the claim of privilege if the court is ultimately satisfied that
+military secrets are at stake.” Ibid.
+Justice Gorsuch agrees that the Government must show
+a reasonable danger of harm to national security, that a court
+must decide for itself whether the occasion is appropriate for
+claiming the privilege, and that in camera review is not al-
+ways required to make that determination. Post, at 253–
+255 (dissenting opinion). We diverge from the dissent on
+how those principles should apply to the specific discovery
+requests Zubaydah has made in this litigation. Of course,
+our answer to that question is not a judgment of Zubaydah's
+alleged terrorist activities, nor of his treatment at the hands
+of the United States Government. Obviously the Court con-
+dones neither terrorism nor torture, but in this case we are
+required to decide only a narrow evidentiary dispute.
+B
+An important factor in our analysis of that narrow issue is
+the specific language of Zubaydah's discovery requests and
+the Ninth Circuit's opinion, which both make it clear that any
+response Mitchell and Jessen give to Zubaydah's subpoenas
+would tend to confirm (or deny) the existence of a CIA deten-
+tion site in Poland. As we have said, 12 of Zubaydah's 13
+document requests contain the word “Poland” or “Polish.”
+Appendix, infra, at 215–216. (The exception is a broad re-
+quest for any and all documents concerning Zubaydah him-
+self. Ibid.) Ten of the requests specifically seek “docu-
+ments, correspondence, or memoranda . . . concerning” the
+alleged CIA detention site in Stare Kiejkuty, Poland. Ibid.
+If Mitchell and Jessen acknowledge the existence of docu-
+ments responsive to these requests, they will effectively ac-
+knowledge the existence of the detention facility referenced
+therein. Conversely, denying the existence of responsive
+documents would deny the existence of such a facility. In
+any event, any response to the lion's share of Zubaydah's
+document requests will either confirm or deny that the CIA
+operated a detention site in Poland.
+The problem is confirmed by the Ninth Circuit's opinion,
+which allowed continued discovery into three topics: the ex-
+istence of a CIA detention facility in Poland, the conditions
+of confinement and interrogation at that facility, and Zubay-
+dah's treatment at that location. 938 F. 3d, at 1134. The
+first category, of course, requires Mitchell and Jessen to di-
+rectly confirm or deny the existence of a Polish detention
+site. The latter two categories require, at the very least,
+confirmation or denial, since acknowledging that any con-
+fnement, interrogation, or treatment occurred at a CIA de-
+tention facility located in Poland would confirm that such a
+facility exists or existed.
+Because any response to Zubaydah's subpoenas allowed by
+the Ninth Circuit's decision will have the effect of confrma-
+tion or denial (by the Government or its former contractors)
+of the existence of a CIA facility in Poland, the primary ques-
+tion for us must be whether the existence (or non-existence)
+of a CIA detention facility in Poland falls within the scope
+of the state secrets privilege. For the reasons that follow,
+we conclude that it does.
+1
+We agree with the Government that sometimes informa-
+tion that has entered the public domain may nonetheless fall
+within the scope of the state secrets privilege. But see 938
+F. 3d, at 1133 (“[I]n order to be a `state secret,' a fact must
+first be a `secret' ”). The Government here has provided a
+reasonable explanation of why Mitchell and Jessen's confr-
+mation or denial of the information Zubaydah seeks could
+significantly harm national security interests, even if that
+information has already been made public through unoffcial
+sources.
+The CIA Director stated in his declaration that the
+Agency's counterterrorism efforts rely on “clandestine” rela-
+tionships with foreign intelligence services. App. to Pet. for
+Cert. 130a–131a. The Director explained that foreign intel-
+ligence services “are a critical intelligence source,” whose
+help is “vital to our world-wide efforts to collect intelligence
+and thwart terrorist attacks.” Ibid.
+He further explained that these “sensitive” relationships
+with other nations are “based on mutual trust that the classi-
+fed existence and nature of the relationship will not be dis-
+closed.” Id., at 135a–136a. To confirm the existence of
+such a relationship would “breach” that trust and have “seri-
+ous negative consequences,” including jeopardizing “relation-
+ships with other foreign intelligence or security services.”
+Id., at 131a–132a. In light of these concerns, the CIA “has
+steadfastly refused to confirm or deny the accuracy” of public
+speculation about its cooperation with Poland, leaving “an
+important element of doubt about the veracity” of that spec-
+ulation, providing “an additional layer of confidentiality,” and
+at least confirming that the United States will “stand frm in
+safeguarding any coordinated clandestine activities,” despite
+the passage of time, the existence of media reports, and
+changes in public opinion. Id., at 133a–136a. In a word, to
+confirm publicly the existence of a CIA site in Country A,
+can diminish the extent to which the intelligence services of
+Countries A, B, C, D, etc., will prove willing to cooperate
+with our own intelligence services in the future.
+Justice Gorsuch believes that the Government has failed
+to meet its “burden of showing that a `reasonable danger'
+of harm to national security would follow from sharing the
+information sought.” Post, at 257–258. In his view, the Di-
+rector's declaration is insufficient to demonstrate “that re-
+quiring the government to acknowledge [that the CIA did or
+did not operate a detention facility in Poland in the early
+2000s] would invite a reasonable danger of additional harm
+to national security.” Post, at 258–259. We disagree. It
+stands to reason that a former CIA insider's confirmation
+of confidential cooperation between the CIA and a foreign
+intelligence service could damage the CIA's clandestine rela-
+tionships with foreign authorities. Confirmation by such an
+insider is different in kind from speculation in the press or
+even by foreign courts because it leaves virtually no doubt
+as to the veracity of the information that has been confirmed.
+And there is ample reason to think that the circumstances of
+this case—particularly the specific discovery requests at
+issue here—could lead to this kind of confirmation. In any
+event, the CIA's refusal to confirm or deny its cooperation
+with foreign intelligence services plays an important role in
+and of itself in maintaining the trust upon which those rela-
+tionships are based.
+Nor, as Justice Gorsuch believes, do we reach this con-
+clusion by incorrectly placing the burden on Zubaydah to dis-
+prove the Government's assertion of harm. Post, at 259.
+To the contrary, we agree with Justice Gorsuch that the
+Government bears the burden of showing that the privilege
+should apply—we simply disagree with his conclusion that it
+failed to meet that burden here. In our view, the Director's
+declaration adequately establishes “that there is a reason-
+able danger that compulsion of the evidence [at issue] will
+expose . . . matters which, in the interest of national security,
+should not be divulged.” Reynolds, 345 U. S., at 10. And
+we have found nothing in the evidentiary record that casts
+doubt on our conclusion that the Government has met its
+burden here. Reynolds itself contemplated that a similar
+basis for a claim of privilege could prevail without further
+examination by the court of the ostensibly privileged evi-
+dence. Id., at 9–11.
+In contrast, Justice Thomas, referring to Reynolds, be-
+lieves that we need not consider the Government's justifica-
+tions for invoking the privilege at all because Zubaydah has
+not made a “ `strong showing of necessity' ” for the requested
+information. Post, at 216–217 (opinion concurring in part
+and concurring in judgment). Reynolds, however, taken as
+an example, indicates that the Government initially must for-
+mally invoke the privilege. 345 U. S., at 8. Then the court
+itself must “determine whether the circumstances are appro-
+priate for the claim of privilege.” Ibid. And only after sat-
+isfying itself that the Government has offered a valid reason
+for invoking the privilege would a court turn to the issue of
+necessity (a matter that would help the court determine how
+deeply to probe the details of, and basis for, the Govern-

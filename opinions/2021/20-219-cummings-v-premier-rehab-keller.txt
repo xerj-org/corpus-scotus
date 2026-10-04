@@ -1,0 +1,505 @@
+Cummings v. Premier Rehab Keller — No. 20-219 — October Term 2021 — decided 4/28/22 — opinion of the Court — author Roberts (listing code R)
+Citation: 596 U.S. 212
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r27_5i36.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+Congress has broad power under the Spending Clause of
+the Constitution to set the terms on which it disburses fed-
+eral funds. “[L]egislation enacted pursuant to the spending
+power is much in the nature of a contract: in return for fed-
+eral funds, the [recipients] agree to comply with federally
+imposed conditions.” Pennhurst State School and Hospital
+v. Halderman, 451 U. S. 1, 17 (1981). Exercising this au-
+thority, Congress has passed a number of statutes prohibit-
+ing recipients of federal financial assistance from discrimi-
+nating based on certain protected characteristics. We have
+held that these statutes may be enforced through implied
+rights of action, and that private plaintiffs may secure in-
+junctive or monetary relief in such suits. See Barnes v.
+Gorman, 536 U. S. 181, 185, 187 (2002). Punitive damages,
+on the other hand, are not available. Id., at 189. The ques-
+tion presented in this case is whether another special form
+of damages—damages for emotional distress—may be
+recovered.
+I
+Petitioner Jane Cummings is deaf and legally blind, and
+communicates primarily in American Sign Language (ASL).
+In October 2016, she sought physical therapy services from
+respondent Premier Rehab Keller, a small business in the
+Solicitor General, Brent Webster, First Assistant Attorney General, La-
+nora C. Pettit, Principal Deputy Solicitor General, and Eric J. Hamilton,
+Assistant Solicitor General, and by the Attorneys General for their respec-
+tive States as follows: Steve Marshall of Alabama, Leslie Rutledge of Ar-
+kansas, Todd Rokita of Indiana, Jeff Landry of Louisiana, Lynn Fitch of
+Mississippi, John M. O'Connor of Oklahoma, Alan Wilson of South Caro-
+lina, Sean D. Reyes of Utah, and Patrick Morrisey of West Virginia; for
+the Chamber of Commerce of the United States of America et al. by
+Charles J. Cooper, Daryl Joseffer, Karen R. Harned, and Elizabeth Milito;
+for the National Conference of State Legislatures et al. by Richard A.
+Simpson, Lisa E. Soronen, and F. Andrew Hessick; and for the Washing-
+ton Legal Foundation by John M. Masslon II and Cory L. Andrews.
+Dallas-Fort Worth area. Cummings requested that Premier
+Rehab provide an ASL interpreter at her appointments.
+Premier Rehab declined to do so, telling Cummings that she
+could communicate with the therapist using written notes,
+lip reading, or gesturing. Cummings then sought and ob-
+tained care from another provider.
+Cummings later fled this lawsuit against Premier Rehab,
+alleging that its failure to provide an ASL interpreter con-
+stituted discrimination on the basis of disability in violation
+of the Rehabilitation Act of 1973, § 504, 87 Stat. 394, as
+amended, 29 U. S. C. § 794(a), and the Patient Protection and
+Affordable Care Act, § 1557, 124 Stat. 260, 42 U. S. C. § 18116.
+Premier Rehab is subject to these statutes, which apply to
+entities that receive federal financial assistance, because it
+receives reimbursement through Medicare and Medicaid for
+the provision of some of its services. In her complaint,
+Cummings sought declaratory relief, an injunction, and
+damages.
+The District Court dismissed the complaint. It observed
+that “the only compensable injuries that Cummings alleged
+Premier caused were `humiliation, frustration, and emotional
+distress.' ” No. 4:18–CV–649–A (ND Tex., Jan. 16, 2019),
+2019 WL 227411, *4. In the District Court's view, “damages
+for emotional harm” are not recoverable in private actions
+brought to enforce the Rehabilitation Act or the Affordable
+Care Act. Ibid. The Court of Appeals for the Fifth Cir-
+cuit affirmed, adopting the same conclusion. 948 F. 3d 673
+(2020).
+We granted certiorari. 594 U. S. ––– (2021).
+II
+A
+Pursuant to its authority to “fx the terms on which it shall
+disburse federal money,” Pennhurst, 451 U. S., at 17, Con-
+gress has enacted four statutes prohibiting recipients of fed-
+eral financial assistance from discriminating based on certain
+protected grounds. Title VI of the Civil Rights Act of 1964
+forbids race, color, and national origin discrimination in
+federally funded programs or activities. 78 Stat. 252, 42
+U. S. C. § 2000d. Title IX of the Education Amendments of
+1972 similarly prohibits sex-based discrimination, 86 Stat.
+373, 20 U. S. C. § 1681, while the Rehabilitation Act bars
+funding recipients from discriminating because of disability.
+29 U. S. C. § 794. Finally, the Affordable Care Act outlaws
+discrimination on any of the preceding grounds, in addition
+to age, by healthcare entities receiving federal funds. 42
+U. S. C. § 18116.
+None of these statutes expressly provides victims of dis-
+crimination a private right of action to sue the funding recip-
+ient in federal court. But as to both Title VI and Title IX,
+our decision in Cannon v. University of Chicago , 441 U. S.
+677, 703 (1979), “found an implied right of action.” Barnes,
+536 U. S., at 185. Congress later “acknowledged this right
+in amendments” to both statutes, ibid., leading us to conclude
+that it had “ratified Cannon's holding” that “private individ-
+uals may sue to enforce” both statutes. Alexander v. San-
+doval, 532 U. S. 275, 280 (2001); see also Franklin v. Gwin-
+nett County Public Schools, 503 U. S. 60, 72–73 (1992). As
+to the Rehabilitation Act and the Affordable Care Act—the
+two statutes directly at issue in this litigation—each ex-
+pressly incorporates the rights and remedies provided under
+Title VI. 29 U. S. C. § 794a(a)(2); 42 U. S. C. § 18116(a).
+Although it is “beyond dispute that private individuals
+may sue to enforce” the antidiscrimination statutes we con-
+sider here, “it is less clear what remedies are available in
+such a suit.” Barnes, 536 U. S., at 185. In Franklin, we
+considered whether monetary damages are available as a
+remedy for intentional violations of Title IX (and, by exten-
+sion, the other statutes we discussed). 503 U. S., at 76. We
+answered yes, ibid., but “did not describe the scope of `appro-
+priate relief.' ” Barnes, 536 U. S., at 185.
+Our later cases have filled in that gap, clarifying that our
+consideration of whether a remedy qualifies as appropriate
+relief must be informed by the way Spending Clause “stat-
+utes operate”: by “conditioning an offer of federal funding
+on a promise by the recipient not to discriminate, in what
+amounts essentially to a contract between the Government
+and the recipient of funds.” Gebser v. Lago Vista Independ-
+ent School Dist., 524 U. S. 274, 286 (1998). Unlike ordinary
+legislation, which “imposes congressional policy” on regu-
+lated parties “involuntarily,” Spending Clause legislation op-
+erates based on consent: “in return for federal funds, the
+[recipients] agree to comply with federally imposed condi-
+tions.” Pennhurst, 451 U. S., at 16, 17. For that reason,
+the “legitimacy of Congress' power” to enact Spending
+Clause legislation rests not on its sovereign authority to
+enact binding laws, but on “whether the [recipient] voluntar-
+ily and knowingly accepts the terms of th[at] `contract.' ”
+Barnes, 536 U. S., at 186 (quoting Pennhurst, 451 U. S.,
+at 17).
+“We have regularly applied th[is] contract-law analogy in
+cases defining the scope of conduct for which funding recipi-
+ents may be held liable for money damages.” Barnes, 536
+U. S., at 186. Recipients cannot “knowingly accept” the deal
+with the Federal Government unless they “would clearly un-
+derstand . . . the obligations” that would come along with
+doing so. Arlington Central School Dist. Bd. of Ed. v. Mur-
+phy, 548 U. S. 291, 296 (2006). We therefore construe the
+reach of Spending Clause conditions with an eye toward “en-
+suring that the receiving entity of federal funds [had] notice
+that it will be liable.” Gebser, 524 U. S., at 287 (inter-
+nal quotation marks omitted). “Accordingly, if Congress in-
+tends to impose a condition on the grant of federal moneys,
+it must do so unambiguously.” Pennhurst, 451 U. S., at 17.
+“The same analogy,” Barnes, 536 U. S., at 187, similarly
+limits “the scope of available remedies” in actions brought to
+enforce Spending Clause statutes, Gebser, 524 U. S., at 287.
+After all, when considering whether to accept federal funds,
+a prospective recipient would surely wonder not only what
+rules it must follow, but also what sort of penalties might be
+on the table. See Barnes, 536 U. S., at 188. A particular
+remedy is thus “appropriate relief” in a private Spending
+Clause action “only if the funding recipient is on notice that,
+by accepting federal funding, it exposes itself to liability of
+that nature.” Id., at 187 (emphasis in original). Only then
+can we be confident that the recipient “exercise[d its] choice
+knowingly, cognizant of the consequences of [its] participa-
+tion” in the federal program. Pennhurst, 451 U. S., at 17.
+B
+In order to decide whether emotional distress damages are
+available under the Spending Clause statutes we consider
+here, we therefore ask a simple question: Would a prospec-
+tive funding recipient, at the time it “engaged in the process
+of deciding whether [to] accept” federal dollars, have been
+aware that it would face such liability? Arlington, 548
+U. S., at 296. If yes, then emotional distress damages are
+available; if no, they are not.
+Because the statutes at issue are silent as to available rem-
+edies, it is not obvious how to decide whether funding recipi-
+ents would have had the requisite “clear notice regarding the
+liability at issue in this case.” Ibid. We confronted that
+same dynamic in Barnes. There, we considered whether a
+federal funding recipient would have known, when taking
+the money, that it was agreeing to face punitive damages in
+suits brought under those laws. We noted that the statu-
+tory text “contains no express remedies.” 536 U. S., at 187.
+But we explained that, following the contract analogy set out
+in our Spending Clause cases, a federal funding recipient
+may be considered “on notice that it is subject not only to
+those remedies explicitly provided in the relevant legislation,
+but also to those remedies traditionally available in suits for
+breach of contract.” Ibid. We identified two such reme-
+dies: compensatory damages and injunctions. By contrast,
+we explained, punitive damages “are generally not available
+for breach of contract.” Ibid. We thus concluded that
+funding recipients covered by the statutes at issue “have not,
+merely by accepting funds, implicitly consented to liability
+for punitive damages.” Id., at 188.
+Crucial for this case, we considered punitive damages to
+be “generally not available for breach of contract,” see id.,
+at 187, despite the fact that such damages are hardly unheard
+of in contract cases. Indeed, according to the treatises we
+cited, punitive damages are recoverable in contract where
+“the conduct constituting the breach is also a tort for which
+punitive damages are recoverable.” Restatement (Second)
+of Contracts § 355, p. 154 (1979); see also 3 E. Farnsworth,
+Contracts § 12.8, pp. 192–201 (2d ed. 1998). That recognized
+exception to the general rule, however, was not enough to
+give funding recipients the requisite notice that they could
+face such damages.
+Under Barnes, then, we may presume that a funding recip-
+ient is aware that, for breaching its Spending Clause “con-
+tract” with the Federal Government, it will be subject to the
+usual contract remedies in private suits. That is apparent
+from the adverbs Barnes repeatedly used, requiring that a
+remedy be “traditionally available,” “generally . . . avail-
+able,” or “normally available for contract actions.” 536
+U. S., at 187–188. And it is confirmed by the Court's hold-
+ing: that punitive damages are unavailable in private actions
+brought under these statutes even though such damages are
+a familiar feature of contract law.
+C
+Under the framework just set out, the analysis here is
+straightforward. It is hornbook law that “emotional dis-
+tress is generally not compensable in contract,” D. Lay-
+cock & R. Hasen, Modern American Remedies 216 (5th ed.
+2019), just as “punitive damages . . . are generally not avail-
+able for breach of contract,” Barnes, 536 U. S., at 187. See
+11 W. Jaeger, Williston on Contracts § 1341, p. 214 (3d ed.
+1968) (“Mental suffering caused by breach of contract, al-
+though it may be a real injury, is not generally allowed as
+a basis for compensation in contractual actions.” (footnote
+omitted)); E. Farnsworth, Contracts § 12.17, p. 894 (1982) (de-
+scribing rule of “generally denying recovery for emotional
+disturbance, or `mental distress,' resulting from breach of
+contract” as “firmly rooted in tradition”); J. Perillo, Cala-
+mari & Perillo on Contracts § 14.5, p. 495 (6th ed. 2009) (Cala-
+mari & Perillo) (“As a general rule, no damages will be
+awarded for the mental distress or emotional trauma that
+may be caused by a breach of contract.”); C. McCormick, Law
+of Damages § 145, p. 592 (1935) (McCormick) (“It is often
+stated as the `general rule' that, in actions for breach of con-
+tract, damages for mental suffering are not allowable.”).
+Under Barnes, we therefore cannot treat federal funding re-
+cipients as having consented to be subject to damages for
+emotional distress. It follows that such damages are not re-
+coverable under the Spending Clause statutes we consider
+here.
+In arguing for a different result, Cummings recognizes
+that “contract law dictates `the scope of damages remedies.' ”
+Brief for Petitioner 30. And she quotes the test set out in
+Barnes: whether a certain remedy is “traditionally available
+in suits for breach of contract.” Brief for Petitioner 31.
+But Cummings then argues that, notwithstanding the above
+authorities, “traditional contract remedies” in fact do “in-
+clude damages for emotional distress.” Ibid.; see Brief for
+United States as Amicus Curiae 14–20 (making the same
+argument); post, at 237–239 (Breyer , J., dissenting) (same).
+That is because, Cummings explains, several contract trea-
+tises put forth the special rule that “recovery for emotional
+disturbance” is allowed in a particular circumstance: where
+“the contract or the breach is of such a kind that serious
+emotional disturbance was a particularly likely result.”
+Brief for Petitioner 31 (quoting Restatement (Second) of
+Contracts § 353). And, she contends, such a rule “aptly de-
+scribe[s the] intentional breach of [a] promise to refrain from
+discrimination,” because discrimination frequently engen -
+ders mental anguish. Brief for Petitioner 31. This argu-
+ment suffers from two independently fatal faws.
+First, Cummings subtly but crucially transforms the
+contract-law analogy into a test that is inconsistent with both
+Barnes and our larger Spending Clause jurisprudence.
+Barnes, recall, instructs us to inquire whether a remedy is
+“traditionally,” “generally,” or “normally available for con-
+tract actions.” 536 U. S., at 187–188. Cummings, however,
+would look not only to those general rules, but also to
+whether there is a “more fne-grained” or “more directly ap-
+plicable” rule of contract remedies that, although not gener-
+ally or normally applicable, “govern[s] in the specific context”
+or “particular setting[ ]” of the pertinent Spending Clause
+provision. Brief for Petitioner 33–35; see also post, at 239.
+In other words, Cummings would treat funding recipients as
+on notice that they will face not only the usual remedies
+available in contract actions, but also other unusual, even
+“rare” remedies, Brief for Petitioner 34, if those remedies
+would be recoverable “in suits for breaches of the type of
+contractual commitments at issue,” id., at 35.
+Neither petitioner nor the United States attempts to
+ground this approach in Barnes, which, as discussed above,
+undertook nothing of the sort. Indeed, had Barnes ana-
+lyzed the question as petitioner frames it, the decision would
+have come out the opposite way. As noted, although the
+general rule is that punitive damages are not available in
+contract, they are undoubtedly recoverable in cases where
+the breaching conduct is also “a tort for which punitive dam-
+ages are recoverable.” Restatement (Second) of Contracts
+§ 355. Such conduct would presumably include “breaches of
+the type of contractual commitments at issue here,” Brief for
+Petitioner 35–namely, the commitment not to discriminate.
+After all, intentional discrimination is frequently a wanton,
+reprehensible tort. Barnes itself involved “tortious con-
+duct,” 536 U. S., at 192 (Stevens, J., concurring in judgment),
+that the jury had found deplorable enough to warrant $1.2
+million in punitive damages, id., at 184 (opinion of the Court).
+Yet Barnes necessarily concluded that the existence of this
+on-point exception to the general rule against punitive dam-
+ages was insufficient to put funding recipients on notice of
+their exposure to that particular remedy.
+Compare in this regard the Restatement's discussion of
+emotional distress damages with its discussion of punitive
+damages:
+“Loss Due to Emotional Disturbance
+“Recovery for emotional disturbance will be excluded
+unless . . . the contract or the breach is of such a kind
+that serious emotional disturbance was a particularly
+likely result.” § 353 (emphasis added).
+“Punitive Damages
+“Punitive damages are not recoverable for a breach of
+contract unless the conduct constituting the breach is
+also a tort for which punitive damages are recoverable.”
+§ 355 (emphasis added).
+It did not matter to the Court in Barnes that the second
+clause of section 355 “aptly describe[s] a funding recipient's
+intentional breach of its promise to refrain from discrimina-
+tion.” Brief for Petitioner 31. Barnes did not even engage
+in such an inquiry; it simply stopped at the word “unless.”
+See 536 U. S., at 187–188. Neither Cummings nor the
+United States adequately explains why we—bound by
+Barnes—should do anything different here. Indeed, re-
+fected in the Restatement's similar treatment of emotional
+distress and punitive damages is the fact that “the line be-
+tween these two kinds of damages is indistinct and hard to
+draw.” 11 J. Perillo, Corbin on Contracts § 59.1, p. 546 (rev.
+11th ed. 2005) (Corbin); see also D. Dobbs, Law of Remedies
+§ 12.4, p. 819 (1973) (Dobbs).
+Beyond Barnes itself, petitioner's “more fne-grained” ap-
+proach, Brief for Petitioner 33, cannot be squared with our
+contract analogy case law in general. As Cummings sees
+things, “it makes no difference whether the governing con-
+tract rule here is an `exception,' ” id., at 34, because “the
+governing rule is just that: the governing rule,” id., at 35;
+see also post, at 239. But our cases do not treat suits under
+Spending Clause legislation as literal “suits in contract,” Sos-
+samon v. Texas, 563 U. S. 277, 290 (2011), subjecting funding
+recipients to whatever “governing rules” some general fed-
+eral law of contracts would supply.
+Rather, as set out above, we employ the contract analogy
+“only as a potential limitation on liability” compared to that
+which “would exist under nonspending statutes.” Ibid.
+We do so to ensure that funding recipients “exercise[d] their
+choice” to take federal dollars “knowingly, cognizant of the
+consequences of ” doing so. Pennhurst , 451 U. S., at 17.
+Here, the statutes at issue say nothing about what those con-
+sequences will be. Nonetheless, consistent with Barnes, it
+is fair to consider recipients aware that, if they violate their
+promise to the Government, they will be subject to either
+damages or a court order to perform. Those are the usual
+forms of relief for breaching a legally enforceable commit-
+ment. No dive through the treatises, 50-state survey, or
+speculative drawing of analogies is required to anticipate
+their availability.
+The approach offered by Cummings, by contrast, pushes
+the notion of “offer and acceptance,” Barnes, 536 U. S., at
+186, past its breaking point. It is one thing to say that fund-
+ing recipients will know the basic, general rules. It is quite
+another to assume that they will know the contours of every
+contract doctrine, no matter how idiosyncratic or excep-
+tional. Yet that is the sort of “clear notice” that Cummings
+necessarily suggests funding recipients would have regard-
+ing the availability of emotional distress damages when “en-
+gaged in the process of deciding whether” to accept federal
+funds. Arlington, 548 U. S., at 296. Such a diluted con-
+ception of knowledge has no place in our Spending Clause
+jurisprudence.
+What is more, by essentially incorporating the law of con-
+tract remedies wholesale, Cummings's rendition of the anal-
+ogy “risks arrogating legislative power.” Hernández v.
+Mesa, 589 U. S. –––, ––– (2020). Recall that Barnes author-
+ized the recovery of “remedies traditionally available in suits
+for breach of contract” under Spending Clause statutes, like
+those we consider here, that “mention[ ] no remedies.” 536
+U. S., at 187. Barnes thus permitted federal courts to do
+something we are usually loath to do: “find[ ] that a [certain]
+remedy is implied by a provision that makes no reference to
+that remedy,” Hernández, 589 U. S., at –––. But Barnes
+also placed a clear limit on that authority, constraining courts
+to imply only those remedies “that [are] normally available
+for contract actions.” 536 U. S., at 188. In urging us to dis-
+regard that restriction, Cummings would have us treat stat-
+utory silence as a license to freely supply remedies we cannot
+be sure Congress would have chosen to make available.
+That would be an untenable result in any context, let alone
+one in which our cases require “clear notice regarding the
+liability at issue,” Arlington, 548 U. S., at 296.
+Second, even if it were appropriate to treat funding recipi-
+ents as aware that they may be subject to “rare” contract-
+law rules that are “satisfied only in particular settings,”
+Brief for Petitioner 34, funding recipients would still lack
+the requisite notice that emotional distress damages are
+available under the statutes at issue. That is because the
+Restatement's formulation—that such damages are available
+where “the contract or the breach is of such a kind that seri-
+ous emotional disturbance was a particularly likely result,”
+see Restatement (Second) of Contracts § 353—does not
+reflect the consensus rule among American jurisdictions.
+Far from it. As one commentator concluded after “[s]ur-
+veying all of the cases dealing with emotional distress recov-
+ery in contract actions” over a decade after the Restate-
+ment's publication, “a majority rule does not exist” on the
+question. D. Whaley, Paying for the Agony: The Recovery
+of Emotional Distress Damages in Contract Actions, 26 Suf-
+folk U. L. Rev. 935, 946 (1992); see also J. Chmiel, Damages—
+Recovery for Mental Suffering From Breach of Contract, 32
+Notre Dame Law. 482 (1957) (noting “little uniformity in the
+decided cases”); Corbin § 59.1, at 538, 540 (“Claims for dam-
+ages for mental pain and suffering have caused much conflict
+and difference of opinion,” and “the law cannot be said to be
+entirely settled”); Dobbs § 12.4, at 819–820 (although a “group
+of cases have tried to formulate a broader doctrine” akin to
+the Restatement view, “th[e] principle is a broad and rela-
+tively undefined one,” and “it is not clear how far [it] is or will
+be accepted by the courts”). The contrary view of the dissent,
+see post, at 235–237, is more aspirational than descriptive.
+To be sure, a number of States follow the Restatement
+rule and award emotional distress damages “where the in-
+jury entails more than a pecuniary loss, and the duty violated
+is closely associated with the feelings and emotions of the
+injured party.” Chmiel, 32 Notre Dame Law., at 482. That
+represents “the most liberal approach,” Whaley, 26 Suffolk
+L. Rev., at 943, taken by a “strong minority” of courts, Cor-
+bin § 59.1, at 541; see also McCormick § 145, at 594–595. On
+the opposite end of the spectrum, however, several States
+squarely reject the Restatement, and altogether forbid re-
+covery of emotional distress damages even where the con-
+tract relates to nonpecuniary matters. See, e. g., Tompkins
+v. Eckerd, Civ. No. 09–2369, 2012 WL 1110069, *4 (D SC, Apr.
+3, 2012); Contreraz v. Michelotti-Sawyers, 271 Mont. 300,
+309, 896 P. 2d 1118, 1123 (1995); Keltner v. Washington
+County, 310 Ore. 499, 504–510, 800 P. 2d 752, 754–758 (1990).
+Most States reject the Restatement exception in a more
+nuanced way: by limiting the award of emotional distress
+damages to a narrow and idiosyncratic group of cases, rather
+than making them available in general wherever a breach
+would have been likely to inflict emotional harm. Cala-
+mari & Perillo § 14.5, at 495–496. A good example is New
+York, which refused to apply the Restatement rule, and de-
+nied emotional distress damages, where the defendant hospi-
+tal breached its contractual duty to return a newborn child
+to his parents by failing to prevent his abduction. Johnson
+v. Jamaica Hospital, 62 N. Y . 2d 523, 528–529, 467 N. E. 2d
+502, 504 (1984); see also id., at 536–537, 467 N. E. 2d, at 509
+(Meyer, J., dissenting).
+These jurisdictions confine recovery for mental anguish
+where nonpecuniary contracts are at issue in two main ways.
+First, a number permit recovery only if the breach also quali-
+fes as “unusually evil,” with the precise terminology varying
+from “reckless” and “willful” to “wanton” and “reprehen-
+sible.” D. Hoffman & A. Radus, Instructing Juries on
+Noneconomic Contract Damages, 81 Fordham L. Rev. 1221,
+1227 (2012) (emphasis deleted); see Corbin § 59.1, at 546–547;
+Chmiel, 32 Notre Dame Law., at 484–485; see, e. g., Giam-
+papa v. American Family Mut. Ins. Co., 64 P. 3d 230, 238–
+239 (Colo. 2003).
+Second, many States limit recovery for mental anguish to
+only a narrow “class of contracts upon breach of which the
+injured party may, if he so elect, bring an action sounding in
+tort.” Smith v. Sanborn State Bank, 147 Iowa 640, 643, 126
+N. W. 779, 780 (1910); Corbin § 59.1, at 538; see, e. g., Johnson,
+62 N. Y . 2d, at 528, 467 N. E. 2d, at 504. Such cases most
+prominently include those “against carriers, telegraph com-
+panies, and innkeepers—all of whom are bound by certain
+duties that are independent of contract, but who usually also
+have made a contract for the performance of the duty.”
+Corbin § 59.1, at 538; Chmiel, 32 Notre Dame Law., at 488.
+Others involve “contracts for the carriage or proper disposi-
+tion of dead bodies,” Restatement (Second) of Contracts
+§ 353, Comment a, which similarly might be seen “as tort
+cases quite apart from the contract, since one who negli-
+gently mishandles a body could be liable in tort . . . even if
+there were no contract at all.” Dobbs § 12.4, at 819; see also
+McCormick § 145, at 594–595, 597; see, e. g., Wright v. Beard-
+sley, 46 Wash. 16, 16–20, 89 P. 172, 172–174 (1907).
+Many of these cases unsurprisingly mix contract, quasi-
+contract, and tort principles together. Dobbs, § 12.4, at 818,
+n. 10 (“The carrier who insults his passenger is liable to him
+in tort . . . but cases often speak of an implied term in the
+contract as governing this point.”); Knoxville Traction Co.
+v. Lane, 103 Tenn. 376, 386, 53 S. W. 557, 560 (1899) (“The
+gravamen of this action is the defendant's breach of its con-
+tract of carriage, which includes . . . the duty to protect the
+passenger from insult or injury.”); Chamberlain v. Chandler,
+5 F. Cas. 413, 414 (No. 2,575) (CC Mass. 1823) (opinion of
+Story, J.) (ship captain violated the carriage contract's “im-
+plied stipulation against general obscenity”).* As such, it
+makes little sense to treat such cases as establishing or evin-
+cing a rule of contract law—a principle with which the
+United States agrees, Brief for United States as Amicus Cu-
+riae 31, n. 5 (arguing that cases “based on tort principles”
+are “not instructive” for purposes of the contract-law
+analogy).
+In the end, it is apparent that the closest our legal system
+comes to a universal rule—or even a widely followed one—
+regarding the availability of emotional distress damages in
+*The dissent cites McCormick for the proposition that courts did not
+“always” rely on “accompanying tortious conduct” when allowing recovery
+of emotional distress damages in the innkeeper, telegraph, and burial
+cases. Post, at 238–239 (quoting McCormick § 145, at 593–594). That
+misses the point. As McCormick's next sentence explains, the award of
+emotional distress damages in such cases was “made easier because usu-
+ally the action could have been brought as for a tort, in which event the
+tradition against allowing damages for mental distress would be plainly
+inapplicable.” Id., § 145, at 594. Put differently, the usual rule barring
+recovery was not applicable in this idiosyncratic set of cases because, like
+cases in which punitive damages were awarded, they were “based on con-
+tract in name only,” Dobbs § 12.4, at 818.

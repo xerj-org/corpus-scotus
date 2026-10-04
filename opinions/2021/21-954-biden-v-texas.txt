@@ -1,0 +1,873 @@
+Biden v. Texas — No. 21-954 — October Term 2021 — decided 6/30/22 — opinion of the Court — author Roberts (listing code R)
+Citation: 597 U.S. 785
+Source: https://www.supremecourt.gov/opinions/21pdf/597us2r66_k537.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+In January 2019, the Department of Homeland Security—
+under the administration of President Trump—established
+the Migrant Protection Protocols. That program provided
+for the return to Mexico of non-Mexican aliens who had been
+detained attempting to enter the United States illegally from
+Mexico. On Inauguration Day 2021, the new administration
+Conference of Catholic Bishops et al. by Ethan D. Dettmer and Joshua S.
+Lipshutz; for Professor Benjamin Eidelson by Mr. Eidelson, pro se; for 25
+Cities et al. by Daniel R. Suvor, Kevin Morrow, Leslie J. Girard, Diana
+P . Cortes, Christopher J. Caso, Kristin M. Bronson, Lyndsey M. Olson,
+William C. Fosbre, Arturo G. Michel, and Michael Feuer; and for 61 Immi-
+gration Advocacy and Legal Service Organizations by Karen C. Tumlin,
+Esther H. Sung, Jane Petersen Bentrott, Kelly J. Huggins, Jeffrey T.
+Green, Tamara F. Goodlette, and Naomi A. Igra. Kathleen R. Hartnett
+and Adam S. Gershenson fled a brief for Administrative Law Professors
+as amici curiae urging vacatur.
+Briefs of amici curiae urging affirmance were fled for the State of
+Indiana et al. by Theodore E. Rokita, Attorney General of Indiana,
+Thomas M. Fisher, Solicitor General, Aaron T. Craft, James A. Barta,
+Deputy Solicitor General, and Julia C. Payne and Melinda R. Holmes,
+Deputy Attorneys General, and by the Attorneys General for their respec-
+tive States as follows: Steve Marshall of Alabama, Treg Taylor of Alaska,
+Mark Brnovich of Arizona, Leslie Rutledge of Arkansas, Ashley Moody
+of Florida, Christopher M. Carr of Georgia, Derek Schmidt of Kansas,
+Daniel Cameron of Kentucky, Jeff Landry of Louisiana, Lynn Fitch of
+Mississippi, Austin Knudsen of Montana, Doug Peterson of Nebraska,
+Dave Yost of Ohio, John M. O'Connor of Oklahoma, Alan Wilson of South
+Carolina, Sean Reyes of Utah, Jason Miyares of Virginia, and Patrick
+Morrisey of West Virginia; for Advancing American Freedom by Matthew
+J. Sheehan; for Advocates for Victims of Illegal Alien Crime by Walter S.
+Zimolong III; for the America First Legal Foundation by Gene P . Hamil-
+ton; for the Center for Immigration Studies by Julie B. Axelrod; for the
+Immigration Reform Law Institute by Christopher J. Hajec; and for the
+Landmark Legal Foundation by Matthew C. Forys, Michael J. O'Neill, and
+Richard P . Hutchison.
+Anjan Choudhury, Ahilan Arulanantham, Talia Inlender , and Hiroshi
+Motomura fled a brief for the Center for Immigration Law and Policy,
+UCLA School of Law, as amicus curiae.
+of President Biden announced that the program would be
+suspended the next day, and later that year sought to termi-
+nate it. The District Court and the Court of Appeals, how-
+ever, held that doing so would violate the Immigration and
+Nationality Act, concluding that the return policy was man-
+datory so long as illegal entrants were being released into
+the United States. The District Court also held that the
+attempted rescission of the program was inadequately ex-
+plained in violation of the Administrative Procedure Act.
+While its appeal was pending, the Government took new ac-
+tion to terminate the policy with a more detailed explana-
+tion. But the Court of Appeals held that this new action
+was not separately reviewable final agency action under the
+Administrative Procedure Act.
+The questions presented are whether the Government's
+rescission of the Migrant Protection Protocols violated the
+Immigration and Nationality Act and whether the Govern-
+ment's second termination of the policy was a valid final
+agency action.
+I
+A
+On December 20, 2018, then-Secretary of Homeland Secu-
+rity Kirstjen Nielsen announced a new program called Re-
+main in Mexico, also known as the Migrant Protection Proto-
+cols (MPP). MPP was created in response to an
+immigration surge at the country's southern border, and a
+resulting “humanitarian and border security crisis” in which
+federal immigration officials were encountering approxi-
+mately 2,000 inadmissible aliens each day. 554 F. Supp. 3d
+818, 831 (ND Tex. 2021). MPP provided that certain non-
+Mexican nationals arriving by land from Mexico would be
+returned to Mexico to await the results of their removal pro-
+ceedings under 8 U. S. C. § 1229a. On the same day that
+Secretary Nielsen announced the program, the Government
+of Mexico agreed that it would cooperate in administering it,
+on a temporary basis.
+MPP was implemented pursuant to express congressional
+authorization in the Immigration and Nationality Act (INA),
+which provides that “[i]n the case of an alien . . . who is
+arriving on land (whether or not at a designated port of ar-
+rival) from a foreign territory contiguous to the United
+States, the Attorney General may return the alien to that
+territory pending a proceeding under section 1229a of this
+title.” 66 Stat. 163, as added and amended, 8 U. S. C.
+§ 1225(b)(2)(C).1 Prior to the initiation of MPP, the Depart-
+ment of Homeland Security (DHS) and its predecessor
+agency had “primarily used [§ 1225(b)(2)(C)] on an ad-hoc
+basis to return certain Mexican and Canadian nationals” ar-
+riving at ports of entry. App. to Pet. for Cert. 273a, n. 12.
+A separate provision of the same section of the INA states
+that if “an alien seeking admission is not clearly and beyond
+a doubt entitled to be admitted, the alien shall be detained
+for a proceeding under section 1229a of this title.”
+§ 1225(b)(2)(A). Due to consistent and significant funding
+shortfalls, however, DHS has never had “sufficient detention
+capacity to maintain in custody every single person de-
+scribed in section 1225.” Id., at 323a. In light of that fact,
+the Trump administration chose to implement MPP in part
+so that “[c]ertain aliens attempting to enter the U. S. ille-
+gally or without documentation, including those who claim
+asylum, will no longer be released into the country, where
+they often fail to fle an asylum application and/or disappear
+before an immigration judge can determine the merits of any
+claim.” 554 F. Supp. 3d, at 832.
+In January 2019, DHS began implementing MPP, initially
+in San Diego, California, then in El Paso, Texas, and Calex-
+ico, California, and then nationwide. By December 31, 2020,
+DHS had enrolled 68,039 aliens in the program.
+1 The provision refers to the Attorney General, but the authority it con-
+fers has been transferred to the Secretary of Homeland Security. See
+Department of Homeland Security v. Thuraissigiam, 591 U. S. –––, –––,
+n. 3 (2020).
+Following the change in Presidential administrations, how-
+ever, the Biden administration sought to terminate the pro-
+gram. On January 20, 2021, the Acting Secretary of Home-
+land Security wrote that “[e]effective January 21, 2021, the
+Department will suspend new enrollments in [MPP] pending
+further review of the program. Aliens who are not already
+enrolled in MPP should be processed under other existing
+legal authorities.” Id., at 836. President Biden also issued
+Executive Order No. 14010, which directed the new Sec-
+retary of Homeland Security, Alejandro N. Mayorkas, to
+“promptly review and determine whether to terminate or
+modify the [MPP] program.” 86 Fed. Reg. 8269 (2021).
+On June 1, 2021, Secretary Mayorkas issued a memoran-
+dum officially terminating MPP (the June 1 Memorandum).
+In that memorandum, the Secretary noted his determination
+“that MPP [d]oes not adequately or sustainably enhance bor-
+der management in such a way as to justify the program's
+extensive operational burdens and other shortfalls.” App.
+to Pet. for Cert. 351a. He also emphasized that, since its
+inception, MPP had “played an outsized role in [DHS's] en-
+gagement with the Government of Mexico,” given the “sig-
+nificant attention that it draws away from other elements
+that necessarily must be more central to the bilateral rela-
+tionship.” Id., at 357a. For those and other reasons, the
+Secretary announced that he was “by this memorandum ter-
+minating the MPP program,” and “direct[ed] DHS personnel
+to take all appropriate actions to terminate MPP, including
+taking all steps necessary to rescind implementing guidance
+and other directives or policy guidance issued to implement
+the program.” Id., at 348a–349a.
+B
+On April 13, 2021, the States of Texas and Missouri (re-
+spondents) initiated this lawsuit in the Northern District of
+Texas against Secretary Mayorkas and others. Respond-
+ents' initial complaint challenged the Acting Secretary's Jan-
+uary 20 suspension of new enrollments in MPP, but following
+the June 1 Memorandum, they amended their complaint to
+challenge the Secretary's June 1 rescission of the entire pro-
+gram. The amended complaint asserted that the June 1
+Memorandum violated the INA and the Administrative Pro-
+cedure Act (APA), 5 U. S. C. § 701 et seq., and sought prelimi-
+nary and permanent injunctive relief, declaratory relief, and
+vacatur of the rescission pursuant to the APA.
+The District Court conducted a one-day bench trial and
+entered judgment for respondents. The court first con-
+cluded that terminating MPP would violate the INA. It
+reasoned that section 1225 of the INA “provides the govern-
+ment two options”: mandatory detention pursuant to section
+1225(b)(2)(A) or contiguous-territory return pursuant to sec-
+tion 1225(b)(2)(C). 554 F. Supp. 3d, at 852. Because the
+Government was unable to meet its detention obligations
+under section 1225(b)(2)(A) due to resource constraints, the
+court concluded, “terminating MPP necessarily leads to the
+systemic violation of Section 1225 as aliens are released into
+the United States.” Ibid. Second, the District Court
+found that the agency failed to engage in reasoned decision-
+making and therefore acted arbitrarily and capriciously in
+violation of the APA. Id., at 847–851.
+Based on these conclusions, the District Court “vacated
+[the June 1 Memorandum] in its entirety and remanded to
+DHS for further consideration.” Id., at 857 (boldface and
+capitalization omitted). And it imposed a nationwide in-
+junction ordering the Government to “enforce and imple-
+ment MPP in good faith until such a time as it has been
+lawfully rescinded in compliance with the APA and until such
+a time as the federal government has sufficient detention
+capacity to detain all aliens subject to mandatory detention
+under [section 1225] without releasing any aliens because of
+a lack of detention resources.” Ibid. (emphasis in original).
+The Government appealed and sought a stay of the injunc-
+tion, which the District Court and the Court of Appeals each
+denied. The Government then applied to this Court for a
+stay. The Court denied the application, finding that the
+Government “had failed to show a likelihood of success on
+the claim that the [June 1 Memorandum] was not arbitrary
+and capricious.” 594 U. S. ––– (2021). The Court did not
+address the District Court's interpretation of the INA.
+The parties proceeded to briefing in the Court of Appeals.
+While the Government's appeal was pending, however, Sec-
+retary Mayorkas “considered anew whether to maintain, ter-
+minate, or modify MPP in various ways.” App. to Pet. for
+Cert. 286a. On September 29, 2021, the Secretary publicly
+announced his “inten[tion] to issue in the coming weeks a
+new memorandum terminating [MPP].” 20 F. 4th 928, 954
+(CA5 2021). The Government then moved to hold the ap-
+peal in abeyance pending the Secretary's formal decision, but
+the Court of Appeals denied the motion.
+On October 29, the Secretary released a four-page memo-
+randum that again announced the termination of MPP, along
+with a 39-page addendum explaining his reasons for doing so
+(the October 29 Memoranda). As the Secretary explained,
+this new assessment of MPP “examined considerations that
+the District Court determined were insufficiently addressed
+in the June 1 memo, including claims that MPP discouraged
+unlawful border crossings, decreased the filing of non-
+meritorious asylum claims, and facilitated more timely relief
+for asylum seekers, as well as predictions that termination
+of MPP would lead to a border surge, cause [DHS] to fail to
+comply with alleged detention obligations under the [INA],
+impose undue costs on states, and put a strain on U. S.-
+Mexico relations.” App. to Pet. for Cert. 259a–260a.
+The Secretary acknowledged what he called “the strongest
+argument in favor of retaining MPP: namely, the significant
+decrease in border encounters following the determination
+to implement MPP across the southern border.” Id., at
+261a. But he nonetheless concluded that the program's
+“benefits do not justify the costs, particularly given the way
+in which MPP detracts from other regional and domestic
+goals, foreign-policy objectives, and domestic policy initia-
+tives that better align with this Administration's values.”
+Ibid. Finally, the Secretary once again noted that “[e]efforts
+to implement MPP have played a particularly outsized role
+in diplomatic engagements with Mexico, diverting attention
+from more productive efforts to fight transnational criminal
+and smuggling networks and address the root causes of mi-
+gration.” Id., at 262a.
+In light of those conclusions, the Secretary announced that
+he was once again “hereby terminating MPP.” Id., at 263a.
+He explained that DHS would “continue complying with the
+[District Court's] injunction requiring good-faith implemen-
+tation and enforcement of MPP.” Id., at 264a. But he
+noted that “the termination of MPP” would be “implemented
+as soon as practicable after a final judicial decision to vacate”
+that injunction. Ibid. The Government then moved to va-
+cate the injunction on the ground that the October 29 Memo-
+randa had superseded the June 1 Memorandum, but the
+Court of Appeals denied the motion.
+The Court of Appeals instead affirmed the District Court's
+judgment in full. With respect to the INA question, the
+Court of Appeals agreed with the District Court's analysis
+of the relevant provisions. That is, the court explained, sec-
+tion 1225(b)(2)(A) “sets forth a general, plainly obligatory
+rule: detention for aliens seeking admission,” while section
+1225(b)(2)(C) “authorizes contiguous-territory return as an
+alternative.” 20 F. 4th, at 996. Accordingly, the Court of
+Appeals reasoned, “DHS is violating (A)'s mandate, refusing
+to avail itself of (C)'s authorized alternative, and then com-
+plaining that it doesn't like its options.” Ibid., n. 18.
+The Court of Appeals also held that “[t]he October 29
+Memoranda did not constitute a new and separately review-
+able `final agency action.' ” Id., at 951. The Court of Ap-
+peals distinguished “DHS's June 1 decision to terminate
+MPP,” which it claimed “had legal effect,” from the June 1
+Memorandum, the October 29 Memoranda, and “any other
+subsequent memos,” which it held “simply explained DHS's
+decision.” Ibid. The Court of Appeals then criticized the
+Government for proceeding “without a hint of an intention
+to put the Termination Decision back on the chopping block
+and rethink things,” and for ultimately “just further
+defend[ing] what it had previously decided.” Id., at 955.
+And the Court of Appeals drew a dichotomy between taking
+new agency action and appealing an adverse decision, assert-
+ing that “DHS chose not to take a new agency action” but
+“instead chose to notice an appeal and defend its Termination
+Decision in our court.” Id., at 941.
+We granted certiorari, 595 U. S. ––– (2022), and expedited
+consideration of this appeal at the Government's request.
+II
+We begin with jurisdiction. The Government contends
+that the injunction the District Court entered was barred by
+8 U. S. C. § 1252(f)(1). That provision reads as follows:
+“Regardless of the nature of the action or claim or of the
+identity of the party or parties bringing the action, no
+court (other than the Supreme Court) shall have juris-
+diction or authority to enjoin or restrain the operation
+of [8 U. S. C. §§ 1221–1232], other than with respect to
+the application of such provisions to an individual alien
+against whom proceedings under [those provisions] have
+been initiated.”
+As we recently held in Garland v. Aleman Gonzalez, 596
+U. S. 543 (2022), section 1252(f)(1) “generally prohibits lower
+courts from entering injunctions that order federal officials
+to take or to refrain from taking actions to enforce, imple-
+ment, or otherwise carry out the specified statutory provi-
+sions.” Id., at 550. The District Court's injunction in this
+case violated that provision. But that fact simply presents
+us with the following question: whether section 1252(f)(1)
+deprives this Court of jurisdiction to reach the merits of an
+appeal, where the lower court entered a form of relief barred
+by that provision. See Steel Co. v. Citizens for Better Envi-
+ronment, 523 U. S. 83, 95 (1998) (“Every federal appellate
+court has an obligation to satisfy itself not only of its own
+jurisdiction, but also that of the lower courts in a cause under
+review, even though the parties are prepared to concede it.”
+(internal quotation marks and alterations omitted)).
+Absent section 1252(f)(1), the District Court clearly had
+federal question jurisdiction over respondents' suit, which
+asserted claims arising under two federal statutes, the INA
+and the APA. See 28 U. S. C. § 1331 (“The district courts
+shall have original jurisdiction of all civil actions arising
+under the Constitution, laws, or treaties of the United
+States.”). The question, then, is whether section 1252(f)(1)
+strips the lower courts of subject matter jurisdiction over
+these claims. The parties agree that the answer to that
+question is no, and so do we. That is because section
+1252(f)(1) withdraws a district court's “jurisdiction or au-
+thority” to grant a particular form of relief. It does not de-
+prive the lower courts of all subject matter jurisdiction over
+claims brought under sections 1221 through 1232 of the INA.
+The text of the provision makes that clear. Section
+1252(f)(1) deprives courts of the power to issue a specific
+category of remedies: those that “enjoin or restrain the oper-
+ation of” the relevant sections of the statute. A limitation
+on subject matter jurisdiction, by contrast, restricts a court's
+“power to adjudicate a case.” United States v. Cotton, 535
+U. S. 625, 630 (2002). Section 1252(f)(1) bears no indication
+that lower courts lack power to hear any claim brought under
+sections 1221 through 1232. If Congress had wanted the
+provision to have that effect, it could have said so in words
+far simpler than those that it wrote. But Congress instead
+provided that lower courts would lack jurisdiction to “enjoin
+or restrain the operation of” the relevant provisions, and it
+included that language in a provision whose title—“Limit on
+injunctive relief”—makes clear the narrowness of its scope.
+A second feature of the text of section 1252(f)(1) leaves
+no doubt that this Court has jurisdiction: the parenthetical
+explicitly preserving this Court's power to enter injunctive
+relief. See § 1252(f)(1) (“[N]o court (other than the Supreme
+Court) shall have jurisdiction or authority . . .”). If section
+1252(f)(1) deprived lower courts of subject matter jurisdic-
+tion to adjudicate any non-individual claims under sections
+1221 through 1232, no such claims could ever arrive at this
+Court, rendering the provision's specific carveout for Su-
+preme Court injunctive relief nugatory. Indeed, that carve-
+out seems directed at precisely the question before us here:
+whether section 1252(f)(1)'s “[l]imit on injunctive relief” has
+any consequence for the jurisdiction of this Court. Con-
+gress took pains to answer that question in the negative.
+Interpreting section 1252(f)(1) to deprive this Court of juris-
+diction under these circumstances would therefore fail to
+“give effect, if possible, to every clause and word of [the]
+statute.” Williams v. Taylor, 529 U. S. 362, 404 (2000). 2
+Statutory structure confirms our conclusion. Elsewhere
+in section 1252, where Congress intended to deny subject
+matter jurisdiction over a particular class of claims, it did so
+unambiguously. Section 1252(a)(2), for instance, is entitled
+“Matters not subject to judicial review” and provides that
+“no court shall have jurisdiction to review” several catego-
+ries of decisions, such as “any final order of removal against
+an alien who is removable by reason of having committed a
+criminal offense. . . .” (Emphasis added.) Congress could
+easily have added one more item to this list: any action taken
+pursuant to sections 1221 through 1232. Or it could have
+2 Justice Barrett raises a host of additional questions regarding the
+“Supreme Court” parenthetical, post, at 838 (dissenting opinion), and she
+faults us for relying on this aspect of the provision without comprehen-
+sively “explain[ing] how it would work,” ibid. But we see no need to
+explore every aspect or consequence of the parenthetical in order to an-
+swer the narrow question of our jurisdiction over this case. In declining
+to resolve these additional complexities, we merely heed Justice Bar-
+rett's admonition to “tread . . . carefully.” Post, at 840.
+worded section 1252(f)(1) similarly to the immediately adja-
+cent section 1252(g), which provides that “no court shall
+have jurisdiction to hear any cause or claim by or on behalf
+of any alien arising from the decision or action by the Attor-
+ney General to commence proceedings, adjudicate cases, or
+execute removal orders against [the alien].” (Emphasis
+added.) But Congress did neither. Instead, it constructed
+a carefully worded provision depriving the lower courts of
+power to “enjoin or restrain the operation of” certain sec-
+tions of the statute, and it entitled that provision a “[l]imit
+on injunctive relief.”
+Our prior cases have already embraced this straightfor-
+ward conclusion. Most relevantly, the Court previously en-
+countered a virtually identical situation in Nielsen v. Preap,
+586 U. S. ––– (2019). There, as here, the plaintiffs sought
+declaratory as well as injunctive relief in their complaint, and
+there, as here, the District Court awarded only the latter.
+Yet this Court proceeded to reach the merits of the suit,
+notwithstanding the District Court's apparent violation of
+section 1252(f)(1), by reasoning that “[w]hether the [District]
+[C]ourt had jurisdiction to enter such an injunction is irrele-
+vant because the District Court had jurisdiction to entertain
+the plaintiffs' request for declaratory relief.” Id., at ––– –
+––– (Alito , J., joined by Roberts, C. J., and Kavanaugh,
+J.); see also Jennings v. Rodriguez, 583 U. S. 281, 355 (2018)
+(Breyer, J., joined by Ginsburg and Sotomayor, JJ., dis-
+senting) (concluding that “a court could order declaratory re-
+lief” notwithstanding section 1252(f)(1)). Our disposition in
+Preap is inconsistent with an interpretation of the limitation
+in section 1252(f)(1) that strips the lower courts of subject
+matter jurisdiction. 3 And previous statements from this
+3 Justice Barrett notes that Preap involved consolidated cases, and
+that in one of the two cases the District Court granted declaratory as
+well as injunctive relief. Post, at 838–839, n. (dissenting opinion). That
+misses the point. The Preap District Court granted only injunctive relief,
+Court regarding section 1252(f)(1) are in accord. See Reno
+v. American-Arab Anti-Discrimination Comm., 525 U. S.
+471, 481 (1999) (“By its plain terms, and even by its title,
+[section 1252(f)(1)] is nothing more or less than a limit on
+injunctive relief.”).
+In short, we see no basis for the conclusion that section
+1252(f)(1) concerns subject matter jurisdiction. It is true
+that section 1252(f)(1) uses the phrase “jurisdiction or au-
+thority,” rather than simply the word “authority.” But
+“[j]urisdiction . . . is a word of many, too many meanings.”
+Steel Co., 523 U. S., at 90. And the question whether a court
+has jurisdiction to grant a particular remedy is different
+from the question whether it has subject matter jurisdiction
+over a particular class of claims. See Reed Elsevier , Inc. v.
+Muchnick, 559 U. S. 154, 163–164 (2010) (concluding that
+“[t]he word `jurisdiction' . . . says nothing about whether a
+federal court has subject-matter jurisdiction to adjudicate
+claims”). Section 1252(f)(1) no doubt deprives the lower
+courts of “jurisdiction” to grant classwide injunctive relief.
+See Aleman Gonzalez, 596 U. S., at 548. But that limitation
+poses no obstacle to jurisdiction in this Court. 4
+III
+We now turn to the merits. Section 1225(b)(2)(C) pro-
+vides: “In the case of an alien . . . who is arriving on land . . .
+from a foreign territory contiguous to the United States, the
+[Secretary] may return the alien to that territory pending
+a proceeding under section 1229a.” Section 1225(b)(2)(C)
+presenting the exact circumstances we confront here, yet this Court exer-
+cised jurisdiction over that lawsuit and resolved it on the merits.
+4 At our request, the parties briefed several additional questions regard-
+ing the operation of section 1252(f)(1), namely, whether its limitation on
+“jurisdiction or authority” is subject to forfeiture and whether that limita-
+tion extends to other specific remedies, such as declaratory relief and relief
+under section 706 of the APA. We express no view on those questions.
+plainly confers a discretionary authority to return aliens to
+Mexico during the pendency of their immigration proceed-
+ings. This Court has “repeatedly observed” that “the word
+`may' clearly connotes discretion.” Opati v. Republic of
+Sudan, 590 U. S. –––, ––– (2020) (emphasis in original); see
+also, e. g., Weyerhaeuser Co. v. United States Fish and Wild-
+life Serv., 586 U. S. –––, ––– (2018); Jama v. Immigration
+and Customs Enforcement, 543 U. S. 335, 346 (2005). The
+use of the word “may” in section 1225(b)(2)(C) thus makes
+clear that contiguous-territory return is a tool that the Sec-
+retary “has the authority, but not the duty,” to use. Lopez
+v. Davis, 531 U. S. 230, 241 (2001).
+Respondents and the Court of Appeals concede this point.
+Brief for Respondents 21 (contiguous-territory return is a
+“discretionary authority”); 20 F. 4th, at 996, n. 18 (“It's obvi-
+ously true that § 1225(b)(2)(C) is discretionary.”). They base
+their interpretation instead on section 1225(b)(2)(A), which
+provides that, “in the case of an alien who is an applicant for
+admission, if the examining immigration officer determines
+that an alien seeking admission is not clearly and beyond
+a doubt entitled to be admitted, the alien shall be detained
+for a proceeding under section 1229a of this title.” Re-
+spondents and the Court of Appeals thus urge an inference
+from the statutory structure: Because section 1225(b)(2)(A)
+makes detention mandatory, they argue, the otherwise-
+discretionary return authority in section 1225(b)(2)(C) be-
+comes mandatory when the Secretary violates that deten-
+tion mandate.
+The problem is that the statute does not say anything like
+that. The statute says “may.” And “may” does not just
+suggest discretion, it “clearly connotes” it. Opati, 590 U. S.,
+at ––– (emphasis in original); see also Jama, 543 U. S., at 346
+(“That connotation is particularly apt where, as here, `may'
+is used in contraposition to the word `shall.' ”). Congress's
+use of the word “may” is therefore inconsistent with re-
+spondents' proposed inference from the statutory structure.
+If Congress had intended section 1225(b)(2)(C) to operate as
+a mandatory cure of any noncompliance with the Govern-
+ment's detention obligations, it would not have conveyed that
+intention through an unspoken inference in conflict with the
+unambiguous, express term “may.” It would surely instead
+have coupled that grant of discretion with some indication of
+its sometimes-mandatory nature—perhaps by providing that
+the Secretary “may return” certain aliens to Mexico, “unless
+the government fails to comply with its detention obliga-
+tions, in which case the Secretary must return them.” The
+statutory grant of discretion here contains no such caveat,
+and we will not rewrite it to include one. See id., at 341
+(“We do not lightly assume that Congress has omitted from
+its adopted text requirements that it nonetheless intends to
+apply.”).
+The principal dissent emphasizes that section 1225(b)(2)(A)
+requires detention of all aliens that fall within its terms.
+See, e. g., post, at 824 (Alito , J., dissenting) (“The language
+of 8 U. S. C. § 1225(b)(2)(A) is unequivocal.”). While the
+Government contests that proposition, we assume arguendo
+for purposes of this opinion that the dissent's interpretation
+of section 1225(b)(2)(A) is correct, and that the Government
+is currently violating its obligations under that provision. 5
+Even so, the dissent's conclusions regarding section
+1225(b)(2)(C) do not follow. Under the actual text of the
+statute, Justice Alito's interpretation is practically self-
+refuting. He emphasizes that “ `[s]hall be detained' means
+`shall be detained,' ” post, at 825, and criticizes the Gov-
+ernment's “argument that `shall' means `may,' ” ibid .
+5 For this reason, Justice Alito misunderstands our analysis in insist-
+ing that our opinion authorizes the Government to release aliens subject
+to detention under section 1225(b)(2)(A). See post, at 823 (dissenting
+opinion). We need not and do not decide whether the detention require-
+ment in section 1225(b)(2)(A) is subject to principles of law enforcement
+discretion, as the Government argues, or whether the Government's cur-
+rent practices simply violate that provision.
+But the theory works both ways. Congress conferred
+contiguous-territory return authority in expressly discre-
+tionary terms. “ `[M]ay return the alien' means `may return
+the alien.' ” The desire to redress the Government's pur-
+ported violation of section 1225(b)(2)(A) does not justify
+transforming the nature of the authority conferred by sec-
+tion 1225(b)(2)(C).6
+The historical context in which the provision was adopted
+confirms the plain import of its text. See, e. g., Niz-Chavez
+v. Garland, 593 U. S. –––, ––– (2021) (textual analysis con-
+firmed by “a wider look at [the statute's] structure and his-
+tory”). Section 1225(b)(2)(C) was not added to the statute
+until 1996, in the Illegal Immigration Reform and Immigrant
+Responsibility Act of 1996 (IIRIRA), § 302, 110 Stat. 300–
+583—more than 90 years after the Immigration Act of 1903
+added the “shall be detained” language that appears in sec-
+tion 1225(b)(2)(A). And section 1225(b)(2)(C) was enacted in
+the immediate aftermath of a Board of Immigration Appeals
+(BIA) decision that specifically called into question the legal-
+ity of the contiguous-territory return practice. Prior to that
+decision, the longstanding practice of the Immigration and
+Naturalization Service (INS) had been to require some aliens
+arriving at land border ports of entry to await their exclu-
+sion proceedings in Canada or Mexico. The BIA noted the
+lack of “any evidence that this is a practice known to Con-
+6 In arguing that the Court should do so, the dissent proposes a number
+of hypotheticals in which a party fails to comply with a legal obligation
+imposed by statute and additionally refuses to exercise a discretionary
+alternative authorized by that statute. Post, at 828–829 (Alito , J., dis-
+senting). We wholeheartedly endorse the conclusion that the dissent
+draws from these hypotheticals: that “the failure to make use of the discre-
+tionary option would not be seen as a valid excuse for non-compliance with
+the command that certain conduct `shall' be performed.” Post, at 829.
+But the question before us is not whether the Government is violating the
+immigration laws generally. The question is whether the INA requires
+the government to continue implementing MPP. And the statutory text
+clearly answers that question in the negative.
+gress” and “the absence of a supporting regulation.” In re
+Sanchez-Avila, 21 I. & N. Dec. 444, 465 (1996) (en banc).
+Congress responded mere months later by adding section
+1225(b)(2)(C) to IIRIRA and conferring on the Secretary ex-
+press authority (“may”) to engage in the very practice that
+the BIA had questioned. And INS acknowledged that
+clarification shortly thereafter, explaining that section
+1225(b)(2)(C) and its implementing regulation “simply add[ ]
+to [the] statute and regulation a long-standing practice of the
+Service.” 62 Fed. Reg. 445 (1997). That modest backstory
+suggests a more humble role for section 1225(b)(2)(C) than
+as a mandatory “safety valve” for any alien who is not de-
+tained under section 1225(b)(2)(A).
+In addition to contradicting the statutory text and context,
+the novelty of respondents' interpretation bears mention.
+Since IIRIRA's enactment 26 years ago, every Presiden-
+tial administration has interpreted section 1225(b)(2)(C) as
+purely discretionary. Indeed, at the time of IIRIRA's enact-
+ment and in the decades since, congressional funding has con-
+sistently fallen well short of the amount needed to detain all
+land-arriving inadmissible aliens at the border, yet no admin-
+istration has ever used section 1225(b)(2)(C) to return all
+such aliens that it could not otherwise detain.
+And the foreign affairs consequences of mandating the ex-
+ercise of contiguous-territory return likewise confirm that
+the Court of Appeals erred. Article II of the Constitution
+authorizes the Executive to “engag[e] in direct diplomacy
+with foreign heads of state and their ministers.” Zivotofsky
+v. Kerry, 576 U. S. 1, 14 (2015). Accordingly, the Court has
+taken care to avoid “the danger of unwarranted judicial in-
+terference in the conduct of foreign policy,” and declined to
+“run interference in [the] delicate feld of international rela-
+tions” without “the affirmative intention of the Congress
+clearly expressed.” Kiobel v. Royal Dutch Petroleum Co.,
+569 U. S. 108, 115–116 (2013). That is no less true in the
+context of immigration law, where “[t]he dynamic nature of
+relations with other countries requires the Executive Branch
+to ensure that enforcement policies are consistent with this
+Nation's foreign policy.” Arizona v. United States, 567 U. S.
+387, 397 (2012).
+By interpreting section 1225(b)(2)(C) as a mandate, the
+Court of Appeals imposed a significant burden upon the Ex-
+ecutive's ability to conduct diplomatic relations with Mexico.
+MPP applies exclusively to non-Mexican nationals who have
+arrived at ports of entry that are located “in the United
+States.” § 1225(a)(1). The Executive therefore cannot uni-
+laterally return these migrants to Mexico. In attempting
+to rescind MPP, the Secretary emphasized that “[e]efforts to
+implement MPP have played a particularly outsized role in
+diplomatic engagements with Mexico, diverting attention
+from more productive efforts to fight transnational criminal
+and smuggling networks and address the root causes of mi-
+gration.” App. to Pet. for Cert. 262a. Yet under the Court
+of Appeals' interpretation, section 1225(b)(2)(C) authorized
+the District Court to force the Executive to the bargaining
+table with Mexico, over a policy that both countries wish to
+terminate, and to supervise its continuing negotiations with
+Mexico to ensure that they are conducted “in good faith.”
+554 F. Supp. 3d, at 857 (emphasis deleted). That stark con-
+sequence confirms our conclusion that Congress did not in-
+tend section 1225(b)(2)(C) to tie the hands of the Executive
+in this manner.
+Finally, we note that—as DHS explained in its October 29
+Memoranda—the INA expressly authorizes DHS to process
+applicants for admission under a third option: parole. See 8
+U. S. C. § 1182(d)(5)(A). Every administration, including the
+Trump and Biden administrations, has utilized this authority
+to some extent. Importantly, the authority is not un -
+bounded: DHS may exercise its discretion to parole appli-
+cants “only on a case-by-case basis for urgent humanitarian
+reasons or significant public benefit.” Ibid. And under the
+APA, DHS's exercise of discretion within that statutory
+framework must be reasonable and reasonably explained.
+See Motor Vehicle Mfrs. Assn. of United States, Inc. v. State
+Farm Mut. Automobile Ins. Co., 463 U. S. 29 (1983). But
+the availability of the parole option additionally makes clear
+that the Court of Appeals erred in holding that the INA
+required the Government to continue implementing MPP.
+In sum, the contiguous-territory return authority in sec-
+tion 1225(b)(2)(C) is discretionary—and remains discretion-
+ary notwithstanding any violation of section 1225(b)(2)(A).
+To reiterate: we need not and do not resolve the parties'
+arguments regarding whether section 1225(b)(2)(A) must be
+read in light of traditional principles of law enforcement dis-
+cretion, and whether the Government is lawfully exercising
+its parole authorities pursuant to sections 1182(d)(5) and
+1226(a). We merely hold that section 1225(b)(2)(C) means
+what it says: “may” means “may,” and the INA itself does
+not require the Secretary to continue exercising his discre-
+tionary authority under these circumstances.
+IV
+The Court of Appeals also erred in holding that “[t]he Oc-
+tober 29 Memoranda did not constitute a new and separately
+reviewable `final agency action.' ” 20 F. 4th, at 951. To
+recap, the Secretary first attempted to terminate MPP
+through the June 1 Memorandum. As the Court of Appeals
+correctly held, that constituted final agency action. See id.,
+at 947 (citing Bennett v. Spear, 520 U. S. 154 (1997)). But
+the District Court found that the Secretary's stated grounds
+in the June 1 Memorandum were inadequate, and therefore
+“vacated” the June 1 Memorandum and “remanded [the mat-
+ter] to DHS for further consideration.” 554 F. Supp. 3d,
+at 857.
+As we explained two Terms ago in Department of Home-
+land Security v. Regents of Univ. of Cal., 591 U. S. –––
+(2020), upon finding that the grounds for agency action are
+inadequate, “a court may remand for the agency to do one of
+two things.” Id., at –––. “First, the agency can offer `a
+fuller explanation of the agency's reasoning at the time of
+the agency action.' ” Ibid. (emphasis deleted). If it chooses
+this route, “the agency may elaborate” on its initial reasons
+for taking the action, “but may not provide new ones.” Id.,
+at –––. Alternatively, “the agency can `deal with the prob-
+lem afresh' by taking new agency action.” Ibid. (quoting
+SEC v. Chenery Corp., 332 U. S. 194, 201 (1947) ( Chenery
+II)). “An agency taking this route is not limited to its prior
+reasons.” Regents, 591 U. S., at –––.
+Here, perhaps in light of this Court's previous determina-
+tion that the Government had “failed to show a likelihood of
+success on the claim that the [June 1 Memorandum] was not
+arbitrary and capricious,” 594 U. S. –––, the Secretary se-
+lected the second option from Regents: He accepted the Dis-
+trict Court's vacatur and dealt with the problem afresh.
+The October 29 Memoranda made that clear “by its own
+terms,” Regents, 591 U. S., at –––, in which the Secretary
+stated: “I am hereby terminating MPP. Effective immedi-
+ately, I hereby supersede and rescind the June 1 memoran-
+dum.” App. to Pet. for Cert. 263a–264a. And consistent
+with that approach, the October 29 Memoranda offered sev-
+eral “new reasons absent from” the June 1 Memorandum,
+Regents, 591 U. S., at –––, including an examination of the
+“considerations that the District Court determined were in-
+sufficiently addressed in the June 1 memo,” App. to Pet. for
+Cert. 259a.
+The October 29 Memoranda were therefore final agency
+action for the same reasons that the June 1 Memorandum
+was final agency action. That is, both the June 1 Memoran-
+dum and the October 29 Memoranda, when they were issued,
+“mark[ed] the `consummation' of the agency's decisionmaking
+process” and resulted in “rights or obligations [being] deter-
+mined.” Bennett, 520 U. S., at 178. As the Court of Ap-
+peals explained, the June 1 Memorandum “bound DHS staff
+by forbidding them to continue the program in any way from
+that moment on.” 20 F. 4th, at 948. That rationale also
+applies to the October 29 Memoranda, which were therefore
+final agency action under the APA. 7
+The various rationales offered by respondents and the
+Court of Appeals in support of the contrary conclusion lack
+merit.8 First, the Court of Appeals framed the question by
+postulating the existence of an agency decision wholly apart
+from any “agency statement of general or particular applica-
+bility . . . designed to implement” that decision. 5 U. S. C.
+§ 551(4); see 20 F. 4th, at 950–951 (“The States are challeng-
+ing the Termination Decision—not the June 1 Memoran-
+dum, the October 29 Memoranda, or any other memo.”). To
+the extent that the Court of Appeals understood itself to
+be reviewing an abstract decision apart from specific agency
+action, as defined in the APA, that was error. It was not
+the case that the June 1 Memorandum and the October 29
+Memoranda “simply explained DHS's decision,” while only
+7 Justice Alito contends that the October 29 Memoranda were not final
+agency action because they did not obligate DHS employees to immedi-
+ately cease implementing MPP; instead, they required them to do so “as
+soon as practicable after a final judicial decision to vacate” the District
+Court's injunction. App. to Pet. for Cert. 264a. But as he acknowledges,
+the standard for final agency action is whether the action “result[ed] in a
+final determination of `rights or obligations.' ” Post, at 832 (quoting Ben-
+nett, 520 U. S., at 178; emphasis added). The fact that the agency could
+not cease implementing MPP, as directed by the October 29 Memoranda,
+until it obtained vacatur of the District Court's injunction, did not make
+the October 29 Memoranda any less the agency's final determination of its
+employees' obligation to do so once such judicial authorization had been
+obtained.
+8 One rationale that we do not address at length is the Court of Ap-
+peals' extended analogy to the D. C. Circuit's “reopening doctrine.” Re-
+spondents do not defend the Court of Appeals' reliance on that doctrine.
+In any event, this Court has never adopted it, and the doctrine appears to
+be inapposite to the question of final agency action. See National Assn.
+of Reversionary Property Owners v. Surface Transp. Bd., 158 F. 3d 135,
+141 (CADC 1998) (describing the doctrine as an “exception to statutory
+limits on the time for seeking review of an agency decision” (alterations
+omitted)).
+the decision itself “had legal effect.” Id., at 951. To the
+contrary, the June 1 Memorandum and the October 29 Memo-
+randa were themselves the operative agency actions, each of
+them an “agency statement . . . designed to implement, inter-
+pret, or prescribe law or policy.” 5 U. S. C. § 551(4).
+Second, and relatedly, respondents characterized the Octo-
+ber 29 Memoranda as post hoc rationalizations of the June 1
+Memorandum under our decision in Regents. Brief for Re-
+spondents 40 (“[T]he [October 29] Memoranda are nothing
+more than improper, post hoc rationalizations for termi-
+nating MPP.”); see also 20 F. 4th, at 961 (questioning how
+the October 29 Memoranda “[could] be anything more than
+post hoc rationalizations of the Termination Decision”). But
+Regents involved the exact opposite situation from this one.
+There, as here, DHS had attempted to rescind a prior admin-
+istration's immigration policy, but a District Court found the
+rescission inadequately explained. Faced with the same two
+options outlined above, then-Secretary Nielsen elected the
+first option rather than the second. That is, she chose to
+“rest on the [original] Memorandum while elaborating on
+[her] prior reasoning,” rather than “issue a new rescission
+bolstered by new reasons absent from the [original] Memo-
+randum.” 591 U. S., at –––. As such, her elaboration “was
+limited to the agency's original reasons,” and was “ `viewed
+critically' to ensure that the rescission [was] not upheld on
+the basis of impermissible `post hoc rationalization.' ” Id.,
+at ––– – –––. And because the then-Secretary's reasoning
+had “little relationship to that of her predecessor,” the Court
+characterized the new explanations as “impermissible
+post hoc rationalizations . . . not properly before us.” Id.,
+at –––.
+The prohibition on post hoc rationalization applies only
+when the agency proceeds by the first option from Regents.
+Under that circumstance, because the agency has chosen to
+“rest on [its original action] while elaborating on its prior
+reasoning,” id., at –––, the bar on post hoc rationalization
+operates to ensure that the agency's supplemental explana-
+tion is anchored to “the grounds that the agency invoked
+when it took the action,” Michigan v. EPA, 576 U. S. 743,
+758 (2015). By contrast, as noted above, the Secretary here
+chose the second option from Regents, and “ `deal[t] with the
+problem afresh' by taking new agency action.” 591 U. S.,
+at –––. That second option can be more procedurally oner-
+ous than the first—the agency “must comply with the proce-
+dural requirements for new agency action”—but the benefit
+is that the agency is “not limited to its prior reasons” in
+justifying its decision. Ibid. Indeed, the entire purpose of
+the October 29 Memoranda was for the Secretary to “issue
+a new rescission bolstered by new reasons absent from the
+[June 1] Memorandum,” ibid.—reasons that he hoped would
+answer the District Court's concerns from the first go-round.
+Having returned to the drawing table and taken new action,
+therefore, the Secretary was not subject to the charge of
+post hoc rationalization.
+Third, respondents invoke our decision in Department of
+Commerce v. New York, 588 U. S. ––– (2019), to contend that
+DHS's failure to “hew[ ] to the administrative straight and
+narrow” deprives the October 29 Memoranda of the pre-
+sumption of regularity that normally attends agency action,
+Brief for Respondents 43. As we explained in that case, “in
+reviewing agency action, a court is ordinarily limited to eval-
+uating the agency's contemporaneous explanation in light of
+the existing administrative record.” Department of Com-
+merce, 588 U. S., at –––. Department of Commerce involved
+a “narrow exception to th[at] general rule” that applies
+where the challengers to the agency's action make a “strong
+showing of bad faith or improper behavior” on the part of
+the agency. Id. , at ––– (quoting Citizens to Preserve
+Overton Park, Inc. v. Volpe, 401 U. S. 402, 420 (1971)). We
+held that exception satisfied by an accumulation of “unusual
+circumstances” that demonstrated an “explanation for
+agency action that [was] incongruent with what the record
+reveal[ed] about the agency's priorities and decisionmaking
+process.” Department of Commerce , 588 U. S., at –––.
+The circumstances in this case do not come close to those
+in Department of Commerce . Nothing in this record sug-
+gests a “significant mismatch between the decision the Sec-
+retary made and the rationale he provided.” Id., at –––.
+Respondents direct us instead to the Government's litigation
+conduct. But the examples of misconduct to which respond-
+ents refer—such as a failure to timely complete the adminis-
+trative record, Brief for Respondents 42—have no bearing
+on the legal status of the October 29 Memoranda. And in
+any event, they fall well short of the “strong showing of bad
+faith or improper behavior,” Overton Park, 401 U. S., at 420,
+that we require before deviating from our normal rule that
+“[t]he grounds upon which an administrative order must be
+judged are those upon which the record discloses that its
+action was based,” SEC v. Chenery Corp., 318 U. S. 80, 87
+(1943).
+The Court of Appeals leveled the related but more modest
+charge that the Secretary failed to proceed with a sufficiently
+open mind. See, e. g., 20 F. 4th, at 955 (agency proceeded
+“without a hint of an intention to put the Termination Deci-
+sion back on the chopping block and rethink things”). But
+the agency's ex ante preference for terminating MPP—like
+any other feature of an administration's policy agenda—
+should not be held against the October 29 Memoranda. “It
+is hardly improper for an agency head to come into office
+with policy preferences and ideas . . . and work with staff
+attorneys to substantiate the legal basis for a preferred pol-
+icy.” Department of Commerce , 588 U. S., at –––; see also
+State Farm, 463 U. S., at 59 (Rehnquist, J., concurring in part
+and dissenting in part) (“As long as [an] agency remains
+within the bounds established by Congress, it is entitled to
+assess administrative records and evaluate priorities in light
+of the philosophy of the administration.” (footnote omitted)).
+And the critique is particularly weak on these facts. The
+Court of Appeals took the agency to task for its September
+29 announcement of its “inten[tion] to issue in the coming
+weeks a new memorandum terminating” MPP. 20 F. 4th,
+at 954; see ibid. (“Rather than announcing an intention to
+reconsider its Termination Decision, the announcement set
+forth DHS's conclusion in unmistakable terms.”). But that
+announcement came over six weeks after the District Court's
+August 13 remand—a substantial window of time for the
+agency to conduct a bona fde reconsideration.
+More importantly, this Court has previously rejected criti-
+cisms of agency closemindedness based on an identity be-
+tween proposed and final agency action. See Little Sisters
+of the Poor Saints Peter and Paul Home v. Pennsylvania,
+591 U. S. –––, ––– (2020) (“declin[ing] to evaluate the
+[agency's] final rules under [an] open-mindedness test” where
+interim and final rules were “virtually identical” but proce-
+dural requirements were otherwise satisfied). Similar prin-
+ciples refute the Court of Appeals' criticism of the October
+29 Memoranda for their failure to “alter the Termination De-
+cision in any way.” 20 F. 4th, at 946. It is black-letter law
+that an agency that takes superseding action on remand is
+entitled to “reexamine[ ] the problem, recast its rationale and
+reach[ ] the same result.” Chenery II, 332 U. S., at 196; see
+also Regents, 591 U. S., at ––– (Kavanaugh, J., concurring in
+judgment in part and dissenting in part) (“Courts often con-
+sider an agency's . . . additional explanations made . . . on
+remand from a court, even if the agency's bottom-line deci-
+sion itself does not change.”).
+Finally, the Court of Appeals erred to the extent it viewed
+the Government's decision to appeal the District Court's in-
+junction as relevant to the question of the October 29 Memo-
+randa's status as final agency action. Nothing prevents an
+agency from undertaking new agency action while simulta-
+neously appealing an adverse judgment against its original
+action. That is particularly so under the circumstances of
+this case. The second condition of the District Court's in-
+junction, which purported to bind DHS to implement MPP
+in perpetuity subject only to congressional funding choices

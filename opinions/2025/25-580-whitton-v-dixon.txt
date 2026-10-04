@@ -1,0 +1,150 @@
+Whitton v. Dixon — No. 25-580 — October Term 2025 — decided 6/01/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 608 U.S. 493
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r41_4gc5.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+peals affirmed, holding that it was not unreasonable for the state court
+to conclude that even without Ozio's testimony there was overwhelming
+evidence against Whitton.
+Held: The Court of Appeals erred in considering post-trial DNA evidence
+when assessing whether the Florida Supreme Court reasonably deter-
+mined that Ozio's testimony was immaterial to the jury's verdict, be-
+cause evidence not presented to the jury could not have influenced the
+jury's verdict and therefore sheds no light on whether Ozio's testimony
+influenced that verdict. The Court of Appeals was required to assess
+whether the Florida Supreme Court's determination was reasonable in
+light of the evidence presented at trial.
+Certiorari granted; vacated and remanded.
+Per Curiam.
+A Florida jury convicted petitioner Gary Richard Whitton
+of murder and sentenced him to death. During his trial, the
+State called several witnesses, including a jailhouse inform-
+ant named Jake Ozio. Ozio was a high school student who,
+on a spring-break trip in Florida, was arrested and jailed
+for burglary and possession of a short-barrel shotgun. Ozio
+testifed that, while he was incarcerated with Whitton, he
+overheard Whitton confess to “ `stabb[ing] the bastard.' ”
+Whitton v. Secretary, Fla. Dept. of Corrections, 2025 WL
+1305158, *2 (CA11, May 6, 2025) (per curiam ). Ozio also
+testifed that he had no criminal history prior to his spring-
+break arrest. That last piece of testimony turned out to be
+false. Ozio's juvenile records—which the State had in its
+possession at the time—showed that he had previously been
+charged with “assault with bodily injury against his father,
+terroristic threats against his mother, and at least one other
+burglary.” Id., at *15.
+After unsuccessfully pursuing a direct appeal and state
+postconviction relief, Whitton fled an application for a writ
+of habeas corpus in Federal District Court. Among other
+claims, he argued that Ozio's criminal-history testimony was
+false, that the prosecution knew the testimony was false, and
+that there was a reasonable likelihood the testimony affected
+the jury's verdict. Whitton claimed that, as a result, his due
+process rights had been violated under this Court's decision
+in Giglio v. United States, 405 U. S. 150 (1972). And he con-
+tended, as was additionally necessary for federal habeas re-
+lief, that the Giglio error had a “ `substantial and injurious
+effect or influence in determining the jury's verdict.' ”
+Brecht v. Abrahamson, 507 U. S. 619, 623 (1993). The Dis-
+trict Court denied relief, finding that any Giglio error “could
+not have made a difference” to the jury's verdict because
+Florida juvenile criminal records are generally inadmissible
+to attack a witness's credibility. App. to Pet. for Cert. 79a.
+The Court of Appeals for the Eleventh Circuit affirmed,
+but on different reasoning. 1 The court agreed with Whitton
+that Ozio's criminal-history testimony was false, and that the
+State knew it to be false. Moreover, the court disagreed
+with the District Court's conclusion that any Giglio violation
+was harmless because of Florida evidence rules about juve-
+nile records. That conclusion, the Court of Appeals ex-
+plained, was “erroneous” because Florida courts admit such
+records when a witness opens the door to prior convictions—
+including by stating that he has none. 2025 WL 1305158,
+*16. And “impeachment concerning Ozio's juvenile record,”
+the Court of Appeals concluded, “would have undermined
+[Ozio's] credibility.” Ibid. So the court “[could not] affirm
+the district court's decision on its finding of harmless
+error.” Ibid.
+The Court of Appeals then considered whether to affirm
+on another basis advanced by the State: that Whitton was
+not prejudiced by any Giglio error because Ozio's testimony
+as a whole (not just the false part) was immaterial to the
+jury's verdict. The court explained that the Florida Su-
+preme Court had made a determination relevant to that issue
+during Whitton's state postconviction proceedings. There,
+the Florida Supreme Court had stated that, even without
+Ozio's testimony, the evidence against Whitton was “over-
+1 We describe here only the brief part of the Court of Appeals' lengthy
+opinion relevant to the issue at hand.
+whelming.” Whitton v. State, 161 So. 3d 314, 334 (2014).
+Under the Antiterrorism and Effective Death Penalty Act of
+1996, the Court of Appeals owed deference to that state
+court determination unless it was “ `based on an unreason-
+able determination of the facts in light of the evidence pre-
+sented.' ” 2025 WL 1305158, *7 (quoting 28 U. S. C.
+§ 2254(d)(2)); see 2025 WL 1305158, *17. That meant the key
+question for the Court of Appeals was whether the Florida
+Supreme Court's determination about the rest of the evi-
+dence was a reasonable one.
+To answer that question, the Court of Appeals did some-
+thing peculiar: It considered not only the evidence that was
+presented to the jury at Whitton's trial, but also evidence
+the jury never saw. The evidence in question relates to
+blood stains on Whitton's boots, which were seized the day
+after the murder. At Whitton's trial, an analyst from the
+Florida Department of Law Enforcement testifed that the
+DNA in the blood stains matched neither the victim's nor
+Whitton's. A decade after Whitton was convicted, however,
+the State ran another DNA test on the blood stains—and
+this time, the results revealed a match with the victim's
+DNA. Even though that new DNA evidence was not pre-
+sented at Whitton's trial, the Court of Appeals took account
+of it when analyzing the Florida Supreme Court's determina-
+tion. In describing the evidence that supported that deter-
+mination, the Court of Appeals related that Whitton's boots
+“were stained with blood that, after later retesting, matched
+[the victim]'s DNA.” Id., at *18. 2 And in rebutting Whit-
+2 The sentence describing the evidence refers in full to the following:
+“the motel clerk saw Whitton's car parked at the motel, and Whitton ad-
+mitted he was at the motel; Whitton's boots and his car were stained with
+blood that, after later retesting, matched [the victim]'s DNA; the blood
+stains on and inside Whitton's boots are consistent with `a stabbing or a
+beating'; Whitton could not explain the downward blood spatter on the
+inside of his boots; and Whitton's car contained a power and gas receipt
+and a car wash ticket for 2:37 a.m. October 10, 1990, the night of the
+murder.” 2025 WL 1305158, *18.
+ton's arguments (some of which it thought a jury “may well
+find” “persuasive”), the court again commented on the new
+DNA evidence. Ibid. Specifically, it observed that, “after
+retesting the DNA on Whitton's boots,” the State “confirmed
+that the inside of Whitton's right boot contained blood” with
+DNA “matching the DNA profle of [the victim].” Id., at
+*19 (internal quotation marks omitted). “In short,” the
+court said, “the blood-splatter evidence ties Whitton directly
+and firmly to [the victim]'s murder.” Ibid. After consider-
+ing that post-trial DNA evidence (in addition to the trial
+evidence), the Court of Appeals held that it was not “unrea-
+sonable for the State court to conclude” that even without
+any of Ozio's testimony “there was `overwhelming evidence
+against Whitton.' ” Ibid. (quoting Whitton, 161 So. 3d, at
+334). And so the Court of Appeals affirmed the denial of
+habeas relief.
+We vacate the Court of Appeals' judgment because that
+court should not have considered the post-trial DNA evi-
+dence in assessing whether the Florida Supreme Court rea-
+sonably determined that Ozio's testimony was immaterial to
+the jury's verdict. Because the post-trial DNA evidence
+was not presented to the jury (indeed, did not exist at the
+time of the trial), that evidence could not have influenced the
+jury's verdict. It therefore sheds no light on whether (or to
+what extent) Ozio's testimony influenced that verdict. See
+Brecht, 507 U. S., at 623 (“[T]he standard for determining
+whether habeas relief must be granted is whether the [con-
+stitutional] error had substantial and injurious effect or in-
+fuence in determining the jury's verdict” (emphasis added;
+internal quotation marks omitted)). The Florida Supreme
+Court did not consider the post-trial DNA evidence in mak-
+ing its determination, and the Court of Appeals should not
+have done so in evaluating that determination either. We
+express no view on whether the Florida Supreme Court's
+determination was reasonable in light of the evidence that
+was presented at trial. That is for the Court of Appeals to

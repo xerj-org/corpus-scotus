@@ -1,0 +1,222 @@
+Learning Resources, Inc. v. Trump — No. 24-1287 — October Term 2025 — decided 2/20/26 — opinion of the Court — author Roberts (listing code R)
+Citation: 607 U.S. 229
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r12_8nj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts announced the judgment of the
+Court and delivered the opinion of the Court, except as to
+Parts II–A–2 and III.*
+We decide whether the International Emergency Eco-
+nomic Powers Act (IEEPA) authorizes the President to im-
+pose tariffs.
+Harrell; for the National Taxpayers Union Foundation by Joseph D.
+Henchman; for Professors of Administrative Law et al. by Vincent Levy
+and Samuel Estreicher, pro se; for Scholars of the History of Constitu-
+tional Law et al. by Paul R. Q. Wolfson, Pooja A. Boisture, and Somil B.
+Trivedi; for Tax Law Professors by Steven J. Alagna; for George F. Allen
+et al. by Daniel W. Wolff ; for Aditya Bamzai, pro se; for Corey J. Biazzo,
+pro se; and for Scott Lincicome et al. by Adam E. Schulman and Theodore
+H. Frank.
+Briefs of amici curiae urging dismissal in No. 24–1287 and reversal in
+No. 25–250 were fled for Rep. Darrell Issa et al. by R. Trent McCotter
+and Daniel Z. Epstein; and for Chad Squitieri by R. Trent McCotter .
+William J. Olson, Jeremiah L. Morgan, and Patrick M. McSweeney
+fled a brief for America's Future as amicus curiae urging vacatur and
+remand in No. 24–1287 and reversal in No. 25–250.
+Briefs of amici curiae urging reversal in No. 25–250 were fled in both
+cases for the American Center for Law and Justice Jay Alan Sekulow,
+Benjamin P . Sisney, Jordan A. Sekulow, Stuart J. Roth, and Andrew J.
+Ekonomou; and for Jill Homan by Brian Kelsey.
+Briefs of amici curiae urging affirmance in No. 25–250 were fled for
+the Chamber of Commerce of the United States of America et al. by Greg-
+ory G. Garre, Roman Martinez, and Daryl Joseffer; for Princess Awe-
+some, LLC, et al. by Oliver J. Dunford, Molly Nixon, Joshua Robbins,
+and Ashley Torkelson Levine; for Trade Scholars in Economics et al. by
+Erica Hashimoto and John Peng;
+for the Washington State Amici by Steven W. Fogg; for Carla Anderson
+Hills et al. by Roderick M. Hills, Jr.; and for Peter W. Sage by Thad
+M. Guyer.
+Briefs of amici curiae urging affirmance in No. 25–250 were fled in
+both cases for the American Watch Association et al. by Jeffrey E. Sand-
+berg; for the Cato Institute by Thomas A. Berry and Brent Skorup; for
+Crutchfeld Corp. by Peter J. Brann and David Swetnam-Burland; for
+Professors of U. S. Foreign Relations Law by Paul B. Stephan, pro se; and
+for 31 Former Federal Judges by Elkan Abramowitz.
+*Justice Sotomayor, Justice Kagan, and Justice Jackson join only
+Parts I, II–A–1, and II–B of this opinion.
+I
+A
+Shortly after taking office, President Trump sought to ad-
+dress two foreign threats. The first was the influx of illegal
+drugs from Canada, Mexico, and China. Presidential Proc-
+lamation No. 10886, 90 Fed. Reg. 8327 (2025); Exec. Order
+No. 14193, 90 Fed. Reg. 9113 (2025); Exec. Order No. 14194,
+90 Fed. Reg. 9117 (2025); Exec. Order No. 14195, 90 Fed. Reg.
+9121 (2025). The second was “large and persistent” trade
+defcits. Exec. Order No. 14257, 90 Fed. Reg. 15041 (2025).
+The President determined that the first threat had “created
+a public health crisis,” 90 Fed. Reg. 9113, and that the second
+had “led to the hollowing out” of the American manufactur-
+ing base and “undermined critical supply chains,” id., at
+15041. He invoked his authority under IEEPA to respond.
+Enacted in 1977, IEEPA gives the President economic
+tools to address significant foreign threats. 91 Stat. 1626.
+When acting under IEEPA, the President must identify an
+“unusual and extraordinary threat” to American national se-
+curity, foreign policy, or the economy, originating primarily
+“outside the United States.” 50 U. S. C. § 1701(a). And he
+must “declare[ ] a national emergency” under the National
+Emergencies Act. Ibid.; see 90 Stat. 1255. He may then,
+“by means of instructions, licenses, or otherwise,” take the
+following actions to “deal with” the threat: “investigate,
+block during the pendency of an investigation, regulate, di-
+rect and compel, nullify, void, prevent or prohibit, any acqui-
+sition, holding, withholding, use, transfer, withdrawal, trans-
+portation, importation or exportation of, or dealing in, or
+exercising any right, power, or privilege with respect to, or
+transactions involving, any property in which any foreign
+country or a national thereof has any interest.” §§ 1701(a),
+1702(a)(1)(B).
+President Trump declared a national emergency as to both
+the drug trafficking and the trade defcits, which he deemed
+“unusual and extraordinary” threats. He then imposed tar-
+iffs to deal with each threat. As to the drug trafficking tar-
+iffs, the President imposed a 25% duty on most Canadian and
+Mexican imports and a 10% duty on most Chinese imports.
+90 Fed. Reg. 9114, 9118, 9122–9123. As to the trade defcit
+(or “reciprocal”) tariffs, the President imposed a duty “on all
+imports from all trading partners” of at least 10%. Id., at
+15045. Dozens of nations faced higher rates. Id., at 15049.
+And these tariffs applied notwithstanding any extant trade
+agreements. Id., at 15045.
+Since imposing each set of tariffs, the President has issued
+several increases, reductions, and other modifications. One
+month after imposing the 10% drug trafficking tariffs on Chi-
+nese goods, he increased the rate to 20%. See Exec. Order
+No. 14228, 90 Fed. Reg. 11463 (2025). One month later, he
+removed a statutory exemption for Chinese goods under
+$800. Exec. Order No. 14256, 90 Fed. Reg. 14899 (2025).
+Less than a week after imposing the reciprocal tariffs, the
+President increased the rate on Chinese goods from 34% to
+84%. Exec. Order No. 14259, 90 Fed. Reg. 15509 (2025).
+The very next day, he increased the rate further still, to
+125%. Exec. Order No. 14266, 90 Fed. Reg. 15625, 15626
+(2025). This brought the total effective tariff rate on most
+Chinese goods to 145%. The President has also shifted sets
+of goods into and out of the reciprocal tariff framework.
+See, e. g., Exec. Order No. 14360, 90 Fed. Reg. 54091 (2025)
+(exempting from reciprocal tariffs beef, fruits, coffee, tea,
+spices, and some fertilizers); Exec. Order No. 14346, 90 Fed.
+Reg. 43737 (2025). And he has issued a variety of other ad-
+justments. See, e. g., Exec. Order No. 14358, 90 Fed. Reg.
+50729, 50730 (2025) (extending “the suspension of heightened
+reciprocal tariffs” on Chinese imports).
+B
+Petitioners in Learning Resources and respondents in
+V.O.S. Selections fled suit, alleging that IEEPA does not
+authorize the reciprocal or drug trafficking tariffs. The
+Learning Resources plaintiffs—two small businesses—sued
+in the United States District Court for the District of Colum-
+bia. The V.O.S. Selections plaintiffs—fve small businesses
+and 12 States—sued in the United States Court of Interna-
+tional Trade (CIT).
+The Government moved to transfer the Learning Re-
+sources case to the CIT. It argued that the District Court
+lacked jurisdiction under 28 U. S. C. § 1581(i)(1), which gives
+the CIT “exclusive jurisdiction of any civil action commenced
+against” the Government “that arises out of any law of the
+United States providing for . . . tariffs” or their “administra-
+tion and enforcement.” The District Court denied that
+motion and granted the plaintiffs' motion for a preliminary
+injunction, concluding that IEEPA did not grant the Presi-
+dent the power to impose tariffs. 784 F. Supp. 3d 209 (DC
+2025).
+In the V.O.S. Selections case, the CIT granted the plain-
+tiffs' motion for summary judgment. 772 F. Supp. 3d 1350
+(2025). The Federal Circuit, sitting en banc, affirmed in
+relevant part. 149 F. 4th 1312 (2025). It first concluded
+that the CIT had exclusive jurisdiction because the plaintiffs'
+claims arose out of modifications to the Harmonized Tariff
+Schedule of the United States (HTSUS). Id., at 1329.
+On the merits, it agreed with the CIT that IEEPA's grant of
+authority to “regulate . . . importation” did not authorize
+the challenged tariffs, which “are unbounded in scope,
+amount, and duration.” Id., at 1338. Judge Cunning-
+ham concurred (for four judges), reasoning that IEEPA did
+not authorize the President to impose any tariffs. Id.,
+at 1340. Judge Taranto dissented (for four judges), conclud-
+ing that IEEPA authorized the challenged tariffs. Id., at
+1348.
+The Government fled a motion to expedite and a petition
+for certiorari in V.O.S. Selections, and the Learning Re-
+sources plaintiffs fled a petition for certiorari before judg-
+ment. We granted the motion and petitions and consoli-
+dated the cases. 606 U. S. 1050 (2025). 1
+II
+Based on two words separated by 16 others in Section
+1702(a)(1)(B) of IEEPA—“regulate” and “importation”—the
+President asserts the independent power to impose tariffs
+on imports from any country, of any product, at any rate, for
+any amount of time. Those words cannot bear such weight.
+A
+1
+Article I, Section 8, of the Constitution sets forth the pow-
+ers of the Legislative Branch. The first Clause of that pro-
+vision specifies that “The Congress shall have Power To lay
+and collect Taxes, Duties, Imposts and Excises.” It is no
+accident that this power appears first. The power to tax
+was, Alexander Hamilton explained, “the most important of
+the authorities proposed to be conferred upon the Union.”
+The Federalist No. 33, pp. 202–203 (C. Rossiter ed. 1961). It
+is both a “power to destroy,” McCulloch v. Maryland, 4
+Wheat. 316, 431 (1819), and a power “necessary to the exist-
+ence and prosperity of a nation”—“the one great power upon
+which the whole national fabric is based.” Nicol v. Ames,
+173 U. S. 509, 515 (1899).
+The power to impose tariffs is “very clear[ly] . . . a branch
+of the taxing power.” Gibbons v. Ogden, 9 Wheat. 1, 201
+1 We agree with the Federal Circuit that the V.O.S. Selections case falls
+within the exclusive jurisdiction of the CIT. The plaintiffs' challenges
+“arise[ ] out of” modifications to the HTSUS. 28 U. S. C. § 1581(i)(1).
+Where, as here, such modifications are made under an “Act[ ] affecting
+import treatment,” 19 U. S. C. § 2483, they are “considered to be statutory
+provisions of law for all purposes,” § 3004(c)(1)(C). Thus, the plaintiffs'
+challenges “arise[ ] out of [a] law of the United States providing for . . .
+tariffs.” 28 U. S. C. § 1581(i)(1). For the same reasons, the United States
+District Court for the District of Columbia lacked jurisdiction in the
+Learning Resources case.
+(1824). “A tariff,” after all, “is a tax levied on imported
+goods and services.” Congressional Research Service
+(CRS), C. Casey, U. S. Tariff Policy: Overview 1 (2025). And
+tariffs “raise[ ] revenue,” West Lynn Creamery, Inc. v. Healy,
+512 U. S. 186, 193 (1994)—the defining feature of a tax,
+United States v. Kahriger, 345 U. S. 22, 28, and n. 4 (1953);
+Sonzinsky v. United States, 300 U. S. 506, 514 (1937). In-
+deed, the Framers expected that the Government would for
+“a long time depend . . . chiefly on” tariffs for revenue. The
+Federalist No. 12, at 93 (A. Hamilton). Little wonder, then,
+that the First Congress's first exercise of its taxing power
+(and its second enacted law, right after the one providing for
+the new officials to take an oath) was a tariff law. See Act
+of July 4, 1789, ch. 2, 1 Stat. 24.
+Recognizing the taxing power's unique importance, and
+having just fought a revolution motivated in large part by
+“taxation without representation,” the Framers gave Con-
+gress “alone . . . access to the pockets of the people.” The
+Federalist No. 48, at 310 (J. Madison); see also Declaration
+of Independence ¶19. They required “All Bills for raising
+Revenue [to] originate in the House of Representatives.”
+U. S. Const., Art. I, § 7, cl. 1. And in doing so, they ensured
+that only the House could “propose the supplies requisite for
+the support of government,” thereby reducing “all the over-
+grown prerogatives of the other branches.” The Federalist
+No. 58, at 359 (J. Madison). They did not vest any part of
+the taxing power in the Executive Branch. See Nicol, 173
+U. S., at 515 (“[T]he whole power of taxation rests with
+Congress”).
+The Government thus concedes, as it must, that the Presi-
+dent enjoys no inherent authority to impose tariffs during
+peacetime. Tr. of Oral Arg. 70–71. And it does not defend
+the challenged tariffs as an exercise of the President's war-
+making powers. The United States, after all, is not at war
+with every nation in the world. The Government instead
+relies exclusively on IEEPA. It reads the words “regulate”

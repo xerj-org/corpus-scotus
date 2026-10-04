@@ -1,0 +1,39 @@
+Moody v. NetChoice, LLC — No. 22-277 — October Term 2023 — decided 7/01/24 — Justice Jackson, concurring in part and concurring in
+Citation: 603 U.S. 707
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r58_8mj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+and function-specifc questions that might bear on the First
+Amendment analysis. While the governing constitutional
+principles are straightforward, applying them in one fell
+swoop to the entire social-media universe is not.
+Justice Jackson, concurring in part and concurring in
+the judgment.
+These cases present a complex clash between two novel
+state laws and the alleged First Amendment rights of sev-
+eral of the largest social media platforms. Some things are
+already clear. Not every potential action taken by a social
+media company will qualify as expression protected under
+the First Amendment. But not every hypothesized regula-
+tion of such a company's operations will necessarily be able
+to withstand the force of the First Amendment's protections
+either. Beyond those broadest of statements, it is difficult
+to say much more at this time. With these records and
+lower court decisions, we are not able to adequately evaluate
+whether the challenged state laws are facially valid.
+That is in no small part because, as all Members of the
+Court acknowledge, plaintiffs bringing a facial challenge
+must clear a high bar. See ante, at 723–724 (majority opin-
+ion); post, at 777–778 (Alito, J., concurring in judgment).
+The Eleventh Circuit failed to appreciate the nature of this
+challenge, and the Fifth Circuit did not adequately evaluate
+it. That said, I agree with Justice Barrett that the Elev-
+enth Circuit at least fairly stated our First Amendment prec-
+edent, whereas the Fifth Circuit did not. See ante, at 745
+(concurring opinion); see also ante, at 727–733 (majority opin-
+ion). On remand, then, both courts will have to undertake
+their legal analyses anew.
+In doing so, the lower courts must address these cases at
+the right level of specifcity. The question is not whether an
+entire category of corporations (like social media companies)
+or a particular entity (like Facebook) is generally engaged in
+expression. Nor is it enough to say that a given activity

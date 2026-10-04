@@ -1,0 +1,109 @@
+Texas v. New Mexico — No. 65, Orig. — October Term 2020 — decided 12/14/20 — Opinion of Alito, J.
+Citation: 592 U.S. 98
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=138 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Third, Texas contends that it did not request that the
+water be stored in New Mexico after March 2015. There-
+fore, according to Texas, any evaporation that occurred from
+March 2015 until the water was released to Texas in August
+2015 should be charged to New Mexico. But Texas initially
+requested storage in November 2014. Even as late as July
+2015, shortly before the water was released, Texas still had
+not requested the release of the water. Because Texas did
+not rescind its request for storage or otherwise ask for re-
+lease before August 2015, the River Master did not err in
+awarding New Mexico delivery credit for evaporation that
+occurred after March 2015.
+* * *
+The water was stored in New Mexico at the request of
+Texas. Some of the water then evaporated before it was
+released to Texas. Under those circumstances, as the River
+Master correctly concluded, New Mexico is entitled to deliv-
+ery credit for the evaporated water. That result is both le-
+gally accurate and entirely fair. We deny Texas's motion
+for review.2
+It is so ordered.
+Justice Barrett took no part in the consideration or de-
+cision of this case.
+Justice Alito , concurring in the judgment in part and
+dissenting in part.
+I agree with the Court's rejection of Texas's argument
+that New Mexico forfeited any objection to the River Mas-
+2 The Court has previously stated that the River Master's determina-
+tions are reviewed only for clear error. Texas v. New Mexico , 485 U. S.
+388, 393 (1988) (per curiam ) (a final determination “shall be subject to
+review by this Court only on a showing that the Final Determination is
+clearly erroneous”). Here, New Mexico prevails even under de novo re-
+view, so the standard of review does not affect our judgment in this case.
+ter's 2014 report because it did not fle an objection by the
+deadline imposed by the amended decree. On this issue,
+there were violations all around. The River Master violated
+the deadlines imposed by the amended decree for filing his
+reports. See Texas v. New Mexico, 485 U. S. 388, 391 (1988)
+(per curiam ); App. to State of New Mexico's Response 61.
+New Mexico did not fle its objections in time, see Texas v.
+New Mexico, 485 U. S., at 391; App. to State of New Mexico's
+Response 38, 59–61, and Texas essentially acquiesced for
+months, if not years, see Texas's Motion for Review 9; App.
+to Texas's Motion for Review 269a. Under the circum-
+stances, Texas forfeited its objection. Going forward, the
+States and the River Master should take better care to abide
+by the terms of the amended decree.
+On the question whether the River Master properly allo-
+cated the water that evaporated, I would vacate and remand,
+with instructions to the River Master to redo his analysis in
+accordance with the relevant terms of the amended decree
+and the manual. In sanctioning the River Master's handling
+of this issue, the Court ignores critical facts. The decision
+to store the water, as well as the decision eventually to re-
+lease it, was made by the federal Bureau of Reclamation.
+Id., at 68a–69a, 236a; App. to State of New Mexico's Re-
+sponse 93. The Federal Government asserts that the water
+was held for food control purposes, Brief for United States
+as Amicus Curiae 7–8; App. to Texas's Motion for Review
+68a. And, because Texas was not a party to a contract for
+storage, it appears that it would have been unlawful for the
+federal authorities to store the water simply because Texas
+requested that they do so. Id., at 68a; see also Warren Act,
+43 U. S. C. § 523.
+In light of these facts, the relevance of Texas's request for
+storage and New Mexico's agreement with that request is
+unclear. Perhaps the States' exchange of e-mails should be
+seen as simply an agreement that the Bureau should hold
+the water to prevent fooding. Perhaps the River Master
+thought that the Bureau acted ultra vires and stored the
+water for all or part of the time in question simply because
+Texas so requested. In any event, it is necessary to ft to-
+gether in a coherent picture the actions taken by the federal
+and state authorities. I would instruct the River Master to
+tackle that task in the first instance on remand.
+Unless the River Master determines that the water was
+not held for food control purposes for the entirety of the
+time in question, it should analyze how evaporative losses of
+water kept for those purposes should be treated. There are
+several possibilities.
+One is that the water constituted “unappropriated food
+waters.” Pecos River Compact, Art. II(i), 63 Stat. 161; see
+also Art. III(f), ibid.; Art. VI(d), id., at 164. The River Mas-
+ter has already held that the water did not fall into this cate-
+gory, and neither State disputes that finding. See Texas's
+Motion for Review 13; New Mexico's Response 13–14. Un-
+less the River Master or the States have second thoughts on
+remand, that possibility can be ruled out.
+Another possibility is that evaporation of the water in
+question represented “consumptive use” by the United
+States. Art. XII, 63 Stat. 165. If that is so, the Compact
+specifies how such consumptive use is to be handled. Ibid.
+And a third possibility is that the water does not fall into
+either of the above categories.
+Finally, I would hold that the River Master's amendment
+to the manual, insofar as it changed the deadlines imposed
+by the amended decree, is invalid. The River Master does
+not have the authority to alter the amended decree. See
+Texas v. New Mexico, 485 U. S., at 391. The Court declines
+to reach this question because it concludes that it has no
+effect on the principal issues before us, but I would clarify
+the status of this amendment so that the River Master will
+conform to the terms of the amended decree going forward.
+By declining to reach this question, the Court may be invit-
+ing future problems.

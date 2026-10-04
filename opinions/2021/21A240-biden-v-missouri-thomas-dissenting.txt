@@ -1,0 +1,256 @@
+Biden v. Missouri — No. 21A240 — October Term 2021 — decided 1/13/22 — Thomas, J., dissenting
+Citation: 595 U.S. 87
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r7_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+and the disposition of the Government's petition for a writ
+of certiorari, if such writ is timely sought. Should the peti-
+tion for a writ of certiorari be denied, this order shall termi-
+nate automatically. In the event the petition for a writ of
+certiorari is granted, the order shall terminate upon the
+sending down of the judgment of this Court.
+The District Court for the Western District of Louisiana's
+November 30, 2021, order granting a preliminary injunction
+is stayed pending disposition of the Government's appeal in
+the United States Court of Appeals for the Fifth Circuit and
+the disposition of the Government's petition for a writ of
+certiorari, if such writ is timely sought. Should the peti-
+tion for a writ of certiorari be denied, this order shall
+terminate automatically. In the event the petition for a writ
+of certiorari is granted, the order shall terminate upon the
+sending down of the judgment of this Court.
+It is so ordered.
+Justice Thomas, with whom Justice Alito, Justice
+Gorsuch, and Justice Barrett join, dissenting.
+Two months ago, the Department of Health and Human
+Services (HHS), acting through the Centers for Medicare
+and Medicaid Services (CMS), issued an omnibus rule man-
+dating that medical facilities nationwide order their employ-
+ees, volunteers, contractors, and other workers to receive a
+COVID–19 vaccine. Covered employers must fre noncom-
+pliant workers or risk fnes and termination of their Medi-
+care and Medicaid provider agreements. As a result, the
+Government has effectively mandated vaccination for 10 mil-
+lion healthcare workers.
+Two District Courts preliminarily enjoined enforcement of
+the omnibus rule, and the Government now requests an
+emergency stay of those injunctions pending appeal. Be-
+cause the Government has not made a strong showing that
+it has statutory authority to issue the rule, I too would deny
+a stay.
+To obtain a stay, the Government must show that there is
+(1) a reasonable probability that we would grant certiorari;
+(2) a fair prospect that we would reverse the judgments
+below; and (3) a likelihood that irreparable harm will result
+from denying a stay. Hollingsworth v. Perry, 558 U. S. 183,
+190 (2010) (per curiam ). Because there is no real dispute
+that this case merits our review, our decision turns primarily
+on whether the Government can make a ``strong showing”
+that it is likely to succeed on the merits. Nken v. Holder,
+556 U. S. 418, 426 (2009). In my view, the Government has
+not made such a showing here.
+The Government begins by invoking two statutory provi-
+sions that generally grant CMS authority to promulgate
+rules to implement Medicare and Medicaid. The first au-
+thorizes CMS to “publish such rules and regulations . . . as
+may be necessary to the efficient administration of the
+[agency's] functions.” 42 U. S. C. § 1302(a). The second au-
+thorizes CMS to “prescribe such regulations as may be
+necessary to carry out the administration of the insurance
+programs” under the Medicare Act. § 1395hh(a)(1).
+The Government has not established that either provision
+empowers it to impose a vaccine mandate. Rules carrying
+out the “administration” of Medicare and Medicaid are those
+that serve “the practical management and direction” of those
+programs. Black's Law Dictionary 58 (3d ed. 1933). Such
+rules are “necessary” to “administration” if they bear “an
+actual and discernible nexus” to the programs' practical man-
+agement. Merck & Co., Inc. v. United States Dept. of
+Health and Human Servs., 962 F. 3d 531, 537–538 (CADC
+2020) (internal quotation marks omitted). Here, the omni-
+bus rule compels millions of healthcare workers to undergo
+an unwanted medical procedure that “cannot be removed at
+the end of the shift,” In re MCP No. 165, 20 F. 4th 264, 268
+(CA6 2021) (Sutton, C. J., dissenting from denial of initial
+hearing en banc). To the extent the rule has any connection
+to the management of Medicare and Medicaid, it is at most a
+“tangential” one. Merck & Co., Inc., 962 F. 3d, at 538.
+At oral argument, the Government largely conceded that
+§ 1302(a) and § 1395hh(a)(1) alone do not authorize the omni-
+bus rule. See Tr. of Oral Arg. 7, 10. Instead, it fell back
+on a constellation of statutory provisions that each concern
+one of the 15 types of medical facilities that the rule covers.
+See 86 Fed. Reg. 61567 (2021). Several of those provisions
+contain language indicating that CMS may regulate those
+facilities in the interest of “health and safety.” In the Gov-
+ernment's view, that language authorizes CMS to adopt any
+“requirements that [CMS] deems necessary to ensure patient
+health and safety,” including a vaccine mandate applicable
+to all facility types. Application in No. 21A240, p. 19. The
+majority, too, treats these scattered provisions as a singular
+(and unqualifed) delegation to the Secretary to adopt health
+and safety regulations.
+The Government has not made a strong showing that this
+agglomeration of statutes authorizes any such rule. To
+start, 5 of the 15 facility-specifc statutes do not authorize
+CMS to impose “health and safety” regulations at all. See
+42 U. S. C. §§ 1396d(d)(1), (h)(1)(B)(i), 1395rr(b)(1)(A), 1395x
+(iii)(3)(D)(i)(IV), 1395i–4(e). These provisions cannot sup-
+port an argument based on statutory text they lack. Per-
+haps that is why the Government only weakly defends them
+as a basis for its authority. See Tr. of Oral Arg. 25–28.
+Next, the Government identifies eight defnitional provi-
+sions describing, for example, what makes a hospital a “hos-
+pital.” These define covered facilities as those that comply
+with a variety of conditions, including “such other require-
+ments as the Secretary finds necessary in the interest of . . .
+health and safety.” § 1395x(e)(9); see also §§ 1395x(dd)(2)(G),
+(o)(6), (ff )(3)(B)(iv), (cc)(2)(J), (p)(4)(A)(v), (aa)(2)(K),
+1395k(a)(2)(F)(i). The Government similarly invokes a
+saving clause for “health and safety” regulations applicable
+to “all-inclusive care” programs for the elderly, see
+§§ 1395eee(f)(4), 1396u–4(f)(4), and a requirement that long-
+term nursing facilities “establish and maintain an infection
+control program designed to provide a safe, sanitary, and
+comfortable environment . . . to help prevent the develop-
+ment and transmission of disease,” § 1395i–3(d)(3)(A).
+The Government has not made a strong showing that this
+hodgepodge of provisions authorizes a nationwide vaccine
+mandate. We presume that Congress does not hide “funda-
+mental details of a regulatory scheme in vague or ancillary
+provisions.” Whitman v. American Trucking Assns., Inc.,
+531 U. S. 457, 468 (2001). Yet here, the Government pro-
+poses to find virtually unlimited vaccination power, over
+millions of healthcare workers, in defnitional provisions, a
+saving clause, and a provision regarding long-term care facil-
+ities' sanitation procedures. The Government has not ex-
+plained why Congress would have used these ancillary pro-
+visions to house what can only be characterized as a
+“fundamental detail” of the statutory scheme. Had Con-
+gress wanted to grant CMS power to impose a vaccine man-
+date across all facility types, it would have done what it has
+done elsewhere—specifically authorize one. See 22 U. S. C.
+§ 2504(e) (authorizing mandate for “such immunization . . . as
+necessary and appropriate” for Peace Corps volunteers).
+Nonetheless, even if I were to accept that Congress could
+have hidden vaccine-mandate power in statutory definitions,
+the language in these “health and safety” provisions does not
+suggest that Congress did so. Take, for example, 42 U. S. C.
+§ 1395x(e), which defines “hospital” for certain purposes.
+Three subsections define hospitals as providers of specific
+patient services, see §§ 1395x(e)(1), (4), (5), and fve describe
+administrative requirements that a facility must meet to
+qualify as a covered hospital, see §§ 1395x(e)(2)–(3), (6)–(8).
+The final subsection then provides that a “hospital” must
+also “mee[t] such other requirements as the Secretary finds
+necessary in the interest of the health and safety of individuals
+who are furnished services.” § 1395x(e)(9) (emphasis added).
+Contrary to the Government's position, this kind of catch-
+all provision does not authorize every regulation related to
+“health and safety.” As with all statutory language, context
+must inform the scope of the provision. See AT&T Corp.
+v. Iowa Utilities Bd., 525 U. S. 366, 408 (1999) (Thomas, J.,
+concurring in part and dissenting in part) (citing Neal v.
+Clark, 95 U. S. 704, 708 (1878)). “[W]here, as here, a more
+general term follows more specific terms in a list, the general
+term is usually understood to embrace only objects similar in
+nature to those objects enumerated by the preceding specific
+words.” Epic Systems Corp. v. Lewis, 584 U. S. –––, –––
+(2018) (internal quotation marks omitted). That presump-
+tion is particularly forceful where the statutory catchall re-
+fers to “such other” requirements, signaling that the sub-
+jects that come before delimit any residual authority. See
+ibid. Here, in § 1395x(e), none of the myriad subsections
+preceding the “health and safety” subsection suggests that
+the Government can order hospitals to require virtually all
+hospital personnel to be vaccinated. Rather, these subsec-
+tions show that HHS' residual authority embraces only ad-
+ministrative requirements like those that precede it—includ-
+ing “provid[ing] 24-hour nursing service,” “maintain[ing]
+clinical records on all patients,” or having “bylaws in effect.”
+§§ 1395x(e)(2), (3), (5). A requirement that all healthcare
+workers be vaccinated is plainly different in kind. The same
+reasoning applies to almost all of the Government's proposed
+facility-specifc statutes. See §§ 1395x(aa)(2), (dd)(2), (o)(6);
+see also §§ 1395x(ff)(3)(B), (p)(4)(A), (cc)(2), 1395eee, 1396u–
+4(f)(4).
+Only one facility-specifc provision is arguably different.
+It regulates long-term care facilities and mandates an “infec-
+tion control program” among its “health and safety” provi-
+sions. § 1395i–3(d)(3). But that infection-control provision
+focuses on sanitizing the facilities' “environment,” not its
+personnel. Ibid. In any event, even if this statutory lan-
+guage justified a vaccine mandate in long-term care facilities,
+it could not sustain the omnibus rule. Neither the “infection
+control” language nor a reasonable analog appears in any of
+the other facility-specifc provisions. Basic interpretive
+principles would thus suggest that CMS lacks vaccine-
+mandating authority with respect to the other types of facili-
+ties. See Russello v. United States, 464 U. S. 16, 23 (1983).
+And, of course, the omnibus rule cannot rest on the long-
+term care provision alone. By CMS' own estimate, long-
+term care facilities employ only 10% of the 10 million health-
+care workers that the rule covers. 86 Fed. Reg. 61603. Put
+simply, the oblique reference to “infection control” in the
+defnitional provision for long-term care facilities cannot au-
+thorize an omnibus vaccine mandate covering every type of
+facility that falls within CMS' purview.
+For its part, the Court does not rely on the Government's
+proffered statutory provisions. Instead, it asserts that
+CMS possesses broad vaccine-mandating authority by point-
+ing to a handful of CMS regulations. To begin, the Court
+does not explain why the bare existence of these regulations
+is evidence of what Congress empowered the agency to do.
+Relying on them appears to put the cart before the horse.
+Regardless, these regulations provide scant support for
+the sweeping power the Government now claims. For ex-
+ample, CMS regulations that mandate the number of hours
+a dietician must practice under supervision, ante, at 94 (citing
+42 CFR § 483.60 (2020)), or that prescribe “the tasks that
+may be delegated . . . to a physician assistant or nurse prac-
+titioner,” ante, at 94 (citing § 483.30(e)), cannot support a vac-
+cine mandate for healthcare personnel.
+The Court also invokes a regulation requiring hospitals to
+implement programs that “govern the `surveillance, preven-
+tion, and control of . . . infectious diseases,' ” ante, at 94 (quot-
+ing § 482.42), as well as a few regulations that require
+` “infection prevention and control program[s]' ” at some (but
+apparently not all) facility types. See ante, at 90 (citing,
+inter alia, § 482.42). But many of these infection-control
+regulations, like the infection-control program set out at 42
+U. S. C. § 1395i–3(d)(3), are far afield from immunization.
+See, e. g., 42 CFR §§ 485.725(b)–(e) (specifying requirements
+for “aseptic techniques,” “housekeeping services,” “[l]inens,”
+and “[p]est control”). And insofar as they do touch on im-
+munization, they require only that facilities offer their resi-
+dents the opportunity to obtain a vaccine, along with “the
+opportunity to refuse” it. § 483.80(d)(1). These regulations
+are not precedents for CMS' newfound authority mandating
+that all employees be vaccinated.
+Finally, our precedents confirm that the Government has
+failed to make a strong showing on the merits. “We expect
+Congress to speak clearly when authorizing an agency to ex-
+ercise powers of vast economic and political significance.”
+Alabama Assn. of Realtors v. Department of Health and
+Human Servs., 594 U. S. –––, ––– (2021) (per curiam ) (inter-
+nal quotation marks omitted). And we expect Congress to
+use “exceedingly clear language if it wishes to significantly
+alter the balance between federal and state power.” Ibid.
+(internal quotation marks omitted). The omnibus rule is un-
+doubtedly significant—it requires millions of healthcare
+workers to choose between losing their livelihoods and acqui-
+escing to a vaccine they have rejected for months. Vaccine
+mandates also fall squarely within a State's police power, see
+Zucht v. King, 260 U. S. 174, 176 (1922), and, until now, only
+rarely have been a tool of the Federal Government. If Con-
+gress had wanted to grant CMS authority to impose a nation-
+wide vaccine mandate, and consequently alter the state-
+federal balance, it would have said so clearly. It did not.
+* * *
+These cases are not about the efficacy or importance of
+COVID–19 vaccines. They are only about whether CMS has
+the statutory authority to force healthcare workers, by co-
+ercing their employers, to undergo a medical procedure they
+do not want and cannot undo. Because the Government has
+not made a strong showing that Congress gave CMS that
+broad authority, I would deny the stays pending appeal. I
+respectfully dissent.

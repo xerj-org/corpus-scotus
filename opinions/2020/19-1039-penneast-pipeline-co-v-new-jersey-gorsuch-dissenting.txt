@@ -1,0 +1,111 @@
+PennEast Pipeline Co. v. New Jersey — No. 19-1039 — October Term 2020 — decided 6/29/21 — Gorsuch, J., dissenting
+Citation: 594 U.S. 482
+Source: https://www.supremecourt.gov/opinions/20pdf/594us2r62_19m1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+cause the States consented at the founding to the exercise of
+the federal eminent domain power, whether by public
+officials or private delegatees. Because the Third Circuit
+reached a contrary conclusion, we reverse the judgment
+below and remand the case for further proceedings consist-
+ent with this opinion.
+It is so ordered.
+Justice Gorsuch, with whom Justice Thomas joins,
+dissenting.
+I join Justice Barrett's dissenting opinion in full, which
+ably explains why this case implicates New Jersey's struc-
+tural immunity and how New Jersey never waived that
+immunity in the summer months of 1787. I write only to
+address one recurring source of confusion in this area and
+which the Court does not address. In the same breath, the
+district court said an Eleventh Amendment objection “is a
+challenge to a district court's subject matter jurisdiction”
+and yet “it does not implicate federal subject matter jurisdic-
+tion.” App. to Pet. for Cert. 64–65. Both statements can-
+not be true. This Court, it seems, has contributed to the
+confusion. It has “sometimes referred to the States' immu-
+nity from suit as `Eleventh Amendment immunity.' ” Alden
+v. Maine, 527 U. S. 706, 713 (1999); see also, e. g., ante, at 506.
+Though it might be a “convenient shorthand,” the phrase is
+“a misnomer.” Alden, 527 U. S., at 713. States have two
+distinct federal-law immunities from suit. 1
+1 States may also have state-law immunity from suit in a state forum.
+That immunity derives from a State's “sole control” of “its own courts.”
+Alden, 527 U. S., at 740, 749. A State is free to develop its own justiciabil-
+ity rules governing state tribunals. See Missouri v. Lewis, 101 U. S. 22,
+30 (1880); ASARCO Inc. v. Kadish, 490 U. S. 605, 617 (1989). That is why
+this Court has found that state-law immunity provides an adequate and
+independent state ground for affirming a state-court judgment. E. g.,
+Georgia R. & Banking Co. v. Musgrove, 335 U. S. 900 (1949) (per curiam );
+Palmer v. Ohio, 248 U. S. 32, 34 (1918). Because PennEast sued in federal
+court, state-law immunity is not implicated here.
+The first—“structural immunity”—derives from the struc-
+ture of the Constitution. See Franchise Tax Bd. of Cal. v.
+Hyatt, 587 U. S. 230, 247–248 (2019). Because structural im-
+munity is a constitutional entitlement of a sovereign State,
+it applies in both federal tribunals, Seminole Tribe of Fla. v.
+Florida, 517 U. S. 44, 51–52 (1996), and in state tribunals,
+Alden, 527 U. S., at 712. And it applies regardless of
+whether the plaintiff is a citizen of the same State, Allen v.
+Cooper, 589 U. S. 248, 252 (2020), a citizen of a different
+State, or a non-citizen—like a foreign nation, Principality
+of Monaco v. Mississippi, 292 U. S. 313, 330 (1934), or an
+Indian tribe, Blatchford v. Native Village of Noatak, 501
+U. S. 775, 781 (1991). Structural immunity sounds in per-
+sonal jurisdiction, so the sovereign can waive that immunity
+by “consent” if it wishes. Hyatt, 587 U. S., at 238–239; see
+Wisconsin Dept. of Corrections v. Schacht, 524 U. S. 381, 394
+(1998) (Kennedy, J., concurring).
+The second—what is properly termed “Eleventh Amend-
+ment immunity”—derives from the text of the Eleventh
+Amendment. In light of its swift adoption in response to
+Chisholm v. Georgia, 2 Dall. 419 (1793), this Court has read
+the Eleventh Amendment as pointing to the structural prin-
+ciple just discussed. See Allen, 589 U. S., at 254. But the
+Eleventh Amendment can do two things at once. See Fed-
+eral Maritime Comm'n v. South Carolina Ports Authority ,
+535 U. S. 743, 753 (2002). In addition to pointing us back to
+the States' structural immunity, it also provides an ironclad
+rule for a particular category of diversity suits:
+“The Judicial power of the United States shall not be
+construed to extend to any suit in law or equity, com-
+menced or prosecuted against one of the United States
+by Citizens of another State, or by Citizens or Subjects
+of any Foreign State.” U. S. Const., Amdt. 11.
+This text “means what it says. It eliminates federal judicial
+power over one set of cases: suits fled against states, in law
+or equity, by diverse plaintiffs.” Baude & Sachs, The Mis-
+understood Eleventh Amendment, 169 U. Pa. L. Rev. 609,
+612 (2021).
+The Eleventh Amendment sometimes does less than struc-
+tural immunity: It applies only in federal court (“the Judicial
+power of the United States”). And it applies only to diver-
+sity suits (“by Citizens of another State”). But sometimes
+the Amendment does more: It imposes an Article III subject-
+matter jurisdiction barrier (“The judicial Power . . . shall not
+be construed to extend”), not a mere privilege of personal
+jurisdiction. And it admits of no waivers, abrogations, or
+exceptions (“to any suit in law or equity”).
+This case appears to present “the rare scenario” that
+comes within the Eleventh Amendment's text. Brief for
+Respondents State of New Jersey et al. 12. Because Pen-
+nEast sued New Jersey in federal court, this suit implicates
+“the Judicial power of the United States.” See 28 U. S. C.
+§§ 132, 451. This condemnation suit, by any stretch, is “[a]
+suit in law or equity.” See Kohl v. United States, 91 U. S.
+367, 376 (1876) (“a proceeding to take land” and “determin[e]
+the compensation to be made” is “a suit at common law”);
+Boom Co. v. Patterson, 98 U. S. 403, 406–407 (1879) (same).
+PennEast “commenced” this suit “against” New Jersey. It
+named the State in its complaint as a defendant as required
+by the Civil Rules. Fed. Rule Civ. Proc. 71.1(c)(1). And it
+asked the court for an injunction permitting it to take “im-
+mediate possession” of New Jersey's soil. Hagood v. South-
+ern, 117 U. S. 52, 67–68 (1886) (“The State is not only the
+real party to the controversy, but the real party against
+which relief is sought by the suit”). Because the parties
+agree that PennEast is a citizen of Delaware, this suit is
+brought “by [a] Citize[n] of another State.” See Tr. of Oral
+Arg. 25–27; see also State Farm Fire & Casualty Co. v. Tash-
+ire, 386 U. S. 523, 531 (1967).
+If that's all true, then a federal court “shall not” entertain
+this suit. The Eleventh Amendment's text, no less than the

@@ -1,0 +1,151 @@
+Ramos v. Louisiana — No. 18-5924 — October Term 2019 — decided 4/20/20 — Opinion of Gorsuch, J.
+Citation: 590 U.S. 83
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=99 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+IV
+A
+If Louisiana's path to an affirmance is a difficult one, the
+dissent's is trickier still. The dissent doesn't dispute that
+the Sixth Amendment protects the right to a unanimous jury
+verdict, or that the Fourteenth Amendment extends this
+right to state-court trials. But, it insists, we must affirm
+Mr. Ramos's conviction anyway. Why? Because the doc-
+trine of stare decisis supposedly commands it. There are
+two independent reasons why that answer falls short.
+In the first place and as we've seen, not even Louisiana
+tries to suggest that Apodaca supplies a governing prece-
+dent. Remember, Justice Powell agreed that the Sixth
+Amendment requires a unanimous verdict to convict, so he
+would have no objection to that aspect of our holding today.
+minds us that, at points and places in our history, women were not permit-
+ted to sit on juries. See post, at 153–154. But we hardly need Apodaca's
+functionalism to avoid repeating that wrong. Unlike the rule of unanim-
+ity, rules about who qualified as a defendant's “peer” varied considerably
+at common law at the time of the Sixth Amendment's adoption. Refect-
+ing that fact, the Judiciary Act of 1789—adopted by the same Congress
+that passed the Sixth Amendment—initially pegged the qualifications for
+federal jury service to the relevant state jury qualification requirements.
+1 Stat. 88. As a result, for much of this Nation's early history the compo-
+sition of federal juries varied both geographically and over time. See
+Hickey, Federal Legislation: Improvement of the Jury System in Federal
+Courts, 35 Geo. L. J. 500, 506–507 (1947); Taylor v. Louisiana, 419 U. S.
+522, 536 (1975). Ultimately, however, the people themselves adopted fur-
+ther constitutional amendments that prohibit invidious discrimination.
+So today the Sixth Amendment's promise of a jury of one's peers means a
+jury selected from a representative cross-section of the entire community.
+See Strauder, 100 U. S., at 307–308; Smith v. Texas, 311 U. S. 128, 130
+(1940); Taylor, 419 U. S., at 527.
+Relatedly, the dissent suggests that, before doing anything here, we
+should survey all changes in jury practices since 1791. See post, at 154–
+155, n. 26. It sounds like an interesting study—but not one that could
+alter the plain meaning of the Constitution or obliviate its undisputed una-
+nimity requirement.
+Justice Powell reached a different result only by relying on
+a dual-track theory of incorporation that a majority of the
+Court had already rejected (and continues to reject). And
+to accept that reasoning as precedential, we would have to
+embrace a new and dubious proposition: that a single Justice
+writing only for himself has the authority to bind this Court
+to propositions it has already rejected.
+This is not the rule, and for good reason—it would do more
+to destabilize than honor precedent. To see how, consider a
+hypothetical. Suppose we face a question of first impression
+under the Fourth Amendment: whether a State must obtain
+a warrant before reading a citizen's email in the hands of an
+Internet provider and using that email as evidence in a crim-
+inal trial. Imagine this question splits the Court, with four
+Justices finding the Fourth Amendment requires a warrant
+and four Justices finding no such requirement. The ninth
+Justice agrees that the Fourth Amendment requires a war-
+rant, but takes an idiosyncratic view of the consequences of
+violating that right. In her view, the exclusionary rule has
+gone too far, and should only apply when the defendant is
+prosecuted for a felony. Because the case before her hap-
+pens to involve only a misdemeanor, she provides the ninth
+vote to affirm a conviction based on evidence secured by a
+warrantless search. Of course, this Court has longstanding
+precedent requiring the suppression of all evidence obtained
+in unconstitutional searches and seizures. Mapp v. Ohio,
+367 U. S. 643 (1961). But like Justice Powell, our hypotheti-
+cal ninth Justice sticks to her view and expressly rejects this
+Court's precedent. Like Justice Powell, this Justice's vote
+would be essential to the judgment. So if, as the dissent
+suggests, that is enough to displace precedent, would Mapp's
+exclusionary rule now be limited to felony prosecutions?
+Admittedly, this example comes from our imagination. It
+has to, because no case has before suggested that a single
+Justice may overrule precedent. But if the Court were to
+embrace the dissent's view of stare decisis, it would not stay
+imaginary for long. Every occasion on which the Court is
+evenly split would present an opportunity for single Justices
+to overturn precedent to bind future majorities. Rather
+than advancing the goals of predictability and reliance lying
+behind the doctrine of stare decisis, such an approach would
+impair them.
+The dissent contends that, in saying this much, we risk
+defying Marks v. United States.48 According to Marks,
+when “a fragmented Court decides a case and no single
+rationale explaining the result enjoys the assent of fve
+Justices, `the holding of the Court may be viewed as that
+position taken by those Members who concurred in the judg-
+ments on the narrowest grounds.' ” 49 But notice that the
+dissent never actually gets around to telling us which opinion
+in Apodaca it considers to be the narrowest and controlling
+one under Marks—or why. So while the dissent worries
+that we defy a Marks precedent, it is oddly coy about where
+exactly that precedent might be found.
+The parties recognize what the dissent does not: Marks
+has nothing to do with this case. Unlike a Marks dispute
+where the litigants duel over which opinion represents the
+narrowest and controlling one, the parties before us accept
+that Apodaca yielded no controlling opinion at all. In par-
+ticular, both sides admit that Justice Powell's opinion cannot
+bind us—precisely because he relied on a dual-track rule of
+incorporation that an unbroken line of majority opinions be-
+fore and after Apodaca has rejected. Still, the dissent
+presses the issue, suggesting that a single Justice's opinion
+can overrule prior precedents under “the logic” of Marks.50
+But, as the dissent itself implicitly acknowledges, Marks
+never sought to offer or defend such a rule. And, as we
+have seen, too, a rule like that would do more to harm than
+advance stare decisis.
+48 430 U. S. 188 (1977).
+49 Id., at 193.
+50 Post, at 149.
+The dissent's backup argument fares no better. In the
+end, even the dissent is forced to concede that Justice Pow-
+ell's reasoning in Apodaca lacks controlling force.51 So far,
+so good. But then the dissent suggests Apodaca somehow
+still manages to supply a controlling precedent as to its re-
+sult.52 Look closely, though. The dissent's account of Apo-
+daca's result looks suspiciously like the reasoning of Justice
+Powell's opinion: “In Apodaca, this means that when (1) a
+defendant is convicted in state court, (2) at least 10 of the 12
+jurors vote to convict, and (3) the defendant argues that the
+conviction violates the Constitution because the vote was not
+unanimous, the challenge fails.” 53 Where does the conven-
+ient “state court” qualification come from? Neither the
+Apodaca plurality nor the dissent included any limitation
+like that—their opinions turned on the meaning of the Sixth
+Amendment. What the dissent characterizes as Apodaca's
+result turns out to be nothing more than Justice Powell's
+reasoning about dual-track incorporation dressed up to look
+like a logical proof.
+All of this does no more than highlight an old truth. It is
+usually a judicial decision's reasoning—its ratio decidendi—
+that allows it to have life and effect in the disposition of
+future cases.54 As this Court has repeatedly explained in the
+51 Post, at 150.
+52 Post, at 147.
+53 Ibid. See also post, at 125, n. 6 (Kavanaugh, J., concurring in part)
+(offering the same argument by contending that “[t]he result of Apodaca”
+means “state criminal juries need not be unanimous”).
+54 See J. Salmond, Jurisprudence § 62, p. 191 (G. Williams ed., 10th ed.
+1947) (“The concrete decision is binding between the parties to it, but it
+is the abstract ratio decidendi which alone has the force of law as regards
+the world at large”); F. Schauer, Precedent, in Routledge Companion to
+Philosophy of Law 129 (A. Marmor ed. 2012) (“[T]he traditional answer to
+the question of what is a precedent is that subsequent cases falling within
+the ratio decidendi—or rationale —of the precedent case are controlled
+by that case”); N. Duxbury, The Nature and Authority of Precedent 65–
+66 (2008).

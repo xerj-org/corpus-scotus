@@ -1,0 +1,226 @@
+Barnes v. Felix — No. 23-1239 — October Term 2024 — decided 5/15/25 — Kavanaugh, J., concurring
+Citation: 605 U.S. 73
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r30_h315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+As in another of our recent Fourth Amendment cases, that
+issue is not properly before us. See Mendez, 581 U. S., at
+429, n. The courts below never confronted the issue, pre-
+cisely because their inquiry was so time-bound. In looking
+at only the two seconds before the shot, they excluded from
+view any actions of the officer that allegedly created the dan-
+ger necessitating deadly force. See supra, at 78–79. So, to
+use the obvious example, the courts below did not address
+the relevance, if any, of Felix stepping onto the doorsill of
+Barnes's car. And because they never considered that issue,
+it was not the basis of the petition for certiorari. The
+question presented to us was one of timing alone: whether
+to look only at the encounter's final two seconds, or also to
+consider earlier events serving to put those seconds in
+context.
+With that matter resolved, we return everything else to
+the courts below. It is for them now to consider the reason-
+ableness of the shooting, using the lengthier timeframe we
+have prescribed.
+Accordingly, we vacate the judgment of the Court of Ap-
+peals and remand the case for further proceedings consistent
+with this opinion.
+It is so ordered.
+Justice Kavanaugh, with whom Justice Thomas, Jus-
+tice Alito, and Justice Barrett join, concurring.
+I join the Court's opinion. I agree that the officer's ac-
+tions during the traffc stop in this case should be assessed
+based on the totality of the circumstances. I write sepa-
+rately to add a few points about the dangers of traffc stops
+for police officers, particularly when as here the driver pulls
+away in the midst of the stop.
+Even for routine traffic violations, traffic stops are
+“fraught with danger to police officers.” Michigan v. Long,
+463 U. S. 1032, 1047 (1983). An “inordinate risk confront[s]
+an officer as he approaches a person seated in an automo-
+bile.” Pennsylvania v. Mimms, 434 U. S. 106, 110 (1977)
+(per curiam ). That is in part because officers operate at a
+“tactical disadvantage” when “approaching an unknown ve-
+hicle, with limited visibility and unpredictable threats.”
+Brief for National Fraternal Order of Police as Amicus Cu-
+riae 4. As this Court noted nearly 50 years ago, “a signifi-
+cant percentage of murders of police officers occurs when the
+officers are making traffc stops.” Mimms, 434 U. S., at 110
+(quoting United States v. Robinson, 414 U. S. 218, 234, n. 5
+(1973)). Traffc stops remain highly dangerous today. See
+Dept. of Justice, Federal Bureau of Investigation, Law En-
+forcement Officers Killed and Assaulted, 2023 (2024) (Table
+27). On April 8, 2023, two officers were shot and killed at
+an intersection in Cameron, Wisconsin, after stopping a car
+for a warrant and welfare check on the driver. 1 On Decem-
+ber 8, 2024, an officer was shot and killed after he pulled
+over a pickup truck with expired license plates in a Super 8
+motel parking lot in Terrell, Texas. See Brief for State of
+Texas et al. as Amici Curiae 1, and n. 4. The list goes on
+and on.2
+Officers cannot let their guard down and assume that any
+particular traffc stop will be safe—even if a driver is pulled
+over for nothing more than a speeding violation, a broken
+taillight, or the like. The driver may be drunk, on drugs,
+armed, or some combination thereof. Or the driver may
+have committed (or may be about to commit) a serious crime.
+“People detained for minor offenses” such as ordinary traffc
+violations “can turn out to be the most devious and danger-
+1 See Officer Down Memorial Page, Police Officer Emily Ann Breidenbach,
+https://www.odmp.org/officer/26693-police-officer-emily-ann-breidenbach;
+Officer Down Memorial Page, Police Officer Hunter Timothy Scheel, https://
+www.odmp.org/officer/26694-police-officer-hunter-timothy-scheel.
+2 To be sure, officers sometimes use excessive force during traffc stops.
+When that happens, officers of course should be held to account for their
+actions. See Brief for Current and Former Law Enforcement Officials as
+Amici Curiae 22; Brief for California State Sheriffs' Association et al. as
+Amici Curiae 10.
+ous criminals.” Florence v. Board of Chosen Freeholders of
+County of Burlington, 566 U. S. 318, 334 (2012). Timothy
+McVeigh, the man responsible for the 1995 Oklahoma City
+bombing, was stopped for a missing license plate, which ulti-
+mately led to his apprehension for the bombing. See ibid.
+Likewise, serial killer Ted Bundy was pulled over based on
+a stolen-vehicle alert in Pensacola, Florida. When informed
+that he was under arrest, Bundy kicked the officer's legs out
+from under him, and the two struggled over the officer's gun
+before the officer was able to subdue and arrest Bundy. See
+Bundy v. Dugger, 850 F. 2d 1402, 1422 (CA11 1988); see
+also Brief for State of Texas et al. as Amici Curiae 11–12,
+and n. 12.
+So even though most traffc stops end without incident,
+traffc stops are nonetheless inherently risky for police off-
+cers. And when, as in this case, the driver suddenly pulls
+away in the midst of a stop, the risks multiply. A driver
+speeding away from a traffc stop could easily endanger by-
+standers and other drivers—especially if the fleeing driver
+is under the influence of alcohol or drugs, as might well be
+the case when a driver fees. Moreover, the very “fact that
+a suspect fees when suspected of a minor offense,” such as
+speeding or a failure to pay tolls, “could well be indicative of
+a larger danger.” Lange v. California, 594 U. S. 295, 331
+(2021) (Roberts, C. J., concurring in judgment). Fleeing
+from the traffc stop could suggest that the driver is prepar-
+ing to commit or has committed a more serious crime—and
+is attempting to evade detection or arrest. The driver may
+have illegal drugs or an illegal gun in the car. Or the driver
+may be unlawfully in the country and fear removal if appre-
+hended. He might have a warrant out for his arrest. He
+could have an abducted child in the car. See Tr. of Oral Arg.
+18. Or as the tragic 2025 New Year's terrorist attack in
+New Orleans illustrates, the driver might intend to use the
+car as a weapon. See id., at 24.
+The possibilities are many. But the key point is a com-
+monsense one: A driver who speeds away from a traffc stop
+can pose significant dangers to both the officer and the sur-
+rounding community.
+The question when a driver fees, therefore, is not merely
+whether the underlying traffc violation “presents risks to
+public safety”—it is also “whether fight,” and what that
+fight might indicate or enable, “does so.” Lange, 594 U. S.,
+at 331 (Roberts, C. J., concurring in judgment). In those
+circumstances, in other words, it is not only the “severity of
+the crime” that prompted the stop that is relevant to the
+“totality of the circumstances” inquiry. Graham v. Connor,
+490 U. S. 386, 396 (1989) (quotation marks omitted). The
+Fourth Amendment analysis must also take account of the
+suspect's attempt “to evade” the officer “by fight.” Ibid.
+What should the officer do when a driver fees from a traf-
+fc stop? There are no easy or risk-free answers. Every
+feasible option poses some potential danger to the officer, the
+driver, or the public at large—and often to all three. And
+an officer in that situation must make a split-second choice
+among those various dangerous options.
+First, the officer could simply let the driver go. But be-
+cause the fleeing driver might be a threat to the community,
+letting the driver go may exacerbate the dangers, rather
+than mitigate them. Encouraging officers to stand back and
+allow drivers to take off would also create “perverse incen-
+tives” for those who are stopped by the police. Scott v. Har-
+ris, 550 U. S. 372, 385 (2007). If doing nothing in response
+to a fleeing driver became a known and regular practice
+among police officers, that would presumably embolden some
+drivers who otherwise might have thought twice about tak-
+ing off.
+Of course, the officer could let the driver go in the moment
+but then attempt to catch the driver by, for example, track-
+ing the car's license plate or reviewing surveillance footage.
+See Tr. of Oral Arg. 8. But after letting the driver go, the
+police may not be able to later track down the car or the
+driver of the car. Even if the police are able to do so, the
+escaped driver may pose a serious risk to the public in the
+interim. And given that the driver has already shown a
+propensity to evade law enforcement by fleeing a traffc stop,
+attempting to execute an arrest upon finding the driver could
+itself be dangerous for the police and others.
+Second, the officer could get back in his police car and give
+chase, or could radio other officers to pursue the driver. But
+a high-speed chase likewise can be exceptionally dangerous
+to the officer, the driver, and others on the road. “Vehicular
+pursuits” are “often catastrophic.” Lange, 594 U. S., at 324
+(Roberts, C. J., concurring in judgment). Many real-world
+examples demonstrate as much. Plumhoff v. Rickard in-
+volved a “ `dangerous car chase' ” in which the driver “tried
+to outrun as many as six police cruisers at speeds sometimes
+exceeding 100 miles per hour,” ending in the “fatal shooting”
+of the driver. Ante, at 81 (quoting 572 U. S. 765, 768 (2014)).
+In Scott v. Harris, multiple police cars “with blue lights
+fashing and sirens blaring” chased the driver “for nearly 10
+miles” while “he ignored their warning to stop,” culminating
+in an officer ramming the driver off the road. 550 U. S., at
+384. Moreover, a recent study concluded that a significant
+percentage of those killed in police chases are not the fleeing
+drivers but rather are passengers or bystanders. From
+2017 through 2022, more than 500 bystanders were report-
+edly killed as a result of police chases. 3
+Third, the officer might try to shoot out the tires of the
+fleeing car, or otherwise try to hinder the car's movement,
+in order to bring it to a stop. But shooting at a car, espe-
+cially its tires, can be “dangerous” and is often “ineffective.” 4
+3 See S. Neilson, J. Gollan, & J. Haseman, First-of-Its-Kind Database:
+Majority of People Killed in Police Chases Aren't the Fleeing Drivers, San
+Francisco Chronicle (Feb. 2024).
+4 Los Angeles County Sheriff's Dept., Field Operations Support Services
+Newsletter: 15–14 – Shooting at Vehicle Tires (2025).
+Even if the officer manages to hit the tires, the driver could
+lose control and crash into others on the road. That course
+of action also poses the risk of the officer accidentally shoot-
+ing the driver or innocent passengers.
+Fourth, as happened here, the officer could attempt to stop
+the fleeing driver at the outset by jumping on or reaching
+into the car. The dangerousness of that option is readily
+apparent. Perhaps the driver will hit the brakes once he
+realizes an officer is clinging to the car or attempting to
+reach through the window. But if the driver does not slow
+down, then the officer may suffer serious and perhaps fatal
+injuries. The officer could try to fre his weapon to incapaci-
+tate the driver and bring the car safely to a stop. But the
+car may be just as likely to go careening into traffc, thereby
+threatening the safety of the officer, other drivers, passen-
+gers, pedestrians, and more.
+I could go on. The point here is that when a driver
+abruptly pulls away during a traffc stop, an officer has no
+particularly good or safe options. None of the options avail-
+able to the officer avoids danger to the community, and all
+of them require life-or-death decisions that must be made
+in a few seconds in highly stressful and unpredictable
+circumstances.
+Of course, when an officer uses force against a fleeing
+driver, the judiciary still must assess any resulting Fourth
+Amendment claim under the standard of objective reason-
+ableness. Under this Court's precedents, that inquiry in-
+volves “a careful balancing of `the nature and quality of the
+intrusion on the individual's Fourth Amendment interests'
+against the countervailing governmental interests at stake.”
+Graham, 490 U. S., at 396 (quoting Tennessee v. Garner, 471
+U. S. 1, 8 (1985)). In conducting that analysis, judges should
+keep in mind that it is one thing to dissect and scrutinize an
+officer's actions with the “20/20 vision of hindsight,” “in the
+peace of a judge's chambers.” Graham, 490 U. S., at 396
+(quotation marks omitted). It is quite another to make
+“split-second judgments” on the ground, “in circumstances
+that are tense, uncertain, and rapidly evolving.” Id., at 397.
+In analyzing the reasonableness of an officer's conduct at a
+traffc stop, particularly traffc stops where the driver has
+suddenly pulled away, courts must appreciate the extraordi-
+nary dangers and risks facing police officers and the commu-
+nity at large.

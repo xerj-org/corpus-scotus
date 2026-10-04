@@ -1,0 +1,274 @@
+Kousisis v. United States — No. 23-909 — October Term 2024 — decided 5/22/25 — Sotomayor, J., concurring in judgment
+Citation: 605 U.S. 114
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r32_f2ah.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Tribe of Fla. v. Florida, 517 U. S. 44, 66 (1996); Loper Bright
+Enterprises v. Raimondo, 603 U. S. 369, 426 (2024) (Gor-
+such, J., concurring).
+*
+Over centuries of experience, common-law courts devel-
+oped a variety of tools to sort venial lies from criminal
+frauds. In a brief and unfortunate diversion in an otherwise
+sound opinion, the Court casts doubt on whether one of those
+tools still applies under the federal wire-fraud statute. In
+the process, the Court needlessly risks turning the federal
+wire-fraud statute into a weapon for punishing victimless
+crimes. I can only trust that future courts will recognize
+that aside for what it is—unsound dicta.
+Justice Sotomayor, concurring in the judgment.
+The Court today rightly rejects petitioners' request to
+graft an economic-loss requirement onto the federal wire
+fraud statute. When a defendant tricks a victim out of their
+money by promising one thing and delivering something ma-
+terially different, it is no defense to say that the delivered
+items are of equal economic value. Statutory text, prece-
+dent, and history mandate that conclusion, as the majority
+explains. See ante, at 123–133. Common sense, unsurpris-
+ingly, points in the same direction. A Yankees fan deceived
+into buying Mets tickets is no less defrauded simply because
+the Mets tickets happen to be worth the same amount as the
+promised Yankees ones. That straightforward conclusion is
+all that is necessary to resolve this case, and I would go no
+further. To the extent the majority appears to speak more
+broadly, I part ways from its approach.
+I
+As the majority explains, this case turns on the wire fraud
+statute's property requirement, which limits the statute's
+reach to schemes “to defraud, or for obtaining money or
+property.” 18 U. S. C. § 1343. Although that phrase uses
+“disjunctive language,” the Court has construed it as a “uni-
+tary whole.” Kelly v. United States, 590 U. S. 391, 398
+(2020) (citing § 1343). That is because the “ `common under-
+standing' of the words `to defraud' when the statute was
+enacted referred `to wronging one in his property rights.' ”
+Ciminelli v. United States, 598 U. S. 306, 312 (2023) (quoting
+Cleveland v. United States, 531 U. S. 12, 19 (2000)). Accord-
+ingly, even before Congress amended the statute to add the
+phrase “or for obtaining money or property,” the statute
+criminalized “only schemes to deprive people of traditional
+property interests.” Ciminelli, 598 U. S., at 309; see also
+Cleveland, 531 U. S., at 18–19 (recounting § 1343's amend-
+ment history).
+Here, petitioners convinced the Pennsylvania Department
+of Transportation (PennDOT) to hand over tens of millions of
+dollars by lying about the nature of what they were selling.
+Petitioners promised to provide PennDOT with repair serv-
+ices that complied with the U. S. Department of Transporta-
+tion's Disadvantaged Business Enterprise (DBE) program.
+See 49 CFR § 26.21 (2024). They represented to PennDOT
+that a qualified disadvantaged business would provide paint-
+ing services for the restoration projects, as required by
+PennDOT's federal grant, and they expressly memorialized
+that requirement as a “ `material' ” term in their contracts.
+Ante, at 119 (majority opinion) (quoting App. 114, 175). Yet
+petitioners planned all along to have nonqualifed companies
+do the work, while the qualified disadvantaged business that
+they promised to work with served as a mere pass-through.
+Ante, at 119–120 (majority opinion). To put it simply, peti-
+tioners devised a scheme to trick PennDOT out of its money
+by promising one thing and delivering something materi-
+ally different.
+Against that backdrop, petitioners' only viable theory as
+to why PennDOT suffered no property loss hinges on their
+economic-loss theory. No property harm occurs for pur-
+poses of § 1343, they argue, if the victim suffers no net pecu-
+niary loss. See Reply Brief 2, 8. According to petitioners,
+that makes all the difference here because the repair services
+petitioners provided to PennDOT were of equal monetary
+value. Id., at 8.
+Rejecting petitioners' economic-loss theory therefore re-
+solves this case, and I see no reason to go further. The
+Court, after all, granted certiorari to address circuit division
+on petitioners' proposed economic-loss requirement, see ante,
+at 120–121 (majority opinion), and that is the question pre-
+sented by the facts of this case.
+The Court therefore has no reason to opine on a class of
+fraudulent-inducement cases distinct from this one: those in
+which a defendant provides exactly the goods or services
+that they promised to deliver, but lies in other ways to in-
+duce the transaction. Cf. ante, at 147–148, 156 (Gorsuch,
+J., concurring in part and concurring in judgment). A wide
+array of everyday transactional conduct might fall into that
+category. Consider, for instance, a babysitter who lands a
+job by fbbing about how she will use the money (for college
+savings, rather than a spring break trip), but otherwise fully
+and satisfactorily takes care of the child; a used car salesman
+who closes a deal by falsely claiming another buyer is coming
+to look at the car later that day, while truthfully disclosing
+all the pertinent details about the car; or a prospective hous-
+ing developer who beats out competing bidders by lying
+about wanting to raise a family in the home, but pays the
+full amount of his bid. On the Government's view, each of
+those cases may well give rise to federal fraud liability, pun-
+ishable by up to 20 years in prison, so long as the jury deems
+the lie “material.” See Tr. of Oral Arg. 64–66; Brief for
+United States 44; 18 U. S. C. § 1343.
+Future cases presenting such fact patterns will require
+the Court to confront the outer limits of the federal fraud
+statute's reach and to decide what satisfies its materiality
+element. Resolving this case, however, requires no such
+undertaking. To the extent the majority discusses the
+viability of the Government's fraudulent-inducement theory
+more broadly, see, e. g., ante, at 123–124, 127, n. 5, 132–133, I
+do not endorse its approach. That discussion is not essential
+to the Court's resolution of the dispute before us, and I see
+no reason to proceed more broadly than necessary.
+II
+This case presents only a narrow question in part because
+petitioners have not contested the materiality of their mis-
+representations. See ante, at 132 (majority opinion). That
+concession makes good sense. There can be no real debate
+that petitioners' misstatements were material. Contra,
+ante, at 138–146 (Thomas, J., concurring).
+A
+Recall that the parties presented two competing articula-
+tions of the materiality standard for the federal wire fraud
+statute. See ante, at 131–132 (majority opinion). Petition-
+ers direct the Court to the “traditional” common-law test for
+materiality, Reply Brief 18, under which a representation is
+material if “ `a reasonable man would attach importance to
+its existence or nonexistence in determining his choice of ac-
+tion in the transaction in question,' ” or “ `the maker of the
+representation knows or has reason to know that its recipi-
+ent regards or is likely to regard the matter as important in
+determining his choice of action,' ” Neder v. United States,
+527 U. S. 1, 22, n. 5 (1999) (quoting Restatement (Second)
+of Torts § 538 (1977)). Petitioners assert that, under their
+formulation, representations need “ `not go to [the] essence' ”
+of the transaction to qualify as material. Reply Brief 18
+(quoting Restatement (Second) of Torts § 551(2)(e), Comment
+j). Counterintuitively, it is the Government that proposes a
+more demanding standard. It asserts that misstatements
+are material only if they go to the very “ `essence of the bar-
+gain' ” at issue. Brief for United States 44. That standard
+stems from Universal Health Services, Inc. v. United States
+ex rel. Escobar, 579 U. S. 176 (2016), which discussed materi-
+ality under the False Claims Act. See id., at 193, n. 5.
+The Court need not resolve this dispute to know that peti-
+tioners correctly conceded materiality: Even under the more
+demanding “essence of the bargain” test, petitioners' mis-
+statements qualify. Starting with the contract itself, Penn-
+DOT expressly made compliance with federal DBE regula-
+tions a “material” term. See App. 114, 175. That was no
+boilerplate designation. Out of the 17 warranties set forth
+in the signed documents, only the DBE requirement ex-
+pressly provided that “[f]ailure by the Contractor to carry
+out these requirements is a material breach of this contract,
+which may result in the termination of this contract.” Ibid.
+PennDOT, moreover, dedicated an entire phase of the con-
+tract bidding process to confirming that its prospective con-
+tractor had identified a qualified DBE partner who would
+provide painting services. See 3 App. in No. 19–3679 etc.
+(CA3), pp. 763–765; 82 F. 4th 230, 234 (CA3 2023). Petition-
+ers also had to submit documentation throughout the proj-
+ects' duration to demonstrate continued compliance with the
+DBE requirement. See id., at 234.
+What is more, PennDOT could not have proceeded with
+the projects as funded if it had not mandated contractor
+compliance with the DBE requirement. Federal grants ac-
+counted for a significant portion of PennDOT's funding for
+each project, and those grants were conditioned on DBE
+compliance. The contracts' DBE requirement thus went di-
+rectly to the viability of the projects themselves, and by ex-
+tension, to the “ `very essence of the bargain.' ” Universal
+Health Services, 579 U. S., at 193–194, n. 5 (quoting Junius
+Constr. Corp. v. Cohen, 257 N. Y . 393, 400, 178 N. E. 672, 674
+(1931)); cf. 579 U. S., at 194 (recognizing materiality where
+“ `[t]he government's money would never have been placed in
+the joint fund for payment to respondents had its agents
+known the bids were collusive' ” (quoting United States ex
+rel. Marcus v. Hess, 317 U. S. 537, 543 (1943)).
+If that were not already enough, PennDOT risked legal
+sanction if it failed to administer the DBE program in good
+faith. See 49 CFR §§ 26.101, 26.107; 2 App. in No. 19–3679
+etc., at 305 (“If [a grant recipient] fail[s] to comply with any
+requirement mentioned in this rule,” including the DBE re-
+quirement, “they could be subject to formal enforcement ac-
+tion or program sanctions such as suspension or termination
+of federal funds or refusal to approve projects, grants, or
+contracts until those defciencies are remedied”); id., at 290
+(“[I]f you fail to operate your program in good faith, . . . [y]ou
+will be subject to possible withholding of funds, revoking of
+funds, or other sanctions available by the Department”). It
+is implausible that compliance with the DBE requirement
+was immaterial to PennDOT when knowledge of petitioners'
+scheme to fout those requirements would have exposed
+PennDOT to risk of serious legal consequences. See Uni-
+versal Health Services, 579 U. S., at 194 (“[A]n undisclosed
+fact [is] material” where “ `[n]o one can say with reason that
+the plaintiff would have signed this contract if informed of
+the likelihood' of the undisclosed fact” (quoting Junius
+Constr. Corp., 257 N. Y ., at 400, 178 N. E., at 674)).
+In short, DBE compliance was no “minor or insubstantial”
+provision tucked away in a laundry list of other requirements
+for payment. Universal Health Services, 579 U. S., at 194.
+It played a critical role in PennDOT's ability to achieve the
+essential goal of the contracts: completing the restoration
+projects. It featured prominently in the contracts and in
+the bidding process itself. And petitioners were well aware
+of its importance to PennDOT. After all, they orchestrated
+an entire scheme to hide their noncompliance. The materi-
+ality of petitioners' misstatements is thus hard to dispute,
+even under the Government's more demanding standard.
+B
+It is no answer to suggest that DBE fraud is “rampant.”
+Ante, at 143 (Thomas, J., concurring). “Lots of people do it”
+has never been, nor should be, a defense to criminal liability
+without more. No cited portion of the record, moreover,
+supports the view that PennDOT “regularly pa[id contracts]
+in full despite actual knowledge that [the relevant] require-
+ments were violated,” Universal Health Services, 579 U. S.,
+at 195, or that PennDOT “assume[d] a significant number
+of its contractors violate contract provisions requiring DBE
+compliance,” ante, at 143 (Thomas, J., concurring). If that
+were true, petitioners would have had no reason to develop
+an elaborate scheme to conceal their noncompliance in the
+first place.
+Generic reports from decades prior of “ `serious enforce-
+ment and compliance problems' ” with a federal program do
+not negate the materiality of explicit contractual terms re-
+quiring compliance either. Ibid. (quoting Oversight Hear-
+ing on the Elimination of Waste, Fraud, and Abuse in
+Mandatory Transportation Programs before the House
+Committee on Transportation and Infrastructure, 108th
+Cong., 1st Sess., 109 (2003)). 1 We have never suggested,
+let alone held, that such reports give defendants a get-
+out-of-jail-free card. With good reason: That view relies
+on the premise that, whenever fraud is prevalent, no rea-
+sonable contractor can expect compliance, even where
+the contract expressly deems compliance material. To ac-
+cept that premise is to turn contract law upside down. Par-
+ties explicitly designate contractual terms as material in
+1 Justice Thomas appears to agree. See ante, at 143–144, n. 2. Al-
+though his concurring opinion sets forth “reasons to think that the DBE
+provisions did not go ` “to the very essence of the bargain” ' ” to explain
+his “skeptic[ism] that petitioners' misrepresentations were material,” ante,
+at 136, 141, Justice Thomas later acknowledges that his discussion of
+these reports is intended only to suggest his “materiality analysis might
+apply in different DBE-compliance prosecutions where `materiality is con-
+tested' ” and a different record is developed, ante, at 143–144, n. 2. I do
+not share his view of the proper materiality analysis, but at least all agree
+such reports are irrelevant in this case.
+order to ensure compliance, particularly where the other
+party might not otherwise comply.
+Petitioners would have had similar trouble contesting ma-
+teriality on the ground that, at some point in the future, the
+DBE statutory scheme might be deemed unconstitutional.
+Indeed, petitioners at no pertinent time raised a challenge to
+the DBE program's constitutionality, and the DBE statutory
+scheme remains good law (as it was at the time of petitioners'
+conviction).2 It should go without saying that the law
+should not provide a shield from criminal liability based upon
+personal and unspoken predictions of a law's constitutionality.
+* * *
+At bottom, this case presents a classic scheme to defraud:
+Petitioners tricked PennDOT into paying for one thing, and
+then delivered something materially different. The Court
+today rightly holds that a defendant in that position may not
+escape federal fraud liability by asserting the victim never-
+theless suffered no net economic loss. On that basis, I agree
+with the majority's bottom-line decision to affirm the Third
+Circuit's judgment.
+2 See ante, at 145–146, n. 3 (Thomas, J., concurring) (indicating agree-
+ment that, as a result, petitioners could not have raised a materiality argu-
+ment on this ground).

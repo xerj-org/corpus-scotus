@@ -1,0 +1,38 @@
+TikTok Inc. v. Garland — No. 24-656 — October Term 2024 — decided 1/17/25 — Opinion of Sotomayor, J.
+Citation: 604 U.S. 56
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Government has explained that ByteDance Ltd. uses the
+data it collects to train the TikTok recommendation algo-
+rithm, which is developed and maintained in China. Accord-
+ing to the Government, ByteDance Ltd. has previously de-
+clined to agree to stop collecting U. S. user data or sending
+that data to China to train the algorithm. See 2 App. 705–
+706. The Government has further noted the difficulties as-
+sociated with monitoring data sharing between ByteDance
+Ltd. and TikTok Inc. See id., at 692–697. Under these
+circumstances, we find the Government's data collection jus-
+tification sufficient to sustain the challenged provisions.
+* * *
+There is no doubt that, for more than 170 million Ameri-
+cans, TikTok offers a distinctive and expansive outlet for ex-
+pression, means of engagement, and source of community.
+But Congress has determined that divestiture is necessary
+to address its well-supported national security concerns re-
+garding TikTok's data collection practices and relationship
+with a foreign adversary. For the foregoing reasons, we
+conclude that the challenged provisions do not violate peti-
+tioners' First Amendment rights.
+The judgment of the United States Court of Appeals for
+the District of Columbia Circuit is affirmed.
+It is so ordered.
+Justice Sotomayor, concurring in part and concurring in
+the judgment.
+I join all but Part II–A of the Court's per curiam opinion.
+I see no reason to assume without deciding that the Act im-
+plicates the First Amendment because our precedent leaves
+no doubt that it does.
+TikTok engages in expressive activity by “compiling and
+curating” material on its platform. Moody v. NetChoice,
+LLC, 603 U. S. 707, 731 (2024). Laws that “impose a dispro-
+portionate burden” upon those engaged in expressive activ-

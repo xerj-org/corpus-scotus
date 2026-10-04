@@ -1,0 +1,108 @@
+Sheetz v. El Dorado County — No. 22-1074 — October Term 2023 — decided 4/12/24 — Gorsuch, J., concurring
+Citation: 601 U.S. 267
+Source: https://www.supremecourt.gov/opinions/23pdf/601us2r14_00m5.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+a compensable taking if imposed outside the permitting
+context.
+“A predicate for any unconstitutional conditions claim is
+that the government could not have constitutionally ordered
+the person asserting the claim to do what it attempted to
+pressure that person into doing.” Koontz v. St. Johns River
+Water Management Dist., 570 U. S. 595, 612 (2013). In the
+takings context, Nollan/Dolan scrutiny therefore applies
+only when the condition at issue would have been a compen-
+sable taking if imposed outside the permitting process. See
+Koontz, 570 U. S., at 612 (“[W]e began our analysis in both
+Nollan and Dolan by observing that if the government had
+directly seized the easements it sought to obtain through
+the permitting process, it would have committed a per se
+taking”).
+The question presented in this case did not include that
+antecedent question: whether the traffc impact fee would be
+a compensable taking if imposed outside the permitting con-
+text and therefore could trigger Nollan/Dolan scrutiny.
+The California Court of Appeal did not consider that ques-
+tion and the Court does not resolve it. See ante, at 279–
+280. With this understanding, I join the Court's opinion.
+Justice Gorsuch, concurring.
+George Sheetz sued El Dorado County, alleging that the
+county's actions violated the Takings Clause under the test
+this Court set forth in Nollan v. California Coastal
+Comm'n, 483 U. S. 825 (1987), and Dolan v. City of Tigard,
+512 U. S. 374 (1994). State courts dismissed Mr. Sheetz's
+suit, holding that the Nollan/Dolan test applies only in chal-
+lenges to administrative, not legislative, actions. Today, the
+county essentially confesses error, and the Court corrects
+the state courts' mistake. It does so because our Constitu-
+tion deals in substance, not form. However the government
+chooses to act, whether by way of regulation “ `or statute, or
+ordinance, or miscellaneous decree,' ” it must follow the same
+constitutional rules. Ante, at 278 (quoting Cedar Point
+Nursery v. Hassid, 594 U. S. 139, 149 (2021)).
+The Court notes but does not address a separate question:
+whether the Nollan/Dolan test operates differently when an
+alleged taking affects a “class of properties” rather than “a
+particular development.” Ante, at 280. But how could it?
+To assess whether a government has engaged in a taking by
+imposing a condition on the development of land, the Nollan/
+Dolan test asks whether the condition in question bears an
+“ `essential nexus' ” to the government's land-use interest and
+has “ `rough proportionality' ” to a property's impact on that
+interest. Ante, at 275. Nothing about that test depends on
+whether the government imposes the challenged condition
+on a large class of properties or a single tract or something
+in between. Once more, how the government acts may vary
+but the Constitution's standard for assessing those actions
+does not.
+Our precedents confirm as much. In Nollan, the Califor-
+nia Coastal Commission told the plaintiffs that they could
+build a home on their land only if they accepted an easement
+allowing public access across their property along the beach.
+The plaintiffs argued that the commission's demand
+amounted to a taking without just compensation, and the
+Court agreed. In doing so, the Court acknowledged that the
+commission hadn't singled out the plaintiffs' particular prop-
+erty for special treatment but “had similarly conditioned”
+dozens of other building projects. 483 U. S., at 829. It ac-
+knowledged, too, that the commission's demand of the plain-
+tiffs came about only because of a “ `comprehensive pro-
+gram' ” demanding similar public access easements up and
+down the California coast. Id., at 841. But none of that
+made any difference in the Court's analysis, the test it ap-
+plied, or the conclusion it reached. All that mattered was
+whether the government's action amounted to an uncompen-
+sated taking of the property of the plaintiffs whose case was
+actually before the Court. Id., at 838.
+In Dolan, the Court faced a similar situation and reached
+a similar conclusion. There, an Oregon municipality condi-
+tioned a building permit on the plaintiff 's agreement to dedi-
+cate part of her land to “food control and traffc improve-
+ments.” 512 U. S., at 377. No one suggested that the city
+had targeted the plaintiff's development for special treat-
+ment; everyone agreed that the city's challenged action was
+the result of a “comprehensive land use pla[n],” one devel-
+oped to meet “statewide planning goals.” Ibid. Even so,
+the Court held an “individualized determination” necessary
+to determine whether an unconstitutional taking had oc-
+curred under the same test the Court applied in Nollan.
+512 U. S., at 393.
+The logic of today's decision is entirely consistent with
+these conclusions. The Takings Clause, the Court stresses,
+is no “ `poor relation' to other constitutional rights.” Ante,
+at 279 (quoting Dolan, 512 U. S., at 392). And the govern-
+ment rarely mitigates a constitutional problem by multiply-
+ing it. A governmentally imposed condition on the free-
+dom of speech, the right to assemble, or the right to confront
+one's accuser, for example, is no more permissible when en-
+forced against a large “class” of persons than it is when en-
+forced against a “particular” group. If takings claims must
+receive “like treatment,” ante, at 279, whether the govern-
+ment owes just compensation for taking your property can-
+not depend on whether it has taken your neighbors' prop-
+erty too.
+In short, nothing in Nollan, Dolan, or today's decision
+supports distinguishing between government actions against
+the many and the few any more than it supports distinguish-
+ing between legislative and administrative actions. In all
+these settings, the same constitutional rules apply. With
+that understanding, I am pleased to join the Court's opinion.

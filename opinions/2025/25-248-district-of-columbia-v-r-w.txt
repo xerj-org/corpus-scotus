@@ -1,0 +1,179 @@
+District of Columbia v. R.W. — No. 25-248 — October Term 2025 — decided 4/20/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 608 U.S. 22
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r26_ppl4.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+In this case, the information available to the officer strongly sug-
+gested that R. W. was engaged in unlawful conduct. The appellate
+court below reached a different conclusion by “excis[ing]” facts from the
+analysis, and considering only “the lateness of the hour and the slight
+movement of the car.” In re R. W., 334 A. 3d 593, 597. That approach
+is incompatible with the totality-of-the-circumstances inquiry required
+by the Court's precedents. Based on everything the officer observed
+on the night in question, he drew the “commonsense inference” that
+all three people in the car—including the driver—were trying to hide
+wrongdoing from the police. Glover, 589 U. S., at 381.
+Certiorari granted; 334 A. 3d 593, reversed and remanded.
+Per Curiam.
+In the wee hours of a winter morning in Washington, D. C.,
+District of Columbia Metropolitan Police Officer Clifford
+Vanterpool received a radio dispatch call directing him to
+check out a suspicious vehicle at a specific address. Officer
+Vanterpool reached the apartment building at that address
+around 2:00 a.m. As he turned his marked police vehicle
+into the parking lot, he saw two people immediately fee from
+a car, “unprovoked,” after “[p]olice had not done anything
+other than simply pull up.” App. to Pet. for Cert. 48a. The
+runners left open at least one of the car doors. The driver
+then began to back out of the parking space, rear door
+still open. Officer Vanterpool decided to investigate. He
+parked directly behind the car, left his own vehicle, ordered
+the driver, R. W., to put his hands up, and drew his service
+weapon.
+R. W. raised a “single argument” on appeal—that Officer
+Vanterpool lacked reasonable articulable suspicion sufficient
+to justify the seizure. In re R.W., 334 A. 3d 593, 599 (D. C.
+2025). The District of Columbia Court of Appeals held that
+Officer Vanterpool, by stopping R. W. without reasonable
+suspicion, violated the Fourth Amendment. We disagree.
+When an officer makes a “brief investigatory sto[p] of per-
+sons or vehicles that fall[s] short of [a] traditional arrest,”
+the Fourth Amendment “is satisfied if the officer's action is
+supported by reasonable suspicion to believe that criminal
+activity ` “may be afoot.” ' ” United States v. Arvizu, 534
+U. S. 266, 273 (2002) (quoting United States v. Sokolow, 490
+U. S. 1, 7 (1989)). In assessing whether an officer had rea-
+sonable suspicion, a reviewing court must “look at the `total-
+ity of the circumstances' of each case”—an analysis that pre-
+cludes the “evaluation and rejection” of “factors in isolation
+from each other.” Arvizu, 534 U. S., at 273–274. Because
+the D. C. Court of Appeals departed from these principles—
+and because Officer Vanterpool clearly had reasonable suspi-
+cion to stop R. W.—we reverse.
+I
+Largely based on evidence found after Officer Vanterpool
+told R. W. to put his hands up, the District of Columbia
+charged R. W. (a minor at the time) with unauthorized use
+of a motor vehicle, felony receipt of stolen property, unlawful
+entry of a motor vehicle, and operating a vehicle in the Dis-
+trict of Columbia without a permit. Before trial, R. W.
+moved to suppress the evidence obtained after he was
+stopped. Following a suppression hearing, the trial court
+denied R. W.'s motion, relying on four facts to conclude that
+the officer had reasonable suspicion to stop R. W.: (1) the
+officer had received a radio dispatch call regarding a suspi-
+cious vehicle at a specified address, (2) the officer saw “ `two
+persons fleeing from a vehicle' ” upon his arrival, (3) “ `[i]t
+was almost 2 a.m.,' ” and (4) as the officer approached the
+car, it began “ `backing out of the parking space . . . while
+the rear driver's side door [was] still open.' ” 334 A. 3d, at
+599. After a bench trial, the trial court adjudicated R. W.
+delinquent on all counts and assigned R. W. to one year of
+probation with conditions.
+On appeal, the D. C. Court of Appeals reversed the denial
+of the motion to suppress and vacated the delinquency adju-
+dication.* The court “first assess[ed] the legitimacy and
+weight of each of the factors bearing on reasonable suspi-
+cion” before “weigh[ing] that information all together.” Id.,
+at 600 (internal quotation marks omitted). In the first step
+of this analysis, it held that the trial court had erred by con-
+sidering two factors: the radio dispatch call and the fight of
+R. W.'s companions. It “excis[ed]” those factors from the
+analysis. Id., at 597. It then concluded that, without more,
+the remaining facts—the late hour and the car's movement—
+did not give rise to reasonable suspicion. After the D. C.
+Court of Appeals ruled, the District of Columbia sought
+certiorari.
+II
+The question is whether the facts available to Officer Vant-
+erpool—before he ordered R. W. to put his hands up—war-
+ranted the stop. In other words, we ask whether Officer
+Vanterpool had a reasonable suspicion that R. W. was en-
+gaged in criminal wrongdoing. Sokolow, 490 U. S., at 7–8.
+Such reasonable suspicion arises when, based on the “ `total-
+ity of the circumstances,' ” the detaining officer had a “ `par-
+ticularized and objective basis' ” for suspecting criminal
+wrongdoing. Arvizu, 534 U. S., at 273 (quoting United
+States v. Cortez, 449 U. S. 411, 417 (1981)). Reasonable sus-
+picion “ `depends on the factual and practical considerations
+of everyday life on which reasonable and prudent men, not
+legal technicians, act.' ” Kansas v. Glover, 589 U. S. 376, 380
+(2020) (quoting Prado Navarette v. California, 572 U. S. 393,
+402 (2014)). It permits officers to make “ `commonsense
+judgments and inferences about human behavior.' ” Glover,
+*The District of Columbia conceded that “Officer Vanterpool seized
+R. W. when he first asked R. W. to put his hands up,” so the D. C. Court of
+Appeals decided only “whether the facts then known by Officer Vanterpool
+created an objectively reasonable suspicion that criminal activity was
+afoot.” 334 A. 3d, at 599 (citing Terry v. Ohio, 392 U. S. 1, 21 (1968)).
+589 U. S., at 380–381 (quoting Illinois v. Wardlow, 528 U. S.
+119, 125 (2000)).
+On the facts of this case, Officer Vanterpool clearly had
+reasonable suspicion to stop R. W. Already on alert from
+the late-night dispatch call about a suspicious vehicle, the
+officer observed every person in R. W.'s car respond
+strangely to an approaching police car. Two people took off
+running. We have observed that “unprovoked fight upon
+noticing the police . . . . is certainly suggestive” of wrongdo-
+ing. Id., at 124. The driver, R. W., did not run from the
+car, but his companions' fight cast his presence in a suspi-
+cious light. After all, we have observed that “ `a car passen-
+ger . . . will often be engaged in a common enterprise with
+the driver, and have the same interest in concealing the
+fruits or the evidence of their wrongdoing.' ” Maryland v.
+Pringle, 540 U. S. 366, 373 (2003) (quoting Wyoming v.
+Houghton, 526 U. S. 295, 304–305 (1999)).
+We need not determine whether that connection alone sup-
+ported reasonable suspicion because R. W. was in the driver's
+seat and—after the passengers fed from the car—began
+backing out of the parking space, ignoring the car's open
+back door. For most drivers, it would be a surprising event
+for their back-seat passengers to exit the car and run head-
+long away from them. But we doubt that most would re-
+spond by putting their car into reverse and attempting to
+drive away without at least checking whether the doors were
+closed. R. W.'s own actions—combined with the panicked
+fight of his companions—strongly suggested that he was
+(like them) engaged in unlawful conduct he wished to hide
+from police. See Sibron v. New York, 392 U. S. 40, 66 (1968)
+(recognizing that “deliberately furtive actions and fight at
+the approach of . . . law officers are strong indicia of mens
+rea”).
+III
+The D. C. Court of Appeals reached a different conclusion
+by “excis[ing]” the radio dispatch and the conduct of R. W.'s
+companions from the analysis, and considering only “the late-
+ness of the hour and the slight movement of the car.” 334 A.
+3d, at 597. The totality-of-the-circumstances test, however,
+“precludes this sort of divide-and-conquer analysis.” Ar-
+vizu, 534 U. S., at 274. As our precedents have recognized,
+“the whole is often greater than the sum of its parts—espe-
+cially when the parts are viewed in isolation.” District of
+Columbia v. Wesby, 583 U. S. 48, 60–61 (2018).
+Indeed, this case reveals the perils of reviewing facts
+piecemeal and without context. Take the passengers' fight
+from the car. We have little doubt that, in some circum-
+stances, an officer could not reasonably attribute his suspi-
+cion of a fleeing individual to bystanders milling nearby. Cf.
+Ybarra v. Illinois, 444 U. S. 85, 91 (1979) (recognizing that
+“a person's mere propinquity to others independently sus-
+pected of criminal activity does not, without more, give rise
+to probable cause to search that person”). But the “whole
+picture” here tells a different story. Cortez, 449 U. S., at
+417.
+After watching two people fee from a suspicious car, a
+reasonable officer surely would question the driver's next
+move. Why would the driver hurriedly back up the car
+without even closing a car door left open by his fleeing com-
+panions? Perhaps one could imagine an innocent explana-
+tion for such unusual behavior—the court below, for exam-
+ple, surmised that R. W. “may not even have noticed that his
+companions left the door open.” 334 A. 3d, at 605. “But
+we have consistently recognized that reasonable suspicion
+`need not rule out the possibility of innocent conduct.' ” Na-
+varette, 572 U. S., at 403 (quoting Arvizu, 534 U. S., at 277).
+Based on everything the officer observed on the night in
+question, he drew the “commonsense inference” that all
+three people in the car—including the driver—were trying
+to hide wrongdoing from the police. Glover, 589 U. S., at 381.
+“[T]he Fourth Amendment requires . . . that a court `slosh
+[its] way through' a `factbound morass.' ” Barnes v. Felix,

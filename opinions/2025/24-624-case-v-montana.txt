@@ -1,0 +1,367 @@
+Case v. Montana — No. 24-624 — October Term 2025 — decided 1/14/26 — opinion of the Court — author Kagan (listing code EK)
+Citation: 607 U.S. 107
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r06_19m1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ney General Galeotti, Deputy Solicitor General Feigin, and
+Jenny C. Ellickson.*
+Justice Kagan delivered the opinion of the Court.
+In Brigham City v. Stuart, 547 U. S. 398, 400 (2006), this
+Court held that police officers may enter a home without
+*Briefs of amici curiae urging reversal were fled for America's Future
+et al. by William J. Olson and Jeremiah L. Morgan; for the Cato Institute
+et al. by Matthew P . Cavedon and Brent Skorup; for the Constitutional
+Accountability Center by Elizabeth B. Wydra, Brianne J. Gorod, and
+Brian R. Frazelle; for the Montana Association of Criminal Defense Law-
+yers by Mark S. Davies and David F. Ness; for the National Association
+of Criminal Defense Lawyers et al. by Daniel B. Levin, Jeffrey L. Fisher,
+Cecillia D. Wang, Yasmin Cader, and Brandon Buskey; and for the Proj-
+ect for Privacy & Surveillance Accountability et al. by Gene C. Schaerr,
+Erik S. Jaffe, and Mahesha P . Subbaraman.
+Briefs of amici curiae urging affirmance were fled for the State of
+Michigan et al. by Dana Nessel, Attorney General of Michigan, Ann M.
+Sherman, Solicitor General, B. Eric Restuccia, Deputy Solicitor General,
+and Timothy A. Baughman, Special Assistant Attorney General, and by
+the Attorneys General for their respective jurisdictions as follows: Steve
+Marshall of Alabama, Stephen J. Cox of Alaska, Kris Mayes of Arizona,
+Tim Griffn of Arkansas, Patrick J. Griffn of Connecticut, Kathleen Jen-
+nings of Delaware, Brian L. Schwalb of the District of Columbia, James
+Uthmeier of Florida, Chris Carr of Georgia, Theodore E. Rokita of Indi-
+ana, Brenna Bird of Iowa, Kris W. Kobach of Kansas, Russell Coleman of
+Kentucky, Liz Murrill of Louisiana, Aaron M. Frey of Maine, Anthony G.
+Brown of Maryland, Lynn Fitch of Mississippi, Catherine L. Hanaway of
+Missouri, Michael T. Hilgers of Nebraska, Aaron D. Ford of Nevada, Mat-
+thew J. Platkin of New Jersey, Raúl Torrez of New Mexico, Jeff Jackson
+of North Carolina, Dave Yost of Ohio, Gentner Drummond of Oklahoma,
+Dan Rayfeld of Oregon, Alan Wilson of South Carolina, Marty J. Jackley
+of South Dakota, Jonathan Skrmetti of Tennessee, Ken Paxton of Texas,
+Derek Brown of Utah, Jason S. Miyares of Virginia, Nicholas W. Brown
+of Washington, and John B. McCuskey of West Virginia; for the Local
+Government Legal Center et al. by Nadia A. Sarkis and James R. Nik-
+raftar; and for Michael J. Z. Mannheimer by Richard A. Simpson, Michael J.
+Z. Mannheimer, pro se, F. Andrew Hessick, and Elizabeth Guild Simpson.
+Briefs of amici curiae were fled for the American Psychiatric Associa-
+tion et al. by Aaron M. Panner; for the LONANG Institute by Kerry Lee
+Morgan and Randall A. Pentiuk; and for The Rutherford Institute by
+Michael J. Lockerby and John W. Whitehead.
+a warrant if they have an “objectively reasonable basis for
+believing” that someone inside needs emergency assistance.
+The question presented is whether that standard means that
+officers must have “probable cause” for the intrusion, as they
+typically would when investigating a crime. We hold it does
+not. The probable-cause requirement is rooted in, and de-
+rives its meaning from, the criminal context, and we decline
+to transplant it to this different one. Brigham City's rea-
+sonableness standard means just what it says, with no fur-
+ther gloss. And here it was satisfied because the police had
+“an objectively reasonable basis for believing” that a home-
+owner intended to take his own life and, indeed, may already
+have shot himself.
+I
+This case began with an alarming phone call—from peti-
+tioner William Case to his ex-girlfriend J. H., both residents
+of a small town in Montana. Case told J. H. on the call that
+“he was going to kill himself.” App. 67 (testimony of J. H.).
+Because Case sounded “erratic,” J. H. assumed he had been
+drinking. Ibid. She tried to talk Case out of committing
+suicide, but “couldn't reel him back”: With each passing mo-
+ment, Case “became more methodical about what he was
+going to do.” Id., at 68. Case said that he was “going to
+get a note”—presumably meaning a suicide note, for J. H. or
+others to find. Ibid. And then J. H. heard a “clicking”
+sound, like the “cock[ing of] a gun.” Ibid. J. H. told Case
+she was going to call the police, but that seemed only to
+antagonize him: Case replied “he would shoot them all too.”
+Id., at 69. Finally, J. H. heard “a pop” followed by “noth-
+ing”—“just dead air.” Ibid. She “yelled [Case's] name a
+few times,” but got no response, leading her to think he had
+“pulled the trigger.” Ibid. So she called 9–1–1 to report
+the incident and drove as fast as she could to Case's home.
+Three police officers, dispatched to do “a welfare check on
+a suicidal male,” met J. H. outside the house. Id., at 104
+(testimony of officer). They decided the situation was “very
+serious,” based both on what J. H. told them about the call
+and on what they already knew about Case. Id., at 75, 157.
+The officers were aware that Case had a history of alcohol
+abuse and mental-health issues; that he had previously
+threatened suicide at the school where he worked; and that
+he had once seemed to attempt “suicide-by-cop,” by confront-
+ing the police in a way that was likely to provoke a lethal
+response. So the three officers requested that the chief of
+police come to the scene. While waiting for him, they cir-
+cled the house looking for signs of injury or danger. They
+knocked on the doors and yelled into an open window, but
+got no response. Shining their fashlights inside, they could
+make out empty beer cans, an empty handgun holster, and a
+notepad with writing on it, which they took to be the suicide
+note Case had mentioned to J. H. At that point, however,
+they saw no sign of Case.
+Once the chief came, the officers conferred and decided to
+enter the house “to render emergency aid.” Id., at 198. In
+the best-case scenario, they hoped to “talk [Case] down” and
+prevent any injury. Id., at 174. But given J. H.'s account,
+the officers considered as well another possibility—that Case
+had already shot himself and might be “in there bleeding.”
+Id., at 85. At the same time, they worried that if Case re-
+mained unharmed, their entry could spark a confrontation.
+See id., at 174, 192–193. So they equipped themselves with
+long-barrel guns and a ballistic shield before going in.
+The officers entered the house through the front door,
+about 40 minutes after they first arrived. They announced
+themselves loudly, and continued to call out as they walked
+through the home. Case did not answer; he was hiding in
+the closet of a bedroom upstairs. When one of the officers
+entered that room, Case threw open the closet curtain and
+appeared from behind it, holding “a black object” which
+looked like a gun. Id., at 194. Fearing that he was about
+to be shot, the officer fred his own rife. The bullet hit Case
+in the abdomen, and another officer rushed to administer first
+aid. An ambulance was called to take Case to the nearest
+hospital (where he recovered). Meanwhile, one of the off-
+cers found a handgun in a laundry basket next to the place
+where Case had stood.
+The county attorney charged Case with assaulting a police
+officer. Case moved to suppress all evidence obtained as a
+result of the home entry, arguing that the police had violated
+the Fourth Amendment by coming into his house without a
+warrant. The trial court denied the motion on the ground
+that the police officers were responding legitimately to an
+“emergency.” App. to Pet. for Cert. 42a. A Montana jury
+then found Case guilty of the crime charged.
+On appeal, a divided Montana Supreme Court upheld the
+trial court's ruling that the officers' entry was lawful. The
+majority analyzed the issue under its “community caretaker
+doctrine.” 553 P. 3d 985, 990 (Mont. 2024). It noted that a
+recent Fourth Amendment decision of this Court, Caniglia v.
+Strom, 593 U. S. 194, 198 (2021), had rejected a “community
+caretaking rule” allowing a warrantless home entry even ab-
+sent a “need to render emergency assistance” to an occupant.
+But the Montana court thought its community-caretaker doc-
+trine survived that holding because it demanded such an
+emergency. Under that doctrine, the court explained, police
+could enter a home to do a “welfare check” only when “objec-
+tive, specific and articulable facts” would lead an “experi-
+enced officer [to] suspect” that a person inside “is in need of
+help or is in peril.” 553 P. 3d, at 990, 991. And the court
+found that facts meeting that description existed here be-
+cause of the likelihood of suicide. See id., at 994. The court
+rejected Case's alternative standard: that a police officer
+must have “probable cause to believe” the occupant in need
+of emergency aid. Id., at 992. The “probable cause” locu-
+tion, the court suggested, applies only when the police are
+“engaged in a criminal investigation.” Ibid. The dissent-
+ing justices, by contrast, favored the proposed probable-
+cause rule, which they concluded the officers here did not
+satisfy. See id., at 996, 998 (opinion of McKinnon, J.). In
+the dissent's view, the court's different approach resembled
+the “mere reasonable suspicion” standard applicable to com-
+paratively non-invasive street stops. Id., at 999. That
+standard, the dissent thought, was too easily met to support
+a warrantless entry into a home. See id., at 996, 999.
+We granted certiorari, 605 U. S. 968 (2025), because courts
+have differed on whether police officers entering a home to
+provide emergency aid need “probable cause” to believe that
+an occupant is in peril.* We conclude that standard, bor-
+rowed from the criminal context, is inapt. We instead hold
+just what we have held before: that the officers may enter if,
+but only if, they have an “objectively reasonable basis for
+believing” that an occupant faces serious danger. Brigham
+City, 547 U. S., at 400.
+II
+The Fourth Amendment provides that “[t]he right of the
+people to be secure in their persons, houses, papers, and ef-
+flects, against unreasonable searches and seizures, shall not
+be violated.” At the “very core” of that guarantee, as this
+Court has often stated, stands “the right of a man to retreat
+into his own home and there be free from unreasonable gov-
+ernmental intrusion.” Caniglia, 593 U. S., at 198 (quoting
+Florida v. Jardines, 569 U. S. 1, 6 (2013)). When the intru-
+sion is into that most private place, “reasonableness” usually
+means having a warrant. Brigham City , 547 U. S., at 403
+(“It is a basic principle of Fourth Amendment law that
+searches and seizures inside a home without a warrant are
+presumptively unreasonable”). “But not always: The war-
+*Compare, e. g., Estate of Chamberlain v. White Plains, 960 F. 3d 100,
+105 (CA2 2020) (requiring probable cause); United States v. Cooks, 920
+F. 3d 735, 742 (CA11 2019) (same); Corrigan v. District of Columbia, 841
+F. 3d 1022, 1030 (CADC 2016) (same), with, e. g., Hill v. Walsh, 884 F. 3d
+16, 23 (CA1 2018) (not requiring probable cause); United States v. Quarter-
+man, 877 F. 3d 794, 800 (CA8 2017) (same); United States v. Gambino-
+Zavala, 539 F. 3d 1221, 1225 (CA10 2008) (same).
+rant requirement is subject to certain exceptions.” Lange
+v. California, 594 U. S. 295, 301 (2021). And among those is
+one pertinent here, involving the need to provide an occu-
+pant with emergency aid.
+This Court first approved a warrantless home entry to ren-
+der emergency assistance in Brigham City . There, police
+officers responding to a noise complaint observed through a
+kitchen window a physical altercation between an adolescent
+and several adults. As they watched, the teenager punched
+one of the adults in the face, “sending [him] to the sink spit-
+ting blood.” 547 U. S., at 406. The officers immediately
+entered the home through a nearby screen door and, an-
+nouncing their presence, caused the fight to cease. We
+unanimously approved the warrantless entry as “reasonable
+under the circumstances.” Ibid. And we explained what
+made it so: The officers had “an objectively reasonable basis
+for believing that an occupant [was] seriously injured or im-
+minently threatened with such injury.” Id., at 400.
+Three years later, in Michigan v. Fisher, we reiterated
+what we had said in Brigham City about the “emergency aid
+exception.” 558 U. S. 45, 47 (2009) (per curiam ). The po-
+lice in Fisher, also responding to a neighbor's report, found a
+scene redolent of violence and danger. Three windows were
+broken, with the glass strewn on the ground outside; blood
+was smeared on one of the doors, as well as on the smashed-
+in hood of a pickup truck in the driveway; and, visible
+through a window, a man inside the house was “screaming
+and throwing things” at an unseen target. Id., at 48. We
+held that the officers' entry in those circumstances was “rea-
+sonable under the Fourth Amendment,” just as it had been in
+Brigham City . 558 U. S., at 48. Using the same standard
+articulated there, we concluded that the officers had “an ob-
+jectively reasonable basis for believing” that an occupant of
+the home needed immediate aid. Id., at 47 (quoting Brig-
+ham City, 547 U. S., at 406).
+Finally, in Caniglia, we reaffirmed Brigham City even as
+we rejected a broader “community caretaking” justification
+for warrantless home entries. The police had gone to Ed-
+ward Caniglia's home after his wife reported that he was
+suicidal. Caniglia spoke with the officers on his front porch
+and agreed to go to a hospital for psychiatric testing. Then,
+once he had left, the officers went inside and took away two
+handguns he owned. The lower courts approved the entry
+on the ground that the officers were performing “community
+caretaking functions.” 593 U. S., at 196. But we declined
+to recognize such an “open-ended license” for law enforce-
+ment officers to enter private homes. Id., at 199. Citing
+Brigham City , we readily acknowledged that officers may
+enter a home to “render emergency assistance to an injured
+occupant or to protect an occupant from imminent injury.”
+593 U. S., at 198. But such emergency conditions were in-
+deed necessary and, given the facts, the officers had never
+tried to defend their entry on that basis.
+The Montana Supreme Court's opinion strayed from the
+Fourth Amendment rule that trio of decisions sets out. To
+begin with, the court's use of “community caretaker” doc-
+trine was ill-advised, given that Caniglia contrasted “com-
+munity caretaking” with “render[ing] emergency assistance”
+and concluded that the former cannot alone justify a war-
+rantless home entry. Ibid. The Montana court, to be sure,
+tried to reconcile its approach with Caniglia by depicting its
+community-caretaker rule as allowing home entries only in
+emergencies. See 553 P. 3d, at 991. But using terminology
+that this Court has held misplaced in home-entry cases could
+serve only to confuse the issue. And yet more fundamental,
+the emergency-aid test incorporated in Montana's caretaker
+doctrine is different from the one adopted in Brigham City.
+As noted above, Montana's test finds a home entry “reason-
+able” when an officer has “specific and articulable facts” from
+which to “suspect” that someone needs help. 553 P. 3d, at
+991; see supra, at 112. That test's language, as the dissent-
+ing justices noted, evokes the Fourth Amendment standard
+applying to brief, investigative street stops: “reasonable sus-
+picion” based on “specific and articulable facts.” United
+States v. Sokolow, 490 U. S. 1, 7 (1989); Terry v. Ohio, 392
+U. S. 1, 21 (1968); 553 P. 3d, at 999 (McKinnon, J.). But Brig-
+ham City did not adopt Terry's reasonable-suspicion stand-
+ard for home entries, as both the State of Montana and the
+United States as amicus curiae acknowledge. See Tr. of
+Oral Arg. 56, 68–69, 80. Rather, Brigham City formulated
+its own standard for dealing with household emergencies—
+again, whether an officer has “an objectively reasonable basis
+for believing” that an occupant is seriously injured or immi-
+nently threatened with such harm. 547 U. S., at 400.
+Case, however, wants something more. He recognizes
+that the Brigham City test applies here, and that it has had
+but one formulation: In describing and applying that stand-
+ard, we have never used any different terms. See Brief for
+Case 24. But still, Case urges us now to understand the
+Brigham City test as “sound[ing] in probable cause.” Brief
+for Case 15, 24. What the test really requires, Case con-
+tends, is that police officers “have probable cause to believe
+[an occupant is] seriously injured or imminently threatened
+with such injury.” Id., at 2. Case reaches that conclusion
+based mainly on the Fourth Amendment's recognition of the
+“sanctity of the home.” Id., at 29. Given that special sta-
+tus, he argues, a home entry's aid-giving, “noninvestigatory
+purpose” should make no difference: The same probable-
+cause principles used in deciding whether “criminal activity
+[is] afoot” should apply as well in “assessing the risk and
+gravity of an emergency.” Reply Brief 1–2, 8, 16.
+We decline Case's invitation to put a new probable-cause
+spin onto Brigham City . “[T]he probable-cause standard,”
+this Court has often stated, “is peculiarly related to criminal
+investigations.” Treasury Employees v. Von Raab , 489
+U. S. 656, 667 (1989) (quoting Colorado v. Bertine, 479 U. S.
+367, 371 (1987)). The standard's history is “rooted” in the
+“criminal investigatory context.” O'Connor v. Ortega, 480
+U. S. 709, 723 (1987) (plurality opinion); see Henry v. United
+States, 361 U. S. 98, 100–102 (1959). And the standard has
+acquired meaning over time by virtue of that context, as
+judges have assessed, in case after case, the requisite likeli-
+hood of finding criminal contraband or evidence. See, e. g.,
+Illinois v. Gates, 462 U. S. 213, 238–239 (1983). The result-
+ing body of law would ft awkwardly, if at all, in the non-
+criminal, non-investigatory setting at issue here. So Brig-
+ham City adopted a different approach. Rather than strain
+to relate probable-cause decisions to emergency-aid situa-
+tions, we asked simply whether an officer had “an objectively
+reasonable basis for believing” that his entry was direly
+needed to prevent or deal with serious harm. 547 U. S., at
+400. In adhering to that question, we respect as ever the
+“first among equals” status the Fourth Amendment affords
+the home. Jardines, 569 U. S., at 6; see Caniglia, 593 U. S.,
+at 198–199. And in that vein, we note that an emergency-
+aid entry provides no basis to search the premises beyond
+what is reasonably needed to deal with the emergency while
+maintaining the officers' safety. But we assess the reason-
+ableness of that limited entry on its own terms, rather than
+through the lens generally used to consider investigative
+activity.
+Doing so here yields a ready conclusion: The officers had,
+as Brigham City requires, an “objectively reasonable basis
+for believing” that their intervention was needed to prevent
+serious harm. As earlier described, the officers knew first-
+hand that Case suffered from mental-health and alcohol-
+abuse problems, and that he had previously talked about
+committing suicide. See supra, at 111. When they reached
+Case's house, they learned about J. H. and Case's just con-
+cluded phone call—that Case, in an apparently inebriated
+state, threatened to kill himself, spoke of preparing a suicide
+note, and quite possibly cocked or even shot a gun before the
+line went dead. The concerns that call raised were height-
+ened by what the officers could see through the windows—
+empty beer cans, an empty holster, and a notepad—as well
+as by Case's failure to respond to their urgent knocking. If
+Case had already shot himself, he could have been severely
+injured and in need of immediate medical care. And if he
+had not, the risk of suicide remained acute, given all the facts
+then known to the officers. It was thus objectively reason-
+able for the police to believe that Case needed emergency
+aid.
+Case counters that only the police entry itself created a
+“likely danger.” Brief for Case 45. His argument turns on
+the prospect of suicide-by-cop. As noted earlier, Case had
+once before acted in a way seemingly designed to provoke a
+lethal police response, as the officers knew. See supra, at
+111. And J. H. told the officers that Case had threatened to
+“shoot them all too” if they came to the scene. Supra, at
+110. So the “main risk the officers objectively faced,” Case
+posits, was that “their very entry would induce” a shoot-
+out, leading to a “suicide-by-cop.” Brief for Case 18. And
+indeed, Case contends, the officers knew that: Why else
+would they have “waited roughly 40 minutes after their ar-
+rival” before entering his home? Id., at 43. Case concludes
+that if the officers had only left well enough alone, nothing
+would have happened.
+But Case much oversimplifes a complex situation. The
+objective reasonableness of an officer's conduct under Brig-
+ham City, as in other Fourth Amendment contexts, is evalu-
+ated by looking at the “totality of the circumstances.” E. g.,
+Barnes v. Felix, 605 U. S. 73, 80 (2025); Ohio v. Robinette,
+519 U. S. 33, 39 (1996). One of those circumstances was no
+doubt that Case could provoke a confrontation. As noted
+earlier, that was partly why the officers called the police
+chief to the scene and why they carefully considered protec-
+tive measures—leading to some delay in their entry. See
+supra, at 111. But there is no basis for thinking that the offi-

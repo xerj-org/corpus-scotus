@@ -1,0 +1,291 @@
+National Park Service v. National Trust for Historic Preservation in the United States — No. 26A203 — October Term 2025 — decided 8/31/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 609/2
+Source: https://www.supremecourt.gov/opinions/25pdf/26a203_2b8e.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+Per Curiam
+SUPREME COURT OF THE UNITED STATES
+No. 26A203
+NATIONAL PARK SERVICE, ET AL. v. NATIONAL
+TRUST FOR HISTORIC PRESERVATION IN THE
+UNITED STATES
+ON APPLICATION FOR STAY
+ [August 31, 2026]
+ PER CURIAM.
+In October 2025, the federal government started a project
+to replace the East Wing of the White House.  The first
+phase involved the demolition of the existing East Wing,
+something the government completed in December 2025.
+The next phase, currently ongoing, involves the construc-
+tion of a new East Wing, including a below-ground military
+installation and an above-ground ballroom.
+The National Trust for Historic Preservation in the
+United States (Trust) filed a lawsuit in federal district court
+challenging various aspects of the project.  As part of its
+suit, the Trust filed a motion on March 5, 2026, seeking a
+preliminary injunction. The injunction the Trust sought fo-
+cused not on the already-comp leted demolition of the old
+East Wing but on halting the ongoing construction of a new
+one.
+On March 31, 2026, the district court granted the Trust’s
+motion and issued a preliminary injunction. As later clari -
+fied, the injunction essentially permitted the government to
+continue work on the new below-ground military installa-
+tion but enjoined any further construction above ground,
+except as “strictly necessary” to protect the White House,
+the President, and his staff. App. to Application 231a–
+233a.
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+Per Curiam
+On April 17, 2026, the United States Court of Appeals for
+the District of Columbia Circuit stayed the district court’s
+injunction, effectively allowi ng construction to proceed,
+while it considered the government’s appeal.  On August 7,
+2026, the court of appeals resolved that appeal and upheld
+the district court’s injunction. At the same time, the court
+indicated that its existing stay would expire on August 21,
+2026, and the district court’s injunction would thus take ef-
+fect.
+Confronted with an imminent order requiring it to sub-
+stantially halt its ongoing cons truction activities, the gov-
+ernment filed a motion in this Court seeking a stay of the
+district court’s injunction pe nding a forthcoming petition
+for a writ of certiorari and any further proceedings in this
+Court. Application 1.  THE CHIEF JUSTICE issued an admin-
+istrative stay to facilitate review of the government’s appli-
+cation and referred the matter to the Court.
+We grant the requested stay.  The government has estab-
+lished that it is likely to succeed on the merits of a signifi-
+cant legal question, that it would likely suffer irreparable
+harm without a stay, and that the balance of equities tips
+in its favor.
+I
+Beginning with the merits, the government is likely to
+prevail in showing that the Trust lacks standing to chal -
+lenge the East Wing project.  To secure standing to sue in
+federal court consistent with Article III of the Constitution,
+a plaintiff must establish that it has suffered an “injury in
+fact”—that is, the “invasion of a legally protected interest.”
+Lujan v. Defenders of Wildlife, 504 U. S. 555, 560 (1992) (in-
+ternal quotation marks omitted). Further, the plaintiff
+must demonstrate that its injury is “(a) concrete and par -
+ticularized . . . and (b) actual or imminent.”  Ibid. (internal
+quotation marks omitted); see also TransUnion LLC  v.
+
+3  Cite as: 609 U. S. ____ (2026)
+Per Curiam
+Ramirez, 594 U. S. 413, 423 (2021) (“injury in fact” must be
+“concrete, particularized, and actual or imminent”).
+To establish its standing to bring this case, the Trust re-
+lies on a declaration from a single of its members, Alison K.
+Hoagland.  Hoagland says that she lives in Washington,
+D. C., and expects to visit the neighborhood around the
+White House “about once a month.” App. to Application
+73a–74a. She asserts that having to view the finished ball-
+room the government is constructing would cause her to
+suffer “injuries” to her “aesthetic, cultural, and historical
+interests” because she finds the “scale,” “height,” and
+“massing” of the government’s design distasteful. Id., at
+75a. On the strength of that declaration, the Trust con-
+tends, it has Article III standing to challenge the East Wing
+project.
+This Court has not found standing in circumstances like
+these before. To the contrary, we have repeatedly held that
+mere offense, disagreement, or distaste does not qualify as
+a concrete and particularized injury under Article III. As
+we have put it, “this Court has long made clear that distress
+at or disagreement with the activities of others is not a basis
+under Article III for a plaintiff to bring a federal lawsuit.”
+FDA v. Alliance for Hippocratic Medicine, 602 U. S. 367,
+390, n. 3 (2024).  Instead, to secure standing a plaintiff must
+identify some concrete and particularized injury “other
+than the psychological consequence presumably produced
+by observation of conduct with which one disagrees.” Valley
+Forge Christian College v. Americans United for Separation
+of Church and State, Inc., 454 U. S. 464, 485 (1982); see also
+Schlesinger v. Reservists Comm. to Stop the War , 418 U. S.
+208, 227 (1974) (rejecting “the idea that generalized citizen
+interest is a sufficient basis for standing”); United States v.
+Richardson, 418 U. S. 166, 177 (1974) (“genuine interest”
+alone cannot satisfy the “particular concrete injury” re -
+quirement).
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+Per Curiam
+Nor is it clear what would remain of Article III’s concrete-
+and-particularized injury requirement if we were to extend
+our case law in the manner the Trust now suggests.  Per-
+haps nearly any government action or project offends some-
+one’s sensibilities.  And adopting the Trust’s “unprece-
+dented and limitless” view that offense alone suffices to
+establish a concrete and particularized injury would seem-
+ingly usher in a world where “virtually every citizen had
+standing to challenge virtually every government action
+that they do not like—an approach to standing that this
+Court has consistently rejected as flatly inconsistent with
+Article III.” Alliance, 602 U. S., at 391–392.  Absent some
+considerable revision to our existing standing doctrine,
+then, the government is likely to succeed on the merits.
+To be sure, and as the Trust observes, we have found
+standing in certain environmental cases where the plain-
+tiff ’s injuries involved more than mere offense.  See Oppo-
+sition to Application 25; post, at 3–6 (R OBERTS, C. J., dis-
+senting). So, for example, in Friends of the Earth, Inc. v.
+Laidlaw Environmental Services (TOC), Inc., 528 U. S. 167
+(2000), we found standing where the plaintiffs alleged that
+“harmful pollutants” the defendant discharged into a river
+forced them to abandon “fish[ing], camp[ing], swim[ming],
+and picnic[king] in and near the river” as they had in the
+past. Id., at 181–183. And in Summers v. Earth Island In-
+stitute, 555 U. S. 488 (2009), we noted the government’s
+concession that one member of the plaintiff organization
+previously had standing to sue for injuries to his “recrea-
+tional interests” in a national forest before ultimately deny-
+ing standing because a partial settlement left no member
+with a concrete and imminent injury. Id., at 494–496.
+None of this, however, helps the Trust because none of it
+unseats this Court’s long-held view that Article III standing
+is unavailable where, as here, the only injury a plaintiff as-
+serts stems from offense, disagreement, or distaste.  Alli-
+ance, 602 U. S., at 390, n. 3.
+
+5  Cite as: 609 U. S. ____ (2026)
+Per Curiam
+Separately, the Trust points to Lujan’s statement that
+the “desire to . . . observe an animal species, even for purely
+esthetic purposes,” can constitute “a cognizable interest for
+purpose of standing.”  504 U. S., at 562–563; see also Sum-
+mers, 555 U. S., at 494 (similar).  And the Trust reasons
+that, if the desire to view a “particular crocodile” qualifies
+as a cognizable interest for purposes of Article III standing,
+Hoagland’s desire to view a new East Wing characterized
+by more “stately simplicity” than the government proposes
+must as well.  See post, at 3 (opinion of ROBERTS, C. J.) (in-
+ternal quotation marks omitted); Opposition to Application
+25–26. But none of this helps the Trust either. Proceeding
+to reject the plaintiffs’ claim to standing, Lujan  stressed
+that a cognizable interest is a necessary component of
+standing but not a sufficient one: Article III “requires more
+than an injury to a cognizable interest.” 504 U. S., at 563
+(internal quotation marks omitted). Among other things, a
+plaintiff must also show that its claimed injury is “concrete
+and particularized.”  Id., at 560; see also TransUnion LLC,
+594 U. S., at 423.  And, again, as our precedents have re-
+peatedly held, a plaintiff ’s “distress at or disagreement
+with” a defendant’s actions does not clear that bar.  Alli-
+ance, 602 U. S., at 390, n. 3.
+Finally, the Trust replies that, even if this rule routinely
+applies in cases brought by ordinary citizens and taxpayers,
+it should not apply in this case.  It should not, the Trust
+argues, because Hoagland is “not just any person,” post, at
+6 (opinion of R OBERTS, C. J.), but someone who possesses
+“focused and substantiated” ex pertise in historic architec-
+ture, post, at 3; see also Opposition to Application 26.  Our
+standing rules, however, contain no such special carveout.
+Article III standing, we have consistently held, “is not
+measured by the intensity of the litigant’s interest,” Valley
+Forge Christian College, 454 U. S., at 486, or by a litigant’s
+“special interest in the subject,” Lujan, 504 U. S., at 563
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+Per Curiam
+(quoting Sierra Club v. Morton, 405 U. S. 727, 739 (1972);
+brackets omitted).
+II
+The government has also established that it will likely
+suffer irreparable harm from the district court’s injunction
+and that the balance of the equities tips in its favor.
+Start with this.  The district court likely exceeded its Ar-
+ticle III authority to enjoin the activities of a coordinate
+branch of government. Cf. Trump v. CASA, Inc., 606 U. S.
+831, 859 (2025). And courts may not exceed the bounds of
+their lawful authority simply because they may think an -
+other branch has exceed ed its own.  See Lujan, 504 U. S.,
+at 560 (Article III’s standing requirements help define
+“those disputes which are appropriately resolved through
+the judicial process” rather than in the political arena (in-
+ternal quotation marks omitted)); Alliance, 602 U. S., at
+379 (federal courts do not “operate as an open forum for cit-
+izens to press general complaints about the way in which
+government goes about its business” (internal quotation
+marks omitted)).
+Nor is that all.  The government has also presented dec-
+larations from the Director of National Intelligence, the Di-
+rector of the Central Intelligence Agency, the Director of the
+Federal Bureau of Investigation, the Director of the United
+States Secret Service, and the Secretary of State, the Sec-
+retary of Homeland Security, and the Secretary of the
+Army, among others, attesting to national security and
+other harms that would likely arise from enjoining a “sin -
+gle, coherent” project that c annot be readily cleaved into
+distinct below- and above-ground pieces.  See, e.g., App. to
+Application 229a, 246a–247a, 397a–398a, 426a–429a,
+431a–433a, 437a–439a. The Secretary of the Army, for ex-
+ample, represents that “[t]he height and mass” of the
+planned above-ground ballroom are “crucial” to shield the
+planned underground military installation “from kinetic
+
+7  Cite as: 609 U. S. ____ (2026)
+Per Curiam
+impacts,” and that, without such height and mass, “engi-
+neers would need to dig impractically deep.” Id., at 247a.
+Of course, the district court’s injunction does not com-
+pletely preclude above-ground  construction and might be
+read to afford the government sufficient leeway to revise its
+construction plans and install some form of protective cover
+over the below-ground military installation.  See id., at
+232a–233a (permitting above-ground construction “strictly
+necessary” for security purposes); see also post, at 6, n.*
+(opinion of ROBERTS, C. J.).  But none of that calls into ques-
+tion the government’s declarations attesting that construct-
+ing something approximating the height and mass of the in-
+tended above-ground ballroom is “crucial” to the security of
+the below-ground military installation, App. to Application
+247a; that every day during which construction is delayed
+impairs the Secret Service’s “protective operations,” id., at
+229a, 428a–429a; that the contemplated ballroom would
+enhance security for Presidents and their visitors who in
+the past have had to meet in soft tents or offsite when gath-
+ering in large numbers, id., at 116a–117a, 397a–398a, 420a;
+that a prolonged construction period increases the risk of
+foreign actors “gathering intelligence on” the project, id., at
+437a–439a; or that freezing construction would risk signif-
+icant “construction-related problems” ranging from con -
+cerns about how to secure the structural integrity of a par-
+tially completed superstructure to the possibility of having
+to delay the installation of infrastructure “required to make
+below-ground facilities operational,” id., at 443a, 445a–
+446a.
+Meanwhile, on the other side of the ledger and against
+these harms, the only harm the Trust claims is the offense
+one of its members will suffer from having to view a struc-
+ture of the “scale,” “height,” and “massing” the government
+intends. Id., at 75a. These harms and equities are not
+nearly in equipoise. See Winter v. Natural Resources De -
+fense Council, Inc. , 555 U. S. 7, 25–26 (2008) (vacating
+
+HISTORIC PRESERVATION IN THE UNITED STATES
+Per Curiam
+preliminary injunction where the plaintiffs’ “ecological, sci-
+entific, and recreational inte rests” were “plainly out -
+weigh[ed]” by the Navy’s operational needs).
+* * *
+Today, we do not pass upon the legality of the govern-
+ment’s East Wing project.  We conclude only that, based on
+the submissions before us, the government is likely to pre-
+vail in showing that the Trust lacks Article III standing to
+challenge the project in federal court and that the remain-
+ing stay factors favor relief.  Accordingly, the application for
+stay presented to T HE CHIEF JUSTICE and by him referred
+to the Court is granted.  The injunction entered by the
+United States District Court for the District of Columbia in
+case No. 1:25–cv–04316 is stayed pending the filing and dis-
+position of the government’s petition for a writ of certiorari,
+if such writ is timely sought .  Should certiorari be denied,
+this stay shall terminate automatically.  In the event certi-
+orari is granted, the stay shall terminate upon the sending
+down of the judgment of this Court.
+It is so ordered.

@@ -1,0 +1,52 @@
+Thompson v. United States — No. 23-1095 — October Term 2024 — decided 3/21/25 — Jackson, J., concurring
+Citation: 604 U.S. 408
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r18_9p6b.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+and our decision in this case does not necessitate any
+change.
+Finally, the question that the Seventh Circuit must ad-
+dress on remand is narrow. Although the Court of Appeals
+affirmed petitioner's conviction on the ground that his state-
+ments were “misleading,” the trial judge gave no such in-
+struction to the jury. Petitioner did not object to the judge's
+§ 1014 instructions below, and he does not challenge them
+here. Instead of basing his request for reversal on instruc-
+tional error, he moved after trial for a judgment of acquittal
+based on insufficient evidence. See Fed. Rule Crim.
+Proc. 29(c). Thus, the applicable test on remand is whether,
+viewing the evidence in the light most favorable to the Gov-
+ernment, any rational fnder of fact could conclude beyond a
+reasonable doubt that petitioner's statements were false in
+context. See Jackson v. Virginia, 443 U. S. 307, 318–319
+(1979); United States v. Armbruster, 48 F. 4th 527, 531
+(CA7 2022).
+With these observations, I join the Court's opinion.
+Justice Jackson, concurring.
+I agree with the Court's conclusion that 18 U. S. C. § 1014
+criminalizes only false statements. Ante, at 418. I write
+separately to note that the pre-verdict instructions the Dis-
+trict Court provided to the jury in this case did not say oth-
+erwise. That is, while the lower courts may have misunder-
+stood the scope of § 1014, the jury was properly instructed
+that it could find Thompson guilty only if the prosecution
+proved beyond a reasonable doubt that Thompson “made the
+charged false statement[s].” App. 157–158. For count two,
+the jury specifically found that Thompson made all of the
+statements alleged. Id., at 160. Moreover, and impor-
+Instr. § 4.18.1014 (CA1 2024); Model Crim. Jury Instr. § 6.18.1014 (CA8
+2023). And it appears that none of the pattern jury instructions mentions
+“misleading” statements. See 2 L. Sand et al., Modern Federal Jury
+Instructions–Criminal ¶37.03 (2024).
+tantly, the jury was not advised that § 1014 “criminalizes
+misleading representations,” 89 F. 4th 1010, 1016 (CA7 2024),
+as was mistakenly required by the Seventh Circuit precedent
+the Court rejects today.
+Thus, in my view, there is little for the Seventh Circuit
+to do on remand but affirm the District Court's judgment
+upholding the jury's guilty verdict. Whether Thompson's
+statements were, in fact, false is a question for the jury—
+and here, one the jury has already answered. At most, then,
+the Seventh Circuit can properly assess whether any reason-
+able jury could have found that Thompson's statements satis-
+fed § 1014's falsity element. On this record, I think that
+legal issue is not subject to reasonable debate.

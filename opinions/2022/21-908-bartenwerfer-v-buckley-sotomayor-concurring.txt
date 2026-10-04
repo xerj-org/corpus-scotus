@@ -1,0 +1,46 @@
+Bartenwerfer v. Buckley — No. 21-908 — October Term 2022 — decided 2/22/23 — Sotomayor, J., concurring
+Citation: 598 U.S. 69
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r5_1b72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(4th ed. 2022). Thus, victims have a variety of antecedent
+defenses at their disposal that, if successful, protect them
+from acquiring any debt to discharge in a later bankruptcy
+proceeding.
+All of this said, innocent people are sometimes held liable
+for fraud they did not personally commit, and, if they declare
+bankruptcy, § 523(a)(2)(A) bars discharge of that debt. So it
+is for Bartenwerfer, and we are sensitive to the hardship
+she faces. But Congress has “evidently concluded that the
+creditors' interest in recovering full payment of debts” ob-
+tained by fraud “outweigh[s] the debtors' interest in a com-
+plete fresh start,” Grogan v. Garner, 498 U. S. 279, 287
+(1991), and it is not our role to second-guess that judgment.
+III
+We affirm the Ninth Circuit's judgment that Kate Bar-
+tenwerfer's debt is not dischargeable in bankruptcy.
+It is so ordered.
+Justice Sotomayor, with whom Justice Jackson joins,
+concurring.
+The Court correctly holds that 11 U. S. C. § 523(a)(2)(A)
+bars debtors from discharging a debt obtained by fraud of
+the debtor's agent or partner. Congress incorporated into
+the statute the common-law principles of fraud, Husky Int'l
+Electronics, Inc. v. Ritz, 578 U. S. 356, 360 (2016) (citing
+Field v. Mans, 516 U. S. 59, 69 (1995)), which include agency
+and partnership principles, ante, at 76. This Court long ago
+confirmed that reading when it held that fraudulent debts
+obtained by partners are not dischargeable, Strang v.
+Bradner, 114 U. S. 555, 559–561 (1885), and Congress “em-
+braced” that reading when it amended the statute in 1898,
+ante, at 81.
+The Bankruptcy Court found that petitioner and her hus-
+band had an agency relationship and obtained the debt at
+issue after they formed a partnership. Because petitioner
+does not dispute that she and her husband acted as partners,
+the debt is not dischargeable under the statute.
+The Court here does not confront a situation involving
+fraud by a person bearing no agency or partnership relation-
+ship to the debtor. Instead, “[t]he relevant legal context”
+concerns fraud only by “agents” and “partners within the
+scope of the partnership.” Ante, at 76. With that under-
+standing, I join the Court's opinion.

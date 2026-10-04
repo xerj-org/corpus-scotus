@@ -1,0 +1,862 @@
+Bowe v. United States — No. 24-5438 — October Term 2025 — decided 1/09/26 — Gorsuch, J., dissenting
+Citation: 607 U.S. 13
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r04_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+last say when the panel properly performs its gatekeeping
+function. But when the panel goes through the wrong pro-
+cedures (as it did in Castro) or applies the wrong criteria (as
+it did here), it has not made the requisite “grant or denial of
+an authorization” that § 2244(b)(3)(E) insulates from further
+review.
+For that reason, in my view, even if Congress had spoken
+more clearly about § 2244(b)(3)(E)'s application to federal
+prisoners, the panel's mistaken dismissal—instead of de-
+nial—of Bowe's petition makes § 2244(b)(3)(E) patently
+inapplicable.
+Justice Gorsuch, with whom Justice Thomas and Jus-
+tice Alito join, and with whom Justice Barrett joins as
+to Part I, dissenting.
+Under the Antiterrorism and Effective Death Penalty Act
+of 1996 (AEDPA), courts of appeals serve an important gate-
+keeping function. When a state prisoner seeks to challenge
+his conviction or sentence in federal court for the first time,
+he normally proceeds directly to district court under 28
+U. S. C. § 2254. But before a state prisoner may bring a sec-
+ond or successive attack in district court, AEDPA requires
+him to obtain a certifcate from a panel of the relevant fed-
+eral court of appeals. And under § 2244, an appellate panel
+may certify a case to proceed only subject to certain demand-
+ing rules.
+Two are relevant here. First, an appellate panel may not
+authorize do-over claims—claims the prisoner already “pre-
+sented in a prior” federal challenge. § 2244(b)(1). Second,
+neither a state prisoner nor state authorities may fle a peti-
+tion for rehearing or seek “a writ of certiorari” to contest an
+appellate panel's decision granting or denying certifcation.
+§ 2244(b)(3)(E).
+AEDPA contains parallel directions for federal prisoners.
+When a federal prisoner seeks to challenge his conviction or
+sentence collaterally for the first time, he usually proceeds
+directly to district court under § 2255. But before he can
+pursue a second or successive challenge, it “must be certified
+as provided in section 2244 by a panel of the appropriate
+court of appeals.” § 2255(h). Through that cross-reference,
+then, federal prisoners seeking to bring second or successive
+collateral attacks are generally subject to the same rules as
+their state counterparts.
+That brings us to Michael Bowe. After shooting two
+guards while trying to rob an armored vehicle in 2008, he
+pleaded guilty to three federal crimes. Since then, he has
+pursued fve nearly identical postconviction challenges. In
+each, Mr. Bowe has asserted that one of the statutes under
+which he was convicted, 18 U. S. C. § 924(c), is unconstitu-
+tional under our void-for-vagueness doctrine. And in all but
+the first of his challenges, Mr. Bowe has centered his argu-
+ment around the same case: United States v. Davis, 588 U. S.
+445 (2019).
+When Mr. Bowe sought permission to bring his latest col-
+lateral attack, the Eleventh Circuit demurred. Because he
+had pursued his Davis claim three times before, the court
+held that his latest filing represented an impermissible do-
+over claim barred by § 2244(b)(1). Now, Mr. Bowe asks us
+to reverse the Eleventh Circuit's decision. Yes, he concedes,
+AEDPA bars state prisoners from pursuing do-over claims.
+But, he insists, federal prisoners are different. They (and
+they alone) are free to bring the same claim in district court
+over and over again.
+Before we can take up that question, however, we must
+answer another. Under § 2244(b)(3)(E), Mr. Bowe acknowl-
+edges, this Court lacks certiorari jurisdiction to review an
+appellate panel's decision denying a state prisoner leave
+to fle a second or successive collateral challenge. But
+here again, Mr. Bowe argues federal prisoners are different.
+He submits that they (and, once more, they alone) are free
+to challenge adverse certifcation decisions on writ of
+certiorari.
+Because I do not believe that either of Mr. Bowe's pleas
+for federal-prisoner exceptionalism can be squared with
+AEDPA's text, I respectfully dissent.
+I
+I understand my colleagues' eagerness to reach the merits
+of this case. As they observe, the courts of appeals are di-
+vided on the question whether federal prisoners like
+Mr. Bowe may pursue do-over claims. Ante, at 21–22.
+Doubtless, too, it is often this Court's job to resolve circuit
+splits and bring nationwide uniformity to the application of
+federal law.
+But it is also one of our paramount responsibilities to re-
+spect the limits on our jurisdiction. And, to my eyes,
+AEDPA precludes us from exercising certiorari jurisdiction
+here. Section 2244 instructs that “the grant or denial of an
+authorization by a court of appeals to fle a second or succes-
+sive” collateral attack “shall not be the subject of a petition . . .
+for a writ of certiorari.” § 2244(b)(3)(E). Everyone agrees
+this provision precludes us from exercising certiorari jurisdic-
+tion to review an appellate panel's decision granting or deny-
+ing certifcation to state prisoners. And because § 2255(h)
+tells us that the same rules apply to federal prisoners, exactly
+the same outcome follows for federal prisoners like Mr. Bowe.
+Importantly, though, that does not mean we lack for ways
+to resolve the circuit split my colleagues worry over.
+AEDPA may prevent us from exercising certiorari jurisdic-
+tion under § 1254(1). But AEDPA not only leaves un-
+touched our power to entertain original habeas petitions fled
+directly in this Court. Felker v. Turpin, 518 U. S. 651, 660–
+661 (1996). AEDPA also leaves untouched our power to ac-
+cept certified “question[s] of law” from the federal courts of
+appeals and provide them with “binding instructions” on
+how to answer those questions under § 1254(2), a provision
+found right next door to the one governing our certiorari
+jurisdiction.
+Accustomed as we are to proceeding by way of certiorari
+under § 1254(1), it's true that we have rarely accepted certi-
+fed questions under § 1254(2). But a rare procedure befts
+rare circumstances. And this case involves a rare circum-
+stance indeed—a circuit split that would otherwise stagger
+on forever. Rather than ignore § 2244's express constraint
+on our certiorari jurisdiction, then, we might have simply
+signaled to the courts of appeals our willingness to accept
+certifcation in this or a similar case. Cf. United States v.
+Rice, 327 U. S. 742, 746–747 (1946) (accepting certifcation in
+the uncommon situation of a “circuit court of appeals . . .
+equally divided on” questions of law).
+A
+To appreciate why we lack certiorari jurisdiction, it helps
+to start with a bird's eye view of how AEDPA addresses
+second or successive collateral attacks.
+AEDPA seeks “to advance the finality of criminal convic-
+tions.” Mayle v. Felix, 545 U. S. 644, 662 (2005). It does
+so, in part, by imposing “stric[t] limit[s]” on the ability
+of federal and state prisoners to bring multiple postconvic-
+tion attacks in federal court. See Jones v. Hendrix, 599
+U. S. 465, 476 (2023). So, for example, a federal prisoner's
+second or successive collateral attack “must be certified . . .
+to contain” a showing of either new facts or new law.
+§ 2255(h). The new-facts route requires the prisoner to show
+that he possesses newly discovered evidence that, if proved,
+would establish his innocence clearly and convincingly. See
+§ 2255(h)(1). The new-law route requires him to argue that
+his conviction or sentence is unlawful in light of a new rule of
+constitutional law that this Court has made retroactively ap-
+plicable to cases on collateral review. See § 2255(h)(2).
+Similar rules apply to state prisoners under § 2244(b)(2). 1
+1 Put aside for the moment AEDPA's additional instructions about do-
+over claims—they become relevant only when we come to the merits. See
+Part II, infra.
+Even beyond those constraints, AEDPA imposes others.
+A federal prisoner's second or successive § 2255 attack not
+only must “contain” either new facts or new law; it also
+“must be certified as provided in section 2244.” § 2255(h).
+Everyone agrees this cross-reference directs us to
+§ 2244(b)(3). That paragraph provides these instructions:
+“(A) Before a second or successive application permit-
+ted by this section is fled in the district court, the appli-
+cant shall move in the appropriate court of appeals for
+an order authorizing the district court to consider the
+application.
+“(B) A motion in the court of appeals . . . shall be
+determined by a three-judge panel of the court of
+appeals.
+“(C) The court of appeals may authorize the filing of
+a second or successive application only if it determines
+that the application makes a prima facie showing that
+the application satisfies the requirements of this
+subsection.
+“(D) The court of appeals shall grant or deny the au-
+thorization . . . not later than 30 days after the filing of
+the motion.
+“(E) The grant or denial of an authorization . . . shall
+not be appealable and shall not be the subject of a peti-
+tion for rehearing or for a writ of certiorari.”
+With this overview in hand, our lack of certiorari jurisdic-
+tion quickly becomes clear. Section 2244(b)(3)(E) prohibits
+a state prisoner from invoking our certiorari jurisdiction to
+challenge an order denying him leave to fle a second or suc-
+cessive collateral attack. Indeed, this Court has already
+held as much. Felker, 518 U. S., at 658–659. And § 2255(h)
+tells us that a federal prisoner seeking to pursue a second
+or successive collateral attack must obtain certifcation “as
+provided in section 2244” for state prisoners. Accordingly,
+the same bar on certiorari applies.
+That commonsense conclusion finds unanimous support in
+the courts of appeals. Just as § 2244(b)(3)(E) bars certiorari
+petitions, it also bars petitions for panel or en banc rehear-
+ing. Since AEDPA's adoption in 1996, a great many federal
+prisoners have sought rehearing on the theory that this rule
+applies only to state prisoners, not them. Yet every circuit
+to consider that approach has rejected it, recognizing instead
+that subparagraph (E) applies to federal prisoners no less
+than their state counterparts, and thus prohibits them from
+petitioning for panel or en banc rehearing. See, e. g., In re
+Clark, 837 F. 3d 1080, 1082–1083 (CA10 2016) (collecting
+cases); In re Baptiste , 828 F. 3d 1337, 1340 (CA11 2016);
+Págan-San Miguel v. United States, 736 F. 3d 44, 46, n. 1
+(CA1 2013) (per curiam ); In re Sonshine , 132 F. 3d 1133,
+1134 (CA6 1997).
+Our own precedent carries the same message. In Castro
+v. United States, 540 U. S. 375 (2003), the government argued
+that subparagraph (E) precluded this Court from considering
+a federal prisoner's challenge to an appellate panel decision
+denying him leave to fle a second or successive attack. At
+the same time, the government contended, the terms of sub-
+paragraph (E) leave it free to challenge many appellate panel
+decisions granting a federal prisoner permission to proceed.
+Id., at 380–381. The Court rejected both submissions.
+First, after conducting a painstakingly detailed analysis of
+the filing history of the particular prisoner before it, the
+Court concluded that his challenge was not in fact second
+or successive. So subparagraph (E)—which applies only to
+second or successive challenges—simply was not implicated
+in the case at hand. See id., at 379–380. Second, the Court
+rejected the government's “anomal[ou]s” suggestion that
+subparagraph (E) might allow it, but not a prisoner, to chal-
+lenge an adverse appellate panel decision regarding a second
+or successive filing. Id., at 380–381.
+Neither holding makes sense unless subparagraph (E) ap-
+plies to federal prisoners pursuing second or successive col-
+lateral attacks. Why take the trouble to show this federal
+prisoner wasn't pursuing a second or successive attack sub-
+ject to subparagraph (E)—and why bother rejecting the gov-
+ernment's lopsided argument about how subparagraph (E)
+works—if subparagraph (E) has no bearing whatsoever on
+federal prisoners in the first place? While Castro may not
+have announced a “holding” that subparagraph (E) applies
+to federal prisoners pursuing second or successive collateral
+attacks, ante, at 26, n. 3, all of its work was surely grounded
+on that premise.
+Our decision in Hohn v. United States, 524 U. S. 236 (1998),
+is equally telling. That case concerned 28 U. S. C. § 2253(c),
+which requires a federal prisoner to obtain a certifcate of
+appealability (COA) before he may appeal a district court's
+adverse decision in a § 2255 proceeding. The jurisdictional
+question before the Court was whether a court of appeals'
+denial of a COA is a “case” within the meaning of § 1254(1)
+and thus reviewable on certiorari. 524 U. S., at 241. Con-
+cluding that it is, the Court leaned heavily on a comparison
+between § 2253(c) and § 2244(b)(3)(E). The latter provision,
+the Court said, imposes a “clear limit” on our jurisdiction.
+Id., at 250. And, the Court reasoned, the existence of that
+“clear limit,” coupled with the absence of comparable lan-
+guage in § 2253(c), suggested that federal prisoners may seek
+certiorari to challenge an adverse COA decision. See id., at
+249–250. Much as in Castro, the Court in Hohn may not
+have expressly reached a holding about § 2244(b)(3)(E)'s
+meaning. But its work only makes sense if that provision
+“clear[ ly]” precludes certiorari jurisdiction for federal
+prisoners.
+Really, the idea that § 2244(b)(3)(E) applies to federal pris-
+oners and bars them from seeking certiorari has been uncon-
+troversial since AEDPA's adoption three decades ago. So
+much so that, until recently, even the author of today's major-
+ity opinion accepted it. In another case involving Mr. Bowe
+(yes, the same Mr. Bowe), our colleague urged the Court to
+consider accepting an original habeas petition to resolve the
+very same do-over circuit split now before us. In re Bowe ,
+601 U. S. 1015 (2024) (Sotomayor, J., statement respecting
+denial of habeas corpus). Invoking that unusual procedure,
+our colleague insisted, was necessary precisely because
+“§ 2244(b)(3)(E)'s bar on petitioning for review” would pre-
+clude Mr. Bowe from invoking our certiorari jurisdiction.
+Id., at 1016. That was right then, and it is right still.
+B
+How does Mr. Bowe respond? He does not dispute that
+all the rules laid out in §§ 2244(b)(3)(A) through (E) apply to
+state prisoners. As a result, he acknowledges, neither state
+prisoners nor state officials may challenge an appellate pan-
+el's certifcation decision on certiorari. Accordingly, there
+are only two ways to resolve circuit splits about § 2244 in
+the state-prisoner context: original habeas writs and certif-
+cation under § 1254(2).
+Even when it comes to federal prisoners, Mr. Bowe cedes
+much ground. He admits that § 2255(h) subjects federal
+prisoners to the same rules that apply to state prisoners in
+§§ 2244(b)(3)(A), (B), (C), and (D). Brief for Petitioner 32.
+He concedes, too, that every court of appeals to consider the
+issue has held that subparagraph (E) also applies to federal
+prisoners. Tr. of Oral Arg. 15. Still, Mr. Bowe insists, he's
+discovered something all those courts (and this one) have
+missed for the past 30 years: Subparagraph (E)—and it
+alone—doesn't apply to federal prisoners.
+His theory runs this way. Section 2255(h) instructs that
+a federal prisoner's second or successive attack “must be
+certified as provided in section 2244.” That language,
+Mr. Bowe submits, sweeps in only those parts of § 2244 that
+address how an appellate panel goes about certifying a sec-
+ond or successive filing. And it does not sweep in subpara-
+graph (E) because—unlike all of § 2244(b)(3)'s other subpara-
+graphs—it does not “provide” for certifcation.
+It may be a wonderfully convenient theory for Mr. Bowe,
+but no court has adopted it for good reason. Just look again
+at the block quotation of statutory text above. Each and
+every one of § 2244(b)(3)'s subparagraphs “provide[s]” for
+how a second or successive collateral attack “must be certi-
+fed” by a “panel of the appropriate court of appeals.”
+§ 2255(h). Subparagraph (A) routes the certifcation deci-
+sion to a court of appeals. Subparagraph (B) directs that
+the decision must be made by a three-judge panel. Subpara-
+graph (C) sets forth the standard the panel must use when
+deciding whether to certify. Subparagraph (D) specifies the
+timing for a decision. And subparagraph (E) provides that
+panel certifcation is the exclusive avenue for certifcation
+decisions (without foreclosing the panel from asking this
+Court, via § 1254(2), for “instructions” on “question[s] of law”
+along the way). What begins with an application to a three-
+judge panel under subparagraph (A) ends with its disposition
+by that same panel under subparagraph (E).
+Notice, too, the hash Mr. Bowe's interpretation makes of
+the rest of the statute. Subparagraph (B) mandates that a
+certifcation motion “shall be determined by a three-judge
+panel of the court of appeals.” What would be the point of
+that direction if, as Mr. Bowe suggests, a prisoner could peti-
+tion a court of appeals (en banc) or this Court (on certiorari)
+to certify a second or successive collateral attack instead?
+Plainly, subparagraph (E) works in tandem with subpara-
+graph (B) to ensure that the certifcation decision comes
+from, and only from, a three-judge panel. Ignoring (E) un-
+dermines (B).
+Ignoring (E) also makes a nonsense of subparagraph (D)'s
+instruction requiring a panel to grant or deny certifcation
+within 30 days. That mandate is perfectly sensible if, as
+subparagraph (E) provides, the decision of a three-judge
+panel is final. But it is wholly insensible if, as Mr. Bowe
+supposes, any prisoner can seek panel rehearing, then en
+banc rehearing, and certiorari too. The entire point of
+AEDPA and its certifcation process was to “reduce delays,”
+Rhines v. Weber, 544 U. S. 269, 276 (2005) (internal quotation
+marks omitted), and “advance the finality of criminal convic-
+tions,” Mayle, 545 U. S., at 662. Yet on Mr. Bowe's reading,
+the certifcation process alone would typically take not 30
+days but many multiples of that. 2
+C
+Mr. Bowe's line of argument, understandably, causes my
+colleagues some discomfort. Thankfully, they are unwilling
+to say—as Mr. Bowe does—that every court of appeals to
+have reached the issue has erred in holding that subpara-
+graph (E) bars federal prisoners from seeking panel or en
+banc rehearing. Ante, at 32. To avoid calling those sound
+decisions into question, the majority pivots in a different di-
+rection. On its theory, even if subparagraph (E) bars fed-
+eral prisoners from pursuing petitions for panel and en banc
+rehearing, the statute does not bar them from seeking
+certiorari.
+There is an obvious reason Mr. Bowe did not press that
+eccentric theory before us: It cannot be squared with the
+statutory text. Section 2255 instructs that a federal prison-
+er's second or successive attack “must be certified as pro-
+vided in section 2244.” And what subparagraph (E) “pro-
+vide[s]” is a package deal. The statute bars rehearing
+petitions and certiorari petitions in a single breath: It pro-
+vides that a panel's certifcation decision “shall not be the
+subject of a petition for rehearing or for a writ of certiorari.”
+2 Mr. Bowe suggests this is no problem because subparagraph (E) allows
+courts of appeals to order rehearing sua sponte . And having discovered
+porosity in this otherwise solid subparagraph, Mr. Bowe wonders why we
+need to worry about finality at all. But even if AEDPA tolerates
+sua sponte rehearing, that is no threat to finality because sua sponte re-
+hearing is rare, and judges do not call for it needlessly. The same is true
+of certifcation under § 1254(2), for that matter. These modest, rarely em-
+ployed, and judicially initiated procedures are hardly camels' noses poking
+under AEDPA's tent.
+§ 2244(b)(3)(E). The notion that all of subparagraph (E)
+might apply to federal prisoners minus the six words “or for
+a writ of certiorari” is utterly implausible as a textual
+matter.
+One might think this problem would cause the majority to
+hesitate. Instead, my colleagues plow on, conjuring up a
+clear-statement rule to support their course. Yes, the ma-
+jority admits, a fair reading of § 2255(h)'s cross-reference to
+§ 2244 “might include” § 2244(b)(3)(E)'s certiorari bar. Ante,
+at 35. But, my colleagues insist, Congress “must speak
+clearly” when it wishes to withdraw our certiorari jurisdic-
+tion, ante, at 25, and the language Congress employed here
+is not “clear” enough to be worth following , ante, at 28–31.
+There's no avoiding the odd contours of the majority's
+clear-statement rule. Apparently, Congress may restrict
+and channel collateral review in the lower courts, as it has
+done in subparagraphs (A) through (D). Congress may also
+bar petitions for panel or en banc rehearing, as it has done
+in subparagraph (E), cutting off the usual method by which
+a court of appeals “reconcile[s] its internal difficulties.”
+Wisniewski v. United States, 353 U. S. 901, 902 (1957)
+(per curiam ). Seemingly, Congress can do all that without
+having to satisfy any clear-statement rule. The only work
+the majority's rule performs concerns certiorari petitions—
+and the only effect that rule has is to pencil out subpara-
+graph (E)'s six words “or for a writ of certiorari” in cases
+involving federal prisoners. All while leaving those same
+six words in force when it comes to state prisoners.
+That gerrymandered rule may suit Mr. Bowe's present
+needs and appeal to our vanity. But it is pointless. Even
+if a clear statement were required here, Congress gave us
+one. For all the reasons explored above, AEDPA's certio-
+rari bar imposes, in Hohn's words, a “clear limit” on our ju-
+risdiction. See Part I–A, supra. Nor, again, is there any
+need to pretend otherwise just to address the circuit split
+Mr. Bowe identifies, for we can just as easily reach it through
+certifcation under § 1254(2) as we can through certiorari
+under § 1254(1). Indeed, the Eleventh Circuit refused to in-
+voke § 1254(2) only because it believed we would deny certi-
+fication—a belief we could easily dispel in this case simply
+by saying it isn't so. See App. 78–79.
+Worse still, the majority's bespoke certiorari-for-federal-
+prisoners-clear-statement rule lacks any grounding in law.
+Just ask yourself: If not from thin air, where could such a
+rule possibly come from?
+Perhaps the most obvious candidate would be the Consti-
+tution. Sometimes, after all, when faced with two compet-
+ing statutory interpretations this Court invokes the canon of
+constitutional avoidance to choose the one that avoids, rather
+than implicates, a constitutional problem. See, e. g., Clark
+v. Martinez, 543 U. S. 371, 381–382 (2005). But the majority
+does not rest its clear-statement rule on that doctrine. Nor
+could it. This Court has already expressly rejected the no-
+tion that § 2244(b)(3)'s limitations violate the Suspension
+Clause or the Exceptions Clause, the two constitutional pro-
+visions most obviously relevant to cases like this one. See
+Felker, 518 U. S., at 661–664.
+That should come as no surprise either. The writ of ha-
+beas corpus traditionally addressed cases of executive deten-
+tion without trial. Accordingly, a federal prisoner was ineli-
+gible for habeas corpus if he had been convicted by a court
+of competent jurisdiction. See id., at 663; Brown v. Daven-
+port, 596 U. S. 118, 128–129 (2022). It was not until the 20th
+century that this Court began allowing federal prisoners to
+mount collateral attacks on jurisdictionally sound convic-
+tions. Cf. Glasgow v. Moyer, 225 U. S. 420, 429 (1912) (“The
+principle of the cases is the simple one that if a court has
+jurisdiction of the case the writ of habeas corpus cannot be
+employed to re-try the issues, whether of law, constitutional
+or other, or of fact”). Put simply, for much of our Nation's
+history, there was no collateral review of the vast majority
+of convictions, much less a right to certiorari in such cases.
+With constitutional avoidance off the table, the majority
+advances an unbriefed theory to prop up its novel clear-
+statement rule. Citing Boechler v. Commissioner, 596 U. S.
+199 (2022), the majority observes that this Court generally
+reads statutorily prescribed procedural requirements as
+forfeitable claim-processing rules rather than unwavering
+jurisdictional mandates unless Congress “clearly” indicates
+otherwise. Ante, at 27. And, the majority insists, it is doing
+something similar here. See ante, at 27–28. Hardly. No
+one disputes that AEDPA's certiorari bar at issue here is juris-
+dictional. So Boechler not only does not “contro[l] this case,”
+ante, at 28, n. 5, it has nothing to say about this case at all.
+The majority's invocation of Boechler is not just inapt, it
+is unfortunate. Two years ago, in an obscure administrative
+law case, this Court expressly refused to treat Boechler as a
+permission slip for creating any manner of new interpretive
+presumptions that may happen to suit our tastes but that
+do not “approximat[e] rea[l]” statutory meaning. Compare
+Loper Bright Enterprises v. Raimondo, 603 U. S. 369, 455,
+n. 1 (2024) (Kagan, J., dissenting) (arguing that, in light of
+cases like Boechler, we may as well accept other interpretive
+fctions like Chevron), with 603 U. S., at 399 (majority opin-
+ion) (holding otherwise). Yet that is exactly how the major-
+ity treats Boechler today.
+The picture does not improve from there. The Boechler
+clear-statement rule operates only in a particular context
+and exists only for particular reasons. Treating too many
+rules as jurisdictional rather than as claim-processing rules,
+this Court has said, would “result in the waste of judicial
+resources and may unfairly prejudice litigants.” Henderson
+v. Shinseki, 562 U. S. 428, 434 (2011). Yet neither of those
+rationales applies here. If anything, it is the majority's new
+rule that promises to waste judicial resources by undermin-
+ing finality. And there is no colorable argument that Con-
+gress acts unfairly by preventing both prisoners and govern-
+ments from appealing adverse certifcation decisions. Far
+from respecting Boechler, then, the majority more nearly de-
+fes it.
+With Boechler a dry hole, the majority finds itself forced
+to prospect elsewhere for legal authority. Its next stop is
+Castro. Ante, at 25–27. But the majority's quote mining of
+that decision only winds up highlighting just how unprece-
+dented its course today really is.
+In Castro, remember, the government advocated for a lop-
+sided construction of § 2244(b)(3)(E). On the government's
+view, the statute permitted it to seek certiorari to challenge
+a circuit decision granting certifcation, but precluded a fed-
+eral prisoner from seeking certiorari to challenge a circuit
+decision denying certifcation. 540 U. S., at 380. As we
+have seen, the Court rejected that submission for two rea-
+sons. First, the prisoner there did not seek to pursue a sec-
+ond or successive attack subject to subparagraph (E). Sec-
+ond, the government's reading would have “close[d] our
+doors to a class of habeas petitioners seeking review” while
+leaving those same doors open to the government. Id., at
+381. Expanding on the second rationale, the Court said it
+would not endorse such an “anomal[ous]” reading of subpara-
+graph (E) “without any clear indication that such was Con-
+gress' intent.” Id., at 380–381. Doubtless, this commen-
+tary reflected an intuition that Congress would not lightly
+treat similarly situated litigants differently. But none of
+that speaks to the situation before us, where the construction
+of subparagraph (E) at issue is fair and square: no certiorari
+review of certifcation decisions, no matter who won below.
+If anything, and as we have seen, Castro does more to
+hurt than help the majority's cause. See Part I–A, supra.
+Throughout that decision, the Court took as given that sub-
+paragraph (E) does bar federal prisoners from seeking cer-
+tiorari to challenge adverse certifcation decisions regarding
+their second or successive filings. Why (again) would Cas-
+tro take the trouble to explain that the challenge there
+wasn't a second or successive one if subparagraph (E) doesn't
+apply to federal prisoners anyway? And why would Castro
+worry about the anomalous possibility that only the govern-
+ment may seek certiorari when, in fact, federal prisoners
+can too?
+The majority offers no colorable answers to these ques-
+tions because none can be had. Just like Hohn and our col-
+league's opinion two years ago in In re Bowe , Castro fully
+appreciated that subparagraph (E) imposes a “clear limit”
+on our certiorari jurisdiction, one applicable to federal and
+state prisoners alike. Hohn, 524 U. S., at 250 (emphasis
+added); see also In re Bowe , 601 U. S., at 1016 (acknowledg-
+ing that “§ 2244(b)(3)(E)'s bar on petitioning for review”
+would preclude Mr. Bowe himself from seeking certiorari). 3
+Unable to identify any plausible authority in existing law
+for its clear-statement rule, the majority is ultimately left to
+summon it from the ether. To be sure, my colleagues begin
+by pointing to the (unremarkable) principle that this Court
+does not read “statutory silence as implicitly modifying or
+limiting . . . jurisdiction that another statute specifically
+grants.” Hertz Corp. v. Friend, 559 U. S. 77, 83 (2010);
+Felker, 518 U. S., at 660–661. But from there, the majority
+engages in pure invention, devising a broad new legal rule
+that even express limitations on our certiorari jurisdiction
+are unenforceable absent a clear statement. See ante,
+at 25.
+3Attempting to wring more yet from Castro, the majority points to its
+citation of Utah v. Evans, 536 U. S. 452 (2002), for the “principle that
+we read limitations on our jurisdiction to review narrowly.” Ante, at 26
+(internal quotation marks omitted). But Evans simply applied the ano-
+dyne presumption that federal agency action is amenable to some form of
+judicial review. See 536 U. S., at 463 (citing Webster v. Doe, 486 U. S. 592
+(1988), and Bowen v. Michigan Academy of Family Physicians, 476 U. S.
+667 (1986)). That presumption speaks not at all to the postconviction set-
+ting, let alone second or successive collateral attacks like this one. In this
+context, a litigant has already enjoyed extensive judicial review, including
+at least two opportunities to seek certiorari from us—first on direct re-
+view, and again in a first postconviction challenge.
+What a leap that is. This case is nothing like those in
+which we have historically declined to infer limitations on
+our certiorari jurisdiction based on statutory silence. All
+agree that § 2255(h) expressly incorporates portions of
+§ 2244(b)(3). All agree that § 2244(b)(3)(E) expressly bars
+“petition[s] for . . . writ[s] of certiorari.” The only point of
+disagreement concerns how those explicit provisions ft to-
+gether. I believe they ft together in a way that deprives
+us of jurisdiction. But even if I am wrong about that, this
+is hardly a case of “silen[t] or ambiguous” text, Hertz, 559
+U. S., at 83–84, nor one involving provisions that “mak[e] no
+mention of our authority,” Felker, 518 U. S., at 661. Truly,
+the majority's clear-statement rule comes from nowhere at
+all.
+In the end, neither Mr. Bowe's textual arguments nor the
+majority's atextual theory can obscure AEDPA's message,
+one every court of appeals (and this Court) has understood
+since 1996. A litigant like Mr. Bowe may seek to pursue an
+original habeas petition in this Court. A court of appeals
+may certify questions to us. But § 2244 bars state prisoners
+(and governments) from invoking our certiorari jurisdiction
+to challenge adverse certifcation decisions. Section 2255
+extends that bar to federal prisoners. And because that bar
+applies here, we lack jurisdiction to decide this case. The
+majority's conclusion otherwise is as improbable as it is
+novel.4
+4 In a final foray, Mr. Bowe and Justice Jackson contend that, even if
+subparagraph (E)'s certiorari bar generally applies to federal prisoners, it
+still does not apply in this particular case. Mr. Bowe's version of the
+argument goes like this. Subparagraph (E) bars certiorari petitions from
+appellate orders that “grant or den[y]” certifcation to pursue a second or
+successive attack. And, Mr. Bowe submits, that language doesn't apply
+to him because the Eleventh Circuit “dismissed” rather than “denied” his
+certifcation request. See App. 79. This argument fails, though, because
+“the label attached to an order is not dispositive”; its “ `practical effect' ”
+is. Abbott v. Perez, 585 U. S. 579, 594 (2018). And here, the practical
+II
+Because the majority concludes that we have jurisdiction
+to reach the merits, I offer my views too. The question
+here, recall, concerns the Eleventh Circuit's refusal to certify
+Mr. Bowe's latest collateral attack. Like most other circuits,
+the Eleventh Circuit has held that § 2244(b)(1) bars do-over
+claims by both state and federal prisoners. And that provi-
+sion, the court reasoned, barred Mr. Bowe's present chal-
+lenge because he has already pursued the same challenge
+many times before.
+In reversing the Eleventh Circuit, my colleagues do not
+question that § 2244(b)(1) prohibits state prisoners' do-over
+claims. Nor do my colleagues question that Mr. Bowe seeks
+to pursue a do-over claim in this case. Instead, they hold
+that federal prisoners like him are free to fle in district court
+as many do-over claims as they please. Once more, I dis-
+agree because I see nothing in AEDPA's text that supports
+that kind of special treatment for federal prisoners.
+A
+Begin by walking through the relevant statutory provi-
+sions. Section 2255 requires a federal prisoner to satisfy
+two essential requirements before he can pursue a second or
+effect of the Eleventh Circuit's “dismissal” order was to deny Mr. Bowe
+permission to pursue his second or successive attack.
+Justice Jackson's version of the argument proceeds differently. She
+admits that a dismissal may have the practical effect of a denial. Ante,
+at 43 (concurring opinion). But, she insists, that doesn't hold true here
+because, by applying § 2244(b)(1)'s do-over bar, the Eleventh Circuit ap-
+plied the wrong “statutory criteria” to Mr. Bowe. Ante, at 45. There is
+just one problem. The statute bars review of any “grant or denial,” not
+any “grant or denial made after applying the correct statutory criteria.”
+Justice Jackson identifies nothing in the statute's terms that might allow
+us to turn the Eleventh Circuit's (supposed) merits error into a jurisdic-
+tionally decisive event. A denial is a denial. Recognizing the faws of
+both versions of the argument, the majority rightly adopts neither.
+successive challenge. First, his filing must “contain” either
+new facts or new law sufficient to satisfy § 2255(h)(1) or
+(h)(2). Second, his filing “must be certified” by a court of
+appeals under the rules outlined in § 2244. And to win certi-
+fication under § 2244, everyone accepts, a federal prisoner
+must satisfy at least §§ 2244(b)(3)(A), (B), (C), and (D).
+Ante, at 29. (With jurisdiction now out of the picture, we
+can set aside the dispute over (E).)
+From there the right answer lies only a few steps away.
+Section 2244(b)(3)(C) states that “[t]he court of appeals may
+authorize the filing of a second or successive application only
+if it determines that the application makes a prima facie
+showing that the application satisfies the requirements of
+this subsection.” (Emphasis added.) No one questions
+that this provision applies to state and federal prisoners
+equally. Brief for Petitioner 32; Brief for United States 25–
+26; ante, at 29. So by its terms, this provision means a fed-
+eral prisoner must make “a prima facie showing” in a court
+of appeals that his second or successive filing satisfies the
+requirements of “this subsection”—namely, subsection (b)
+of § 2244.
+That tells us all we need to know. The very first provision
+of subsection (b) prohibits do-over claims. In the words of
+§ 2244(b)(1), any claim presented in a prior application “shall
+be dismissed.” As a result, AEDPA no more tolerates re-
+petitive litigation by federal prisoners than it does by state
+prisoners. And the Eleventh Circuit was right to deny
+Mr. Bowe leave to fle again the same claim he had already
+pursued many times before.
+What the statutory language teaches on this point, context
+confirms. Next to subsection (b)(1) sits subsection (b)(2).
+There, Congress addressed second or successive filings pre-
+senting new (as opposed to do-over) claims. As laid out in
+the margin, subsection (b)(2)'s rules for state prisoners' new
+claims are similar to, but different from, § 2255(h)'s rules for
+federal prisoners' new claims. 5 And because § 2255(h) ap-
+plies particularly to federal prisoners, its specific require-
+ments displace § 2244(b)(2)'s more generally applicable ones.
+See Baltimore Nat. Bank v. State Tax Comm'n of Md., 297
+U. S. 209, 215 (1936). So when a court of appeals asks
+whether a federal prisoner has made a “prima facie showing”
+that his proposed filing “satisfies the requirements of this
+subsection” under § 2244(b)(3)(C), the requirements of
+§§ 2255(h)(1)–(2) step into the shoes that § 2244(b)(2) would
+otherwise fll. Tellingly, however, § 2255(h) contains no such
+federal-prisoner-specifc language when it comes to do-over
+claims. Instead, it leaves § 2244(b)(1)'s generally applicable
+language in place. All of which suggests that § 2244(b)(1)
+applies no less to federal prisoners than to state prisoners—
+just as the text says. 6
+5 Section 2244(b)(2)(B)'s new-facts provision requires that
+“(i) the factual predicate for the claim could not have been discovered
+previously through the exercise of due diligence; and
+“(ii) the facts underlying the claim, if proven and viewed in light of the
+evidence as a whole, would be sufficient to establish by clear and convinc-
+ing evidence that, but for constitutional error, no reasonable factfnder
+would have found the applicant guilty of the underlying offense.”
+In contrast, § 2255(h)(1)'s new-facts provision requires
+“newly discovered evidence that, if proven and viewed in light of the
+evidence as a whole, would be sufficient to establish by clear and convinc-
+ing evidence that no reasonable factfnder would have found the movant
+guilty of the offense.”
+6 The majority claims my understanding of how § 2244(b)(2) and § 2255(h)
+interact renders § 2255(h)(2) “mere surplusage.” Ante, at 39. But that
+claim is easily falsifed. If § 2255(h)(2) really were “mere surplusage,”
+then it could be struck out of the statute with no change. So, then, imag-
+ine a version of § 2255(h) without subsection (h)(2). That imaginary provi-
+sion would require every “second or successive motion . . . to contain . . .
+newly discovered evidence” capable of satisfying subsection (h)(1)'s new-
+facts requirement. That is very different from the real § 2255(h), which
+allows a prisoner to show either new facts, § 2255(h)(1), or new law,
+§ 2255(h)(2).
+Another contextual clue comes from the 30-day clock.
+Just as with § 2244(b)(3)(C), no one questions that
+§ 2244(b)(3)(D) applies to both federal and state prisoners.
+Under that provision, a federal court of appeals has just 30
+days to issue a certifcation decision. Complying with that
+tight deadline is possible if courts of appeals can dispose of
+do-over claims without further inquiry. But complying is a
+good deal harder if panels must ask whether each and every
+proposed collateral attack involves new evidence of inno-
+cence or a retroactively applicable rule of constitutional law.
+In this case, for example, it took me fve minutes to appreci-
+ate that Mr. Bowe has already advanced, many times before,
+the same claim he proposes to pursue here. I do not know,
+nor would it be so easy to determine, whether Mr. Bowe's
+latest filing makes a compelling showing of new facts or new
+law. Contra, ante, at 39 (majority erroneously suggesting
+that determining whether a litigant “has raised a claim be-
+fore” is no easier than determining whether he has identified
+compelling new facts or law).
+Statutory structure and history, too, have something to
+say. Before AEDPA, separate provisions addressed do-over
+claims by state prisoners and federal prisoners. Back then,
+§ 2244 permitted (but did not require) a court to deny relief
+to a state prisoner who “present[ed] no new ground not here-
+tofore presented and determined” in a prior application. 28
+U. S. C. § 2244(a) (1988 ed.); 62 Stat. 965–966. Similarly,
+§ 2255 said that a court “shall not be required to entertain a
+second or successive motion for similar relief” by a federal
+prisoner. See 28 U. S. C. § 2255 (1988 ed.). In AEDPA,
+Congress amended both provisions. Now, § 2255(h) channels
+second or successive § 2255 motions through the § 2244 rules
+applicable to state prisoners. And AEDPA added to § 2244
+a new mandatory (no longer permissive) bar against do-over
+claims, flatly directing that they “shall be dismissed.”
+§ 2244(b)(1); 110 Stat. 1220–1221.
+Exactly nothing in this history or AEDPA's structure sug-
+gests Congress sought to loosen do-over restrictions for any-
+one—let alone completely do away with those restrictions
+for federal prisoners. To the contrary, the statute's history
+and structure suggest, as we have long observed, that
+AEDPA imposed new and “strict[er] limit[s]” on postconvic-
+tion relief. Jones, 599 U. S., at 476. All of which indicates,
+once again, that Congress meant what it said in
+§ 2244(b)(3)(C): The “requirements of this subsection” apply
+to federal and state prisoners alike—and those requirements
+include subsection (b)(1)'s bar on do-over claims.
+B
+Seeking some way to justify a rule prohibiting state pris-
+oners from pursuing do-over claims—but also allowing fed-
+eral prisoners to do just that—Mr. Bowe and the majority
+offer a grab bag of unpersuasive theories.
+First, the majority observes that § 2244(a) specifically ref-
+erences “section 2255,” the provision governing federal pris-
+oners' collateral attacks, while § 2244(b)(1) contains no such
+reference. Because “we presume differences in language . . .
+convey differences in meaning,” the majority submits, it
+must follow that § 2244(b)(1)'s bar on do-over claims “applies
+only to state prisoners.” Ante, at 37 (internal quotation
+marks omitted). But that cannot be right. Section 2244
+mentions “section 2255” only one time, in § 2244(a). If its
+absence elsewhere mattered, then none of the rules in
+§§ 2244(b)(3)(A) through (D) would apply to federal prison-
+ers. Yet not even the majority or Mr. Bowe thinks that.
+To the contrary, both concede that the whole point of
+§ 2255(h)'s cross-reference to § 2244 is to ensure federal pris-
+oners, just like their state counterparts, must follow each of
+those provisions. Ante, at 28–29; Brief for Petitioner 32.
+Second, and in a similar vein, Mr. Bowe stresses that sub-
+section (b)(1) prohibits do-over claims “in a second or succes-
+sive habeas corpus application under section 2254.” (Em-
+phasis added.) Seeking to capitalize on the italicized lan-
+guage, Mr. Bowe notes that § 2254 governs postconviction
+“applications” by state prisoners, while federal prisoners
+proceed by way of § 2255 “motions.” Given that difference
+in nomenclature, Mr. Bowe contends, subsection (b)(1) must
+apply only to state prisoners because that provision ad-
+dresses “applications” and not “motions.” The majority
+briefly nods in the same direction. See ante, at 36.
+This argument fails for much the same reason as its prede-
+cessor. If the absence of the word “motion” in § 2244 made
+all the difference, then none of §§ 2244(b)(3)(A) through (D)'s
+rules would apply to federal prisoners because each of those
+provisions speaks only of “applications.” Yet, no one be-
+lieves that. Instead, everyone appreciates, § 2255 routes
+federal prisoners' “motions” through all those provisions.
+In each, then, the word “applications” is best read as inter-
+changeable with “motions,” just as most circuits have under-
+stood. Cf. Magwood v. Patterson, 561 U. S. 320, 324, n. 1
+(2010) (“Although 28 U. S. C. § 2244(b) refers to a habeas `ap-
+plication,' we use the word `petition' interchangeably”).
+Third, Mr. Bowe replies that there's something else special
+about subsection (b)(1). Unlike §§ 2244(b)(3)(A) through (D),
+he says, subsection (b)(1) doesn't just speak of “applications,”
+but “application[s] under section 2254. ” (Emphasis added.)
+And that more specific reference, Mr. Bowe insists, means
+subsection (b)(1) cannot apply to federal prisoners proceed-
+ing under § 2255. But this argument doesn't move the nee-
+dle either. If (as it must be and as no one seriously disputes)
+the term “application” in § 2244 is best read as embracing a
+federal § 2255 “motion,” then the phrase “application under
+section 2254” in § 2244 should likewise be understood to em-
+brace a “motion under section 2255.” 7
+7 That is not to say that subsection (b)(1)'s specific reference to § 2254
+applications, rather than to applications simpliciter, is superfluous. It
+has considerable work to do—just not the work Mr. Bowe supposes. By
+Fourth, the majority suggests that § 2255(h)'s cross-
+reference to § 2244 captures only the latter's “procedures”
+governing “how a panel certifes a second or successive fl-
+ing.” Ante, at 37. And, the argument goes, § 2244(b)(1)'s
+bar on do-over claims is no mere “procedure” but instead a
+substantive rule about what a filing may “contai[n].” Ibid.
+This theory fails too. Section 2255's cross-reference does
+not speak of a procedure/substance distinction. Instead,
+§ 2255(h) directs courts to “certif[y]” motions “as provided
+in” § 2244. Even the majority acknowledges that this lan-
+guage makes § 2244(b)(3)(C) applicable to federal prisoners.
+Ante, at 29. And subparagraph (C) explicitly says “the re-
+quirements of this subsection”—which include § 2244(b)(1)—
+must be satisfied before certifcation. It's more than a little
+telling that the majority finds itself forced both to rewrite
+§ 2255(h)'s terms and to ignore § 2244(b)(3)(C)'s directions.
+Finally, Mr. Bowe retreats to the position that federal pris-
+oners must be exempt from subsection (b)(1) because
+AEDPA was designed to treat state prisoners more harshly
+than federal prisoners. But, in fact, AEDPA often treats
+the two groups the same, and not just when it comes to sec-
+ond or successive filings. To take just one example, § 2253(c)
+requires a prisoner to secure a “certifcate of appealability”
+before appealing from a habeas or § 2255 loss in federal dis-
+trict court. State and federal prisoners alike thus must sat-
+isfy that provision's demands. See § 2253(c); cf. § 2266(a)
+(requiring identical treatment for certain state- and federal-
+referencing § 2254, the statute makes plain that the do-over bar applies
+only to applications (or motions, as the case may be) by prisoners seeking
+postconviction relief. That renders it inapplicable to habeas applications
+from state prisoners in preconviction executive detention, because those
+applications are fled under § 2241 rather than § 2254. And that distinc-
+tion (unlike the one Mr. Bowe proposes between state and federal prison-
+ers) makes sense. Convicted prisoners, by definition, have already re-
+ceived a great deal of judicial process, so a do-over bar makes sense as to
+them. Prisoners who haven't been convicted, meanwhile, stand in very
+different shoes, so Congress decided to exempt them.
+prisoner filings). And it should shock no one that Congress
+might proceed similarly here and exhibit an intolerance for
+do-over claims no matter who seeks to pursue them. 8
+*
+The majority today commits two serious mistakes. First,
+in its zeal to resolve a circuit split, the majority asserts juris-
+diction where we have none. With statutory text and 30
+years of case law in this Court and lower courts aligned
+against it, the majority bases its claim of jurisdiction on a
+new and curiously contoured clear-statement rule that is as
+needless as it is unprecedented. Second, and compounding
+its jurisdictional overreach, the majority adopts an implausi-
+ble view on the merits. AEDPA didn't suddenly free fed-
+eral prisoners from pre-existing restrictions on do-over
+claims. Just the opposite: It imposed additional “carefully
+crafted limits” on collateral attacks by federal and state pris-
+oners alike. Jones, 599 U. S., at 482. And, quite unsurpris-
+ingly, one of those limits includes an unmistakable and ab-
+solute bar on do-over claims. Because neither of the
+majority's innovations are compatible with Congress's direc-
+tions in AEDPA, I respectfully dissent.
+8 The government offers two additional theories for Mr. Bowe on the
+merits. But the majority pursues neither theory, and rightly so. For
+one, the government appears to suggest that subsection (b)(1) never ap-
+plies during a court of appeals' certifcation proceeding for any prisoner—
+state or federal. Only after certifcation, on this view, may a district
+court weed out do-over claims under subsection (b)(1). See Brief for
+United States 44–45. But, among other defects, the government's view
+would imply that not only (b)(1) but also (b)(2) is inapplicable during certi-
+fication. And, of course, that would render the whole certifcation process
+pointless. For another, the government suggests that, even if
+§ 2244(b)(1)'s do-over bar applies to federal prisoners, that rule does not
+apply in this particular case because Mr. Bowe never actually fled a previ-
+ous collateral attack containing a Davis claim; he only sought leave to do
+so. Reply Brief 10–11. But we did not take this case to address that
+case-specific argument, nor did Mr. Bowe himself clearly advance it be-
+fore us.

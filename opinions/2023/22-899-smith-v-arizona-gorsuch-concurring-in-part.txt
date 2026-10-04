@@ -1,0 +1,74 @@
+Smith v. Arizona — No. 22-899 — October Term 2023 — decided 6/21/24 — Gorsuch, J., concurring in part
+Citation: 602 U.S. 779
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r44_kjfm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+This understanding is grounded in “[t]he history surround-
+ing the right to confrontation,” which “was developed to tar-
+get particular practices that occurred under the English bail
+and committal statutes passed during the reign of Queen
+Mary, namely, the civil-law mode of criminal procedure, and
+particularly its use of ex parte examinations as evidence
+against the accused.” Id., at 835 (internal quotation marks
+omitted). Rather than attempt to divine a statement's “pri-
+mary purpose,” I would look for whether the statement is
+“similar in solemnity to the Marian examination practices
+that the Confrontation Clause was designed to prevent.”
+Williams, 567 U. S., at 112 (opinion of Thomas, J.). In my
+view, the Arizona Court of Appeals should consider on re-
+mand whether the statements at issue have the requisite for-
+mality and solemnity to qualify as testimonial. If they do
+not, the Confrontation Clause poses no barrier to their
+admission.
+Justice Gorsuch, concurring in part.
+I am pleased to join the Court's opinion holding that, when
+an expert presents another's statements as the “basis” for
+his own opinion, he is offering those statements for their
+truth. See Parts I, II, and IV , ante.
+I cannot join, however, the Court's discussion in Part III
+about when an absent analyst's statement might qualify as
+“testimonial.” See ante, at 800–802. As the Court says,
+“that issue is not now ft for our resolution.” Ante, at 801.
+It was not part of the question presented for our review, nor
+was it the focus of the decision below. Ibid. In fact, the
+State devoted so little attention to the “testimonial” issue in
+the Arizona courts that any argument it might make on the
+subject on remand may be forfeited. Ibid. Further, the
+Court's thoughts on the subject are in no way necessary to
+the resolution of today's dispute. What makes a statement
+testimonial, the Court notes, is an entirely “separate” issue.
+Ante, at 800.
+Nor am I entirely sure about the guidance found in Part
+III. The Sixth Amendment protects the accused's “right . . .
+to be confronted with the witnesses against him.” As the
+Court sees it, whether a statement being offered for its truth
+and tendency to inculpate a defendant triggers that right
+depends “on the `primary purpose' of the statement, and in
+particular on how it relates to a future criminal proceeding.”
+Ante, at 800. I cannot help but wonder whether that is
+correct.
+Just consider a few other possibilities. In protecting the
+right to confront “witnesses,” perhaps the Sixth Amendment
+reaches any “person who gives or furnishes evidence.”
+United States v. Hubbell, 530 U. S. 27, 49–50 (2000) (Thomas,
+J., concurring) (discussing founding-era meaning of the word
+“witness” in the Fifth Amendment); see also id., at 50, n. 1.
+Or perhaps the Amendment reaches all “those who `bear tes-
+timony.' ” Crawford v. Washington, 541 U. S. 36, 51 (2004)
+(quoting 2 N. Webster, An American Dictionary of the Eng-
+lish Language (1828)). Perhaps, too, a statement “bears tes-
+timony” so long as it “explicitly or implicitly . . . relate[s] a
+factual assertion or disclose[s] information.” Doe v. United
+States, 487 U. S. 201, 210 (1988) (discussing what makes a
+statement “testimonial” for purposes of the Fifth Amend-
+ment); see also 2 Webster, An American Dictionary (observ-
+ing near the founding that “testimony” could mean “evi-
+dence” and “proof of some fact” as well as a “solemn
+declaration or affrmation” made to “establis[h] or prov[e]
+some fact”). To my mind, all these questions (and maybe
+others too) warrant careful exploration in a case that pre-
+sents them and, without more assurance, I worry that the
+Court's proposed “primary purpose” test may be a limitation
+of our own creation on the confrontation right.
+I am concerned, as well, about the confusion a “primary
+purpose” test may engender. Does it focus, for example, on
+the purposes an objective observer would assign to a chal-

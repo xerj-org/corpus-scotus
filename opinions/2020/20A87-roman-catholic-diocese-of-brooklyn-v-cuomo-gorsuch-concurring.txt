@@ -1,0 +1,219 @@
+Roman Catholic Diocese of Brooklyn v. Cuomo — No. 20A87 — October Term 2020 — decided 11/25/20 — Gorsuch, J., concurring
+Citation: 592 U.S. 14
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=54 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Agudath Israel's application was fled over a week ago.
+While we could presumably act more swiftly in the future,
+there is no guarantee that we could provide relief before an-
+other weekend passes. The applicants have made the show-
+ing needed to obtain relief, and there is no reason why they
+should bear the risk of suffering further irreparable harm in
+the event of another reclassifcation.
+For these reasons, we hold that enforcement of the Gover-
+nor's severe restrictions on the applicants' religious services
+must be enjoined.
+It is so ordered.
+Justice Gorsuch, concurring.
+Government is not free to disregard the First Amendment
+in times of crisis. At a minimum, that Amendment prohibits
+government officials from treating religious exercises worse
+than comparable secular activities, unless they are pursuing
+a compelling interest and using the least restrictive means
+available. See Church of Lukumi Babalu Aye, Inc. v. Hia-
+leah, 508 U. S. 520, 546 (1993). Yet recently, during the
+COVID pandemic, certain States seem to have ignored these
+long-settled principles.
+Today's case supplies just the latest example. New York's
+Governor has asserted the power to assign different color
+codes to different parts of the State and govern each by ex-
+ecutive decree. In “red zones,” houses of worship are all
+but closed—limited to a maximum of 10 people. In the Or-
+thodox Jewish community that limit might operate to ex-
+clude all women, considering 10 men are necessary to estab-
+lish a minyan, or a quorum. In “orange zones,” it's not
+much different. Churches and synagogues are limited to a
+maximum of 25 people. These restrictions apply even to the
+largest cathedrals and synagogues, which ordinarily hold
+hundreds. And the restrictions apply no matter the precau-
+tions taken, including social distancing, wearing masks, leav-
+ing doors and windows open, forgoing singing, and disinfect-
+ing spaces between services.
+At the same time, the Governor has chosen to impose no
+capacity restrictions on certain businesses he considers “es-
+sential.” And it turns out the businesses the Governor con-
+siders essential include hardware stores, acupuncturists, and
+liquor stores. Bicycle repair shops, certain signage compa-
+nies, accountants, lawyers, and insurance agents are all es-
+sential too. So, at least according to the Governor, it may
+be unsafe to go to church, but it is always fne to pick up
+another bottle of wine, shop for a new bike, or spend the
+afternoon exploring your distal points and meridians. Who
+knew public health would so perfectly align with secular
+convenience?
+As almost everyone on the Court today recognizes, squar-
+ing the Governor's edicts with our traditional First Amend-
+ment rules is no easy task. People may gather inside for
+extended periods in bus stations and airports, in laundro-
+mats and banks, in hardware stores and liquor shops. No
+apparent reason exists why people may not gather, subject
+to identical restrictions, in churches or synagogues, espe-
+cially when religious institutions have made plain that they
+stand ready, able, and willing to follow all the safety precau-
+tions required of “essential” businesses and perhaps more
+besides. The only explanation for treating religious places
+differently seems to be a judgment that what happens there
+just isn't as “essential” as what happens in secular spaces.
+Indeed, the Governor is remarkably frank about this: In his
+judgment laundry and liquor, travel and tools, are all “essen-
+tial” while traditional religious exercises are not. That is ex-
+actly the kind of discrimination the First Amendment forbids.
+Nor is the problem an isolated one. In recent months,
+certain other Governors have issued similar edicts. At
+the fick of a pen, they have asserted the right to privilege
+restaurants, marijuana dispensaries, and casinos over
+churches, mosques, and temples. See Calvary Chapel Day-
+ton Valley v. Sisolak, 591 U. S. 1042, 1050 (2020) (Gorsuch,
+J., dissenting from denial of application for injunctive relief).
+In far too many places, for far too long, our first freedom has
+fallen on deaf ears.
+*
+What could justify so radical a departure from the First
+Amendment's terms and long-settled rules about its applica-
+tion? Our colleagues offer two possible answers. Initially,
+some point to a solo concurrence in South Bay Pentecostal
+Church v. Newsom, 590 U. S. 965 (2020), in which The Chief
+Justice expressed willingness to defer to executive orders
+in the pandemic's early stages based on the newness of the
+emergency and how little was then known about the disease.
+Post, at 37–38 (Breyer , J., dissenting). At that time,
+COVID had been with us, in earnest, for just three months.
+Now, as we round out 2020 and face the prospect of entering
+a second calendar year living in the pandemic's shadow, that
+rationale has expired according to its own terms. Even if
+the Constitution has taken a holiday during this pandemic,
+it cannot become a sabbatical. Rather than apply a nonbind-
+ing and expired concurrence from South Bay , courts must
+resume applying the Free Exercise Clause. Today, a major-
+ity of the Court makes this plain.
+Not only did the South Bay concurrence address different
+circumstances than we now face, that opinion was mistaken
+from the start. To justify its result, the concurrence
+reached back 100 years in the U. S. Reports to grab hold of
+our decision in Jacobson v. Massachusetts, 197 U. S. 11
+(1905). But Jacobson hardly supports cutting the Constitu-
+tion loose during a pandemic. That decision involved an en-
+tirely different mode of analysis, an entirely different right,
+and an entirely different kind of restriction.
+Start with the mode of analysis. Although Jacobson pre-
+dated the modern tiers of scrutiny, this Court essentially ap-
+plied rational basis review to Henning Jacobson's challenge
+to a state law that, in light of an ongoing smallpox pandemic,
+required individuals to take a vaccine, pay a $5 fne, or estab-
+lish that they qualified for an exemption. Id., at 25 (asking
+whether the State's scheme was “reasonable”); id., at 27
+(same); id., at 28 (same). Rational basis review is the test
+this Court normally applies to Fourteenth Amendment chal-
+lenges, so long as they do not involve suspect classifications
+based on race or some other ground, or a claim of fundamen-
+tal right. Put differently, Jacobson didn't seek to depart
+from normal legal rules during a pandemic, and it supplies
+no precedent for doing so. Instead, Jacobson applied what
+would become the traditional legal test associated with the
+right at issue—exactly what the Court does today. Here,
+that means strict scrutiny: The First Amendment tradition-
+ally requires a State to treat religious exercises at least as
+well as comparable secular activities unless it can meet the
+demands of strict scrutiny—showing it has employed the
+most narrowly tailored means available to satisfy a compel-
+ling state interest. Church of Lukumi, 508 U. S., at 546.
+Next, consider the right asserted. Mr. Jacobson claimed
+that he possessed an implied “substantive due process” right
+to “bodily integrity” that emanated from the Fourteenth
+Amendment and allowed him to avoid not only the vaccine
+but also the $5 fne (about $140 today) and the need to show
+he qualified for an exemption. 197 U. S., at 13–14. This
+Court disagreed. But what does that have to do with our
+circumstances? Even if judges may impose emergency re-
+strictions on rights that some of them have found hiding in
+the Constitution's penumbras, it does not follow that the
+same fate should befall the textually explicit right to reli-
+gious exercise.
+Finally, consider the different nature of the restriction.
+In Jacobson, individuals could accept the vaccine, pay the
+fne, or identify a basis for exemption. Id., at 12, 14. The
+imposition on Mr. Jacobson's claimed right to bodily integ-
+rity, thus, was avoidable and relatively modest. It easily
+survived rational basis review, and might even have survived
+strict scrutiny, given the opt-outs available to certain objec-
+tors. Id., at 36, 38–39. Here, by contrast, the State has
+effectively sought to ban all traditional forms of worship in
+affected “zones” whenever the Governor decrees and for as
+long as he chooses. Nothing in Jacobson purported to ad-
+dress, let alone approve, such serious and long-lasting intru-
+sions into settled constitutional rights. In fact, Jacobson
+explained that the challenged law survived only because it
+did not “contravene the Constitution of the United States”
+or “infringe any right granted or secured by that instru-
+ment.” Id., at 25.
+Tellingly no Justice now disputes any of these points.
+Nor does any Justice seek to explain why anything other
+than our usual constitutional standards should apply during
+the current pandemic. In fact, today the author of the
+South Bay concurrence even downplays the relevance of Ja-
+cobson for cases like the one before us. Post, at 32–33 (Rob-
+erts, C. J., dissenting). All this is surely a welcome devel-
+opment. But it would require a serious rewriting of history
+to suggest, as The Chief Justice does, that the South Bay
+concurrence never really relied in significant measure on Ja-
+cobson. That was the first case South Bay cited on the sub-
+stantive legal question before the Court, it was the only case
+cited involving a pandemic, and many lower courts quite un-
+derstandably read its invocation as inviting them to slacken
+their enforcement of constitutional liberties while COVID
+lingers. See, e. g., Elim Romanian Pentecostal Church v.
+Pritzker, 962 F. 3d 341, 347 (CA7 2020); Legacy Church, Inc.
+v. Kunkel, 472 F. Supp. 3d 926, 1082–1083 (NM 2020).
+Why have some mistaken this Court's modest decision in
+Jacobson for a towering authority that overshadows the
+Constitution during a pandemic? In the end, I can only
+surmise that much of the answer lies in a particular judicial
+impulse to stay out of the way in times of crisis. But if
+that impulse may be understandable or even admirable in
+other circumstances, we may not shelter in place when the
+Constitution is under attack. Things never go well when
+we do.
+*
+That leaves my colleagues to their second line of argu-
+ment. Maybe precedent does not support the Governor's
+actions. Maybe those actions do violate the Constitution.
+But, they say, we should stay our hand all the same. Even
+if the churches and synagogues before us have been subject
+to unconstitutional restrictions for months, it is no matter
+because, just the other day, the Governor changed his color
+code for Brooklyn and Queens where the plaintiffs are lo-
+cated. Now those regions are “yellow zones” and the chal-
+lenged restrictions on worship associated with “orange” and
+“red zones” do not apply. So, the reasoning goes, we should
+send the plaintiffs home with an invitation to return later if
+need be.
+To my mind, this reply only advances the case for inter-
+vention. It has taken weeks for the plaintiffs to work their
+way through the judicial system and bring their case to us.
+During all this time, they were subject to unconstitutional
+restrictions. Now, just as this Court was preparing to act
+on their applications, the Governor loosened his restrictions,
+all while continuing to assert the power to tighten them
+again anytime as conditions warrant. So if we dismissed
+this case, nothing would prevent the Governor from reinstat-
+ing the challenged restrictions tomorrow. And by the time
+a new challenge might work its way to us, he could just
+change them again. The Governor has fought this case at
+every step of the way. To turn away religious leaders
+bringing meritorious claims just because the Governor de-
+cided to hit the “off” switch in the shadow of our review
+would be, in my view, just another sacrifce of fundamental
+rights in the name of judicial modesty.
+Even our dissenting colleagues do not suggest this case is
+moot or otherwise outside our power to decide. They coun-
+sel delay only because “the disease-related circumstances
+[are] rapidly changing.” Post, at 38 (opinion of Breyer, J.).

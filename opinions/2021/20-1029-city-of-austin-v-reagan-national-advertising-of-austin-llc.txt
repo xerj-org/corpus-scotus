@@ -1,0 +1,488 @@
+City of Austin v. Reagan National Advertising of Austin, LLC — No. 20-1029 — October Term 2021 — decided 4/21/22 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 596 U.S. 61
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r22_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+Justice Sotomayor delivered the opinion of the Court.
+Like thousands of jurisdictions around the country, the
+City of Austin, Texas (City), regulates signs that advertise
+things that are not located on the same premises as the sign,
+as well as signs that direct people to offsite locations. These
+are known as off-premises signs, and they include, most nota-
+bly, billboards. The question presented is whether, under
+this Court's precedents interpreting the Free Speech Clause
+of the First Amendment, the City's regulation is subject to
+strict scrutiny. We hold that it is not.
+Kwame Raoul of Illinois, Thomas J. Miller of Iowa, Aaron M. Frey of
+Maine, Brian E. Frosh of Maryland, Maura Healey of Massachusetts,
+Dana Nessel of Michigan, Keith Ellison of Minnesota, Lynn Fitch of Mis-
+sissippi, Aaron D. Ford of Nevada, Letitia James of New York, Dave Yost
+of Ohio, Ellen F. Rosenblum of Oregon, Josh Shapiro of Pennsylvania,
+Jason R. Ravnsborg of South Dakota, Thomas J. Donovan, Jr., of Ver-
+mont, and Robert W. Ferguson of Washington; for the American Planning
+Association by Brian J. Connolly; for the International Sign Association
+by Joseph S. Hall; for the Knight First Amendment Institute at Columbia
+University et al. by Scott Wilkens, Alex Abdo, and Jameel Jaffer; for the
+National League of Cities et al. by John J. Korzen and Lisa Soronen; and
+for Outfront Media Inc. by Laura W. Brill.
+Briefs of amici curiae urging affirmance were fled for the Alliance De-
+fending Freedom et al. by William L. Esser IV, John J. Bursch, and Chris-
+topher P . Schandevel; for the Americans for Prosperity Foundation by
+Cynthia Fleming Crawford and Casey Mattox; for the Cato Institute by
+Eugene Volokh and Ilya Shapiro; for the Institute for Free Speech by Julie
+Smith and Owen Yeates; for the Institute for Justice by Samuel B. Gedge,
+Robert McNamara, and Paul M. Sherman; for the Liberty Justice Center
+by Jeffrey M. Schwab; for the Pacific Legal Foundation by Deborah J. La
+Fetra; for Summus Outdoor by Bruce E. H. Johnson and Caesar Kalinow-
+ski IV; and for the Washington Legal Foundation by Thomas M. Johnson,
+Jr., Krystal B. Swendsboe, Cory L. Andrews, and John M. Masslon II .
+Briefs of amici curiae were fled for Land Developers et al. by Cooke
+Kelsey; for the Out of Home Advertising Association of America, Inc.,
+et al. by Gordon D. Todd and Virginia A. Seitz; and for Protect the First
+Foundation by Gene C. Schaerr, Erik S. Jaffe, H. Christopher Bartolo-
+mucci, Hannah C. Smith, and Kathryn E. Tarbert.
+I
+A
+American jurisdictions have regulated outdoor advertise-
+ments for well over a century. See C. Taylor & W. Chang,
+The History of Outdoor Advertising Regulation in the
+United States, 15 J. of Macromarketing 47, 48 (1995). By
+some accounts, the proliferation of conspicuous patent-
+medicine advertisements on rocks and barns prompted
+States to begin regulating outdoor advertising in the late
+1860s. Ibid.; F. Presbrey, The History and Development of
+Advertising 500–501 (1929). As part of this regulatory tra-
+dition, federal, state, and local governments have long distin-
+guished between signs (such as billboards) that promote
+ideas, products, or services located elsewhere and those that
+promote or identify things located onsite. For example, this
+Court in 1932 reviewed and approved of a Utah statute that
+prohibited signs advertising cigarettes and related products,
+but allowed businesses selling such products to post onsite
+signs identifying themselves as dealers. Packer Corp. v.
+Utah, 285 U. S. 105, 107, 110.
+On-/off-premises distinctions, like the one at issue here,
+proliferated following the enactment of the Highway Beauti-
+fication Act of 1965 (Act), 23 U. S. C. § 131. In the Act, Con-
+gress directed States receiving federal highway funding to
+regulate outdoor signs in proximity to federal highways, in
+part by limiting off-premises signs. See §§ 131(b)–(c) (allow-
+ing exceptions for “signs, displays, and devices advertising
+the sale or lease of property upon which they are located”
+and “signs, displays, and devices . . . advertising activities
+conducted on the property on which they are located”).
+Under the Act, approximately two-thirds of States have im-
+plemented similar on-/off-premises distinctions. See App. A
+to Reply to Brief in Opposition (collecting statutes); Brief
+for State of Florida et al. as Amici Curiae 7, n. 3 (same).
+The City represents, and respondents have not disputed,
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+that “tens of thousands of municipalities nationwide” have
+adopted analogous on-/off-premises distinctions in their sign
+codes. Brief for Petitioner 19; see also App. B to Reply to
+Brief in Opposition (collecting examples of ordinances); Brief
+for State of Florida et al. as Amici Curiae 8, n. 4 (same).
+The City of Austin is one such municipality. The City dis-
+tinguishes between on-premises and off-premises signs in its
+sign code, and specially regulates the latter, in order to “pro-
+tect the aesthetic value of the city and to protect public
+safety.” App. 39.
+During the time period relevant to this dispute, the City's
+sign code defined the term “off-premise sign” to mean “a sign
+advertising a business, person, activity, goods, products, or
+services not located on the site where the sign is installed,
+or that directs persons to any location not on that site.”
+Austin, Tex., City Code § 25–10–3(11) (2016). This definition
+was materially analogous to the one used in the federal High-
+way Beautifcation Act and many other state and local codes
+referenced above. The code prohibited the construction of
+any new off-premises signs, § 25–10–102(1), but allowed ex-
+isting off-premises signs to remain as grandfathered “non-
+conforming signs,” § 25–10–3(10). An owner of a grandfath-
+ered off-premises sign could “continue or maintain [it] at its
+existing location” and could change the “face of the sign,”
+but could not “increase the degree of the existing nonconfor-
+mity,” “change the method or technology used to convey a
+message,” or “increase the illumination of the sign.” §§ 25–
+10–152(A)–(B). By contrast, the code permitted the digiti-
+zation of on-premises signs. § 25–10–102(6) (permitting
+“electronically controlled changeable-copy sign[s]”). 1
+B
+Respondents, Reagan National Advertising of Austin,
+LLC (Reagan), and Lamar Advantage Outdoor Company,
+1 The City subsequently amended its sign code. The parties agree that
+the amendments do not affect this dispute. Reply to Brief in Opposition
+11–12; Brief for Respondent Reagan 9.
+L. P. (Lamar), are outdoor-advertising companies that own
+billboards in Austin. In April and June of 2017, Reagan
+sought permits from the City to digitize some of its off-
+premises billboards. The City denied the applications.
+Reagan fled suit against the City in state court alleging that
+the code's prohibition against digitizing off-premises signs,
+but not on-premises signs, violated the Free Speech Clause
+of the First Amendment. The City removed the case to fed-
+eral court, and Lamar intervened as a plaintiff. 2
+After the parties stipulated to the pertinent facts, the Dis-
+trict Court held a bench trial and entered judgment in favor
+of the City. 377 F. Supp. 3d 670, 673, 683 (WD Tex. 2019).
+As relevant, the court held that the challenged sign code
+provisions were content neutral under Reed v. Town of Gil-
+bert, 576 U. S. 155 (2015). The court explained that “the on/
+off premises distinction [did] not impose greater restrictions
+for political messages, religious messages, or any other sub-
+ject matter,” and “d[id] not require a viewer to evaluate the
+topic, idea, or viewpoint on the sign”; instead, it required
+the viewer only “to determine whether the subject matter is
+located on the same property as the sign.” 377 F. Supp. 3d,
+at 681. The court therefore held that the distinction was
+a facially content-neutral “regulation based on location.”
+Ibid. The court further found “no evidence in the record”
+that the City had applied the sign code provisions “differ-
+ently for different messages or speakers” or that its stated
+concern for esthetics and safety was “pretext for any other
+purpose.” Id., at 681–682. Accordingly, the court reviewed
+the City's on-/off-premises distinction under the standard of
+intermediate scrutiny applicable to content-neutral regula-
+tions of speech. Id., at 682. The court found that the dis-
+tinction satisfied this standard. Id., at 682–683.
+The Court of Appeals reversed. 972 F. 3d 696, 699 (CA5
+2020). The court opined that because the City's on-/off -
+2 Lamar did not participate in the proceedings on the merits before this
+Court. Brief for Respondent Reagan II.
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+premises distinction required a reader to inquire “who is the
+speaker and what is the speaker saying,” “both hallmarks of
+a content-based inquiry,” the distinction was content based.
+Id., at 706. It reasoned that “[t]he fact that a government
+official ha[s] to read a sign's message to determine the sign's
+purpose [i]s enough to” render a regulation content based
+and “subject [it] to strict scrutiny.” Ibid. (citing Thomas v.
+Bright, 937 F. 3d 721, 730–731 (CA6 2019)); see also 972 F. 3d,
+at 704 (“To determine whether a sign is on-premises or off-
+premises, one must read the sign . . . ”). The court acknowl-
+edged that its interpretation of Reed was “broad,” but rea-
+soned that the consequences were “not . . . unforeseen,”
+given the concerns raised by Justices who did not join the
+opinion of the Court. 972 F. 3d, at 707.
+Because the Court of Appeals determined that the City's
+on-/off-premises distinction imposed a content-based restric-
+tion on speech, it reviewed that distinction under the onerous
+standard of strict scrutiny. Recognizing that strict scrutiny
+“is, understandably, a hard standard to meet” and that it
+“leads to almost certain legal condemnation,” id., at 709, the
+court held that the City's justifications for the distinction
+could not meet that standard, rendering it unconstitutional,
+id., at 709–710.3
+3 The Court of Appeals further considered the possibility that the code
+provisions regulated only commercial speech, such that only intermediate
+scrutiny would apply even if the provisions were content based. 972
+F. 3d, at 707–709; see Central Hudson Gas & Elec. Corp. v. Public Serv.
+Comm'n of N. Y ., 447 U. S. 557, 566 (1980). The court rejected this view
+because the provisions “applie[d] with equal force to both commercial and
+noncommercial messages.” 972 F. 3d, at 709. Before this Court, the City
+makes a similar argument, claiming that “[a]s applied to billboards like
+those owned by respondents,” the contested code provisions regulate com-
+mercial speech and so are subject to intermediate scrutiny. Brief for Peti-
+tioner 49. It is undisputed, however, that Reagan's billboards also display
+noncommercial messages, meaning that the City's denial of Reagan's appli-
+cations for digitization implicated Reagan's commercial and noncommercial
+speech alike. See Brief for Respondent Reagan 45–46; App. 130–141.
+More importantly, as the Court of Appeals explained, the contested code
+This Court granted certiorari. 594 U. S. ––– (2021).
+II
+A regulation of speech is facially content based under the
+First Amendment if it “target[s] speech based on its commu-
+nicative content”—that is, if it “applies to particular speech
+because of the topic discussed or the idea or message ex-
+pressed.” Reed, 576 U. S., at 163. The Court of Appeals
+interpreted Reed to mean that if “[a] reader must ask: who
+is the speaker and what is the speaker saying” to apply
+a regulation, then the regulation is automatically content
+based. 972 F. 3d, at 706. This rule, which holds that a reg-
+ulation cannot be content neutral if it requires reading the
+sign at issue, is too extreme an interpretation of this Court's
+precedent. Unlike the regulations at issue in Reed, the
+City's off-premises distinction requires an examination of
+speech only in service of drawing neutral, location-based
+lines. It is agnostic as to content. Thus, absent a content-
+based purpose or justification, the City's distinction is con-
+tent neutral and does not warrant the application of strict
+scrutiny.
+A
+The Reed Court confronted a very different regulatory
+scheme than the one at issue here: a comprehensive sign code
+that “single[d] out specific subject matter for differential
+treatment.” 576 U. S., at 169. The town of Gilbert, Ari-
+zona, had adopted a code that applied distinct size, place-
+ment, and time restrictions to 23 different categories of
+signs. Id., at 159. The Court focused its analysis on three
+categories defined by whether the signs displayed ideologi-
+cal, political, or certain temporary directional messages.
+provisions admit of no exception for noncommercial speech. The only way
+in which they differentiate speech is by distinguishing between on-
+premises and off-premises signs. The Court thus must determine which
+level of scrutiny applies to the manner in which the provisions actually
+regulate speech.
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+The code gave the most favorable treatment to “ `Ideological
+Sign[s],' ” defined as those “ `communicating a message or
+ideas for noncommercial purposes' ” with certain exceptions.
+Id., at 159–160 (alteration in original). It offered less favor-
+able treatment to “ `Political Sign[s],' ” defined as those “ `de-
+signed to influence the outcome of an election.' ” Id., at 160
+(alteration in original). Most restricted of all were “ `Tem-
+porary Directional Signs Relating to a Qualifying Event,' ”
+with qualifying events defined as gatherings “ `sponsored, ar-
+ranged, or promoted by a religious, charitable, community
+service, educational, or other similar non-proft organiza-
+tion.' ” Id., at 160–161.
+The Reed Court determined that these restrictions were
+facially content based. Id., at 164–165. Rejecting the con-
+tention that the restrictions were content neutral because
+they did not discriminate on the basis of viewpoint, the Court
+explained: “[I]t is well established that `[t]he First Amend-
+ment's hostility to content-based regulation extends not only
+to restrictions on particular viewpoints, but also to prohibi-
+tion of public discussion of an entire topic.' ” Id., at 169
+(quoting Consolidated Edison Co. of N. Y . v. Public Serv.
+Comm'n of N. Y ., 447 U. S. 530, 537 (1980)); accord, e. g., Po-
+lice Dept. of Chicago v. Mosley, 408 U. S. 92, 95 (1972) (ex-
+plaining that “[t]he central problem” with a municipality's
+effort to exempt labor picketing from a prohibition on picket-
+ing near public schools was “that it describes permissible
+picketing in terms of its subject matter”); Carey v. Brown,
+447 U. S. 455, 460–461 (1980) (subjecting a similar statute
+that “accord[ed] preferential treatment to the expression of
+views on one particular subject” to strict scrutiny). 4 Apply-
+4 The concurrence in Reed, which spoke for three of the six Justices in
+the majority, similarly explained that “[c]ontent-based laws merit th[e]
+protection” of strict scrutiny “because they present, albeit sometimes in a
+subtler form, the same dangers as laws that regulate speech based on
+viewpoint. Limiting speech based on its `topic' or `subject' favors those
+who do not want to disturb the status quo. Such regulations may inter-
+ing these principles, the Court reasoned that “a speech regu-
+lation targeted at specific subject matter is content based
+even if it does not discriminate among viewpoints within that
+subject matter. . . . For example, a law banning the use of
+sound trucks for political speech—and only political speech—
+would be a content-based regulation, even if it imposed no
+limits on the political viewpoints that could be expressed.”
+576 U. S., at 169. By treating ideological messages more fa-
+vorably than political messages, and both more favorably
+than temporary directional messages, “[t]he Town's Sign
+Code likewise single[d] out specific subject matter for differ-
+ential treatment, even if it [did] not target viewpoints within
+that subject matter.” Ibid.
+In this case, enforcing the City's challenged sign code pro-
+visions requires reading a billboard to determine whether it
+directs readers to the property on which it stands or to some
+other, offsite location. Unlike the sign code at issue in Reed,
+however, the City's provisions at issue here do not single out
+any topic or subject matter for differential treatment. A
+sign's substantive message itself is irrelevant to the applica-
+tion of the provisions; there are no content-discriminatory
+classifications for political messages, ideological messages, or
+directional messages concerning specific events, including
+those sponsored by religious and nonproft organizations.
+Rather, the City's provisions distinguish based on location:
+A given sign is treated differently based solely on whether
+it is located on the same premises as the thing being dis-
+cussed or not. The message on the sign matters only to the
+extent that it informs the sign's relative location. The on-/
+off-premises distinction is therefore similar to ordinary time,
+place, or manner restrictions. Reed does not require the ap-
+plication of strict scrutiny to this kind of location-based reg-
+ulation. Cf. Frisby v. Schultz, 487 U. S. 474, 482 (1988) (sus-
+fere with democratic self-government and the search for truth.” 576
+U. S., at 174 (Alito , J., concurring) (quoting Consolidated Edison Co. of
+N. Y ., 447 U. S., at 537).
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+taining an ordinance that prohibited “only picketing focused
+on, and taking place in front of, a particular residence” as
+content neutral).
+B
+This Court's First Amendment precedents and doctrines
+have consistently recognized that restrictions on speech may
+require some evaluation of the speech and nonetheless re-
+main content neutral.
+Most relevant here, the First Amendment allows for regu-
+lations of solicitation—that is, speech “requesting or seeking
+to obtain something” or “[a]n attempt or effort to gain busi-
+ness.” Black's Law Dictionary 1677 (11th ed. 2019). To
+identify whether speech entails solicitation, one must read or
+hear it first. Even so, the Court has reasoned that restric-
+tions on solicitation are not content based and do not inher-
+ently present “the potential for becoming a means of sup-
+pressing a particular point of view,” so long as they do not
+discriminate based on topic, subject matter, or viewpoint.
+Heffron v. International Soc. for Krishna Consciousness,
+Inc., 452 U. S. 640, 649 (1981).
+Thus, in 1940, the Court invalidated a statute prohibiting
+solicitation for religious causes but observed that States
+were “free to regulate the time and manner of solicitation
+generally, in the interest of public safety, peace, comfort or
+convenience.” Cantwell v. Connecticut, 310 U. S. 296, 306–
+307. Decades later, the Court reviewed just such a time,
+place, and manner regulation restricting all solicitation at
+the Minnesota State Fair, as well as all sale or distribution
+of merchandise, to a specific location. Heffron, 452 U. S., at
+643–644. The State had applied the restriction against a re-
+ligious practice that included “solicit[ing] donations for the
+support of the Krishna religion.” Id., at 645. As a result,
+members of the religion were free to roam the fairgrounds
+and discuss their beliefs, but they were prohibited from ask-
+ing for donations for their cause outside of a designated loca-
+tion. Id., at 646, 655. The Court upheld the State's applica-
+tion of this restriction as content neutral, emphasizing that
+it “applie[d] evenhandedly to all who wish[ed] . . . to solicit
+funds,” whether for “commercial or charitable” reasons. Id.,
+at 649.
+Consistent with these precedents, the Court has pre-
+viously understood distinctions between on-premises and off-
+premises signs, like the one at issue in this case, to be con-
+tent neutral. In 1978, the Court summarily dismissed an
+appeal “for want of a substantial federal question” where a
+state court had approved of an on-/off-premises distinction
+as a permissible time, place, and manner restriction under
+the Free Speech Clause. Suffolk Outdoor Advertising Co.
+v. Hulse, 439 U. S. 808 (1978). Three years later, the Court
+upheld in relevant part an ordinance that prohibited all off-
+premises commercial advertising but allowed on-premises
+commercial advertising. Metromedia, Inc. v. San Diego ,
+453 U. S. 490, 503–512 (1981) (plurality opinion). 5 The Met-
+romedia Court did not need to decide whether the off-
+premises prohibition was content based, as it regulated only
+commercial speech and so was subject to intermediate scru-
+tiny in any event. See id., at 507–512 (citing Central Hud-
+son Gas & Elec. Corp. v. Public Serv. Comm'n of N. Y ., 447
+U. S. 557 (1980)). Shortly thereafter, however, the Court
+applied the relevant portion of Metromedia and described
+the off-premises prohibition as “a content-neutral prohibi-
+tion against the use of billboards.” Members of City Coun-
+cil of Los Angeles v. Taxpayers for Vincent, 466 U. S. 789,
+807 (1984) (emphasis added).
+Underlying these cases and others is a rejection of the
+view that any examination of speech or expression inher-
+ently triggers heightened First Amendment concern.
+Rather, it is regulations that discriminate based on “the
+5 Although the opinion in Metromedia was labeled a plurality for four
+Justices, the relevant portion of the opinion was also joined by a fifth.
+See 453 U. S., at 541 (Stevens, J., dissenting in part) (“join[ing] Parts I
+through IV of Justice White's opinion”).
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+topic discussed or the idea or message expressed” that are
+content based. Reed, 576 U. S., at 171. The sign code pro-
+visions challenged here do not discriminate on those bases.
+C
+Reagan does not claim Reed expressly or implicitly over-
+turned the precedents discussed above. Its argument relies
+primarily on one sentence in Reed recognizing that “[s]ome
+facial distinctions based on a message are obvious, defining
+regulated speech by particular subject matter, and others
+are more subtle, defining regulated speech by its function or
+purpose.” Id., at 163. Seizing on this reference, Reagan
+asserts that the City's sign code “defines off-premises signs
+based on their `function or purpose.' ” Brief for Respondent
+Reagan 20 (quoting Reed, 576 U. S., at 163). It asks the
+Court to “reaffirm that, where a regulation `define[s] regu-
+lated speech by its function or purpose,' it is content-based
+on its face and thus subject to strict scrutiny.” Brief for
+Respondent Reagan 34 (quoting Reed, 576 U. S., at 163).
+The argument stretches Reed's “function or purpose” lan-
+guage too far. The principle the Reed Court articulated is
+more straightforward. While overt subject-matter discrim-
+ination is facially content based (for example, “ `Ideological
+Sign[s],' ” defined as those “ `communicating a message or
+ideas for noncommercial purposes' ”), so, too, are subtler
+forms of discrimination that achieve identical results based
+on function or purpose (for example, “ `Political Sign[s],' ” de-
+fined as those “ `designed to influence the outcome of an elec-
+tion' ”). Id., at 159, 160, 163–164 (alterations in original).
+In other words, a regulation of speech cannot escape classifi-
+cation as facially content based simply by swapping an obvi-
+ous subject-matter distinction for a “function or purpose”
+proxy that achieves the same result. That does not mean
+that any classification that considers function or purpose is
+always content based. Such a reading of “function or pur-
+pose” would contravene numerous precedents, including
+many of those discussed above. Reed did not purport to cast
+doubt on these cases.
+Nor did Reed cast doubt on the Nation's history of regulat-
+ing off-premises signs. Off-premises billboards of the sort
+that predominate today were not present in the founding era,
+but as large outdoor advertisements proliferated in the
+1800s, regulation followed. As early as 1932, the Court
+had already approved a location-based differential for ad-
+vertising signs. See Packer Corp., 285 U. S., at 107, 110.
+Thereafter, for the last 50-plus years, federal, state, and local
+jurisdictions have repeatedly relied upon on-/off-premises
+distinctions to address the distinct safety and esthetic chal-
+lenges posed by billboards and other methods of outdoor ad-
+vertising. See supra, at 65–66. The unbroken tradition of
+on-/off-premises distinctions counsels against the adoption of
+Reagan's novel rule. See Williams-Yulee v. Florida Bar ,
+575 U. S. 433, 446 (2015) (recognizing “history and tradition
+of regulation” as relevant when considering the scope of the
+First Amendment).6
+D
+Tellingly, even today's dissent appears reluctant to em-
+brace the read-the-sign rule adopted by the court below.
+6 The Court of Appeals, for its part, understood Reed to have deemed a
+regulation content based solely because “it `single[d] out signs bearing a
+particular message: the time and location of a specific event.' ” 972 F. 3d
+696, 706 (CA5 2020) (quoting Reed, 576 U. S., at 171). Reagan does not
+rely as heavily on this language, and for good reason. As a preliminary
+matter, the Reed Court found that the provisions at issue in that case did
+not, in fact, “hinge on `whether and when an event is occurring.' ” Id.,
+at 170. More fundamentally, those provisions did not target all events
+generally, regardless of topic; they targeted “a specific event” (an election)
+“because of the topic discussed or the idea or message expressed” (political
+speech). Id., at 171. The Court of Appeals' contrary reading would ren-
+der the majority opinion in Reed irreconcilable with the concurrence,
+which recognized that “[r]ules imposing time restrictions on signs ad-
+vertising a one-time event,” which “do not discriminate based on topic
+or subject,” would be content neutral. Id., at 174, 175 (Alito , J.,
+concurring).
+ADVERTISING OF AUSTIN, LLC
+Opinion of the Court
+Instead, the dissent attacks a straw man. Contrary to its
+accusations, we do not “nullif[y]” Reed's protections, “resus-
+citat[e]” a decision that we do not cite, or fashion a novel
+“specifcity test” simply by quoting the standard repeatedly
+enunciated in Reed. Post, at 93, 96, 106 (opinion of Thomas,
+J.). Nor do we cast doubt on any of our precedents recogniz-
+ing examples of topic or subject-matter discrimination as
+content based. See, e. g., post, at 94–95. We merely apply
+those precedents to reach the “commonsense” result that a
+location-based and content-agnostic on-/off-premises distinc-
+tion does not, on its face, “singl[e] out specific subject matter
+for differential treatment.” Reed, 576 U. S., at 163, 169.
+It is the dissent that would upend settled understandings
+of the law. Where we adhere to the teachings of history,
+experience, and precedent, the dissent would hold that tens
+of thousands of jurisdictions have presumptively violated the
+First Amendment, some for more than half a century, and
+that they have done so by use of an on-/off-premises distinc-
+tion this Court has repeatedly reviewed and never pre-
+viously questioned. For the reasons we have explained, the
+Constitution does not require that bizarre result.
+III
+This Court's determination that the City's ordinance is fa-
+cially content neutral does not end the First Amendment in-
+quiry. If there is evidence that an impermissible purpose or
+justification underpins a facially content-neutral restriction,
+for instance, that restriction may be content based. See
+Reed, 576 U. S., at 164. Moreover, to survive intermediate
+scrutiny, a restriction on speech or expression must be “ `nar-
+rowly tailored to serve a significant governmental interest.' ”
+Ward v. Rock Against Racism, 491 U. S. 781, 791 (1989).
+The parties dispute whether the City can satisfy these re-
+quirements. This Court, however, is “a court of final review
+and not first view,” and it does not “[o]rdinarily . . . decide in
+the first instance issues not decided below.” Zivotofsky v.

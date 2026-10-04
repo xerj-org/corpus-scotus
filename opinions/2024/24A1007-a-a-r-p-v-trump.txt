@@ -1,0 +1,256 @@
+A.A.R.P. v. Trump — No. 24A1007 — October Term 2024 — decided 5/16/25 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 605 U.S. 91
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r31_7k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+mands for determination of what specific notice is constitutionally
+required.
+The Court may issue temporary relief to a putative class to preserve
+its jurisdiction without deciding whether formal class certifcation is ap-
+propriate. Named applicants and putative class members are entitled
+to constitutionally adequate notice prior to removal. Although putative
+class members may take different steps to protect their interests, the
+notice to which they are entitled is the same. And a class action de-
+fendant may not defeat class treatment, if otherwise proper, by simply
+promising to treat named plaintiffs differently.
+Certiorari and temporary injunctive relief granted; judgment vacated
+and remanded.
+Per Curiam.
+The President has invoked the Alien Enemies Act (AEA),
+Rev. Stat. § 4067, 50 U. S. C. § 21, to remove Venezuelan na-
+tionals who are members of Tren de Aragua (TdA), a desig-
+nated foreign terrorist organization. See Presidential Proc-
+lamation No. 10903, 90 Fed. Reg. 13033 (2025). Applicants
+are two detainees identified as members of TdA and a puta-
+tive class of similarly situated detainees in the Northern
+District of Texas. All of the alleged TdA members in the
+putative class are currently being held in U. S. detention
+facilities. In the application before the Court, the detainees
+seek injunctive relief against summary removal under the
+AEA.
+I
+On April 17, 2025, the District Court denied the detainees'
+motion for a temporary restraining order (TRO) against
+summary removal under the AEA. No. 25−cv−59, ECF
+Doc. 27. The detainees allege that, hours later, putative
+class members were served notices of AEA removal and told
+that they would be removed “tonight or tomorrow.” ECF
+Doc. 30, p. 1. On April 18 at 12:34 a.m. central time, the
+detainees moved for an emergency TRO. See ibid. At
+12:48 p.m., the detainees moved for a ruling on that motion
+or a status conference by 1:30 p.m. ECF Doc. 34. At 3:02
+p.m., they appealed “the constructive denia[l]” of the emer-
+gency TRO to the Fifth Circuit. ECF Doc. 36, p. 1. The
+detainees also applied to this Court for a temporary
+injunction.
+We understood the Government to assert the right to re-
+move the detainees as soon as midnight central time on April
+19. The Government addressed the detainees' allegations
+on April 18 only at an evening hearing before the District
+Court for the District of Columbia, where the detainees had
+separately sought relief. The Government guaranteed that
+no putative class members would be removed that day. Tr.
+of Proceedings in J. G. G. v. Trump, No. 25−cv−766, ECF
+Doc. 93, p. 9. But it further represented that, in its view,
+removal of putative class members as soon as the next day
+“would be consistent with” its due process obligations, and
+it “reserve[d] the right” to take such action. Id., at 26; see
+id., at 16 (explanation by the court that “tomorrow . . . starts
+at 12:01 a.m.”). Evidence now in the record (although not
+all before us on April 18) suggests that the Government had
+in fact taken steps on the afternoon of April 18 toward re-
+moving detainees under the AEA—including transporting
+them from their detention facility to an airport and later re-
+turning them to the facility. See Supp. App. to Reply 1a−5a.
+Had the detainees been removed from the United States to
+the custody of a foreign sovereign on April 19, the Govern-
+ment may have argued, as it has previously argued, that no
+U. S. court had jurisdiction to order relief. See Application
+To Vacate Injunction in Noem v. Abrego Garcia, No. 24A949
+(Apr. 7, 2025), pp. 11−20.
+At 12:52 a.m. eastern time (11:52 p.m. central time), we
+ordered the Government—in light of all these circum-
+stances—“not to remove any member of the putative class of
+detainees” in order to preserve our jurisdiction to consider
+the application. 604 U. S. 1251 (2025). We invited the Gov-
+ernment to respond to that application after the Fifth Circuit
+ruled. The Fifth Circuit dismissed the detainees' appeal for
+lack of jurisdiction and denied their motion for injunction
+pending appeal as premature, on the ground that the detain-
+ees “gave the [district] court only 42 minutes to act.” No.
+25−10534, ECF Doc. 14, p. 2. We now construe the applica-
+tion as a petition for writ of certiorari from the decision of
+the Fifth Circuit. See Reply 15. We grant the petition as
+well as the application for injunction pending further pro-
+ceedings, vacate the judgment of the Fifth Circuit, and re-
+mand for further proceedings.
+II
+The Fifth Circuit erred in dismissing the detainees' appeal
+for lack of jurisdiction. Appellate courts have jurisdiction
+to review interlocutory orders that have “the practical effect
+of refusing an injunction.” Carson v. American Brands,
+Inc., 450 U. S. 79, 84 (1981). A district court's inaction in the
+face of extreme urgency and a high risk of “serious, perhaps
+irreparable,” consequences may have the effect of refusing
+an injunction. 16 C. Wright, A. Miller, & E. Cooper, Federal
+Practice and Procedure § 3924.1, pp. 174, 180−181 (3d ed.
+2012) (quoting Baltimore Contractors, Inc. v. Bodinger, 348
+U. S. 176, 181 (1955)). Here the District Court's inaction—
+not for 42 minutes but for 14 hours and 28 minutes—had the
+practical effect of refusing an injunction to detainees facing
+an imminent threat of severe, irreparable harm. Accord-
+ingly, we vacate the judgment of the Court of Appeals.
+“[T]he Fifth Amendment entitles aliens to due process of
+law in the context of removal proceedings.” Trump v.
+J. G. G., 604 U. S. 670, 673 (2025) (per curiam ) (internal quo-
+tation marks omitted). “Procedural due process rules are
+meant to protect” against “the mistaken or unjustified depri-
+vation of life, liberty, or property.” Carey v. Piphus, 435
+U. S. 247, 259 (1978). We have long held that “no person
+shall be” removed from the United States “without opportu-
+nity, at some time, to be heard.” The Japanese Immigrant
+Case, 189 U. S. 86, 101 (1903). Due process requires notice
+that is “reasonably calculated, under all the circumstances,
+to apprise interested parties” and that “afford[s] a reasonable
+time . . . to make [an] appearance.” Mullane v. Central Han-
+over Bank & Trust Co., 339 U. S. 306, 314 (1950). Accord-
+ingly, in J. G. G., this Court explained—with all nine Justices
+agreeing—that “AEA detainees must receive notice . . . that
+they are subject to removal under the Act . . . within a
+reasonable time and in such a manner as will allow them
+to actually seek habeas relief” before removal. 604 U. S., at
+673. In order to “actually seek habeas relief,” a detainee
+must have sufficient time and information to reasonably be
+able to contact counsel, fle a petition, and pursue appro-
+priate relief.
+The Government does not contest before this Court the
+applicants' description of the notice afforded to AEA detain-
+ees in the Northern District of Texas, nor the assertion that
+the Government was poised to carry out removals immi-
+nently. The Government has represented elsewhere that it
+is unable to provide for the return of an individual deported
+in error to a prison in El Salvador, see Abrego Garcia v.
+Noem, No. 25−cv−951 (D Md.), ECF Docs. 74, 77, where it is
+alleged that detainees face indefinite detention, see Appli-
+cation for Injunction 11. The detainees' interests at stake
+are accordingly particularly weighty. Under these circum-
+stances, notice roughly 24 hours before removal, devoid of
+information about how to exercise due process rights to con-
+test that removal, surely does not pass muster. But it is not
+optimal for this Court, far removed from the circumstances
+on the ground, to determine in the first instance the precise
+process necessary to satisfy the Constitution in this case.
+We remand the case to the Fifth Circuit for that purpose.
+To be clear, we decide today only that the detainees are
+entitled to more notice than was given on April 18, and we
+grant temporary injunctive relief to preserve our jurisdiction
+while the question of what notice is due is adjudicated. See
+post, at 112 (Alito, J., dissenting). We did not on April 19—
+and do not now—address the underlying merits of the par-
+ties' claims regarding the legality of removals under the
+AEA. We recognize the significance of the Government's
+national security interests as well as the necessity that such
+interests be pursued in a manner consistent with the Consti-
+tution. In light of the foregoing, lower courts should ad-
+dress AEA cases expeditiously.
+III
+The dissent disputes both the Court's jurisdiction and the
+availability of classwide relief. We do not find its reason-
+ing persuasive.
+First, we reject the dissent's characterization of the events
+that transpired on April 18, which lead it to question our
+jurisdiction. District courts should approach requests for
+preliminary relief with care and consideration, see post, at
+102−103 (Alito, J., dissenting), but exigent circumstances may
+impose practical constraints. Preliminary relief is “custom-
+arily granted on the basis of procedures that are less formal
+and evidence that is less complete than in a trial on the merits.”
+Lackey v. Stinnie, 604 U. S. 192, 200–201 (2025) (quoting Uni-
+versity of Tex. v. Camenisch, 451 U. S. 390, 395 (1981)). The
+purpose of such relief is “merely to preserve the relative po-
+sitions of the parties” pending further proceedings. Lackey,
+604 U. S., at 200 (quoting Camenisch, 451 U. S., at 395).
+In this case, the record before the District Court, although
+limited, indicated that removals of putative class members
+were likely imminent. Contra, post, at 103−105 (Alito , J.,
+dissenting). The detainees attached four declarations to
+their emergency motion for a TRO. In one, for example, an
+attorney relayed a detainee's report that immigration off-
+cers “had informed them that they will be deported either
+today or tomorrow.” ECF Doc. 30−1. In a second, a non-
+proft director described conversations with family members
+of detainees and linked to a video of detainees holding no-
+tices of removal as evidence that detainees “were being re-
+moved.” ECF Doc. 30−2, p. 1.
+Importantly, the relevant question for purposes of our ju-
+risdiction is whether, at the time this Court was called upon
+to intervene, the District Court's inaction had the effect of
+refusing an injunction. In their application to this Court,
+the detainees represented that “[m]any individuals [had] al-
+ready been loaded on to buses, presumably headed to the
+airport.” Application for Injunction 1. Shortly thereafter,
+the Government represented on the record in federal court
+that it reserved the right to remove detainees after mid-
+night. We had the power to issue injunctive relief to pre-
+vent irreparable harm to the applicants and to preserve our
+jurisdiction over the matter. 28 U. S. C. § 1651(a). Now
+that the Fifth Circuit has ruled, our certiorari jurisdiction
+also supports review in the ordinary course.
+Finally, this Court may properly issue temporary injunc-
+tive relief to the putative class in order to preserve our juris-
+diction pending appeal.* Named applicants A. A. R. P. and
+W. M. M. assert that they are at imminent risk of being clas-
+sifed as alien enemies and removed from the United States,
+but the record does not indicate that they have received any
+formal notice of removal under the AEA. See ECF Doc. 38,
+pp. 5−6. The named applicants, along with putative class
+members, are entitled to constitutionally adequate notice
+*We note that the District Court recently denied class certifcation as
+to the detainees' underlying habeas claims challenging the validity of re-
+moval under the AEA. See ECF Doc. 67. By its own terms, the District
+Court's order is “automatically vacated” by our order granting a writ of
+certiorari. Id., at 2. And in any event, the District Court's order
+primarily addressed the detainees' ability to challenge the validity of
+AEA removal on a classwide basis. The application before this Court
+seeks only to vindicate notice rights on a classwide basis. To the extent
+the District Court's order addressed due process, see post, at 111 (Alito ,
+J., dissenting) (citing ECF Doc. 67, pp. 29−31, 33, 38−39), the District
+Court's concerns as to the propriety of classwide relief focused on con-
+siderations downstream of the initial notice necessary for detainees to
+raise any substantive claims against AEA removal, see id., at 29−31, 33,
+38−39.
+prior to any removal, in order to pursue appropriate relief.
+Although the putative class members may ultimately take
+different steps to protect their own interests in response to
+such notice, the notice to which they are entitled is the same.
+And because courts may issue temporary relief to a putative
+class, see 2 W. Rubenstein, Newberg & Rubenstein on Class
+Actions § 4:30 (6th ed. 2022 and Supp. 2024), we need not
+decide whether a class should be certified as to the detainees'
+due process claims in order to temporarily enjoin the Gov-
+ernment from removing putative class members while the
+question of what notice is due is adjudicated.
+We recognize that the Government “has agreed to forgo
+removing the named petitioners pursuant to the AEA while
+their habeas proceedings are pending.” Opposition to
+Emergency Application 11. But we reject the proposition
+that a class-action defendant may defeat class treatment, if
+it is otherwise proper, by promising as a matter of grace to
+treat named plaintiffs differently. Cf. FBI v. Fikre, 601
+U. S. 234, 241 (2024) (explaining that voluntary cessation of
+challenged conduct does not moot a claim). And we are
+skeptical of the self-defeating notion that the right to the
+notice necessary to “actually seek habeas relief,” J. G. G., 604
+U. S., at 673, must itself be vindicated through individual
+habeas petitions, somehow by plaintiffs who have not re-
+ceived notice.
+* * *
+The application for an injunction pending further proceed-
+ings is granted. The motion for leave to fle a supplemental
+appendix under seal is also granted. Additionally, appli-
+cants suggested this Court treat the application as a petition
+for a writ of certiorari; doing so, the petition is granted.
+The judgment of the Fifth Circuit is vacated, and the case is
+remanded to the Fifth Circuit. In resolving the detainees'
+appeal, the Fifth Circuit should address (1) all the normal
+preliminary injunction factors, including likelihood of success
+on the merits, as to the named plaintiffs' underlying habeas

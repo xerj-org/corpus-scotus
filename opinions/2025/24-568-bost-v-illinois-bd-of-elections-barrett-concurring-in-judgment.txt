@@ -1,0 +1,146 @@
+Bost v. Illinois Bd. of Elections — No. 24-568 — October Term 2025 — decided 1/14/26 — Barrett, J., concurring in judgment
+Citation: 607 U.S. 71
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r05_e2q3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+“Courts sometimes make standing law more complicated
+than it needs to be.” Thole v. U. S. Bank N. A., 590 U. S.
+538, 547 (2020). We decline respondents' invitation to do so
+here. As a candidate for office, Congressman Bost has
+standing to challenge the rules that govern the counting of
+votes in his election.
+The judgment of the United States Court of Appeals for
+the Seventh Circuit is reversed, and the case is remanded for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Barrett, with whom Justice Kagan joins, con-
+curring in the judgment.
+While I agree with the Court that Congressman Bost has
+standing, I disagree with its reasoning. In my view, Con-
+gressman Bost has standing because he has suffered a tradi-
+tional pocketbook injury, not because of his status as a
+candidate.
+I
+The Constitution limits federal courts to deciding “Cases”
+and “Controversies.” Art. III, § 2. To satisfy this require-
+ment, a plaintiff must show (among other things) that he has
+suffered an actual injury—put colloquially, he must be able
+to answer the basic question “ `What's it to you?' ” Ante, at
+76. We give content to that maxim by requiring a plaintiff
+to show a “concrete, particularized, and actual or imminent”
+injury. Clapper v. Amnesty Int'l USA, 568 U. S. 398, 409
+(2013) (internal quotation marks omitted). A “particular-
+ized” injury is a harm affecting a plaintiff “in a personal and
+individual way,” not a “generalized grievance” shared by the
+District of Columbia et al. as Amici Curiae 20, it is neither clear why
+candidates would waste their resources in this way nor on what basis in
+federal law such suits could be brought. In any event, we address today
+only candidates' standing to challenge rules that, like Illinois's, govern the
+counting of votes in their elections.
+public. Spokeo, Inc. v. Robins, 578 U. S. 330, 339, and n. 7
+(2016) (internal quotation marks omitted). A “concrete” in-
+jury is a nonabstract harm of the type “that has traditionally
+been regarded as providing a basis for a lawsuit in English
+or American courts.” Id., at 340–341. And an “actual or
+imminent” injury is one that is “certainly impending” rather
+than “speculative.” Clapper, 568 U. S., at 401.
+A plaintiff must establish standing at the time of filing and
+maintain it throughout litigation. Carney v. Adams, 592
+U. S. 53, 59 (2020). He must support each element of stand-
+ing “with the manner and degree of evidence required at the
+successive stages of the litigation.” Lujan v. Defenders of
+Wildlife , 504 U. S. 555, 561 (1992). At the pleading stage,
+“general factual allegations of injury resulting from the de-
+fendant's conduct may suffice.” Ibid.; see Spokeo, 578 U. S.,
+at 338 (a complaint must “ `clearly . . . allege facts demon-
+strating' ” standing).
+Pocketbook harm is a traditional Article III injury. Tyler
+v. Hennepin County , 598 U. S. 631, 636 (2023). That is so
+not only when a law directly imposes costs on a plaintiff, see,
+e. g., McGowan v. Maryland, 366 U. S. 420, 430–431 (1961)
+(profts lost from Sunday-closing law), but also when a plain-
+tiff “reasonably incur[s] costs to mitigate or avoid” the “ `sub-
+stantial risk' ” of a harm caused by a statute, Clapper, 568
+U. S., at 414, n. 5 (collecting cases). For instance, in Mon-
+santo Co. v. Geertson Seed Farms, farmers of conventional
+alfalfa sought injunctive relief against a rule deregulating
+(and thus permitting) the planting of genetically modified al-
+falfa. 561 U. S. 139, 153–154 (2010). The farmers “estab-
+lished a reasonable probability that their organic and conven-
+tional alfalfa crops will be infected with the engineered
+gene” through cross-contamination. Id., at 153 (internal
+quotation marks omitted). And because the farmers took
+costly preventative measures to “minimize the likelihood of
+potential contamination,” they suffered an Article III injury.
+Id., at 154–155; see also Virginia v. American Booksellers
+Assn., Inc., 484 U. S. 383, 392 (1988) (finding standing where
+regulated booksellers must incur compliance costs or risk
+prosecution).
+Like the farmers in Monsanto, Congressman Bost alleges
+that he will “reasonably incur costs to mitigate or avoid” the
+“ `substantial risk' ” of harm caused by the challenged stat-
+ute. Clapper, 568 U. S., at 414, n. 5. He claims that Illi-
+nois's ballot-receipt deadline will increase the number of
+late-arriving ballots, which often “have discrepancies (e. g.,
+insufficient information, missing signatures, dates, or post-
+marks) that need to be resolved.” App. to Pet. for Cert.
+66a. Invalid ballots, he says, will put his election at risk and
+damage his reputation. To avoid these reasonably probable
+harms, his campaign “has spent, and will spend, money, time,
+and resources to monitor and respond as needed to ballots
+received by state election officials after the national Election
+Day.” Id., at 65a. If poll watchers are not present to moni-
+tor ballot counting, county officials could “accep[t] possibly
+defcient ballots in bulk.” Id., at 67a. Accordingly, it is
+standard practice for campaigns to send poll watchers to
+monitor ballot counting to ensure that any discrepancies are
+resolved appropriately. See Brief for League of Women
+Voters et al. as Amici Curiae 20 (calling it “political malprac-
+tice” for candidates not to monitor ballot counting in their
+races). Because Congressman Bost's expenditures mitigate
+a substantial risk of harm, he has pleaded Article III injury.*
+II
+Rather than take this straightforward path, the Court
+charts a novel one: To challenge “the rules that govern the
+counting of votes in his election,” a candidate need only al-
+*Justice Jackson says it is not reasonably probable that Congressman
+Bost will suffer any injury, post at 100 (dissenting opinion), implicitly re-
+jecting the view that it is reasonable to employ poll watchers to monitor
+for discrepancies. But on a motion to dismiss, we credit Congressman
+Bost's factual allegations and draw all inferences in his favor.
+lege that he is in fact a candidate in that election. Ante, at
+76. The Court makes no attempt to demonstrate that the
+bare fact of facing changed vote-counting rules is a tradition-
+ally recognized harm. See TransUnion LLC v. Ramirez,
+594 U. S. 413, 424–425 (2021). Nor does it grapple with Al-
+ready, LLC v. Nike, Inc., which holds that a plaintiff cannot
+show an Article III injury by claiming only that an allegedly
+unlawful practice benefits a competitor without any showing
+of harm to himself. 568 U. S. 85, 99 (2013). By holding that
+a candidate always has an interest in challenging vote-
+counting rules, even if those rules do not impose a competi-
+tive disadvantage on him, the Court today relieves candi-
+dates of having to show any real harm. See ante, at 77.
+Candidates are apparently entitled to this extraordinarily
+forgiving rule because they are “not common competitors in
+the economic marketplace.” Ibid.
+I cannot join the Court's creation of a bespoke standing
+rule for candidates. Elections are important, but so are
+many things in life. We have always held candidates to the
+same standards as any other litigant. See, e. g., Davis v.
+Federal Election Comm'n, 554 U. S. 724, 733–734 (2008)
+(applying ordinary standing analysis to candidate challeng-
+ing financial disclosure requirements); Wittman v. Personhu-
+ballah, 578 U. S. 539, 545 (2016) (applying ordinary standing
+analysis to legislators running for reelection who challenged
+redistricting plan); Carney, 592 U. S., at 59–60 (requiring a
+would-be candidate to show concrete intention to seek office
+to challenge partisan-balance rule). And we have repeat-
+edly rejected requests to create special standing rules for
+particular litigants. See, e. g., Raines v. Byrd, 521 U. S. 811,
+821, 830 (1997) (legislator standing); Arizona Christian
+School Tuition Organization v. Winn, 563 U. S. 125, 134
+(2011) (taxpayer standing); Lujan, 504 U. S., at 566–567
+(animal-enthusiast standing); FDA v. Alliance for Hippo-
+cratic Medicine , 602 U. S. 367, 392–393 (2024) (doctor stand-
+ing). I see no reason to afford candidates favored status.

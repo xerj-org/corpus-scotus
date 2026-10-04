@@ -1,0 +1,396 @@
+Trump v. CASA, Inc. — No. 24A884 — October Term 2024 — decided 6/27/25 — Kavanaugh, J., concurring
+Citation: 606 U.S. 831
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Procedure can have drastic consequences, creating “potential
+unfairness” for absent class members and confusion (and
+pressure to settle) for defendants. General Telephone Co. of
+Southwest v. Falcon, 457 U. S. 147, 161 (1982). Recognizing
+these effects, Congress took the exceptional step of authoriz-
+ing interlocutory review of class certifcation. See Fed.
+Rule Civ. Proc. 23(f).
+Putting the kibosh on universal injunctions does nothing
+to disrupt Rule 23's requirements. Of course, Rule 23 may
+permit the certifcation of nationwide classes in some dis-
+crete scenarios. But district courts should not view today's
+decision as an invitation to certify nationwide classes with-
+out scrupulous adherence to the rigors of Rule 23. Other-
+wise, the universal injunction will return from the grave
+under the guise of “nationwide class relief,” and today's deci-
+sion will be of little more than minor academic interest.
+* * *
+Lax enforcement of the requirements for third-party
+standing and class certifcation would create a potentially
+significant loophole to today's decision. Federal courts
+should thus be vigilant against such potential abuses of these
+tools. I do not understand the Court's decision to reflect
+any disagreement with these concerns, so I join its decision
+in full.
+Justice Kavanaugh, concurring.
+The plaintiffs here sought preliminary injunctions against
+enforcement of the President's Executive Order on birth-
+right citizenship. The District Courts granted universal
+preliminary injunctions—that is, injunctions prohibiting en-
+forcement of the Executive Order against anyone. Under
+the Court's holding today, district courts issuing injunctions
+under the authority afforded by the Judiciary Act of 1789
+may award only plaintiff-specifc relief. I join the Court's
+careful and persuasive opinion, which will bring needed clar-
+ity to the law of remedies.
+To be sure, in the wake of the Court's decision, plaintiffs
+who challenge the legality of a new federal statute or execu-
+tive action and request preliminary injunctive relief may
+sometimes seek to proceed by class action under Federal
+Rule of Civil Procedure 23(b)(2) and ask a court to award
+preliminary classwide relief that may, for example, be state-
+wide, regionwide, or even nationwide. See ante, at 849–850;
+A. A. R. P . v. Trump, 605 U. S. 91, 98 (2025) (per curiam );
+Califano v. Yamasaki, 442 U. S. 682, 701–703 (1979). And
+in cases under the Administrative Procedure Act, plaintiffs
+may ask a court to preliminarily “set aside” a new agency
+rule. 5 U. S. C. § 706(2); see, e. g., West Virginia v. EPA,
+577 U. S. 1126 (2016); see also Corner Post, Inc. v. Board of
+Governors, 603 U. S. 799, 826–843 (2024) (Kavanaugh, J.,
+concurring).1
+But importantly, today's decision will require district
+courts to follow proper legal procedures when awarding such
+relief. Most significantly, district courts can no longer
+award preliminary nationwide or classwide relief except
+when such relief is legally authorized. And that salutary
+development will help bring substantially more order and
+discipline to the ubiquitous preliminary litigation over new
+federal statutes and executive actions.
+I write separately simply to underscore that this case fo-
+cuses on only one discrete aspect of the preliminary litigation
+relating to major new federal statutes and executive ac-
+tions—namely, what district courts may do with respect to
+those new statutes and executive actions in what might be
+called “the interim before the interim.” Although district
+courts have received much of the attention (and criticism)
+1 In addition, as the Court notes, an injunction granting complete relief
+to plaintiffs may also, as a practical matter, benefit nonparties. Ante, at
+850–854.
+in debates over the universal-injunction issue, those courts
+generally do not have the last word when they grant or deny
+preliminary injunctions. The courts of appeals and this
+Court can (and regularly do) expeditiously review district
+court decisions awarding or denying preliminary injunctive
+relief. The losing party in the district court—the defendant
+against whom an injunction is granted, or the plaintiff who
+is denied an injunction—will often go to the court of appeals
+to seek a temporary stay or injunction. And then the losing
+party in the court of appeals may promptly come to this
+Court with an application for a stay or injunction. This
+Court has therefore often acted as the ultimate decider of
+the interim legal status of major new federal statutes and
+executive actions. See, e. g., Ohio v. EPA, 603 U. S. 279
+(2024); Danco Laboratories, LLC v. Alliance for Hippocratic
+Medicine, 598 U. S. ––– (2023); National Federation of Inde-
+pendent Business v. OSHA, 595 U. S. 109 (2022) (per cu-
+riam); Alabama Assn. of Realtors v. Department of Health
+and Human Servs., 594 U. S. 758 (2021) (per curiam ); see
+also Labrador v. Poe, 601 U. S. 1110, 1121–1122 (2024) (Kava-
+naugh, J., concurring in grant of stay).
+After today's decision, that order of operations will not
+change. In justiciable cases, this Court, not the district
+courts or courts of appeals, will often still be the ultimate
+decisionmaker as to the interim legal status of major new
+federal statutes and executive actions—that is, the interim
+legal status for the several-year period before a final decision
+on the merits.
+I
+The Court's decision today focuses on the “interim before
+the interim”—the preliminary relief that district courts can
+award (and courts of appeals can approve) for the generally
+weeks-long interim before this Court can assess and settle
+the matter for the often years-long interim before a final
+decision on the merits. To appreciate the broader context
+surrounding today's decision, it is important to understand
+this Court's role in preliminary litigation of this sort.
+The basic scenario in these kinds of applications to this
+Court is by now familiar. Congress passes a major new
+statute, or the Executive Branch issues a major new rule or
+executive order. The litigation over the legality of the new
+statute or executive action winds its way through the federal
+courts. And that litigation may meander on for many
+months or often years before this Court can issue a final
+ruling deciding the legality of the new statute or executive
+action.
+In the meantime, various plaintiffs may seek preliminary
+injunctions, sometimes in many different district courts.
+And a government defendant against whom a preliminary
+injunction is granted (or a plaintiff who is denied a prelimi-
+nary injunction) may seek a temporary stay or injunction in
+the court of appeals and then in this Court.
+That preliminary-injunction litigation—which typically
+takes place at a rapid-fre pace long before the merits litiga-
+tion culminates several years down the road—raises a ques-
+tion: What should the interim legal status of the significant
+new federal statute or executive action at issue be during
+the several-year period before this Court's final ruling on
+the merits?
+That interim-status question is itself immensely impor-
+tant. The issue of whether a major new federal statute or
+executive action “is enforceable during the several years
+while the parties wait for a final merits ruling . . . raises a
+separate question of extraordinary significance to the parties
+and the American people.” Labrador v. Poe, 601 U. S.
+1110, 1121 (2024) (Kavanaugh, J., concurring in grant of
+stay).
+The interim-status issue in turn raises two other critical
+questions: Should there be a nationally uniform answer on
+the question of whether a major new federal statute or exec-
+utive action can be legally enforced in the often years-long
+interim period until this Court reaches a final decision on
+the merits? If so, who decides what the nationally uniform
+interim answer is?
+First, in my view, there often (perhaps not always, but
+often) should be a nationally uniform answer on whether a
+major new federal statute, rule, or executive order can be
+enforced throughout the United States during the several-
+year interim period until its legality is finally decided on
+the merits.
+Consider just a few of the major executive actions that
+have been the subject of intense preliminary-injunction or
+other pre-enforcement litigation in the past 10 years or so,
+under Presidents of both political parties. They range from
+travel bans to birthright citizenship, from the Clean Power
+Plan to student loan forgiveness, from the OSHA vaccine
+mandate to the service of transgender individuals in the mili-
+tary, from Title IX regulations to abortion drugs. And the
+list goes on. Those executive actions often are highly sig-
+nificant and have widespread effects on many individuals,
+businesses, governments, and other organizations through-
+out the United States.
+Often, it is not especially workable or sustainable or desir-
+able to have a patchwork scheme, potentially for several
+years, in which a major new federal statute or executive ac-
+tion of that kind applies to some people or organizations in
+certain States or regions, but not to others. The national
+reach of many businesses and government programs, as well
+as the regular movement of the American people into and
+out of different States and regions, would make it difficult to
+sensibly maintain such a scattershot system of federal law.
+Second, if one agrees that the years-long interim status of
+a highly significant new federal statute or executive action
+should often be uniform throughout the United States, who
+decides what the interim status is?
+The answer typically will be this Court, as has been the
+case both traditionally and recently. This Court's actions
+in resolving applications for interim relief help provide clar-
+ity and uniformity as to the interim legal status of major
+new federal statutes, rules, and executive orders. In par-
+ticular, the Court's disposition of applications for interim re-
+lief often will effectively settle, de jure or de facto , the in-
+terim legal status of those statutes or executive actions
+nationwide.
+The decision today will not alter this Court's traditional
+role in those matters. Going forward, in the wake of a
+major new federal statute or executive action, different dis-
+trict courts may enter a slew of preliminary rulings on the
+legality of that statute or executive action. Or alterna-
+tively, perhaps a district court (or courts) will grant or deny
+the functional equivalent of a universal injunction—for ex-
+ample, by granting or denying a preliminary injunction to a
+putative nationwide class under Rule 23(b)(2), or by prelimi-
+narily setting aside or declining to set aside an agency rule
+under the APA.
+No matter how the preliminary-injunction litigation on
+those kinds of significant matters transpires in the district
+courts, the courts of appeals in turn will undoubtedly be
+called upon to promptly grant or deny temporary stays or
+temporary injunctions in many cases.
+And regardless of whether the district courts have issued
+a series of individual preliminary rulings, or instead have
+issued one or more broader classwide or set-aside prelimi-
+nary rulings, the losing parties in the courts of appeals will
+regularly come to this Court in matters involving major new
+federal statutes and executive actions. 2
+If there is no classwide or set-aside relief in those kinds of
+nationally significant matters, then one would expect a food
+of decisions from lower courts, after which the losing parties
+on both sides will probably inundate this Court with applica-
+2 By statute, some litigation may start in a court of appeals or three-
+judge district court and then come directly to this Court.
+tions for stays or injunctions. 3 And in cases where class-
+wide or set-aside relief has been awarded, the losing side in
+the lower courts will likewise regularly come to this Court
+if the matter is sufficiently important.
+When a stay or injunction application arrives here, this
+Court should not and cannot hide in the tall grass. When
+we receive such an application, we must grant or deny. 4
+And when we do—that is, when this Court makes a decision
+on the interim legal status of a major new federal statute or
+executive action—that decision will often constitute a form
+of precedent ( de jure or de facto) that provides guidance
+throughout the United States during the years-long interim
+period until a final decision on the merits.
+3 That scenario explains why it would not make much sense for this
+Court to apply different standards to (i) an application for an injunction
+and (ii) an application for a stay of an injunction. See, e. g., Tandon v.
+Newsom, 593 U. S. 61, 64 (2021) (per curiam ) (applying the usual stay
+standard to an application for an injunction).
+Suppose a district court in Circuit A enjoins a new executive action.
+And the court of appeals in Circuit A then declines to stay the injunction.
+Meanwhile, a district court in Circuit B does not enjoin that new executive
+action, and the court of appeals in Circuit B also declines to enjoin it.
+Both cases come to this Court on applications for interim relief—one seek-
+ing a stay of injunction and one seeking an injunction. It would not be
+particularly rational to deny a stay and leave the injunction in place in
+Circuit A, and then to turn around and deny an injunction in Circuit B on
+account of a purportedly higher standard for this Court to grant injunc-
+tions rather than stays. The standards should mesh so that this Court
+can ensure uniformity without regard to the happenstance of how various
+courts of appeals and district courts ruled.
+4 To obtain an interim stay or injunction, “an applicant must show (1) a
+reasonable probability that four Justices will consider the issue sufficiently
+meritorious to grant certiorari; (2) a fair prospect that a majority of the
+Court will vote to reverse the judgment below; and (3) a likelihood that
+irreparable harm will result from the denial” of the application. Hollings-
+worth v. Perry, 558 U. S. 183, 190 (2010) (per curiam ); see Tandon, 593
+U. S., at 64. The Court may also consider (4) the “balance” of “the equi-
+ties” and “relative harms” to the parties. Hollingsworth, 558 U. S., at
+190.
+II
+It is sometimes suggested, however, that this Court should
+adopt a policy of presumptively denying applications for
+stays or injunctions—even applications involving significant
+new federal statutes or executive actions—regardless of
+which way the various lower courts have ruled. That sug-
+gestion is flawed, in my view, because it would often leave an
+unworkable or intolerable patchwork of federal law in place.
+And even in cases where there is no patchwork—for exam-
+ple, because an application comes to us with a single nation-
+wide class-action injunction—what if this Court thinks the
+lower court's decision is wrong? On student loan forgive-
+ness or the Clean Power Plan or mifepristone or the travel
+bans, for example? Should we have a rule of presumptively
+denying relief, thereby allowing erroneous injunctions (or er-
+roneous denials of injunctions) of major new statutes and
+executive actions to remain in place for several years, and
+thus severely harming the Government and would-be bene-
+fciaries of (or regulated parties under) those new statutes
+and executive actions? I think not. And this Court's ac-
+tions over the years reflect that the Court thinks not.
+Unless and until this Court grants or denies an application
+for stay or injunction, tremendous uncertainty may surround
+the interim legal status of the new federal statute or execu-
+tive action throughout the country. The statute or execu-
+tive action may be in effect in some places but not others,
+for some businesses but not others, for some Americans but
+not others. That temporary geographic, organizational, and
+individual variation in federal law might not warrant this
+Court's intervention in run-of-the-mill cases—which is why
+it makes sense that this Court denies applications for interim
+relief when the Court is unlikely to later grant certiorari.
+See Does 1–3 v. Mills, 595 U. S. 1029 (2021) (Barrett, J.,
+concurring in denial of application for injunctive relief).
+But in cases involving major new federal statutes or execu-
+tive actions, uniformity is often essential or at least sensible
+and prudent. In those kinds of cases, disuniformity—even
+if only for a few years or less—can be chaotic. And such
+chaos is not good for the law or the country.
+One of this Court's roles, in justiciable cases, is to resolve
+major legal questions of national importance and ensure uni-
+formity of federal law. So a default policy of off-loading to
+lower courts the final word on whether to green-light or
+block major new federal statutes and executive actions for
+the several-year interim until a final ruling on the merits
+would seem to amount to an abdication of this Court's
+proper role.
+Some might object that this Court is not well equipped to
+make those significant decisions—namely, decisions about
+the interim status of a major new federal statute or execu-
+tive action—on an expedited basis. But district courts and
+courts of appeals are likewise not perfectly equipped to make
+expedited preliminary judgments on important matters of
+this kind. Yet they have to do so, and so do we. By law,
+federal courts are open and can receive and review applica-
+tions for relief 24/7/365. See 28 U. S. C. § 452 (“All courts of
+the United States shall be deemed always open for the pur-
+pose of filing proper papers . . . and making motions and
+orders”). And this Court has procedural tools that can help
+us make the best possible interim decision in the limited time
+available—administrative stays, additional briefing, amicus
+briefs, oral argument, certiorari before judgment, and the
+like. On top of that, this Court has nine Justices, each of
+whom can (and does) consult and deliberate with the other
+eight to help the Court determine the best answer, unlike a
+smaller three-judge court of appeals panel or one-judge dis-
+trict court. And this Court also will have the benefit of the
+prior decisions in the case at hand from the court of appeals
+and the district court.
+Some might argue that preliminary disputes over the le-
+gality of major new statutes and executive actions can draw
+this Court into difficult or controversial matters earlier than
+we might like, as distinct from what happens on our slower-
+moving merits docket. That is an understandable concern.
+But when it comes to the interim status of major new federal
+statutes and executive actions, it is often important for rea-
+sons of clarity, stability, and uniformity that this Court be
+the decider. And Members of the Court have life tenure so
+that we can make tough calls without fear or favor. As with
+the merits docket, the Court's role in resolving applications
+for interim relief is to neutrally referee each matter based
+on the relevant legal standard. Avoiding controversial or
+difficult decisions on those applications is neither feasible
+nor appropriate.
+Some might also worry that an early or rushed decision on
+an application could “lock in” the Court's assessment of the
+merits and subtly deter the Court from later making a differ-
+ent final decision. But in deciding applications for interim
+relief involving major new statutes or executive actions, we
+often have no choice but to make a preliminary assessment
+of likelihood of success on the merits; after all, in cases of
+that sort, the other relevant factors (irreparable harm and
+the equities) are often very weighty on both sides. See Lab-
+rador v. Poe, 601 U. S. 1110, 1122 (2024) (Kavanaugh, J.,
+concurring in grant of stay). Moreover, judges strive to
+make the correct decision based on current information not-
+withstanding any previous assessment of the merits earlier
+in the litigation. It is not uncommon to think and decide
+differently when one knows more. This Court has done so
+in the past, see West Virginia Bd. of Ed. v. Barnette, 319
+U. S. 624 (1943), and undoubtedly will continue to do so in
+the future.
+To reiterate, this Court should not insert itself into run-
+of-the-mill preliminary-injunction cases where we are not
+likely to grant certiorari down the road. But determining
+the nationally uniform interim legal status for several years
+of, say, the Clean Power Plan or Title IX regulations or mife-
+pristone rules is a role that the American people appropri-
+ately expect this Court—and not only the courts of appeals
+or district courts—to fulfill.
+* * *
+The volume of preliminary-injunction and other pre -
+enforcement litigation over new federal laws and executive
+actions coming to this Court has been growing in recent years.
+That trend is in part the result of the increasing number of
+major new executive actions by recent Presidential adminis-
+trations (of both political parties) that have had difficulty
+passing significant new legislation through Congress.
+Meanwhile, applications for stays or injunctions in capital-
+punishment cases, election disputes, and other time-sensitive
+matters (including numerous COVID–19-related disputes in
+the few years beginning in 2020) have also continued to come
+to this Court on a steady basis, as they traditionally have.
+Although the volume of applications has increased, the
+Court's responsibility for deciding consequential applications
+for stays or injunctions is not new. See, e. g., West Virginia
+v. EPA, 577 U. S. 1126 (2016) (temporarily enjoining Clean
+Power Plan); Purcell v. Gonzalez, 549 U. S. 1 (2006) (per cu-
+riam) (vacating injunction pending appeal regarding state
+voter ID law); Rubin v. United States, 524 U. S. 1301 (1998)
+(Rehnquist, C. J., in chambers) (denying stay pending certio-
+rari of order enforcing subpoenas to Secret Service agents
+regarding their observations of the President); Schlesinger
+v. Holtzman, 414 U. S. 1321 (1973) (Marshall, J., in chambers)
+(staying District Court's injunction that had ordered a halt
+to bombing in Cambodia); Youngstown Sheet & Tube Co. v.
+Sawyer, 343 U. S. 579, 584, 589 (1952) (after expedited oral
+argument, affirming District Court's preliminary injunction
+that proscribed seizure of steel mills by government); cf. Ro-
+senberg v. United States, 346 U. S. 273, 283–285 (1953) (vacat-
+ing stay of execution of the Rosenbergs).
+Today's decision on district court injunctions will not af-
+fect this Court's vitally important responsibility to resolve

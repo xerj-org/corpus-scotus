@@ -1,0 +1,63 @@
+Romag Fasteners, Inc. v. Fossil Group, Inc. — No. 18-1233 — October Term 2019 — decided 4/23/20 — Sotomayor, J., concurring in judgment
+Citation: 590 U.S. 212
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=228 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ment of the court of appeals is vacated, and the case is re-
+manded for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Alito, with whom Justice Breyer and Justice
+Kagan join, concurring.
+We took this case to decide whether willful infringement
+is a prerequisite to an award of profts under 15 U. S. C.
+§ 1117(a). The Federal Circuit held that willfulness is such
+a prerequisite. Romag Fasteners, Inc. v. Fossil, Inc., 817 F.
+3d 782, 791 (2016). That is incorrect. The relevant authori-
+ties, particularly pre-Lanham Act case law, show that willful-
+ness is a highly important consideration in awarding profts
+under § 1117(a), but not an absolute precondition. I would
+so hold and concur on that ground.
+Justice Sotomayor, concurring in the judgment.
+I agree that 15 U. S. C. § 1117(a) does not impose a “will-
+fulness” prerequisite for awarding profts in trademark
+infringement actions. Courts of equity, however, defined
+“willfulness” to encompass a range of culpable mental
+states—including the equivalent of recklessness, but exclud-
+ing “good faith” or negligence. See 5 McCarthy on Trade-
+marks and Unfair Competition § 30:62 (5th ed. 2019) (explain-
+ing that “willfulness” ranged from fraudulent and knowing to
+reckless and indifferent behavior); see also, e. g., Lawrence-
+Williams Co. v. Societe Enfants Gombault et Cie , 52 F. 2d
+774, 778 (CA6 1931); Regis v. Jaynes, 191 Mass. 245, 248–249,
+77 N. E. 774, 776 (1906).
+The majority suggests that courts of equity were just as
+likely to award profts for such “willful” infringement as they
+were for “innocent” infringement. Ante, at 218. But that
+does not reflect the weight of authority, which indicates that
+profts were hardly, if ever, awarded for innocent infringe-
+ment. See, e. g., Wood v. Peffer, 55 Cal. App. 2d 116, 125
+(1942) (explaining that “equity constantly refuses, for want
+of fraudulent intent, the prayer for an accounting of profts”);
+Globe-Wernicke Co. v. Safe-Cabinet Co., 110 Ohio St. 609,
+617, 144 N. E. 711, 713 (1924) (“By the great weight of au-
+thority, particularly where the infringement . . . was deliber-
+ate and willful, it is held that the wrongdoer is required to
+account for all profts realized by him as a result of his
+wrongful acts”); Dickey v. Mutual Film Corp., 186 App. Div.
+701, 702, 174 N. Y . S. 784 (1919) (declining to award profts
+because there was “no proof of any fraudulent intent upon
+the part of the defendant”); Standard Cigar Co. v. Gold-
+smith, 58 Pa. Super. 33, 37 (1914) (reasoning that a defendant
+“should be compelled to account for . . . profts” where “the
+infringement complained of was not the result of mistake or
+ignorance of the plaintiff's right”). Nor would doing so
+seem to be consistent with longstanding equitable principles
+which, after all, seek to deprive only wrongdoers of their
+gains from misconduct. Cf. Duplate Corp. v. Triplex Safety
+Glass Co., 298 U. S. 448, 456–457 (1936). Thus, a district
+court's award of profts for innocent or good-faith trademark
+infringement would not be consonant with the “principles of
+equity” referenced in § 1117(a) and reflected in the cases the
+majority cites. Ante, at 218–219.
+Because the majority is agnostic about awarding profts
+for both “willful” and innocent infringement as those terms
+have been understood, I concur in the judgment only.

@@ -1,0 +1,895 @@
+Bowe v. United States — No. 24-5438 — October Term 2025 — decided 1/09/26 — opinion of the Court — author Sotomayor (listing code SS)
+Citation: 607 U.S. 13
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r04_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+whether Bowe should receive authorization to fle a second or successive
+motion under the correct standard. Pp. 36–41.
+Vacated and remanded.
+Sotomayor, J., delivered the opinion of the Court, in which Roberts,
+C. J., and Kagan, Kavanaugh, and Jackson, JJ., joined. Jackson, J.,
+fled a concurring opinion, post, p. 42. Gorsuch, J., fled a dissenting opin-
+ion, in which Thomas and Alito, JJ., joined, and in which Barrett, J.,
+joined as to Part I, post, p. 47.
+Andrew L. Adler argued the cause for petitioner. With
+him on the briefs were Janice L. Bergmann and Gregory
+Cui.
+Anthony A. Yang argued the cause for the United States.
+On the briefs were Solicitor General Sauer, Deputy Solici-
+tor General Feigin, Acting Assistant Attorney General Ga-
+leotti, and Ann O'Connell Adams.
+Kasdin M. Mitchell, by appointment of the Court, 604
+U. S. 1117, argued the cause as amicus curiae in support of
+judgment below as to Question 1. With her on the brief was
+Philip M. Cooper.*
+Justice Sotomayor delivered the opinion of the Court.
+Congress has created a comprehensive scheme to address
+when and how state and federal prisoners can seek postcon-
+viction relief in federal courts. A state prisoner can fle an
+application for a writ of habeas corpus under 28 U. S. C.
+§ 2254. A federal prisoner, by contrast, can fle a motion to
+*Briefs of amici curiae urging reversal were fled for Habeas Scholars
+by Kwaku A. Akowuah and Christopher A. Eiswerth; for the National
+Association of Criminal Defense Lawyers by Daniel S. Volchok, Gary M.
+Fox, Conrad Kahn, and David Oscar Markus; for the National Association
+of Federal Defenders by Jennifer Niles Coffn, Keith M. Donoghue, Shel-
+ley M. Fite, Judith H. Mizner, Paresh Patel, and Cathi Adinaro Shusky;
+and for the University of Virginia School of Law's Civil Rights Clinic et al.
+by Juan O. Perla, Danny Zemel, T. Barry Kingham, and Robert García.
+Jeffrey W. Chen, Matthew R. Sellers, and Stephen I. Vladeck, pro se,
+fled a brief for Federal Courts Scholars as amici curiae.
+vacate, set aside, or correct a sentence under § 2255. Each
+provision contains its own procedural and substantive re-
+quirements that an individual must satisfy.
+This case concerns the more complicated situation when a
+prisoner returns to federal court after a prior attempt for
+relief has failed. In this situation, Congress has enlisted the
+courts of appeals to play a gatekeeping role in the consider-
+ation of second or successive filings brought by federal and
+state prisoners. Under this system, before a prisoner can
+bring such a filing in a district court, a court of appeals must
+certify that the filing meets certain threshold conditions.
+Section 2244 governs authorization requests made by state
+prisoners, and § 2255(h), in turn, governs requests made by
+federal prisoners. The two have distinct requirements, but
+through a limited cross-reference in § 2255(h) to § 2244 for
+how a filing is “certified” by a “panel,” Congress has bor-
+rowed certain of the procedures that apply to state prisoners
+and applies them to federal prisoners too.
+This case presents two questions regarding which aspects
+of § 2244 fall within the scope of § 2255(h)'s cross-reference.
+The first is whether § 2244(b)(3)(E), which prohibits the “de-
+nial of an authorization by a court of appeals to fle a second
+or successive application” from being the “subject of a peti-
+tion for . . . a writ of certiorari,” bars this Court's review
+of authorization decisions concerning the motions of federal
+prisoners. If it does, this Court would lack jurisdiction to
+hear this case. The Court holds that it does not. In the
+narrow cross-reference to the procedures in § 2244, Congress
+has not clearly indicated that it intended to incorporate
+§ 2244(b)(3)(E)'s certiorari bar.
+The second question is whether § 2244(b)(1), which directs
+courts to dismiss a claim “presented in a second or successive
+habeas corpus application under section 2254 that was pre-
+sented in a prior application,” applies to motions fled by
+federal prisoners. It does not: Section 2244(b)(1), by its ex-
+press terms, applies only to state prisoners' habeas applica-
+tions under § 2254, not to federal prisoners' motions under
+§ 2255.
+I
+Petitioner Michael S. Bowe is in federal custody. In 2008,
+he pleaded guilty to three offenses: (1) conspiracy to commit
+Hobbs Act robbery, 18 U. S. C. § 1951(a); (2) attempt to com-
+mit Hobbs Act robbery, ibid.; and (3) the use, carrying, bran-
+dishing, or discharge of a firearm in relation to a crime of
+violence, § 924(c)(1)(A). Bowe received a 24-year sentence;
+10 of those years were imposed because of the § 924(c) convic-
+tion, which carried a mandatory 10-year sentence consecu-
+tive to the sentence for the predicate robbery offenses. See
+§ 924(c)(1)(D)(ii). Bowe did not appeal.
+In the decade since, this Court has issued several decisions
+that have called Bowe's § 924(c) conviction into question. To
+appreciate the implications of those decisions, it is important
+first to understand how § 924(c) operates.
+Section 924(c) applies if, as relevant here, an individual
+commits a qualifying “crime of violence” with a firearm. A
+“crime of violence,” in turn, is defined in two ways. Under
+the “elements clause,” it is a “felony” that “has as an element
+the use, attempted use, or threatened use of physical force
+against the person or property of another.” § 924(c)(3)(A).
+Under the “residual clause,” it is a felony “that by its nature,
+involves a substantial risk that physical force against the
+person or property of another may be used in the course of
+committing the offense.” § 924(c)(3)(B). For Bowe to have
+been properly convicted under § 924(c)—and thus to have re-
+ceived the accompanying 10-year consecutive sentence—his
+conviction for either conspiracy or attempt to commit Hobbs
+Act robbery must qualify as a crime of violence under either
+the elements or residual clause.
+Today, it is likely that neither clause would permissibly
+support Bowe's § 924(c) conviction. In United States v.
+Davis, 588 U. S. 445 (2019), this Court held that the residual
+clause is unconstitutionally vague. Id., at 470. In United
+States v. Taylor, 596 U. S. 845 (2022), the Court held that
+attempted Hobbs Act robbery does not qualify as a crime of
+violence under the elements clause. Id., at 860. Eleventh
+Circuit precedent is also clear that conspiracy to commit
+Hobbs Act robbery does not satisfy the elements clause.
+See Brown v. United States, 942 F. 3d 1069, 1075 (2019)
+(per curiam ). If sentenced today, therefore, Bowe likely
+would not be subject to the 10-year mandatory consecutive
+sentence that he is now serving.
+Nevertheless, the timing of this Court's decisions, coupled
+with the timing of Bowe's efforts to take advantage of them,
+have produced procedural complications that have so far pre-
+vented relief, leading to this appeal.
+Bowe, acting pro se , initially sought postconviction relief
+under § 2255 in 2016, before the Court decided Davis, ar-
+guing that the residual clause is unconstitutionally vague.
+A District Court rejected Bowe's claim, in part, because re-
+gardless of the residual clause's constitutionality, attempted
+Hobbs Act robbery qualified as a crime of violence under
+§ 924(c)'s elements clause. App. 43.
+After Davis was decided in 2019, Bowe sought permission
+from the Eleventh Circuit to fle a second or successive mo-
+tion. See § 2255(h). A three-judge panel declined to au-
+thorize Bowe's motion. Although the panel acknowledged
+that Davis had announced a new, retroactive rule of constitu-
+tional law, which is one of two grounds on which a second or
+successive motion can proceed, see § 2255(h)(2), it held that
+Bowe could not “make a prima facie showing that his § 924(c)
+conviction and sentence [were] unconstitutional” because
+under then-prevailing Eleventh Circuit precedent, “at -
+tempted Hobbs Act robbery” still qualified as a crime of vio-
+lence under the elements clause, App. 52–54.
+Then, after Taylor was decided in 2022, Bowe once again
+sought permission from the Eleventh Circuit to fle a second
+or successive motion. This time, Bowe argued that under
+Davis and Taylor, none of his convictions qualified as a pred-
+icate “crime of violence.” A three-judge panel dismissed the
+part of Bowe's request that rested on Davis, reasoning that
+because the claim was “presented in a prior application” to
+fle a second or successive motion, the panel lacked jurisdic-
+tion over it under § 2244(b)(1). App. 59–60. The panel also
+denied the part of Bowe's request that rested on Taylor, con-
+cluding that Taylor did not announce a new constitutional
+rule as needed to secure relief under § 2255(h)(2). App.
+59–60.
+Bowe did not stop there. A few months later, he again
+sought authorization to fle a second or successive motion,
+again relying on Davis and Taylor. This time, Bowe also
+moved for initial hearing en banc. As relevant, he asked
+the Eleventh Circuit to overturn its precedent holding that
+§ 2244(b)(1)'s old-claim bar applies to federal prisoners' suc-
+cessive § 2255 motions. In Bowe's view, that bar applies
+only to state prisoners, not federal prisoners like him. A
+three-judge panel dismissed Bowe's request for authoriza-
+tion, citing § 2244(b)(1), and the Eleventh Circuit denied
+Bowe's motion for initial hearing en banc.
+Bowe then moved for an original writ of habeas corpus in
+this Court. It was denied. In re Bowe , 601 U. S. 1015
+(2024). Bowe returned to the Eleventh Circuit, seeking au-
+thorization, initial hearing en banc, and certifcation of the
+question whether § 2244(b)(1) applies to federal prisoners.
+See § 1254(2) (allowing courts of appeals to certify questions
+of law to the Supreme Court). As before, a three-judge
+panel dismissed Bowe's request for authorization, relying on
+§ 2244(b)(1). The panel also declined to certify the question
+Bowe requested, and the full Eleventh Circuit denied his mo-
+tion for initial hearing en banc.
+Finally, Bowe fled a petition for a writ of certiorari. The
+Eleventh Circuit is one of six Circuits that apply
+§ 2244(b)(1)'s old-claim bar to federal prisoners. Three Cir-
+cuits do not. 1 The Court granted certiorari to resolve the
+issue. See 604 U. S. 1096 (2025).
+II
+As a threshold matter, the Government argues that the
+Court cannot resolve the Circuit split concerning § 2244(b)
+(1)'s old-claim bar because the Court lacks jurisdiction to
+hear the case under § 2244(b)(3)(E). That provision states
+that the “denial of an authorization by a court of appeals to
+fle a second or successive application . . . shall not be the
+subject of a petition for . . . a writ of certiorari.” See
+Hawaii v. Office of Hawaiian Affairs, 556 U. S. 163, 171
+(2009) (“Before turning to the merits, we first must address
+our jurisdiction”). If Bowe were in state custody, then the
+Government would be correct. See Stewart v. Martinez-
+Villareal, 523 U. S. 637, 641 (1998). He is not. Section
+2244(b)(3)(E) does not prevent the Court's review because
+the certiorari bar does not clearly apply to motions fled by
+federal prisoners like Bowe.
+A
+In the Antiterrorism and Effective Death Penalty Act of
+1996 (AEDPA), “Congress established a `gatekeeping' mech-
+anism for the consideration of `second or successive' ” filings
+“in the federal courts.” Id., at 641 (quoting Felker v. Tur-
+pin, 518 U. S. 651, 657 (1996)). The associated procedural
+and substantive requirements are “stringent.” Burton v.
+Stewart, 549 U. S. 147, 152 (2007) (per curiam ).
+1 Compare Winarske v. United States, 913 F. 3d 765 (CA8 2019); In re
+Bourgeois, 902 F. 3d 446 (CA5 2018); In re Baptiste , 828 F. 3d 1337 (CA11
+2016); United States v. Winkelman, 746 F. 3d 134 (CA3 2014); Gallagher
+v. United States, 711 F. 3d 315 (CA2 2013) (per curiam ); and Brannigan
+v. United States, 249 F. 3d 584 (CA7 2001), with In re Graham, 61 F. 4th
+433 (CA4 2023); Jones v. United States, 36 F. 4th 974 (CA9 2022); and
+Williams v. United States, 927 F. 3d 427 (CA6 2019).
+State prisoners looking to fle a second or successive appli-
+cation must comply with § 2244(b), which provides in rele-
+vant part:
+“(3)(A) Before a second or successive application per-
+mitted by this section is fled in the district court, the
+applicant shall move in the appropriate court of appeals
+for an order authorizing the district court to consider
+the application.
+“(B) A motion in the court of appeals for an order
+authorizing the district court to consider a second or
+successive application shall be determined by a three-
+judge panel of the court of appeals.
+“(C) The court of appeals may authorize the filing of
+a second or successive application only if it determines
+that the application makes a prima facie showing that the
+application satisfies the requirements of this subsection.
+“(D) The court of appeals shall grant or deny the au-
+thorization to fle a second or successive application not
+later than 30 days after the filing of the motion.
+“(E) The grant or denial of an authorization by a court
+of appeals to fle a second or successive application shall
+not be appealable and shall not be the subject of a peti-
+tion for rehearing or for a writ of certiorari.
+“(4) A district court shall dismiss any claim presented
+in a second or successive application that the court of
+appeals has authorized to be fled unless the applicant
+shows that the claim satisfies the requirements of this
+section.”
+By comparison, a federal prisoner seeking to fle a second
+or successive motion must satisfy § 2255(h). Jones v. Hen-
+drix, 599 U. S. 465, 477–478 (2023). That provision states
+in full:
+“A second or successive motion must be certified as
+provided in section 2244 by a panel of the appropriate
+court of appeals to contain—
+“(1) newly discovered evidence that, if proven and
+viewed in light of the evidence as a whole, would be
+sufficient to establish by clear and convincing evidence
+that no reasonable factfnder would have found the mov-
+ant guilty of the offense; or
+“(2) a new rule of constitutional law, made retroactive
+to cases on collateral review by the Supreme Court, that
+was previously unavailable.”
+Unlike the provisions governing authorization decisions
+for state prisoners, § 2255(h) does not mention this Court's
+certiorari jurisdiction, let alone purport to limit it. Nor
+does § 2244(b)(3)(E) readily apply to federal prisoners on its
+face: Section 2244, overall, imposes several strict require-
+ments that apply only to state prisoners with the aim of facil-
+itating finality, 2 and the certiorari bar in particular speaks
+to “second or successive applications,” which federal prison-
+ers do not fle, see § 2255(e) (federal prisoners must fle “mo-
+tions” for habeas relief, not applications). Whether the
+Court has jurisdiction therefore turns on the scope of
+§ 2255(h)'s cross-reference to § 2244.
+In the Government's view, the cross-reference captures all
+of §§ 2244(b)(3) and (b)(4), including the certiorari bar in
+§ 2244(b)(3)(E). Although the Government is correct that
+the cross-reference incorporates some of the provisions it
+identifies, the Government is wrong that it also incorporates
+the certiorari bar. That is because the cross-reference, cou-
+pled with its context, does not provide the clear indication
+needed to strip this Court of jurisdiction.
+2 See, e. g., 28 U. S. C. § 2244(b)(1) (“[a] claim presented in a second or
+successive habeas corpus application under section 2254”); § 2244(b)(2)
+(same); § 2244(c) (“[i]n a habeas corpus proceeding brought in behalf of a
+person in custody pursuant to the judgment of a State court”); § 2244(d)(1)
+(“application for a writ of habeas corpus by a person in custody pursuant
+to the judgment of a State court”); see also § 2244(d)(2) (“application for
+State post-conviction or other collateral review”).
+B
+1
+This Court has certiorari jurisdiction over any “[c]as[e] in
+the courts of appeals . . . upon the petition of any party to
+any civil or criminal case, before or after rendition of judg-
+ment or decree.” § 1254(1). Given that broad grant of ju-
+risdiction, Congress must speak clearly if it seeks to impose
+exceptions to that jurisdiction.
+In Castro v. United States, 540 U. S. 375 (2003), Castro (a
+federal prisoner) fled a motion for postconviction relief in
+Federal District Court. He had previously fled a motion,
+pro se , attacking his conviction, but he had not specifically
+labeled it as a § 2255 motion. The District Court construed
+Castro's previous filing as his first § 2255 motion and the sec-
+ond filing before it as a second § 2255 motion. Because Cas-
+tro did not receive authorization from the Court of Appeals
+before filing the second motion, the court dismissed it. The
+court, however, granted Castro a certifcate of appealability
+as to its determination that the motion was his second one.
+See § 2253(c). The Court of Appeals later affirmed the
+dismissal.
+This Court granted certiorari to address the recharacter-
+ization of Castro's first filing. The Court also asked the par-
+ties whether § 2244(b)(3)(E) barred its review. Like here,
+the Government argued that it did. In the Government's
+view, the Court of Appeals had denied Castro authorization
+when it affirmed the District Court's dismissal, making that
+“denial” the “subject” of his “petition for . . . certiorari” for
+the purposes of § 2244(b)(3)(E). The Court accepted that
+characterization of the proceedings below for the sake of
+argument, yet disagreed that § 2244(b)(3)(E) posed a bar
+to its review. Castro, 540 U. S., at 380. That was because
+the “subject” of Castro's petition was not the denial of au-
+thorization, but rather “the lower courts' refusal to recognize
+that [the] § 2255 motion [was] his first, not his second.”
+Ibid.3
+As relevant here, the Court stressed a fatal faw with the
+Government's argument. As it explained, “reading the stat-
+ute as the Government suggest[ed]” to bar jurisdiction in
+that case “would close our doors to a class of habeas petition-
+ers seeking review without any clear indication that such
+was Congress' intent.” Id., at 380–381; cf. Hertz Corp. v.
+Friend, 559 U. S. 77, 83–84 (2010) (declining to read “silence
+or ambiguous language as modifying or limiting [the Court's]
+pre-existing [certiorari] jurisdiction”). That conclusion was
+also “difficult to reconcile with the basic principle that we
+`read limitations on our jurisdiction to review narrowly.' ”
+Castro, 540 U. S., at 381 (quoting Utah v. Evans, 536 U. S.
+452, 463 (2002)). 4
+3 The Government stresses, and the dissent echoes, that the Castro
+Court “took as a given” that § 2244(b)(3)(E) applies to federal prisoners by
+concluding that it had jurisdiction because the subject of the certiorari
+petition fell outside of the provision's scope, not because the provision
+applied to state prisoners alone. Brief for United States 18, 30–31. As
+the Government elsewhere acknowledges, however, the Court did not ad-
+dress the threshold question whether § 2244(b)(3)(E) applies to federal
+prisoners. Id., at 31 (observing that Castro “did not even comment on the
+issue”). Thus, at most, the Court assumed for the sake of its analysis that
+§ 2244(b)(3)(E) applied. That assumption is not a holding to which the
+Court is now bound.
+4 The dissent's rendition of Castro is mistaken. It suggests that the
+clear-indication requirement was tied to the “troublesome resul[t]” that,
+under the Government's interpretation, a prisoner could not appeal a panel
+decision characterizing a filing as his first, not his second, even though the
+Court had previously allowed the Government to appeal a decision reach-
+ing the opposite result. See Castro, 540 U. S., at 380; Stewart v. Martinez-
+Villareal, 523 U. S. 637, 641–642 (1998); see also post, at 52–53, 60–61 (opin-
+ion of Gorsuch, J.). That was one troubling result of the Government's
+position, but Castro also listed two more troubling results: the “clos[ing of]
+our doors to a class of habeas petitioners seeking review without any clear
+indication that such was Congress' intent,” and the difficulty in “reconcil-
+[ing]” that outcome “with the basic principle that we `read limitations on
+our jurisdiction to review narrowly.' ” 540 U. S., at 380–381. The latter
+Because a “clear indication” was necessary in Castro to
+strip the Court of jurisdiction, a “clear indication” is required
+here: The issue arises in the same context and the Govern-
+ment argues that the very same provision bars the Court's
+review in this case. This clear indication, importantly, is not
+a so-called “magic words” requirement. It simply asks
+whether the text and structure support the unambiguous un-
+derstanding that Congress intended to prevent this Court's
+exercise of its certiorari jurisdiction. If a provision can rea-
+sonably be read multiple ways given its content and context,
+it is not sufficiently clear.
+The dissent contends that this clear-indication require-
+ment comes from “thin air.” Post, at 57–62 (opinion of Gor-
+such, J.). As just explained, however, it comes from Castro
+itself. It also draws support from this Court's historical
+practice of declining to read ambiguous statutes to limit its
+certiorari jurisdiction, which even the dissent acknowledges.
+See post, at 61–62.
+The dissent also argues that this clear-indication require-
+ment must be mistaken because it is not derived from princi-
+ples of constitutional avoidance. Constitutional avoidance,
+however, is not the only possible source of a rule like Cas-
+tro's. This Court also has required Congress to speak
+clearly in other contexts when Congress wishes to do some-
+thing that the Constitution allows. For example, the Court
+will interpret a “procedural requirement as jurisdictional
+only if Congress `clearly states' that it is.” Boechler v. Com-
+missioner, 596 U. S. 199, 203 (2022). In that context, “Con-
+gress need not `incant magic words,' but the `traditional tools
+of statutory construction must plainly show that Congress
+imbued a procedural bar with jurisdictional consequences.' ”
+Ibid. (citation omitted). Requiring this showing is driven
+by the harsh consequences of finding a procedural require-
+two concerns arise here, and thus Castro requires a clear indication before
+we will “close our doors” to this distinct class of prisoners seeking ha-
+beas relief.
+ment jurisdictional, even though Congress, of course, main-
+tains the power to impose such consequences. See Arbaugh
+v. Y & H Corp., 546 U. S. 500, 514–516 (2006); Henderson v.
+Shinseki, 562 U. S. 428, 434–435 (2011). A similar logic
+drives the clarity required here, when reading § 2255(h) as
+the Government and the dissent do would “close our doors
+to a class of habeas petitioners.” Castro, 540 U. S., at 381. 5
+2
+Section 2255(h)'s cross-reference does not provide the clear
+indication required to bar this Court's review. The lan-
+guage of the cross-reference is both narrow and specific. It
+says that a second or successive § 2255 motion “must be certi-
+fed as provided in section 2244 by a panel of the appropriate
+court of appeals to contain” one of two threshold content re-
+quirements. (The text of the cross-reference does not end
+at “ `certified as provided in section 2244,' ” as the dissent
+would have it. See post, at 51, 54, 56.) The cross-reference
+thus appears to incorporate only the provisions in § 2244 that
+“provid[e]” for how a “panel of the appropriate court of ap-
+peals” “certife[s]” a second or successive filing and directs
+that those procedures be used to evaluate whether the filing
+“contain[s]” the content requirements listed in § 2255(h).
+Section 2244(b)(3)(E) is not one of those provisions, and it
+has nothing to do with the content requirements in § 2255(h).
+5 No one contends that Boechler controls this case. But see post, at
+59–60. The Boechler line of cases simply demonstrates that this Court
+requires clarity in some contexts even absent constitutional concerns, un-
+dermining any suggestion that constitutional avoidance is the only permis-
+sible source of Castro's rule or other interpretative rules like it. Nor does
+this line of cases stand alone. See, e. g., Morrison v. National Australia
+Bank Ltd., 561 U. S. 247, 255 (2010) (describing the presumption against
+extraterritoriality, which requires a “clear indication of an extraterritorial
+application” for a statute to reach beyond domestic affairs, as reflecting
+“a canon of construction, . . . rather than a limit upon Congress's power
+to legislate”).
+First, the cross-reference speaks to how a “panel” of the
+court of appeals certifes a filing. But this Court is not “a
+panel of the appropriate court of appeals,” § 2255(h), so the
+cross-reference does not speak to this Court's jurisdiction.
+Second, this Court's review (or lack thereof) is not part of
+how a panel certifes a second or successive filing. Section
+2244(b)(3)(A) identifies that the filing must be certified in the
+court of appeals before an individual can proceed in the dis-
+trict court. Section 2244(b)(3)(B) requires that a three-
+judge panel make the certification decision. Section
+2244(b)(3)(C) tells the panel that the filing must make a
+prima facie showing that it satisfies the relevant gatekeeping
+requirements. Finally, § 2244(b)(3)(D) instructs the panel to
+decide whether to certify a filing within 30 days of receiving
+the request. These provisions all describe the procedures
+that a panel must follow in certifying a second or successive
+filing, and are therefore incorporated by § 2255(h)'s cross-
+reference.
+In stark contrast, the certiorari bar in § 2244(b)(3)(E) says
+nothing about how the § 2255 motion must be certified. It
+instead speaks to what happens after a panel has acted on a
+certifcation request: specifically, whether an individual can
+appeal the panel's certifcation decision. If the certiorari
+bar did not exist, no aspect of how the panel certifes a filing
+would change.6 Put simply, “the certiorari bar addresses an
+entirely different act (filing a certiorari petition, not certify-
+ing a successive motion) by an entirely different actor (the
+prisoner, not the panel) in an entirely different court (this
+Court, not the court of appeals).” Brief for Petitioner 33.
+If Congress intended § 2255(h) to incorporate this postcerti-
+fication orange alongside all the panel-certifcation apples in
+§ 2244(b)(3), it did not say so clearly.
+6 The dissent asks “[w]hat would be the point” of subparagraph (B) with-
+out the certiorari bar in subparagraph (E). Post, at 55. The point of (B)
+is still apparent. It identifies who makes the authorization determination
+in the first instance: a “three-judge panel of the court of appeals.”
+Of course, as the Government and the dissent point out,
+barring appeals of certifcation decisions has an effect on the
+panel's decision by making it conclusive. Brief for United
+States 47; post, at 55–56. That effect, however, has little to
+do with how the “motion [is] certified . . . by a panel.”
+§ 2255(h). Section 2255(h)'s reference to how the “motion
+must be certified” under § 2244 thus does not incorporate
+§ 2244(b)(3)(E)'s postcertifcation bar in the clear manner that
+Castro requires.
+Contrary to the dissent's framing, Hohn v. United States,
+524 U. S. 236 (1998), does not support a different conclusion.
+That case concerned whether the Court had jurisdiction over
+a decision by a three-judge panel to deny a prisoner a cer-
+tifcate of appealability under § 2253(c), and held that the
+Court does have such jurisdiction. Id., at 253. Section
+2253(c) applies to federal and state prisoners and dictates
+that, before an individual can appeal from a district court's
+denial of a habeas petition, he must secure permission from
+“a circuit justice or judge.”
+Court-appointed amicus in Hohn argued that the decision
+denying permission was not a “case” in the Court of Appeals
+for the purposes of this Court's jurisdiction under § 1254(1).
+The Court rejected that construction, however, in part be-
+cause it would have rendered § 2244(b)(3)(E) (which the
+Court suggested was a requirement for “state prisoners fl-
+ing second or successive habeas applications under § 2254”)
+as superfluous. See id., at 249. That was because all the
+reasons amicus gave for why a decision denying a certif-
+cate of appealability did not constitute a “case” for the pur-
+poses of § 1254(1) would equally have applied to a decision
+denying authorization to bring a second or successive filing.
+Ibid. The Court nowhere held that § 2244(b)(3)(E) applied
+to federal prisoners. (That is not surprising because the
+case did not present that question.) Nor does the Court's
+holding today render § 2244(b)(3)(E) superfluous: As all
+agree, it bars this Court's review of panel authorization deci-
+sions concerning motions to fle second or successive applica-
+tions by state prisoners.
+The dissent also relies on Hohn to argue that it already
+stands for the proposition that § 2244(B)(3)(E) imposes “a
+`clear limit' on our jurisdiction” in this case. Post, at 53, 57–
+58; see also post, at 61. Not so. No one disputes that the
+certiorari bar clearly deprives the Court of jurisdiction over
+classes of cases to which it applies. See Hohn, 524 U. S.,
+at 250. What is not clear is whether, through the cross-
+reference in § 2255(h), Congress intended for that bar to ex-
+tend to federal prisoners—a point Hohn simply did not
+address.
+C
+For these reasons, whether § 2244(b)(3)(E)'s certiorari bar
+falls within the scope of § 2255(h)'s cross-reference is at most
+ambiguous. Ambiguous language, however, cannot provide
+the required clear indication, and the Government's and the
+dissent's remaining arguments do not supply the necessary
+clarity that the text lacks.
+To begin, the Government contends that there is textual
+support in § 2244(b)(3)(E) for the understanding that the cer-
+tiorari bar applies to federal prisoners through the cross-
+reference. On this score, the Government points to how
+§§ 2244(b)(3)(A)–(E) each use the term “second or successive
+application” instead of referring to § 2254 specifically or state
+prisoners more generally. This stands in contrast to nearly
+all the other provisions in § 2244. In the Government's view,
+this textual variation means that Congress intended for
+§ 2255(h)'s cross-reference to incorporate any provision in
+§ 2244 that uses the term “second or successive application”
+and the breadth of the cross-reference therefore must be un-
+derstood on those terms.
+If that were so, § 2255(h)'s cross-reference would also in-
+corporate § 2244(b)(4). That provision directs district courts
+to review and “dismiss any claim presented in a second or
+successive application that the court of appeals has author-
+ized . . . unless the applicant shows that the claim satisfies
+the requirements of” § 2244. Put differently, once a second
+or successive application is certified, § 2244(b)(4) tells a dis-
+trict court to doublecheck that the application satisfies
+§ 2244, including its gatekeeping requirements. Section
+2244(b)(4), however, plainly falls outside the scope of
+§ 2255(h)'s cross-reference because § 2244(b)(4) has nothing to
+do with how a filing is “certified as provided in section 2244
+by a panel of the appropriate court of appeals.” § 2255(h).
+Thus, accepting the Government's argument that § 2255(h)'s
+cross-reference should be understood to incorporate any pro-
+vision in § 2244 that uses “second or successive application”
+would essentially require interpreting § 2255(h) to mean a
+federal prisoner's second or successive motion “must con-
+form to all provisions in section 2244 that are not expressly
+limited to state prisoners.” That, of course, is not what
+§ 2255(h) says.
+The Government also points to part of § 2244(b)(3)(E) that
+does speak to a “panel” of “a court of appeals.” Specifically,
+§ 2244(b)(3)(E) says that an authorization decision “shall not
+be the subject of a petition for rehearing,” thereby barring
+panel rehearing. According to the Government, because
+§ 2244(b)(3)(E) speaks to the panel in some regard, § 2255(h)
+must have intended to incorporate that provision in its en-
+tirety. The Government is wrong, however, that the certio-
+rari bar is incorporated in this way. Whether § 2244(b)
+(3)(E)'s panel-rehearing bar applies to federal prisoners says
+little, and certainly nothing clear, about whether Congress
+intended § 2244(b)(3)(E)'s separate certiorari bar to extend to
+authorization decisions concerning federal prisoners. Using
+the former to incorporate the latter is the kind of jurisdiction
+stripping by implication that cannot suffice. Cf. Felker, 518
+U. S., at 660 (“Repeals [of jurisdiction] by implication are
+not favored”).
+Next, the Government argues that allowing appeals
+from a panel's certification decision to this Court is
+inconsistent with § 2244(b)(3)(D). Brief for United States
+27–28; see also post, at 55–56. That provision, which all
+agree is covered by § 2255(h)'s cross-reference, imposes a 30-
+day clock on a panel's certifcation decision after a litigant
+seeks authorization (though most Courts of Appeals view
+that requirement as advisory, see In re Williams, 898 F. 3d
+1098, 1102, n. 5 (CA11 2018) (Wilson, J., specially concurring)
+(collecting cases); see also infra, at 39–40, and n. 8). When
+an individual seeks certiorari, on the other hand, he has 90
+days from the date of decision to fle a petition in this Court.
+This Court's Rule 13.1. The Government suggests that the
+30-day limit for panel review indicates that Congress wanted
+the certifcation decision to occur quickly, and that allowing
+prisoners to seek certiorari for an additional 90 days after
+the panel review concludes would thwart that intention.
+The Government's argument is misguided. Nothing
+about the Court's decision today undermines § 2244(b)(3)(D)'s
+timeline for the panel's authorization decision. Nor is this
+inference so compelling as to provide the needed clarity to
+cut off the Court's jurisdiction: It is entirely plausible that
+Congress intended to require panels to move quickly, while
+still preserving the prisoner's ability to seek further review
+in the rare case that warrants this Court's attention. See
+§ 2266 (placing time limits on the initial review of capital
+cases in the lower courts but placing no limits on this Court's
+review). Panels will still have the tools needed, moreover,
+to facilitate that quick review under the Court's interpreta-
+tion of § 2255(h)'s cross-reference. See infra, at 39–40, and
+n. 8.7
+7 Nor does the Court's decision today risk unduly opening the floodgates
+to frivolous appeals from authorization decisions concerning federal pris-
+oners. Such appeals will be governed by the ordinary rules that prevent
+abuses of the Court's certiorari docket in every other circumstance. See,
+e. g., this Court's Rules 39.8, 42.2. If Congress thought it best to strip the
+Court of jurisdiction to keep these appeals away from the Court's docket
+nonetheless, it failed to convey that intent sufficiently.
+From here, the Government resorts to another structural
+argument. The certiorari bar is found in § 2244(b)(3)'s fifth
+subparagraph. Everyone agrees that § 2255(h)'s cross-
+reference incorporates the preceding four subparagraphs.
+The Government maintains that it would be odd that Con-
+gress intended to incorporate four of those subparagraphs
+and not all fve. Brief for United States 17, 23. If Congress
+had intended for all fve to travel together, however, it did
+not say so explicitly. That would have been easy to do: Con-
+gress simply could have referenced § 2244(b)(3) specifically,
+rather than broadly referencing § 2244 with a narrow cross-
+reference only specifying how a second or successive filing is
+“certified” by a “panel.” Congress did not. The language
+it used instead supports the understanding that the provi-
+sions the cross-reference incorporates turn on their sub-
+stance, not where they sit in a list. As explained, supra, at
+28–31, the certiorari bar does not clearly fall within the
+scope of the cross-reference on its own terms.
+Finally, the Government invokes a practical concern. The
+Government suggests that it would make little sense to bar
+certiorari review of authorization decisions concerning state
+prisoners but not federal ones. That argument carries little
+weight when the governing standard requires Congress to
+speak clearly. It also misses the mark. Congress treated
+state and federal prisoners differently across AEDPA, with
+state prisoners often facing far higher hurdles to relief. To
+name a few examples: The statutory requirements for second
+or successive filings for federal and state prisoners are “not
+identical.” Gonzalez v. Crosby, 545 U. S. 524, 529, n. 3
+(2005); compare §§ 2244(b)(1)–(2) with §§ 2255(h)(1)–(2). In-
+deed, the requirements for federal prisoners are more le-
+nient, as explained in detail below. See infra, at 37–38.
+Further, for state prisoners alone, Congress requires ex-
+haustion, §§ 2254(b)–(c), and then, once in federal court, man-
+dates deference to both the state court's application of fed-
+eral law and its factual determinations, § 2254(d).
+This differential treatment exists for good reason. Con-
+gress enacted AEDPA “to further the principles of comity,
+finality, and federalism.” Williams v. Taylor, 529 U. S. 420,
+436 (2000). The Act “recognizes a foundational principle of
+our federal system: State courts are adequate forums for the
+vindication of federal rights.” Burt v. Titlow, 571 U. S. 12,
+19 (2013). Out of respect for state courts and their ability
+“to adjudicate claims of constitutional wrong, AEDPA
+erect[ed] a formidable barrier to federal habeas relief for
+[state] prisoners.” Ibid. Federal courts “will not lightly
+conclude that a State's criminal justice system has experi-
+enced the `extreme malfunctio[n]' for which federal habeas
+relief is the remedy.” Id., at 20; see also Greene v. Fisher,
+565 U. S. 34, 38 (2011) (observing that “the purpose of
+AEDPA is to ensure that federal habeas” review of state-
+court proceedings does not function as a “means of error
+correction”).
+Comity and federalism, however, fall away when a federal
+court reviews a federal judgment. By the time a federal
+prisoner looks to fle a second or successive motion, more-
+over, he will have had fewer bites at the apple, and fewer
+courts reviewing his case, than most state prisoners in the
+same position. See § 2254(b)(1)(A); In re Graham, 61 F. 4th
+433, 441 (CA4 2023). Although the Federal Government has
+an interest in finality too, Mayle v. Felix, 545 U. S. 644, 662
+(2005), “ `[n]o legislation pursues its purposes at all costs,' ”
+Mohamad v. Palestinian Authority , 566 U. S. 449, 460 (2012).
+Allowing further review in this Court is thus consistent with
+both AEDPA's purposes and practical considerations.
+At bottom, the Government's arguments suggest that
+§ 2255(h)'s cross-reference might include § 2244(b)(3)(E)'s cer-
+tiorari bar. They do not, however, provide the necessary
+“clear indication” that Congress intended to “close our doors
+to a class of habeas petitioners seeking review.” Castro,
+540 U. S., at 381. Absent such clear indication, federal pris-
+oners are not prohibited from seeking certiorari from a pan-
+el's denial of authorization to fle a second or successive
+motion.
+III
+Turning now to the merits upon which the Court granted
+certiorari, Bowe and the Government agree that the Elev-
+enth Circuit erred by applying § 2244(b)(1) to Bowe's request
+for authorization to fle a second or successive motion to
+vacate under § 2255(h). The Court appointed Kasdin M.
+Mitchell as amicus curiae to argue in support of the Elev-
+enth Circuit's position. 604 U. S. 1117 (2025). She has ably
+discharged her responsibilities. The Court nevertheless
+agrees with the parties and holds that § 2244(b)(1) does not
+apply to motions fled by federal prisoners under § 2255(h).
+The contrary decision of the Eleventh Circuit is vacated.
+A
+Begin with the text. Section 2244(b)(1) states that “[a]
+claim presented in a second or successive habeas corpus ap-
+plication under section 2254 that was presented in a prior
+application shall be dismissed.” State prisoners alone fle
+habeas corpus applications under § 2254. See § 2254(a) (not-
+ing that § 2254 is limited to “a person in custody pursuant to
+the judgment of a State court”); see also Magwood v. Patter-
+son, 561 U. S. 320, 333 (2010) (“The requirement of custody
+pursuant to a state-court judgment distinguishes § 2254 from
+other statutory provisions authorizing relief from constitu-
+tional violations—such as § 2255, which allows challenges to
+the judgments of federal courts”).
+This specific reference to § 2254 was deliberate: Elsewhere
+in this very section, § 2244 acknowledges § 2255. See
+§ 2244(a) (referencing § 2255); see also §§ 2253(c)(1)(A)–(B)
+(distinguishing a “final order” in a “habeas corpus proceeding
+in which the detention complained of arises out of process
+issued by a State court” from one “in a proceeding under
+section 2255”); § 2266(a) (distinguishing an “application under
+section 2254” from a “motion under section 2255”). A cardi-
+nal rule of statutory interpretation teaches that “when we're
+engaged in the business of interpreting statutes[,] we pre-
+sume differences in language like this convey differences in
+meaning.” Henson v. Santander Consumer USA Inc., 582
+U. S. 79, 86 (2017). Thus, by its plain terms, § 2244(b)(1)'s
+old-claim bar applies only to state prisoners.
+Nor does § 2255(h)'s cross-reference to § 2244 otherwise
+make § 2244(b)(1) applicable to second or successive motions
+fled by federal prisoners. Amicus, as well as the dissent,
+however, argues that it does. As they see it, § 2255(h) incor-
+porates § 2244, including § 2244(b)(3)(C). Section 2244(b)
+(3)(C), in turn, requires a panel to determine that “the appli-
+cation makes a prima facie showing that [it] satisfies the re-
+quirements of this subsection.” From here, one of the “re-
+quirements of . . . subsection” (b) is § 2244(b)(1). Following
+this chain of cross-references where it leads, amicus and the
+dissent say, § 2244(b)(1) must apply to federal prisoners.
+The reasoning why this Court has jurisdiction also shows
+the error in this position. See supra, at 28–31. Section
+2255(h)'s cross-reference incorporates the procedures in
+§ 2244 only as they relate to how a panel certifes a second
+or successive filing. It then tells the panel to use those pro-
+cedures to evaluate whether the federal prisoner's second or
+successive motion “contain[s]” either newly discovered evi-
+dence, § 2255(h)(1), or a new rule of constitutional law,
+§ 2255(h)(2). Nothing in § 2255(h) suggests that it incorpo-
+rates § 2244 for any other purposes. Thus, by its terms,
+§ 2255(h)'s cross-reference does not incorporate the content
+requirements contained in § 2244, like § 2244(b)(1)'s old-
+claim bar.
+Amicus and the dissent's broad reading of § 2244(b)(3)(C)
+would also put § 2255 on a collision course with § 2244. Sec-
+tion 2244(b) imposes two limitations on the content of a sec-
+ond or successive habeas application: § 2244(b)(1), which bars
+old claims; and § 2244(b)(2), which prescribes “two grounds”
+in which a claim “not previously raised” can proceed in a
+“second or successive application.” Burton, 549 U. S., at
+153. Section 2244(b)(3)(C), on which amicus relies, requires
+individuals to satisfy all the “requirements of this subsec-
+tion,” including both §§ 2244(b)(1) and (b)(2). The upshot of
+amicus's argument would therefore be that § 2255(h) incor-
+porates not only § 2244(b)(1)'s old-claim bar, but also
+§ 2244(b)(2)'s substantive gatekeeping requirements for new
+claims. Section 2255(h), however, contains its own substan-
+tive requirements that are irreconcilable with those in
+§ 2244(b).
+In particular, § 2255(h)(1) permits a second or successive
+§ 2255 motion if the petitioner identifies “newly discovered
+evidence that, if proven and viewed in light of the evidence
+as a whole, would be sufficient to establish by clear and con-
+vincing evidence that no reasonable factfnder would have
+found the movant guilty of the offense.” Section
+2244(b)(2)(B) also concerns claims based on new facts, but it
+is more limited than § 2255's in two ways. First, it confines
+the new-facts exception to scenarios in which the new facts
+“could not have been discovered previously through the ex-
+ercise of due diligence.” § 2244(b)(2)(B)(i). Second, it re-
+quires that the movant show “by clear and convincing evi-
+dence that, but for constitutional error , no reasonable
+factfnder would have found the applicant guilty of the un-
+derlying offense.” § 2244(b)(2)(B)(ii) (emphasis added).
+If Congress had incorporated § 2244(b)(2)(B)'s more strin-
+gent exception into § 2255(h), then § 2255(h)(1)'s more lenient
+exception would become a dead letter. Because “ `Congress
+presumably does not enact useless laws,' ” Garland v. Car-
+gill, 602 U. S. 406, 427 (2024), it makes no sense to read
+§ 2255(h)'s cross-reference in this way.
+Recognizing the problem with this position, amicus and
+the dissent attempt to limit the scope of “requirements of
+this subsection” in § 2244(B)(3)(C) to capture only those con-
+tent requirements in §§ 2244(b)(1) and (b)(2) that do not con-
+flict with § 2255(h). In their view, Congress intended for the
+substantive gatekeeping requirements in § 2244(b) to apply
+to federal prisoners by default, unless they deviated from
+those requirements in § 2255(h). To amicus, the new-facts
+exception illustrates this approach. This argument, how-
+ever, is undercut by the fact that in § 2244(b)(2)(A) and
+§ 2255(h)(2), Congress repeated verbatim the standard for
+when a second or successive filing can proceed based on a
+new, retroactive rule of constitutional law. If § 2244(b)(2)(A)
+already provided the default rule, there would have been no
+need for Congress to repeat it in § 2255(h)(2), rendering its
+inclusion mere surplusage. Hohn, 524 U. S., at 249 (declin-
+ing “to adopt a construction making another statutory provi-
+sion superfluous”).
+At bottom, the best textual reading of both § 2255(h) and
+§ 2244(b) is that, when a federal prisoner moves for authori-
+zation, a panel can authorize the filing if it satisfies one of
+the two grounds in § 2255(h), the “two—and only two—condi-
+tions in which a second or successive § 2255 motion may pro-
+ceed.” Jones, 599 U. S., at 477.
+B
+Amicus's remaining nontextual arguments do not change
+this conclusion. She contends that § 2244(b)(1) is a neces-
+sary tool, indeed “central,” for panels to meet § 2244(b)(3)
+(D)'s 30-day deadline, and that Congress therefore must have
+intended for it to apply in all cases in which authorization is
+needed. Brief for Court-Appointed Amicus Curiae 12, 23–
+26. That logical leap lacks sufficient foundation.
+For one, it is not clear why searching through case files to
+see if the litigant has raised a claim before is any easier than
+determining whether the litigant has identified new evidence
+or a new rule of constitutional law that is retroactive. As
+the parties explain, it seems just as likely that the panel's
+obligation to assess only whether a filing has made a prima
+facie showing that it satisfies § 2255(h)'s content require-
+ments, and not to undertake a more searching inquiry on the
+merits, is what facilitates the 30-day deadline. See Reply
+Brief for Petitioner 9–10; Reply Brief for United States 9;
+see also Tyler v. Cain, 533 U. S. 656, 664, 661, n. 3 (2001).
+Amicus certainly provides no evidence to suggest that her
+hypothesis is the more plausible one. 8 Regardless, amicus's
+“speculation as to Congress' intent” in enacting the old-claim
+bar and 30-day deadline “cannot replace the actual text” Con-
+gress enacted. Magwood, 561 U. S., at 334.
+Amicus further argues that Congress meant for AEDPA
+to treat second or successive filings by federal and state pris-
+oners the same. As already explained, however, AEDPA is
+replete with examples of Congress treating state and federal
+prisoners differently—including in the context of limitations
+on second or successive filings. Supra, at 34–35. 9
+Some courts, including the Eleventh Circuit below, have
+relied on this policy justification and others like it in applying
+§ 2244(b)(1) to bar second or successive motions fled by fed-
+eral prisoners under § 2255(h). See, e. g., In re Baptiste , 828
+F. 3d 1337, 1339 (2016) (“[I]t would be odd indeed if Congress
+8 For support, amicus relies on the fact that the three Circuits that do
+not apply § 2244(b)(1) to federal prisoners do not consider the 30-day dead-
+line binding, suggesting that the failure to apply § 2244(b)(1)'s old-claim
+bar is the reason for their failure to comply with the 30-day deadline in all
+cases. Brief for Court-Appointed Amicus Curiae 24–25. Amicus over-
+looks, however, that three out of the six Circuits that apply § 2244(b)(1) to
+federal prisoners also do not treat that deadline as binding. Compare In
+re Williams, 898 F. 3d 1098, 1102, n. 5 (CA11 2018) (Wilson, J., specially
+concurring) (noting that the Second, Third, and Seventh Circuits do not
+treat the 30-day deadline as binding, and that the Eighth Circuit has not
+yet “opined on the issue”), with n. 1, supra (collecting those Circuits on
+the side of the Circuit split applying § 2244(b)(1) to federal prisoners).
+9 This is not the only way in which Congress has treated old claims
+fled by federal and state prisoners differently. Section 2244(c) bars state
+prisoners from raising a claim or challenging facts in the federal postcon-
+viction setting that were adjudicated by this Court on direct review. This
+bar does not apply to federal prisoners, even though this Court can also
+exercise jurisdiction over appeals on direct review of federal convictions.
+had intended to allow federal prisoners to refle precisely
+the same non-meritorious motions over and over again while
+denying that right to state prisoners”). Those courts erred:
+“[P]urposive argument simply cannot overcome the force of
+the plain text.” Mohamad, 566 U. S., at 460. Any concern
+associated with Congress allowing old-claim repeat litigation
+for federal prisoners, moreover, is overstated: All claims,
+even the repeat ones, must meet the “strictly limited”
+threshold requirements of § 2255(h), Jones, 599 U. S., at 476,
+and should they survive that review, they must still conform
+with the demanding statute of limitations contained in
+§ 2255(f), Dodd v. United States, 545 U. S. 353, 359 (2005).
+Very few claims will satisfy either, let alone both. Ulti-
+mately, there is “no reason to doubt” that “Congress said
+what it meant and meant what it said” in § 2244(b)(1) and
+§ 2255(h). Loughrin v. United States, 573 U. S. 351, 360
+(2014).10
+* * *
+For these reasons, § 2244(b)(1) does not apply to second or
+successive motions fled by federal prisoners challenging
+their convictions or sentences under § 2255(h). The Court
+leaves it to the Eleventh Circuit to determine in the first
+instance whether Bowe should receive authorization to fle a
+10 Although the common law did not apply traditional res judicata princi-
+ples to habeas petitions, courts developed different equitable doctrines to
+address abuses of the writ. See McCleskey v. Zant, 499 U. S. 467, 479–
+489 (1991). Congress can displace those doctrines, but in the absence of
+evidence of that intent, federal courts can continue to use those common-
+law tools. Cf. Banister v. Davis, 590 U. S. 504, 515 (2020) (concluding that
+AEDPA did not displace the historical practice of applying Federal Rule
+of Civil Procedure 59(e) in habeas). Section 2244(b) codified a “modified
+res judicata rule” for second or successive petitions. Felker v. Turpin,
+518 U. S. 651, 664 (1996). As the Government argues here, AEDPA may
+not have displaced other practices that courts can still use to address re-
+petitive filings made by federal prisoners in the absence of § 2244(b)(1).
+See Brief for United States 48–50.

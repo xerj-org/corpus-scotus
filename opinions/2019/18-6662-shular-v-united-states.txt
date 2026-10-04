@@ -1,0 +1,354 @@
+Shular v. United States — No. 18-6662 — October Term 2019 — decided 2/26/20 — opinion of the Court — author Ginsburg (listing code G)
+Citation: 589 U.S. 154
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/589US2PP_final.pdf#page=46 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Jeffrey T . Green , David W . McAloon , and Susan E .
+Provenzano.
+Jonathan C. Bond argued the cause for the United States.
+With him on the brief were Solicitor General Francisco , As-
+sistant Attorney General Benczkowski, Eric J. Feigin, and
+David M. Lieberman.*
+Justice Ginsburg delivered the opinion of the Court.
+The Armed Career Criminal Act (ACCA), 18 U. S. C.
+§ 924(e), mandates a 15-year minimum sentence of imprison-
+ment for certain defendants with prior convictions for a “se-
+rious drug offense.” A state offense ranks as a “serious
+drug offense” only if it “involv[es] manufacturing, distribut-
+ing, or possessing with intent to manufacture or distribute,
+a controlled substance.” § 924(e)(2)(A)(ii). This case con-
+cerns the methodology courts use to apply that definition.
+While the parties agree that a court should look to the
+state offense's elements, they disagree over what the court
+should measure those elements against. In the Govern-
+ment's view, the court should ask whether those elements
+involve the conduct identified in § 924(e)(2)(A)(ii)—namely,
+“manufacturing, distributing, or possessing with intent to
+manufacture or distribute, a controlled substance.” Peti-
+tioner Eddie Lee Shular, however, contends that the terms
+employed in the statute identify not conduct, but offenses.
+In his view, those terms are shorthand for the elements of
+the offenses as commonly understood. According to Shular,
+the court must first identify the elements of the “generic”
+offense, then ask whether the elements of the state offense
+match those of the generic crime.
+*Briefs of amici curiae urging reversal were fled for the American
+Immigration Lawyers Association et al. by Sui Chung , Ira J. Kurzban,
+and Michael S. Vastine; for FAMM by David Debold, Avi Weitzman, Lee
+R. Crain, Mary Price, and Peter Goldberger; and for the National Associa-
+tion of Criminal Defense Lawyers by Caitlin J. Halligan and Jonathan
+D. Hacker.
+Under the approach he advances, Shular argues, his sen-
+tence is not subject to ACCA enhancement. The generic
+offenses named in § 924(e)(2)(A)(ii), as Shular understands
+them, include a mens rea element of knowledge that the sub-
+stance is illicit. He emphasizes that his prior convictions
+were for state offenses that do not make knowledge of
+the substance's illegality an element of the offense; the state
+offenses, he therefore maintains, do not match the generic
+offenses in § 924(e)(2)(A)(ii).
+The question presented: Does § 924(e)(2)(A)(ii)'s “serious
+drug offense” definition call for a comparison to a generic
+offense? We hold it does not. The “serious drug offense”
+definition requires only that the state offense involve the
+conduct specified in the federal statute; it does not require
+that the state offense match certain generic offenses.
+I
+Ordinarily, a defendant convicted of being a felon in pos-
+session of a firearm, in violation of § 922(g)(1), faces a maxi-
+mum sentence of ten years. § 924(a)(2). If the offender's
+prior criminal record includes at least three convictions
+for “serious drug offense[s]” or “violent felon[ies],” how-
+ever, ACCA mandates a minimum sentence of 15 years.
+§ 924(e)(1).
+To determine whether an offender's prior convictions qual-
+ify for ACCA enhancement, we have used a “categorical ap-
+proach,” under which we look “only to the statutory defni-
+tions of the prior offenses.” Taylor v. United States, 495
+U. S. 575, 600 (1990). Under this approach, we consider nei-
+ther “the particular facts underlying the prior convictions”
+nor “the label a State assigns to [the] crime[s].” Mathis v.
+United States, 579 U. S. 500, 509–510 (2016) (internal quota-
+tion marks and alterations omitted). So, for example, to ap-
+ply ACCA's provision defining “violent felony” to include “bur-
+glary,” § 924(e)(2)(B)(ii), we ask only whether the elements of
+the prior conviction constitute burglary; we do not ask what
+the person did or whether the offense of conviction was
+named “burglary.”
+Under some statutes, using a categorical approach re-
+quires the court to come up with a “generic” version of a
+crime—that is, the elements of “the offense as commonly un-
+derstood,” id., at 503. 1 We have required that step when
+the statute refers generally to an offense without specifying
+its elements. In that situation, the court must define the
+offense so that it can compare elements, not labels. For ex-
+ample, in Taylor, confronted with ACCA's unadorned refer-
+ence to “burglary,” we identified the elements of “generic
+burglary” based on the “sense in which the term is now used
+in the criminal codes of most States.” 495 U. S., at 598–599;
+§ 924(e)(2)(B)(ii). We then inquired whether the elements of
+the offense of conviction matched those of the generic crime.
+Id., at 602. See also, e. g., Esquivel-Quintana v. Sessions,
+581 U. S. 385, 390 (2017) (“generic federal definition of sexual
+abuse of a minor” for purposes of 8 U. S. C. § 1101(a)(43)(A)).
+In contrast, other statutes calling for a categorical ap-
+proach ask the court to determine not whether the prior con-
+viction was for a certain offense, but whether the conviction
+meets some other criterion. For example, in Kawashima v.
+Holder, 565 U. S. 478 (2012), we applied a categorical ap-
+proach to a statute assigning immigration consequences to
+prior convictions for “an offense that . . . involves fraud or
+deceit” with a loss exceeding $10,000. § 1101(a)(43)(M)(i).
+The quoted language, we held, “mean[s] offenses with ele-
+ments that necessarily entail fraudulent or deceitful con-
+duct.” Id., at 484 (emphasis added). Consequently, no
+identification of generic-offense elements was necessary; we
+simply asked whether the prior convictions before us met
+1 We have also used the term “generic crime” to mean the crime “in
+general” as opposed to “the specific acts in which an offender engaged on
+a specific occasion.” Nijhawan v. Holder, 557 U. S. 29, 33–34 (2009).
+That is not the sense in which we use “generic” in this opinion.
+that measure. Id., at 483–485. See also, e. g., Stokeling v.
+United States, 586 U. S. 73, 85–86 (2019) (determining
+whether an offense “has as an element the use, attempted
+use, or threatened use of physical force against the person of
+another,” 18 U. S. C. § 924(e)(2)(B)(i)).
+This case invites us to decide which of the two categorical
+methodologies just described applies in determining whether
+a state offense is a “serious drug offense” under ACCA.
+ACCA defines that term to include:
+“an offense under State law, involving manufacturing,
+distributing, or possessing with intent to manufacture
+or distribute, a controlled substance (as defined in sec-
+tion 102 of the Controlled Substances Act (21 U. S. C.
+[§] 802)), for which a maximum term of imprisonment of
+ten years or more is prescribed by law.” 18 U. S. C.
+§ 924(e)(2)(A)(ii).
+II
+Shular pleaded guilty in the United States District Court
+for the Northern District of Florida to possessing a firearm
+after having been convicted of a felony, in violation of
+§ 922(g)(1), and possessing with intent to distribute cocaine
+and cocaine base, in violation of 21 U. S. C. § 841(a)(1) and
+(b)(1)(C). The District Court sentenced Shular to imprison-
+ment for 15 years, the mandatory minimum under ACCA, to
+be followed by three years of supervised release.
+In imposing that enhanced sentence, the District Court
+took account of Shular's prior convictions under Florida law.
+In 2012, Shular pleaded guilty to fve counts of selling co-
+caine and one count of possessing cocaine with intent to sell,
+all in violation of Fla. Stat. § 893.13(1)(a). That law makes
+it a crime to “sell, manufacture, or deliver, or possess with
+intent to sell, manufacture, or deliver, a controlled sub-
+stance.” Ibid. For those offenses, “knowledge of the illicit
+nature of a controlled substance is not an element,” but lack
+of such knowledge “is an affirmative defense.” § 893.101(2).
+Shular's six convictions under that Florida law, the District
+Court concluded, qualified as “serious drug offense[s]” trigger-
+ing ACCA enhancement under 18 U. S. C. § 924(e)(2)(A)(ii).
+The United States Court of Appeals for the Eleventh
+Circuit affirmed the sentence. 736 Fed. Appx. 876 (2018).
+It relied on Circuit precedent holding that a court applying
+§ 924(e)(2)(A)(ii) “need not search for the elements of
+`generic' definitions” of any offense, because the statute
+“require[s] only that the predicate offense `involv[e]' . . . cer-
+tain activities.” United States v. Smith, 775 F. 3d 1262,
+1267 (2014).
+Courts of Appeals have divided on whether § 924(e)(2)
+(A)(ii)'s “serious drug offense” definition requires a compari-
+son to a generic offense. Compare, e. g., id., at 1267 (no
+generic-offense comparison), with United States v. Franklin,
+904 F. 3d 793, 800 (CA9 2018) (court must define a generic
+crime). We granted certiorari to resolve this conflict, 588
+U. S. 920 (2019), and now affirm the Eleventh Circuit's
+judgment.
+III
+A
+The parties here agree that § 924(e)(2)(A)(ii) requires a cat-
+egorical approach. A court must look only to the state
+offense's elements, not the facts of the case or labels pinned
+to the state conviction.
+They differ, however, on what comparison § 924(e)(2)(A)(ii)
+requires. Shular would require “a generic-offense matching
+exercise”: A court should define the elements of the generic
+offenses identified in § 924(e)(2)(A)(ii), then compare those
+elements to the elements of the state offense. Brief for Peti-
+tioner 13–14. In the Government's view, a court should
+apply “the Kawashima categorical approach”: It should ask
+whether the state offense's elements “necessarily entail one
+of the types of conduct” identified in § 924(e)(2)(A)(ii). Brief
+for United States 13, 20 (emphasis added).
+This methodological dispute is occasioned by an interpre-
+tive disagreement over § 924(e)(2)(A)(ii)'s reference to “man-
+ufacturing, distributing, or possessing with intent to manu-
+facture or distribute, a controlled substance.” Those terms,
+in the Government's view, describe conduct a court can com-
+pare directly against the state crime's elements. Shular
+sees them instead as offenses whose elements a court must
+first expound.
+B
+The Government's reading, we are convinced, correctly
+interprets the statutory text and context. Two features of
+§ 924(e)(2)(A)(ii), compared against a neighboring provision
+referring to offenses, § 924(e)(2)(B)(ii), show that § 924(e)(2)
+(A)(ii) refers to conduct.
+First, the terms in § 924(e)(2)(A)(ii)—“manufacturing, dis-
+tributing, or possessing with intent to manufacture or
+distribute, a controlled substance”—are unlikely names for
+generic offenses. Those words undoubtedly can be used to
+describe conduct. But as Shular acknowledges, they are not
+universal names of offenses; instead, States define “core drug
+offenses with all manner of terminology, including: traffck-
+ing, selling, giving, dispensing, distributing, delivering, pro-
+moting, and producing.” Reply Brief 7.
+Contrast § 924(e)(2)(A)(ii) with § 924(e)(2)(B)(ii), the
+enumerated-offense clause of ACCA's “violent felony” def-
+nition, appearing in the same section of the Career Criminals
+Amendment Act of 1986, 100 Stat. 3207–39 to 3207–40. That
+provision, which refers to a crime that “is burglary, arson, or
+extortion,” requires a generic-offense analysis. See Mathis,
+579 U. S., at 503. The terms “burglary,” “arson,” and “ex-
+tortion”—given their common-law history and widespread
+usage—unambiguously name offenses. Cf., e. g., Taylor, 495
+U. S., at 590–599 (discussing “burglary”). Drug offenses,
+Shular admits, lack “the same heritage and the same estab-
+lished lexicon.” Brief for Petitioner 14.
+Second, by speaking of activities a state-law drug offense
+“involv[es],” § 924(e)(2)(A)(ii) suggests that the descriptive
+terms immediately following the word “involving” identify
+conduct. The parties agree that “involve” means “necessar-
+ily requir[e].” Brief for Petitioner 14 (citing Random House
+Dictionary of the English Language 1005 (2d ed. 1987) (“to
+include as a necessary circumstance, condition, or conse-
+quence”)); Brief for United States 21 (same). It is natural to
+say that an offense “involves” or “requires” certain conduct.
+E. g., § 924(e)(2)(B)(ii) (addressing a crime “involv[ing] con-
+duct that presents a serious potential risk of physical injury
+to another”); Mathis, 579 U. S., at 507 (“The generic offense
+[of burglary] requires unlawful entry into a building or other
+structure.” (internal quotation marks omitted)).
+To refer to offenses as Shular urges, it would have been
+far more natural for the drafter to follow the enumerated-
+offense clause in using “is,” not “involving.” See § 924(e)
+(2)(B)(ii) (crime that “is burglary, arson, or extortion”).
+There, the word “is” indicates a congruence between “crime”
+and the terms that follow, terms that are also crimes. See
+American Heritage Dictionary 114 (def. 7a) (1981) (“To equal
+in meaning or identity”). Yet Congress did not adopt that
+formulation in § 924(e)(2)(A)(ii), opting instead for language
+suited to conduct.
+C
+Shular principally urges that at the time of § 924(e)(2)
+(A)(ii)'s enactment, federal and state criminal laws widely pro-
+hibited the “core conduct” of manufacturing, distributing, and
+possessing with intent to manufacture or distribute drugs.
+Brief for Petitioner 10–12. Some laws, Shular observes, used
+those very terms. See, e. g., 21 U. S. C. § 841(a)(1) (1982 ed.).
+But even if the substance of state drug laws was well estab-
+lished—rather than their nomenclature, which Shular con-
+cedes was not—Congress could capture that substance by ref-
+erence to conduct, rather than offenses.
+Shular points out that the word “involving” can accommo-
+date a generic-offense approach. Cf. Scheidler v. National
+Organization for Women, Inc., 537 U. S. 393, 409 (2003) (“act
+or threat involving . . . extortion,” 18 U. S. C. § 1961(1), con-
+templates “ `generic' extortion” (some internal quotation
+marks omitted)). But we have no reason to think Congress
+intended that approach for § 924(e)(2)(A)(ii)—which uses no
+deeply rooted offense name like “extortion” and contrasts
+with the offense-oriented language of a neighboring
+provision.
+Endeavoring to explain why Congress might have chosen
+“involving” over “is” in § 924(e)(2)(A)(ii), Shular suggests
+that variation in state drug-offense terminology required a
+word more approximate than “is.” But if Congress was
+concerned that state drug offenses lacked clear, universally
+employed names, the evident solution was to identify them
+instead by conduct. Using “involving” rather than “is” does
+not clarify that the terms are names of offenses; quite the
+opposite. See supra, at 162.
+Shular asserts that to describe conduct rather than of-
+fenses, Congress would have used the language of the
+elements clause of the “violent felony” definition, which cap-
+tures a crime that “has as an element the use, attempted
+use, or threatened use of physical force against the person of
+another.” § 924(e)(2)(B)(i) (emphasis added). It would have
+been awkward, however, to describe “possessing with intent
+to manufacture or distribute”—requiring both possession
+and intent—as “an element.” Congress may also have
+wanted to clarify that the state offense need not include the
+identified conduct as a formal element. Cf. Kawashima, 565
+U. S., at 483–484 (the statutory phrase “an offense that . . .
+involves fraud or deceit” “is not limited to offenses that
+include fraud or deceit as formal elements” but extends to
+offenses “that necessarily entail fraudulent or deceitful
+conduct”). Whatever the reason, Congress' choice not to
+describe each term in § 924(e)(2)(A)(ii) as “an element” nei-
+ther refutes that those terms refer to conduct nor shows that
+they refer to offenses.
+Nor does the other clause of the “serious drug offense”
+definition shed light on the question before us. Section
+924(e)(2)(A)(i) includes as “serious drug offenses” “offense[s]
+under” specific portions of the U. S. Code. 2 That provision,
+Shular observes, refers to fully defined crimes. But “the
+divergent text of the two provisions” of the serious -
+drug-offense definition, as the Government explains, “makes
+any divergence in their application unremarkable.” Brief
+for United States 22. Congress' decision to identify federal
+offenses by reference to the U. S. Code does not speak to
+whether it identified state offenses by reference to named
+offenses or conduct.
+D
+Shular expresses concern that rejecting a generic-offense
+approach would yield an anomalous result. Unlike other
+drug laws, Shular contends, the Florida law under which he
+was previously convicted does not require that the defendant
+know the substance is illicit. Unless § 924(e)(2)(A)(ii) takes
+into account all the elements of the offense as commonly un-
+derstood, Shular maintains, defendants would face ACCA en-
+hancement based on outlier state laws.
+As an initial matter, Shular overstates Florida's disregard
+for mens rea. Charged under Fla. Stat. § 893.13(1)(a), a
+defendant unaware of the substance's illicit nature can raise
+that unawareness as an affirmative defense, in which case
+the standard jury instructions require a finding of knowledge
+beyond a reasonable doubt. § 893.101(2); Fla. Crim. Jury
+2 Section 924(e)(2)(A)(i) provides that the term “serious drug offense”
+includes “an offense under the Controlled Substances Act (21 U. S. C.
+[§] 801 et seq.), the Controlled Substances Import and Export Act (21
+U. S. C. [§] 951 et seq.), or chapter 705 of title 46 for which a maximum
+term of imprisonment of ten years or more is prescribed by law.”
+Instr. § 25.2 (2020) (online source archived at www.supreme
+court.gov).
+In any event, both parties' interpretations of 18 U. S. C.
+§ 924(e)(2)(A)(ii) achieve a measure of consistency. Resolv-
+ing this case requires us to determine which form of con-
+sistency Congress intended: application of ACCA to all
+offenders who engaged in certain conduct or to all who
+committed certain generic offenses (in either reading, judg-
+ing only by the elements of their prior convictions). For
+the reasons explained, we are persuaded that Congress
+chose the former.
+E
+Shular urges us to apply the rule of lenity in determin-
+ing whether § 924(e)(2)(A)(ii) requires a generic-offense-
+matching analysis. The rule “applies only when, after con-
+sulting traditional canons of statutory construction, we are
+left with an ambiguous statute.” United States v. Shabani,
+513 U. S. 10, 17 (1994). Here, we are left with no ambiguity
+for the rule of lenity to resolve. Section 924(e)(2)(A)(ii)'s
+text and context leave no doubt that it refers to an offense
+involving the conduct of “manufacturing, distributing, or
+possessing with intent to manufacture or distribute, a con-
+trolled substance.” Because those terms describe conduct
+and do not name offenses, a court applying § 924(e)(2)(A)(ii)
+need not delineate the elements of generic offenses. 3
+* * *
+For the reasons stated, the judgment of the Court of Ap-
+peals for the Eleventh Circuit is
+Affirmed.
+3 Shular argues in the alternative that even if § 924(e)(2)(A)(ii) does not
+call for a generic-offense-matching analysis, it requires knowledge of the
+substance's illicit nature. See Brief for Petitioner 23; Reply Brief 8–10.
+We do not address that argument. Not only does it fall outside the ques-
+tion presented, Pet. for Cert. i, Shular disclaimed it at the certiorari stage,
+Supp. Brief for Petitioner 3.

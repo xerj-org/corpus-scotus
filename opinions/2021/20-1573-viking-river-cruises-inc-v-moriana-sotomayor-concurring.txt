@@ -1,0 +1,39 @@
+Viking River Cruises, Inc. v. Moriana — No. 20-1573 — October Term 2021 — decided 6/15/22 — Sotomayor, J., concurring
+Citation: 596 U.S. 639
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r43_gn0f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+holding in this case, those claims may not be dismissed sim-
+ply because they are “representative.” Iskanian's rule re-
+mains valid to that extent. But as we see it, PAGA provides
+no mechanism to enable a court to adjudicate non-individual
+PAGA claims once an individual claim has been committed
+to a separate proceeding. Under PAGA's standing require-
+ment, a plaintiff can maintain non-individual PAGA claims in
+an action only by virtue of also maintaining an individual
+claim in that action. See Cal. Lab. Code Ann. §§ 2699(a), (c).
+When an employee's own dispute is pared away from a PAGA
+action, the employee is no different from a member of the
+general public, and PAGA does not allow such persons to
+maintain suit. See Kim, 9 Cal. 5th, at 90, 459 P. 3d, at 1133
+(“PAGA's standing requirement was meant to be a departure
+from the `general public' . . . standing originally allowed”
+under other California statutes). As a result, Moriana lacks
+statutory standing to continue to maintain her non-individual
+claims in court, and the correct course is to dismiss her re-
+maining claims.
+For these reasons, the judgment of the California Court
+of Appeal is reversed, and the case is remanded for further
+proceedings not inconsistent with this opinion.
+It is so ordered.
+Justice Sotomayor, concurring.
+I join the Court's opinion in full. The Court faithfully ap-
+plies precedent to hold that California's anti-waiver rule for
+claims under the State's Labor Code Private Attorneys Gen-
+eral Act of 2004 (PAGA) is pre-empted only “insofar as it
+precludes division of PAGA actions into individual and non-
+individual claims through an agreement to arbitrate.” Ante,
+at 662. In its analysis of the parties' contentions, the Court
+also details several important limitations on the pre-emptive
+effect of the Federal Arbitration Act (FAA). See ante, at
+653–659. As a whole, the Court's opinion makes clear that
+California is not powerless to address its sovereign concern

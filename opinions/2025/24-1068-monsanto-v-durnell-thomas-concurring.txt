@@ -1,0 +1,125 @@
+Monsanto v. Durnell — No. 24-1068 — October Term 2025 — decided 6/25/26 — THOMAS, J., concurring
+Citation: 609 U.S. 371
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 24–1068
+MONSANTO COMPANY, PETITIONER v.
+JOHN L. DURNELL
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS OF
+MISSOURI, EASTERN DISTRICT
+[June 25, 2026]
+JUSTICE THOMAS, concurring.
+I agree with the Court’s interpretation of the Federal In-
+secticide, Fungicide, and Rodenticide Act and its applica-
+tion of our preemption precedents.  I therefore join its opin-
+ion in full. I write separately to call attention to some of the
+underlying constitutional infirmities in the Act.
+First, the Act likely exceeds Congress’s authority under
+the Commerce Clause, which authorizes Congress to regu-
+late “Commerce . . . among the several States.” Art. I, §8,
+cl. 3. This power allows Congress to regulate “selling, buy-
+ing, and bartering” across state lines. United States  v.
+Lopez, 514 U. S. 549, 585 (1995) (T HOMAS, J., concurring).
+It does not allow Congress to  regulate “agriculture” or
+“manufacturing,” activities entirely “separate” from “com-
+merce.” Id., at 586.
+The Act is a “comprehensive regulatory statute” that ap-
+pears to regulate more than the Commerce Clause allows.
+Ruckelshaus v. Monsanto Co., 467 U. S. 986, 991 (1984). As
+this Court has acknowledged, the Act “regulate[s] the use,
+as well as the sale” of pesticides and “regulate[s] pesticides
+produced and sold in . . . intrastate . . . commerce.” Id., at
+991–992. The Act, among other things, requires pesticide
+manufacturers to register their pesticides with the Envi-
+ronmental Protection Agency, submit information about
+them, and use EPA-approved labels before selling the
+
+pesticides anywhere. Ante, at 2–4.  A manufacturer that
+does not use the approved label may be subject to civil and
+criminal penalties, regardless of whether the goods are sold
+in interstate commerce. Ante, at 4.  And, the Act goes even
+further, making it illegal for consumers to use registered
+pesticides in ways inconsistent with their label.  7 U. S. C.
+§§136j(a)(2)(G), 136l(b)(2).  The Act thereby purports to reg-
+ulate how an individual who owns pesticide products such
+as Roundup can use those products, even if he bought them
+at a locally owned store down the street, and even if he
+seeks to use them in his own backyard.  Accordingly, the
+Act is likely unconstitutional in many applications.
+Second, the Act raises questions about Congress’s ability
+to delegate core legislative power to the EPA.  As the Court
+explains, ante, at 3, Congress granted the EPA the author-
+ity to issue regulations for carrying out the Act.
+§136w(a)(1). The EPA has thereby issued “extensive regu-
+lations . . . dictating what must appear on a pesticide’s la-
+bel.” Ante, at 3. Through these label regulations, the EPA
+exercises immense power over private businesses and indi-
+viduals. Violating certain regu lations is a federal offense.
+§136j(a)(2)(S). The EPA thus appears to “make substantive
+rules . . . punishable with fines or imprisonment,” a core
+legislative power that cannot be delegated. Learning Re-
+sources, Inc. v. Trump, 607 U. S. 229, 318 (2026) (THOMAS,
+J., dissenting).*
+——————
+*Such delegations of broad regulatory authority often benefit large in-
+cumbent companies at the expense of  smaller competitors and consum -
+ers.  Incumbent companies “exercise  considerable sway over agency
+rules,” S. Prakash, The Sky Will Not Fall, in The Administrative State
+Before the Supreme Court 293 (P. Wallison & J. Yoo eds. 2022), which
+they use to lobby for more “favorable regulations” that “protect the exist-
+ing regulated firms from threats ar ising from new firms,” T. Sowell,
+Basic Economics: A Citizen’s Guide to the Economy 107–108 (2004).
+Those regulations often enable a “profitable alliance” between corpora-
+tions and government, as the corporations look “for government to
+
+3  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+Third, and relatedly, the Act raises questions about the
+extent to which federal agency action can preempt state
+law, a form of preemption taken for granted by the parties
+in this case. See Brief for Respondent 37, 39, 43, 49.  The
+Supremacy Clause makes “[t]his Constitution, and the
+Laws of the United States which shall be made in Pursu-
+ance thereof; and all Treaties . . . the supreme Law of the
+Land.” Art. VI, cl. 2.  The Constitution, federal law, and
+treaties thus preempt any conflicting state law.  See, e.g.,
+Wyeth v. Levine, 555 U. S. 555, 584–588 (2009) (THOMAS, J.,
+concurring in judgment).  Administrative action appears
+difficult to fit under the Supremacy Clause.  Agency action
+is not the Constitution. Nor is it a treaty.  And, “Laws” are
+made by Congress and the President through bicameralism
+and presentment. See Art. I, §7 , cl. 2.  So, if “agency action
+qualifies as ‘supreme Law,’ ” then it arguably “violates the
+Constitution’s separation of powers.”  D. Rubenstein, The
+Paradox of Administrative Preemption, 38 Harv. J. L. &
+Pub. Pol’y 267, 334 (2015).  On the other hand, if agencies
+cannot make “Law” their actions seem to fall “beyond the
+Supremacy Clause’s purview” and cannot preempt state
+law.  Ibid.
+Of course, to the extent that federal agency action is
+treated with the force of law, regulated parties should likely
+not be compelled by state law to take contradictory actions.
+See Wyeth, 555 U. S., at 588 (opinion of THOMAS, J.) (agree-
+ing that valid federal regulations can preempt conflicting
+state laws). But, the difficulty illustrates the consequences
+of the modern administrative state and our mistaken
+——————
+cartelize their industry after private efforts for cartels and monopoly
+ha[ve] failed.”  M. Rothbard, The Progressive Era 318 (2017).
+This scheme is a perfect example.  As the Court explains, EPA ap-
+proval entails onerous registration requirements, imposing a formidable
+barrier to entry for any company that, unlike a worldwide chemical con-
+glomerate, lacks the capacity to commission scientific safety and efficacy
+studies.  See ante, at 2–6.
+
+separation-of-powers jurisprudence. If agencies were not
+exercising core legislative power, especially through
+schemes that exceed even Congress’s powers, there would
+be far less occasion to address conflicts between agency ac -
+tions and state law that the Constitution’s Framers would
+not have envisioned.

@@ -1,0 +1,151 @@
+Havana Docks Corp. v. Royal Caribbean Cruises, Ltd. — No. 24-983 — October Term 2025 — decided 5/21/26 — Sotomayor, J., concurring
+Citation: 608 U.S. 235
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r33_fcgj.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+§ 6023(4)(A) (emphasis added). When armed agents physi-
+cally occupied the docks facilities, they seized control of the
+docks even if “Cuba owned the docks.” Post, at 261 (opinion
+of Kagan, J.). Before that seizure, the “concessionaire”—
+Havana Docks—was “in possession of the works.” 1 App.
+454; Brief for Respondents 32. After the seizure, the Cuban
+Government stopped Havana Docks from operating, using,
+enjoying, possessing, or otherwise “control[ling] the [docks].”
+Id., at 23. The Cuban Government thereby extinguished
+Havana Docks' concession and “physically occupied” the
+docks, as the Commission found. 1 App. 257. Those actions
+constitute confscation of the docks under Title III. 6
+IV
+We conclude that the cruise lines used confscated prop-
+erty to which Havana Docks owns the claim. Because the
+Court of Appeals concluded otherwise, it did not reach the
+cruise lines' remaining arguments against liability. Those
+arguments are not before us and we do not address them. Ac-
+cordingly, we vacate the judgment of the Court of Appeals and
+remand for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor , with whom Justice Kavanaugh
+joins, concurring.
+I agree with the Court's resolution of the narrow question
+before it and join the majority opinion in full. I write to
+6 The dissent seemingly does not dispute that the Cuban Government
+seized control of the docks. See, post, at 261. After all, Havana Docks
+controlled the docks, then “armed officers” took them over. Ibid. Con-
+gress defined “confscat[ion]” in the statute to include “seizure by the
+Cuban Government of . . . control of property.” § 6023(4)(A). “When a
+statute includes an explicit definition, we must follow that definition.”
+Tanzin v. Tanvir, 592 U. S. 43, 47 (2020) (internal quotation marks omitted).
+Under the statutory definition, the dissent's theory has the surprising conse-
+quence that it is not “possible” for a landlord to prematurely seize control of
+“property it always owned” from a “renter with a lease.” Post, at 258, 261.
+CRUISES, LTD.
+Sotomayor, J., concurring
+highlight two issues that the Court does not reach but that
+raise significant concerns for remand or in other future Title
+III cases.
+First, petitioner's reading of Title III, if adopted, could
+allow it to recover a potentially unlimited amount of money
+from an unlimited number of people who use the confscated
+docks at issue. Here, the Foreign Claims Settlement Com-
+mission (Commission) certified that, in 1960, petitioner lost
+around $9 million from the confscation of the docks. Ante,
+at 241. The District Court determined that, under Title III,
+each of the four cruise lines in this case was liable to peti-
+tioner for $110 million (after trebling the certified loss plus
+more than a half-century's worth of interest, and awarding
+additional legal fees and costs).
+On petitioner's interpretation of Title III, however, those
+awards could be just the beginning. Title III specifies that
+“any person that . . . traffcs in property which was confs-
+cated by the Cuban Government . . . shall be liable” for no
+less than the value of the claim certified by the Commission,
+plus interest. 22 U. S. C. § 6082(a)(1)(A)(i). Below, peti-
+tioner defended the District Court's awards by arguing, in
+essence, that “any person” really means “each person,” so
+that each cruise line is liable for the full amount.
+If petitioner is correct, then petitioner potentially could
+recover $110 million from every person who uses the docks
+in any way. Here, petitioner sued four cruise lines who used
+the docks, but on its theory, nothing would prevent it from
+recovering even more if other cruise lines had used the docks
+in the past or if any cruise line uses them again in the future.
+Nor would petitioner necessarily be limited to one recovery
+against each cruise line. It could possibly seek to recover
+the full $110 million against respondents for each individual
+cruise; each docking, after all, was potentially an independ-
+ent instance of trafficking. See 28 U. S. C. § 1603(d) (defining
+“commercial activity” to mean “either a regular course of
+commercial conduct or a particular commercial transaction
+or act”); 22 U. S. C. § 6023(3) (incorporating that definition);
+see also § 6023(13)(A)(ii); but see § 6082(f)(1)(A) (appearing
+to limit plaintiffs to one suit per “subject matter”). Liabil-
+ity could even theoretically extend to third-party retailers
+aboard respondents' ships, maintenance contractors at re-
+spondents' dockyards, and even the nearly one million pas-
+sengers who paid respondents to sail to Cuba, all of whom
+arguably “engage[d] in a commercial activity using or other-
+wise benefting from” the confscated docks or “participate[d]
+in” respondents' commercial activities. §§ 6023(13)(A)(ii)–
+(iii). In short, this limitless reading of the statute could per-
+mit petitioner to recover millions, if not billions, of dollars
+over and over again, so long as anyone continues to make
+any commercial use of the docks.
+It is unlikely that Congress intended for someone who suf-
+fered a fnite loss to reap infinite recoveries. Congress de-
+fined “confscated” property to mean property that was
+seized by the Cuban Government “without the property hav-
+ing been returned or adequate and effective compensation
+provided.” § 6023(4)(A)(i). Congress also created the
+Commission and tasked it with assessing the value of claims
+stemming from the Cuban Government's confscations and
+made the Commission-certifed value a presumptive mea-
+sure of a Title III plaintiff's recovery. Ante, at 241, 243;
+see § 6082(a)(1)(A)(i). That statutory scheme suggests that
+Congress intended for the Commission's certifcation to sup-
+ply a benchmark for adequate compensation; it does not ex-
+pressly authorize repeatedly recovering the Commission-
+certified amount. Furthermore, if the statute is read the
+way petitioner suggests, then Title III's remedies could po-
+tentially violate the Due Process Clause to the extent that
+the statute imposes penalties against individual defendants
+that are “so severe and oppressive as to be wholly dispro-
+portioned to the offense and obviously unreasonable.”
+St. Louis, I. M. & S. R. Co. v. Williams, 251 U. S. 63, 66–
+67 (1919).
+CRUISES, LTD.
+Sotomayor, J., concurring
+Second, there is a significant question as to whether re-
+spondents' conduct fell within a statutory exception to Title
+III liability for “transactions and uses of property incident
+to lawful travel to Cuba.” § 6023(13)(B)(iii); see ante, at 243,
+n. 1, 249, n. 4 (declining to address this exception). Indeed,
+the Federal Government appears to have previously taken
+the position that these cruises were lawful and beneficial to
+both Cuba and the United States.
+For example, in 2016, President Obama announced at a
+joint press conference with Cuban President Raúl Castro
+that the United States Government had “removed the last
+major hurdle to resuming cruises and ferry service,” which
+would “mean even more Americans visiting Cuba in the
+years ahead and appreciating the incredible history and cul-
+ture of the Cuban people.” * The Office of Foreign Assets
+Control (OFAC), which administers and enforces sanctions
+by the United States against Cuba, also granted one re-
+spondent a license that specifically authorized “carrier serv-
+ices by vessel to, from, or within Cuba in connection with
+travel or transportation between the United States and
+Cuba.” App. 570. OFAC later amended its regulations “to
+authorize persons subject to U. S. jurisdiction to provide car-
+rier services by vessel, without the need for specific li-
+censes.” 80 Fed. Reg. 56916 (2015). Further, the State De-
+partment previously informed petitioner that it would not
+bring enforcement actions against respondents because of
+“the clear exclusion” from the definition of “ `traffcs' ” that
+shields “transactions and uses of property incident to lawful
+travel to Cuba.” App. 834.
+To be sure, as petitioner argued below, at the same time
+the Government made these statements, it also warned re-
+*Remarks by President Obama and President Raúl Castro of Cuba in a
+Joint Press Conference, The Obama White House (Mar. 21, 2016), https://
+obamawhitehouse.archives.gov/the-press-office/2016/03/21/remarks -
+president-obama-and-president-raul-castro-cuba-joint-press (archived at
+perma.cc/2JA3-NTP7).

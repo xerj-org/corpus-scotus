@@ -1,0 +1,209 @@
+Trump v. Anderson — No. 23-719 — October Term 2023 — decided 3/04/24 — Sotomayor, Kagan, and Jackson, JJ., concurring in judgment
+Citation: 601 U.S. 100
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r06_a86c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+dential candidates. That principle is sufficient to resolve
+this case, and I would decide no more than that. This suit
+was brought by Colorado voters under state law in state
+court. It does not require us to address the complicated
+question whether federal legislation is the exclusive vehicle
+through which Section 3 can be enforced.
+The majority's choice of a different path leaves the remain-
+ing Justices with a choice of how to respond. In my judg-
+ment, this is not the time to amplify disagreement with stri-
+dency. The Court has settled a politically charged issue in
+the volatile season of a Presidential election. Particularly
+in this circumstance, writings on the Court should turn the
+national temperature down, not up. For present purposes,
+our differences are far less important than our unanimity:
+All nine Justices agree on the outcome of this case. That is
+the message Americans should take home.
+Justice Sotomayor , Justice Kagan , and Justice
+Jackson, concurring in the judgment.
+“If it is not necessary to decide more to dispose of a case,
+then it is necessary not to decide more.” Dobbs v. Jackson
+Women's Health Organization, 597 U. S. 215, 348 (2022)
+(Roberts, C. J., concurring in judgment). That fundamen-
+tal principle of judicial restraint is practically as old as our
+Republic. This Court is authorized “to say what the law is”
+only because “[t]hose who apply [a] rule to particular cases
+. . . must of necessity expound and interpret that rule.”
+Marbury v. Madison, 1 Cranch 137, 177 (1803) (emphasis
+added).
+Today, the Court departs from that vital principle, decid-
+ing not just this case, but challenges that might arise in the
+future. In this case, the Court must decide whether Colo-
+rado may keep a Presidential candidate off the ballot on the
+ground that he is an oathbreaking insurrectionist and thus
+disqualifed from holding federal office under Section 3 of the
+Fourteenth Amendment. Allowing Colorado to do so would,
+we agree, create a chaotic state-by-state patchwork, at odds
+with our Nation's federalism principles. That is enough to
+resolve this case. Yet the majority goes further. Even
+though “[a]ll nine Members of the Court” agree that this in-
+dependent and sufficient rationale resolves this case, fve
+Justices go on. They decide novel constitutional questions
+to insulate this Court and petitioner from future controversy.
+Ante, at 117. Although only an individual State's action is
+at issue here, the majority opines on which federal actors can
+enforce Section 3, and how they must do so. The majority
+announces that a disqualifcation for insurrection can occur
+only when Congress enacts a particular kind of legislation
+pursuant to Section 5 of the Fourteenth Amendment. In
+doing so, the majority shuts the door on other potential
+means of federal enforcement. We cannot join an opinion
+that decides momentous and difficult issues unnecessarily,
+and we therefore concur only in the judgment.
+I
+Our Constitution leaves some questions to the States while
+committing others to the Federal Government. Federalism
+principles embedded in that constitutional structure decide
+this case. States cannot use their control over the ballot to
+“undermine the National Government.” U. S. Term Limits,
+Inc. v. Thornton, 514 U. S. 779, 810 (1995). That danger is
+even greater “in the context of a Presidential election.”
+Anderson v. Celebrezze, 460 U. S. 780, 794–795 (1983). State
+restrictions in that context “implicate a uniquely important
+national interest” extending beyond a State's “own borders.”
+Ibid. No doubt, States have significant “authority over
+presidential electors” and, in turn, Presidential elections.
+Chiafalo v. Washington, 591 U. S. 578, 588 (2020). That
+power, however, is limited by “other constitutional con-
+straint[s],” including federalism principles. Id., at 589.
+The majority rests on such principles when it explains why
+Colorado cannot take petitioner off the ballot. “[S]tate-by-
+state resolution of the question whether Section 3 bars a
+particular candidate for President from serving,” the major-
+ity explains, “would be quite unlikely to yield a uniform an-
+swer consistent with the basic principle that `the President
+. . . represent[s] all the voters in the Nation.' ” Ante, at 116
+(quoting Anderson, 460 U. S., at 795). That is especially so,
+the majority adds, because different States can reach “[c]on-
+flicting . . . outcomes concerning the same candidate . . . not
+just from differing views of the merits, but from variations
+in state law governing the proceedings” to enforce Sec-
+tion 3. Ante, at 116.
+The contrary conclusion that a handful of officials in a few
+States could decide the Nation's next President would be
+especially surprising with respect to Section 3. The Recon-
+struction Amendments “were specifically designed as an
+expansion of federal power and an intrusion on state sover-
+eignty.” City of Rome v. United States, 446 U. S. 156, 179
+(1980). Section 3 marked the first time the Constitution
+placed substantive limits on a State's authority to choose its
+own officials. Given that context, it would defy logic for
+Section 3 to give States new powers to determine who may
+hold the Presidency. Cf. ante, at 112 (“It would be incongru-
+ous to read this particular Amendment as granting the
+States the power—silently no less—to disqualify a candidate
+for federal office”).
+That provides a secure and sufficient basis to resolve this
+case. To allow Colorado to take a Presidential candidate off
+the ballot under Section 3 would imperil the Framers' vision
+of “a Federal Government directly responsible to the peo-
+ple.” U. S. Term Limits, 514 U. S., at 821. The Court
+should have started and ended its opinion with this
+conclusion.
+II
+Yet the Court continues on to resolve questions not before
+us. In a case involving no federal action whatsoever, the
+Court opines on how federal enforcement of Section 3 must
+proceed. Congress, the majority says, must enact legisla-
+tion under Section 5 prescribing the procedures to “ ` “ascer-
+tain[ ] what particular individuals” ' ” should be disqualifed.
+Ante, at 109 (quoting Griffn's Case , 11 F. Cas. 7, 26 (No.
+5,815) (CC Va. 1869) (Chase, Circuit Justice)). These mus-
+ings are as inadequately supported as they are gratuitous.
+To start, nothing in Section 3's text supports the majori-
+ty's view of how federal disqualifcation efforts must operate.
+Section 3 states simply that “[n]o person shall” hold certain
+positions and offices if they are oathbreaking insurrection-
+ists. Amdt. 14. Nothing in that unequivocal bar suggests
+that implementing legislation enacted under Section 5 is
+“critical” (or, for that matter, what that word means in this
+context). Ante, at 110. In fact, the text cuts the opposite
+way. Section 3 provides that when an oathbreaking insur-
+rectionist is disqualifed, “Congress may by a vote of two-
+thirds of each House, remove such disability.” It is hard to
+understand why the Constitution would require a congres-
+sional supermajority to remove a disqualifcation if a simple
+majority could nullify Section 3's operation by repealing or
+declining to pass implementing legislation. Even petition-
+er's lawyer acknowledged the “tension” in Section 3 that the
+majority's view creates. See Tr. of Oral Arg. 31.
+Similarly, nothing else in the rest of the Fourteenth
+Amendment supports the majority's view. Section 5 gives
+Congress the “power to enforce [the Amendment] by appro-
+priate legislation.” Remedial legislation of any kind, how-
+ever, is not required. All the Reconstruction Amendments
+(including the due process and equal protection guarantees
+and prohibition of slavery) “are self-executing,” meaning that
+they do not depend on legislation. City of Boerne v. Flores,
+521 U. S. 507, 524 (1997); see Civil Rights Cases, 109 U. S. 3,
+20 (1883). Similarly, other constitutional rules of disqualif-
+cation, like the two-term limit on the Presidency, do not re-
+quire implementing legislation. See, e.g., Art. II, § 1, cl. 5
+(Presidential Qualifications); Amdt. 22 (Presidential Term
+Limits). Nor does the majority suggest otherwise. It sim-
+ply creates a special rule for the insurrection disability in
+Section 3.
+The majority is left with next to no support for its require-
+ment that a Section 3 disqualifcation can occur only pursuant
+to legislation enacted for that purpose. It cites Griffn's
+Case, but that is a nonprecedential, lower court opinion by a
+single Justice in his capacity as a circuit judge. See ante, at
+109 (quoting 11 F. Cas., at 26). Once again, even petitioner's
+lawyer distanced himself from fully embracing this case as
+probative of Section 3's meaning. See Tr. of Oral Arg. 35–
+36. The majority also cites Senator Trumbull's statements
+that Section 3 “ `provide[d] no means for enforcing' ” itself.
+Ante, at 110 (quoting Cong. Globe, 41st Cong., 1st Sess., 626
+(1869)). The majority, however, neglects to mention the
+Senator's view that “[i]t is the [F]ourteenth [A]mendment
+that prevents a person from holding office,” with the pro-
+posed legislation simply “afford[ing] a more efficient and
+speedy remedy” for effecting the disqualifcation. Id., at
+626–627.
+Ultimately, under the guise of providing a more “complete
+explanation for the judgment,” ante, at 117, the majority re-
+solves many unsettled questions about Section 3. It fore-
+closes judicial enforcement of that provision, such as might
+occur when a party is prosecuted by an insurrectionist and
+raises a defense on that score. The majority further holds
+that any legislation to enforce this provision must prescribe
+certain procedures “ `tailor[ed]' ” to Section 3, ante, at 115,
+ruling out enforcement under general federal statutes re-
+quiring the Government to comply with the law. By resolv-
+ing these and other questions, the majority attempts to insu-
+late all alleged insurrectionists from future challenges to
+their holding federal office.
+* * *
+“What it does today, the Court should have left undone.”
+Bush v. Gore, 531 U. S. 98, 158 (2000) (Breyer, J., dissenting).
+The Court today needed to resolve only a single question:
+whether an individual State may keep a Presidential candi-
+date found to have engaged in insurrection off its ballot.
+The majority resolves much more than the case before us.
+Although federal enforcement of Section 3 is in no way at
+issue, the majority announces novel rules for how that en-
+forcement must operate. It reaches out to decide Section 3
+questions not before us, and to foreclose future efforts to
+disqualify a Presidential candidate under that provision. In
+a sensitive case crying out for judicial restraint, it abandons
+that course.
+Section 3 serves an important, though rarely needed, role
+in our democracy. The American people have the power to
+vote for and elect candidates for national office, and that is a
+great and glorious thing. The men who drafted and ratified
+the Fourteenth Amendment, however, had witnessed an “in-
+surrection [and] rebellion” to defend slavery. § 3. They
+wanted to ensure that those who had participated in that
+insurrection, and in possible future insurrections, could not
+return to prominent roles. Today, the majority goes beyond
+the necessities of this case to limit how Section 3 can bar an
+oathbreaking insurrectionist from becoming President. Al-
+though we agree that Colorado cannot enforce Section 3, we
+protest the majority's effort to use this case to define the
+limits of federal enforcement of that provision. Because we
+would decide only the issue before us, we concur only in
+the judgment.

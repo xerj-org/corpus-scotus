@@ -1,0 +1,291 @@
+Fischer v. United States — No. 23-5572 — October Term 2023 — decided 6/28/24 — Jackson, J., concurring
+Citation: 603 U.S. 480
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r55_6j36.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+vision the broadest possible meaning. Yates, 574 U. S., at
+536 (plurality opinion). Although the Government's all-
+encompassing interpretation may be literally permissible, it
+defies the most plausible understanding of why (c)(1) and
+(c)(2) are conjoined, and it renders an unnerving amount of
+statutory text mere surplusage. Given that subsection (c)(2)
+was enacted to address the Enron disaster, not some further
+fung set of dangers, it is unlikely that Congress responded
+with such an unfocused and “grossly incommensurate patch.”
+64 F. 4th, at 376 (Katsas, J., dissenting). We therefore de-
+cline to adopt the Government's interpretation, which is in-
+consistent with “the context from which the statute arose.”
+Bond v. United States, 572 U. S. 844, 860 (2014).
+* * *
+To prove a violation of Section 1512(c)(2), the Government
+must establish that the defendant impaired the availability
+or integrity for use in an official proceeding of records, docu-
+ments, objects, or as we earlier explained, other things used
+in the proceeding, or attempted to do so. See supra, at 491.
+The judgment of the D. C. Circuit is therefore vacated, and
+the case is remanded for further proceedings consistent with
+this opinion. On remand, the D. C. Circuit may assess the
+sufficiency of Count Three of Fischer's indictment in light of
+our interpretation of Section 1512(c)(2).
+It is so ordered.
+Justice Jackson, concurring.
+On January 6, 2021, an angry mob stormed the United
+States Capitol seeking to prevent Congress from fulflling its
+constitutional duty to certify the electoral votes in the 2020
+Presidential election. See ante, at 484. The peaceful trans-
+fer of power is a fundamental democratic norm, and those
+who attempted to disrupt it in this way inflicted a deep
+wound on this Nation. But today's case is not about the
+immorality of those acts. Instead, the question before this
+Court is far narrower: What is the scope of the particular
+crime Congress has outlined in 18 U. S. C. § 1512(c)(2)?
+In the United States of America, “men are not subjected
+to criminal punishment because their conduct offends our pa-
+triotic emotions or thwarts a general purpose sought to be
+effected by specific commands which they have not dis-
+obeyed. Nor are they to be held guilty of offenses which
+the statutes have omitted, though by inadvertence, to define
+and condemn.” Viereck v. United States, 318 U. S. 236, 245
+(1943). Our commitment to equal justice and the rule of law
+requires the courts to faithfully apply criminal laws as writ-
+ten, even in periods of national crisis, see, e. g., Cramer v.
+United States, 325 U. S. 1, 46–48 (1945), and even when the
+conduct alleged is indisputably abhorrent, cf. Michaels v.
+Davis, 601 U. S. –––, ––– (2024) (Jackson, J., dissenting from
+denial of certiorari).
+Notwithstanding the shocking circumstances involved in
+this case or the Government's determination that they war-
+rant prosecution, today, this Court's task is to determine
+what conduct is proscribed by the criminal statute that has
+been invoked as the basis for the obstruction charge at issue
+here. I join in the Court's opinion because I agree with the
+majority that § 1512(c)(2) does not reach “ `all forms of ob-
+structive conduct' ” and is, instead, “limited by the preceding
+list of criminal violations” in § 1512(c)(1). Ante, at 489–490.
+I write separately to explain why and how that interpreta-
+tion of § 1512(c) follows from the legislative purpose that this
+statute's text embodies.
+I
+Our goal in interpreting any statute should be “to give
+effect to the intent of Congress.” United States v. Ameri-
+can Trucking Assns., Inc., 310 U. S. 534, 542 (1940). There
+is no question that intent is generally expressed through the
+text of a statute. See American Tobacco Co. v. Patterson,
+456 U. S. 63, 68 (1982). “[H]ewing closely to Congress's
+will” as embodied in the statute that it wrote “is especially
+important” when construing laws like this one, which impli-
+cate the possible imposition of punitive sanctions. Pugin v.
+Garland, 599 U. S. 600, 612 (2023) (Jackson, J., concurring).
+Here, the majority rightly interprets the scope of
+§ 1512(c)(2) by “look[ing] for guidance from” the statutory
+“examples [that] come before” it—those listed in § 1512(c)(1).
+Ante, at 487. In my view, the examples that Congress opts
+to include in the text of a statute evince its intentions con-
+cerning what the rule covers and thereby help express a par-
+ticular legislative purpose.
+The majority's football-based example is illustrative. In a
+football league, says the majority, “a rule that players must
+not `grab, twist, or pull a facemask, helmet, or other equip-
+ment with the intent to injure a player, or otherwise attack,
+assault, or harm any player,' ” should not be interpreted as
+being directed at hurt feelings, because the listed “prohibited
+actions all concern dangerous physical conduct that might
+inflict bodily harm; trash talk is simply not of that kind.”
+Ante, at 488. I agree. I would add that it is likewise clear
+from the listed prohibited acts that such a rule is also not
+addressing far more serious and unexpected conduct than
+the kinds of acts that the preceding examples describe,
+which can result in serious and foreseeable physical injuries
+during a rough-and-tumble football game. By contrast, if a
+player were to shoot or poison another player, the rule's
+drafters would expect the police to be called, not a referee.
+Thus, we conclude that the rule is best understood to be in-
+apposite with respect to conduct at both extremes of the uni-
+verse of harmful acts in which a player might conceivably
+engage.
+We recognize this intuitive fact—that there is a certain
+category of conduct the rule is designed to prohibit—because
+we recognize, albeit implicitly, that the drafters of this rule
+have included these particular examples for a reason. We
+understand that, given the preceding list of examples, this
+rule was adopted with a clear intent concerning its scope.
+So, though a broad conception of “harm” is “literally covered
+by the language” of the rule, ibid., we appreciate that the
+rule's drafters did not intend for that term to take on its
+most expansive meaning. Instead, the examples help illumi-
+nate what the drafters actually intended the rule to cover.
+From the preceding list, we can confdently discern that the
+drafters meant to proscribe only conduct that risks injuries
+with severity akin to facemask pulling, not trash talk or
+murder.1
+The upshot is that, when interpreting the scope of a partic-
+ular statute or rule, our assessment of the words that the
+drafters used informs our understanding of what the rule
+was designed to do. 2 Discerning the rule's purpose is criti-
+cal when a court is called upon to interpret the provision.
+II
+Turning to the statutory provision at issue here, the pur-
+pose of § 1512(c), reflected in its text, is clear. Subsection
+(c)(1) is indisputably focused on persons who engage in a par-
+ticular kind of obstructive conduct: Anyone who “corruptly
+1 The majority invokes the canons of noscitur a sociis and ejusdem gene-
+ris to support this inference. See ante, at 487. Those canons are useful
+interpretive tools, but in my view, they are ultimately only devices used in
+furtherance of achieving our goal of determining “the intent of Congress.”
+United States v. American Trucking Assns., Inc., 310 U. S. 534, 542 (1940).
+“There is no invariable rule for the discovery of that intention.” Ibid.
+As one treatise explains, such canons are “not . . . rule[s] of law” but rather
+“one of various factors to be considered.” A. Scalia & B. Garner, Reading
+Law: The Interpretation of Legal Texts 212 (2012); see also id., at 196–
+198. We apply these canons because we understand that their principles
+are consistent with how users of language—including legislators—convey
+meaning. See id., at 212 (“Any lawyer or legislative drafter who writes
+two or more specifics followed by a general residual term without the
+intention that the residual term be limited may be guilty of malpractice”).
+As such, they are valid indicia of Congress's purpose.
+2 Other indicia of the drafters' intent, such as the rule's context or enact-
+ment history, can further inform our understanding of the rule. See
+infra, at 502–505.
+. . . alters, destroys, mutilates, or conceals a record, docu-
+ment, or other object, . . . with the intent to impair the ob-
+ject's integrity or availability for use in an official proceed-
+ing.” Subsection (c)(2), in turn, is directed at criminal
+conduct that “otherwise” achieves a similar result. I there-
+fore agree with the majority that § 1512(c)(2)'s reach is
+narrower than the Government contends. As the majority
+holds, § 1512(c)(2) “makes it a crime to impair the availability
+or integrity of records, documents, or objects used in an off-
+cial proceeding in ways other than those specified in (c)(1)”
+and to “impai[r] the availability or integrity of other things
+used in an official proceeding beyond the `record[s], docu-
+ment[s], or other object[s]' enumerated in (c)(1).” Ante, at
+491.
+This understanding of § 1512(c)'s text and purpose is en-
+tirely consistent with the statute's enactment history. Con-
+gress enacted § 1512(c) as part of the Sarbanes-Oxley Act,
+which “was prompted by the exposure of Enron's mas-
+sive accounting fraud and revelations that the company's out-
+side auditor, Arthur Andersen LLP, had systematically de-
+stroyed potentially incriminating documents.” Yates v.
+United States, 574 U. S. 528, 535–536 (2015) (plurality opin-
+ion). When introducing what later became § 1512(c) on the
+Senate floor, Senator Lott emphasized that its principal pur-
+pose was to target document destruction, which was, at the
+time, prohibited “only if . . . a subpoena ha[d] been issued for
+the evidence that ha[d] been destroyed or altered.” 148
+Cong. Rec. 12512 (2002). “[T]his section,” he explained,
+“would allow the Government to charge obstruction against
+individuals who acted alone, even if the tampering took place
+prior to the issuance of a grand jury subpoena.” Ibid.
+Similarly, the Senate Report accompanying the proposed
+statute noted that “current federal obstruction of justice
+statutes relating to document destruction [were] riddled
+with loopholes and burdensome proof requirements.” S.
+Rep. No. 107–146, p. 6 (2002). According to the Senate Re-
+port, § 1512(c) was drafted to fll these gaps: “When a person
+destroys evidence with the intent of obstructing any type of
+investigation and the matter is within the jurisdiction of a
+federal agency, overly technical legal distinctions should nei-
+ther hinder nor prevent prosecution and punishment.” Id.,
+at 7.
+Conversely, there is no indication whatsoever that Con-
+gress intended to create a sweeping, all-purpose obstruction
+statute. As the majority notes, “[f]ederal obstruction law
+consists of numerous provisions that target specific criminal
+acts and settings.” Ante, at 492. Outside of the Govern-
+ment's proposed interpretation of § 1512(c), Congress has
+never enacted “a one-size-fits-all solution to obstruction of
+justice.” Ante, at 497.3 Meanwhile, many States have done
+just that. See J. Decker, The Varying Parameters of Ob-
+struction of Justice in American Criminal Law, 65 La.
+L. Rev. 49, 77, and n. 236 (2004) (collecting statutes). 4 The
+drafters of the Model Penal Code, too, proposed such a gen-
+eral obstruction crime. See ALI, Model Penal Code § 242.1,
+p. 201 (1980) (“A person commits a misdemeanor if he pur-
+posely obstructs, impairs or perverts the administration of
+law or other governmental function by force, violence, physi-
+cal interference or obstacle, breach of official duty, or any
+other unlawful act”).
+3 That is not to say, of course, that Congress could not enact such a
+statute if it so chose. “We have traditionally exercised restraint in as-
+sessing the reach of a federal criminal statute . . . out of deference to the
+prerogatives of Congress,” United States v. Aguilar, 515 U. S. 593, 600
+(1995), not because broad criminal proscriptions are beyond the scope of
+Congress's power.
+4 See also, e. g., Colo. Rev. Stat. § 18–8–102(1) (2023) (“A person commits
+obstructing government operations if he intentionally obstructs, impairs,
+or hinders the performance of a governmental function by a public serv-
+ant, by using or threatening to use violence, force, or physical interference
+or obstacle”); Ohio Rev. Code Ann. § 2921.31(A) (Lexis 2024) (“No person
+. . . shall do any act that hampers or impedes a public official in the per-
+formance of the public official's lawful duties”).
+Given that Congress has never before passed a similarly
+broad obstruction law when others have long existed, it is
+highly unlikely that Congress intended for subsection (c)(2)
+to establish a first-of-its-kind general federal obstruction
+crime. Nothing in the enactment history of § 1512(c) sug-
+gests that Congress believed that it was creating an all-
+encompassing statute that would obviate the need for any
+other obstruction prohibitions.
+This conclusion is further reinforced by the fact that, un-
+like § 1512(c)(2), nearly all of the broad, all-purpose obstruc-
+tion statutes that various States have enacted are classified
+as misdemeanors. See, e. g., Colo. Rev. Stat. § 18–8–102(3)
+(2023); Ohio Rev. Code Ann. 2921.31(B) (Lexis 2024). As a
+result, these types of obstruction crimes are generally pun-
+ishable by up to a year of incarceration. See 1 W. LaFave,
+J. Israel, N. King, & O. Kerr, Criminal Procedure § 1.8(c),
+pp. 557–558 (4th ed. 2015). That is so for a reason: As the
+Model Penal Code's drafters explained, “the existence of a
+residual misdemeanor offense” allows for the “appropriately
+narrow definition of the serious forms of obstruction carry-
+ing felony penalties.” § 242.1, Comment 2, at 203. “A broad
+residual offense . . . provides a hedge against the ingenuity
+of offenders,” since “[n]ot all forms of obstruction can be
+anticipated and precisely proscribed in specific offenses.”
+Ibid. But, at the same time, that kind of broad criminal
+statute “must incorporate certain limitations lest it nullify
+policy decisions expressed elsewhere.” Ibid . In other
+words, these broad misdemeanor obstruction statutes are
+“amalgam[s] of generality and constraint.” Ibid.
+The Government's interpretation of § 1512(c)(2), by con-
+trast, exhibits all the generality of these catchall misde-
+meanor obstruction provisions while displaying none of their
+restraint. Section 1512(c)(2) is a felony, and it imposes a
+20-year maximum sentence—one of the more severe poten-
+tial punishments in Chapter 73 of the U. S. Code. That
+stands in contrast with Congress's specification that other
+serious obstructive acts warrant “far shorter terms of im-
+prisonment—for example, three years for harassment under
+§ 1512(d)(1), or ten years for threatening a juror under
+§ 1503.” Ante, at 497.
+Finally, it is worth remembering the statutory context in
+which Congress chose to prohibit the obstruction-related
+conduct we are considering today. The statute Congress
+wrote addresses this matter in a 13-word phrase, enumer-
+ated “2,” that is located within subsection (c) of a much
+broader § 1512, which itself consists of “a reticulated list of
+nearly two dozen means of committing obstruction.” Ante,
+at 493. However we might interpret Congress's drafting
+choices in other contexts, we should be wary of finding that
+a statute addresses significant criminal conduct when none
+of the available indicia of congressional intent, including the
+prohibition's placement, suggest that Congress intended that
+result. Here, it beggars belief that Congress would have
+inserted a breathtakingly broad, first-of-its-kind criminal ob-
+struction statute (accompanied by a substantial 20-year max-
+imum penalty) in the midst of a significantly more granular
+series of obstruction prohibitions without clarifying its in-
+tent to do so—not in the text of the provision itself, nor in
+the surrounding statutory context, nor in any statement is-
+sued during the enactment process.
+* * *
+In my view, the Court properly interprets § 1512(c)(2) in
+the opinion it issues today. It also rightly vacates the judg-
+ment below and remands this case for further proceedings.
+Joseph Fischer was charged with violating § 1512(c)(2) by
+corruptly obstructing “a proceeding before Congress, spe-
+cifcally, Congress's certifcation of the Electoral College
+vote.” App. 183. That official proceeding plainly used cer-
+tain records, documents, or objects—including, among oth-
+ers, those relating to the electoral votes themselves. See
+Tr. of Oral Arg. 65–67. And it might well be that Fischer's

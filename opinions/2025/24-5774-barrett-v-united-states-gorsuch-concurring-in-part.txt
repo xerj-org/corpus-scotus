@@ -1,0 +1,207 @@
+Barrett v. United States — No. 24-5774 — October Term 2025 — decided 1/14/26 — Gorsuch, J., concurring in part
+Citation: 607 U.S. 128
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r07_7647.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+fens[e],” subsection (j) (at the time styled subsection (i))
+“made” a “capital offens[e]” out of a “[p]re-existing
+crim[e]”—the one at subsection (c). Cong. Research Serv.,
+C. Doyle, Crime Control Act of 1994: Capital Punishment
+Provisions Summarized, pp. 3–4 (94–721 S, 1994); see also
+140 Cong. Rec. 11158 (1994) (Sen. Biden remarking that the
+new provision “says if you are guilty of committing a crime
+that results in the death of an individual through the use of
+a gun, you are eligible for the death penalty, assuming it is
+a Federal crime”).
+Like its silence in the statutory text, Congress's debate-
+floor silence says a lot. The Blockburger presumption is
+“long-settled,” Gamble v. United States, 587 U. S. 678, 710
+(2019), muscular, and fundamental to our law. We think it
+highly unlikely that the “ `lawyer's body' ” that is Congress,
+Albernaz, 450 U. S., at 341 (quoting Callanan v. United
+States, 364 U. S. 587, 594 (1961)), discarded Blockburger
+without comment here.
+* * *
+Congress has not authorized convictions under both 18
+U. S. C. §§ 924(c)(1)(A)(i) and (j) for one act that violates both
+provisions. The part of the judgment of the Court of Ap-
+peals that held otherwise is reversed, and the case is re-
+manded for further proceedings consistent with this opinion.
+It is so ordered.
+Justice Gorsuch, concurring in part.
+On the morning of December 12, 2011, Dwayne Barrett
+participated in an armed robbery that left a man dead. For
+this, Mr. Barrett was convicted twice in federal court. Once
+for using a firearm during a crime of violence under 18
+U. S. C. § 924(c)(1)(A). And once for causing a death during
+a § 924(c) violation in violation of § 924(j). 102 F. 4th 60, 67
+(CA2 2024). For his two convictions, the Second Circuit or-
+dered two separate punishments: a prison term for his
+§ 924(c)(1)(A) violation, plus another, consecutive prison term
+for his § 924(j) violation. All of which raises the question:
+If Mr. Barrett is convicted and punished for both crimes, has
+he been “twice put in jeopardy” for “the same offence”
+in violation of the Double Jeopardy Clause? U. S. Const.,
+Amdt. 5.
+There is no doubt how we would answer that question
+if the government had prosecuted Mr. Barrett under
+§ 924(c)(1)(A) and § 924(j) in two successive proceedings.
+The analysis would begin and end with Blockburger v.
+United States, 284 U. S. 299 (1932). Under Blockburger, two
+provisions create the same offense for double jeopardy pur-
+poses unless each provision has an element the other lacks.
+Id., at 304. Here, all agree that § 924(c)(1)(A) has no element
+that § 924(j) lacks. So the two provisions create the same
+offense, and the Double Jeopardy Clause would bar the sec-
+ond prosecution. United States v. Dixon, 509 U. S. 688,
+696 (1993).
+What happens, though, where (as here) the government
+brings two charges for the same offense concurrently in the
+same proceeding rather than successively in two separate
+ones? That question does not appear to have arisen much
+in our Nation's early years. Maybe it didn't in part because
+criminal codes were considerably thinner then, affording
+prosecutors fewer opportunities to bring overlapping
+charges. Maybe it didn't in part, too, because of the tradi-
+tional maxim that “an indictment should not include more
+than one felony,” which left multiple-count indictments vul-
+nerable to being quashed by trial judges. Pointer v. United
+States, 151 U. S. 396, 403 (1894). But if the question didn't
+arise much in the past, it is of obvious relevance in our times.
+These days, federal and state criminal codes have exploded,
+with scores of repetitive offenses on the books. Frequently,
+also, today's prosecutors bring as many overlapping felony
+charges as they can in a single case to see what will stick,
+and courts often tolerate the practice.
+The litigants before us proceed on the unexamined premise
+that Blockburger works differently in concurrent prosecu-
+tions than it does in successive ones. In concurrent prosecu-
+tions, they assume, Blockburger operates as a mere “pre-
+sumption” for ascertaining congressional “inten[t].” E. g.,
+Brief for Petitioner 2 (internal quotation marks omitted).
+Because § 924(c)(1)(A) and § 924(j) create the same offense
+under Blockburger, they say, we should presume that just
+one of Mr. Barrett's convictions can stand unless Congress
+has clearly directed otherwise. The only question that di-
+vides the litigants is whether, in fact, Congress included
+clear directions in § 924 authorizing both convictions. See
+Brief for Petitioner 18–26; Brief for United States 15–23;
+Brief for Court-Appointed Amicus Curiae 15–28.
+Addressing the case as the litigants have framed it, the
+Court today holds that nothing in § 924 overcomes the
+“Blockburger presumption,” so only one of Mr. Barrett's con-
+victions can stand. Ante, at 131–132, 138–140. I agree
+with that as far as it goes. But it's also hard not to wonder
+where the litigants' presumptive version of Blockburger
+comes from. If the Constitution always prohibits the gov-
+ernment from securing two convictions for the same offense
+in successive prosecutions, why would it sometimes tolerate
+a different result in concurrent prosecutions?
+One thing here is certain. The litigants framed this case
+the way they did because our cases speak confusingly about
+the role of the Double Jeopardy Clause in concurrent prose-
+cutions. This Court has sometimes said that the Clause
+“ `protects against multiple punishments for the same of-
+fense.' ” Schiro v. Farley, 510 U. S. 222, 229 (1994) (quoting
+North Carolina v. Pearce, 395 U. S. 711, 717 (1969)). And
+we have held that multiple convictions for the same offense—
+even when secured in a single proceeding—count as multiple
+punishments. Ball v. United States, 470 U. S. 856, 865
+(1985). From this, it would seem to follow that Congress
+cannot authorize multiple convictions for the same offense in
+concurrent prosecutions. But this Court has also sometimes
+said that, in the concurrent-prosecution context, the Clause
+merely directs courts to ascertain statutory meaning accu-
+rately. “ `The question of what punishments are constitu-
+tionally permissible,' ” we once wrote, “ `is no different from
+the question of what punishments the Legislative Branch in-
+tended to be imposed.' ” Missouri v. Hunter, 459 U. S. 359,
+368 (1983) (quoting Albernaz v. United States, 450 U. S. 333,
+344 (1981); emphasis added; alteration omitted); see also Gar-
+rett v. United States, 471 U. S. 773, 778 (1985).
+Someday, we will need to resolve the tension in our case
+law. And when we do, I see two likely solutions. One
+would be to say out loud what some of our cases imply: that
+the constitutional phrase “the same offence,” Amdt. 5, means
+different things in different contexts. In the successive-
+prosecution context, two charges amount to the same offense
+if they fail the Blockburger test. But in the concurrent-
+prosecution context, two charges amount to the same offense
+only if they fail the Blockburger test and Congress has not
+clearly intended punishment under both. That solution,
+though, would be a curious one indeed. Not only would it
+allow Congress to permit in the concurrent-prosecution con-
+text what we have long held the Constitution forbids in the
+successive-prosecution context. Really, it is a little “embar-
+rassing to assert that the single term `same offence' ” in the
+Double Jeopardy Clause “has two different meanings.”
+Dixon, 509 U. S., at 704.
+A second solution would be to recognize, as others of our
+cases imply, that two charges amount to the same offense
+under the Double Jeopardy Clause if they fail the Block-
+burger test—full stop. So a defendant cannot be prosecuted
+for both charges in successive proceedings. Nor may he be
+convicted twice (much less sentenced twice) for both charges
+just because they happen to be brought concurrently. True,
+this approach would require us to admit that Blockburger
+is not, after all, a mere presumption in the concurrent-
+prosecution context. But saying that much would give the
+constitutional phrase “the same offence” a consistent mean-
+ing and treat like cases alike.
+Nor would taking that step represent some giant leap.
+Our cases discussing Blockburger as a mere presumption in
+the concurrent-prosecution context were decided during a
+relatively brief period when this Court didn't take Block-
+burger very seriously in any context, even when it came to
+successive prosecutions. See Grady v. Corbin, 495 U. S. 508,
+510 (1990) (finding a double jeopardy violation based on a
+same-transaction test, divorced from Blockburger). Since
+then, however, we have expressly renounced that approach,
+reaffirming that Blockburger 's “long-settled rule” controls
+what counts as “an `offence' for double jeopardy purposes” in
+successive prosecutions. Gamble v. United States, 587 U. S.
+678, 710 (2019); see also Dixon, 509 U. S., at 696, 704 (overrul-
+ing Grady). Tellingly, too, in all the years since Dixon, we
+have not found a single case in which the “Blockburger pre-
+sumption” against concurrent prosecutions for the same of-
+fense was, in fact, overcome by a clear congressional com-
+mand. Cf. Rutledge v. United States, 517 U. S. 292, 303
+(1996) (rejecting the government's argument that “the pre-
+sumption against allowing multiple punishments for the
+same crime” was “overcome”). In short, the analytical foun-
+dations of the presumptive version of Blockburger have been
+gravely undermined by subsequent developments.
+Perhaps some might worry about the consequences of this
+second solution. Today, after all, prosecutors routinely
+bring concurrent charges for greater offenses and their
+lesser included variants, giving juries several degrees of cul-
+pability to choose from. One might wonder whether afford-
+ing the Double Jeopardy Clause the same meaning in the
+concurrent-prosecution context that it already enjoys in the
+successive-prosecution context would render this practice il-
+legal. It would not. A jury could reach a guilty verdict on
+two charges that constitute the same offense, but no double
+jeopardy problem would arise so long as the court does not
+enter judgments of conviction on both. It may not be clear
+at a trial's outset which charge (if any) will yield a convic-
+tion. But it will be certain all along that, when judgment
+day comes, the defendant will be convicted and punished only
+once for any given offense. See Ball, 470 U. S., at 865.
+Today, to be sure, the Court has no occasion to tangle with
+any of this. The parties have not asked us to address the
+tension in our case law. Nor does anything here turn on its
+resolution, given the Court's holding that one of Mr. Barrett's
+convictions must go even under the merely presumptive ver-
+sion of Blockburger. All this, the Court rightly takes care
+to acknowledge. See ante, at 138, n. 9 (“Because we con-
+clude that Congress did not authorize two convictions in this
+context, we need not revisit whether Congress could do so
+consistent with the Double Jeopardy Clause”).
+On that understanding, I join all but Part IV–C of Justice
+Jackson's opinion. But while today's decision is correct as
+far as it goes, sooner or later we will have to clear up the
+confusion—and to my eyes, this case serves as a poster child
+for how that confusion should be resolved. Mr. Barrett
+really was charged twice for one offense. He really was con-
+victed twice. Before our intervention, he really was set to
+be criminally punished twice. And whatever Congress
+might or might not intend, that is double jeopardy.

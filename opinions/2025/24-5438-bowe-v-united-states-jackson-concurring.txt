@@ -1,0 +1,181 @@
+Bowe v. United States — No. 24-5438 — October Term 2025 — decided 1/09/26 — Jackson, J., concurring
+Citation: 607 U.S. 13
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r04_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+second or successive motion under the correct standard.
+The judgment below is vacated, and the case is remanded for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Jackson, concurring.
+I agree with the Court that, under our precedents, Con-
+gress was required to say more if it wanted 28 U. S. C.
+§ 2244(b)(3)(E) to strip our jurisdiction over federal prison-
+ers' requests for review of panel-certifcation decisions. See
+ante, at 27. I likewise agree with the Court's conclusion
+that § 2244(b)(1)'s bar on do-over claims in second or succes-
+sive applications applies only to state prisoners. See ante,
+at 36–37. I write separately to offer my view of what Con-
+gress likely sought to accomplish with § 2244(b)(3)(E): insu-
+lating a three-judge panel's properly made (even if errone-
+ous) gatekeeping determination from further review. The
+provision's language, our decision in Castro v. United States,
+540 U. S. 375, 381 (2003), and the broader statute's detailed
+gatekeeping scheme all support this interpretation. Be-
+cause the three-judge panel here did not deny Bowe's peti-
+tion pursuant to the statutorily prescribed procedures, I
+think it did not make the sort of determination Congress
+intended to insulate.
+I
+Section 2244(b)(3)(E) provides that “[t]he grant or denial
+of an authorization by a court of appeals to fle a second or
+successive application shall not be appealable and shall not
+be the subject of a petition for rehearing or for a writ of
+certiorari.” This provision thus prevents our Court from
+reviewing a certiorari petition whose “subject” is the “grant”
+or “denial” of a request for “authorization . . . to fle a second
+or successive application.” That proscription does not cover
+Bowe's petition.
+In its decision below, the Court of Appeals did not grant or
+deny Bowe authorization to proceed on his successive claim.
+Rather, it “dismissed” his proposed claim “for lack of juris-
+diction.” In re Bowe , Civ. No. 24–11704 (CA11, June 27,
+2024), App. 79. True, “the label attached to an order” does
+not erase its “practical effect.” Abbott v. Perez, 585 U. S.
+579, 594 (2018) (internal quotation marks omitted); see also
+post, at 62–63, n. 4 (Gorsuch, J., dissenting). But, in this
+case, the distinction between a denial and a dismissal is prac-
+tical, not semantic.
+As I read § 2244(b)(3)(E), a “grant or denial” occurs when
+a three-judge panel goes through the screening procedures
+Congress has prescribed and applies the appropriate criteria
+for second or successive claims. 1 Here, the three-judge
+panel never actually applied the relevant criteria to Bowe's
+motion—that is, the criteria for federal prisoners under
+§§ 2255(h)(1) and (h)(2). Instead, the panel refexively dis-
+missed Bowe's authorization request, holding that
+§ 2244(b)(1)'s bar on do-over claims deprived it of jurisdiction,
+even though § 2244(b)(1) applies only to state prisoners, for
+the reasons the Court explains. Ante, at 39.
+As a result, a three-judge panel never undertook the re-
+quired process for evaluating—i. e., for granting or deny-
+ing—Bowe's authorization request. Put differently, because
+the panel dismissed Bowe's petition, there was no “grant or
+denial” of his “authorization” request that could be chal-
+lenged in a petition for certiorari, as § 2244(b)(3)(E) requires.
+1 Today's dispute encompasses a disagreement about which set of statu-
+tory criteria applies to federal prisoners: § 2244(b)(1) or § 2255(h). Ac-
+cording to Justice Gorsuch, “[e]veryone agrees” that § 2244(b)(3)(E)
+“precludes us from exercising certiorari jurisdiction to review an appellate
+panel's decision granting or denying certifcation to state prisoners.”
+Post, at 49 (dissenting opinion) (emphasis added). I agree with that asser-
+tion, but, as I will explain, only insofar as it refers to appellate-panel deci-
+sions that actually apply the statutory criteria and specified procedures
+for granting or denying state prisoners' authorization requests.
+This reading of § 2244(b)(3)(E) finds support in Castro.
+That case, like this one, came to us in a distinct posture.
+Castro, a federal prisoner, fled a motion in the District
+Court to vacate his sentence under § 2255. See 540 U. S., at
+378. Because Castro did not understand his motion to be
+second or successive, he did not first seek authorization from
+a three-judge panel in the Court of Appeals. See id., at 378–
+379; see also 28 U. S. C. § 2244(b)(3)(A) (“Before a second or
+successive application . . . is fled in the district court, the
+applicant shall move in the appropriate court of appeals for
+an order authorizing the district court to consider the appli-
+cation”). Taking a different view than Castro, the District
+Court “dismissed the motion for failure to comply with” the
+statutory restrictions on second or successive claims. 540
+U. S., at 379. On appeal, the Eleventh Circuit agreed with
+the District Court's analysis and affirmed without evaluating
+Castro's motion on the merits. Castro subsequently fled a
+petition for a writ of certiorari, seeking to challenge the
+Eleventh Circuit's second or successive determination. But
+the Government contended that we lacked jurisdiction under
+§ 2244(b)(3)(E). See id., at 379–380.
+We ultimately held that § 2244(b)(3)(E) did not bar our re-
+view of Castro's petition. In so holding, we emphasized that
+Castro had not “asked the Court of Appeals to grant, and it
+nowhere denied, any `authorization . . . to fle a second or
+successive application.' ” Id., at 380 (quoting § 2244(b)
+(3)(E)). Instead, the case came to the Eleventh Circuit on
+appeal, after the District Court had already made its own
+determination about the viability of Castro's motion. In
+that posture, we explained, the Eleventh Circuit had not
+made a “statutorily relevant `denial' of a request” for au-
+thorization—even though the court's conclusion “had the ef-
+fect of denying `authorization' ” to Castro. Id., at 380.
+Against that procedural background, the “ `subject' ” of Cas-
+tro's certiorari petition was “not the Court of Appeals' `de-
+nial of an authorization,' ” so we retained our jurisdiction de-
+spite § 2244(b)(3)(E). Ibid.
+So too here. To be sure, unlike Castro, Bowe's case has
+moved through the initial procedure for second or successive
+motions—that is, Bowe comes to us after first requesting
+authorization from a three-judge panel in the Court of Ap-
+peals. But, just like Castro, the three-judge panel never
+made a “statutorily relevant” denial of Bowe's authorization
+request. To do so, the panel would have had to go through
+the applicable statutory criteria and determine whether
+Bowe's successive motion satisfied the conditions of
+§§ 2255(h)(1) and (h)(2). Because the panel never made such
+a determination, it neither granted nor denied Bowe's au-
+thorization request, as required to bar our review under
+§ 2244(b)(3)(E).2
+II
+One might reasonably question why Congress would have
+crafted § 2244(b)(3)(E) to achieve such a technical distinction:
+barring further review of denials on the merits while permit-
+2 Because Castro's analysis calls for a “statutorily relevant” denial, 540
+U. S., at 380, it lays bare Justice Gorsuch’s mistaken contention that “[a]
+denial is a denial” for § 2244(b)(3)(E) purposes, post, at 63, n. 4. Reading
+the statute as I do also resolves the purported tension in the Court's opin-
+ion that Justice Gorsuch elsewhere identifies: Why would the Court
+“take the trouble to show” that Castro, a federal prisoner, “wasn't pursu-
+ing a second or successive attack subject to subparagraph (E)” if that
+provision had “no bearing whatsoever on federal prisoners in the first
+place?” Post, at 53. The answer, of course, is that the Court had no need
+to resolve subparagraph (E)'s application to all federal prisoners when the
+provision so clearly did not apply to Castro. In other words, the Court
+left open the question whether subparagraph (E) prevented our review of
+a certiorari petition whose “ `subject' ” actually is a “statutorily relevant
+`denial' of a request” for authorization to fle a successive claim under 28
+U. S. C. § 2255. 540 U. S., at 380. I agree with today's conclusion that
+subparagraph (E) does not prevent our review under those circumstances.
+This separate writing observes only that Castro's logic likewise authorizes
+our review of Bowe's petition.
+ting further review of the panel's use of the wrong criteria
+or procedures. As Justice Gorsuch points out, the effect
+is the same; either way, the prisoner may not fle his second
+or successive motion. Post, at 62–63, n. 4. But in my view,
+the distinction is not a technical (or meaningless) one. In-
+stead, it fts neatly within, and advances, the gatekeeping
+scheme Congress established.
+For evidence, look no further than § 2244(b)(3)'s other sub-
+paragraphs, which set forth a multipart gatekeeping process
+for second or successive claims. First, a prisoner “move[s]
+in the appropriate court of appeals for an order authorizing”
+a second or successive claim. § 2244(b)(3)(A). Second, “a
+three-judge panel” considers the request for authorization.
+§ 2244(b)(3)(B). Third, the panel “determines” whether
+the prisoner has made “a prima facie showing” of satisfying
+the relevant statutory “requirements.” § 2244(b)(3)(C).
+Fourth, the panel issues its determination in no more than
+“30 days.” § 2244(b)(3)(D).
+With § 2244(b)(3), Congress plainly erected a specific
+screening process for second or successive petitions. And
+with subparagraph (E), in particular, Congress afforded that
+process finality—but only if the prescribed procedures have
+been properly followed.
+By contrast, consider a panel that completely ignores the
+statute's specified gatekeeping requirements when making
+the authorization determination. Maybe the panel consists
+of fve judges instead of three. Or maybe the panel auto-
+matically and arbitrarily denies all requests for authoriza-
+tion, refusing to evaluate whether the prisoner has satisfied
+the relevant statutory criteria. It would be exceedingly
+strange for us to conclude that Congress meant to insulate a
+rogue panel's actions from further review. Indeed, why
+would Congress devise such a detailed gatekeeping scheme
+while foreclosing review of its evasion?
+At bottom, then, § 2244(b)(3)(E) rationally operates as a
+finality provision, designed to give a three-judge panel the

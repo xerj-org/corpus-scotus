@@ -1,0 +1,436 @@
+T. M. v. University of Md. Medical System Corporation — No. 25-197 — October Term 2025 — decided 6/18/26 — BARRETT, J., dissenting
+Citation: 608 U.S. 668
+Source: https://www.supremecourt.gov/opinions/25pdf/25-197_new_4g15.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 25–197
+T. M., PETITIONER v. UNIVERSITY OF MARYLAND
+MEDICAL SYSTEM CORPORATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+[June 18, 2026]
+JUSTICE BARRETT, with whom T HE CHIEF JUSTICE,
+JUSTICE KAGAN, and JUSTICE GORSUCH join, dissenting.
+Twenty years ago, this Court held that the Rooker-Feld-
+man doctrine is “confined” to the procedural circumstances
+of the two cases from which the doctrine draws its name.
+Exxon Mobil Corp. v. Saudi Basic Industries Corp., 544
+U. S. 280, 284, 291 (2005); see Rooker v. Fidelity Trust Co.,
+263 U. S. 413 (1923); District of Columbia Court of Appeals
+v. Feldman, 460 U. S. 462 (1983).  In “both cases,” we em-
+phasized, the federal action was brought “after the state
+proceedings ended.” Exxon, 544 U. S., at 291.  Seven Courts
+of Appeals took us at our word, refusing to apply Rooker-
+Feldman when the underlying state action remained pend-
+ing.1  They were right to hold the line. Because the Court
+has chosen to relax it, I respectfully dissent.
+——————
+1 See Federación de Maestros de Puerto Rico v. Junta de Relaciones del
+Trabajo de Puerto Rico, 410 F. 3d 17, 24 (CA1 2005); Hunter v. McMahon,
+75 F. 4th 62, 70 (CA2 2023); Malhan v. Secretary United States Dept. of
+State, 938 F. 3d 453, 459–460 (CA3 2019); Miller v. Dunn, 35 F. 4th 1007,
+1013 (CA5 2022); Parker v. Lyons, 757 F. 3d 701, 705–706 (CA7 2014)
+(per curiam), overruled on other grounds by Hadzi-Tanovic v. Johnson,
+62 F. 4th 394 (CA7 2023); Guttman v. Khalsa, 446 F. 3d 1027, 1032
+(CA10 2006); Nicholson v. Shafe, 558 F. 3d 1266, 1274–1275 (CA11
+2009).  Until the Fourth Circuit decided today’s case, only the Sixth Cir-
+cuit had gone the other way. See RLR Investments, LLC v. Pigeon Forge,
+4 F. 4th 380, 389–390, 396 (CA6 2021).
+
+ CORPORATION
+BARRETT, J., dissenting
+I
+Until today, this Court has applied the Rooker-Feldman
+doctrine “only twice.” Exxon, 544 U. S., at 283.  That is no
+accident: Because Rooker-Feldman stands on shaky
+ground, we have consciously kept its footprint small.  Its
+rationale has gotten no firmer, so we should make the doc-
+trine no larger.
+Rooker-Feldman is a “maddeningly elusive” doctrine.  B.
+Friedman & J. Gaylord, Rooker-Feldman, from the Ground
+Up, 74 Notre Dame L. Rev. 1129, 1133 (1999).  We have
+primarily justified it as a negative inference from 28
+U. S. C. §1257: Because Congress gave this Court appellate
+jurisdiction over certain state-court judgments, district
+courts must lack original jurisdiction to entertain a collat-
+eral attack against those judgments.  See Rooker, 263 U. S.,
+at 415–416; Feldman, 460 U. S., at 476. This Court’s exer-
+cise of appellate jurisdiction, the argument runs, is “func-
+tional[ly]” equivalent to a district court’s exercise of original
+jurisdiction over a collateral attack.  Ante, at 10.  The prob-
+lem? A collateral attack is not functionally equivalent to an
+appeal.
+Consider just a few of the differences. An appeal “re-
+moves the record into the supervising tribunal.”  Cohens v.
+Virginia, 6 Wheat. 264, 410 (1821).  A collateral attack does
+not. See Fed. Rules Civ. Proc. 3, 7.  On appeal, new evi-
+dence is generally unwelcome.  See Fed. Rule App. Proc. 10;
+United States v. Coe, 155 U. S. 76, 83–84 (1894).  In a col -
+lateral attack, new evidence is fair game. See, e.g., Fed.
+Rule Civ. Proc. 26.  Most obviously, preclusion does not ap-
+ply on appeal. This Court is not barred from considering an
+issue just because the state high court already decided it—
+reconsidering the state court’s judgment is the whole point.
+Not so with a collateral attack; preclusion restrains district
+courts from simply redoing the state court’s work. See, e.g.,
+Parsons Steel, Inc. v. First Alabama Bank , 474 U. S. 518,
+523 (1986). Finally, while this Court can vacate or reverse
+
+3  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+the judgment of the state high court and remand for further
+proceedings, a district court entertaining a collateral attack
+cannot. See 7 J. Lucas, Moore’s Federal Practice ¶60.36,
+pp. 60–365 to 60–371 (2d ed. Cum. Supp. 1996–1997) (ex-
+plaining that collateral attacks “d[o] not operate to vacate
+or annul the [original] judgment”).  Because of the many
+differences between appellate jurisdiction and original ju-
+risdiction over a collateral attack, it is doubtful that by giv-
+ing this Court the former, Congress intended to deprive dis-
+trict courts of the latter.
+Occasionally, we have also cited 28 U. S. C. §1331 as sup-
+port for the Rooker-Feldman doctrine, observing that it
+gives district courts “original,”  not appellate, jurisdiction.
+Rooker, 263 U. S., at 416.  This observation adds nothing—
+as just explained, a collateral  attack is not the functional
+equivalent of an appeal.  Besides, §1331 cannot explain why
+Rooker-Feldman has always been limited to collateral at-
+tacks on state-court judgments.  If entertaining a collateral
+attack goes beyond “original jurisdiction,” then it should not
+matter whether the underlying judgment is from a state
+court or a federal one. Yet it is well settled that district
+courts can entertain collateral attacks on federal judg-
+ments—for example, an indepe ndent action for relief from
+a judgment to prevent a “grave  miscarriage of justice.”
+United States v. Beggerly , 524 U. S. 38, 45–47 (1998); see
+Fed. Rule Civ. Proc. 60(d) (Rule 60 does not limit a court’s
+power to “entertain an independent action to relieve a party
+from a judgment, order, or proceeding”).  It is little wonder
+that (at least until today) we had backed away from the
+§1331 rationale.
+Beyond the difficulties of finding a statutory basis for
+Rooker-Feldman, parts of the United States Code undercut
+it. The doctrine is in tension, to say the least, with statutes
+granting district courts jurisdi ction in categorical terms.
+Section 1331 gives district cour ts “original jurisdiction”
+over “all civil actions” presenting a federal question—not
+
+ CORPORATION
+BARRETT, J., dissenting
+“all civil actions” presenting  a federal question “minus
+those that attack a state-court judgment.”  The other juris-
+dictional grants are similar. See, e.g., 28 U. S. C. §1332
+(“The district courts shall have original jurisdiction of all
+civil actions” meeting certain diversity and amount-in-con-
+troversy requirements).  None has a carveout for collateral
+attacks.
+More to the point, in trying to read between the lines of
+§1257 and §1331, Rooker-Feldman  misses what is further
+down the page: Congress has told us how to treat state-
+court judgments.  The Full Faith and Credit Act, 28 U. S. C.
+§1738, provides that the “judicial proceedings of any court”
+of any State “shall have the same full faith and credit in
+every court within the United States . . . as they have by
+law or usage in the courts of such State . . . from which they
+are taken.” In other words, federal courts “must give the
+same preclusive effect to a state-court judgment as another
+court of that State would give.”  Parsons Steel, 474 U. S., at
+523.
+Conceptual problems aside, it is not clear what Rooker-
+Feldman brings to the table.  Preclusion already bars par-
+ties from relitigating issues and claims that were decided
+in state court.  See, e.g., ibid.2  And when state litigation is
+ongoing, various abstention doctrines prevent federal
+courts from getting involved. Younger abstention, for ex-
+ample, precludes federal courts from interfering with state
+criminal prosecutions and certain state civil proceedings.
+See Younger v. Harris, 401 U. S. 37 (1971); Sprint Commu-
+nications, Inc. v. Jacobs, 571 U. S. 69, 72–73 (2013); see also
+Colorado River Water Conservation Dist.  v. United States,
+424 U. S. 800, 818–821 (1976) (Colorado River abstention);
+Railroad Comm’n of Tex.  v. Pullman Co., 312 U. S. 496,
+——————
+2 To the extent that preclusion would not bar relitigation, using Rooker-
+Feldman to do so seems to violate the Full Faith and Credit Act by giving
+state judgments more preclusive effect than they would have in the state
+courts from which they are taken.  See infra, at 9–10.
+
+5  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+500–501 (1941) ( Pullman abstention); Burford v. Sun Oil
+Co., 319 U. S. 315, 332–334 (1943) (Burford abstention). Fi-
+nally, the Anti-Injunction Act generally bars federal courts
+from enjoining state proceedings.  28 U. S. C. §2283.
+N o n e  o f  t h i s  i s  t o  s a y t h a t Rooker-Feldman is inconse-
+quential. Crucially, it is jurisdictional—so courts must an-
+alyze it, even if no one raises it.  And because Rooker-Feld-
+man lacks both a clear role and a clear rationale, it is hard
+to contain. After Feldman, the doctrine became “perhaps
+the primary docket-clearing workhorse for the federal
+courts.”  S. Bandes, The Rooker-Feldman Doctrine: Evalu-
+ating Its Jurisdictional Status, 74 Notre Dame L. Rev. 1175
+(1999). “In the process,” Rooker-Feldman  “mushroomed
+well beyond the §1257 explanation that gave it birth, as the
+federal courts found one clai m after another closely inter-
+twined with claims raised, resolved, sometimes still pend-
+ing, in the state courts.” VanderKodde v. Mary Jane M. El-
+liott, P. C. , 951 F. 3d 397, 406 (CA6 2020) (Sutton, J.,
+concurring).
+II
+A
+Recognizing that things had gone awry, this Court inter-
+vened. In Exxon, we neutralized Rooker-Feldman by con-
+fining it to the procedural circumstances of the Rooker and
+Feldman cases.  544 U. S., at 284, 291.  Our treatment of
+the doctrine was so devastating that one scholar penned its
+obituary. See S. Bray, Rooker Feldman (1923–2006), 9
+Green Bag 2d 317 (2006).
+ Faithfully read, Exxon requires us to reject the applica -
+tion of Rooker-Feldman  to T. M.’s case.  In Exxon, we la-
+mented that lower courts had construed the doctrine “to ex-
+tend far beyond the contours of the Rooker and Feldman
+cases.” 544 U. S., at 283.  We acknowledged its tension with
+both jurisdictional statutes like §1331 and the Full Faith
+and Credit Act, observing that the doctrine risks
+
+ CORPORATION
+BARRETT, J., dissenting
+“overriding Congress’ conferral of federal-court jurisdiction
+concurrent with jurisdiction exercised by state courts” and
+“superseding the ordinary application of preclusion law
+pursuant to 28 U. S. C. §1738.”  Ibid.; see id., at 284.  And
+we drew a line: Rooker-Feldman “is confined to cases of the
+kind from which the doctrine acquired its name.”  544 U. S.,
+at 284.  We then identified the key features of those cases.
+Id., at 291. Among them: In “both” Rooker and Feldman ,
+the losing party sued in federal court “after the state pro-
+ceedings ended.” 544 U. S., at 291 (emphasis added) .
+This limitation flows directly from Exxon’s logic. Exxon
+confines Rooker-Feldman to cases like Rooker and Feldman
+for a reason: Those two cases “exhibit the limited circum-
+stances in which this Court’s appellate jurisdiction over
+state-court judgments” under §1257 “precludes a United
+States district court from ex ercising subject-matter juris-
+diction in an action it would otherwise be empowered to ad-
+judicate under a congressional grant of authority, e.g.,
+§1330 (suits against foreign states), §1331 (federal ques-
+tion), and §1332 (diversity).”  544 U. S., at 291.  This Court’s
+appellate jurisdiction is limited to “final judgments or de-
+crees rendered by the highest court of a State in which a
+decision could be had.” §1257(a).  If there is no final judg-
+ment from a state high court, §1257 does not confer juris-
+diction in this Court; thus, there is nothing to “preclud[e]”
+district courts from exercising  the jurisdiction they would
+“otherwise” have. Id., at 291.
+Here, the state proceedings have not “ended.”  T. M.’s
+original action is still pending in a Maryland appellate
+court. See ante, at 3. So this case falls outside the narrow
+confines in which Rooker-Feldman continues to operate,
+and the District Court had jurisdiction.  See Exxon, 544
+U. S., at 291.
+
+7  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+B
+Rather than hew to this straightforward analysis, the
+Court reshapes Rooker-Feldman. It does so by both retreat-
+ing to the old (the §1331 rationale that Exxon discarded)
+and inventing the new (a grab bag of policy reasons for dis-
+regarding §1257’s finality requirement).  This reconception
+of Rooker-Feldman leaves the doctrine worse off.
+The Court’s first mistake is failing to believe that Exxon
+means what it says. The Court acknowledges that Exxon
+limits Rooker-Feldman to “‘cases of the kind from which the
+doctrine acquired its name.’”  Ante, at 7 (quoting Exxon, 544
+U. S., at 284). But it ignores that Exxon identifies the de -
+fining features of those cases and specifically notes that
+“both” had been filed “after the state proceedings ended.”
+544 U. S., at 291; see Skinner v. Switzer, 562 U. S. 521, 531
+(2011) (reiterating that Rooker and Feldman were filed “af-
+ter the state proceedings ended”).  Almost every circuit has
+recognized the significance of this language.  See n. 1, su-
+pra. This Court dismisses it in a footnote. Ante, at 8, n. 5.
+To justify giving Rooker-Feldman a broader sweep, the
+Court resurrects a rationale that Exxon buried: §1331.  Be-
+fore Exxon, we had cited §1331 as a secondary rationale for
+the doctrine, see ante, at 3; according to the Court, Exxon
+continues the thread, see ante, at 11. That is a very ambi-
+tious reading of Exxon.3  Rather than describing Rooker-
+Feldman as a negative inference from §1331, Exxon por-
+trays it as a negative inference from §1257 that overrides
+§1331. As Exxon summarizes: Rooker-Feldman  describes
+when this Court’s appellate jurisdiction “precludes” district
+courts from exercising the jurisdiction they would “other-
+wise” have. 544 U. S., at 291.  The Court protests that if
+——————
+3 The Court relies on a quotation from a footnote in another case that
+Exxon includes in a parenthetical, treati ng that language as if it were
+Exxon’s own explanation of the doctrine. See ante, at 11. Obviously, a
+stray citation does not override the thrust of Exxon’s logic.
+
+ CORPORATION
+BARRETT, J., dissenting
+Exxon had intended to discard the §1331 rationale, it would
+have said so. See ante, at 12.  But the Court does not even
+mention this language— Exxon’s only explanation of the
+doctrine’s rationale—much less explain why it does not suf-
+fice. And our more recent Rooker-Feldman cases confirm
+that Exxon tossed the §1331 justification. These cases pre-
+sent Rooker-Feldman as a “strict negative inference from
+§1257,” ante, at 13, and do not mention §1331 at all.  See
+Skinner, 562 U. S., at 531–532 (explaining Rooker-Feldman
+solely as an inference from §1257);  Lance  v. Dennis, 546
+U. S. 459, 463 (2006) (per curiam) (same).
+Yet even as it resuscitates the §1331 rationale, the Court
+acknowledges that §1257 remains in the mix. Ante, at 6
+(describing Rooker-Feldman as “built” on both §1331 and
+§1257).  And by recognizing that the doctrine applies only
+to “state-court judgments,” ante, at 1 (emphasis added), the
+Court tacitly admits that §1257—not §1331—is what really
+determines when Rooker-Feldman  kicks in.  Still, the
+Court’s embrace of §1257 is only partial: It is unwilling to
+accept §1257’s requirement of a “[f]inal judgment” from the
+“highest court of a State.” Th e Court’s main reason for dis-
+regarding this limit appears to be Exxon, but as explained,
+Exxon compels the opposite conclusion.
+Perhaps recognizing that its new approach to §1257 re-
+quires some other rationale, the Court spends several pages
+running through various policy considerations.  Applying
+§1257’s finality limit, the Court says, would generate
+“anomalous outcomes,” disrespect “federalism,” and sow
+“confusion.” Ante, at 13, 17. Its theory is an innovation, but
+not an improvement.
+Take “anomalous outcomes.” The Court reasons that it is
+“difficult to see why Cong ress would have authorized dis-
+trict courts to review final state-court judgments pending
+appeal in state court when it did not authorize this Court
+to do so.” Ante, at 14. But the Court’s approach also yields
+“anomalous outcomes.”  To give one example: As the Court
+
+9  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+concedes, the doctrine applies only to “ ‘state-court judg -
+ments’”; it does not bar district courts from reviewing state-
+court interlocutory orders.  Ante, at 1 (quoting Exxon, 544
+U. S., at 284). Yet it is similarly “difficult to see why Con-
+gress would have authorized district courts” to review in-
+terlocutory orders subject to further review in state court
+“when it did not authorize this Court to do so.”  Ante, at 14.
+The Court’s approach cannot answer this question, but
+mine can: Rooker-Feldman allows for this result because it
+is rooted in §1257, not in a vague notion of which outcomes
+are “anomalous.”
+The Court also insists that “[f]ederalism principles are
+. . . best served” by applying Rooker-Feldman to dismiss
+T. M.’s challenge. Ante, at 15. But the word “federalism”
+does not appear in either Rooker or Feldman. And if it were
+true that general concerns about federalism animate the
+doctrine, Exxon would have come out the opposite way.  The
+lower court in Exxon applied Rooker-Feldman in part be-
+cause the federal suit was “an ‘insurance policy’ against an
+adverse result in state court”—a clear affront to federalism.
+544 U. S., at 294, n. 9 (quoting 364 F. 3d 102, 105–106 (CA3
+2004)). We dismissed that line of reasoning in a footnote,
+explaining that there is “nothing necessarily inappropriate”
+about “a protective action.” 544 U. S., at 294, n. 9. If feder-
+alism drives Rooker-Feldman, the Exxon Court missed the
+memo.
+Even if federalism were a solid rationale, it is doubtful
+that “[f]ederalism principles are . . . best served by” dis -
+missing T. M.’s challenge.  Ante, at 15.  Like other States,
+Maryland has adopted preclusion rules to determine when
+parties may relitigate issues and claims decided in a prior
+case. The District Court determin ed that T. M.’s lawsuit is
+not “precluded” under Maryland law—which means that
+T. M. could have filed a suit just like this one in a Maryland
+state court. Letter Order in No. 1:23–cv–1684 (D Md.), ECF
+Doc. 27, pp. 2–3. Yet the Court maintains that bouncing
+
+ CORPORATION
+BARRETT, J., dissenting
+her suit from federal court best  serves federalism. Why?
+Wouldn’t Maryland’s interests be best served by affording
+its judgments the effect they would have under state law?
+In any event, Congress has already made the federalism
+calculus, and this Court is not free to override it.  As Exxon
+recognizes, the Full Faith and Credit Act—which the Court
+does not mention—requires fede ral courts to give state
+judgments the effect that they would have in state courts.
+544 U. S., at 293; see Lance, 546 U. S., at 466 (“Congress
+has directed federal courts to look principally to state law in
+deciding what effect to give state-court judgments”).  So
+even if the Court could otherwise ignore state law in the
+name of federalism, Congress has foreclosed that path.
+Grounding Rooker-Feldman in federalism is also at odds
+with our abstention doctrines, which already account for
+friction between state and federal courts but do not apply
+here. We have purposefully kept these doctrines narrow,
+stressing that district courts  have a “virtually unflagging
+obligation . . . to exercise the jurisdiction given them.”  Col-
+orado River, 424 U. S., at 817.  “[O]nly exceptional circum-
+stances justify a federal court’s refusal to decide a case in
+deference to the States.”  New Orleans Public Service, Inc.
+v. Council of City of New Orleans, 491 U. S. 350, 368 (1989).
+No one argues that T. M.’s challenge fits within those “ex-
+ceptional circumstances.”  Nonetheless, the Court repack -
+ages the same principle—“deference to the States”—as a
+reason why the District Court lacked jurisdiction in the first
+place. See ante, at 14. It is ironic that in the Court’s view,
+federalism concerns that are too weak to trigger abstention
+doctrines are strong enough to deprive district courts of ju-
+risdiction altogether. Cf. Exxon, 544 U. S., at 284 (outside
+the circumstances of Rooker and Feldman, Rooker-Feldman
+doctrine “does not . . . augment the circumscribed doctrines
+that allow federal courts to stay or dismiss proceedings in
+deference to state-court actions”).
+
+11  Cite as: 608 U. S. ____ (2026)
+BARRETT, J., dissenting
+The Court’s reliance on federalism also sits uneasily with
+the fact that T. M.’s suit arises under 42 U. S. C. §1983.
+Section 1983 was the “product of a vast transformation
+from” traditional “concepts of federalism.”  Mitchum v. Fos-
+ter, 407 U. S. 225, 242 (1972).  Its “very purpose” was “to
+interpose the federal courts between the States and the peo-
+ple, as guardians of the people’s federal rights—to protect
+the people from unconstitutional action under color of state
+law, ‘whether that action be ex ecutive, legislative, or judi-
+cial.’”  Ibid. (quoting Ex parte Virginia, 100 U. S. 339, 346
+(1880)). Given our longstanding interpretation of §1983, it
+is odd to cite federalism as grounds for dismissing a §1983
+suit. Cf. J. Beermann, Comments on Rooker-Feldman or Let
+State Law Be Our Guide, 74 Notre Dame L. Rev. 1209,
+1230–1231 (1999).  Notably, we have construed the Anti-
+Injunction Act—which normally bars federal courts from
+enjoining state-court proceedings—to contain an exception
+for §1983 suits like T. M.’s.  See Mitchum, 407 U. S., at 242–
+243.
+Finally, the Court insists that drawing the line at finality
+would “needlessly complicate the Rooker-Feldman analy-
+sis” because “[i]t is not always straightforward to determine
+whether a given state-court judgment is a reviewable final
+judgment under §1257(a).”  Ante, at 17. But the line must
+be drawn somewhere, and there is no reason to think that
+drawing it at “judgment,” as the Court does, is any more
+manageable. We apply the finality test with little trouble;
+surely lower courts can do the same.
+* * *
+The upshot of today’s decision is that the Court has mud-
+died waters that were hardly cl ear to begin with.  That is
+unfortunate, because there was a better path available:
+treating Rooker-Feldman as “the §1257 Rule.” Vander-
+Kodde, 951 F. 3d, at 409 (Sutton, J., concurring).  Doing so
+would have been both clearer and more faithful to Exxon.
+
+ CORPORATION
+BARRETT, J., dissenting
+Still, the news is not all bad.  Although the Court expands
+Rooker-Feldman beyond Exxon’s line, it repeatedly empha-
+sizes that the doctrine is “narrow.”  See ante , at 1, 7, 8, 18.
+Courts should not lose sight of  that message.  In the end,
+Rooker-Feldman has been given an inch—it should not be
+allowed to take a mile.

@@ -1,0 +1,29 @@
+Twitter, Inc. v. Taamneh — No. 21-1496 — October Term 2022 — decided 5/18/23 — Jackson, J., concurring
+Citation: 598 U.S. 471
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r22_hejm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+507
+Cite as: 598 U. S. 471 (2023)
+Jackson, J., concurring
+tiffs accordingly have failed to state a claim under
+§ 2333(d)(2).
+We therefore reverse the judgment of the Ninth Circuit.
+It is so ordered.
+Justice Jackson, concurring.
+I join the opinion of the Court with the understanding that
+today's decisions are narrow in important respects. In this
+case and its companion, Gonzalez v. Google, 598 U. S. 617
+(2023) (per curiam ), the Court has applied 18 U. S. C.
+§ 2333(d)(2) to two closely related complaints, fled by the
+same counsel. Both cases came to this Court at the motion-
+to-dismiss stage, with no factual record. And the Court's
+view of the facts—including its characterizations of the
+social-media platforms and algorithms at issue—properly
+rests on the particular allegations in those complaints.
+Other cases presenting different allegations and different
+records may lead to different conclusions.
+The Court also draws on general principles of tort and
+criminal law to inform its understanding of § 2333(d)(2).
+General principles are not, however, universal. The
+common-law propositions this Court identifies in interpret-
+ing § 2333(d)(2) do not necessarily translate to other contexts.

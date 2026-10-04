@@ -1,0 +1,182 @@
+California v. Texas — No. 19-840 — October Term 2020 — decided 6/17/21 — Thomas, J., concurring
+Citation: 593 U.S. 659
+Source: https://www.supremecourt.gov/opinions/20pdf/593us2r49_c0nd.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+most, those provisions pick up only § 5000A(f)'s definition of
+minimum essential coverage in related subsections. No one
+claims these other provisions violate the Constitution.
+Rather, the state plaintiffs attack the constitutionality of
+only the minimum essential coverage provision. They have
+not alleged that they have suffered an “injury fairly trace-
+able to the defendant's allegedly unlawful conduct.” Cuno,
+547 U. S., at 342 (quoting Allen, 468 U. S., at 751).
+* * *
+For these reasons, we conclude that the plaintiffs in this
+suit failed to show a concrete, particularized injury fairly
+traceable to the defendants' conduct in enforcing the specific
+statutory provision they attack as unconstitutional. They
+have failed to show that they have standing to attack as un-
+constitutional the Act's minimum essential coverage provi-
+sion. Therefore, we reverse the Fifth Circuit's judgment in
+respect to standing, vacate the judgment, and remand the
+cases with instructions to dismiss.
+It is so ordered.
+Justice Thomas, concurring.
+There is much to commend Justice Alito's account of “our
+epic Affordable Care Act trilogy.” Post, at 685 (dissenting
+opinion). This Court has gone to great lengths to rescue the
+Act from its own text. Post, at 685–686. So have the Act's
+defenders, who argued in the first instance that the individual
+coverage mandate is the Act's linchpin, yet now, in an about-
+face, contend that it is just a throwaway sentence.
+But, whatever the Act's dubious history in this Court, we
+must assess the current suit on its own terms. And, here,
+there is a fundamental problem with the arguments advanced
+by the plaintiffs in attacking the Act—they have not identi-
+fed any unlawful action that has injured them. Ante, at 669,
+675, 678–680. Today's result is thus not the consequence
+of the Court once again rescuing the Act, but rather of us
+adjudicating the particular claims the plaintiffs chose to
+bring.
+I
+This Court first encountered the Act in 2011. That case
+involved the constitutionality of the Act's individual cover-
+age mandate. National Federation of Independent Busi-
+ness v. Sebelius, 567 U. S. 519, 530 (2012). Despite correctly
+recognizing that Congress' enumerated powers did not allow
+it to impose such a mandate, the Court nonetheless upheld it
+by characterizing the “financial penalty” imposed on those
+who failed to comply with the mandate as a “tax.” Id.,
+at 574.
+That curious approach left us with no need to address a
+subsidiary question on which we had also granted review:
+whether the Act was inseverable from the mandate and thus
+would need to fall if the mandate were unconstitutional.
+The parties challenging the law argued “yes.” And the
+Government agreed in part. It stressed that the mandate
+could not be severed from two other important features of
+the Act: the “guaranteed-issue” provision—which bars insur-
+ers from denying coverage based on medical conditions or
+history—and the “community-rating” provision—which bars
+insurers from charging individuals higher premiums for simi-
+lar reasons. Brief for Respondents in National Federation
+of Independent Business v. Sebelius, O. T. 2011, No. 11–393,
+pp. 44–54; see 42 U. S. C. §§ 300gg–1, 300gg–3, 300gg–4(a),
+300gg(a)(1), 300gg–4(b).
+According to the Government, the mandate was “neces-
+sary to make those [other] reforms effective.” Brief for Re-
+spondents in No. 11–393, at 44. It noted that “Congress's
+findings expressly state that enforcement of those provisions
+without a minimum coverage provision would restrict the
+availability of health insurance and make it less affordable—
+the opposite of Congress's goals in enacting the Affordable
+Care Act.” Id., at 44–45; see §§ 18091(2)(H)–(J). And as
+Justice Alito discusses in more detail, at the time we
+decided NFIB, “it was widely thought that without the man-
+date much of the Act—and perhaps even the whole scheme—
+would collapse.” Post, at 685, 710–711.
+This Court also embraced that view when we reen-
+countered the Act in 2015. King v. Burwell, 576 U. S. 473.
+Saving the Act again through a feat of linguistic ingenuity—
+this time by redefning “State” to mean “ `State or the Fed-
+eral Government,' ” id., at 498 (Scalia, J., dissenting)—the
+Court explained that “Congress [had] found that the guaran-
+teed issue and community rating requirements would not
+work without the [mandate],” id., at 482; see also post, at
+688–689 (Alito , J., dissenting).
+But times have changed. In this suit, the plaintiffs assert
+that the mandate is unconstitutional because it no longer im-
+poses financial consequences and thus cannot be justified as a
+tax. And given that the mandate is unconstitutional, other
+portions of the Act that actually harm the plaintiffs must fall
+with it. In response to this theory, the current administra-
+tion contends that the mandate can be severed from the rest
+of the Act. Letter from E. Kneedler, Deputy Solicitor Gen-
+eral, to S. Harris, Clerk of Court (Feb. 10, 2021) (notifying
+the Court of the Federal Government's change in position).
+The Act's other defenders agree. Brief for Petitioners 35–
+49. In other words, those who would preserve the Act must
+reverse course and argue that the mandate has transformed
+from the cornerstone of the law into a standalone provision.
+II
+On all of this Justice Alito and I agree. Where we part
+ways is on the relief to which the plaintiffs are entitled. The
+Constitution gives this Court only the power to resolve “Cas-
+es” or “Controversies.” Art. III, § 2. As everyone agrees,
+we have interpreted this language to require a plaintiff to
+present an injury that is traceable to a particular “unlawful”
+action. Ante, at 669, 675, 678–680; post, at 692–693 (Alito ,
+J., dissenting). And in light of the specific theories and ar-
+guments advanced in this suit, I do not believe that the plain-
+tiffs have carried this burden. As the majority explains in
+detail, the individual plaintiffs allege only harm caused by
+the bare existence of an unlawful statute that does not im-
+pose any obligations or consequences. Ante, at 669–674.
+That is not enough. The state plaintiffs' arguments fail for
+similar reasons. Although they claim harms flowing from
+enforcement of certain parts of the Act, they attack only the
+lawfulness of a different provision. None of these theories
+trace a clear connection between an injury and unlawful
+conduct.
+Justice Alito does not contest that analysis. Rather, he
+argues that the state plaintiffs can establish standing an-
+other way: through “inseverability.” Post, at 699 (“First,
+[the States] contend that the individual mandate is unconsti-
+tutional . . . . Second, they argue that costly obligations
+imposed on them by other provisions of the ACA cannot be
+severed from the mandate. If both steps of the States' argu-
+ment that the challenged enforcement actions are unlawful
+are correct, it follows that the Government cannot lawfully
+enforce those obligations against the States”). This theory
+offers a connection between harm and unlawful conduct.
+And, it might well support standing in some circumstances,
+as it has some support in history and our case law. See post,
+at 699–703; Lea, Situational Severability, 103 Va. L. Rev. 735,
+764–776 (2017).
+But, I do not think we should address this standing-
+through-inseverability argument for several reasons. First,
+the plaintiffs did not raise it below, and the lower courts did
+not address it in any detail. 945 F. 3d 355, 386, n. 29 (CA5
+2019). That omission is reason enough not to address this
+theory because “ `we are a court of review, not of first view.' ”
+Brownback v. King, 592 U. S. –––, –––, n. 4 (2021). Second,
+the state plaintiffs did not raise this theory in their opening
+brief before this Court, see Brief for Respondent/Cross-
+Petitioner States 18–30, 1 and they did not even clearly raise
+it in reply. 2 Third, this Court has not addressed standing-
+through-inseverability in any detail, largely relying on it
+through implication. See post, at 699–703; Steel Co. v. Citi-
+zens for Better Environment, 523 U. S. 83, 91 (1998) (“We
+have often said that drive-by jurisdictional rulings . . . have
+no precedential effect”). And fourth, this Court has been
+inconsistent in describing whether inseverability is a remedy
+or merits question. To the extent the parties seek insever-
+ability as a remedy, the Court is powerless to grant that
+relief. See Murphy v. National Collegiate Athletic Assn.,
+584 U. S. 453, 488–489 (2018) (Thomas, J., concurring); see
+also Barr v. American Assn. of Political Consultants, 591
+1 The States instead raised the two pocketbook injury theories discussed
+by the Court, ante, at 674; Brief for Respondent/Cross-Petitioner States
+19–28, along with another irrelevant theory. Both theories focused only
+on the mandate's unlawfulness. The dissent points to certain language
+arguably touching on standing-through-inseverability, post, at 697, but I
+respectfully disagree. That language addresses a different theory—the
+argument that the unlawful mandate harms the States by increasing the
+cost of complying with other Act provisions, such as reporting require-
+ments relating to the mandate. Ante, at 678–680; Brief for Respondent/
+Cross-Petitioner States 20–25 (discussing how “the individual mandate it-
+self increased the costs to state respondents in at least six ways” (brackets
+and internal quotation marks omitted)). As the Court notes, “[n]o one
+claims these other provisions violate the Constitution.” Ante, at 680.
+And, the Court does not address the argument that these provisions are
+otherwise unlawful. Ante, at 674 (“declin[ing] to consider” the standing-
+through-inseverability theory raised by the dissent “on behalf of the
+state plaintiffs”).
+2 This lack of legal development is particularly significant because
+standing-through-inseverability—assuming it is a legitimate theory of
+standing—is fundamentally a merits-like exercise that requires courts to
+apply ordinary principles of statutory interpretation to determine if it is
+at least “arguable” that a statute links the lawfulness of one provision to
+the lawfulness of another. See Steel Co. v. Citizens for Better Environ-
+ment, 523 U. S. 83, 89 (1998). Thus, a failure to develop a standing-
+through-inseverability argument poses a significant obstacle to review.

@@ -1,0 +1,535 @@
+Hencely v. Fluor Corp. — No. 24-924 — October Term 2025 — decided 4/22/26 — opinion of the Court — author Thomas (listing code T)
+Citation: 608 U.S. 31
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r27_bq7c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+In 2016, a Taliban operative working for respondent Fluor
+Corporation, a military contractor, carried out a suicide-
+bomb attack at Bagram Airfeld in Afghanistan. After then-
+Army Specialist Winston T. Hencely confronted him, the
+bomber detonated his suicide vest. As a result of the in-
+juries he received, Hencely is now permanently disabled.
+In an effort to recover damages for his injuries, Hencely
+sued Fluor, bringing state-law tort claims for negligently
+retaining and supervising the attacker. According to
+Hencely and the United States military, Fluor's conduct was
+not authorized by the military and even violated instructions
+the military had given it as a condition of operating on the
+base.
+Fluor argues that federal law preempts Hencely's suit.
+But, no statute or constitutional provision expressly does so.
+And, our precedent suggests that state law is generally not
+preempted when the “contractor could comply with both its
+contractual obligations” to the military and state law—unlike
+when the state-imposed duty “is precisely contrary to the
+duty imposed by the Government contract.” Boyle v.
+United Technologies Corp., 487 U. S. 500, 509 (1988). How-
+ever, the United States Court of Appeals for the Fourth Cir-
+cuit held that federal law preempts Hencely's suit based on
+a different rule: During wartime, all state-law claims against
+military contractors under military command arising out of
+combatant activities are preempted regardless of whether
+any conflict exists between the military's instructions and
+state law. 120 F. 4th 412, 426 (2024). We disagree. The
+preemption rule on which the Fourth Circuit relied lacks any
+foundation in the Constitution, federal statutes, or our
+precedents.
+M. Parker, and Jonathan D. Urick; and for Retired Senior Military Off-
+cers by Jeffrey B. Wall.
+I
+A
+Hencely, a former Army specialist, was seriously injured
+in a Taliban suicide attack on Veteran's Day 2016 at Bagram
+Airfield, then the largest U. S. base in Afghanistan.
+Hencely saw the perpetrator, Taliban operative Ahmad
+Nayeb, as Nayeb was walking toward a Veteran's Day 5K
+race. When Hencely attempted to question him, Nayeb det-
+onated his suicide vest. The explosion killed 5 and wounded
+17. Hencely, then just 20 years old, suffered a fractured
+skull and brain injuries. The Army concluded that
+Hencely's intervention “likely prevent[ed] a far greater trag-
+edy.” App. to Pet. for Cert. 156.
+Nayeb worked as a “Local National” contractor at Bagram
+as part of the military's “Afghan First” program. 120 F. 4th,
+at 418. That program sought to stimulate the local economy
+and stabilize the Afghan Government by requiring contrac-
+tors to hire Afghans “ `to the maximum extent possible.' ”
+Ibid. The military interviewed and screened potential em-
+ployees. During this process, it learned that Nayeb had
+been involved with the Taliban in the past. Nonetheless, it
+approved him for employment.
+After this approval, Fluor's subcontractor hired Nayeb to
+work in the base's nontactical vehicle yard. The Army's
+contract with Fluor made it “ `responsible for oversight of
+[its] personnel or Subcontractors to ensure compliance with
+all terms of the' ” contract. Id., at 419. Fluor was also re-
+quired to comply with base-security policies. Under the
+“Bagram Airfeld Badge, Screening, and Access Policy,” all
+nonuniformed personnel, including Nayeb, were assigned a
+color-coded badge. Ibid. The policy required that Fluor
+escort red-badge holders like Nayeb in all areas of the base
+except at their work sites and maintain “ `constant view' of
+them.” Id., at 419–420.
+The Army's investigation found Fluor primarily respon-
+sible for the attack. Interviews of Fluor personnel “re-
+veal[ed] a poor understanding by Fluor supervisors as to who
+was responsible for Nayeb's supervision” and “an unreason-
+able complacency by Fluor to ensure Local National employ-
+ees were properly supervised at all times, as required by
+their contract.” App. to Pet. for Cert. 171. The Army also
+concluded that Fluor failed to impose adequate disciplinary
+measures on Nayeb, who slept on the job and was absent
+from his work area without justification, even though these
+were grounds for firing him. Fluor's lax supervision, the
+Army's report continued, allowed Nayeb to check out tools
+that he did not need for his job and that he used to make the
+bomb inside Bagram. And, Fluor “was . . . defcient in [its]
+performance of executing and supervising escort duties”
+when employees like Nayeb left their work stations to leave
+the base. Id., at 174. Instead of escorting Nayeb to the
+base exit at the end of his shift, Fluor relied on a sign-out
+system administered by another Afghan employee, in viola-
+tion of the base's badge policies. The report found that this
+lax supervision “enabled Nayeb to go undetected” for nearly
+an hour on the day of the attack and to walk at liberty
+throughout the base until Hencely confronted him. Id., at
+176. In sum, the report concluded that “the primary con-
+tributing factor” to the attack was “Fluor's complacency and
+its lack of reasonable supervision of its personnel.” Id.,
+at 158.
+B
+Hencely sued Fluor and its subsidiaries in the United
+States District Court for the District of South Carolina,
+where two Fluor subsidiaries are located. Hencely brought
+claims under South Carolina law for negligent supervision,
+negligent entrustment of tools, and negligent retention of an
+employee. Following Circuit precedent, the District Court
+entered summary judgment for Fluor. 554 F. Supp. 3d 770,
+774 (2021). Under that precedent, suits against military
+contractors arising out of combatant activities are generally
+preempted. See In re KBR, Inc., Burn Pit Litigation, 744
+F. 3d 326, 349, 351 (CA4 2014).
+The Fourth Circuit affirmed under this “battlefeld pre-
+emption” doctrine. 120 F. 4th, at 418, 430. According to
+the Fourth Circuit, “ `[d]uring wartime, where a private
+service contractor is integrated into combatant activities
+over which the military retains command authority, a tort
+claim arising out of the contractor's engagement in such ac-
+tivities shall be preempted.' ” In re KBR , 744 F. 3d, at 349
+(quoting Saleh v. Titan Corp., 580 F. 3d 1, 9 (CADC 2009)).
+The court reasoned that the Federal Tort Claims Act's
+combatant-activities exception, which preserves the Federal
+Government's immunity against claims “arising out of the
+combatant activities of the military” during wartime, 28
+U. S. C. § 2680(j), also reflects a congressional intent to bar
+all tort suits against contractors connected with those com-
+batant activities. On the Fourth Circuit's view, state-law
+tort suits cannot proceed even when the contractor is alleged
+to have violated its instructions from the military.
+We granted Hencely's petition for a writ of certiorari to
+decide whether a state-law suit premised on a military con-
+tractor's activities in a war zone is preempted even when the
+contractor was not required or authorized to take the action
+at issue. 605 U. S. 968 (2025).
+II
+Neither the Constitution nor any federal statute supports
+the Fourth Circuit's broad rule. Nor does the Court's opin-
+ion in Boyle support preemption in this case.
+A
+The Supremacy Clause provides that the Constitution, fed-
+eral statutes, and treaties are “the supreme Law of the
+Land; . . . any Thing in the Constitution or Laws of any State
+to the Contrary notwithstanding.” Art. VI, cl. 2. “[W]hen
+a regulated party cannot comply with both federal and state
+directives, the Supremacy Clause tells us the state law must
+yield.” Martin v. United States, 605 U. S. 395, 409 (2025).
+But, “[t]here is no federal pre-emption in vacuo , without a
+constitutional text or a federal statute to assert it.” Puerto
+Rico Dept. of Consumer Affairs v. ISLA Petroleum Corp.,
+485 U. S. 495, 503 (1988). Instead, “the federal restrictions
+or rights that are said to conflict with state law must stem
+from either the Constitution itself or a valid statute enacted
+by Congress.” Kansas v. Garcia, 589 U. S. 191, 202 (2020).
+Fluor has not identified any provision of law expressly pre-
+empting Hencely's suit. No constitutional provision says it
+is preempted, and neither the Fourth Circuit nor Fluor sug-
+gests otherwise. Nor does any federal statute preempt this
+suit. Fluor cites only the FTCA's combatant-activities ex-
+ception, § 2680(j), which, this Court has explained, does not
+apply to suits against federal contractors, see United States
+v. Orleans, 425 U. S. 807, 813–814 (1976) (citing § 2671); ac-
+cord, post, at 62–63. (Alito , J., dissenting).
+B
+Without any constitutional or statutory text expressly
+supporting preemption, the Fourth Circuit, like the D. C. Cir-
+cuit before it, resorted to our precedent in Boyle. 120
+F. 4th, at 425–426; see also Saleh, 580 F. 3d, at 5. According
+to the Fourth Circuit, Boyle requires preemption of all
+claims against contractors engaged in combatant activities
+under the military's command authority. 120 F. 4th, at 425–
+426. For its part, the Government asserts that an action is
+preempted if it “arises from both combatant activities and a
+contractor's actions within the scope of its contract.” Brief
+for United States as Amicus Curiae 28. Our precedents do
+not support either rule.
+To start, Boyle does not squarely govern. It concerned
+the performance of a procurement contract, not a perform-
+ance contract, and the combatant-activities exception was
+not at issue. Accord, post, at 64 (opinion of Alito, J.). But,
+regardless, its reasoning does not support the Fourth Cir-
+cuit's preemption rule.
+Under our precedents, Boyle explained, “a few areas, in-
+volving `uniquely federal interests,' are so committed by the
+Constitution and laws of the United States to federal control
+that state law is pre-empted and replaced, where necessary,
+by federal law,” fashioned by federal courts in the absence
+of congressional action. 487 U. S., at 504 (quoting Texas In-
+dustries, Inc. v. Radcliff Materials, Inc., 451 U. S. 630, 640
+(1981); citation omitted); see, e. g., Clearfeld Trust Co. v.
+United States, 318 U. S. 363, 366–367 (1943); United States v.
+Kimbell Foods, Inc., 440 U. S. 715, 726–729 (1979). In those
+rare areas of “uniquely federal interest,” the Court has held
+state law preempted when there is a “significant conflict”
+between “an identifiable federal policy or interest and the
+[operation] of state law,” or when “specific objectives” of fed-
+eral legislation would be frustrated. Boyle , 487 U. S., at
+505, 507 (internal quotation marks omitted). This Court has
+emphasized the narrowness of this doctrine, which will
+rarely apply when “litigation is purely between private par-
+ties and does not touch the rights and duties of the United
+States.” Bank of America Nat. Trust & Sav. Assn. v. Par-
+nell, 352 U. S. 29, 33 (1956); see Boyle, 487 U. S., at 506.
+In Boyle, the conflict between federal interests and state
+law was particularly sharp. There, a Marine helicopter pilot
+drowned after a crash during a training exercise. Id., at
+502. The pilot's father sued the manufacturer of the helicop-
+ter, alleging that, under state tort principles, the escape
+hatch for the helicopter should have opened inward even
+though the federal procurement contract for the helicopter
+required that it open outward. Id., at 503.
+To assess preemption of that suit, the Court first identified
+a “ `uniquely federal' interest” in the “the civil liabilities aris-
+ing out of the performance of federal procurement con-
+tracts.” Id., at 505–506. After all, the Court reasoned, in
+Yearsley v. W. A. Ross Constr. Co., 309 U. S. 18 (1940), the
+Court had rejected “an attempt by a landowner to hold a
+construction contractor liable under state law” for eroding
+land in the course of constructing dikes for the Government.
+Boyle, 487 U. S., at 506 (citing Yearsley, 309 U. S., at 20–21).
+There was “no basis for a distinction,” Boyle explained, be-
+tween a contractor's fulfllment of a performance contract
+like the one in Yearsley and a contractor's faithful execution
+of a procurement contract for helicopters. 487 U. S., at 506.
+Boyle was clear that the identification of a uniquely federal
+interest “does not, however, end the inquiry.” Id., at 507.
+Instead, this Court's precedents require “a significant con-
+flict . . . between an identifiable federal policy or interest and
+the operation of state law.” Ibid. (internal quotation marks
+and alterations omitted).
+To craft a rule of decision for suits against federal procure-
+ment contractors, Boyle turned to the FTCA, which pre-
+serves the Federal Government's sovereign immunity
+against a claim “based upon the exercise or performance or
+the failure to exercise or perform a discretionary function
+or duty,” § 2680(a). See id., at 511. Because the Federal
+Government cannot be sued for exercising its discretion to
+select helicopter designs, the Court concluded that “state law
+which holds Government contractors liable for design defects
+in military equipment does in some circumstances” require
+displacement. Id., at 512. But even then, not all tort suits
+arising out of design defects in federally procured equipment
+are preempted. The Court instead adopted a three-part
+test requiring preemption if (1) the United States approved
+precise specifcations; (2) the equipment conformed to them;
+and (3) the supplier warned the United States about the dan-
+gers the specifcations entailed. Ibid.
+Under this approach, many suits are not preempted. For
+example, there would generally be no preemption when the
+procured equipment was a stock model, or when the Govern-
+ment's specifcations were silent as to the complained-of de-
+fect in the product. Id., at 509. And, the Court explained
+that preemption of all suits by military personnel against
+procurement contractors would be “too broad” a preemption
+rule because it would bar suits even when the Government
+did not instruct the contractor to produce equipment with
+the challenged feature. Id., at 510.
+Boyle's reasoning contradicts the Fourth Circuit's analysis.
+Boyle addressed “a special circumstance” in which the con-
+tractor has a defense because “the government has directed
+a contractor to do the very thing that is the subject of the
+claim.” Correctional Services Corp. v. Malesko, 534 U. S.
+61, 74, n. 6 (2001). Hencely sued Fluor for conduct that, we
+assume (as the Fourth Circuit did), was not authorized by,
+but was even contrary to, federal instructions. See 120
+F. 4th, at 430. Fluor does not dispute that military officials
+found it to have failed in its contractual obligations. It also
+does not dispute that the Army found this failure to be a
+cause of Hencely's injuries. Even granting that there is a
+“uniquely federal interest” in the regulation of military bases
+overseas, there would be no “significant conflict” between
+that interest and state-law negligence liability premised on
+a contractor's departure from military instructions. Boyle,
+487 U. S., at 507.
+An example Boyle gave confirms that Boyle does not jus-
+tify the Fourth Circuit's rule. The Court thought it clear
+that in a case in which the Government asks a contractor for
+a certain result, and the contractor is sued for how it
+achieved that result, the suit is not preempted if the Govern-
+ment was silent about the conduct that allegedly violated
+state law:
+“If, for example, the United States contracts for the pur-
+chase and installation of an air-conditioning unit, speci-
+flying the cooling capacity but not the precise manner of
+construction, a state law imposing upon the manufac-
+turer of such units a duty of care to include a certain
+safety feature would not be a duty identical to anything
+promised the Government, but neither would it be con-
+trary. The contractor could comply with both its con-
+tractual obligations and the state-prescribed duty of
+care. No one suggests that state law would generally
+be pre-empted in this context.” Id., at 509.
+The contract at issue in this case is “like the one for the
+hypothetical air conditioner, not the helicopter.” Saleh, 580
+F. 3d, at 22 (Garland, J., dissenting). The Fourth Circuit did
+not conclude “that the government required or authorized
+the contractor personnel at [Bagram Airfeld] to do what
+state law forbids,” and Boyle cannot be read to “protect a
+contractor from liability resulting from the contractor's vio-
+lation of federal . . . policy.” 580 F. 3d, at 22–23. The Gov-
+ernment required Fluor to hire Afghan employees and to
+provide logistics for Bagram Airfeld. But, it did not,
+Hencely contends, require Fluor to leave Nayeb unsuper-
+vised, allow him to walk alone for an hour after his shift, or
+permit him to obtain unauthorized tools with which he could
+build a bomb. Instead, on each score, the Army concluded
+that Fluor failed express duties to the Government. Given
+this, Hencely's suit premised on Fluor's negligence in carry-
+ing out those duties is, under Boyle's reasoning, not pre-
+empted just as the hypothetical claims about the air-
+conditioner would not be preempted.
+None of this should come as a surprise to Fluor under
+existing statutes and regulations. “Congress knows full
+well how to make its intention to preclude private liability
+known.” Saleh, 580 F. 3d, at 26 (Garland, J., dissenting).
+Congress gave some contractors express protection from
+suits related to their activities. 42 U. S. C. §§ 233(a), (g)
+(channeling suits against employees at certain federally
+funded health centers); 50 U. S. C. § 2783(b) (providing the
+same for contractors carrying out an atomic weapons testing
+program). And, in the Defense Base Act, Congress chan-
+neled claims by contractors' employees to an administrative
+process, see 42 U. S. C. §§ 1651(a), (c), but did not do the same
+for suits by soldiers on military bases. Moreover, the Gov-
+ernment advised Fluor that it would not have a blanket de-
+fense based on its status as a military contractor. See
+Saleh, 580 F. 3d, at 27 (Garland, J., dissenting). Before the
+suicide attack that injured Hencely, the Department of De-
+fense responded to concerns that its regulations “may lead
+courts to deny contractors certain defenses in tort litiga-
+tion.” 73 Fed. Reg. 16767 (2008). The Department ob-
+served that courts generally “absolv[e] contractors of liabil-
+ity to third parties where the Government carried ultimate
+responsibility for the operation.” Ibid. But, beyond that
+context, the Department warned, contractors must “research
+host nation laws and proposed operating environments” be-
+cause existing law held “contractors accountable for the neg-
+ligent or willful actions of their employees, officers, and sub-
+contractors.” 1 Id., at 16768. The Department explained
+that Boyle did not protect nonprocurement contractors and
+that contractors should not expect “to avoid accountability
+to third parties for their own actions by raising defenses
+based on the sovereignty of the United States.” 73 Fed.
+Reg. 16768.
+C
+Since Boyle did not reach this case, the Fourth Circuit
+expanded it. “ `In the context of the combatant activities
+exception,' ” it observed, “ `the relevant question is not so
+much whether the substance of the federal duty is inconsist-
+1 The Department of Defense therefore did not share the dissent's alarm
+at the prospect of military contractors' being subject to foreign law.
+Post, at 60–62, and nn. 5–7. In fact, American courts have long decided
+cases relying on foreign law. See, e. g., Animal Science Products, Inc. v.
+Hebei Welcome Pharmaceutical Co., 585 U. S. 33, 37–41 (2018); Canada
+Malting Co. v. Paterson S. S., Ltd., 285 U. S. 413, 421–422 (1932). Regard-
+less, the issue is academic here, as both sides invoked South Carolina law
+in this case, and, in the Fourth Circuit, Fluor did not “provid[e] any indi-
+cation . . . how the outcome would be different under Afghan law.” 120
+F. 4th 412, 424, n. 4 (2024).
+ent with a hypothetical duty imposed by the state.' ” 120
+F. 4th, at 429 (quoting Saleh, 580 F. 3d, at 7; emphasis added).
+Instead, the court reasoned, “it is the imposition per se of
+the state . . . tort law that conflicts with the federal policy of
+eliminating” state regulation of the military during wartime.
+120 F. 4th, at 429 (internal quotation marks omitted).
+That test sweeps too broadly. The FTCA's combatantac-
+tivities exception forecloses suits “arising out of the combat-
+ant activities of the military or naval forces, or the Coast
+Guard.” 28 U. S. C. § 2680(j) (emphasis added). Like the
+discretionary-function exception on which Boyle relied, the
+combatant-activities exception protects the Government's
+decisionmaking. Accordingly, the Fourth Circuit seems to
+have recognized that the relevant federal interest is “fore-
+closing state regulation of the military's battlefeld conduct
+and decisions.” In re KBR , 744 F. 3d, at 350 (emphasis
+added). But, even assuming such an interest can preempt
+state law, “[n]o significant conflict exists between that inter-
+est and state law unless the challenged action can reasonably
+be considered the military's own conduct or decision and the
+operation of state law would conflict with that decision.”
+Badilla v. Midwest Air Traffc Control Serv., Inc., 8 F. 4th
+105, 128 (CA2 2021).
+The Fourth Circuit's decision not only extended, but con-
+tradicted, Boyle. Boyle created a defense for contractors
+only insofar as the suit challenged a decision of the Govern-
+ment that the contractor merely carried out. A conflict
+even with the new “uniquely federal interest” the lower
+courts have identified in military operations, then, would
+have to emerge from a state-law suit challenging the mili-
+tary's decisions on the battlefeld. The Fourth Circuit did
+not ask that question. To the contrary, it expressly con-
+cluded that resolving Hencely's claims under South Carolina
+law would not require “evaluat[ing] the reasonableness of
+military judgments.” 120 F. 4th, at 424; contra, post, at 59
+(opinion of Alito, J.). But, it went on to find preemption in
+any case because it thought that the Government's “ `interest
+in combat is always precisely contrary to the imposition of a
+non-federal tort duty.' ” 120 F. 4th, at 426 (quoting KBR, 744
+F. 3d, at 349; emphasis added). Boyle's rationale justifies no
+such blanket preemption.
+D
+Perhaps sensing this, Fluor and the Government argue
+that, even without Boyle, the Constitution's structure implic-
+itly preempts any suit against a military contractor operat-
+ing in a combat zone. See Brief for Respondents 30–33;
+Brief for United States as Amicus Curiae 30. This argu-
+ment has no basis in the text of the Constitution or our
+precedent.
+All acknowledge that the Federal Government has “ `broad
+and sweeping' ” war powers. Rumsfeld v. Forum for Aca-
+demic and Institutional Rights, Inc., 547 U. S. 47, 58–59
+(2006) (quoting United States v. O'Brien, 391 U. S. 367, 377
+(1968)). The Constitution assigns Congress the power to
+“declare War,” “raise and support Armies,” “provide and
+maintain a Navy,” and “make Rules for the Government and
+Regulation of the land and naval Forces.” Art. I, § 8, cls.
+11–13. The President is the “Commander in Chief of the
+Army and Navy of the United States” and militias in federal
+service. Art. II, § 2, cl. 1. States, for their part, may not
+“engage in War, unless actually invaded.” Art. I, § 10, cl. 3.
+But, the Constitution's grant of war powers does not imply
+that courts must reject any tort claim connected to a war
+zone, as the Fourth Circuit's rule requires. 2 See 120 F. 4th,
+at 429. The assignment of those powers to Congress and
+the Executive has never been understood to bar all war-
+related tort suits. To the contrary, barring other statutory
+or constitutional considerations, plaintiffs have been able to
+2 The dissent does not appear to disagree. See post, at 64. Nor does
+it defend the preemption rule applied below, even while it would find pre-
+emption on other grounds.
+enforce their legal rights even when they are violated during
+war. Only a few years after the adoption of the Constitu-
+tion, the Court addressed the case of Captain Little, com-
+mander of a United States frigate. Little v. Barreme, 2
+Cranch 170 (1804) (Marshall, C. J.). Captain Little acted on
+the Secretary of the Navy's orders and seized a Danish ves-
+sel for violating American neutrality laws during the Quasi-
+War with France. Id., at 176–178. The Court found that
+the orders exceeded the President's statutory authority and
+held that “Captain Little then must be answerable in dam-
+ages to the owner of this neutral vessel” despite a seizure
+“with pure intention” to carry out U. S. military policy. Id.,
+at 179. In Mitchell v. Harmony, 13 How. 115 (1852), Colonel
+Mitchell seized property in Mexico during the Mexican-
+American war that belonged to an American merchant trav-
+eling with the military in the war zone. Id., at 129–130.
+The merchant sued, and the Court affirmed the tort judg-
+ment against Colonel Mitchell. Id., at 137. As this history
+shows, the mere fact that the conduct here occurred overseas
+in a warzone perhaps makes this a good case for Congress to
+intervene, but it does not give courts a license to bar all such
+suits on their own authority. 3
+Nor is Fluor protected from the consequences of its con-
+duct simply because it was working for the Federal Govern-
+ment and state law is at issue. “[T]here is an implied consti-
+tutional immunity of the national government from state
+taxation and from state regulation of the performance, by
+3 The dissent observes that these decisions applied the “bygone” federal
+general common law before the Court declared that “[t]here is no federal
+general common law” in Erie R. Co. v. Tompkins, 304 U. S. 64, 78 (1938);
+they did not apply state law. Post, at 65. We fail to see the relevance of
+this distinction. The pre-Erie “federal general common law” would have
+been subject to structural constitutional law just as state law is today.
+So, if the Constitution foreclosed tort claims arising from wartime activi-
+ties under the rule that Fluor urges, these suits would have been barred
+regardless of the source of the tort principles they relied on.
+federal officers and agencies, of governmental functions.”
+Penn Dairies, Inc. v. Milk Control Comm'n of Pa., 318 U. S.
+261, 269 (1943). For example, States ordinarily cannot “di-
+rectly regulate or discriminate against” federal officers and
+agencies. United States v. Washington, 596 U. S. 832, 835
+(2022); see also McCulloch v. Maryland, 4 Wheat. 316, 436–
+437 (1819). “But those who contract to furnish supplies or
+render services to the government are not such agencies and
+do not perform governmental functions.” Penn Dairies,
+318 U. S., at 269. Accordingly, absent a statute to the con-
+trary, States can regulate or tax federal contractors on the
+same terms as any private company, even where the party
+asserts an indirect burden on federal activities. See, e. g.,
+James Stewart & Co. v. Sadrakula, 309 U. S. 94, 104 (1940)
+(allowing state labor-law liability against a contractor con-
+structing a federal building); James v. Dravo Contracting
+Co., 302 U. S. 134, 159–161 (1937) (upholding a tax imposed
+on a federal contractor despite a constitutional objection that
+doing so would burden the Federal Government by increas-
+ing its costs).
+The Court has not hesitated to apply this principle in the
+military context. In Penn Dairies, the Court allowed a
+state milk-price regulation to apply to a military contractor
+providing milk to soldiers on a military base during the Sec-
+ond World War. 318 U. S., at 266–267, 278–279. The con-
+tractor argued that applying the regulations to its military
+contracting operations was unconstitutional, because Con-
+gress alone has the power to raise and support armies, and
+the regulation interfered with the exercise of that power.
+Id., at 268–269; see Art. I, § 8, cl. 12. The Court rejected
+that argument. It explained that while Congress's enumer-
+ated powers enable it to “declare state regulations like” the
+one at issue “inapplicable to sales to the government,” the
+state law was not preempted because the Court could not
+“find in Congressional legislation . . . any disclosure of a pur-
+pose to immunize government contractors from local price-
+fixing regulations which would otherwise be applicable.”
+318 U. S., at 269, 278.
+Instead, without a federal statute, contractors ordinarily
+have a constitutional defense only when the contractor is
+being sued precisely for accomplishing what the Federal
+Government requested. In Yearsley, a contractor, acting
+under military orders, built dikes on the Missouri River and
+“washed away a part of petitioners' land” as a result. 309
+U. S., at 19. The landowners sued and secured a judgment
+against the contractor. Id., at 20. This Court reversed.
+The Court explained that “if th[e] authority to carry out the
+project was validly conferred . . . there is no liability on the
+part of the contractor for executing its will.” Id., at 20–
+21. But, by its own terms, Yearsley was limited: “The Court
+contrasted with Yearsley cases in which a Government agent
+had `exceeded his authority' or the authority `was not validly
+conferred'; in those circumstances, the Court said, the agent
+could be held liable for conduct causing injury to another.”
+Campbell-Ewald Co. v. Gomez, 577 U. S. 153, 167 (2016)
+(quoting Yearsley, 309 U. S., at 21). Because Fluor is alleged
+to have acted outside the authority the military granted it,
+it does not attempt to invoke a Yearsley defense. And, we
+decline to extend Yearsley to bar allegations such as
+Hencely's.
+III
+The Fourth Circuit's decision held Hencely's claims pre-
+empted even though the conduct complained of was neither
+ordered nor authorized by the Federal Government. No
+provision of the Constitution and no federal statute justifies
+that preemption of the State's ordinary authority over tort
+suits. Nor does any precedent of this Court command such
+a result. Therefore, we vacate the judgment of the Fourth
+Circuit and remand the case for further proceedings consist-
+ent with this opinion.
+It is so ordered.

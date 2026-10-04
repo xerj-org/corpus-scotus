@@ -1,0 +1,117 @@
+Case v. Montana — No. 24-624 — October Term 2025 — decided 1/14/26 — Gorsuch, J., concurring
+Citation: 607 U.S. 107
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r06_19m1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+by-cop. As a result, the officers did not violate the Fourth
+Amendment when they entered Case's home. 8
+That conclusion, on the facts of this case, does not mean it
+will always be objectively reasonable for officers responding
+to a mental-health crisis to make a warrantless entry. A
+different mix of information might have led to the conclusion
+that the officers' entry itself would put the occupant (and
+officers) at a greater risk of escalation and serious injury.
+Because the “objectively reasonable basis” test, as reaf-
+firmed by the Court today, demands careful attention to the
+case-specific risks that attend mental-health crises, and re-
+quires officers to act reasonably in response, I join the
+Court's opinion in full.
+Justice Gorsuch, concurring.
+Today's case, like another before it, holds that police off-
+cers generally do not violate a person's Fourth Amendment
+rights when they enter his house without a warrant, but with
+an “ `objectively reasonable basis' ” for believing someone in-
+side is in physical danger and in need of immediate aid.
+Ante, at 116 (quoting Brigham City v. Stuart, 547 U. S. 398,
+400 (2006)). Importantly, the Court observes, this exception
+to the warrant requirement permits entry only to the extent
+reasonably necessary to address the apparent emergency
+and does not authorize officers to search a home more
+broadly. See ante, at 117. With all that, I agree.
+But to me, a question lingers: Why? Does the Fourth
+Amendment tolerate this limited emergency aid exception
+to the warrant requirement just because fve or more Jus-
+tices of this Court happen to believe that such entries are
+“reasonable”? Or is this exception more directly “tied to
+the law”? Carpenter v. United States, 585 U. S. 296, 397
+8 Case has not challenged the reasonableness of the officers' manner of
+entry or their conduct inside his house after entry. As a result, neither
+the decision below nor this Court had occasion to consider the reasonable-
+ness of that conduct.
+(2018) (Gorsuch, J., dissenting). The answer, I believe, is
+the latter.
+From before the founding through the present day, the
+common law has generally permitted a private citizen to
+enter another's house and property in order to avert serious
+physical harm. In those circumstances, and many others,
+courts have historically held that property rights give way
+to concern for human safety. See, e. g., 37 Hen. 6, pl. 26;
+Mouse's Case, 12 Co. Rep. 63, 77 Eng. Rep. 1341 (K. B. 1608);
+Respublica v. Sparhawk, 1 Dall. 357, 363 (Pa. 1788); Ploof v.
+Putnam, 81 Vt. 471, 474–475, 71 A. 188, 189 (1908). Courts
+have long described property-law necessity defenses like
+these as turning, too, on the adequacy of the defendant's
+judgment, not a post-hoc assessment of necessity in fact.
+See, e. g., Mitchell v. Harmony, 13 How. 115, 134–135 (1852);
+Stone v. Mayor of City of New York, 25 Wend. 157, 176 (N. Y .
+1840) (opinion of Verplanck, Sen.); Surocco v. Geary, 3 Cal.
+69, 72 (1853).*
+The common-law emergency rule is now often summarized
+this way: “One is privileged to enter or remain on land in
+the possession of another if it is or reasonably appears to be
+necessary to prevent serious harm to . . . the actor[,] . . . the
+other[,] or a third person . . . unless the actor knows or has
+reason to know that the one for whose benefit he enters is
+unwilling that he shall take such action.” Restatement
+(Second) of Torts § 197(1) (1963–1964). But, of course, this
+*Contrary to Mr. Case's argument, King v. Coate, Lofft. 73, 98 Eng. Rep.
+539 (K. B. 1772), does not establish that the common law demanded an
+exacting showing of actual necessity to defeat a claim for trespass. True,
+Lord Mansfeld explained that any necessity defense in that case would
+need to “stand the strictest test,” with the “necessity manifestly proved.”
+Id., at 75, 98 Eng. Rep., at 540. But Coate involved an effort to involun-
+tarily “confn[e] a person in a madhouse” for two months, not a claim over
+a home entry. Id., at 74, 98 Eng. Rep., at 539. And it is hardly surprising
+that the common law would demand a good deal more to justify a serious
+deprivation of liberty than to excuse an invasion of property rights aimed
+at protecting human safety.
+privilege comes with its logical limitations. So, for example,
+a private citizen who enters a home to render emergency aid
+lacks license to do so in a manner “which a reasonable man
+would not regard as necessary to” address the apparent
+emergency. Id., § 214, and Comment a; see also id., § 197,
+Comment a; Des Moines v. Webster, 861 N. W. 2d 878, 883–
+885 (Iowa App. 2014); State v. Lukus, 149 Mont. 45, 50–51,
+423 P. 2d 49, 52–53 (1967).
+Today's decision echoes both the common-law emergency
+aid rule and its limitations. It does so, to be sure, in the
+context of a law enforcement officer, not a private citizen,
+who sought to enter another's home. But on this point as
+well the common law has spoken, long providing that officers
+generally enjoy the same legal privileges as private citizens.
+See, e. g., Entick v. Carrington, 19 How. St. Tr. 1029, 1066
+(C. P. 1765); 1 J. Chitty, Criminal Law 36 (1819); 2 M. Hale,
+Historia Placitorum Coronae 91 (1736). And, reflecting the
+common law here again, this Court has held that the Fourth
+Amendment usually permits officers lacking a valid warrant
+to “take actions that any private citizen might do without
+fear of liability.” Caniglia v. Strom, 593 U. S. 194, 198
+(2021) (internal quotation marks omitted). But they nor-
+mally may do “no more” than that. Kentucky v. King, 563
+U. S. 452, 469 (2011); see also Entick, 19 How. St. Tr., at 1066.
+It should come as no surprise that our decision today
+might accord with the accumulated learning of the common
+law—just as it should come as no surprise that our applica-
+tion of the Fourth Amendment ought to be informed by the
+common law's lessons rather than mere intuition. For a pe-
+riod, to be sure, the miasma created by this Court's Katz era
+led some to think the scope of the rights guaranteed by the
+Fourth Amendment depend on nothing more than current
+judicial instincts about “reasonable expectations of privacy.”
+See Carpenter, 585 U. S., at 394–395, 405–406 (Gorsuch, J.,
+dissenting). But that confusion cannot last forever, for no
+one should think the rights of Americans hang on so thin
+a thread. Instead, and as Justice Story recognized, the
+Fourth Amendment is made of sturdier stuff, representing
+“the affirmance of a great constitutional doctrine of the com-
+mon law.” 3 Commentaries on the Constitution of the
+United States 748 (1833).

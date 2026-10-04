@@ -1,0 +1,112 @@
+Mallory v. Norfolk Southern R. Co — No. 21-1168 — October Term 2022 — decided 6/27/23 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 600 U.S. 122
+Source: https://www.supremecourt.gov/opinions/22pdf/600us1r52_7l48.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch announced the judgment of the Court
+and delivered the opinion of the Court with respect to
+Parts I and III–B, and an opinion with respect to Parts II,
+III–A, and IV , in which Justice Thomas, Justice Soto-
+mayor, and Justice Jackson join.
+Imagine a lawsuit based on recent events. A few months
+ago, a Norfolk Southern train derailed in Ohio near the Penn-
+sylvania border. Its cargo? Hazardous chemicals. Some
+poured into a nearby creek; some burst into fames. In the
+aftermath, many residents reported unusual symptoms. 1
+Suppose an Ohio resident sued the train conductor seeking
+compensation for an illness attributed to the accident. Sup-
+pose, too, that the plaintiff served his complaint on the con-
+ductor across the border in Pennsylvania. Everyone before
+us agrees a Pennsylvania court could hear that lawsuit
+consistent with the Due Process Clause of the Fourteenth
+Amendment. The court could do so even if the conductor
+was a Virginia resident who just happened to be passing
+through Pennsylvania when the process server caught up
+with him.
+Now, change the hypothetical slightly. Imagine the same
+Ohio resident brought the same suit in the same Pennsylva-
+nia state court, but this time against Norfolk Southern. As-
+sume, too, the company has fled paperwork consenting to
+appear in Pennsylvania courts as a condition of registering
+to do business in the Commonwealth. Could a Pennsylvania
+court hear that case too? You might think so. But today,
+Linda H. Martin, and David Y . Livshiz; and for Tanya Monestier by
+Sean Marotta.
+Briefs of amici curiae were fled for Scholars on Corporate Registration
+and Jurisdiction by Andrew S. Pollis; for United Policyholders by George
+M. Plews, Peter M. Racher, Kevin M. Toner, Christopher E. Kozak, and
+Richard B. Oatis; and for U. S. Terror Victims by Eric Citron.
+1 See U. S. Environmental Protection Agency, East Palestine, Ohio Train
+Derailment (June 21, 2023), https://www.epa.gov/east-palestine-oh-train-
+derailment.
+Norfolk Southern argues that the Due Process Clause enti-
+tles it to a more favorable rule, one shielding it from suits
+even its employees must answer. We reject the company's
+argument. Nothing in the Due Process Clause requires
+such an incongruous result.
+I
+Robert Mallory worked for Norfolk Southern as a freight-
+car mechanic for nearly 20 years, first in Ohio, then in Vir-
+ginia. During his time with the company, Mr. Mallory con-
+tends, he was responsible for spraying boxcar pipes with
+asbestos and handling chemicals in the railroad's paint shop.
+He also demolished car interiors that, he alleges, contained
+carcinogens.
+After Mr. Mallory left the company, he moved to Pennsyl-
+vania for a period before returning to Virginia. Along the
+way, he was diagnosed with cancer. Attributing his illness
+to his work for Norfolk Southern, Mr. Mallory hired Pennsyl-
+vania lawyers and sued his former employer in Pennsylvania
+state court under the Federal Employers' Liability Act, 35
+Stat. 65, as amended, 45 U. S. C. §§ 51–60. That law creates
+a workers' compensation scheme permitting railroad employ-
+ees to recover damages for their employers' negligence. See
+Norfolk Southern R. Co. v. Sorrell, 549 U. S. 158, 165–166
+(2007).
+Norfolk Southern resisted Mr. Mallory's suit on constitu-
+tional grounds. By the time he fled his complaint, the com-
+pany observed, Mr. Mallory resided in Virginia. His com-
+plaint alleged that he was exposed to carcinogens in Ohio
+and Virginia. Meanwhile, the company itself was incorpo-
+rated in Virginia and had its headquarters there too. 2 On
+these facts, Norfolk Southern submitted, any effort by a
+Pennsylvania court to exercise personal jurisdiction over it
+would offend the Due Process Clause of the Fourteenth
+Amendment.
+2 After Mr. Mallory commenced this suit, Norfolk Southern relocated its
+headquarters to Georgia. See Brief for Respondent 5.
+Mr. Mallory saw things differently. He noted that Norfolk
+Southern manages over 2,000 miles of track, operates 11 rail
+yards, and runs 3 locomotive repair shops in Pennsylvania.
+He also pointed out that Norfolk Southern has registered to
+do business in Pennsylvania in light of its “ `regular, system-
+atic, [and] extensive' ” operations there. 266 A. 3d 542, 562
+(Pa. 2021); see 15 Pa. Cons. Stat. § 411(a) (2014). That is
+significant, Mr. Mallory argued, because Pennsylvania re-
+quires out-of-state companies that register to do business in
+the Commonwealth to agree to appear in its courts on “any
+cause of action” against them. 42 Pa. Cons. Stat. § 5301(a)
+(2)(i), (b) (2019); see 266 A. 3d, at 564. By complying with
+this statutory scheme, Mr. Mallory contended, Norfolk
+Southern had consented to suit in Pennsylvania on claims
+just like his.
+Ultimately, the Pennsylvania Supreme Court sided with
+Norfolk Southern. Yes, Mr. Mallory correctly read Pennsyl-
+vania law. It requires an out-of-state frm to answer any
+suits against it in exchange for status as a registered foreign
+corporation and the benefits that entails. Id., at 561–563.
+But, no, the court held, Mr. Mallory could not invoke that
+law because it violates the Due Process Clause. Id., at 564–
+568. In reaching this conclusion, the Pennsylvania Supreme
+Court acknowledged its disagreement with the Georgia Su-
+preme Court, which had recently rejected a similar due proc-
+ess argument from a corporate defendant. Id., at 560, n. 13
+(citing Cooper Tire & Rubber Co. v. McCall, 312 Ga. 422, 863
+S. E. 2d 81 (2021)).
+In light of this split of authority, we agreed to hear this
+case and decide whether the Due Process Clause of the Four-
+teenth Amendment prohibits a State from requiring an out-
+of-state corporation to consent to personal jurisdiction to do
+business there. 596 U. S. ––– (2022). 3
+3 The Pennsylvania Supreme Court did not address Norfolk Southern's
+alternative argument that Pennsylvania's statutory scheme as applied
+here violates this Court's dormant Commerce Clause doctrine. See 266

@@ -1,0 +1,395 @@
+Americans for Prosperity Foundation v. Bonta — No. 19-251 — October Term 2020 — decided 7/01/21 — opinion of the Court — author Roberts (listing code R)
+Citation: 594 U.S. 595
+Source: https://www.supremecourt.gov/opinions/20pdf/594us2r65_2co3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+It is true that we first enunciated the exacting scrutiny
+standard in a campaign finance case. See Buckley, 424 U. S.,
+at 64–68. And we have since invoked it in other election-
+related settings. See, e.g., Citizens United v. Federal Elec-
+tion Comm'n, 558 U. S. 310, 366–367 (2010); Davis v. Federal
+Election Comm'n, 554 U. S. 724, 744 (2008). But exacting
+scrutiny is not unique to electoral disclosure regimes. To
+the contrary, Buckley derived the test from NAACP v. Ala-
+bama itself, as well as other nonelection cases. See 424
+U. S., at 64 (citing Gibson v. Florida Legislative Investiga-
+tion Comm., 372 U. S. 539 (1963); NAACP v. Button, 371
+U. S. 415 (1963); Shelton v. Tucker, 364 U. S. 479 (1960); Bates
+v. Little Rock, 361 U. S. 516 (1960)). As we explained in
+NAACP v. Alabama, “it is immaterial” to the level of
+scrutiny “whether the beliefs sought to be advanced by asso-
+ciation pertain to political, economic, religious or cultural
+matters.” 357 U. S., at 460–461. Regardless of the type of
+association, compelled disclosure requirements are reviewed
+under exacting scrutiny.
+2
+The Law Center (now joined by the Foundation) argues in
+the alternative that even if exacting scrutiny applies, such
+review incorporates a least restrictive means test similar to
+the one imposed by strict scrutiny. The United States and
+the Attorney General respond that exacting scrutiny de-
+mands no additional tailoring beyond the “substantial rela-
+tion” requirement noted above. We think that the answer
+lies between those two positions. While exacting scrutiny
+does not require that disclosure regimes be the least restric-
+tive means of achieving their ends, it does require that they
+be narrowly tailored to the government's asserted interest.
+The need for narrow tailoring was set forth early in our
+compelled disclosure cases. In Shelton v. Tucker, we con-
+sidered an Arkansas statute that required teachers to dis-
+close every organization to which they belonged or contrib-
+uted. 364 U. S., at 480. We acknowledged the importance
+of “the right of a State to investigate the competence and
+fitness of those whom it hires to teach in its schools.” Id.,
+at 485. On that basis, we distinguished prior decisions in
+which we had found “no substantially relevant correlation
+between the governmental interest asserted and the State's
+effort to compel disclosure.” Ibid. But we nevertheless
+held that the Arkansas statute was invalid because even
+a “legitimate and substantial” governmental interest “can-
+not be pursued by means that broadly stife fundamental
+personal liberties when the end can be more narrowly
+achieved.” Id., at 488; see also Louisiana ex rel. Gremil-
+lion v. NAACP, 366 U. S. 293, 296 (1961) (quoting same).
+Shelton stands for the proposition that a substantial rela-
+tion to an important interest is not enough to save a disclo-
+sure regime that is insufficiently tailored. This requirement
+makes sense. Narrow tailoring is crucial where First
+Amendment activity is chilled—even if indirectly—“[b]e-
+cause First Amendment freedoms need breathing space to
+survive.” Button, 371 U. S., at 433.
+Our more recent decisions confirm the need for tailoring.
+In McCutcheon v. Federal Election Commission, 572 U. S.
+185 (2014), for example, a plurality of the Court explained:
+“In the First Amendment context, ft matters. Even
+when the Court is not applying strict scrutiny, we still
+require a ft that is not necessarily perfect, but reason-
+able; that represents not necessarily the single best
+disposition but one whose scope is in proportion to the
+interest served, that employs not necessarily the least
+restrictive means but a means narrowly tailored to
+achieve the desired objective.” Id., at 218 (internal
+quotation marks and alterations omitted).
+McCutcheon is instructive here. A substantial relation is
+necessary but not sufficient to ensure that the government
+adequately considers the potential for First Amend-
+ment harms before requiring that organizations reveal sensi-
+tive information about their members and supporters.
+Where exacting scrutiny applies, the challenged requirement
+must be narrowly tailored to the interest it promotes, even
+if it is not the least restrictive means of achieving that
+end.
+The dissent reads our cases differently. It focuses on the
+words “broadly stife” in the quotation from Shelton above,
+and it interprets those words to mean that narrow tailoring
+is required only for disclosure regimes that “impose a severe
+burden on associational rights.” Post, at 634 (opinion of
+Sotomayor, J.). Because, in the dissent's view, the petition-
+ers have not shown such a burden here, narrow tailoring is
+not required.
+We respectfully disagree. The “government may regu-
+late in the [First Amendment] area only with narrow speci-
+fcity,” Button, 371 U. S., at 433, and compelled disclosure
+regimes are no exception. When it comes to “a person's be-
+liefs or associations,” “[b]road and sweeping state inquiries
+into these protected areas . . . discourage citizens from exer-
+cising rights protected by the Constitution.” Baird v. State
+Bar of Ariz., 401 U. S. 1, 6 (1971) (plurality opinion). Con-
+trary to the dissent, we understand this Court's discussion of
+rules that are “broad” and “broadly stife” First Amendment
+freedoms to refer to the scope of challenged restrictions—
+their breadth—rather than the severity of any demonstrated
+burden. That much seems clear to us from Shelton's state-
+ment (in the sentence following the one quoted by the dis-
+sent) that “[t]he breadth of legislative abridgment must be
+viewed in the light of less drastic means for achieving the
+same basic purpose.” 364 U. S., at 488; see id., at 488, n. 9
+(citing sources that support this reading). It also seems
+clear from the immediately preceding paragraph, which
+stressed that “[t]he scope of the inquiry required by [the law]
+is completely unlimited. . . . It requires [the teacher] to
+list, without number, every conceivable kind of associational
+tie—social, professional, political, avocational, or religious.
+Many such relationships could have no possible bearing upon
+the teacher's occupational competence or fitness.” Id., at
+488. In other words, the law was not narrowly tailored to
+the State's objective.
+Nor does our decision in Reed suggest that narrow tailor-
+ing is required only for laws that impose severe burdens.
+The dissent casts Reed as a case involving only “ `modest
+burdens,' ” and therefore “a correspondingly modest level of
+tailoring.” Post, at 634 (quoting 561 U. S., at 201). But it
+was only after we concluded that various narrower alterna-
+tives proposed by the plaintiffs were inadequate, see 561
+U. S., at 198–199, that we held that the strength of the
+government's interest in disclosure reflected the burden
+imposed, see id., at 201. The point is that a reasonable as-
+sessment of the burdens imposed by disclosure should begin
+with an understanding of the extent to which the burdens
+are unnecessary, and that requires narrow tailoring.
+III
+The Foundation and the Law Center both argued below
+that the obligation to disclose Schedule Bs to the Attorney
+General was unconstitutional on its face and as applied to
+them. See 903 F. 3d, at 1007. The petitioners renew their
+facial challenge in this Court, and they argue in the alterna-
+tive that they are entitled to as-applied relief. For the rea-
+sons below, we conclude that California's blanket demand for
+Schedule Bs is facially unconstitutional.
+A
+As explained, exacting scrutiny requires that there be “a
+substantial relation between the disclosure requirement and
+a sufficiently important governmental interest,” Reed, 561
+U. S., at 196 (internal quotation marks omitted), and that the
+disclosure requirement be narrowly tailored to the interest
+it promotes, see Shelton, 364 U. S., at 488. The Ninth Cir-
+cuit found that there was a substantial relation between the
+Attorney General's demand for Schedule Bs and a sufficiently
+strong governmental interest. 903 F. 3d, at 1008–1020. Of
+particular relevance, the court found that California had such
+an interest in preventing charitable fraud and self-dealing,
+and that “the up-front collection of Schedule B information
+improves the efficiency and efficacy of the Attorney General's
+important regulatory efforts.” Id., at 1011–1012. The
+court did not apply a narrow tailoring requirement, however,
+because it did not read our cases to mandate any such
+inquiry. Id., at 1008–1009. That was error. And properly
+applied, the narrow tailoring requirement is not satisfied by
+the disclosure regime.
+We do not doubt that California has an important interest
+in preventing wrongdoing by charitable organizations. It
+goes without saying that there is a “substantial governmen-
+tal interest[ ] in protecting the public from fraud.” Schaum-
+burg v. Citizens for Better Environment, 444 U. S. 620, 636
+(1980) (internal quotation marks omitted). The Attorney
+General receives complaints each month that identify a range
+of misconduct, from “misuse, misappropriation, and diversion
+of charitable assets,” to “false and misleading charitable so-
+licitations,” to other “improper activities by charities solicit-
+ing charitable donations.” App. in No. 19–255, p. 270 (alter-
+ation omitted). Such offenses cause serious social harms.
+And the Attorney General is the primary law enforcement
+officer charged with combating them under California law.
+See Cal. Govt. Code Ann. § 12598.
+There is a dramatic mismatch, however, between the inter-
+est that the Attorney General seeks to promote and the dis-
+closure regime that he has implemented in service of that
+end. Recall that 60,000 charities renew their registrations
+each year, and nearly all are required to fle a Schedule B.
+Each Schedule B, in turn, contains information about a chari-
+ty's top donors—a small handful of individuals in some cases,
+but hundreds in others. See App. in No. 19–251, p. 319.
+This information includes donors' names and the total contri-
+butions they have made to the charity, as well as their
+addresses.
+Given the amount and sensitivity of this information har-
+vested by the State, one would expect Schedule B collection
+to form an integral part of California's fraud detection
+efforts. It does not. To the contrary, the record amply
+supports the District Court's finding that there was not “a
+single, concrete instance in which pre-investigation collection
+of a Schedule B did anything to advance the Attorney Gener-
+al's investigative, regulatory or enforcement efforts.” 182
+F. Supp. 3d, at 1055.
+The dissent devotes much of its analysis to relitigating fac-
+tual disputes that the District Court resolved against the
+Attorney General, see post, at 637–642, notwithstanding the
+applicable clear error standard of review, see Fed. Rule Civ.
+Proc. 52(a). For example, the dissent echoes the State's ar-
+gument that, in some cases, it relies on up-front Schedule B
+collection to prevent and police fraud. See post, at 639–640.
+But the record before the District Court tells a different story.
+See, e.g., App. in No. 19–251, at 397, 403, 417. And even if
+the State relied on up-front collection in some cases, its
+showing falls far short of satisfying the means-end ft that
+exacting scrutiny requires. California is not free to enforce
+any disclosure regime that furthers its interests. It must
+instead demonstrate its need for universal production in
+light of any less intrusive alternatives. Cf. Shelton, 364
+U. S., at 488.
+The Attorney General and the dissent contend that alter-
+native means of obtaining Schedule B information—such as
+a subpoena or audit letter—are ineffcient and ineffective com-
+pared to up-front collection. See post, at 640–641. It be-
+came clear at trial, however, that the Office had not even con-
+sidered alternatives to the current disclosure requirement.
+See App. in No. 19–251, at 421 (“I see no reason to change
+what we've been doing.”). The Attorney General and the
+dissent also argue that a targeted request for Schedule B
+information could tip a charity off, causing it to “hide or tam-
+per with evidence.” Brief for Respondent 43; see post, at
+641–642. But again, the States' witnesses failed to substan-
+tiate that concern. See, e.g., App. in No. 19–251, at 405–406;
+see also Board of Trustees of State Univ . of N. Y. v. Fox, 492
+U. S. 469, 480 (1989) (“the State . . . must affirmatively estab-
+lish the reasonable ft we require”). Nor do the actions of
+investigators suggest a risk of tipping off charities under sus-
+picion, as the standard practice is to send audit letters asking
+for a wide range of information early in the investigative
+process. See App. in No. 19–251, at 406, 411, 418. Further-
+more, even if tipoff were a concern in some cases, the State's
+indiscriminate collection of Schedule Bs in all cases would
+not be justified.
+The upshot is that California casts a dragnet for sensitive
+donor information from tens of thousands of charities each
+year, even though that information will become relevant in
+only a small number of cases involving fled complaints. See
+id., at 307–308. California does not rely on Schedule Bs to
+initiate investigations, and in all events, there are multiple
+alternative mechanisms through which the Attorney General
+can obtain Schedule B information after initiating an investi-
+gation. The need for up-front collection is particularly dubi-
+ous given that California—one of only three States to impose
+such a requirement, see id., at 420—did not rigorously en-
+force the disclosure obligation until 2010. Certainly, this is
+not a regime “whose scope is in proportion to the interest
+served.” McCutcheon, 572 U. S., at 218 (internal quotation
+marks omitted).
+In reality, then, California's interest is less in investigating
+fraud and more in ease of administration. This interest,
+however, cannot justify the disclosure requirement. The
+Attorney General may well prefer to have every charity's
+information close at hand, just in case. But “the prime
+objective of the First Amendment is not efficiency.” Mc-
+Cullen, 573 U. S., at 495. Mere administrative convenience
+does not remotely “reflect the seriousness of the actual bur-
+den” that the demand for Schedule Bs imposes on donors'
+association rights. Reed, 561 U. S., at 196 (internal quota-
+tion marks omitted).
+B
+The foregoing discussion also makes clear why a facial
+challenge is appropriate in these cases. Normally, a plaintiff
+bringing a facial challenge must “establish that no set of cir-
+cumstances exists under which the [law] would be valid,”
+United States v. Salerno, 481 U. S. 739, 745 (1987), or show
+that the law lacks “a plainly legitimate sweep,” Washington
+State Grange v. Washington State Republican Party , 552
+U. S. 442, 449 (2008) (internal quotation marks omitted). In
+the First Amendment context, however, we have recognized
+“a second type of facial challenge, whereby a law may
+be invalidated as overbroad if a substantial number of its
+applications are unconstitutional, judged in relation to the
+statute's plainly legitimate sweep.” United States v.
+Stevens, 559 U. S. 460, 473 (2010) (internal quotation marks
+omitted). We have no trouble concluding here that the
+Attorney General's disclosure requirement is overbroad.
+The lack of tailoring to the State's investigative goals is cate-
+gorical—present in every case—as is the weakness of the
+State's interest in administrative convenience. Every de-
+mand that might chill association therefore fails exacting
+scrutiny.
+The Attorney General tries to downplay the burden on
+donors, arguing that “there is no basis on which to conclude
+that California's requirement results in any broad-based
+chill.” Brief for Respondent 36. He emphasizes that “Cali-
+fornia's Schedule B requirement is confidential,” and he
+suggests that certain donors—like those who give to noncon-
+troversial charities—are unlikely to be deterred from con-
+tributing. Id., at 36–37. He also contends that disclosure
+to his office imposes no added burdens on donors because
+tax-exempt charities already provide their Schedule Bs to
+the IRS. Id., at 37.
+We are unpersuaded. Our cases have said that disclosure
+requirements can chill association “[e]ven if there [is] no dis-
+closure to the general public.” Shelton, 364 U. S., at 486.
+In Shelton, for example, we noted the “constant and heavy”
+pressure teachers would experience simply by disclosing
+their associational ties to their schools. Ibid. Exacting
+scrutiny is triggered by “state action which may have the
+effect of curtailing the freedom to associate,” and by the
+“possible deterrent effect” of disclosure. NAACP v. Ala-
+bama, 357 U. S., at 460–461 (emphasis added); see Talley v.
+California, 362 U. S. 60, 65 (1960) (“identification and fear of
+reprisal might deter perfectly peaceful discussions of public
+matters of importance” (emphasis added)). While assur-
+ances of confidentiality may reduce the burden of disclosure
+to the State, they do not eliminate it.*
+It is irrelevant, moreover, that some donors might not
+mind—or might even prefer—the disclosure of their identi-
+ties to the State. The disclosure requirement “creates an
+unnecessary risk of chilling” in violation of the First Amend-
+ment, Secretary of State of Md. v. Joseph H . Munson Co .,
+467 U. S. 947, 968 (1984), indiscriminately sweeping up the
+*Here the State's assurances of confidentiality are not worth much.
+The dissent acknowledges that the Foundation and Law Center “have un-
+questionably provided evidence that their donors face a reasonable proba-
+bility of threats, harassment, and reprisals if their affliations are made
+public,” but it concludes that the petitioners have no cause for concern
+because the Attorney General “has implemented security measures to en-
+sure that Schedule B information remains confidential.” Post, at 636–637
+(opinion of Sotomayor, J.). The District Court—whose findings, again,
+we review only for clear error—disagreed. After two full bench trials,
+the court found that the Attorney General's promise of confidentiality
+“rings hollow,” and that “[d]onors and potential donors would be reason-
+ably justified in a fear of disclosure.” Thomas More Law Center v. Har-
+ris, 2016 WL 6781090, *5 (CD Cal., Nov. 16, 2016).
+information of every major donor with reason to remain
+anonymous. The petitioners here, for example, introduced
+evidence that they and their supporters have been subjected
+to bomb threats, protests, stalking, and physical violence.
+App. in No. 19–251, at 256, 291–292. Such risks are height-
+ened in the 21st century and seem to grow with each passing
+year, as “anyone with access to a computer [can] compile a
+wealth of information about” anyone else, including such sen-
+sitive details as a person's home address or the school at-
+tended by his children. Reed, 561 U. S., at 208 (Alito , J.,
+concurring).
+The gravity of the privacy concerns in this context is fur-
+ther underscored by the filings of hundreds of organizations
+as amici curiae in support of the petitioners. Far from rep-
+resenting uniquely sensitive causes, these organizations span
+the ideological spectrum, and indeed the full range of human
+endeavors: from the American Civil Liberties Union to the
+Proposition 8 Legal Defense Fund; from the Council on
+American-Islamic Relations to the Zionist Organization of
+America; from Feeding America—Eastern Wisconsin to PBS
+Reno. The deterrent effect feared by these organizations is
+real and pervasive, even if their concerns are not shared by
+every single charity operating or raising funds in California.
+The dissent argues that—regardless of the defects in
+California's disclosure regime—a facial challenge cannot
+succeed unless a plaintiff shows that donors to a substantial
+number of organizations will be subjected to harassment
+and reprisals. See post, at 642, n. 11. As we have ex-
+plained, plaintiffs may be required to bear this evidentiary
+burden where the challenged regime is narrowly tailored to
+an important government interest. See supra, at 610–611.
+Such a demanding showing is not required, however,
+where—as here—the disclosure law fails to satisfy these
+criteria.
+Finally, California's demand for Schedule Bs cannot be
+saved by the fact that donor information is already disclosed
+to the IRS as a condition of federal tax-exempt status. For
+one thing, each governmental demand for disclosure brings
+with it an additional risk of chill. For another, revenue col-
+lection efforts and conferral of tax-exempt status may raise
+issues not presented by California's disclosure requirement,
+which can prevent charities from operating in the State alto-
+gether. See Regan v. Taxation With Representation of
+Wash., 461 U. S. 540, 545 (1983); see also Schaumburg, 444
+U. S., at 633 (First Amendment protects right to solicit chari-
+table contributions).
+We are left to conclude that the Attorney General's disclo-
+sure requirement imposes a widespread burden on donors'
+associational rights. And this burden cannot be justified on
+the ground that the regime is narrowly tailored to investi-
+gating charitable wrongdoing, or that the State's interest in
+administrative convenience is sufficiently important. We
+therefore hold that the up-front collection of Schedule Bs is
+facially unconstitutional, because it fails exacting scrutiny in
+“a substantial number of its applications . . . judged in rela-
+tion to [its] plainly legitimate sweep.” Stevens, 559 U. S., at
+473 (internal quotation marks omitted).
+The dissent concludes by saying that it would be “sympa-
+thetic” if we “had simply granted as-applied relief to peti-
+tioners based on [our] reading of the facts.” Post, at 646.
+But the pertinent facts in these cases are the same across
+the board: Schedule Bs are not used to initiate investigations.
+That is true in every case. California has not considered
+alternatives to indiscriminate up-front disclosure. That is
+true in every case. And the State's interest in amassing
+sensitive information for its own convenience is weak. That
+is true in every case. When it comes to the freedom of asso-
+ciation, the protections of the First Amendment are trig-
+gered not only by actual restrictions on an individual's ability
+to join with others to further shared goals. The risk of a
+chilling effect on association is enough, “[b]ecause First

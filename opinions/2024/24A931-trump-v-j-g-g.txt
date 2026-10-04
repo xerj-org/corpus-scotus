@@ -1,0 +1,112 @@
+Trump v. J. G. G. — No. 24A931 — October Term 2024 — decided 4/07/25 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 604 U.S. 670
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r25_7648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+of this order that they are subject to removal under the Act. The notice
+must be afforded within a reasonable time and in such a manner as will
+allow them to actually seek habeas relief in the proper venue before
+such removal occurs.
+Per Curiam.
+This matter concerns the detention and removal of Vene-
+zuelan nationals believed to be members of Tren de Aragua
+(TdA), an entity that the State Department has designated
+as a foreign terrorist organization. See 90 Fed. Reg. 10030
+(2025). The President issued Proclamation No. 10903, invok-
+ing the Alien Enemies Act (AEA), Rev. Stat. § 4067, 50
+U. S. C. § 21, to detain and remove Venezuelan nationals
+“who are members of TdA.” Invocation of the Alien Ene-
+mies Act Regarding the Invasion of the United States by
+Tren de Aragua, 90 Fed. Reg. 13034. Five detainees and a
+putative class sought injunctive and declaratory relief
+against the implementation of, and their removal under, the
+Proclamation. Initially, the detainees sought relief in ha-
+beas among other causes of action, but they dismissed their
+habeas claims. On March 15, 2025, the District Court for
+the District of Columbia issued two temporary restraining
+orders (TROs) preventing any removal of the named plain-
+tiffs and preventing removal under the AEA of a provision-
+ally certified class consisting of “[a]ll noncitizens in U. S. cus-
+tody who are subject to” the Proclamation. Minute Order
+on Motion To Certify Class in No. 25−cv−00766. On March
+28, the District Court extended the TROs for up to an addi-
+tional 14 days. See Fed. Rule Civ. Proc. 65(b)(2). The D. C.
+Circuit denied the Government's emergency motion to stay
+the orders. The Government then applied to this Court,
+seeking vacatur of the orders. We construe these TROs as
+appealable injunctions. See Carson v. American Brands,
+Inc., 450 U. S. 79, 84 (1981).
+We grant the application and vacate the TROs. The de-
+tainees seek equitable relief against the implementation of
+the Proclamation and against their removal under the AEA.
+They challenge the Government's interpretation of the Act
+and assert that they do not fall within the category of remov-
+able alien enemies. But we do not reach those arguments.
+Challenges to removal under the AEA, a statute which
+largely “ `preclude[s] judicial review,' ” Ludecke v. Watkins,
+335 U. S. 160, 163−164 (1948), must be brought in habeas. Cf.
+Heikkila v. Barber, 345 U. S. 229, 234−235 (1953) (holding
+that habeas was the only cause of action available to chal-
+lenge deportation under immigration statutes that “pre-
+clud[ed] judicial intervention” beyond what was necessary to
+vindicate due process rights). Regardless of whether the
+detainees formally request release from confinement, be-
+cause their claims for relief “ `necessarily imply the invalid-
+ity' ” of their confinement and removal under the AEA, their
+claims fall within the “core” of the writ of habeas corpus and
+thus must be brought in habeas. Cf. Nance v. Ward, 597
+U. S. 159, 167 (2022) (quoting Heck v. Humphrey, 512 U. S.
+477, 487 (1994)). And “immediate physical release [is not]
+the only remedy under the federal writ of habeas corpus.”
+Peyton v. Rowe, 391 U. S. 54, 67 (1968); see, e. g., Nance, 597
+U. S., at 167 (explaining that a capital prisoner may seek “to
+overturn his death sentence” in habeas by “analog[y]” to
+seeking release); In re Bonner , 151 U. S. 242, 254, 259 (1894).
+For “core habeas petitions,” “jurisdiction lies in only one dis-
+trict: the district of confinement.” Rumsfeld v. Padilla, 542
+U. S. 426, 443 (2004). The detainees are confined in Texas,
+so venue is improper in the District of Columbia. As a re-
+sult, the Government is likely to succeed on the merits of
+this action.
+The detainees also sought equitable relief against sum-
+mary removal. Although judicial review under the AEA is
+limited, we have held that an individual subject to detention
+and removal under that statute is entitled to “ `judicial re-
+view' ” as to “questions of interpretation and constitutional-
+ity” of the Act as well as whether he or she “is in fact an
+alien enemy fourteen years of age or older.” Ludecke, 335
+U. S., at 163−164, 172, n. 17. (Under the Proclamation, the
+term “alien enemy” is defined to include “all Venezuelan citi-
+zens 14 years of age or older who are members of TdA, are
+within the United States, and are not actually naturalized or
+lawful permanent residents of the United States.” 90 Fed.
+Reg. 13034.) The detainees' rights against summary re-
+moval, however, are not currently in dispute. The Govern-
+ment expressly agrees that “TdA members subject to re-
+moval under the Alien Enemies Act get judicial review.”
+Reply in Support of Application To Vacate 1. “It is well
+established that the Fifth Amendment entitles aliens to due
+process of law” in the context of removal proceedings. Reno
+v. Flores, 507 U. S. 292, 306 (1993). So, the detainees are
+entitled to notice and opportunity to be heard “appropriate
+to the nature of the case.” Mullane v. Central Hanover
+Bank & Trust Co., 339 U. S. 306, 313 (1950). More specifi-
+cally, in this context, AEA detainees must receive notice
+after the date of this order that they are subject to removal
+under the Act. The notice must be afforded within a reason-
+able time and in such a manner as will allow them to actually
+seek habeas relief in the proper venue before such removal
+occurs.
+For all the rhetoric of the dissents, today's order and per
+curiam confirm that the detainees subject to removal orders
+under the AEA are entitled to notice and an opportunity to
+challenge their removal. The only question is which court
+will resolve that challenge. For the reasons set forth, we
+hold that venue lies in the district of confinement. The dis-
+sents would have the Court delay resolving that issue,
+requiring—given our decision today—that the process begin
+anew down the road. We see no benefit in such wasteful
+delay.
+The application to vacate the orders of the United States
+District Court for the District of Columbia presented to The
+Chief Justice and by him referred to the Court is granted.
+The March 15, 2025, minute orders granting a temporary re-

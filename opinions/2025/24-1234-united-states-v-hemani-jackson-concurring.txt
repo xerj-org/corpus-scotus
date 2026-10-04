@@ -1,0 +1,155 @@
+United States v. Hemani — No. 24-1234 — October Term 2025 — decided 6/18/26 — JACKSON, J., concurring
+Citation: 608 U.S. 772
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1234_new_6k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+SUPREME COURT OF THE UNITED STATES
+No. 24–1234
+UNITED STATES, PETITIONER v. ALI
+DANIAL HEMANI
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+JUSTICE JACKSON, with whom JUSTICE SOTOMAYOR joins,
+concurring.
+I join the Court’s opinion in full because it correctly ap-
+plies our decisions in New York State Rifle & Pistol Assn.,
+Inc. v. Bruen, 597 U. S. 1 (2022), and United States v.
+Rahimi, 602 U. S. 680 (2024).  But I continue to believe that
+we veered off course in Bruen . See Rahimi, 602 U. S., at
+741 (concurring opinion). I write separately to emphasize
+that means-end scrutiny—the approach courts applied be-
+fore we adopted Bruen’s “history and tradition” metric—of-
+fers a more rational way of assessing the constitutionality
+of firearm regulations.
+As I and others have elsewhere explained, Bruen is un-
+workable. It imposes on judges the unfamiliar and difficult
+tasks of sifting through centuries-old evidence in order to
+answer “contested historical questions,” and “applying
+those answers to resolve cont emporary problems.”  597
+U. S., at 107 (Breyer, J., dissenting).  Given those chal-
+lenges, it is unsurprising that Bruen ’s test is vulnerable to
+inconsistent and arbitrary application, as judges draw dif-
+ferent conclusions from the sa me historical evidence and
+
+reach divergent assessments of the same laws.  See Rahimi,
+602 U. S., at 743 (JACKSON, J., concurring).1
+Perhaps worst of all, Bruen  leaves no room to consider
+“the real and present stakes of the problems facing our so-
+ciety today.”  Rahimi, 602 U. S., at 706 (S OTOMAYOR, J.,
+concurring).  Instead, to pass a new firearm regulation, leg-
+islatures and their lawyers are, as a practical matter, forced
+to trawl through inconclusive and incomplete historical rec-
+ords in search of evidence they can only hope will satisfy
+this Court. See id., at 747 (JACKSON, J., concurring).
+ The difficulties Bruen has created are all the more strik-
+ing when compared to the test it abolished: means-end scru-
+tiny. Under that framework, courts measured the strength
+of the government’s justification for the firearm restriction
+against the burden that restriction imposed on Second
+Amendment rights.  See Bruen, 597 U. S., at 18–19 (major-
+ity opinion). Courts applied “strict scrutiny if the burden”
+on Second Amendment rights was “severe” and “intermedi-
+ate scrutiny” if it was not. Id., at 103 (Breyer, J., dissent-
+ing). The means-end scrutiny assessment did not bind gov-
+ernments to the policy judgments of legislatures of yore, but
+neither did it operate as a blank check that allowed govern-
+ments to trample on a constitutional right.  See, e.g., New
+York State Rifle & Pistol Assn., Inc. v. Cuomo, 804 F. 3d
+242, 264 (CA2 2015) (holding that a state ban on magazines
+loaded with more than seven rounds of ammunition
+——————
+1 Lower court cases addressing the constitutionality of the federal ban
+on firearm possession by felons, see 18 U. S. C. §922(g)(1), provide a stark
+example of this incons istency.  Compare, e.g., United States v. Cocker-
+ham, 162 F. 4th 500, 504 (CA5 2025) (holding that §922(g)(1) is uncon -
+stitutional as applied to a defendant whose prior conviction was for fail-
+ing to pay child support), and Range v. Atty. Gen., 124 F. 4th 218, 232
+(CA3 2024) (en banc) (same, where the prior conviction was for making
+a false statement to obta in food stamps), with United States v. Duarte,
+137 F. 4th 743, 761–762 (CA9 2025) (categorically affirming the consti-
+tutionality of §922(g)(1) as applied to nonviolent felons), and United
+States v. Jackson, 110 F. 4th 1120, 1125, 1129 (CA8 2024) (similar).
+
+3  Cite as: 608 U. S. ____ (2026)
+JACKSON, J., concurring
+violated the Second Amendment), abrogated on other
+grounds by Bruen, 597 U. S. 1; Ezell v. Chicago, 651 F. 3d
+684, 708–709, 711 (CA7 2011) (preliminarily enjoining, un-
+der the Second Amendment, a city ordinance banning firing
+ranges).
+Constitutional adjudicati on through means-ends scru-
+tiny is squarely within the competence of courts.  Indeed,
+for other constitutional righ ts, courts regularly assess
+whether the government’s justification for a law is legiti -
+mate and whether the law’s operation is sufficiently tai-
+lored to promote that justification. See, e.g. , Reed v. Town
+of Gilbert , 576 U. S. 155, 164, 171–172 (2015) (applying
+strict scrutiny, under the Firs t Amendment, to a content-
+based restriction on speech); City of Austin v. Reagan Nat.
+Advertising of Austin, LLC , 596 U. S. 61, 69, 76–77 (2022)
+(holding that intermediate scrutiny, under the First
+Amendment, applied to a content-neutral law); Sessions  v.
+Morales-Santana, 582 U. S. 47, 58 (2017) (applying height-
+ened scrutiny, under the Fifth Amendment, to a
+gender-based immigration law); Johnson v. California, 543
+U. S. 499, 509 (2005) (applying strict scrutiny, under the
+Fourteenth Amendment, to a racial classification).  There
+is no reason why an approach that has worked well enough
+in these other contexts would pose a problem only for Sec-
+ond Amendment adjudication.
+Best of all, applying means-end scrutiny to firearm re-
+strictions like the 18 U. S. C. §922(g)(3) prosecution before
+us would be straightforward.2  We would be tasked with an-
+swering familiar questions: How severe is the law’s burden
+on Second Amendment rights? Does the government have
+a strong interest in preventing firearm possession by those
+“who pose a special danger of misuse”? Brief for United
+——————
+2 I opine only on the mechanics of the means-ends test; what result that
+test would produce here is not before us, since neither party asks us to
+overturn Bruen and apply means-ends scrutiny.
+
+States 12. And is §922(g)(3)’s ban on firearm possession by
+unlawful users of marijuana sufficiently tailored to that in-
+terest?
+Notably, even as the government and the Court endorse
+the Bruen framework, both seem to acknowledge the rele -
+vance of these questions.  For example, the government em-
+phasizes that the purpose (the “end”) of §922(g)(3) is to re-
+strict possession of firearms by people who pose a special
+risk of misuse.  See Brief for United States 12.  And, it
+claims, §922(g)(3) furthers that purpose by targeting people
+who, in Congress’s judgment, pose an increased risk of fire-
+arm misuse because they “regularly and routinely us[e]” il-
+legal drugs (the “means”). Tr. of Oral Arg. 17–18; see id.,
+at 59–60. This argument boils down to the idea that
+§922(g)(3) is sufficiently tailo red to Congress’s legitimate
+purpose of preventing firearm misuse.
+In response, this Court speaks in the same register. It
+rejects the government’s means-end calculus by suggesting
+that the government has not established that the actual
+purpose of §922(g)(3) is to disarm “unusually dangerous”
+people. Ante, at 16 (internal quotation marks omitted).  Us-
+ing the substances that trigg er application of §922(g)(3)
+even regularly does not, in the Court’s view, necessarily
+make users dangerous, violent, or otherwise susceptible to
+misusing firearms.  See ante, at 16–18. In other words, the
+Court’s discussion implies that §922(g)(3)’s operation is not
+sufficiently tailored to the go vernment’s stated purpose—
+precisely the issue to which means-end scrutiny would di -
+rect our focus.
+ Adding to Bruen’s weaknesses is the fact that its frame-
+work provides no clear role for this kind of tailoring discus-
+sion. But such analysis is key. Scrutinizing the fit between
+a challenged law’s justification and its operation is an es -
+sential part of any sensible framework for Second Amend-
+ment adjudication. In a future case that squarely presents
+the question, we should consider whether to retire the failed
+
+5  Cite as: 608 U. S. ____ (2026)
+JACKSON, J., concurring
+Bruen experiment and return to an explicit assessment of
+Congress’s ends and means when deciding the constitution-
+ality of firearm restrictions.

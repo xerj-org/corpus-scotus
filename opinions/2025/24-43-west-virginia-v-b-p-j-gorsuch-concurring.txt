@@ -1,0 +1,160 @@
+West Virginia v. B. P. J. — No. 24-43 — October Term 2025 — decided 6/30/26 — GORSUCH, J., concurring
+Citation: 609/2
+Source: https://www.supremecourt.gov/opinions/25pdf/24-43_2b35.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+SUPREME COURT OF THE UNITED STATES
+Nos. 24–43 and 24–38
+WEST VIRGINIA, ET AL., PETITIONERS
+24–43 v.
+B. P. J., BY HER NEXT FRIEND AND MOTHER, HEATHER
+JACKSON
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FOURTH CIRCUIT
+BRADLEY LITTLE, GOVERNOR OF IDAHO, ET AL.,
+PETITIONERS
+24–38 v.
+LINDSAY HECOX, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 30, 2026]
+ JUSTICE GORSUCH, concurring.
+I join the Court’s opinion and write to add two observa-
+tions about Title IX.
+First, “Title IX was enacted as an exercise of Congress’
+powers under the Spending Clause.” Jackson v. Birming-
+ham Bd. of Ed. , 544 U. S. 167, 181 (2005).  That provision
+of the Constitution does not allow Congress to regulate con-
+duct; instead, it only authorizes Congress to spend money.
+Medina v. Planned Parenthood South Atlantic , 606 U. S.
+357, 370–371 (2025).  Of course, Congress may seek to con-
+dition the funds it gives to others.  Id., at 365. But much as
+with any contract, a funding recipient must “ ‘voluntarily
+and knowingly’” assent to those conditions for them to bear
+any legal force. Id., at 373 (quoting Pennhurst State School
+and Hospital v. Halderman, 451 U. S. 1, 17 (1981)). And
+
+for a funding recipient to provide that kind of assent, Con -
+gress must “clearly and unambiguously” specify the condi-
+tions it expects the funding recipient to follow.  Medina, 606
+U. S., at 373, n. 4; see also Pennhurst, 451 U. S., at 17, 25.
+Nothing in Title IX clearly and unambiguously alerts
+funding recipients that they are prohibited from restricting
+a school-sponsored sports team to biological women or girls.
+Just consider the statute’s terms and the evidence before us
+about their original meaning.  Adopted in 1972, Title IX
+generally prohibits discrimination “on the basis of sex.”  20
+U. S. C. §1681.  As it is now, the term “sex” was commonly
+understood then to mean biological sex.  See, e.g., Webster’s
+New World Dictionary 1305 (2d ed. 1972).  And while Title
+IX generally prohibits discrimination on the basis of biolog-
+ical sex, Congress has taken pains to emphasize that “noth-
+ing” in its mandate “sh[ould] be construed” as forbidding
+separate-sex living facilities in school settings, signaling
+that sex separation doesn’t always amount to discrimina-
+tion under the statute. §1686. Shortly after the law’s adop-
+tion, too, Congress directed the Department of Health, Ed-
+ucation, and Welfare to publish implementing regulations
+addressing athletics.  Pub. L. 93–380, §844, 88 Stat. 612
+(1974). And the agency responded with regulations ex-
+pressly permitting schools to “sponsor separate teams for
+members of each sex.” 45 CFR §86.41(b) (1975), as recodi-
+fied, 34 CFR §106.41(b) (2025); see also Loper Bright Enter-
+prises v. Raimondo, 603 U. S. 369, 430 (2024) (GORSUCH, J.,
+concurring) (contemporaneousl y issued and longstanding
+regulations do not control but can supply evidence of statu-
+tory meaning). Putting all these pieces together, and con-
+sistent with the Court’s conclusion today, Title IX does not
+clearly and unambiguously alert funding recipients that
+they are prohibited from sponsoring sports teams restricted
+to biological women or girls.
+Second, Bostock v. Clayton County, 590 U. S. 644 (2020),
+supports, not undermines, the Court’s conclusion.  There,
+
+3  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+we faced the question whether firing an employee for being
+homosexual or transgender amounted to “discriminat[ion]
+. . . because of . . . sex” in violation of Title VII. Id., at 650–
+651, 655 (internal quotation marks omitted).  In answering
+that question, we took two things as given.  One, everyone
+agreed that firing an employ ee counts as “discrimination”
+in violation of Title VII if done because of sex.  See id., at
+681. Two, we read the word “sex” in Title VII to refer to
+biological sex.  Id., at 655.  Given all that, the only issue we
+had to resolve was whether discriminating against individ-
+uals for being homosexual or transgender qualifies as dis-
+crimination “because of ” their biological sex.  We held that
+it does. The statutory phrase “because of ” does not require
+biological sex to be the only cause animating discrimina-
+tion. Instead, that phrase merely requires biological sex to
+be one such cause. Id., at 656–659. And, as we detailed in
+our opinion, discriminating against a person for being ho-
+mosexual or transgender necessarily entails discriminating
+against that person at least in part because of his biological
+sex. Id., at 660.*
+All of that is consistent with the course the Court takes
+today. Title IX prohibits various types of discrimination “on
+the basis of sex.”  §1681(a).  The Court understands the
+term “sex” in Title IX to mean biological sex, just as we un-
+derstood that term in Title VII in Bostock. See ante, at 10.
+Likewise, the Court does not question that “on the basis of ”
+is perhaps but a synonym for “because of ” and thus does
+not require biological sex to be the sole cause of
+——————
+*Contra J USTICE JACKSON, post, at 3, this Court’s sex-stereotyping
+cases proceed similarly.  So, for exam ple, when an employer fires a fe -
+male employee for failing to conform to a sex stereotype, the employer
+does so both because of the employee’ s biological sex and because she is
+perceived to act in ways that defy  some stereotype the employer holds
+about her biological sex.  And give n that the employee’s biological sex
+constitutes one reason for her firing , the employer’s conduct implicates
+Title VII. See Bostock, 590 U. S., at 659–660, 662; see also Price Water-
+house v. Hopkins, 490 U. S. 228, 250–251 (1989) (plurality opinion).
+
+discrimination, just as we held in Bostock. See Franklin v.
+Gwinnett County Public Schools, 503 U. S. 60, 75 (1992).
+The difference between this case and Bostock is that we
+face here a question that wasn’t present there.  In Bostock,
+again, no one doubted that firing someone because of his
+biological sex qualified as “discrimination” under Title VII.
+See 590 U. S., at 681.  Here, though, we face the question
+whether it qualifies as discrimination under Title IX for a
+federal funding recipient to sponsor sports teams restricted
+to biological women or girls alone.  And for the reasons just
+laid out above and explored in depth by the Court, it does
+not. Title IX anticipates and approves single-sex living ac -
+commodations and sports teams in school settings; it does
+not treat them as unlawful discrimination.  See supra, at 2;
+ante, at 8–12.
+Put simply, it is a mistake to assume that, just because
+firing someone in part because of his biological sex amounts
+to unlawful discrimination in violation of Title VII, sponsor-
+ing a single-sex sports team limited to biological women or
+girls must also amount to unlawful discrimination in viola-
+tion of Title IX. It’s a point Bostock took care to underscore.
+As we put it, while “[f]iring employees because of a statuto-
+rily protected trait surely counts” as unlawful discrimina-
+tion under Title VII, the question “[w]hether other policies
+and practices might or might not qualify as unlawful dis-
+crimination” under Title VII itself or other provisions of law
+cannot be simply assumed but must be assessed with refer-
+ence to the policies in question and according to the rele-
+vant law’s terms. 590 U. S., at 681; see also ibid. (stressing
+that policies concerning “sex -segregated bathrooms, locker
+rooms, and dress codes”—and, one might add, school-spon-
+sored sports teams—were not before us).
+I appreciate that questions surrounding the participation
+of transgender athletes in women’s and girls’ sports are
+subjects of intense debate nationwide.  The questions sur-
+rounding Bostock were too.  But as there, our charge here
+
+5  Cite as: 609 U. S. ____ (2026)
+GORSUCH, J., concurring
+is not to resolve those debates, only to apply faithfully di-
+rectives found in a federal statute. And, as in Bostock, I
+believe the Court does that job today, reaching the result
+the law demands.

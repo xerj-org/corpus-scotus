@@ -1,0 +1,189 @@
+Stanley v. City of Sanford — No. 23-997 — October Term 2024 — decided 6/20/25 — Opinion of Gorsuch, J.
+Citation: 606 U.S. 46
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r53_5i36.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+III
+We took this case to resolve a circuit split over whether a
+retired employee who does not hold or seek a job is a “quali-
+fed individual” under Title I. In her merits briefing, Ms.
+Stanley invites us to address not just that question but an-
+other one, too. Even if § 12112(a) protects only those who
+hold or seek a job when a challenged act of discrimination
+occurs, she says, we should decide whether her complaint
+satisfies that standard. The government, as amicus, joins
+in this request. See Brief for United States as Amicus Cu-
+riae 26–28. Ordinarily, of course, this Court rejects at-
+tempts to inject “an entirely new question at the merits
+stage.” Post, at 71 (Thomas, J., concurring in part and con-
+curring in judgment). But we find it profitable to make an
+exception in this case, for while taking up Ms. Stanley's addi-
+tional question reveals some problems with her pleading, it
+also highlights how Title I might provide relief for retirees
+like her.
+In addressing this additional question, we take as given
+the Court's holding above that a plaintiff pursuing a claim
+under § 12112(a) must plead and prove that she held or
+here is the truth of it. Ms. Stanley petitioned this Court for certiorari,
+asking us to resolve a “long-running” circuit split concerning whether an
+individual who “no longer holds or seeks to hold” a job may sue under the
+Title I “for discrimination that harms her post-employment.” Pet. for
+Cert. 15. After we granted her petition, Ms. Stanley renewed her argu-
+ment that she had suffered actionable postemployment discrimination.
+Brief for Petitioner 24, 47. The City disagreed. Brief for Respondent
+27–36. There is nothing remarkable about this Court resolving that dis-
+pute and the question presented. To be sure, after we granted review,
+Ms. Stanley's merits briefs sought to inject an additional issue into the
+case, now arguing that she also suffered discrimination “while she was
+still employed.” Post, at 66 (Thomas, J., concurring in part and concur-
+ring in judgment). But to suggest that the case before us does not in-
+volve a postemployment discrimination, and that the Court “reaches out”
+to issue an “ `advisory opinio[n]' ” on the subject, ignores both why we took
+this case and the arguments of the parties before us. Post, at 76, 84, 98–
+99 (opinion of Jackson, J.).
+sought a job when the defendant discriminated against her
+on the basis of disability. We take as given, too, that unlaw-
+ful discrimination can take place at any one of three points
+in time: When a defendant “adopt[s]” a “discriminatory . . .
+practice,” when an individual “is affected by application of a
+discriminatory . . . practice,” or when she “becomes subject
+to” such a practice. § 2000e–5(e)(3)(A). With all that in
+mind, we turn to consider whether Ms. Stanley's pleading
+states a claim.
+Start with the first option. Unlawful discrimination oc-
+curs “when a discriminatory compensation decision or other
+practice is adopted.” § 2000e–5(e)(3)(A). Here, Ms. Stanley
+alleges that happened in 2003, when the City revised its
+health-insurance policy for employees who retire because of
+disability. Complaint ¶¶ 20–21. At that point, her allega-
+tions show, she was a “qualified individual,” working as a
+frefghter and able to perform the job's essential functions.
+See id., ¶¶ 13–15.
+The trouble for Ms. Stanley is that § 12112(a) does not pro-
+hibit disability-based discrimination in the abstract. In-
+stead, it bars an employer from “discriminat[ing] against a
+qualified individual on the basis of disability.” (Emphasis
+added.) “ `Discriminate against' means treat worse,” Muld-
+row v. St. Louis, 601 U. S. 346, 355 (2024), and “refers to
+distinctions or differences in treatment that injure protected
+individuals,” Burlington N. & S. F. R. Co. v. White, 548 U. S.
+53, 59 (2006). And Ms. Stanley's complaint provides no basis
+for inferring that the City's policy injured her in 2003. To
+the contrary, her complaint suggests that, when the City first
+issued its policy, she was not disabled and still expected to
+complete 25 years of service. See Complaint ¶ 15; see also
+Brief for Appellant in No. 22–10002 (CA11), p. 22, n. 5 (Ms.
+Stanley representing that she was “unaffected by” the City's
+actions as of 2003). So the first option is off the table for
+Ms. Stanley. Even so, it may be available to others who hap-
+pen to be retired at the time they sue, if they can plead and
+prove they were both disabled and “qualified” when their
+employer adopted a discriminatory retirement-benefits
+policy.4
+Turn next to the second option. Unlawful discrimination
+also occurs “when an individual is affected by application of
+a discriminatory compensation decision or other practice.”
+§ 2000e–5(e)(3)(A). Ms. Stanley alleges that happened to
+her in 2020, when her subsidized health insurance ran out.
+Complaint ¶ 26; see also Brief for Petitioner 24 (Ms. Stanley
+was “ `affected by application of' the policy” in “2020 when
+. . . she was denied the health care subsidy”); 83 F. 4th, at
+1343. By then, however, she had been retired for two years,
+could not satisfy the “requirements of” her job, and was not
+seeking employment. Complaint ¶ 16. So this option, too,
+cannot help Ms. Stanley. But, once more, it might help oth-
+ers who can show that they were affected by a policy change
+while they were “qualified individuals,” even if they happen
+to be retired by the time they bring suit.
+Now turn to the third option. Unlawful discrimination
+takes place when “an individual becomes subject to a dis-
+criminatory compensation decision or other practice.”
+§ 2000e–5(e)(3)(A). This option might be especially promis-
+ing for plaintiffs in Ms. Stanley's shoes. But, for reasons
+that take a little unpacking, it cannot form a basis for revers-
+ing the Eleventh Circuit's judgment in this particular case.
+4 To be clear, not every Title I plaintiff must plead and prove she had
+a disability when she suffered discrimination. As we have seen, § 12112(a)
+in its present form prohibits discrimination “against a qualified individual
+on the basis of disability.” (Emphasis added.) That provision does not
+require a qualified individual to be disabled. So, for instance, Title I de-
+fnes discrimination “on the basis of disability” to include associational
+discrimination—that is, discriminating against a qualified individual “be-
+cause of the known disability of an individual with whom the qualified
+individual is known to have a relationship or association.” § 12112(b)(4).
+In such cases, it does not matter whether the qualified individual also
+happened to have a disability. The difficulty for Ms. Stanley, however, is
+that her complaint does not allege anything along those lines either.
+Recall that Ms. Stanley's complaint does not allege what
+her disability is or when it emerged. As it happens, those
+facts came out later, after the district court dismissed her
+ADA claim, and after the parties proceeded to discovery and
+summary judgment on the remaining counts of her com-
+plaint. From this later-developed record, it appears that
+Ms. Stanley was diagnosed with Parkinson's disease in 2016.
+83 F. 4th, at 1336.
+The government argues that these later-developed facts
+are sufficient to state a claim. After all, during the 2-year
+period between her diagnosis in 2016 and her retirement in
+2018, Ms. Stanley was both “an individual with a disability”
+and a “qualified individual” who “could still perform the es-
+sential functions of her job.” Brief for United States as
+Amicus Curiae 26–27. During that critical window, too, the
+government submits, Ms. Stanley was “subject to” an “alleg-
+edly discriminatory benefits policy” that reduced her future
+retirement compensation. Id., at 26; see also Brief for Peti-
+tioner 25–26; post, at 79–80 (Jackson, J., dissenting).
+As promising as that theory may be, however, a number
+of case-specific problems prevent it from helping Ms. Stanley
+here. For starters, because this dispute comes to us on a
+motion to dismiss, we cannot look beyond the pleadings.
+See Fed. Rule Civ. Proc. 12(d). And her complaint says
+nothing about the timing or nature of her diagnosis, nor does
+it allege that she worked for any period of time with a dis-
+ability. To be sure, a court might, with a little more, draw
+a “plausible inference” that Ms. Stanley suffered discrimina-
+tion between 2016 and 2018. See Ashcroft v. Iqbal, 556 U. S.
+662, 682 (2009). So, for instance, if she had alleged that she
+developed Parkinson's disease before 2018, or that she
+worked for any period with some disability, then her case
+could likely proceed. But the complaint before us does not
+contain any of those facts.
+Even assuming we could overcome that problem, we would
+only face another. The Eleventh Circuit held that Ms. Stan-
+ley had affirmatively disavowed the government's theory.
+For support, the court pointed to Ms. Stanley's representa-
+tion in her brief below that she did “not claim she was im-
+pacted by the discriminatory” City policy “during her em-
+ployment.” Brief for Appellant in No. 22–10002, at 22. To
+be sure, at oral argument Ms. Stanley told the court of ap-
+peals otherwise. Recording of Oral Arg. in No. 22–10002
+(CA11, Aug. 24, 2023), at 2:45–2:58. And she attempted to
+adopt an amicus brief the government submitted to the
+Eleventh Circuit, advancing a theory much like the one it
+presses here. See Brief for United States as Amicus Cu-
+riae in No. 22–10002 (CA11), pp. 11–12. But applying its
+own rules of argument preservation, the Eleventh Circuit
+declined to pass on the government's theory because Ms.
+Stanley had not presented it to the district court and had
+“specifically disclaimed” it in her “own brief” on appeal. 83
+F. 4th, at 1344. 5
+Complicating matters further yet, Ms. Stanley has not ex-
+pressly asked us to address the Eleventh Circuit's preserva-
+tion rules. Nor has she asked us to reconsider our own gen-
+eral practice of allowing the courts of appeals to determine
+for themselves what arguments they deem properly before
+them. See, e. g., Exxon Shipping Co. v. Baker, 554 U. S. 471,
+487 (2008); Singleton v. Wulff, 428 U. S. 106, 121 (1976); cf.
+Retirement Plans Comm. of IBM v. Jander, 589 U. S. 49, 52–
+53 (2020) (Kagan, J., concurring) (“[T]he Court of Appeals
+may of course determine that under its usual rules of waiver
+or forfeiture, it will not consider those arguments”). So
+even if Ms. Stanley's complaint contained sufficient facts to
+5 While Ms. Stanley disclaimed being “impacted” by the City's policy
+during her employment, Justice Jackson believes that Ms. Stanley some-
+how still preserved the government's theory that she was “subject to”
+discrimination before she retired. Post, at 80–81. The Eleventh Circuit,
+however, did not see it that way. Nor does the dissent explain how, con-
+sistent with Article III, an individual can challenge a policy that she is
+“subject to” but that does not injure (or “impact”) her. See Brief for
+United States as Amicus Curiae 25, n. 5 (acknowledging the injury
+requirement).

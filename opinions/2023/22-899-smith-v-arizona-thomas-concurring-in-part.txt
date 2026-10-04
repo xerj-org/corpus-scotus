@@ -1,0 +1,75 @@
+Smith v. Arizona — No. 22-899 — October Term 2023 — decided 6/21/24 — Thomas, J., concurring in part
+Citation: 602 U.S. 779
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r44_kjfm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+unavailable and the defendant has had a prior chance to
+cross-examine her. See Crawford , 541 U. S., at 68;
+Melendez-Diaz, 557 U. S., at 311. Neither may the State in-
+troduce those statements through a surrogate analyst who
+did not participate in their creation. See Bullcoming, 564
+U. S., at 663. And nothing changes if the surrogate—as in
+this case—presents the out-of-court statements as the basis
+for his expert opinion. Those statements, as we have ex-
+plained, come into evidence for their truth—because only if
+true can they provide a reason to credit the substitute ex-
+pert. So a defendant has the right to cross-examine the per-
+son who made them.
+That means Arizona does not escape the Confrontation
+Clause just because Rast's records came in to explain the
+basis of Longoni's opinion. The Arizona Court of Appeals
+thought otherwise, and so we vacate its judgment. To ad-
+dress the additional issue of whether Rast's records were
+testimonial (including whether that issue was forfeited), we
+remand the case for further proceedings not inconsistent
+with this opinion.
+It is so ordered.
+Justice Thomas, concurring in part.
+I join the Court in all but Part III of its opinion. The
+Sixth Amendment's Confrontation Clause provides: “In all
+criminal prosecutions, the accused shall enjoy the right . . . to
+be confronted with the witnesses against him.” This Clause
+bars the admission of an absent witness's testimonial state-
+ments for their truth, unless the witness is unavailable and the
+defendant previously had an opportunity to cross-examine
+that witness. See Crawford v. Washington, 541 U. S. 36,
+50–56, 60, n. 9 (2004). Today, the Court correctly concludes
+that “[w]hen an expert conveys an absent analyst's state-
+ments in support of his opinion, and the statements provide
+that support only if true, then the statements come into evi-
+dence for their truth.” Ante, at 783; see also Williams v.
+Illinois, 567 U. S. 50, 106 (2012) (Thomas, J., concurring in
+judgment). But, a question remains whether that analyst's
+statements were testimonial. I agree with the Court that,
+because the courts below did not consider this question, we
+should remand for the Arizona Court of Appeals to answer
+it in the first instance. Ante, at 801. But, I disagree with
+the Court's suggestion that the Arizona Court of Appeals
+should answer that question by looking to each statement's
+“primary purpose.” Ante, at 801–802.
+I continue to adhere to my view that “the Confrontation
+Clause is implicated by extrajudicial statements only insofar
+as they are contained in formalized testimonial materials,
+such as affdavits, depositions, prior testimony, or confes-
+sions.”* White v. Illinois , 502 U. S. 346, 365 (1992)
+(Thomas, J., concurring in part and concurring in judgment);
+see also Ohio v. Clark, 576 U. S. 237, 254–255 (2015)
+(Thomas, J., concurring in judgment); Williams, 567 U. S.,
+at 110–111 (opinion of Thomas, J.); Michigan v. Bryant, 562
+U. S. 344, 379 (2011) (Thomas, J., concurring in judgment);
+Melendez-Diaz v. Massachusetts, 557 U. S. 305, 329 (2009)
+(Thomas, J., concurring); Giles v. California, 554 U. S. 353,
+377–378 (2008) (Thomas, J., concurring); Davis v. Washing-
+ton, 547 U. S. 813, 837 (2006) (opinion of Thomas, J.); Lilly v.
+Virginia, 527 U. S. 116, 143 (1999) (Thomas, J., concurring
+in part and concurring in judgment). The Confrontation
+Clause guarantees a criminal defendant “the right . . . to be
+confronted with the witnesses against him.” Amdt. 6. As
+I have previously explained, “[w]itnesses . . . are those who
+bear testimony. And testimony is a solemn declaration or
+affrmation made for the purpose of establishing or proving
+some fact.” Davis, 547 U. S., at 836 (opinion of Thomas, J.)
+(citations, internal quotation marks, and alterations omitted).
+*The Confrontation Clause “also reaches the use of technically informal
+statements when used to evade the formalized process .” Davis v. Wash-
+ington, 547 U. S. 813, 838 (2006) (Thomas, J., concurring in judgment in
+part and dissenting in part).

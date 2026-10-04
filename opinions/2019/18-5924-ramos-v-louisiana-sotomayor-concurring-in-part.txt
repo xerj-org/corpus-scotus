@@ -1,0 +1,146 @@
+Ramos v. Louisiana — No. 18-5924 — October Term 2019 — decided 4/20/20 — Sotomayor, J., concurring in part
+Citation: 590 U.S. 83
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=99 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+interest we all share in the preservation of our constitution-
+ally promised liberties. Indeed, the dissent can cite no case
+in which the one-time need to retry defendants has ever been
+sufficient to inter a constitutional right forever.
+In the final accounting, the dissent's stare decisis argu-
+ments round to zero. We have an admittedly mistaken deci-
+sion, on a constitutional issue, an outlier on the day it was
+decided, one that's become lonelier with time. In arguing
+otherwise, the dissent must elide the reliance the American
+people place in their constitutionally protected liberties,
+overplay the competing interests of two States, count some
+of those interests twice, and make no small amount of new
+precedent all its own.
+V
+On what ground would anyone have us leave Mr. Ramos
+in prison for the rest of his life? Not a single Member of
+this Court is prepared to say Louisiana secured his convic-
+tion constitutionally under the Sixth Amendment. No one
+before us suggests that the error was harmless. Louisiana
+does not claim precedent commands an affirmance. In the
+end, the best anyone can seem to muster against Mr. Ramos
+is that, if we dared to admit in his case what we all know to
+be true about the Sixth Amendment, we might have to say
+the same in some others. But where is the justice in that?
+Every judge must learn to live with the fact he or she will
+make some mistakes; it comes with the territory. But it is
+something else entirely to perpetuate something we all know
+to be wrong only because we fear the consequences of being
+right. The judgment of the Court of Appeals is
+Reversed.
+Justice Sotomayor, concurring as to all but Part IV–A.
+I agree with most of the Court's rationale, and so I join all
+but Part IV–A of its opinion. I write separately, however,
+to underscore three points. First, overruling precedent
+here is not only warranted, but compelled. Second, the in-
+terests at stake point far more clearly to that outcome than
+those in other recent cases. And finally, the racially biased
+origins of the Louisiana and Oregon laws uniquely matter
+here.
+I
+Both the majority and the dissent rightly emphasize that
+stare decisis “has been a fundamental part of our jurispru-
+dence since the founding.” Post, at 150 (opinion of Alito,
+J.); see ante, at 105. Indeed, “[w]e generally adhere to our
+prior decisions, even if we question their soundness, because
+doing so `promotes the evenhanded, predictable, and consist-
+ent development of legal principles, fosters reliance on judi-
+cial decisions, and contributes to the actual and perceived
+integrity of the judicial process.' ” Alleyne v. United States,
+570 U. S. 99, 118 (2013) (Sotomayor , J., concurring) (quoting
+Payne v. Tennessee, 501 U. S. 808, 827 (1991)).
+But put simply, this is not a case where we cast aside prec-
+edent “simply because a majority of this Court now dis-
+agrees with” it. Alleyne, 570 U. S., at 133 (Alito , J., dis-
+senting). Rather, Apodaca v. Oregon, 406 U. S. 404 (1972),
+was on shaky ground from the start. That was not because
+of the functionalist analysis of that Court's plurality: Reason-
+able minds have disagreed over time—and continue to dis-
+agree—about the best mode of constitutional interpretation.
+That the plurality in Apodaca used different interpretive
+tools from the majority here is not a reason on its own to
+discard precedent.
+What matters instead is that, as the majority rightly
+stresses, Apodaca is a universe of one—an opinion uniquely
+irreconcilable with not just one, but two, strands of constitu-
+tional precedent well established both before and after the
+decision. The Court has long recognized that the Sixth
+Amendment requires unanimity. Ante, at 96, 106–108. Five
+Justices in Apodaca itself disagreed with that plurality's con-
+trary view of the Sixth Amendment. Justice Powell's the-
+ory of dual-track incorporation also fared no better: He rec-
+ognized that his argument on that score came “late in the
+day.” Johnson v. Louisiana, 406 U. S. 356, 375 (1972) (con-
+curring opinion).
+Moreover, “[t]he force of stare decisis is at its nadir in
+cases concerning [criminal] procedur[e] rules that implicate
+fundamental constitutional protections.” Alleyne, 570 U. S.,
+at 116, n. 5. And the constitutional protection here ranks
+among the most essential: the right to put the State to its
+burden, in a jury trial that comports with the Sixth Amend-
+ment, before facing criminal punishment. See Codispoti v.
+Pennsylvania, 418 U. S. 506, 515–516 (1974) (“The Sixth
+Amendment represents a deep commitment of the Nation
+to the right of jury trial in serious criminal cases as a de-
+fense against arbitrary law enforcement” (internal quotation
+marks omitted)). Where the State's power to imprison
+those like Ramos rests on an erroneous interpretation of the
+jury-trial right, the Court should not hesitate to reconsider
+its precedents.
+II
+In contrast to the criminal-procedure context, “[c]onsider-
+ations in favor of stare decisis are at their acme in cases
+involving property and contract rights.” Payne, 501 U. S.,
+at 828. Despite that fact, the Court has recently overruled
+precedent where the Court's shift threatened vast regula-
+tory and economic consequences. Janus v. State, County,
+and Municipal Employees, 585 U. S. 878 (2018); id., at 952
+(Kagan, J., dissenting) (noting that the Court's opinion called
+into question “thousands of . . . contracts covering millions
+of workers”); see South Dakota v. Wayfair, Inc., 585 U. S.
+162, 186 (2018) (noting the “legitimate” burdens that the
+Court's overruling of precedent would place on vendors who
+had started businesses in reliance on a previous decision).
+This case, by contrast, threatens no broad upheaval of pri-
+vate economic rights. Particularly when compared to the
+interests of private parties who have structured their affairs
+in reliance on our decisions, the States' interests here in
+avoiding a modest number of retrials—emphasized at such
+length by the dissent—are much less weighty. They are
+certainly not new: Opinions that force changes in a State's
+criminal procedure typically impose such costs. And were
+this Court to take the dissent's approach—defending
+criminal-procedure opinions as wrong as Apodaca simply to
+avoid burdening criminal justice systems—it would never
+correct its criminal jurisprudence at all.
+To pick up on the majority's point, ante, at 108, in that
+alternate universe, a trial judge alone could still decide the
+critical facts necessary to sentence a defendant to death.
+Walton v. Arizona, 497 U. S. 639 (1990), overruled by Ring
+v. Arizona, 536 U. S. 584 (2002). An officer would still be
+able to search a car upon the arrest of any one of its recent
+occupants. New York v. Belton, 453 U. S. 454 (1981), holding
+limited by Arizona v. Gant, 556 U. S. 332 (2009). And
+States could still deprive a defendant of the right to confront
+her accuser so long as the incriminating statement was “reli-
+able.” Ohio v. Roberts, 448 U. S. 56 (1980), abrogated by
+Crawford v. Washington, 541 U. S. 36 (2004). The Constitu-
+tion demands more than the continued use of flawed criminal
+procedures—all because the Court fears the consequences of
+changing course.
+III
+Finally, the majority vividly describes the legacy of racism
+that generated Louisiana's and Oregon's laws. Ante, at 87–
+88, 99–100, and n. 44. Although Ramos does not bring an
+equal protection challenge, the history is worthy of this
+Court's attention. That is not simply because that legacy ex-
+isted in the first place—unfortunately, many laws and policies
+in this country have had some history of racial animus—but
+also because the States' legislatures never truly grappled with
+the laws' sordid history in reenacting them. See generally
+United States v. Fordice, 505 U. S. 717, 729 (1992) (policies
+that are “traceable” to a State's de jure racial segregation

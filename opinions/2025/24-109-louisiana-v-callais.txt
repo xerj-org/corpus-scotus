@@ -1,0 +1,1170 @@
+Louisiana v. Callais — No. 24-109 — October Term 2025 — decided 4/29/26 — opinion of the Court — author Alito (listing code A)
+Citation: 608 U.S. 85
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r29_n648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Alito delivered the opinion of the Court.
+Section 2 of the Voting Rights Act of 1965, 52 U. S. C.
+§ 10301 et seq., was designed to enforce the Constitution—not
+Carter et al. by LaRue L. Robinson; for Travis Crum by Rakesh N. Ki-
+laru, Daniel Epps, and Travis Crum, pro se; for Edward Galmon, Sr.,
+et al. by Abha Khanna, Lalitha D. Madduri, and Jacob D. Shelly; and for
+Ellen D. Katz et al. by Joshua Matz and Trisha Anderson. James F.
+Blumstein, pro se , fled a brief as amicus curiae urging vacatur and re-
+mand in both cases.
+Briefs of amici curiae urging affirmance in both cases were fled for the
+State of Alabama et al. by Steve Marshall, Attorney General of Alabama,
+Edmund G. LaCour, Jr., Solicitor General, Robert M. Overing, Deputy
+Solicitor General, and Dylan Mauldin and George Muirhead, Assistant
+Solicitors General, and by the Attorneys General for their respective
+States as follows: Stephen J. Cox of Alaska, James Uthmeier of Florida,
+Christopher M. Carr of Georgia, Raúl R. Labrador of Idaho, Theodore E.
+Rokita of Indiana, Brenna Bird of Iowa, Kris W. Kobach of Kansas, Lynn
+Fitch of Mississippi, Austin Knudsen of Montana, Michael T. Hilgers of
+Nebraska, Drew Wrigley of North Dakota, Gentner Drummond of Okla-
+homa, Alan Wilson of South Carolina, Jonathan Skrmetti of Tennessee,
+and John B. McCuskey of West Virginia; for the State of Missouri by
+Catherine L. Hanaway, Attorney General of Missouri, and Louis J. Ca-
+pozzi III, Solicitor General; for the Town of Newburgh by Misha Tseytlin
+and Kevin M. LeRoy; for the America First Legal Foundation by Jona-
+than F. Mitchell, Adam K. Mortara, and Gene P . Hamilton; for the Center
+for Election Confidence by Bradley A. Benbrook and Stephen M. Duver-
+nay; for Judicial Watch, Inc., et al. by T. Russell Nobile; for the Landmark
+Legal Foundation by Matthew C. Forys, Michael J. O'Neill, and Richard
+P . Hutchison; for the Pacific Legal Foundation by Christopher M. Kieser
+and Joshua P . Thompson; for the Project on Fair Representation by
+Christopher E. Mills; and for the Public Interest Legal Foundation et al.
+by J. Christian Adams.
+Briefs of amici curiae were fled in both cases for Independent State
+Redistricting Commissioners by John A. Freedman, Nancy L. Perkins,
+and Justin Levitt; for the Lawyers' Committee for Civil Rights Under
+Law et al. by Damon T. Hewitt and Robert Weiner; for the Lincoln Club
+of Orange County et al. by Mark P . Meuser, Michael Columbo, and Karin
+M. Sweigart; for Louisiana Mathematics Professors et al. by Sam Hirsch,
+Jessica Ring Amunson, Arjun R. Ramamurti, Judy Y . Barrasso, and Mi-
+thun B. Kamath; for the National Conference of Black Lawyers et al. by
+Jeanne Mirer and Jenipher R. Jones; for the Navajo Nation by Patricia
+collide with it. Unfortunately, lower courts have sometimes
+applied this Court's § 2 precedents in a way that forces
+States to engage in the very race-based discrimination that
+the Constitution forbids.
+This tension between § 2 and the Constitution came to a
+head when Louisiana redrew its congressional districts after
+the 2020 census. In 2022, a federal judge in the Middle Dis-
+trict of Louisiana held that the map adopted by the state
+legislature likely violated § 2 because it did not include an
+additional majority-black district. But when the State drew
+a new map that contained such a district, its new map was
+challenged as a racial gerrymander. A three-judge court in
+the Western District of Louisiana held that the new map
+violated the Equal Protection Clause, and the State appealed
+to this Court.
+The parties originally briefed and argued this suit last
+Term, and their arguments at that time highlighted prob-
+lems in the existing body of § 2 case law. One problem re-
+sulted from the rule that in racial gerrymandering cases, un-
+like other cases involving claims of racial discrimination, see,
+e. g., Arlington Heights v. Metropolitan Housing Develop-
+ment Corp ., 429 U. S. 252, 265–266 (1977), strict scrutiny is
+triggered only if race “predominated” in the State's decision-
+making process. In this suit, Louisiana adopted the chal-
+lenged map and created the second majority-black district
+because it quite reasonably anticipated that, if it did not do
+so, the Middle District of Louisiana would order the use of a
+map with a differently confgured second majority-black dis-
+trict that would effectively oust an incumbent whom the leg-
+islature sought to protect. Under our existing case law, that
+Ferguson-Bohnee and Sage G. Metoxen; for W. Kerrel Murray by Kyle
+Edwards Haugh and Joshua A. Geltzer; for Former Republican Gov. Ar-
+nold Schwarzenegger et al. by Alexander F. Atkins, Maithreyi Rata-
+konda, Christine P . Sun, and Kathleen Hartnett; and for Nicholas O. Ste-
+phanopoulos by Joshua Karsh.
+situation posed the question whether race or politics was the
+State's “predominant” motivation.
+Another problem stemmed from the long-unresolved ques-
+tion whether compliance with the Voting Rights Act pro-
+vides a compelling reason that may justify the intentional
+use of race in drawing legislative districts. For over 30
+years, we have assumed for the sake of argument that the
+answer is yes. See infra, at 99–101. And we have gone fur-
+ther and assumed that it is enough if a State “ `ha[s] a strong
+basis in evidence' ” for thinking that the Voting Rights Act
+requires race-based conduct. Cooper v. Harris, 581 U. S.
+285, 292–293 (2017). But allowing race to play any part in
+government decisionmaking represents a departure from the
+constitutional rule that applies in almost every other context.
+These and other problems convinced us that the time had
+come to resolve whether compliance with the Voting Rights
+Act can indeed provide a compelling reason for race-based
+districting. We now answer that question: Compliance with
+§ 2, as properly construed, can provide such a reason. Cor-
+rectly understood, § 2 does not impose liability at odds with
+the Constitution, and it should not have imposed liability on
+Louisiana for its 2022 map. Compliance with § 2 thus could
+not justify the State's use of race-based redistricting here.
+The State's attempt to satisfy the Middle District's ruling,
+although understandable, was an unconstitutional racial ger-
+rymander, and we therefore affirm the decision below.
+I
+A
+Ratified in 1870, the Fifteenth Amendment provides that
+the “right of citizens of the United States to vote shall not
+be denied or abridged by the United States or by any State
+on account of race, color, or previous condition of servitude.”
+For many years afterward, however, States “heavily sup-
+pressed” the right of black citizens to vote. Brnovich v.
+Democratic National Committee , 594 U. S. 647, 655 (2021).
+“States employed a variety of notorious methods, including
+poll taxes, literacy tests, property qualifications, white pri-
+maries, and grandfather clauses,” in a “blatant” effort to sup-
+press black voting. Id., at 655–656, and n. 1 (citing H. R.
+Rep. No. 439, 89th Cong., 1st Sess., 8, 11–13 (1965); S. Rep.
+No. 162, 89th Cong., 1st Sess., pt. 3, pp. 4–5 (1965); brackets
+and internal quotation marks omitted). Even “as late as the
+mid-1960s, black registration and voting rates in some States
+were appallingly low.” Brnovich, 594 U. S., at 656; see
+South Carolina v. Katzenbach, 383 U. S. 301, 309–315 (1966).
+In addition, States employed legislative districting schemes
+to prevent the election of black candidates and candidates
+that black voters preferred. See Alexander v. South Caro-
+lina State Conference of NAACP , 602 U. S. 1, 35 (2024); Go-
+million v. Lightfoot, 364 U. S. 339, 341 (1960).
+Section 2 of the Fifteenth Amendment authorizes Con-
+gress to enact “appropriate legislation” to enforce the
+Amendment's protections, and in 1965 Congress invoked that
+power to enact the Voting Rights Act. Brnovich, 594 U. S.,
+at 655. “The Act and its amendments in the 1970s specifi-
+cally forbade some of the practices that had been used to
+suppress black voting,” including literacy tests and poll
+taxes. Id., at 656; see 52 U. S. C. § 10301; §§ 4(a), (c), 79 Stat.
+438–439; § 6, 84 Stat. 315; § 102, 89 Stat. 400, as amended, 52
+U. S. C. §§ 10303(a), (c), 10501 (prohibiting the denial of the
+right to vote in any election for failure to pass a test demon-
+strating literacy, educational achievement or knowledge of
+any particular subject, or good moral character); see also
+§ 10, 79 Stat. 442, as amended, 52 U. S. C. § 10306 (declaring
+poll taxes unlawful); § 11, 79 Stat. 443, as amended, 52
+U. S. C. § 10307 (prohibiting intimidation and the refusal to
+allow or count votes). We upheld many of these provisions
+in Katzenbach, 383 U. S., at 316, 327–337.
+Section 2 of the Voting Rights Act in its original form
+“closely tracked the language of the Amendment it was
+adopted to enforce.” Brnovich, 594 U. S., at 656. At that
+time, § 2 stated simply that “[n]o voting qualification or pre-
+requisite to voting, or standard, practice, or procedure shall
+be imposed or applied by any State or political subdivision
+to deny or abridge the right of any citizen of the United
+States to vote on account of race or color.” 79 Stat. 437.
+In Mobile v. Bolden, 446 U. S. 55 (1980), the Court inter-
+preted this language, and four Justices concluded in a plural-
+ity opinion that “facially neutral voting practices violate § 2
+only if motivated by a discriminatory purpose.” Brnovich,
+594 U. S., at 658. Justice Stevens, who concurred in the
+judgment, proposed a different but similarly demanding
+standard. See Bolden, 446 U. S., at 90–94. Indeed, in his
+view, a districting practice, even if motivated in part by race,
+would not violate § 2 so long as it was “supported by valid
+and articulable justifications.” Id., at 91–92.
+Bolden roused “ `an avalanche of criticism, both in the
+media and within the civil rights community.' ” Allen v.
+Milligan, 599 U. S. 1, 11 (2023) (quoting T. Boyd & S. Mark-
+man, The 1982 Amendments to the Voting Rights Act: A
+Legislative History, 40 Wash. & Lee L. Rev. 1347, 1355
+(1983)). Critics argued that a focus on discriminatory in-
+tent, rather than discriminatory effects, would defeat worthy
+claims because of the difficulty of proving intentional dis-
+crimination. See 599 U. S., at 11.
+Members of Congress evidently shared these concerns.
+In 1982, shortly after Bolden, Congress sought to abrogate
+that decision by amending § 2. A House bill was “originally
+passed . . . under a loose understanding that § 2 would pro-
+hibit all discriminatory `effects' of voting practices, and that
+intent would be `irrelevant,' ” but “[t]his version met stiff
+resistance in the Senate.” Mississippi Republican Execu-
+tive Comm. v. Brooks, 469 U. S. 1002, 1010 (1984) (Rehnquist,
+J., dissenting) (quoting H. R. Rep. No. 97–227, p. 29 (1981)).
+Critics worried that an effects test would lead to “manda-
+t[ory] racial proportionality in elections,” a scenario “re-
+garded by many as intolerable.” Allen, 599 U. S., at 12.
+The House and Senate eventually compromised, and the final
+product included both an effects test in § 2(a) and a “robust
+disclaimer against proportionality” in § 2(b). Id., at 13.
+This latter provision also specifies what a plaintiff must
+establish to prove a § 2 violation. The provision requires
+consideration of the “totality of circumstances” in each case
+and demands proof that the “political processes leading to
+nomination or election in the State or political subdivision
+are not equally open to participation” by members of a pro-
+tected class “ in that its members have less opportunity than
+other members of the electorate to participate in the political
+process and to elect representatives of their choice.” 52
+U. S. C. § 10301(b) (emphasis added). Congress took this lan-
+guage almost verbatim from Justice White's opinion for the
+Court in White v. Regester, 412 U. S. 755 (1973), which in-
+volved a “vote dilution” claim, i. e., a claim that a districting
+scheme impermissibly lessens the weight of the votes of mi-
+nority voters.
+In White, the Court affirmed a judgment that Texas had
+used two multimember electoral districts “invidiously to can-
+cel out or minimize the voting strength of racial groups.”
+Id., at 765. According to White, a vote-dilution plaintiff had
+to show that “the political processes leading to nomination
+and election were not equally open to participation by the
+group in question—that its members had less opportunity
+than did other residents in the district to participate in the
+political processes and to elect legislators of their choice.”
+Id., at 766.
+The decision in White did not say anything one way or
+another about proof of discriminatory purpose or intent, but
+the Court's rationale rested on evidence that gave rise to an
+obvious inference that the State had set out to prevent the
+election of candidates preferred by minority voters. The
+Texas districting scheme generally used single-member dis-
+tricts but employed multimember districts in two parts of
+the State where single-member districts might have resulted
+in the election of minority candidates. The Court observed
+that the use of multimember districts is not “necessarily” or
+“per se” unconstitutional, but it recognized that such dis-
+tricts can be employed to achieve discriminatory ends. Id.,
+at 765; see also Perkins v. Matthews, 400 U. S. 379, 389 (1971)
+(observing that a switch to at-large elections could be a
+“metho[d] to maintain white control of the political process”);
+Allen v. State Bd. of Elections, 393 U. S. 544, 569 (1969) (ex-
+plaining that a change to at-large voting could nullify the
+ability of minority voters to elect their candidate of choice).
+The Court also cited strong evidence that the legislature had
+done so in the case at hand. Writing at a time when the
+Democratic Party was dominant in much of Texas, the Court
+noted that a “white-dominated organization,” which had “ef-
+fective control” over candidate slating within that party, had
+engaged in “ `racial campaign tactics in white precincts to
+defeat candidates who had the overwhelming support of the
+black community,' ” thereby “ `effectively exclud[ing]' ” the
+black community “ `from participation in the Democratic pri-
+mary selection process.' ” White, 412 U. S., at 766–767.
+The Court likewise cited evidence that the legislature had
+“invidiously excluded Mexican-Americans from effective par-
+ticipation in political life, specifically in the election of repre-
+sentatives to the Texas House of Representatives.” Id., at
+769. Thus, White presented a situation in which circum-
+stantial evidence suggested very strongly that the State had
+created multimember districts for the purpose of diluting mi-
+nority votes.
+A few years later, when Congress looked for language that
+would abrogate Mobile v. Bolden's interpretation of § 2,
+it selected terms that were nearly identical to language used
+in White. The accompanying Report of the Senate Judiciary
+Committee explained that the amendment's purpose was
+to repudiate Bolden and establish a new votedilution test
+based on White. See S. Rep. No. 97–417, pp. 2, 15–16, 27
+(1982).
+B
+This Court first construed the amended version of § 2 in
+Thornburg v. Gingles, 478 U. S. 30 (1986). Gingles con-
+cerned a challenge to North Carolina's multimember district-
+ing scheme on the ground that it diluted the vote of black
+citizens. Id., at 34–36. Gingles was decided at a time when
+this Court often paid insufficient attention to the language
+of statutory provisions, and Justice Brennan's opinion for the
+Court followed this pattern. Instead of analyzing what the
+statute said, the opinion simply “quoted the text of amended
+§ 2 and then jumped right to the Senate Judiciary Committee
+Report.” Brnovich, 594 U. S., at 667; see Gingles, 478 U. S.,
+at 42–46. Relying heavily on that Report, the opinion set
+out three threshold requirements for proving a § 2 vote-
+dilution claim, plus a nonexhaustive list of factors to be con-
+sidered in making a final decision as to whether the State
+had violated § 2. See id., at 44–45, 48–51, 80.
+To succeed in proving a § 2 violation, Gingles taught, a
+plaintiff must make four showings. First, the plaintiff must
+show that the minority group in question is “sufficiently
+large and [geographically] compact to constitute a majority
+in a reasonably confgured district.” Wisconsin Legislature
+v. Wisconsin Elections Comm'n, 595 U. S. 398, 402 (2022)
+(per curiam ) (citing Gingles, 478 U. S., at 50–51). A district
+is reasonably confgured, we later explained, “if it comports
+with traditional districting criteria, such as being contiguous
+and reasonably compact.” Allen, 599 U. S., at 18. “Second,
+the minority group must be able to show that it is politically
+cohesive.” Gingles, 478 U. S., at 51. Third, “the minority
+must be able to demonstrate that the white majority votes
+sufficiently as a bloc to enable it . . . to defeat the minority's
+preferred candidate.” Ibid. “Finally, a plaintiff who dem-
+onstrates the three preconditions must also show, based on
+the `totality of circumstances,' that the political process is
+not `equally open' to minority voters.” Allen, 599 U. S., at
+18 (quoting Gingles, 478 U. S., at 45–46).
+C
+In later cases, redistricting plans that States created to
+comply with the Voting Rights Act were themselves chal-
+lenged as racial gerrymanders. This Court approached such
+cases by building on the framework from other racial-
+discrimination cases under the Equal Protection Clause.
+In those cases, if race played a role in a decision made
+by a government actor, strict scrutiny applied. See Arling-
+ton Heights, 429 U. S., at 265–266. Under this standard,
+the government needed to assert a compelling interest that
+justified its use of race; and if the analysis progressed beyond
+this point, the government had to show that its use of
+race was narrowly tailored to vindicate that interest. See,
+e. g., Students for Fair Admissions, Inc. v. President
+and Fellows of Harvard College , 600 U. S. 181, 206 (2023)
+(SFFA).
+The Court modified this framework for racial gerryman-
+dering cases. Although any use of race in government deci-
+sionmaking generally triggers strict scrutiny, in gerry-
+mandering cases a challenger must show that race was
+the government's predominant consideration. See Bush
+v. Vera, 517 U. S. 952, 964 (1996) (plurality opinion). And
+in cases where race predominated, States would sometimes
+assert that compliance with the Voting Rights Act provided
+a compelling interest justifying the use of race. Yet we
+never decided whether compliance with the Act could con-
+stitute a compelling interest. Instead, we repeatedly as-
+sumed without deciding that the Voting Rights Act could
+constitute a compelling interest because in all those cases,
+the Act actually did not demand the State's race-
+predominant districting. Thus, the States in those cases
+could not satisfy strict scrutiny regardless of whether com-
+pliance with the Voting Rights Act could provide a compel-
+ling interest.
+The first case in which the Court explicitly made this as-
+sumption was Miller v. Johnson, 515 U. S. 900, 917–920
+(1995),1 which concerned a majority-black district that was
+designed to satisfy the Justice Department's preclearance de-
+mands under § 5 of the Voting Rights Act. The Miller
+Court first found that the legislature had “subordinated tra-
+ditional race-neutral districting principles, including but not
+limited to compactness, contiguity, and respect for political
+subdivisions or communities defined by actual shared inter-
+ests, to racial considerations.” Id., at 916. For this reason,
+the Court held, race had predominated in the creation of the
+new district, and the State had to “demonstrate that its dis-
+tricting legislation [wa]s narrowly tailored to achieve a com-
+pelling interest.” Id., at 920. The Court declined to address
+“[w]hether or not in some cases compliance with the [Voting
+Rights Act], standing alone, c[ould] provide a compelling in-
+terest independent of any interest in remedying past dis-
+crimination.” Id., at 921. Instead, the Court explained
+that the “challenged district was not reasonably necessary
+under a constitutional reading and application” of the Voting
+Rights Act, so the State's goal of complying with the Act
+could not supply a compelling interest. Ibid.
+We repeated much the same analysis in Shaw v. Hunt, 517
+U. S. 899, 908 (1996) (Shaw II ), applying strict scrutiny to a
+redistricting plan that a State crafted to comply with both
+§ 2 and § 5 of the Voting Rights Act. “[O]nce again,” we did
+not reach the question “expressly left open” in Miller:
+whether the Voting Rights Act could itself provide a compel-
+ling interest to justify race-predominant districting. 517
+U. S., at 911. After “assum[ing], arguendo, for the purpose
+of resolving this suit, that compliance with § 2 could be a
+compelling interest,” we held that the plan failed strict scru-
+tiny because it was not reasonably required under a constitu-
+tional reading and application of the Voting Rights Act. Id.,
+at 915.
+1 Such an assumption may have been implicit in Shaw v. Reno, 509 U. S.
+630, 653–656 (1993) (Shaw I ).
+Likewise, in Alabama Legislative Black Caucus v. Ala-
+bama, 575 U. S. 254, 259 (2015), we applied strict scrutiny to
+a race-predominant districting plan that the State had cre-
+ated for two purposes: first, to “come close to a one-person,
+one-vote ideal,” and second, to “ensure compliance” with § 5
+of the Voting Rights Act. We held that, even if the Voting
+Rights Act could provide a compelling interest, the map did
+not satisfy strict scrutiny because it was not required by the
+Act. Id., at 277. Once again, we left open whether com-
+pliance with the Act “remain[ed] a compelling interest.”
+Id., at 279.
+In Cooper, 581 U. S., at 301, we continued our “long”-
+standing assumption that “complying with the VRA is a com-
+pelling interest.” Again, we did not need to resolve this
+question because a constitutional reading and application of
+the Act did not require the district at issue. Id., at 306.
+And again, in Wisconsin Legislature , we once more “as-
+sumed that complying with the [Voting Rights Act] is a com-
+pelling interest.” 595 U. S., at 401. But because the Wis-
+consin Supreme Court had not properly analyzed whether
+the Act required the map at issue, we remanded for the court
+to “undertake a full strict-scrutiny analysis.” Id., at 406.
+This was the legal framework in place when the lawsuits
+involving Louisiana's congressional districts were fled and
+litigated in the lower courts.
+II
+As noted earlier, the underlying litigation in this suit re-
+sulted from Louisiana's response to the population changes
+disclosed by the 2020 census. The subsequent reapportion-
+ment of House seats among the States left Louisiana with
+the same number of seats—six—that it had previously been
+allocated, but due to shifts in population, the State needed
+to recalibrate its districts.
+Figure 1. Louisiana's Map from 2013–2022
+In 2022, Louisiana enacted a new map, “HB1,” that closely
+resembled its immediate predecessor:
+Figure 2. HB1, Enacted in 2022
+HB1, like its predecessor, included only one district in
+which black voters were a majority of the voting-age popula-
+tion. (In the above maps, it is the bat-shaped District 2 that
+includes much of New Orleans, blue in Figure 1 and yellow
+in Figure 2.) As soon as HB1 was enacted, lawsuits were
+fled in the Middle District of Louisiana asserting that the
+map violated the Voting Rights Act by “ `packing' large num-
+bers of Black voters into a single majority-Black congres-
+sional district . . . and `cracking' the remaining Black voters
+among the other fve districts.” Robinson v. Ardoin, 605 F.
+Supp. 3d 759, 768 (2022). After the suit was fled, the Rob-
+inson court issued a lengthy opinion concluding that HB1
+likely violated the Voting Rights Act by failing to include
+a second majority-black district. The court thus entered a
+preliminary injunction requiring Louisiana to implement a
+new map before the 2022 election, which was less than six
+months away. Id., at 856.
+Louisiana objected to the decision and promptly appealed.
+But because of circumstances outside the State's control, its
+appeal ended up in limbo. This Court granted certiorari be-
+fore judgment and held the case pending a decision in Allen.
+Nearly a year later, after deciding Allen, the Court dis-
+missed the petition as improvidently granted and remanded
+the case to the Fifth Circuit to consider Louisiana's appeal
+in the ordinary course. By that time, the 2022 election had
+passed, and the urgency that had justified the preliminary
+injunction was no longer present. In a tentatively worded
+opinion, the Fifth Circuit held that the Robinson District
+Court's decision “was valid when it was issued” but that the
+preliminary injunction was no longer needed. Robinson v.
+Ardoin, 86 F. 4th 574, 599–600 (2023).
+In the absence of urgency, the Fifth Circuit remanded the
+case to the District Court with instructions to give Louisiana
+time to draw a new map. If Louisiana failed to do so, the
+Fifth Circuit suggested, the District Court could proceed
+with a trial on the merits and, if needed, remedial proceed-
+ings. Id., at 601–602.
+After the Fifth Circuit's remand, Louisiana did not have
+many options. In the Robinson decision, the District Court
+held that the plaintiffs were “likely to prevail” on their claim
+that the Voting Rights Act demanded the creation of a sec-
+ond majority-black district. 605 F. Supp. 3d, at 851. So if
+Louisiana refused to adopt such a map, the District Court
+would likely draw one and mandate its use. Wishing to
+avoid that outcome, Louisiana decided to draw its own map.
+After a deliberative process, Louisiana enacted the map at
+issue in this suit: SB8.
+Figure 3. SB8
+SB8 retains the original majority-minority district from
+HB1 (above in yellow). It then adds an additional majority-
+minority district, District 6 (above in green). To attain a
+majority-black voting-age population, District 6 connects
+black populations from Baton Rouge and Lafayette (in the
+southcentral region of the State) with the black population in
+Shreveport (in the far northwest of the State). SB8 differed
+from the illustrative maps—shown below—on which the Dis-
+trict Court relied in Robinson:
+Figure 4. Robinson Court's Illustrative Maps
+These illustrative maps also include a second majority-
+minority district, but one with very different boundaries
+(shown in blue in the top four maps and in green in the bot-
+tom two maps). This district connects largely urban black
+communities in Baton Rouge and Lafayette with more rural
+black communities in the northeast corner of the State. By
+contrast, SB8's District 6 connects the Baton Rouge and La-
+fayette black populations with the distant black population
+in Shreveport, in the northwest. Louisiana adopted this
+scheme, rather than the one used in the Robinson illustra-
+tive maps, because it protects the Republican incumbents the
+State considered most important: Speaker of the House Mike
+Johnson, House Majority Leader Steve Scalise, and Appro-
+priations Committee member Julia Letlow. See Brief for
+Appellant in No. 24–109, pp. 13–14, 17.
+Not long after SB8 was enacted, another lawsuit was fled,
+this time in the Western District of Louisiana. A group of
+plaintiffs (the Callais plaintiffs) asserted that SB8, and spe-
+cifcally District 6, was a racial gerrymander that violated
+the Equal Protection Clause. The plaintiffs from Robinson
+intervened in the litigation, seeking to defend Louisiana's de-
+cision to draw a second majority-minority district. Because
+the Callais plaintiffs challenged “the constitutionality of the
+apportionment of congressional districts,” a District Court
+of three judges was convened to hear the suit. 28 U. S. C.
+§ 2284(a). The court held a 3-day preliminary injunction
+hearing, which was consolidated with a trial on the merits.
+Observing that SB8's “second majority-minority district
+. . . stretches some 250 miles from Shreveport in the north-
+west corner of the state to Baton Rouge in southeast Louisi-
+ana, slicing through metropolitan areas to scoop up pockets
+of predominantly Black populations from Shreveport, Alex-
+andria, Lafayette, and Baton Rouge,” the court concluded
+that the map effected a racial gerrymander that “violates the
+Equal Protection Clause.” Callais v. Landry, 732 F. Supp.
+3d 574, 582, 588 (WD La. 2024). Judge Stewart of the Fifth
+Circuit dissented. See id., at 614. The State of Louisiana
+and the Robinson intervenors appealed the decision directly
+to this Court, and the Court noted probable jurisdiction.
+604 U. S. 1007 (2024). See 28 U. S. C. § 1253.
+After an initial round of briefing and argument last Term,
+the Court restored these cases to the calendar for reargu-
+ment this Term. See 606 U. S. 923 (2025). We ordered sup-
+plemental briefing on the following question: “Whether the
+State's intentional creation of a second majority-minority
+congressional district violates the Fourteenth or Fifteenth
+Amendments to the U. S. Constitution.” 606 U. S. 993
+(2025). And because the State's intentional creation of a
+second majority-minority district had been prompted by an
+order suggesting that such a district is required by the Vot-
+ing Rights Act, our question necessarily implicated the cor-
+rectness of our longstanding assumption that compliance
+with the Voting Rights Act may justify what the Constitu-
+tion generally condemns: the use of race as a basis for gov-
+ernment action. This question was pending in several
+lower-court cases, but in light of the potential impact of those
+cases on upcoming elections, we concluded that resolution of
+the question in this suit was appropriate.
+III
+A
+In considering whether the Constitution permits the inten-
+tional use of race to comply with the Voting Rights Act, we
+start with the general rule that the Constitution almost
+never permits the Federal Government or a State to discrim-
+inate on the basis of race. Such discrimination triggers
+strict scrutiny, and our precedents have identified “only two
+compelling interests” that can satisfy that standard. SFFA,
+600 U. S., at 207. One compelling interest, not relevant
+here, is “avoiding imminent and serious risks to human
+safety in prisons, such as a race riot.” Ibid.; see Johnson v.
+California, 543 U. S. 499, 512–513 (2005). The only other
+compelling interest we have found is “remediating specific,
+identified instances of past discrimination that violated the
+Constitution or a statute.” SFFA, 600 U. S., at 207.
+To “rise to the level of a compelling state interest,” an
+effort to remediate past discrimination “must satisfy two
+conditions.” Shaw II, 517 U. S., at 909. “First, the discrim-
+ination must be `identified discrimination.' ” Ibid. (quoting
+Richmond v. J. A. Croson Co ., 488 U. S. 469, 499, 500, 505,
+507, 509 (1989)). In other words, the State or Federal Gov-
+ernment must identify the specific instances of past discrimi-
+nation that it aims to remediate and, in light of that specifi-
+cation, must “ `determine the precise scope of the injury it
+seeks to remedy.' ” 517 U. S., at 909 (quoting Croson, 488
+U. S., at 498 (opinion for the Court)). The States and Fed-
+eral Government have no compelling interest in generally
+remediating “past discrimination in a particular industry or
+region” or “the effects of societal discrimination.” 517 U. S.,
+at 909–910. Second, after identifying the specific instance
+of discrimination, “the institution that makes the racial dis-
+tinction must have . . . a `strong basis in evidence' to conclude
+that [its] remedial action [is] necessary.” Id., at 910 (quoting
+Wygant v. Jackson Bd. of Ed., 476 U. S. 267, 277 (1986)).
+“Our acceptance of race-based state action has been rare
+for a reason.” SFFA, 600 U. S., at 208. “ `Distinctions be-
+tween citizens solely because of their ancestry are by their
+very nature odious to a free people whose institutions are
+founded upon the doctrine of equality.' ” Ibid. (quoting Rice
+v. Cayetano, 528 U. S. 495, 517 (2000)). And in redistricting,
+“where the State assumes from a group of voters' race that
+they `think alike, share the same political interests, and will
+prefer the same candidates at the polls,' it engages in racial
+stereotyping at odds with equal protection mandates.”
+Miller, 515 U. S., at 920 (quoting Shaw I, 509 U. S. 630, 647
+(1993)).
+The question before us now is whether compliance with
+the Voting Rights Act should be added to our very short list
+of compelling interests that can justify racial discrimination.
+To answer that question, we must understand exactly what
+§ 2 of the Voting Rights Act demands with respect to the
+drawing of legislative districts. We therefore turn to the
+text of that provision.
+B
+1
+As amended in 1982, § 2 states:
+“(a) No voting qualification or prerequisite to voting
+or standard, practice, or procedure shall be imposed or
+applied by any State or political subdivision in a manner
+which results in a denial or abridgement of the right of
+any citizen of the United States to vote on account of
+race or color . . . as provided in subsection (b).
+“(b) A violation of subsection (a) is established if,
+based on the totality of circumstances, it is shown that
+the political processes leading to nomination or election
+in the State or political subdivision are not equally open
+to participation by members of a class of citizens pro-
+tected by subsection (a) in that its members have less
+opportunity than other members of the electorate to
+participate in the political process and to elect repre-
+sentatives of their choice. The extent to which mem-
+bers of a protected class have been elected to office in
+the State or political subdivision is one circumstance
+which may be considered: Provided, That nothing in this
+section establishes a right to have members of a pro-
+tected class elected in numbers equal to their proportion
+in the population.” 52 U. S. C. § 10301.
+This is not the easiest language to parse, and we will
+therefore break it down in steps. Beginning with subsec-
+tion (a), we take as given that a legislative districting map
+may constitute a “standard, practice, or procedure.” If that
+were not so, there would have been no statutory basis for
+any of our § 2 vote-dilution cases. See Holder v. Hall, 512
+U. S. 874, 895–896 (1994) (Thomas, J ., concurring in judg-
+ment). Therefore, subsection (a) means that a districting
+map may run afoul of § 2 if it “results in a denial or abridge-
+ment” of the right to vote “on account of race or color.” § 2(a).
+With that established, subsection (b) explains when such a
+denial or abridgment occurs: when “the political processes
+leading to nomination or election” are “not equally open to
+participation by” members of a racial group of voters “in
+that [they] have less opportunity than other members of the
+electorate to . . . elect representatives of their choice.”
+§ 2(b).
+In this complicated verbal formulation, the key concept for
+present purposes is “less opportunity than other members of
+the electorate to . . . elect representatives of their choice.”
+Ibid. This language sets a baseline against which to assess
+the opportunity of minority voters: the “opportunity” that
+“other members of the electorate” have “to elect” their pre-
+ferred candidates. To understand this baseline, we must
+nail down the meaning of three terms: “less opportunity,”
+“other members of the electorate,” and “elect.”
+In isolation, “opportunity” could refer to either a desired
+outcome or a chance to achieve that outcome. As used in
+§ 2(b), however, “opportunity” must mean a chance to achieve
+a desired result, because the Voting Rights Act does not
+guarantee equal outcomes. See White, 412 U. S., at 765–766.
+Accordingly, “less opportunity” must mean a lesser chance.
+In ordinary usage, “less opportunity” often takes on such
+meaning. One might say, for example, that men under 6 feet
+tall have less opportunity to play in the NBA than those who
+stand at least 6 feet 7 inches (the current median).
+The next term—“other members of the electorate”—speci-
+fes the comparator to be used in determining whether the
+group protected by subsection (a) has suffered or is threat-
+ened with suffering “less opportunity . . . to elect representa-
+tives of their choice.” In conceptualizing the members of
+this comparator group, we may think of a randomly selected
+member of the electorate who has particular voting prefer-
+ences, or we may think of a randomly selected group of vot-
+ers who share certain voting preferences. These voting
+preferences may be based on a candidate's party affiliation,
+ideology, stance on a particular policy issue, personal cha-
+risma, or some other characteristic or set of characteristics.
+But whatever they are, the situation of these randomly se-
+lected voters must be compared with that of minority voters
+alleged to have suffered vote dilution.
+This brings us to the final term: “to elect.” As used in
+§ 2(b), this term must refer to the achievement of electoral
+victory by casting a ballot.
+Putting all these terms together, the baseline is the chance
+enjoyed by nonminority voters to secure the election of their
+preferred candidates. What, then, is the chance that any
+given nonminority voter or group of nonminority voters has
+to secure the election of a preferred candidate? The answer
+to this question depends on the voting preferences of other
+voters in the district. For example, in a district where most
+voters prefer Democratic candidates, a Republican voter in
+that district will have a low chance of securing the election
+of his or her preferred candidate. But that chance would be
+substantially higher if the district were instead filled with
+voters who prefer Republican candidates. The roster of
+voters who end up in a given district depends, in turn, on
+the districting criteria used by the State in drawing a legis-
+lative map.
+If a districting map is produced by computer, as is gener-
+ally the case today, we may think of all the parameters in
+the algorithm that the mapmaker uses. One necessary pa-
+rameter would be the number of districts required by law,
+and another would have to be a range of inter-district popu-
+lation variations that is small enough to comply with the one-
+person, one-vote requirement. The algorithm might then go
+on to lay out and assign priorities to whatever additional
+permissible criteria the legislature chooses to use. For ex-
+ample, the legislature might want to minimize changes in the
+prior map, avoid districts with discontiguous territory, and
+avoid splitting counties or municipalities. It might impose
+a certain standard of compactness, aim to protect some or all
+incumbents, or promote the prospects of a particular political
+party. When this algorithm is used, the map it produces
+may place a particular voter or group of voters in a district
+in which a majority generally agrees, generally disagrees, or
+only sometimes agrees with their voting preferences. But
+in any event, the “opportunity” of these “members of the
+electorate” to contribute their votes to a winning cause is
+whatever opportunity results from the application of the
+State's combination of permissible criteria.
+That is what our randomly selected individual voter and
+group of voters can expect regarding their opportunity to
+elect a preferred candidate. And under § 2, a minority voter
+is entitled to nothing less and nothing more.
+2
+Not only is this the best reading of the statutory text, but
+it also ensures that § 2 of the Voting Rights Act does not
+exceed Congress's authority under § 2 of the Fifteenth
+Amendment. That provision confers the “power to enforce
+[the Amendment] by appropriate legislation.” Thus, to lie
+within Congress's authority, § 2 of the Voting Rights Act
+must “effectuate by `appropriate' measures the constitutional
+prohibition” in § 1 of the Fifteenth Amendment. Katzen-
+bach, 383 U. S., at 308.
+Our Fourteenth and Fifteenth Amendment jurisprudence
+delineates what constitutes “appropriate” legislation in the
+sense relevant here. See City of Boerne v. Flores, 521 U. S.
+507, 518 (1997) (stating that Congress has “parallel power
+to enforce the provisions” of the Fourteenth and Fifteenth
+Amendments). In legislation enforcing these Amendments,
+“[t]here must be a congruence and proportionality between
+the injury to be prevented or remedied and the means
+adopted to that end.” Id., at 520.
+As the Court has long held, the Fifteenth Amendment
+bars only state action “ `motivated by a discriminatory pur-
+pose.' ” Reno v. Bossier Parish School Bd., 520 U. S. 471,
+481 (1997) (quoting Mobile, 446 U. S., at 62). So a law that
+seeks to enforce the Fifteenth Amendment by prohibiting
+mere disparate impact would fail to enforce a right that the
+Amendment secures. That is never “appropriate,” Katzen-
+bach, 383 U. S., at 308, because Congress cannot “enforce a
+constitutional right by changing what the right is,” City of
+Boerne, 521 U. S., at 519.
+For this reason, the focus of § 2 must be enforcement of
+the Fifteenth Amendment's prohibition on intentional racial
+discrimination. When § 2 is properly interpreted in the way
+we have outlined, it is sufficiently congruent with and pro-
+portional to the Amendment's prohibition. While that in-
+terpretation does not demand a finding of intentional dis-
+crimination, it imposes liability only when the circumstances
+give rise to a strong inference that intentional discrimination
+occurred. Suppose, for example, that the application of a
+State's districting algorithm yields numerous maps with dis-
+tricts in which the members of a minority group constitute
+a majority, and suppose that the State cannot provide a legit-
+imate reason for rejecting all those maps and eliminating all
+majority-minority districts. In such a situation, the infer-
+ence of racial motivation is strong, and § 2 of the Fifteenth
+Amendment permits the imposition of liability without de-
+manding that the courts engage in the fraught enterprise of
+attempting to determine whether the state legislature as an
+institution, as opposed to certain individual members or the
+State's hired mapmaker, was motivated by race.
+Only when understood this way does § 2 of the Voting
+Rights Act properly ft within Congress's Fifteenth Amend-
+ment enforcement power. See, e. g., I. N. S. v. St. Cyr, 533
+U. S. 289, 299–300 (2001) (“[I]f an otherwise acceptable con-
+struction of a statute would raise serious constitutional prob-
+lems, and where an alternative interpretation of the statute
+is `fairly possible,' we are obligated to construe the statute
+to avoid such problems” (citation omitted)). By contrast, in-
+terpreting § 2 of the Voting Rights Act to outlaw a map solely
+because it fails to provide a sufficient number of majority-
+minority districts would create a right that the Amendment
+does not protect. And such an interpretation would run
+headlong into the Act's express disclaimer against racial
+proportionality.
+Properly understood, § 2 thus does not intrude on States'
+prerogative to draw districts based on nonracial factors.
+“Redistricting constitutes a traditional domain of state legis-
+lative authority.” Alexander, 602 U. S., at 7. The Constitu-
+tion imposes some important restrictions on the States' exer-
+cise of this power, but they are otherwise free to draw
+districts as they please. We have held that they may use
+traditional districting factors such as “compactness, contigu-
+ity,” “maintaining the integrity of political subdivisions, pre-
+serving the core of existing districts,” and protecting incum-
+bents. Bush, 517 U. S., at 964; Miller, 515 U. S., at 906, 916.
+Nothing in the Constitution requires States to heed these
+criteria, of course, and the desirability of some of these crite-
+ria might be disputed. But because they are not forbidden
+by the Constitution, it is up to each State to decide what
+weight, if any, they warrant.
+The same is true with respect to the drawing of districts
+to achieve partisan advantage. Disapproval of partisan ger-
+rymandering dates back to the founding. See Rucho v.
+Common Cause, 588 U. S. 684, 696–697 (2019). But partisan
+gerrymandering claims are not justiciable in federal court.
+Id., at 718. “Federal judges have no license to reallocate
+political power between the two major political parties, with
+no plausible grant of authority in the Constitution, and no
+legal standards to limit and direct their decisions.” Ibid.
+Thus, in considering the constitutionality of a districting
+scheme, courts must treat partisan advantage like any other
+race-neutral aim: a constitutionally permissible criterion that
+States may rely on as desired.
+For this reason, as we have repeatedly made clear, when
+a State defends a districting scheme on the ground that it
+was drawn for partisan purposes, plaintiffs have a “ `special' ”
+burden to overcome. Alexander, 602 U. S., at 9 (quoting
+Cooper, 581 U. S., at 308). “To prevail,” the plaintiff “must
+`disentangle race from politics' by proving `that the former
+drove a district's lines.' ” 602 U. S., at 9 (quoting Cooper,
+581 U. S., at 308). “That means, among other things, ruling
+out the competing explanation that political considerations
+dominated the legislature's redistricting efforts. If either
+politics or race could explain a district's contours, the plain-
+tiff has not cleared its bar.” 602 U. S., at 9–10; see Eas-
+ley v. Cromartie, 532 U. S. 234, 258 (2001) (Cromartie II ) (re-
+jecting a racial gerrymandering claim when the plaintiffs
+failed to show “that the legislature could have achieved
+its legitimate political objectives in alternative ways that
+are comparably consistent with traditional districting
+principles”).
+A plaintiff may carry its disentanglement burden by offer-
+ing an alternative map that achieves all the State's objec-
+tives—including partisan advantage and any of the State's
+other political goals—at least as well as the State's map.
+See Alexander, 602 U. S., at 10; Cromartie II, 532 U. S., at
+258. Today, § 2 litigants almost always have the where-
+withal to proffer such a map if there is one to be found. See
+Abbott v. League of United Latin American Citizens, 607
+U. S. ––– (2025) (holding that the lack of an alternative map
+merits a “dispositive or near-dispositive adverse inference”
+against a racial-gerrymandering plaintiff); Alexander, 602
+U. S., at 10 (“[A]ny plaintiff with a strong case has had every
+incentive to produce such an alternative map”); see also
+Allen, 599 U. S., at 23 (observing that “modern computer
+technology” allows challengers to “generate millions of possi-
+ble districting maps for a given State”). But if a § 2 plaintiff
+cannot disentangle race from the State's race-neutral consid-
+erations, including politics, then § 2 cannot impose liability.
+In short, § 2 imposes liability only when the evidence sup-
+ports a strong inference that the State intentionally drew its
+districts to afford minority voters less opportunity because
+of their race. Not only does this interpretation follow from
+the plain text of § 2, but it is consistent with the limited au-
+thority that the Fifteenth Amendment confers.
+C
+This interpretation of § 2 does not require abandonment of
+the Gingles framework. We need only update the frame-
+work so it aligns with the statutory text and reflects impor-
+tant developments since we decided Gingles 40 years ago.
+Four historical developments are of particular note.
+First, vast social change has occurred throughout the coun-
+try and particularly in the South, where many § 2 suits arise.
+As this Court has recognized, “things have changed dramati-
+cally” in the decades since the passage of the Voting Rights
+Act. Shelby County v. Holder, 570 U. S. 529, 547 (2013). At
+the time of the Act's passage, the Nation had faced nearly a
+century of “entrenched racial discrimination in voting, `an
+insidious and pervasive evil which had been perpetuated in
+certain parts of our country through unremitting and inge-
+nious defiance of the Constitution.' ” Id., at 535 (quoting
+Katzenbach, 383 U. S., at 309). But the Voting Rights Act
+led to “great strides” in the ensuing decades: “voting tests
+were abolished, disparities in voter registration and turnout
+due to race were erased, and African-Americans attained po-
+litical office in record numbers.” 570 U. S., at 549, 553. By
+2004, the racial gap in voter registration and turnout had
+largely disappeared, with minorities registering and voting
+at levels that sometimes surpassed the majority. Id., at 547–
+548. Black voters now participate in elections at similar
+rates as the rest of the electorate, even turning out at higher
+rates than white voters in two of the fve most recent Presi-
+dential elections nationwide and in Louisiana. See Supp.
+Brief for United States as Amicus Curiae 13 (citing Dept. of
+Commerce, Census Bureau, Voting and Registration Tables
+(Election of Nov. 2024) (Apr. 2025)).
+Second, a full-blown two-party system has emerged in the
+States where § 2 suits are most common. Gingles arose in
+the context of a one-party system in which black and white
+voters had starkly different voting patterns despite their af-
+fliation within the same party. 478 U. S., at 59. In the area
+involved in Gingles, an overwhelming majority of white vot-
+ers did not vote for any black candidate in the Democratic
+party primary elections, which for all practical purposes se-
+lected the candidates who would ultimately obtain office.
+Ibid. And in general elections, white voters in heavily
+Democratic areas often ranked black candidates last among
+Democrats. Ibid. Such intra-party disparities showed that
+black voters had less opportunity to elect their preferred
+candidate because of their race, not because of their parti-
+san affiliation.
+When the vast majority of voters, regardless of race, fa-
+vors the same political party, a map that is disadvantageous
+for members of one racial group cannot be explained on the
+ground that it was drawn to favor a particular political party.
+But in a State where both parties have substantial support
+and where race is often correlated with party preference, a
+litigant can easily exploit § 2 for partisan purposes by “re-
+packag[ing] a partisan-gerrymandering claim as a racial-
+gerrymandering claim.” Alexander, 602 U. S., at 21.
+That brings us to the third significant post-Gingles devel-
+opment: this Court's decision in Rucho. In that decision, we
+held that claims of partisan gerrymandering are not justicia-
+ble in federal court. See 588 U. S., at 704–710. The upshot
+of Rucho was that, as far as federal law is concerned, a state
+legislature may use partisan advantage as a factor in redis-
+tricting. And litigants cannot circumvent that rule by
+dressing their political-gerrymandering claims in racial garb.
+Imposing liability “based on the racial effects of a political
+gerrymander in a jurisdiction in which race and partisan
+preference are very closely correlated . . . would, if accepted,
+provide a convenient way for future litigants and lower
+courts to sidestep our holding in Rucho that partisan-
+gerrymandering claims are not justiciable in federal court.”
+Alexander, 602 U. S., at 21. “Instead of claiming that a
+State impermissibly set a target Republican-Democratic
+breakdown, a plaintiff could simply reverse-engineer the par-
+tisan data into racial data and argue that the State imper-
+missibly set a particular [racial] target. Our decisions can-
+not be evaded with such ease.” Ibid.
+The fourth significant development since Gingles is the in-
+creased use and capabilities of computers in drawing dis-
+tricts and creating illustrative maps. With “modern com-
+puter technology” at the ready, § 2 plaintiffs invariably
+invoke the assistance of experts who can generate thou-
+sands—or even millions—of maps. Allen, 599 U. S., at 23;
+see id., at 33, 36 (involving more than 2 million expert-gener-
+ated maps). Computer algorithms can “easily contro[l] for
+partisan preferences” and “other redistricting factors such
+as compactness and county splits.” Alexander, 602 U. S., at
+25. With the advent of such technology, if it is possible to
+identify an alternative map that fully achieves all the State's
+legitimate goals while producing “ `greater racial balance,' ”
+then a § 2 plaintiff can easily do so. Id., at 34–35 (quoting
+Cromartie II, 532 U. S., at 258).
+In light of these significant developments, it is appropriate
+to update the Gingles framework and realign it with the text
+of § 2 and constitutional principles.
+1. First Gingles Precondition
+The first Gingles precondition is that a community of mi-
+nority voters must be sufficiently numerous and compact to
+constitute a majority in a reasonably confgured district. To
+satisfy this precondition, many § 2 plaintiffs have simply
+provided illustrative maps with their desired number of
+majority-minority districts. E. g., Allen, 599 U. S., at 20.
+Such maps, however, are not alone sufficient. They prove
+only that the State could create an additional majority-
+minority district, not that the State's failure to do so violated
+§ 2 of the Voting Rights Act. To make the latter showing,
+plaintiffs' illustrative maps must satisfy two conditions.
+First, in drawing illustrative maps, plaintiffs cannot use
+race as a districting criterion. If a plaintiff can produce an
+additional majority-minority district only by using race—a
+process that would be unconstitutional if a State engaged in
+such mapmaking, see Alexander, 602 U. S., at 6—that illus-
+trative map sheds no light on whether the State acted uncon-
+stitutionally by not adopting such a map. Thus, an illustra-
+tive map in which race was used has no value in proving a
+§ 2 plaintiff 's case.
+Second, illustrative maps must meet all the State's legiti-
+mate districting objectives, including traditional districting
+criteria and the State's specified political goals. If the
+State's aims in drawing a map include a target partisan dis-
+tribution of voters, a specific margin of victory for certain
+incumbents, or any other goal not prohibited by the Consti-
+tution, the plaintiffs' illustrative maps must achieve these
+goals just as well. If not, the plaintiffs would fail to demon-
+strate that the State's chosen map was driven by racial con-
+siderations rather than permissible aims. Only by meeting
+all the State's legitimate objectives can the illustrative maps
+help to “disentangle race” from politics and other constitu-
+tionally permissible considerations. Ibid.
+2. Second and Third Gingles Preconditions
+To satisfy the second and third preconditions—politically
+cohesive voting by the minority and racial-bloc voting by the
+majority—the plaintiffs must provide an analysis that con-
+trols for party affiliation. In other words, they must show
+that voters engage in racial bloc voting that cannot be ex-
+plained by partisan affiliation. This is, once again, critical
+for “disentangl[ing] race and politics.” Alexander, 602 U. S.,
+at 6.
+The facts of Gingles afford a good example of how a § 2
+plaintiff can properly meet these preconditions. There, as
+discussed, black and white voters had dramatically different
+voting patterns within the Democratic party. 478 U. S., at
+59. This type of intra-party racial-bloc voting pattern helps
+to demonstrate that the minority plaintiffs have “less oppor-
+tunity” than their majority counterparts because of race, not
+just because of partisan affiliation. 52 U. S. C. § 10301(b).
+By contrast, simply pointing to inter-party racial polariza-
+tion proves nothing, because “ `a jurisdiction may engage in
+constitutional political gerrymandering, even if it so happens
+that the most loyal Democrats happen to be black Democrats
+and even if the State were conscious of that fact.' ” Alex-
+ander, 602 U. S., at 9 (quoting Hunt v. Cromartie, 526 U. S.
+541, 551 (1999)).
+3. Totality of Circumstances
+Last, the “totality of circumstances” inquiry must focus on
+evidence that has more than a remote bearing on what the
+Fifteenth Amendment prohibits: present-day intentional ra-
+cial discrimination regarding voting.
+Discrimination that occurred some time ago, as well as
+present-day disparities that are characterized as the ongoing
+“effects of societal discrimination,” are entitled to much less
+weight. Shaw II, 517 U. S., at 909–910. Far more germane
+are “current data” and “ `current political conditions' ” that
+shed light on current intentional discrimination. Shelby
+County, 570 U. S., at 552–553 (quoting Northwest Austin Mu-
+nicipal Util. Dist. No. One v. Holder, 557 U. S. 193, 203
+(2009)). “[I]n large part because of the Voting Rights Act[,]
+. . . our Nation has made great strides” in eliminating racial
+discrimination in voting. Shelby County, 570 U. S., at 548–
+549. And if, as a result of this progress, it is hard to find
+pertinent evidence relating to intentional present-day voting
+discrimination, that is cause for celebration.
+D
+Nothing in Allen dictates a result that differs from the one
+we reach today. The decision in that case was based on the
+State of Alabama's specific argument that its “race-neutral
+benchmark” was “necessary in any redistricting case.”
+Brief for Appellants in Allen v. Milligan, O. T. 2022, Nos.
+21–1086 etc., pp. 43–44 (Brief for Alabama). Alabama ar-
+gued that deriving this benchmark—the “median or average
+number of majority-minority districts” in a race-blind
+“multimillion-map set,” Allen, 599 U. S., at 23—required
+“computer simulations that are technically complicated, ex-
+pensive to produce, and available to `[o]nly a small cadre of
+university researchers [that] have the resources and exper-
+tise to run' them,” id., at 36 (quoting Brief for United States
+as Amicus Curiae 28). Nonetheless, the State contended
+that its race-neutral benchmark was “the only plausible test”
+to ensure that § 2 stays within “constitutional guardrails.”
+Brief for Alabama 44, 75. We rejected that “single-minded
+view.” Allen, 599 U. S., at 26. Allen, in short, was about
+whether Alabama's novel evidentiary standard required a
+change to our existing § 2 precedent. See Tr. of Oral Arg.
+8–9. It did not.
+Allen did not address the central issue here. We had no
+occasion in Allen to confront the presumption that compli-
+ance with § 2 may serve as a compelling interest for a State
+to satisfy strict scrutiny. Indeed, Allen did not discuss the
+Fourteenth Amendment at all. Here, by contrast, it is the
+linchpin of this suit. 2
+2 The dissent claims that the Fourteenth Amendment is irrelevant to our
+analysis, post, at 165, n. 11 (opinion of Kagan, J.), but the dissent ap-
+pears to forget—or at least tries to lead readers to forget—that the deci-
+In addition, our decision in Allen did not reach two pivotal
+issues that we now squarely address. First, we left open
+whether “race-based redistricting” under § 2, even if permis-
+sible when the Voting Rights Act was amended in 1982, could
+“extend indefinitely into the future” despite significant
+changes in relevant conditions. 599 U. S., at 45 (Kava-
+naugh, J., concurring in part); see Shelby County, 570 U. S.,
+at 557 (requiring assessment of the constitutionality of the
+Voting Rights Act in light of current conditions). Second,
+because the State in Allen did not cite partisan goals in de-
+fending its map, we did not address whether § 2 plaintiffs
+must disentangle race from politics in proving their case.
+Indeed, this is our first occasion to address the implications
+of Rucho in a vote-dilution case. Failing to account for po-
+litical considerations in redistricting, as explained above, can
+allow plaintiffs to undo a State's legitimate, nonracial deci-
+sions under the banner of § 2. In light of our answers to
+these questions left open in Allen, we now update the Gin-
+gles test to ensure a constitutional reading and application
+of § 2.
+IV
+Under the updated Gingles framework, the facts of this
+suit easily require affirmance.
+Louisiana's enactment of SB8 triggered strict scrutiny be-
+cause the State's underlying goal was racial. The State
+never hid the ball: It confgured District 6 to achieve a black
+voting-age population over 50% because it knew that if it
+failed to do so, the Robinson court would very likely find its
+map unlawful and order the use of something like the Robin-
+son plaintiffs' illustrative maps, which would have imperiled
+one of the influential incumbents the legislature sought to
+sion before us is based on the Fourteenth Amendment. The plaintiffs
+claimed, and the court below held, that the map enacted by the state legis-
+lature in SB8 impermissibly discriminated on the basis of race and thus
+violated the plaintiffs' rights under the Fourteenth Amendment's Equal
+Protection Clause. See supra, at 106.
+protect. The State's intentional compliance with the court's
+demands constituted an “express acknowledgment that race
+played a role in the drawing of district lines.” Alexander,
+602 U. S., at 8. Louisiana therefore had to satisfy the “ex-
+traordinarily onerous” standard of proving that its use of
+race was narrowly tailored to further a compelling govern-
+mental interest. Id., at 11.
+No compelling interest justifies SB8. Section 2 does not
+provide a compelling interest because the State did not need
+to create a new majority-minority district to comply with the
+Act. That is because at every step of the Gingles frame-
+work, the Robinson plaintiffs failed to prove their § 2 case.
+On the first Gingles precondition, the Robinson plaintiffs
+did not meet their burden because they did not provide an
+illustrative map that met all the State's nonracial goals.
+The most obvious defcit in the plaintiffs' illustrative maps
+was the failure to meet the State's political goals, includ-
+ing incumbency protection. The plaintiffs' preferred map
+would have placed Representative Letlow in a majority
+Democratic district and thus effectively ensured her exit
+from Congress. See Brief for Appellant in No. 24–109, at
+14; 2 App. to Juris. Statement in No. 24–110, p. 673a (placing
+Representative Letlow in a district with over twice as many
+registered Democrats as registered Republicans).
+The Robinson court erroneously concluded that the plain-
+tiffs' illustrative maps protected incumbents because the
+maps left all six Representatives “in the district where they
+currently live” and “could avoid incumbent pairing.” 605
+F. Supp. 3d, at 830. That observation missed the point: An
+incumbent is not protected if he or she will lose re-election.
+And because the plaintiffs' illustrative maps failed to protect
+all the incumbents that the State sought to shield, the plain-
+tiffs did not meet their burden on this precondition.
+Nor did the plaintiffs meet their burden on the second and
+third Gingles preconditions. To show racially polarized vot-
+ing, the Robinson plaintiffs offered evidence that black and
+white voters consistently supported different candidates, but
+their analysis did not control for partisan preferences. See
+605 F. Supp. 3d, at 840.
+Even if the Robinson plaintiffs had met their burden on
+the Gingles preconditions, they still would have failed to
+show an objective likelihood of intentional discrimination
+based on the totality of circumstances. The Robinson court
+went through the nine Senate Report factors, but none of
+the evidence it cited showed even a plausible likelihood of
+intentional discrimination by the State. Much of the cited
+evidence—such as the low number of black Louisianans who
+have been elected to Congress in recent decades—failed to
+disentangle race from politics. See 605 F. Supp. 3d, at 845–
+846. Indeed, the court observed that black voters have been
+aligned with the Democratic party for decades and that is-
+sues discussed by that party appealed to black voters. Id.,
+at 845. Those observations should have undercut, not
+strengthened, any showing of intentional racial discrimina-
+tion because race and politics are so intertwined.
+The Robinson court also relied on the “ `sordid history' ”
+of intentional discrimination by Louisianian officials in the
+decades before the Voting Rights Act's passage. Id., at 846.
+And it cast aside as “irrelevant” the lack of evidence that
+black voters had faced intentional discrimination in recent
+years. Id., at 847. That analysis had its priorities back-
+wards. The Fifteenth Amendment, which the Voting
+Rights Act enforces, “is not designed to punish for the past”
+but works “to ensure a better future.” Shelby County, 570
+U. S., at 553. The focus of § 2 must therefore be on “current
+conditions,” not on “decades-old data relevant to decades-old
+problems.” Ibid. And none of the historical evidence pre-
+sented by plaintiffs came close to showing an objective likeli-
+hood that the State's challenged map was the result of inten-
+tional racial discrimination.
+In sum, because the Voting Rights Act did not require
+Louisiana to create an additional majority-minority district,
+no compelling interest justified the State's use of race in cre-
+ating SB8. That map is an unconstitutional gerrymander,
+and its use would violate the plaintiffs' constitutional rights.
+V
+The dissent's arguments are fully addressed in the prior
+sections of this opinion, but in closing we emphasize three
+points.
+First, the dissent states over and over again that our deci-
+sion requires a § 2 plaintiff to prove discriminatory intent.
+Post, at 132, 149–152, 155–158, 162, 164–166, 170–171. What
+must be shown is exactly what the 1982 amendment of § 2
+called for. A § 2 plaintiff in a vote dilution case must show
+that a districting scheme denies members of a racial group
+the same “opportunity” as other voters to elect the candi-
+dates they prefer. Supra, at 110–112. When that is shown,
+the circumstances are comparable to those in White, 412
+U. S. 755, the decision from which the new language added
+by Congress in 1982 was drawn. That is, the circumstances
+must give rise to a strong inference of racial discrimination.
+See supra, at 113–116.
+Second, contrary to the dissent's assertion, we have not
+overruled Allen. As is our general practice, the Allen
+Court adjudicated the case based on the parties' arguments,
+and in that case, the State did not defend its map on the
+ground that it was drawn to achieve a political objective.
+See supra, at 121–122. Here, the State has been forthright
+from the beginning that its aim was to protect the State's
+most prominent Republican House Members. One may la-
+ment partisan gerrymandering, but for the reasons explained
+in Rucho, partisan gerrymandering claims are not justiciable
+in federal court. And in a racial gerrymandering case like
+the one before us, race and politics must be disentangled,
+as even the author of the dissent has acknowledged. See
+Alexander, 602 U. S., at 9; Cooper, 581 U. S., at 308 (opin-
+ion for the Court by Kagan , J.) (holding that a racial -

@@ -1,0 +1,339 @@
+Florida v. Georgia — No. 142, Orig. — October Term 2020 — decided 4/01/21 — opinion of the Court — author Barrett (listing code AB)
+Citation: 592 U.S. 433
+Source: https://www.supremecourt.gov/opinions/20pdf/592us2r25_086c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+K. Winn Allen, Devora W. Allon, and Lauren N.
+Beebe.*
+Justice Barrett delivered the opinion of the Court.
+For the second time in three years, we confront a dispute
+between Florida and Georgia over the proper apportionment
+of interstate waters. Florida, the downstream State,
+brought this original action against Georgia, claiming that
+Georgia consumes more than its fair share of water from an
+interstate network of rivers. Florida says that Georgia's
+overconsumption harms its economic and ecological inter-
+ests, and it seeks a decree requiring Georgia to reduce its
+consumption.
+When the case was last before the Court, we resolved it
+narrowly and remanded to a Special Master with instruc-
+tions to make findings and recommendations on additional
+issues. Florida v. Georgia, 585 U. S. ––– (2018). On re-
+mand, the Special Master recommended that we deny Flor-
+ida relief for several independent reasons, including that
+Florida proved no serious injury caused by Georgia's al-
+leged overconsumption.
+Based on our independent review of the record, we agree
+with the Special Master's recommendation. We therefore
+overrule Florida's exceptions to the Special Master's Report
+and dismiss the case.
+I
+This case concerns the Apalachicola-Chattahoochee-Flint
+River Basin, an area spanning more than 20,000 square miles
+in Georgia, Florida, and Alabama. The Basin contains three
+*Briefs of amici curiae were fled for the United States by Acting Solic-
+itor General Wall, Deputy Solicitor General Kneedler, Deputy Assistant
+Attorney General Grant, Frederick Liu, and Michael T. Gray; for the
+Atlanta Regional Commission et al. by Lewis B. Jones; and for Franklin
+County, Florida Seafood Workers by Lisa S. Blatt.
+rivers. The Chattahoochee River and the Flint River start
+in Georgia and empty into Lake Seminole, which straddles
+the Georgia-Florida border. Both rivers are critical sources
+of water for Georgia. The Chattahoochee is the primary
+water supply for the Atlanta metropolitan area, while the
+Flint supplies irrigation to southwestern Georgia's agricul-
+tural industry.
+The third river in the Basin is the Apalachicola River. It
+starts from the southern end of Lake Seminole and fows
+south through the Florida Panhandle, emptying into the Ap-
+alachicola Bay (Bay), near the Gulf of Mexico. The Apalach-
+icola River supports a wide range of river wildlife and plant
+life in the Florida Panhandle, and its steady supply of fresh
+water makes the Bay a suitable habitat for oysters. For
+many years, Florida's oyster fsheries were a cornerstone of
+the regional economy.
+Many factors influence Apalachicola River fows, including
+precipitation, air temperature, and Georgia's upstream con-
+sumption of Basin waters. The U. S. Army Corps of Engi-
+neers also plays an important role. The Corps regulates
+Apalachicola fows by storing water in, and releasing water
+from, its network of reservoirs in the Basin. In recent
+years, low fows in the Apalachicola River have become in-
+creasingly common during the dry summer and fall months,
+particularly during droughts.
+In 2013, on the heels of the third regional drought in just
+over a decade, Florida brought this original action against
+Georgia, seeking an equitable apportionment of the Basin
+waters. See 28 U. S. C. § 1251(a); U. S. Const., Art. III, § 2.
+Florida asserts that Georgia's overconsumption of Basin wa-
+ters causes sustained low fows in the Apalachicola River,
+which in turn harm its oyster fsheries and river ecosystem.
+As a remedy, Florida seeks an order requiring Georgia to
+reduce its consumption of Basin waters. Florida does not
+seek relief against the Corps.
+We granted Florida leave to fle its complaint and referred
+the case to Special Master Ralph Lancaster, Jr. After 18
+months of extensive discovery and a 5-week trial, the Special
+Master issued a report recommending that Florida be denied
+relief. Although the Special Master assumed for the sake of
+his analysis that Florida had suffered serious injuries due
+to Georgia's upstream water use, he determined that it was
+unnecessary to make definitive findings on those issues be-
+cause Florida failed to prove by clear and convincing evi-
+dence that any remedy would redress its asserted injuries.
+That was so because a remedial decree would not bind the
+Corps, which could operate its reservoirs to offset any added
+streamfow produced by the decree.
+On review of Florida's exceptions to the Special Master's
+Report, we remanded for further proceedings. Florida v.
+Georgia, 585 U. S. –––. We concluded that the Special
+Master's clear and convincing evidence standard for the
+“ `threshold' ” question of redressability was “too strict,” at
+least absent further findings. Id., at ––– – –––. We then di-
+rected the Special Master to make definitive findings and
+recommendations on several additional issues, including:
+whether Florida had proved any serious injury caused by
+Georgia; the extent to which reducing Georgia's water con-
+sumption would increase Apalachicola River fows; and the
+extent to which any increased Apalachicola fows would re-
+dress Florida's injuries. Id., at ––– – –––.
+Soon after our decision in Florida, Special Master Lancas-
+ter retired, and we appointed Judge Paul Kelly as the Special
+Master. Following supplemental briefing and oral argu-
+ment, Special Master Kelly issued an 81-page report re-
+commending, for several independent reasons, that this
+Court deny Florida relief. Relevant here, the Special Mas-
+ter concluded that Florida failed to prove by clear and con-
+vincing evidence that Georgia's alleged overconsumption
+caused serious harm to Florida's oyster fsheries or its river
+wildlife and plant life. Second Report of Special Master
+8–25.
+Florida again fled exceptions to the Special Master's Re-
+port. We must “conduct an independent review of the rec-
+ord, and assume the ultimate responsibility for deciding all
+matters.” Kansas v. Nebraska, 574 U. S. 445, 453 (2015) (in-
+ternal quotation marks omitted). Having done so, we over-
+rule Florida's exceptions and adopt the Special Master's
+recommendation.
+II
+“This Court has recognized for more than a century its
+inherent authority, as part of the Constitution's grant of orig-
+inal jurisdiction, to equitably apportion interstate streams
+between States.” Id., at 454. Given the weighty and com-
+peting sovereign interests at issue in these cases, “a com-
+plaining State must bear a burden that is `much greater' than
+the burden ordinarily shouldered by a private party seeking
+an injunction.” Florida, 585 U. S., at –––.
+Here, Florida must make two showings to obtain an equi-
+table apportionment. First, Florida must prove a threat-
+ened or actual injury “of serious magnitude” caused by Geor-
+gia's upstream water consumption. See id., at –––, –––
+(internal quotation marks omitted); Colorado v. New Mexico,
+459 U. S. 176, 187, n. 13 (1982) (Colorado I). Second, Florida
+must show that “the benefits of the [apportionment] substan-
+tially outweigh the harm that might result.” Id., at 187.
+Because Florida and Georgia are both riparian States, the
+“guiding principle” of this analysis is that both States have
+“an equal right to make a reasonable use” of the Basin wa-
+ters. Florida, 585 U. S., at ––– (emphasis deleted; internal
+quotation marks omitted).
+To resolve this case, we need address only injury and cau-
+sation. Florida asserts that Georgia's overconsumption of
+Basin waters caused it two distinct injuries: the collapse of
+its oyster fsheries and harm to its river ecosystem. Florida
+does not dispute that it must prove injury and causation by
+clear and convincing evidence. See Colorado I, 459 U. S., at
+187, n. 13. To do so, Florida must “place in the ultimate
+factfnder an abiding conviction that the truth of its factual
+contentions are `highly probable.' ” Colorado v. New Mex-
+ico, 467 U. S. 310, 316 (1984) ( Colorado II).
+With Florida's heavy burden in mind, we address its as-
+serted injuries in turn.
+A
+In 2012, in the midst of a severe drought, the oyster popu-
+lation in the Apalachicola Bay collapsed, causing commercial
+oyster sales to plummet. By the time of trial, the Bay's
+fsheries had yet to recover. All agree that this is an injury
+“of serious magnitude” under our equitable-apportionment
+precedents. See New York v. New Jersey , 256 U. S. 296,
+309 (1921).
+The parties, however, offer competing explanations for the
+cause of the collapse. Florida pins the collapse on Georgia
+through a multistep causal chain. It argues that Georgia's
+unreasonable agricultural water consumption caused sus-
+tained low fows in the Apalachicola River; that these low
+fows increased the Bay's salinity; and that higher salinity in
+the Bay attracted droves of saltwater oyster predators and
+disease, ultimately decimating the oyster population.
+Georgia points to a more direct cause—Florida's misman-
+agement of its oyster fsheries. According to Georgia, Flor-
+ida caused the collapse by overharvesting oysters and failing
+to replace harvested oyster shells. And even if low fows
+contributed at all, Georgia says, they were driven by climatic
+changes and other factors, not its upstream consumption.
+Of course, the precise causes of the Bay's oyster collapse
+remain a subject of ongoing scientific debate. As judges, we
+lack the expertise to settle that debate and do not purport to
+do so here. Our more limited task is to evaluate the parties'
+arguments in light of the record evidence and Florida's heavy
+burden of proof. And on this record, we agree with the Spe-
+cial Master that Florida has failed to carry its burden.
+Florida's own documents and witnesses reveal that Florida
+allowed unprecedented levels of oyster harvesting in the
+years before the collapse. In 2011 and 2012, oyster harvests
+from the Bay were larger than in any other year on record.
+Fla. Exh. 839; 4 Trial Tr. 956; 6 Trial Tr. 1391. That was in
+part because Florida loosened various harvesting restric-
+tions out of fear—ultimately unrealized—that the Deepwater
+Horizon oil spill would contaminate its oyster fsheries. 3
+Trial Tr. 767–769. A former Florida official, one of Florida's
+lead witnesses, acknowledged that these management prac-
+tices “ `bent' ” Florida's fsheries “ `until [they] broke.' ” Ga.
+Exh. 1357, p. 1; 4 Trial Tr. 877.
+The record also shows that Florida failed to adequately
+reshell its oyster bars. Reshelling is a century-old oyster-
+management practice that involves replacing harvested oys-
+ter shells with clean shells, which can serve as habitat for
+young oysters. Id., at 907–908; 17 Trial Tr. 4390. Yet in
+the years before the collapse, while Florida was harvesting
+oysters at a record pace, it was simultaneously reshelling its
+oyster bars at a historically low rate. See Direct Testimony
+of Romuald N. Lipcius ¶¶138–151 (Lipcius), and Demos. 15,
+16; see also Ga. Exh. 568, p. 5 (recommending that Florida
+reshell 200 acres per year); 7 Trial Tr. 1692 (Florida reshelled
+180 total acres in the 10 years before the collapse).
+Georgia's marine ecologist, Dr. Lipcius, demonstrated the
+stark effects of Florida's increased harvesting and lax re-
+shelling efforts. Analyzing data on oyster densities precol-
+lapse and postcollapse, Dr. Lipcius found that mean densities
+in the Bay's most heavily harvested oyster bars dropped by
+an average of 78%, while mean densities increased by 3% to
+13% at bars that either were not heavily harvested or had
+been reshelled. Lipcius ¶¶41–44. Dr. Lipcius also found
+negligible differences in salinity among the bars that he ana-
+lyzed, suggesting that increased salinity did not explain the
+variance in oyster densities. Id., ¶¶48–51.
+Florida does not meaningfully rebut this evidence.
+Yet Florida nonetheless argues that Georgia's overconsump-
+tion—and the consequent increased salinity and predation—
+was the sole cause of the collapse, or at least a substantial
+factor contributing to it.* But here again, Florida's own
+witnesses suggest otherwise.
+Dr. White, one of Florida's ecology experts, modeled how
+oyster biomass would have changed at two of the Bay's major
+oyster bars if Georgia had consumed less water in the years
+leading up to the collapse. His modeling showed that reduc-
+ing Georgia's consumption by an amount “similar to the relief
+that Florida is requesting” in this case would have increased
+oyster biomass by less than 1.5% in 2012. Updated Pre-
+Filed Direct Testimony (PFDT) of J. Wilson White 49–51,
+fgs. 14, 15.
+Florida does not explain how such minor fuctuations in
+oyster biomass could have averted the collapse. Instead,
+Florida points to testimony that increased streamfow would
+have had “larger” effects on oyster biomass at oyster bars
+closer to the river's mouth. 7 Trial Tr. 1725; see also id., at
+1868–1870. But it was Florida's burden to quantify how
+much larger the effects would have been, and its experts did
+not model biomass changes at bars near the river. See 6
+Trial Tr. 1571.
+Other Florida experts reinforced Dr. White's biomass
+findings. One expert found that salinity reductions of
+greater than 10 parts per thousand are “required” in order to
+reduce predation by rock snails—one of the oyster's fercest
+predators. Fla. Exh. 797, p. 38; Updated PFDT of Mark
+Berrigan ¶¶42–43 (Berrigan). Yet according to another
+Florida expert, salinity throughout the Bay would have de-
+clined by substantially less than 10 parts per thousand in
+2012 even if Georgia had eliminated all of its consumption
+from the Basin. PFDT of Marcia Greenblatt ¶¶4, 27,
+30. Together, these findings further undermine the asserted
+*We have not specified the causation standard applicable in equitable-
+apportionment cases. We need not do so here, for Florida has failed to
+establish a sufficient causal connection under any of the parties' proposed
+standards.
+link between Georgia's consumption and decreased oyster
+biomass.
+In response to this empirical evidence, Florida relies pri-
+marily on: (1) testimony from a local oysterman and a former
+Florida official that they witnessed high salinity and signif-
+cant oyster predation, including at private oyster bars not
+subject to overharvesting, PFDT of Thomas L. Ward ¶¶33–
+37; Berrigan ¶¶44–48; (2) reports by its own agency blaming
+the collapse in part on salinity and predation, Joint Exhs. 50,
+77; (3) a fshery-disaster declaration by the National Oceanic
+and Atmospheric Administration (NOAA) adopting the con-
+clusion of Florida's agency, Fla. Exh. 413, p. 3; and (4) feld
+experiments conducted by one of Florida's experts in the
+years after the collapse, which purport to demonstrate a link
+between increased salinity and predation, Updated PFDT of
+David Kimbro ¶¶63–90.
+The fundamental problem with this evidence—a problem
+that pervades Florida's submission in this case—is that it
+establishes at most that increased salinity and predation con-
+tributed to the collapse, not that Georgia's overconsumption
+caused the increased salinity and predation. None of these
+witnesses or reports point to Georgia's overconsumption as
+a significant cause of the high salinity and predation. The
+NOAA, in fact, primarily blamed “prolonged drought condi-
+tions” and the Corps' reservoirs operations—not Georgia's
+consumption during drought conditions—for the elevated
+levels of salinity and predation in the Bay. Fla. Exh. 413,
+pp. 3–4. Other record evidence, moreover, indicates that
+the unprecedented series of multiyear droughts, as well as
+changes in seasonal rainfall patterns, may have played a sig-
+nificant role. See PFDT of Dennis Lettenmaier 17, fg. 8;
+Direct Testimony of Wei Zeng ¶¶144–152. Given these con-
+founding factors, we do not think that Florida's evidence of
+high salinity and predation overcomes the data and modeling
+of its own experts, which show that Georgia's consumption
+had little to no impact on the Bay's oyster population.
+Considering the record as a whole, Florida has not shown
+that it is “highly probable” that Georgia's alleged overcon-
+sumption played more than a trivial role in the collapse of
+Florida's oyster fsheries. See Colorado II, 467 U. S., at 316.
+Florida therefore has failed to carry its burden of proving
+causation by clear and convincing evidence.
+B
+Florida also argues that Georgia's overconsumption has
+harmed river wildlife and plant life by disconnecting tribu-
+taries, swamps, and sloughs from the Apalachicola River,
+thereby drying out important habitats for river species.
+The Special Master found “a complete lack of evidence” that
+any river species suffered serious injury from Georgia's al-
+leged overconsumption, and we agree. Second Report of
+Special Master 22.
+In seeking to prove injury, Florida relied primarily on
+species-specifc “harm metrics” developed by Dr. Allan, one
+of its ecology experts. Dr. Allan established minimum
+river-fow regimes that he believed necessary for certain
+species of fsh, mussels, and trees to avoid “significant harm”
+during dry months. Updated PFDT of J. David Allan ¶¶33–
+61 (Allan). He then sought to quantify the harm to each
+species by totaling the number of days in which river fows
+fell below his thresholds. Id., ¶¶62–63.
+What Dr. Allan did not do, however, is show that his harm
+metrics did or likely would translate into real-world harm to
+the species that he studied. Indeed, Dr. Allan provided no
+data showing that the overall population of any river species
+has declined in recent years. See 2 Trial Tr. 389–392, 395–
+396. And other evidence casts significant doubt on Dr. Al-
+lan's harm metrics. For instance, the U. S. Fish & Wildlife
+Service found that the population of the fat threeridge
+mussel—one of the species Dr. Allan analyzed—“appears sta-
+ble and may be increasing in size.” Joint Exh. 168, p. 125;
+Allan ¶42.
+Without stronger evidence of actual past or threatened
+harm to species in the Apalachicola River, we cannot find it
+“highly probable” that these species have suffered serious
+injury, let alone as a result of any overconsumption by Geor-
+gia. See Colorado II, 467 U. S., at 316.
+* * *
+In short, Florida has not met the exacting standard neces-
+sary to warrant the exercise of this Court's extraordinary
+authority to control the conduct of a coequal sovereign. We
+emphasize that Georgia has an obligation to make reasonable
+use of Basin waters in order to help conserve that increas-
+ingly scarce resource. But in light of the record before us,
+we must overrule Florida's exceptions to the Special
+Master's Report and dismiss the case.
+It is so ordered.

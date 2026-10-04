@@ -1,0 +1,43 @@
+Bittner v. United States — No. 21-1195 — October Term 2022 — decided 2/28/23 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 598 U.S. 85
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r6_0813.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+103
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+began aggressively enforcing FBAR penalties, “many expe-
+rienced tax professionals and return preparers were not
+aware of the FBAR reporting obligations,” let alone aware
+of the government's current theory about the scope of penal-
+ties for nonwillful violations. Brief for Center for Taxpayer
+Rights as Amicus Curiae 24, 20–28, and n. 21. If many ex-
+perienced accountants were unable to anticipate the govern-
+ment's current theory, we do not see how “the common
+world” had fair notice of it. McBoyle, 283 U. S., at 27.
+Second, the question before us has criminal as well as civil
+ramifications. Section 5321 outlines civil penalties for non-
+willful and willful “violation[s]” of the BSA. Next door,
+§ 5322 provides criminal sanctions for “willfully violating”
+the Act. The term “violation” or “violating” is a constant
+between these two provisions. Accordingly, if the govern-
+ment were right that violations accrue on a per-account
+rather than a per-report basis under § 5321, the same rule
+would apply under § 5322. Each willfully misstated or late-
+reported account, rather than each defcient or late-fled re-
+port, would give rise to a separate criminal violation carry-
+ing the possibility of a $250,000 fne and fve years in prison.
+In a case like Mr. Bittner's, involving 5 reports and 272 ac-
+counts, that would mean a person who willfully violates the
+BSA could face a $68 million fne and 1,360 years in prison
+rather than a $1.25 million fne and 25 years in prison. In
+these circumstances, the rule of lenity, not to mention a dose
+of common sense, favors a strict construction. See Leocal
+v. Ashcroft, 543 U. S. 1, 12, n. 8 (2004) (lenity applies when a
+disputed statutory provision has “both criminal and noncrim-
+inal applications”); see also FCC, 347 U. S., at 296; United
+States v. Thompson/Center Arms Co., 504 U. S. 505, 517–518
+(1992) (plurality opinion).
+III
+Best read, the BSA treats the failure to fle a legally com-
+pliant report as one violation carrying a maximum penalty
+of $10,000, not a cascade of such penalties calculated on a

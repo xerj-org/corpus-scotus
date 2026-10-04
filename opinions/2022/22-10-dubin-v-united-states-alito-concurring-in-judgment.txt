@@ -1,0 +1,63 @@
+Dubin v. United States — No. 22-10 — October Term 2022 — decided 6/08/23 — 552 (Alito, J., concurring in judgment). The Court has previously ob-
+Citation: 599 U.S. 110
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r34_p86b.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+552 (Alito, J., concurring in judgment). The Court has previously ob-
+served the contrast between § 1028A's targeted title and the broad title
+of neighboring provision § 1028: “ `Fraud and related activity in connec-
+tion with identification documents, authentication features, and informa-
+tion.' ” Flores-Figueroa v. United States, 556 U. S. 646, 655. That
+“Congress separated the [identity] fraud crime from the [identity] theft
+crime in” § 1028A suggests that § 1028A is focused on identity theft spe-
+cifcally, rather than all fraud involving means of identification. Ibid.
+The Government urges the Court to ignore § 1028A's title, because
+the Government's reading of the provision bears little resemblance to
+ordinary understandings of “identity theft.” This broad reading would,
+in practice, place garden-variety overbilling at the core of § 1028A. In-
+stead, “identity theft” has a focused meaning: “[T]he fraudulent appro-
+priation and use of another person's identifying data or documents,”
+Webster's Unabridged Dictionary xi, or “[t]he unlawful taking and use
+of another person's identifying information for fraudulent purposes,”
+Black's Law Dictionary 894. This understanding of identity theft sup-
+ports a reading of “in relation to” where use of the means of identifca-
+tion is at the crux of the underlying crime. And under these defni-
+tions, identity theft occurs when a defendant “uses” the means of
+identification itself to defraud others. Further, the inclusion of “aggra-
+vated” in § 1028A's title suggests that Congress had in mind a particu-
+larly serious form of identity theft, not just all manner of everyday
+overbilling offenses. Pp. 120–124.
+(2) Section 1028A(a)(1)'s language points in the same direction as
+its title. In particular, Congress used a trio of verbs that reflect an
+ordinary understanding of identity theft. Section 1028A(a)(1) applies
+when a defendant “knowingly transfers, possesses, or uses, without law-
+ful authority, a means of identification of another person,” “during and in
+relation to” any predicate offense. (Emphasis added.) The two verbs
+neighboring “uses”—“transfers” and “possesses”—are most naturally
+read in the context of § 1028A(a)(1) to connote not only theft, but ordi-
+nary understandings of identity theft in particular, i. e., they point to
+(1) theft of a (2) means of identification belonging to (3) another person.
+Because “transfer” and “possess” channel ordinary identity theft, the
+interpretative cannon noscitur a sociis (“ `a word is known by the com-
+pany it keeps,' ” McDonnell v. United States, 579 U. S. 550, 568–569)
+indicates that “uses” should be read in a similar manner. In addition,
+the Court “assume[s] that Congress used [three] terms because it in-
+tended each term to have a particular, nonsuperfuous meaning.” Bai-
+ley, 516 U. S., at 146. On a more targeted reading, § 1028A(a)(1)'s three
+verbs capture the complexity of identity theft, which intermingles as-
+pects of theft and fraud, misappropriation and deceitful use. While
+“transfer” and “possess” conjure up two steps of theft, “uses” supplies
+the deceitful use aspect. In contrast, if § 1028A(a)(1) is not read in this
+narrow manner, then the two other verbs risk leaving “uses” without
+“virtually any function.” Ibid. Pp. 124–127.
+(d) The list of § 1028A(a)(1)'s predicate offenses creates additional
+problems for the Government's broad reading. Section 1028A(a)(1)'s
+enhancement adds a severe 2-year mandatory prison sentence onto un-
+derlying offenses that do not impose any mandatory prison sentence at
+all. The Government's reading, however, does not meaningfully distin-
+guish between the aggravated identity theft crime that Congress sin-
+gled out for heightened punishment and other crimes. Instead, so long
+as the criteria for the broad predicate offenses are met, a defendant
+faces an automatic 2-year sentence for generic overbilling that happens
+to use names or other means of identification for routine billing and
+payment. A far more sensible conclusion from the statutory structure
+is that § 1028A(a)(1)'s enhancement targets situations where the means

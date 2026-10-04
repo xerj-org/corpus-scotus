@@ -1,0 +1,480 @@
+FS Credit Opportunities Corp. v. Saba Capital Master Fund, Ltd. — No. 24-345 — October Term 2025 — decided 6/11/26 — opinion of the Court — author Barrett (listing code AB)
+Citation: 608 U.S. 608
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r47_m64o.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Barrett delivered the opinion of the Court.
+Congress, not the Judiciary, decides who may enforce the
+law. The Investment Company Act designates the Securi-
+ties and Exchange Commission as its primary enforcer and
+expressly permits shareholders and issuers of securities to
+enforce two of its provisions. We must decide whether
+another provision of the Act impliedly empowers private
+parties to sue for rescission of any contract that allegedly
+violates the Act. The answer is no.
+I
+The Investment Company Act (ICA) comprehensively reg-
+ulates investment companies. Petitioners, whom we will
+call the “Funds,” are investment companies that manage
+closed-end mutual funds. These funds are called “closed”
+because they contain a fxed number of shares issued at one
+time. After shares are issued, capital does not regularly
+fow into the funds when investors buy shares, nor does it
+fow out when they sell. Instead, shares trade on the open
+market, which determines their price. Even though the net-
+asset value of the holdings may be lower due to market fuc-
+tuations, long-term investors (like individuals saving for
+retirement) often favor closed-end funds.
+Respondents Saba Capital Master Fund, Ltd., and Saba
+Capital Management, L. P., whom we will call “Saba,” man-
+age open-end mutual funds. Unlike their closed-end coun-
+Company Institute et al. by Douglas Hallward-Driemeier, Amy D. Roy,
+and Robert A. Skinner; for the Mutual Fund Directors Forum by Steven
+A. Engel, Michael H. McGinley, Brian A. Kulp, and David A. Kotler; and
+for the Separation of Powers Clinic by R. Trent McCotter .
+Briefs of amici curiae urging affirmance were fled for Marlton Part-
+ners, L. P. by Andrew W. Robertson; and for Securities-Law Scholars et al.
+by Jamie Crooks.
+Briefs of amici curiae were fled for ATG Capital Management LLC by
+Sean L. McGrane; and for the Freedom and Justice Foundation by David
+C. McGrail.
+MASTER FUND, LTD.
+Opinion of the Court
+terparts, open-end funds continually issue new shares to in-
+vestors. These funds do not trade on the market and their
+shares are priced daily based on the net-asset value of the
+underlying holdings. Because capital continually fows into
+and out of these funds as trading occurs, they are highly
+liquid. Saba's investment strategy includes identifying low-
+performing closed-end funds and purchasing a large enough
+stake to change the funds' behavior. Brief for Respondents
+17–18. Known as activist investing, this practice allows
+Saba to alter closed-end funds' investment strategies to
+make short-term proft or to convert them into open-end
+funds. Brief for Petitioners 11; Saba Capital CEF Oppor-
+tunities 1, Ltd. v. Nuveen Floating Rate Income Fund, 88
+F. 4th 103, 108 (CA2 2023).
+To avoid activist-investor takeovers, closed-end funds gen-
+erally incorporate in jurisdictions with laws that favor them.
+The Funds are incorporated in Maryland, which has enacted
+the Maryland Control Share Acquisition Act (MCSAA).
+The MCSAA limits voting rights for shareholders holding a
+disproportionate number of shares (like activist investors)
+unless other shareholders approve. See Md. Corp. & Assns.
+Code Ann. § 3–702(a)(1) (2026). In this way, it prevents
+rapid shifts in fund control. The Funds have adopted reso-
+lutions opting into the MCSAA.
+In June 2023, Saba sued the Funds over those resolutions.
+Saba alleged that they violate the ICA's requirement that
+“every share of stock . . . shall be a voting stock and have
+equal voting rights with every other outstanding stock.” 15
+U. S. C. § 80a–18(i). For a right of action, Saba invoked Sec-
+tion 47(b) of the ICA. That section provides that “a court
+may not deny rescission” of contracts that violate the ICA
+“at the instance of any party” unless the court finds that
+doing so would be consistent with equity and the ICA's goals.
+§ 80a–46(b)(2).
+The District Court, following the Second Circuit's decision
+in Oxford University Bank v. Lansuppe Feeder, LLC , 933
+F. 3d 99 (2019), held that Section 47(b) creates an implied
+private right of action to sue for contract rescission and
+granted Saba summary judgment. The Second Circuit sum-
+marily affirmed. We granted certiorari to resolve a circuit
+split over whether Section 47(b) contains an implied private
+right of action. 1 606 U. S. 930 (2025).
+II
+Congress determines who may sue to enforce federal law.
+Touche Ross & Co. v. Redington, 442 U. S. 560, 579 (1979);
+Alexander v. Sandoval, 532 U. S. 275, 286 (2001). When
+Congress creates a private right of action, it usually does so
+expressly. For example, “[a] person whose religious exer-
+cise has been burdened in violation of [the Religious Free-
+dom Restoration Act] may assert that violation as a claim or
+defense in a judicial proceeding.” 42 U. S. C. § 2000bb–1(c).
+A “person aggrieved” by discrimination may “institut[e]” a
+“civil action for preventative relief.” § 2000a–3(a). And so
+on.
+Private litigants sometimes sue to enforce statutes that
+lack comparable language. At one point in time, the Court
+stood ready to let them; it reasoned that courts should
+“be alert to provide such remedies as are necessary to make
+effective the congressional purpose” underlying a statute.
+J. I. Case Co . v. Borak, 377 U. S. 426, 433 (1964). But we
+have since rejected the practice of fashioning rights of action
+as we see ft. Central Bank of Denver, N. A. v. First Inter-
+state Bank of Denver, N. A., 511 U. S. 164, 170 (1994); Sando-
+val, 532 U. S., at 287. Home-grown causes of action are dif-
+fcult to reconcile with “the Constitution's separation of
+legislative and judicial power.” Egbert v. Boule, 596 U. S.
+1 Compare Oxford Univ. Bank, 933 F. 3d, at 105, with Santomenno
+ex rel. John Hancock Trust v. John Hancock Life Ins. Co. (U. S. A.), 677
+F. 3d 178, 186–187 (CA3 2012); Steinberg v. Janus Capital Mgmt., LLC ,
+457 Fed. Appx. 261, 267 (CA4 2011) (per curiam ); UFCW Local 1500 Pen-
+sion Fund v. Mayer, 895 F. 3d 695, 699–701 (CA9 2018).
+MASTER FUND, LTD.
+Opinion of the Court
+482, 491 (2022) (internal quotation marks omitted). Rather
+than augmenting statutes, we interpret them. If a statute
+does not spell out a right of action, we examine the statute's
+text and structure to determine whether it implicitly pro-
+vides one.
+To create a private right, a statute must use “rights -
+creating language” aimed at protecting “a particular class of
+persons.” Sandoval, 532 U. S., at 288–289 (internal quota-
+tion marks omitted); Gonzaga Univ. v. Doe, 536 U. S. 273, 284
+(2002) (statutes create private rights when they are
+“ `phrased in terms of the persons benefted' ”). Language
+that “focus[es] on the person regulated rather than the indi-
+viduals protected” does not ft the bill. Sandoval, 532 U. S.,
+at 289. And language establishing an express “remedial
+schem[e]” elsewhere in the statute may “foreclose a private
+cause of action to enforce even those statutes that admittedly
+create substantive private rights.” Id., at 290; Middlesex
+County Sewerage Authority v. National Sea Clammers
+Assn., 453 U. S. 1, 13–14 (1981) (existence of “elaborate en-
+forcement provisions” forecloses the “implication [of] addi-
+tional judicial remedies”). So we also examine whether
+Congress has provided other mechanisms for enforcing the
+provision at issue. Northwest Airlines, Inc. v. Transport
+Workers, 451 U. S. 77, 93–94 (1981).
+With this framework in mind, we turn to the ICA. Sec-
+tion 47—entitled “[v]alidity of contracts”—contains two
+parts. The first provides that any contractual waiver of
+compliance with the ICA “shall be void.” 15 U. S. C. § 80a–
+46(a). The second provides that contracts made in violation
+of the ICA are “unenforceable by either party . . . unless a
+court finds that under the circumstances enforcement would
+produce a more equitable result . . . and would not be in-
+consistent with the purposes of this subchapter.” § 80a–
+46(b)(1). And if such a contract “has been performed, a
+court may not deny rescission at the instance of any party
+unless such court finds that under the circumstances the de-
+nial of rescission would produce a more equitable result than
+its grant and would not be inconsistent with the purposes of
+this subchapter.” § 80a–46(b)(2). The question is whether
+the phrase “rescission at the instance of any party” implies
+that private parties may sue. It does not.
+Section 47(b) is a “mandate directed to . . . courts,” rather
+than a provision that “confer[s] a right on a specified class of
+persons.” Thompson v. Thompson, 484 U. S. 174, 183 (1988);
+cf. Sandoval, 532 U. S., at 289 (provision “ `phrased as a direc-
+tive to federal agencies' ” does not create a private right or
+remedy). The key actor is “a court,” not an individual.
+§ 80a–46(b)(2). And a court is told that it “may not deny”
+the remedy of rescission to parties who request it for per-
+formed contracts unless the equities and statutory purposes
+favor a different result. Ibid. Section 47(b)'s wording thus
+presupposes that parties are already before the court and
+directs the court's use of its remedial authority. It says not
+a word about individual rights.
+It bears emphasis that contract law treats rescission as a
+remedy, not a cause of action. See H. Black, Rescission of
+Contracts and Cancellation of Written Instruments § 1 (1916)
+(Black). Suits seeking rescission end up before courts in
+various ways. A party to a contract may bring an action
+under state law—say, for breach of contract—and ask the
+court to undo the contract. See 26 R. Lord, Williston on
+Contracts § 68:22 (4th ed. 2019). Or she may seek rescission
+when raising an affirmative defense such as fraud, mistake,
+or duress in a breach-of-contract suit. See 27 id., § 69:48
+(2020); Brief for United States as Amicus Curiae 19. Or a
+nonparty, such as a shareholder, may seek rescission alleging
+that corporate officers violated their fduciary duties. § 80a–
+35(b). Regardless, other sources of law typically supply the
+right of action in suits requesting rescission. 2
+2 Insisting that rescission signals a cause of action, the dissent quotes
+from Black's treatise, which states that “ `a party . . . may invoke the aid
+of a court of equity and obtain a decree for . . . rescission.' ” Post, at 632
+MASTER FUND, LTD.
+Opinion of the Court
+Section 47(b)'s function underscores the provision's focus
+on a court's remedial power. The common law makes it dif-
+fcult to obtain rescission if a contract has been performed.
+If a contract formed in violation of a statute “has been fully
+executed on the part of the plaintiff,” then neither “a court
+of law nor a court of equity will assist the plaintiff to recover
+back the property conveyed or money paid under the con-
+tract.” St. Louis, V. & T. H. R. Co. v. Terre Haute & Indian-
+apolis R. Co., 145 U. S. 393, 407–408 (1892); Black § 313; see
+15 W. Jaeger, Williston on Contracts § 1787 (3d ed. 1972). In
+that circumstance, the common law denies rescission and
+leaves the parties “where their own acts have placed them.”
+Black § 313; see also id., § 318 (discussing rescission in the
+context of contracts formed in violation of statutes); Restate-
+ment (First) of Contracts § 598 (1932) (similar). Section
+47(b) deviates from that common-law rule by instructing that
+courts “may not deny rescission” on the basis that a contract
+has been performed. By overriding the common-law de-
+fault, it unlocks remedies that would otherwise be unavail-
+able. It does not create a cause of action.
+Statutory structure points in the same direction. As the
+principal dissent concedes, post, at 633–634 (opinion of Jack-
+son, J.) ( hereinafter the dissent), the Securities and Ex-
+change Commission bears primary responsibility for ensur-
+ing compliance with the ICA. It may investigate and bring
+enforcement actions in response to violations of “any provi-
+sion of [the ICA] or of any rule, regulation, or order” issued
+under the Act. § 80a–41(a). It may also “bring an action in
+. . . court” for injunctive relief or civil monetary penalties.
+(opinion of Jackson, J.) (quoting Black § 1). Elsewhere, however, the
+treatise explains that a party may obtain equitable rescission only if “he
+is able to show the existence of some well-recognized title to equitable
+relief, such as fraud, mistake, or duress.” Id., § 14. Consistent with our
+view, then, the treatise frames rescission as a remedy that may be granted
+to a party with an underlying claim in equity.
+§§ 80a–41(d), (e). Congress's decision to create a comprehen-
+sive agency enforcement scheme supports the conclusion
+that private parties generally cannot enforce the ICA.
+Northwest Airlines, Inc., 451 U. S., at 94; see Karahalios v.
+Federal Employees, 489 U. S. 527, 533 (1989). Put differ-
+ently, “[t]he express provision of one method of enforc[ement]
+. . . suggests that Congress intended to preclude others.”
+Sandoval, 532 U. S., at 290 (collecting cases); Gonzaga Univ.,
+536 U. S., at 289 (reasoning that because the Secretary of
+Education is authorized to enforce the Family Educational
+Rights and Privacy Act of 1974, it does not create privately
+enforceable rights).
+While the Securities and Exchange Commission is the
+ICA's main enforcer, the Act also expressly authorizes two
+private rights of action. Since 1970, the ICA has allowed
+security holders to sue investment advisers for breaches of
+fduciary duty. § 80a–35(b) (“An action may be brought . . .
+by a security holder of [a] registered investment company on
+behalf of such company” for breach of fduciary duty against
+certain members of the company). This provision also de-
+tails how the right of action should operate: It assigns bur-
+dens of proof, caps damages, and specifies a forum. Ibid.
+The ICA also incorporates an express right of action from
+the Securities Exchange Act, which allows an issuer of secu-
+rities to recover certain short-term profts realized by a reg-
+ulated individual. § 80a–29(h) (incorporating § 78p(b), which
+permits “[s]uit to recover” such profts). These provisions
+demonstrate that “when Congress wished to provide a pri-
+vate . . . remedy” to enforce the ICA, “it knew how to do so
+and did so expressly.” Touche Ross & Co., 442 U. S., at 572.
+We have traditionally been reluctant to conclude that Con-
+gress implicitly created a private remedy in one provision
+when it explicitly did so in another. See Transamerica
+Mortgage Advisors, Inc. v. Lewis, 444 U. S. 11, 20, and n. 10
+(1979) (TAMA) (reasoning that because one provision of the
+MASTER FUND, LTD.
+Opinion of the Court
+ICA authorizes private lawsuits for damages, we should not
+imply a private right of action for that relief elsewhere). So
+too here.3
+In sum, nothing in the text or structure of the ICA indi-
+cates that Congress authorized private parties to enforce vir-
+tually every provision in the statute. For a cause of action
+to exist, we would have to create it. And having “sworn off
+the habit” of implying private rights of action, “we will not
+accept [Saba's] invitation to have one last drink.” Sandoval,
+532 U. S., at 287.
+III
+Saba's counterarguments, while not without force, are ulti-
+mately unpersuasive. As for text, it points out that Section
+47(b) also includes the phrase “at the instance of any party.”
+Brief for Respondents 23–26. According to Saba, this lan-
+guage displays Congress's intent to create a private right of
+action. But the ordinary meaning of “ at the instance of (a
+person)” is “at the solicitation” or “suggestion of.” 7 Oxford
+English Dictionary 1040 (2d ed. 1989). And “instance,”
+when used as verb, means “[t]o urge.” Ibid.; see also Web-
+ster's New International Dictionary 1287 (2d ed. 1954) (“[t]o
+urge; importune”). The legal meaning of “instance” is the
+same. See, e. g., Black's Law Dictionary 947 (12th ed. 2024)
+(“[u]rgent solicitation or insistence”); 2 Bouvier's Law Dic-
+tionary 1604 (8th ed. 1914) (“urging”). So the phrase “a
+court may not deny rescission at the instance of any party”
+is most naturally read to direct a court's remedial power
+when a party before it is urging rescission. § 80a–46(b)(2).
+It says nothing about conferring a right to sue in the first
+place.
+Saba puts most of its chips on TAMA, which holds that
+Section 215 of a different statute—the Investment Advisers
+3 The dissent claims that the ICA's express causes of action authorize
+“damages, not rescission.” Post, at 634 (emphasis deleted). But § 80a–
+35(b)(3) references both “damages or other relief” and nowhere states that
+rescission is unavailable.
+Act (IAA)—creates an implied right of action. 444 U. S., at
+18. Section 215 provides that contracts whose formation or
+performance violates the IAA “shall be void.” 15 U. S. C.
+§ 80b–15(b). TAMA reasons that “[b]y declaring certain
+contracts void, § 215 by its terms necessarily contemplates
+that the issue of voidness under its criteria may be litigated
+somewhere.” 444 U. S., at 18. According to TAMA, some-
+one “with the power to void a contract ordinarily may resort
+to a court to have the contract rescinded and to obtain resti-
+tution of consideration paid.” Ibid.; see id., at 19 (Con-
+gress's use of “void” indicates that “customary legal incidents
+of voidness would follow, including the availability of a suit”).
+Thus, TAMA holds that Section 215 of the IAA contains an
+implied private right of action to “void [an] investment advis-
+ers contract.” Id., at 19, 24.
+As originally enacted, Section 47(b) of the ICA mirrored
+Section 215 of the IAA. 54 Stat. 846 (every contract made
+or performed in violation of the ICA “shall be void”). So
+under TAMA, Saba says, Section 47(b) likewise contains a
+cause of action. Case closed.
+If this were 1979, the year that TAMA was decided, then
+Saba would have a point. But as even the dissent grudg-
+ingly admits, post, at 631–632, something important hap-
+pened in 1980: Congress amended the ICA and entirely re-
+worked Section 47(b). Relevant here, it added references to
+the key actor—“ `a court.' ” 94 Stat. 2277. And Congress
+deleted the language that contracts formed in violation of
+the ICA “shall be void” and replaced it with two distinct
+phrases. The first states that contracts violating the ICA
+are “ `unenforceable by either party,' ” and the second pro-
+vides that if one of those contracts has been performed, “a
+court may not deny rescission.” Ibid.4
+4 The dissent faults us for disregarding the statutory and legislative his-
+tory of Section 47(b). Post, at 624–625, 637–645. As for the latter: guilty
+as charged. But the accusation is perplexing with respect to the former,
+because statutory history is precisely what we consider here.
+MASTER FUND, LTD.
+Opinion of the Court
+Saba tries to use the amendment to its advantage: It ar-
+gues that Congress simply made the right of action TAMA
+recognizes “explicit” by inserting the term “rescission.”
+Brief for Respondents 33–34. In other words, the edit was
+clarifying rather than substantive. But changed language
+typically indicates changed meaning. A. Scalia & B. Garner,
+Reading Law: The Interpretation of Legal Texts 256 (2012).
+And the changes here are significant. Most importantly,
+Congress deleted the “shall be void” language on which
+TAMA's reasoning turns and shifted the focus to regulating
+a court's remedial authority. 94 Stat. 2277. Congress made
+these changes despite retaining the phrase “shall be void” in
+the immediately preceding provision, Section 47(a). Like-
+wise, it did not remove the “shall be void” language in the
+IAA, even though it made other changes to that statute.
+Id., at 2289–2291. So what Saba portrays as a clarifying
+edit actually distinguishes Section 47(b) of the ICA from
+Section 215 of the IAA. The 1980 amendments were a reno-
+vation, not a new coat of paint.
+Given the textual differences between Section 47(b) and
+Section 215, TAMA does not get Saba far. And to be clear,
+Saba would take TAMA far indeed. TAMA blesses only a
+“limited private remedy . . . to void an investment advisers
+contract.” 444 U. S., at 24 (emphasis added). Saba finds
+something much larger hiding in congressional silence: It
+would wield Section 47(b) to void any type of contract that
+violates the ICA. TAMA is thin support for such a sweep-
+ing right.
+IV
+In the dissent's view, the key to this case lies in two Com-
+mittee Reports expressing Congress's “ `wish' ” that courts
+liberally imply private rights of action. Post, at 625. The
+dissent repeatedly faults us for failing to consider these Re-
+ports, and broadly attempts to defend the use of legislative
+history in interpreting statutes. Post, at 624–625, 635–645.
+Its efforts do not just fail—they backfre.
+Notably, the dissent does not use the Committee Reports
+to clarify the meaning of Section 47(b). For instance, the
+dissent does not consult the Committee Reports to see how
+their authors used the words on which this case turns: “re-
+scission at the instance of any party.” Nor does it try to
+identify the circumstances that prompted Congress to retool
+Section 47(b). Instead, the dissent uses the Reports on a
+mission impossible: divining how Congress would have
+wanted courts to resolve the question presented in this case.
+Its theory depends on the fictional premise that hundreds of
+legislators (not to mention the President) shared a unified
+private view of how the statute should apply in a contested
+circumstance. See F. Easterbrook, Statutes' Domains, 50 U.
+Chi. L. Rev. 533, 547−548 (1983); K. Shepsle, Congress Is a
+“They,” Not an “It”: Legislative Intent as Oxymoron, 12 Int'l
+Rev. L. & Econ. 239, 241–244, 249 (1992). 5 Worse, it violates
+the fundamental precept that “[w]e are governed by laws,
+not by the intentions of legislators.” Conroy v. Aniskoff,
+507 U. S. 511, 519 (1993) (Scalia, J., concurring in judgment).
+Even assuming that Congress's subjective intent were
+knowable and controlling, the dissent fails to deliver. Far
+from demonstrating the value of legislative history, the dis-
+sent models its misuse.
+The classic criticism of using legislative history is that it
+is “the equivalent of entering a crowded cocktail party and
+looking over the heads of the guests for one's friends.” Ibid.
+True to form, the dissent navigates around unwelcome
+guests. The most relevant portions of the Reports are those
+addressing Section 47(b)—which is, after all, the provision
+5 The dissent responds that “it is hard to take th[is] criticism seriously”
+because all statutory interpretation seeks to discern Congress's intent.
+Post, at 642. But rather than trying to unearth Congress's “actual in-
+tent,” post, at 625, courts look for “ `objectifed' intent”—the intent that a
+reasonable person would gather from the text of the law. A. Scalia, A
+Matter of Interpretation: Federal Courts and the Law 17 (1997). Put
+differently: The judicial task is to read words, not minds.
+MASTER FUND, LTD.
+Opinion of the Court
+we are interpreting. But the dissent ignores these sections
+altogether, presumably because they undercut its argument.
+In its discussion of Section 47(b), the House Report nowhere
+mentions a private right of action. Instead, it states that
+the 1980 amendment “embodies a general revision . . . and is
+designed to provide clearer statutory guidance in interpret-
+ing that equitable rescission remedy.” H. R. Rep. No. 96–
+1341, p. 27 (1980) (H. R. Rep.) (emphasis added). The Senate
+Report contains the same language. S. Rep. No. 96–958,
+p. 10 (1980) (S. Rep.). Rather than treating the amended
+provision as a right of action, both sections confirm the obvi-
+ous point that rescission is a remedy. And their references
+to “clearer statutory guidance in interpreting” Section 47(b)
+support treating the provision as a directive to courts—the
+typical interpreters of statutes—about how to handle cases
+already before them.
+While ignoring these sections, the dissent takes creative
+license with others. It confdently assures the reader that
+there is “legislative history containing an explicit statement
+from Congress imploring `courts to imply private rights of
+action under' the amended Section 47(b).” Post, at 637.
+There is no such statement. The paragraph that the dissent
+cites in the Senate Report, post, at 629–630, 635–636, speaks
+of implying causes of action in the “federal securities laws”
+generally, not the ICA specifically. S. Rep., at 14. The cited
+House Report pages, post, at 629–630, 635–636, are similar.
+H. R. Rep., at 28–29. In fairness to the dissent, these para-
+graphs reference the ICA in passing—but not Section 47(b).
+The Senate Report says that courts should imply causes of ac-
+tion “to the same extent that such causes of action are implied
+under the Investment Company Act.” S. Rep., at 14. And
+the House Report expresses the Committee's expectation that
+“[i]n appropriate instances, for example, breaches of fduciary
+duty involving personal misconduct should be remedied under
+Section 36(a) of the Investment Company Act.” H. R. Rep.,
+at 29 (emphasis added). These Committee Reports do not,
+as the dissent claims, “unequivocally express[s]” Congress's
+desire that courts imply causes of action under Section 47(b)
+of the ICA. Post, at 625; see also post, at 635 (claiming that
+“a clearer expression of legislative intent” has “seldom
+[been] seen”).
+At most, the dissent's citations show that members of the
+House and Senate Committees wanted courts to imply causes
+of action in some unidentifed provisions of the securities
+laws. But even if committee members would have put Sec-
+tion 47(b) on that list, what should we make of it? The
+House Report notes disapprovingly that “in recent years,
+the Supreme Court [has] turned its focus toward a strict
+construction of statutory language and expressed intent.”
+H. R. Rep., at 28. It then bemoans the Court's unwilling-
+ness to imply causes of action and criticizes the Court for
+declining to imply a damages remedy in TAMA. H. R. Rep.,
+at 28–29, n. 6. One wonders: If the House Committee
+wanted to authorize private remedies and knew that the
+Court would be reluctant to imply them, why did it not make
+them express? Were members of the House Committee un-
+certain whether express causes of action would win approval
+from a majority of the House, a majority of the Senate, and
+the President? Cf. J. Manning, The Absurdity Doctrine, 116
+Harv. L. Rev. 2387, 2417 (2003) (Manning); A. Gluck & L.
+Bressman, Statutory Interpretation From the Inside—An
+Empirical Study of Congressional Drafting, Delegation, and
+the Canons: Pt. I, 65 Stan. L. Rev. 901, 973–974 (2013). Did
+they worry that authorizing private remedies might undo
+compromises that enabled the bill to cross the finish line?
+Manning 2411–2412, 2417. There is no way to know. Con-
+gress expresses itself as a body through the text it enacts;
+the views of the 42-member House Committee on Interstate
+and Foreign Commerce and of the 15-member Senate Com-
+mittee on Banking, Housing, and Urban Affairs are not the
+law. See Congressional Directory, 96th Cong., 1st Sess. 301
+(1979); S. Rep., at II.

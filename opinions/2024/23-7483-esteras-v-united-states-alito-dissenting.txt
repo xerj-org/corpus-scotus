@@ -1,0 +1,640 @@
+Esteras v. United States — No. 23-7483 — October Term 2024 — decided 6/20/25 — Alito, J., dissenting
+Citation: 606 U.S. 185
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r56_bq7d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Part II–B of the majority's opinion is both unnecessary to
+the outcome of this litigation and inscrutable in light of how
+revocation sentences are actually determined and imposed.
+Therefore, I cannot join that Part of the opinion.
+Justice Alito , with whom Justice Gorsuch joins,
+dissenting.
+Veteran trial judges often complain that their appellate
+colleagues live in a world of airy abstractions and do not
+give enough thought to the practical effects of their holdings.
+Today's decision is likely to earn the rank of Exhibit A in
+the trial bench's catalog of appellate otherworldliness. The
+Court interprets the Sentencing Reform Act to mean that
+a federal district-court judge, when considering whether to
+impose or alter a term of supervised release, must engage in
+mind-bending exercises. The judge must take into account
+“the nature and circumstances” of a defendant's offense but
+is forbidden to consider “the seriousness of the offense.” 18
+U. S. C. § 3553(a). The judge must consider what is needed
+to “dete[r]” violations of the law or to rehabilitate a defend-
+ant, i. e., to cause him to lead a law-abiding life, but cannot
+be influenced by a desire “to promote respect for the law.”
+Ibid.
+The Sentencing Reform Act does not place district judges
+in such a predicament. Neither the statutory text, the in-
+terpretive canon on which the Court relies, nor the structure
+of the Act supports the Court's interpretation.
+I
+A
+In order to understand these cases and the points on which
+the majority and I disagree, some background information
+about federal sentencing is required. When a defendant is
+“found guilty of an offense,” he may be sentenced to “a term
+of probation,” “a fne,” or “a term of imprisonment.”
+§ 3551(b). And in crafting a sentence, the court is required
+to consider the 10 factors that are set out in § 3553(a). (For
+convenience, I will call these the sentencing factors.)
+If a sentencing court imposes a term of imprisonment, the
+court generally has discretion to include “as a part of the
+sentence” a term of supervised release. § 3583(a). 1 “Super-
+vised release is `a form of postconfinement monitoring' that
+permits a defendant a kind of conditional liberty by allowing
+him to serve part of his sentence outside of prison.” Mont
+v. United States, 587 U. S. 514, 523 (2019) (quoting Johnson
+v. United States, 529 U. S. 694, 697 (2000)). In deciding
+whether to impose and in devising a term of supervised re-
+lease, a judge is required to consider 8 of the 10 sentencing
+factors noted above, specifically, §§ 3553(a)(1), (a)(2)(B),
+(a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7). (For con-
+venience, I will call these the supervised-release factors.)
+During a term of supervised release, a defendant must
+comply with certain standard conditions, such as reporting
+to a probation officer, as well as any special conditions that
+are “tailored specifically” to “the individual case.” Adminis-
+trative Office of the U. S. Courts, Overview of Probation and
+Supervised Release Conditions 8 (2024). If a defendant fails
+to comply with these conditions, revocation of supervised re-
+lease is sometimes mandatory, see, e. g., § 3583(g), but in most
+cases, the court has discretion to choose the appropriate re-
+sponse. For example, it may “extend” supervised release
+“if less than the maximum authorized term was previously
+imposed”; “modify, reduce, or enlarge the conditions of super-
+vised release”; or, more seriously, “revoke” supervised re-
+lease and “require the defendant to serve in prison all or
+part of the term of supervised release authorized by statute
+for the offense that resulted in such term of supervised re-
+lease.” §§ 3583(e)(2), (3). In deciding whether to alter a
+term of supervised release, the court is required to consider
+1 In some cases, the imposition of supervised release is mandatory. See,
+e. g., 18 U. S. C. § 3583(k) (kidnapping offenses); § 3583(j) (terrorism of-
+fenses); 21 U. S. C. §§ 841(b), 960(b) (drug-traffcking offenses).
+the same eight factors that had to be taken into account in
+imposing the term of supervised release in the first place.
+In these cases, the lead petitioner, Edgardo Esteras, vio-
+lated a term of his supervised release by assaulting the
+mother of his children and shooting at her vehicle. The sen-
+tencing judge revoked supervised release and, in doing so,
+referred to Esteras's criminal history and the need to “en-
+courage [him] to be respectful of the law.” App. 96a. Cit-
+ing these remarks, Esteras contends that the judge based
+her decision on an impermissible factor, namely, a desire to
+“promote respect for the law.” This factor, which appears
+in § 3553(a)(2)(A), is one of the two sentencing factors omit-
+ted from the list of supervised-release factors. Esteras
+argues, and the Court now agrees, that the omission of
+§ 3553(a)(2)(A) from the list of supervised-release factors
+means that it cannot be considered. In other words, the
+judge in Esteras's case was obligated to put out of her mind
+any desire “to promote respect for the law.” Before today,
+one might have thought that every aspect of a federal judge's
+work should aim to “promote respect for the law.” Appar-
+ently, that is no longer true.
+B
+The question in these cases is what to make of the omission
+of § 3553(a)(2)(A) from the list of supervised-release factors.
+The Court infers that consideration of this factor is forbid-
+den, and, in so doing, relies almost entirely on a canon of
+interpretation that bears the Latin name expressio unius est
+exclusio alterius. In English, that means “[t]he expression
+of one thing implies the exclusion of others.” A. Scalia &
+B. Garner, Reading Law: The Interpretation of Legal Texts
+107 (2012) (Scalia & Garner). To modify a classic example
+slightly, suppose a sign at the entrance of a park said: “No
+gasoline- or electric-powered vehicles allowed.” Under the
+expressio unius canon, it would be fair to infer that standard
+bikes are permitted. See H. Hart, Positivism and the Sepa-
+ration of Law and Morals, 71 Harv. L. Rev. 593, 607 (1958).
+Although this canon has its place, Reading Law empha-
+sizes that it “must be applied with great caution, since its
+application depends so much on context.” Scalia & Garner
+107. Our cases have made the same point and have often
+rejected use of the canon because of the context in which the
+expression appeared. See, e. g., NLRB v. SW General, Inc.,
+580 U. S. 288, 302 (2017) (“The expressio unius canon applies
+only when circumstances support[ ] a sensible inference that
+the term left out must have been meant to be excluded” (in-
+ternal quotation marks omitted)); Barnhart v. Peabody Coal
+Co., 537 U. S. 149, 168 (2003) (“[T]he canon expressio unius
+est exclusio alterius does not apply to every statutory listing
+or grouping”). Reading Law also contains this important
+warning: “Even when an all-inclusive sense seems apparent,
+one must still identify the scope of the inclusiveness (thereby
+limiting [the] implied exclusion).” Scalia & Garner 108 (em-
+phasis added).
+In these cases, I agree with the Court that the omission
+of two of the sentencing factors from the list of supervised
+release factors gives rise to a negative inference, but I dis-
+agree with the Court about the nature of that inference.
+The most likely—and in my view, the appropriate—inference
+is simply that § 3583(e), the provision listing the supervised-
+release factors, sets out an exclusive list of mandatory fac-
+tors. That is “the scope of the inclusiveness.” The Court,
+however, goes further and infers not just that there are no
+other mandatory factors but that there are no other permis-
+sible factors. That aggressive application of the expressio
+unius canon goes too far. While the inference produced by
+that canon is always dependent on context, the enumeration
+of things that must be done generally does not suggest that
+no other things may be done.
+Consider this example. Suppose I tell my law clerks on a
+Monday that by the end of the week they must complete the
+bench memos in 6 of the 12 cases scheduled for argument
+during the next sitting. That statement would strongly
+imply that completion of other bench memos by the end of
+the week is not mandatory. But the statement would not
+suggest that fnishing other bench memos is forbidden.
+Many other similar examples could be provided.
+To salvage its far-reaching inference, the Court offers its
+own variation on the law-clerk hypothetical. In the Court's
+hypothetical, a judge tells a clerk “to prepare a bench memo
+with a recommendation formed `after considering' statutory
+text, context, and structure, as well as any relevant prece-
+dent.” Ante, at 199. As the Court sees it, if the law clerk
+also reviews secondary sources “to inform her recommenda-
+tion,” the law clerk did not “obe[y] her boss's instructions.”
+Ibid.
+But nothing about the Court's hypothetical suggests the
+law clerk must exclusively consider those four factors.
+Would the clerk necessarily infer from the judge's instruction
+that nothing else could be considered? I doubt it. And if
+the clerk knows that the judge thinks that other factors, such
+as statutory purpose or legislative history, are relevant con-
+siderations, the inference is unlikely.
+For this reason, the Court's use of the expressio unius
+canon exceeds its customary and proper use, and the Court
+provides no good reason for its aggressive use of that inter-
+pretive tool. The Court finds it significant that Congress
+included in the list of supervised-release factors “almost the
+entire list” of sentencing factors but left out § 3553(a)(2)(A).
+Ante, at 195. According to the Court, this makes “all the
+more glaring” Congress's intention that sentencing courts
+should not consider § 3553(a)(2)(A) when modifying a term of
+supervised release. Ibid.
+This is illogical. When a provision sets out a rule and
+lists items to which the rule applies, the length of the list
+may bolster the strength of the inference that the list is ex-
+haustive, but it does not alter the scope of the rule. Suppose
+I tell friends who are visiting Washington, D. C., for the first
+time that they must visit a list of enumerated sites. If the
+list is long, they might infer that I do not think that there are
+any other sites that they should necessarily try to squeeze
+in. But it is doubtful that they would infer that I am sug-
+gesting that they should necessarily avoid seeing anything
+else that might catch their interest.
+In short, the expressio unius canon is insufficient to sup-
+port the Court's interpretation.
+II
+The Court's interpretation is also inconsistent with the
+text and structure of the Sentencing Reform Act.
+A
+Starting with the text, I note three features that counsel
+against acceptance of the Court's interpretation.
+First, the relevant provisions of the Sentencing Reform
+Act lack language like that included in other provisions of
+the Act that limit a court's consideration of specified factors.
+For example, § 3582(a)—the provision that directly precedes
+the provision setting out the mandatory supervised-release
+factors in § 3583—expressly states that a judge's decision
+whether to impose a term of imprisonment may not be based
+on a desire to “promot[e] correction and rehabilitation.”
+When “Congress includes particular language in one section
+of a statute but omits it in another section of the same Act,
+it is generally presumed that Congress acts intentionally and
+purposely in the disparate inclusion or exclusion.” Russello
+v. United States, 464 U. S. 16, 23 (1983) (internal quotation
+marks omitted). Or take § 3565(b), which (as amended in
+1988) contains an implicit prohibition on consideration of the
+sentencing factors. See 102 Stat. 4361. That provision
+mandates revocation of probation if certain conditions are
+met, and Congress apparently gave courts no discretion to
+even consider the sentencing factors. As a result, the ab-
+sence of any even remotely similar language in § 3583(e) is
+telling.
+Second, we can infer that the Sentencing Reform Act
+allows a judge to consider all the sentencing factors because
+there are some situations in which factors omitted from the
+list of supervised-release factors must be considered. One
+such situation occurs when a judge decides how to respond
+to a defendant's violation of the terms of supervised release
+because in that situation the judge must consider exactly
+what is set out in § 3553(a)(3), which is one of the sentencing
+factors omitted from the list of supervised-release factors.
+That provision refers to “the kinds of sentences available,”
+and when a judge is deciding what to do about a defendant
+who has violated the terms of supervised release, the judge
+must consider the available options, which include termi-
+nation, extension, modification, and revocation. § 3583(e).
+Because a term of supervised release is “part of a sentence,”
+each one of these options changes the defendant's sentence.
+And therefore, this list of options constitutes a list of “the
+kinds of sentences available.” 2
+Consideration of “the kinds of sentences available” may be
+required during a revocation proceeding for yet another
+reason. When a sentencing court revokes a term of super-
+vised release and sends the defendant back to prison, the
+maximum period of additional confinement authorized de-
+pends on the class of the underlying offense. See § 3583(e)(3).
+So a sentencing court determining the permissible range of
+reimprisonment will necessarily consider the “kinds of sen-
+tences” authorized under the statute of conviction.
+Third, and most important, the Court's interpretation can-
+not account for the inextricable relationship between the
+2 The Court argues that these options are not “kinds of sentences” be-
+cause the Sentencing Reform Act recognizes only three types of sentences:
+probation, fnes, and imprisonment. See ante, at 193, n. 4. According to
+the Court, supervised release is not a “ `kin[d] of sentenc[e]' ” but is instead
+merely “a component of a defendant's prison sentence.” Ibid. But the
+Sentencing Reform Act never says that there are only three “kinds” of
+sentences. See § 3551(b).
+omitted sentencing factor at issue in these cases, i. e.,
+§ 3553(a)(2)(A), and the sentencing factors that a judge must
+consider in deciding whether to alter a term of supervised
+release. Recall that § 3553(a)(2)(A) requires, among other
+things, consideration of “the seriousness of the offense,” and
+according to the Court, taking that factor into account is pro-
+hibited. But it is undisputed that a judge must consider
+“the nature and circumstances of the offense” when altering
+a term of supervised release. §§ 3553(a)(1), 3583(e). Since
+“the seriousness of the offense” is part of “the nature of the
+offense,” the Court's interpretation gives district judges ir-
+reconcilable instructions.
+Another part of § 3553(a)(2)(A) creates a similar problem
+for the Court. Section 3553(a)(2)(A) refers to “the need . . .
+to promote respect for the law,” and because that provision
+is omitted from the supervised-release factors, the Court
+holds that consideration of this factor is not allowed either.
+But the Sentencing Reform Act demands consideration of
+factors that are hard to separate from “promot[ing] respect
+for the law.” In deciding whether to alter a term of super-
+vised release, a judge must consider “the need . . . to afford
+adequate deterrence to criminal conduct,” § 3553(a)(2)(B),
+and the whole point of deterrence is to encourage respect for
+and compliance with the law.
+The Court struggles in vain to explain away this clash be-
+tween what its interpretation forbids and what the Sentenc-
+ing Reform Act demands. It entirely ignores the relation-
+ship between “afford[ing] adequate deterrence” (a
+mandatory consideration) and “promot[ing] respect for the
+law” (outlawed under its interpretation). And as for the
+conflict between requiring consideration of the “nature and
+circumstances of the offense” and banning consideration of
+“the seriousness of the offense,” the Court's response is an
+elaborate theory that has no grounding in the statutory text.
+The Court begins by claiming that § 3553(a)(2)(A) relates
+solely to retribution and not to any of the other three permit-
+ted goals of punishment—deterrence, incapacitation, and
+rehabilitation. See ante, at 200. But that is simply
+not true with respect to two of the objectives to which
+§ 3553(a)(2)(A) refers, i. e., the need for a sentence to reflect
+“the seriousness of the offense” and “to promote respect for
+the law.” These two factors implicate other purposes of
+punishment too. For example, if the offense in question is
+very serious, there is a heightened need for deterrence and
+incapacitation, and rehabilitation may be harder. So the
+Court's theory veers off course at the start.
+After that flawed beginning, the Court tells us that the
+supervised-release factors operate as a kind of purpose flter.
+Section 3553(a)(2) enumerates four factors that, in the
+Court's view, reflect the four recognized purposes of punish-
+ment. The Court tells us that the “nature and circum-
+stances of the offense” must be considered in light of one
+of those four purposes. See ante, at 200; accord, Brief for
+Petitioners 34–35. The supervised-release factors, however,
+include only three of those four purposes and exclude the
+goal of retribution supposedly encapsulated in § 3553(a)
+(2)(A). So, in the Court's view, the supervised-release stat-
+ute flters out § 3553(a)(2)(A) and thereby prohibits a court
+from any consideration of the “nature and circumstances of
+the offense” in light of § 3553(a)(2)(A)'s supposedly “retribu-
+tive focus” and concern with the “seriousness of the offense.”
+Ante, at 200.
+None of this has any textual support, and it does not solve
+the problem faced by a judge who is compelled to consider
+the nature and circumstances of an offense but forbidden to
+consider its seriousness. If taken seriously, it does not alter
+in any way the information that judges may consider. In-
+stead, it merely calls on them to probe their mental processes
+to ensure that no thoughts of retribution entered in. 3 Im-
+3 Here is an example. Suppose a defendant's offense of conviction was
+interstate travel in violation of a protective order prohibiting threats, har-
+assment, or contact with his former wife. See 18 U. S. C. § 2262(a). And
+posing such a soul-searching obligation as a requirement that
+may be enforced in litigation is utterly impractical.
+B
+No more is needed to reject the Court's interpretation, but
+I note for good measure that the structure of the Sentencing
+Reform Act also weighs against the Court's interpretation.
+The Act gives express instructions about the way in which
+the sentencing factors apply to decisions regarding the impo-
+sition of each of the Act's three primary penalties (i. e., im-
+prisonment, probation, fnes). These instructions fall into
+one of two categories. Instructions in the first category
+either mandate consideration of all the sentencing factors 4 or
+require their consideration to the extent they are relevant to
+suppose that the trial evidence showed the defendant engaged in conduct
+that caused his former wife very severe emotional distress. After serv-
+ing his sentence, the defendant is given supervised release but quickly
+violates a condition of release by resuming the very conduct that landed
+him in prison in the first place. The judge must decide what to do.
+Heeding the requirement to consider “the nature and circumstances of the
+offense,” the judge calls to mind the trial evidence. Then, as required by
+the Sentencing Reform Act, the judge considers whether this information
+suggests that reimprisonment is needed either to “afford adequate deter-
+rence,” § 3553(a)(2)(B) (i. e., to cause the defendant to leave his former wife
+alone), or to “protect the public from further crimes of the defendant,”
+§ 3553(a)(2)(C) (i. e., to keep the defendant's former wife safe during the
+period of reimprisonment).
+The effect of the Court's fltering scheme is to complicate the judge's
+consideration of all these matters by demanding that he search his con-
+science and ask: “Have I let any thought of retribution enter into my
+thinking? I am inclined to send the defendant back to prison for x
+months, and I think I'm doing that to achieve deterrence and incapacita-
+tion. But was I somehow influenced by moral disapproval of the defend-
+ant's conduct and the feeling that at least part of the x additional months
+is simply what he deserves?”
+4 See § 3572(a) (requiring the consideration of all sentencing factors in
+imposing fnes); § 3584(b) (same for the decision whether to run sentences
+concurrently or consecutively).
+the type of sentence in question. 5 By contrast, instructions
+in the second category expressly prohibit consideration of
+specific sentencing factors. 6
+What is remarkable about § 3583(e), which lists the manda-
+tory supervised-release factors, is that it does not fall into
+either of these categories. It neither demands consideration
+of all relevant sentencing factors nor prohibits consideration
+of some or all of them. Instead, it requires consideration of
+some of the mandatory sentencing factors but says nothing
+about the rest. The appropriate inference is that § 3583(e)
+is meant to have a different effect: namely, to give sentencing
+courts discretion to consider the omitted factors.
+Such discretion is consistent with the Sentencing Reform
+Act's general approach to supervised release, which confers
+broad discretion on trial judges. In most cases, sentencing
+courts “may include” a term of supervised release “as a part”
+of “a sentence to a term of imprisonment,” § 3583(a), and
+5 See § 3562(a) (requiring the consideration of all sentencing factors “to
+the extent that they are applicable” in imposing an initial term of proba-
+tion); § 3564(c) (same for early termination of probation); § 3565(a) (same
+for the revocation of probation).
+6 Section 3582(a) prohibits consideration of rehabilitation in deciding on
+a sentence of imprisonment. See Tapia v. United States, 564 U. S. 319,
+332 (2011). Similarly, in § 3563(b), Congress confined the discretion of sen-
+tencing courts to a particular subset of the § 3553(a) factors. Under that
+provision, sentencing courts may set conditions of probation “to the extent
+that such conditions are reasonably related to the factors set forth in sec-
+tion 3553(a)(1) and (a)(2) and to the extent that such conditions involve
+only such deprivations of liberty or property as are reasonably necessary
+for the purposes indicated in section 3553(a)(2).” Congress's use of limit-
+ing language (“to the extent that” and “as are reasonably necessary”)
+makes its restrictive intent clear. Another provision of the Act appears
+to go even further by removing a sentencing court's discretion to consider
+the § 3553(a) factors at all. Section 3565(b) provides that a sentencing
+court “shall revoke [a] sentence of probation” if the defendant possesses
+controlled substances or firearms, refuses to comply with drug testing, or
+fails a drug test more than three times over the course of a year. No
+mention of the § 3553(a) factors is made.
+“may” terminate, extend, or revoke supervised release,
+§ 3583(e).
+This grant of discretion tracks the background principles
+against which the Act was drafted, namely, “the established
+tradition of district courts' sentencing discretion.” Concep-
+cion v. United States, 597 U. S. 481, 495 (2022). As we re-
+cently noted, “[t]he only limitations on a court's discretion to
+consider any relevant materials at an initial sentencing or in
+modifying that sentence are those set forth by Congress in
+a statute or by the Constitution.” Id., at 494; see § 3661.
+“Congress is not shy about placing such limits” on sentencing
+discretion, id., at 494, and its failure to do so in § 3583(e)
+permits the inference that sentencing courts retain discre-
+tion to consider “any relevant materials,” including the omit-
+ted § 3553(a) factors, ibid.7
+7 Congress's decision to omit § 3553(a)(2)(A) specifically has its own logic.
+Congress may have sought to encourage sentencing courts to give greater
+weight to the remaining purposes of sentencing set forth in § 3553(a)(2) to
+ensure that “[s]upervised release fulflls [its] rehabilitative ends.” United
+States v. Johnson, 529 U. S. 53, 59 (2000). But in doing so, Congress likely
+understood that sealing off any discretion to consider § 3553(a)(2)(A)'s re-
+tributive factors would be impracticable. Supervised release is “a part
+of” “a term of imprisonment for” the defendant's offense, § 3583(a), and
+when a sentencing court imposes a term of imprisonment for the offense,
+it must consider § 3553(a)(2)(A), see § 3582(a).
+Congress may have rendered the three § 3553(a)(2)(A) factors discretion-
+ary because it understood that each factor may apply in some, though not
+all, hearings regarding the alteration of supervised release. The need “to
+promote respect for law” strikes me as an evergreen concern when a court
+is considering what remedy best enables a defendant to “learn to obey the
+conditions of his supervised release.” 88 F. 4th 1163, 1167 (CA6 2023)
+(internal quotation marks omitted). But the need “to provide just punish-
+ment for the offense” seems less relevant when a sentencing court ad-
+dresses a violation of supervised release. And the relevance of the re-
+maining § 3553(a)(2)(A) factor—the need “to reflect the seriousness of the
+offense”—depends on context. If, for example, a sentencing court decides
+to revoke supervised release following a defendant's violation, it must, as
+already explained, examine how Congress categorized the offense's “seri-
+ousness” to determine the authorized term of reimprisonment. See
+III
+A
+The Court attempts to buttress its interpretation by citing
+statements made in two of our prior cases, but the holdings
+in those cases were far afield from the question presented
+here, and the comments in question simply provided back-
+ground. In Tapia v. United States, 564 U. S. 319 (2011), we
+held that a sentence of imprisonment cannot be imposed or
+extended to foster a defendant's rehabilitation. Before di-
+rectly addressing that issue in Part III of the opinion, Part
+II provided “statutory background.” Id., at 323. After
+noting the four purposes of sentencing, the opinion stated
+that under the Sentencing Reform Act, “a particular purpose
+may apply differently, or even not at all, depending on the
+kind of sentence under consideration.” Id., at 326. As an
+example, the opinion stated that under § 3583(c), “a court
+may not take account of retribution (the first purpose listed
+in § 3553(a)(2)) when imposing a term of supervised release.”
+Ibid . (emphasis in original). Because the wording of
+§ 3583(c) is similar to that of § 3583(e)—the provision that
+controls alteration of a term of supervised release—the
+Court today treats Tapia's statement as strong support for
+its decision.
+This reads too much into what is plainly peripheral dicta.
+For one thing, it is not even clear that the statement means
+what the Court claims. The verb “may” sometimes denotes
+“permission” and sometimes denotes “possibility.” Random
+House Webster's Unabridged Dictionary 1189 (2d ed. 2001).
+The Court reads the statement in Tapia to mean permission:
+a judge may not consider retribution because that is not al-
+lowed. But the statement could also mean “possibility”: a
+§ 3583(e)(3). But if the court instead opts for a less-severe sanction, such
+as the modification of a condition of release, it is not necessarily required
+to consider how Congress scored the underlying offense's “seriousness.”
+See § 3583(e)(2).
+judge, as a matter of discretion, may choose not to take retri-
+bution into account. It is debatable which reading is better,
+and in any event, as the opinion stated twice, the statement
+was merely “statutory background.” 564 U. S., at 323, 326.
+Moreover, Tapia “dealt with a different sentencing law” con-
+cerned with imposing imprisonment, not supervised release,
+and the Court's drive-by analysis of § 3583(c) did nothing to
+reckon with Congress's lack of “explicit directions” as to the
+omitted sentencing factors. 88 F. 4th 1163, 1168 (CA6 2023).
+Such “[d]ictum settles nothing, even in the court that utters
+it.” Jama v. Immigration and Customs Enforcement, 543
+U. S. 335, 351, n. 12 (2005).
+The Court's other precedent, Concepcion v. United States,
+597 U. S. 481, is no better. The holding in that case—that
+sentencing courts adjudicating motions to reduce a sentence
+under the First Step Act have discretion to consider inter-
+vening changes in the law or relevant facts—is far removed
+from the question here. After emphasizing that sentencing
+judges have generally exercised broad discretion regarding
+the facts considered in sentencing determinations, the opin-
+ion noted that Congress has sometimes imposed restrictions;
+as an illustration, it simply cited the statement made in
+Tapia. See 597 U. S., at 494.
+Whatever weight these dicta merit, they are surely insuf-
+fcient to support today's decision.
+B
+The Court attempts to justify its interpretation by draw-
+ing a hard line between the Act's primary penalties—
+“[f]ines, probation, and imprisonment”—and supervised re-
+lease. Ante, at 196. In its view, the former are a court's
+main “tools for ensuring that a criminal defendant receives
+just deserts for the original offense.” Ibid. But “when a de-
+fendant violates the conditions of his supervised release,” the
+Court reasons, “it makes sense that a court must consider
+the forward-looking ends of sentencing (deterrence, incapac-
+itation, and rehabilitation), but may not consider the
+backward-looking purpose of retribution.” Ibid.
+This argument exaggerates the distinction between the
+two classes of penalties to which the Court refers. Contrary
+to the Court's suggestion, a decision about the revocation
+of supervised release may call for consideration of certain
+backward-looking factors. For example, under § 3583(e)(3),
+the limits of the discretion enjoyed by a court considering
+the revocation of supervised release depend on the class (A,
+B, C, or D) of the “statute for the offense that resulted in
+[the] term of supervised release.” Section 3583(e) also man-
+dates consideration of § 3553(a)(6), which, in turn, requires
+consideration of “the need to avoid unwarranted sentence
+disparities among defendants with similar records who have
+been found guilty of similar conduct.” In assessing that fac-
+tor, a sentencing court must necessarily look back to the de-
+fendant's offense conduct and also consider the past offense
+conduct of similarly situated defendants.
+A defendant's original offense may also be important when
+a judge is considering whether a violation of a condition of
+supervised release is serious enough to justify sending the
+violator back to prison for a particular length of time. Con-
+sider a defendant convicted for the possession of child por-
+nography who later violates a special condition of his release
+restricting his viewing of any sexually explicit materials, in-
+cluding material that depicts teenagers who are not actually
+under the age of 18. In such a case, the serious nature of
+the original crime may be thought to have a bearing on the
+implications of the later violation and the need for reimpris-
+onment to deter the defendant from future backsliding, to
+protect society from the consequences of child pornography,
+or to provide the opportunity for further rehabilitation ef-
+forts in prison.
+It is revealing that the Court only half-heartedly buys its
+forward-looking/ backward-looking distinction. In a foot-
+note, the Court refuses to take a position on the question
+whether a sentencing court may revoke supervised release
+in retribution “for the violation of the conditions of the su-
+pervised release.” Ante, at 194, n. 5 (emphasis deleted).
+IV
+In addition to all these faults, the Court's interpretation,
+as I emphasized at the outset of this opinion, defies com-
+mon sense.
+The Court's interpretation of which sentencing factors a
+court may consider in altering a term of supervised release
+must also apply when a court is initially imposing a term
+of supervised release. The relevant wording in § 3583(c),
+which governs the imposition of supervised release, and
+§ 3583(e), which governs the alteration of supervised release,
+cannot be meaningfully distinguished. But applying the
+Court's interpretation to the original imposition of super-
+vised released creates a huge practical problem. A term of
+imprisonment and a term of supervised release are often im-
+posed at the same time. In imposing a prison term, a court
+must consider all of the 10 sentencing factors, but under to-
+day's reading of the Sentencing Reform Act, the court is pro-
+hibited from considering 2 of those factors when it turns to
+the issue of supervised release. How this will work in prac-
+tice is anyone's guess. Must sentencing courts “adjourn the
+hearing after imposing” imprisonment and then “start over
+with a new unblemished inquiry” and without giving any
+thought to the omitted § 3553(a) factors? 88 F. 4th, at 1168.
+The Sixth Circuit feared that might be required. Many dis-
+trict judges may soon face this problem because “[t]he vast
+majority (95.1%)” of offenders convicted of a felony or Class
+A misdemeanor are also “sentenced to terms of supervised
+release.” United States Sentencing Commission, Federal
+Offenders Sentenced to Supervised Release 50 (2010). In-
+deed, in 2024, supervised release was imposed in 50,865
+cases. See United States Sentencing Commission, 2024
+Sourcebook of Federal Sentencing Statistics 41.
+Other daunting practical problems will arise when judges
+are deciding whether to alter a defendant's term of super-
+vised release. When sending a violator of supervised re-
+lease back to prison, a court must carefully control every
+word that is uttered to explain the decision. Avoiding the
+language of § 3553(a)(2)(A)—“the seriousness of the offense,”
+“respect for the law,” and “just punishment for the of-
+fense”—is obviously essential. But what about synonyms
+and other arguably related words and phrases? Not only
+must sentencing judges avoid verbal missteps, they must do
+so while heeding the requirement to consider mandatory
+supervised-release factors that are essentially inseparable
+from the factors that are fatal. See supra, at 215.
+The potential consequences of the Court's interpretation
+are so alarming that many of the lower courts that have
+adopted today's interpretation have squirmed to avoid its ef-
+flects. See, e. g., United States v. Miqbel, 444 F. 3d 1173, 1182
+(CA9 2006) (“[A] sentence would be unreasonable if the court
+based it primarily on an omitted factor, such as a factor
+provided for in § 3553(a)(2)(A). . . . We do not suggest that a
+mere reference to promoting respect for the law would in
+itself render a sentence unreasonable” (emphasis added));
+United States v. Sanchez, 900 F. 3d 678, 684, n. 5 (CA5 2018)
+(“Of course, this is not to say that any use of words like
+`punish,' `serious,' or `respect' automatically renders a revo-
+cation sentence void. Mere mention of impermissible fac-
+tors is acceptable; to constitute reversible error . . . the for-
+bidden factor must be `dominant' ” (quoting United States v.
+Rivera, 784 F. 3d 1012, 1017 (CA5 2015))).
+Today's decision is similar. After adopting an impractical
+interpretation, the decision takes the remarkable step of out-
+lining ways in which sentencing judges and courts of appeals
+can avoid strict compliance. At the trial level, if the defense
+objects that a comment made by the judge crosses the line,
+the Court counsels that the judge can easily ward off rever-
+sal. The judge can “withdraw any impermissible” remark
+or recast any “stray reference to a § 3553(a)(2)(A) factor” as
+“merely prefatory.” Ante, at 203. In addition, the judge
+may “explain that a stray reference” to a prohibited factor
+was actually “intended to bear on” a mandatory factor with
+which it is closely related. Ibid.
+After providing this roadmap for district judges, the Court
+turns to the courts of appeals. The Court reminds circuit
+judges that an appeal based on today's decision “will be gov-
+erned by plain-error review,” assuming the defendant fails
+to object in the district court. Ante, at 202. And plain-
+error review, as we have long observed, is an “exacting”
+standard and is meant to correct “only particularly egregious
+errors” that “seriously affect the fairness, integrity or public
+reputation of judicial proceedings.” United States v. Young,
+470 U. S. 1, 15 (1985) (internal quotation marks omitted).
+Reading between the lines, the Court's message is clear.
+Unless a district judge obdurately fails to backtrack as rec-
+ommended when there is an objection based on today's deci-
+sion, there should be few problems. The Court's outline
+shows that it has a low opinion of the value of its handiwork,
+and that should seal the case that the whole effort is a
+mistake.
+* * *
+For these reasons, I cannot agree with the Court's deci-
+sion, and I therefore respectfully dissent.

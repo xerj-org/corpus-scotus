@@ -1,0 +1,408 @@
+Andrew v. White — No. 23-6573 — October Term 2024 — decided 1/21/25 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 604 U.S. 86
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r08_db8e.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+87Cite as: 604 U
+. S. 86 (2025)
+Per Curiam
+whether to overrule a set of prior cases that had categorically barred
+the introducti
+on of victim impact evidence during the sentencing phases
+of a capital trial. The Court concluded that a categorical bar was not
+necessary to protect defendants because another protection (the Due
+Process Clause) remained available to challenge the introduction of evi-
+dence “that is so unduly prejudicial that it renders the trial fundamen-
+tally unfair.” 501 U. S., at 825 (citing Darden v. Wainwright, 477 U. S.
+168, 179–183). Importantly, Payne broke little new ground in recogniz-
+ing that the Due Process Clause protects against the use of unduly prej-
+udicial evidence. See, e. g., Donnelly v. DeChristoforo, 416 U. S. 637;
+Caldwell v. Mississippi, 472 U. S. 320, 338–340; Darden, 477 U. S., at
+178–183. If the Tenth Circuit thought itself constrained by AEDPA to
+limit Payne to its facts, it was mistaken. General legal principles can
+constitute clearly established law for purposes of AEDPA so long as
+they are holdings of this Court. See Lockyer v. Andrade, 538 U. S. 63,
+72. Although this Court has not previously relied on Payne to invali-
+date a conviction for improperly admitted prejudicial evidence, more-
+over, “certain principles are fundamental enough that when new factual
+permutations arise, the necessity to apply the earlier rule will be be-
+yond doubt.” White, 572 U. S., at 427 (internal quotation marks omit-
+ted); see also Taylor v. Riojas, 592 U. S. 7, 9 (per curiam ) (“ ‘[A] general
+constitutional rule already identiﬁed in the decisional law may apply
+with obvious clarity to a speciﬁc set of facts’ ” (quoting Hope v. Pelzer,
+536 U. S. 730, 741)). Because the Tenth Circuit held that no relevant
+clearly established law existed (a ruling the Court reviews de novo), it
+never considered whether the state court’s application of that law was
+reasonable as to either the guilt or sentencing phase. The case is re-
+manded for the Tenth Circuit to do so in the ﬁrst instance.
+Certiorari granted; 62 F. 4th 1299, vacated and remanded.
+Per Curiam.
+An Oklahoma jury convicted Brenda Andrew of murdering
+her husband, Rob Andrew, and sentenced her to death. The
+State spent signiﬁcant time at trial introducing evidence
+about Andrew’s sex life and about her failings as a mother
+and wife, much of which it later conceded was irrelevant. In
+a federal habeas petition, Andrew argued that this evidence
+had been so prejudicial as to violate the Due Process Clause.
+The Court of Appeals rejected that claim because, it thought,
+no holding of this Court established a general rule that the
+
+Per
+Curiam
+erroneous admission of prejudicial evidence could violate due
+process. That was wrong
+. By the time of Andrew’s trial,
+this Court had made clear that when “evidence is introduced
+that is so unduly prejudicial that it renders the trial funda-
+mentally unfair, the Due Process Clause of the Fourteenth
+Amendment provides a mechanism for relief.”Paynev.
+Tennessee, 501 U. S. 808, 825 (1991).
+I
+A
+On November 20, 2001, Rob Andrew was fatally shot in
+his garage. Brenda Andrew, who herself had been shot in
+the arm during the incident, told the police that two armed
+assailants had committed the shooting. Andrew further ex-
+plained that she had separated from her husband and was
+now dating James Pavatt, but that she and Rob continued to
+see each other as they had two children together.
+Pavatt and Andrew traveled to Mexico together after Rob
+Andrew’s death and soon became suspects in his murder.
+Eventually, Pavatt confessed to committing the shooting
+with a friend. Pavatt denied that Andrew had been in-
+volved. The State thereafter charged both Pavatt and An-
+drew with capital murder, and a jury convicted Pavatt and
+sentenced him to death.
+At Andrew’s trial, the prosecution sought to prove that
+Andrew had conspired with Pavatt, an insurance agent, to
+murder her husband for the proceeds of his life insurance
+policy. Among other things, the prosecution elicited testi-
+mony about Andrew’s sexual partners reaching back two
+decades; about the outﬁts she wore to dinner or during gro-
+cery runs; about the underwear she packed for vacation; and
+about how often she had sex in her car. At least two of the
+prosecution’s guilt-phase witnesses took the stand exclu-
+sively to testify about Andrew’s provocative clothing, and
+others were asked to comment on whether a good mother
+would dress or behave the way Andrew had. In its closing
+
+89Cite as: 604 U
+. S. 86 (2025)
+Per Curiam
+statement, the prosecution again invoked these themes, in-
+cluding by display
+ing Andrew’s “thong underwear” to the
+jury, by reminding the jury of Andrew’s alleged affairs dur-
+ing college, and by emphasizing that Andrew “had sex on
+[her husband] over and over and over” while “keeping a boy-
+friend on the side.” Tr. 4103, 4124–4125 (July 12, 2004). At
+both the guilt and sentencing phases, prosecutors contrasted
+Andrew with the victim, whom they asserted had been “com-
+mitted to God.” Id., at 4124; see also, e. g., Tr. 4402 (July
+14, 2004) (suggesting nothing could mitigate murder of Rob
+Andrew because he just “wanted to love God”). 1
+B
+The jury convicted Andrew and sentenced her to death.
+On appeal, Andrew argued that the introduction of irrele-
+vant evidence, including evidence “that she had extramarital
+sexual affairs with two other men,” that she had “ ‘come on
+1 The dissent recites what it insists was substantial evidence of Andrew’s
+guilt, contending in the process that this Court “inaccurately portrays”
+that evidence.Post, at 98 (opinion ofThomas, J.). In doing so, it pre-
+judges the prejudice analysis by characterizing as fact the State’s narra-
+tive at trial. That narrative, of course, was hotly contested then and re-
+mains so now. For example, the defense elicited testimony from multiple
+witnesses that Andrew knew on the day of the murder that she was not
+the beneﬁciary on the life insurance policy. The Oklahoma Court of Crim-
+inal Appeals (OCCA) held that the court also wrongly excluded evidence
+Andrew argued would cast doubt on the theory that she had staged the
+shooting, though the OCCA held that exclusion was harmless.Andrewv.
+State, 2007 OK CR 23, ¶¶89–92, 164 P. 3d 176, 197. The Court today says
+nothing about the strength of the evidence against Andrew because the
+issue of prejudice in both the guilt and sentencing phases of the trial is
+one for the Tenth Circuit to consider on remand. Seeinfra, at 96. Simi-
+larly, the dissent asserts that Andrew falsely accuses the prosecution of
+calling her a “slut puppy” in closing argument.Post, at 103, n. 3 (opinion
+ofThomas, J.).Whether the prosecution quoted something it believed
+Andrew once said to suggest to the jury that Andrew herself was a “slut
+puppy,” or simply to recite an alleged abusive phone call, is a question of
+fact for the Tenth Circuit to resolve.
+
+Per
+Curiam
+to’ ” another witness’s sons, and that she had dressed provoc-
+atively at a rest
+aurant, Andrew v. State, 2007 OK CR 23,
+¶¶42–59, 164 P. 3d 176, 190–193, violated Oklahoma law as
+well as the Federal Due Process Clause. The OCCA held
+that admission of evidence about Andrew’s extramarital af-
+fairs had been proper because it showed that “[h]er co-de-
+fendant was just the last in a long line of men that she se-
+duced.”Id.,at 192. 2 The OCCA “struggl[ed],” however,
+“to ﬁnd any relevance . . . other than to show [Andrew’s]
+character” for the remaining challenged evidence.Ibid.
+By now, the State “agree[d] that most of this evidence was
+irrelevant to any issue in this case.”Ibid.The OCCA
+nonetheless denied relief on the ground that the trial court’s
+errors had been harmless.
+Judge Johnson dissented in part. In her view, the “egre-
+gious . . . pattern of introducing evidence that ha[d] no pur-
+pose other than to hammer home that Brenda Andrew is a
+bad wife, a bad mother, and a bad woman . . . trivialize[d]
+the value of her life in the minds of the jurors.”Id., at 206–
+207. She would therefore have vacated her sentence.
+Judge Chapel dissented separately, indicating that he would
+have reversed the conviction and remanded for a new trial.
+Id., at 208.
+2 The dissent asserts that the OCCA held evidence of Andrew’s “ ‘close
+personal relationship’ ” with two of her affair partners to be relevant be-
+cause it gave credence to testimony that Andrew had “ ‘shared with both
+of these men her hatred for Rob Andrew and her wish that he was dead.’ ”
+Post, at 102 (opinion ofThomas, J.) (quoting 164 P. 3d, at 192). Andrew
+never objected to evidence that she had a “close personal relationship”
+with these men. In fact, defense counsel stipulated that she had affairs
+with them. See,e.g., Tr. 338 (June 18, 2004) (“We’re not contesting the
+affair. We have never contested the affair with Nunley or Higgins”).
+Andrew’s claim instead concerned the extensive testimony about how she
+ﬂirted with these men, how she dressed around them, and how many times
+(and where) she had sex with them. That testimony appears to have no
+bearing on Andrew’s alleged expressions of hatred for her husband.
+
+91Cite as: 604 U
+. S. 86 (2025)
+Per Curiam
+In federal court, Andrew reiterated her claim that the ad-
+mission of th
+is evidence rendered the guilt and penalty
+phases of her trial fundamentally unfair, in violation of due
+process. 62 F. 4th 1299, 1312–1313 (CA10 2023). The Dis-
+trict Court denied relief. A divided Tenth Circuit afﬁrmed
+because, it held, Andrew had failed to cite “clearly estab-
+lished federal law governing her claim.” Id., at 1314. The
+majority acknowledged that Andrew had citedPayne, in
+which this Court said that the Due Process Clause “provides
+a mechanism for relief” when the introduction of unduly
+prejudicial evidence “renders [a] trial fundamentally unfair.”
+501 U. S., at 825. According to the majority, however, that
+had been a “pronouncement,” not a “holding,” of this Court.
+62 F. 4th, at 1314. It therefore concluded Andrew had failed
+to identify “clearly established federal law governing her
+claim,” as required under the Antiterrorism and Effective
+Death Penalty Act of 1996 (AEDPA).Id., at 1316; 28
+U. S. C. § 2254(d)(1). As a result, the majority declined to
+consider whether the OCCA unreasonably appliedPayne,
+i.e., whether a fairminded jurist could hold that the admis-
+sion of irrelevant evidence about Andrew’s demeanor as a
+woman was not so prejudicial as to deprive her of a funda-
+mentally fair trial. 62 F. 4th, at 1316 (“ ‘The absence of
+clearly established federal law is dispositive under
+§ 2254(d)(1)’ ” (quotingHousev.Hatch, 527 F. 3d 1010, 1018
+(CA10 2008))).
+In dissent, Judge Bacharach condemned the State’s focus
+“from start to ﬁnish on Ms. Andrew’s sex life,” a move he
+argued “portrayed Ms. Andrew as a scarlet woman, a mod-
+ern Jezebel, sparking distrust based on her loose morals . . .
+plucking away any realistic chance that the jury would seri-
+ously consider her version of events.” 62 F. 4th, at 1366.
+Judge Bacharach therefore would have held that the combi-
+nation of evidentiary errors “deprived Ms. Andrew of a fun-
+damentally fair trial.”Id., at 1377.
+
+Per
+Curiam
+II
+A federal cour
+t may grant habeas relief as to a claim adju-
+dicated on the merits in state court only if the state court
+relied on an unreasonable determination of the facts or un-
+reasonably applied “clearly established Federal law, as deter-
+mined by” this Court. 28 U. S. C. §§ 2254(d)(1)–(2). To
+show that a state court unreasonably applied clearly estab-
+lished federal law, a petitioner must show that the court un-
+reasonably applied “ ‘the holdings, as opposed to the dicta, of
+this Court’s decisions.’ ”Whitev.Woodall, 572 U. S. 415,
+419 (2014) (quotingHowesv.Fields, 565 U. S. 499, 505
+(2012)). An unreasonable application, in turn, is one with
+which no fairminded jurist would agree.Harringtonv.
+Richter, 562 U. S. 86, 101 (2011).
+A
+When this Court relies on a legal rule or principle to de-
+cide a case, that principle is a “holding” of the Court for
+purposes of AEDPA.Lockyerv.Andrade, 538 U. S. 63, 71–
+72 (2003) (“[C]learly established Federal law . . . is the gov-
+erning legal principle or principles set forth by the Supreme
+Court at the time the state court renders its decision” (inter-
+nal quotation marks omitted)). Following these principles,
+it is clear that Andrew properly identiﬁed clearly established
+federal law.
+InPayne, this Court considered whether to overrule a set
+of prior cases that had categorically barred the introduction
+of victim impact evidence during the sentencing phases of a
+capital trial. The Court noted that, in many circumstances,
+“victim impact evidence serves entirely legitimate pur-
+poses,” 501 U. S., at 825, even though in others it could be
+prejudicial. It then concluded that a categorical bar was not
+necessary to protect against the risk of prejudicial testimony
+because “the Due Process Clause of the Fourteenth Amend-
+ment provides a mechanism for relief” against the introduc-
+tion of evidence “that is so unduly prejudicial that it renders
+
+93Cite as: 604 U
+. S. 86 (2025)
+Per Curiam
+the trial fundamentally unfair.” Ibid. (citing Darden v.
+Wainwri
+ght, 477 U. S. 168, 179–183 (1986)). In light of that
+protection, the Court held, it could permit victim impact evi-
+dence where appropriate without risking undue prejudice to
+defendants. 501 U. S., at 825. In other words, the Court
+removed one protection for capital defendants (the per se
+bar on victim impact statements) in part because another
+protection (the Due Process Clause) remained available
+against evidence that is so unduly prejudicial that it renders
+the trial fundamentally unfair. The legal principle on which
+Andrew relies, that the Due Process Clause can in certain
+cases protect against the introduction of unduly prejudicial
+evidence at a criminal trial, was therefore indispensable to
+the decision in Payne. That means it was a holding of this
+Court for purposes of AEDPA.
+Importantly, Payne did not invent due process protections
+against unduly prejudicial evidence. The Court had several
+times before held that prosecutors’ prejudicial or misleading
+statements violate due process if they render a trial or capi-
+tal sentencing fundamentally unfair. Donnelly v. DeChris-
+toforo, 416 U. S. 637 (1974); Caldwell v. Mississippi, 472 U. S.
+320, 338–340 (1985); Darden, 477 U. S., at 178–183. Payne
+thus broke little new ground in this respect. By the time
+of the OCCA’s decision in this case, it was clear that the
+introduction of unduly prejudicial evidence could, in certain
+cases, violate the Due Process Clause. 3
+3 The dissent argues thatEstellev.McGuire, 502 U. S. 62 (1991), shows
+otherwise because it left open whether “ ‘it is a violation of the due process
+guaranteed by the Fourteenth Amendment for evidence that is not rele-
+vant to be received in a criminal trial.’ ”Post, at 111 (opinion ofThomas,
+J.) (quotingEstelle, 502 U. S., at 70). To be sure, this Court did not hold
+inPaynethat the introduction of all irrelevant evidence violates the Due
+Process Clause.Payneestablished, rather, that due process protects de-
+fendants from the introduction of evidence so prejudicial as to affect the
+fundamental fairness of their trials. This Court squarely acknowledged
+that rule inEstelle, explaining that “the challenged evidence” at issue
+there did not warrant relief because it did not “ ‘so infus[e] the trial with
+
+Per
+Curiam
+B
+The Court of
+Appeals nonetheless held that Payne “merely
+established that the Eighth Amendment did not erect a
+‘per se bar’ to the introduction of victim-impact statements
+in capital cases.” 62 F. 4th, at 1314 (quoting Payne, 501
+U. S., at 827). As just explained, however, Payne expressly
+relied on the availability of relief under the Due Process
+Clause to reach that conclusion. This Court has accordingly
+applied Payne’s framework to a claim much like Andrew’s:
+“that the introduction of [prejudicial] evidence” at the sen-
+tencing phases “violated the Due Process Clause of the Four-
+teenth Amendment.” Romano v. Oklahoma, 512 U. S. 1, 12
+(1994). More recently, the Court relied on Payne in the
+same way that Andrew sought to rely on it here: for the
+proposition that “the Due Process Clause . . . wards off the
+introduction of unduly prejudicial evidence that would ren-
+der the trial fundamentally unfair.” Kansas v. Carr, 577
+U. S. 108, 123 (2016) (quoting Payne, 501 U. S., at 825; inter-
+nal quotation marks and alteration omitted). This Court
+has also relied on the underlying fundamental fairness prin-
+ciple in the jury-impartiality context. See Rideau v. Louisi-
+ana, 373 U. S. 723, 726 (1963); Skilling v. United States, 561
+U. S. 358, 379 (2010).
+To the extent that the Court of Appeals thought itself con-
+strained by AEDPA to limit Payne to its facts, it was mis-
+taken. General legal principles can constitute clearly estab-
+lished law for purposes of AEDPA so long as they are
+holdings of this Court. For example, the Eighth Amend-
+ment principle that a sentence may not be grossly dispro-
+portionate to the offense is “ ‘clearly established’ under
+§ 2554(d)(1),” even though it arises out of a “thicket of Eighth
+Amendment jurisprudence” and lacks “ ‘precise contours.’ ”
+unfairness as to deny due process of law.’ ” 502 U. S., at 75 (quoting Li-
+senba v. California, 314 U. S. 219, 228 (1941), and citing Donnelly, 416
+U. S., at 643). In any event, and as recounted below, this Court has con-
+tinued to rely on Payne’s fundamental fairness principle since Estelle.
+
+95Cite as: 604 U
+. S. 86 (2025)
+Per Curiam
+Lockyer, 538 U. S., at 72. Although this Court has not
+previously
+relied on Payne to invalidate a conviction for im-
+properly admitted prejudicial evidence, moreover, “ ‘[c]ertain
+principles are fundamental enough that when new factual
+permutations arise, the necessity to apply the earlier rule
+will be beyond doubt.’ ” White, 572 U. S., at 427 (quoting
+Yarborough v. Alvarado, 541 U. S. 652, 666 (2004)); see also
+Taylor v. Riojas, 592 U. S. 7, 9 (2020) (per curiam ) (“ ‘[A]
+general constitutional rule already identiﬁed in the deci-
+sional law may apply with obvious clarity to the speciﬁc con-
+duct in question’ ” (quoting Hope v. Pelzer, 536 U. S. 730, 741
+(2002))). The Court of Appeals thus erred by refusing even
+to consider whether the OCCA unreasonably applied estab-
+lished due process principles to Andrew’s case.
+The dissent maintains that a reasonable jurist could agree
+with the Tenth Circuit’s understanding of our precedent.
+That assertion conﬂates the deference federal habeas courts
+must extend to a state court’s “application of” this Court’s
+precedent with the federal courts’ independent obligation
+to ﬁrst identify the relevant “clearly established Federal
+law.” 28 U. S. C. § 2254(d)(1); Lockyer, 538 U. S., at 71 (iden-
+tifying clearly established law “[a]s a threshold matter”).
+A legal principle is clearly established for purposes of
+AEDPA if it is a holding of this Court. White, 572 U. S.,
+at 419. This Court has no occasion to defer to other federal
+courts’ erroneous interpretations of its own precedent. Nor
+is such double deference necessary to prevent expansion
+of federal habeas relief to those who rely on “debatable”
+interpretations or extensions of our holdings. Post at 112–
+113 (opinion of Thomas, J.). Andrew does not rely on an
+interpretation or extension of this Court’s cases but on a
+principle this Court itself has relied on over the course of
+decades.
+Because the Tenth Circuit nonetheless held that no rele-
+vant clearly established law existed (a ruling this Court
+reviews de novo), it never considered whether the state
+
+Alito, J
+., concurring in judgment
+court’s application of that law was reasonable. On re-
+mand, the Cour t
+of Appeals should conduct that inquiry
+in the ﬁrst instance. Speciﬁcally, the question now is
+whether a fairminded jurist reviewing this record could dis-
+agree with Andrew that the trial court’s mistaken admission
+of irrelevant evidence was so “unduly prejudicial” as to ren-
+der her trial “fundamentally unfair.” Payne, 501 U. S., at
+825.
+The Court of Appeals must ask that question separately
+for the guilt and sentencing phases. As to each phase, it
+might consider the relevance of the disputed evidence to the
+charges or sentencing factors, the degree of prejudice An-
+drew suffered from its introduction, and whether the trial
+court provided any mitigating instructions. Cf. Romano,
+512 U. S., at 13. The ultimate question is whether a fair-
+minded jurist could disagree that the evidence “so infected
+the trial with unfairness” as to render the resulting convic-
+tion or sentence “a denial of due process.” Ibid.
+* * *
+At the time of the OCCA’s decision, clearly established law
+provided that the Due Process Clause forbids the introduc-
+tion of evidence so unduly prejudicial as to render a criminal
+trial fundamentally unfair. This Court accordingly grants
+the petition for certiorari and the motion for leave to proceed
+in forma pauperis, vacates the judgment below, and re-
+mands the case for further proceedings consistent with this
+opinion.
+It is so ordered.
+Justice Alito, concurring in the judgment.
+I concur in the judgment because our case law establishes
+that a defendant’s due-process rights can be violated when
+the properly admitted evidence at trial is overwhelmed by a
+ﬂood of irrelevant and highly prejudicial evidence that ren-
+ders the trial fundamentally unfair. See Payne v. Tennes-

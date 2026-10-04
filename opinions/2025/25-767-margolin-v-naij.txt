@@ -1,0 +1,111 @@
+Margolin v. NAIJ — No. 25-767 — October Term 2025 — decided 5/26/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 608 U.S. 339
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r36_n758.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Per Curiam.
+After the Executive Office for Immigration Review
+adopted a policy regulating immigration judges' work-
+related speech, an association of such judges (respondent
+here) challenged the policy in federal district court. The
+District Court held that respondent's challenge must proceed
+through the administrative review scheme established by the
+Civil Service Reform Act. But the Fourth Circuit vacated
+and remanded based on an issue the parties had not raised.
+That decision violated the principle of party presentation,
+and we reverse.
+I
+The Executive Office for Immigration Review sets policies
+governing the immigration courts. See 8 CFR § 1003.0
+(2024). In October 2021, it implemented a rule requiring im-
+migration judges to obtain supervisory approval for public
+speeches relating to their official duties. Joint App. in No.
+23–2235 (CA4), pp. 56–62. The policy was meant to ensure
+that employee speech which may be seen as bearing the “im-
+primatur” of the Office is consistent with its official positions.
+Id., at 57.
+Respondent challenged the policy in the Eastern District
+of Virginia, asserting violations of its members' First and
+Fifth Amendment rights. This Court has held that, under
+the Civil Service Reform Act of 1978 (CSRA), 92 Stat. 1122,
+1125, 5 U. S. C. §§ 1205, 1206, Congress intended federal em-
+ployees to bring most work-related grievances to the Merit
+Systems Protection Board (MSPB) and the Special Coun-
+sel—not to federal district court. See United States v.
+Fausto, 484 U. S. 439, 455 (1988); Elgin v. Department of
+Treasury, 567 U. S. 1, 11–12 (2012). Respondent thus ac-
+cepted that “the CSRA channels judicial review of chal-
+lenges to covered employment actions” to the MSPB. Oppo-
+sition to Motion to Dismiss in No. 1:20–cv–731 (ED Va.), ECF
+Doc. 72, pp. 2–3. It argued only that its members' constitu-
+tional claims were not the kind of work-related claims that
+Congress intended to steer out of district court. See id., at
+21–30.
+The District Court dismissed respondent's claims. The
+court, like respondent, acknowledged that “Congress in-
+tended to preclude district-court jurisdiction” over “covered
+actions” brought by federal employees. National Assn. of
+Immigration Judges v. Neal, 693 F. Supp. 3d 549, 569 (ED
+Va. 2023). And it held that respondent's claims were indeed
+“covered” by the CSRA. Id., at 569–581.
+Respondent appealed. It did “no[t] dispute that the
+CSRA provides the exclusive avenue for review of certain
+employment-related claims.” Brief for Appellant in No. 23–
+2235 (CA4), ECF Doc. 11–1, p. 18; see also id., at 21–22
+(“Congress's intent to preclude district court jurisdiction is
+. . . manifest in the CSRA” (internal quotation marks omit-
+ted)). It again argued only that its specific claims were not
+covered under the CSRA's claim-channeling scheme. See
+id., at 21–39.
+The Fourth Circuit vacated and remanded. National
+Assn. of Immigration Judges v. Owen, 139 F. 4th 293 (2025).
+Like the District Court, it held that respondent's claims were
+covered by the CSRA. Id., at 308–313. And the court rec-
+ognized our precedent holding that “Congress designed the
+CSRA to divest district courts of jurisdiction to review legal
+challenges” like respondent's. Id., at 313. Nonetheless, it
+held that factual circumstances had “called into question”
+whether the CSRA was “functioning as Congress intended.”
+Id., at 304. Specifically, the court believed that legal chal-
+lenges to the tenure protection afforded MSPB members and
+the Special Counsel, and the MSPB's lack of a quorum, may
+require a “new examination of Congressional intent” to chan-
+nel covered claims out of district court. Id., at 308. The
+court thus remanded for factfinding into the current opera-
+tion of the MSPB. Id., at 305, 313.
+The Court of Appeals denied rehearing en banc. Na-
+tional Assn. of Immigration Judges v. Owen, 160 F. 4th 100
+(CA4 2025). Judge Quattlebaum, joined by three judges,
+dissented.* He criticized the panel for “shirk[ing] party
+presentation principles” by deciding the case on a novel
+ground “without any party raising the issue and without re-
+questing supplemental briefing.” Id., at 107–108, 118.
+II
+Federal courts adhere to the principle of party presenta-
+tion. See Clark v. Sweeney, 607 U. S. 7, 9–10 (2025) (per
+curiam). That principle—the “rule that points not argued
+will not be considered”—distinguishes our adversarial sys-
+tem of justice from an inquisitorial one. United States v.
+Burke, 504 U. S. 229, 246 (1992) (Scalia, J., concurring in judg-
+ment). Because courts are “essentially passive instruments
+of government,” we rely on the parties to “frame the issues
+for decision” and decide “only [the] questions presented.”
+United States v. Sineneng-Smith, 590 U. S. 371, 375–376
+(2020) (internal quotation marks omitted).
+We recently reversed the Fourth Circuit for violating this
+party-presentation principle. In Clark, a state prisoner
+seeking federal habeas relief argued that his trial counsel
+was ineffective for failing to investigate whether the entire
+jury had been tainted by one juror's unauthorized crime-
+scene visit. 607 U. S., at 8–9. The District Court denied
+relief, but the Fourth Circuit reversed and granted a new
+trial. It did so based not on the prisoner's ineffective-
+assistance claim, but instead on “a combination of extraordi-
+nary failures from juror to judge to attorney” that deprived
+the prisoner of his confrontation and impartial-jury rights.
+Id., at 9 (internal quotation marks omitted). We summarily
+reversed. By “granting relief” based on a claim that the
+prisoner “never asserted and that the State never had the
+chance to address,” the Fourth Circuit “transgressed the
+party-presentation principle.” Ibid.
+*Chief Judge Diaz and Judge Niemeyer voted to grant rehearing en
+banc but did not join Judge Quattlebaum's dissent.

@@ -1,0 +1,625 @@
+National Pork Producers Council v. Ross — No. 21-468 — October Term 2022 — decided 5/11/23 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 598 U.S. 356
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r18_g2bh.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch announced the judgment of the Court
+and delivered the opinion of the Court, except as to Parts
+IV–B, IV–C, and IV–D.
+What goods belong in our stores? Usually, consumer de-
+mand and local laws supply some of the answer. Recently,
+California adopted just such a law banning the in-state sale
+of certain pork products derived from breeding pigs confined
+in stalls so small they cannot lie down, stand up, or turn
+around. In response, two groups of out-of-state pork pro-
+Notz, Solicitor General, Sarah A. Hunger, Deputy Solicitor General, Chris-
+tina Hansen, Assistant Attorney General, by Dana Nessel, Attorney Gen-
+eral of Michigan, Fadwa A. Hammoud, Solicitor General, and Ann M.
+Sherman, Deputy Solicitor General, by Matthew J. Platkin, Acting Attor-
+ney General of New Jersey, and by the Attorneys General for their respec-
+tive jurisdictions as follows: Philip J. Weiser of Colorado, William Tong
+of Connecticut, Karl Racine of the District of Columbia, Aaron M. Frey
+of Maine, Brian E. Frosh of Maryland, Maura Healey of Massachusetts,
+Aaron D. Ford of Nevada, Hector Balderas of New Mexico, Letitia James
+of New York, Ellen F. Rosenblum of Oregon, Peter F. Neronha of Rhode
+Island, and Robert W. Ferguson of Washington; for the American Public
+Health Association et al. by Henry Weisburg and Matthew G. Berkowitz;
+for the American Society for the Prevention of Cruelty to Animals by
+Jennifer H. Chin; for the Animal Protection and Rescue League, Inc., by
+Bryan W. Pease; for Animal Protection Organizations et al. by Katherine
+A. Meyer; for the Association of California Egg Farmers by Thomas G.
+Saunders; for the Center for a Humane Economy et al. by Jessica L.
+Blome; for Constitutional Law Scholars by Eric B. Boettcher; for Eco-
+nomic Research Organizations by Benjamin D. Battles and Agatha M.
+Cole; for Federalism Scholars by Gregory M. Lipper; for the Global Animal
+Partnership et al. by Alethea Anne Swift, Jonathan S. Massey, and Wil-
+liam J. Friedman; for Historians by Sheldon Eisenberg; for the National
+League of Cities et al. by John J. Korzen; for the Northeast Organic Dairy
+Producers Alliance by Christopher J. Wright and Jason Neal; for the Per-
+due Premium Meat Co. by Mitchell Y . Mirviss; for the Physicians Commit-
+tee for Responsible Medicine by Corey Page; for Public Citizen by Nandan
+M. Joshi, Allison M. Zieve, and Scott L. Nelson; for Worker Safety Advo-
+cates by David S. Muraskin; for Dr. Leon Barringer by Elizabeth R.
+Moulton and Melanie R. Hallums; for Sen. Cory Booker by Glenn A.
+Danas; for Donald Broom et al. by Gregory G. Rapawy; for Barry Fried-
+man et al. by Elizabeth B. Wydra, Brianne J. Gorod, and Brian R. Fra-
+zelle; for Jim Keen, DVM, Ph.D., et al. by Mark M. Leitner and Joseph
+ducers fled this lawsuit, arguing that the law unconstitution-
+ally interferes with their preferred way of doing business in
+violation of this Court's dormant Commerce Clause prece-
+dents. Both the district court and court of appeals dis-
+missed the producers' complaint for failing to state a claim.
+We affirm. Companies that choose to sell products in
+various States must normally comply with the laws of those
+various States. Assuredly, under this Court's dormant
+Commerce Clause decisions, no State may use its laws to
+discriminate purposefully against out-of-state economic in-
+terests. But the pork producers do not suggest that Califor-
+nia's law offends this principle. Instead, they invite us to
+fashion two new and more aggressive constitutional restric-
+tions on the ability of States to regulate goods sold within
+their borders. We decline that invitation. While the Con-
+stitution addresses many weighty issues, the type of pork
+chops California merchants may sell is not on that list.
+I
+Modern American grocery stores offer a dizzying array of
+choice. Often, consumers may choose among eggs that are
+large, medium, or small; eggs that are white, brown, or some
+other color; eggs from cage-free chickens or ones raised con-
+sistent with organic farming standards. When it comes to
+meat and fsh, the options are no less plentiful. Products
+may be marketed as free range, wild caught, or graded by
+quality (prime, choice, select, and beyond). The pork prod-
+ucts at issue here, too, sometimes come with “antibiotic-free”
+and “crate-free” labels. USDA, Report to Congress: Live-
+S. Goode; for O. Carter Snead et al. by Megan M. Wold; and for Mark Wu
+by Mr. Wu, pro se.
+Briefs of amici curiae were fled for Agricultural and Resource Econom-
+ics Professors by Kathleen Hartnett and Adam S. Gershenson; for Butch-
+erBox by Joshua I. Schiller; for Small and Independent Farming Busi-
+nesses et al. by Jamie Crooks; and for Lea Brilmayer by Tassity S.
+Johnson.
+stock Mandatory Reporting 18 (2018), https://www.ams.usda
+.gov/sites/default/files/media/LMR2018ReporttoCongress
+.pdf. Much of this product differentiation reflects consumer
+demand, informed by individual taste, health, or moral
+considerations.
+Informed by similar concerns, States (and their predeces-
+sors) have long enacted laws aimed at protecting animal wel-
+fare. As far back as 1641, the Massachusetts Bay Colony
+prohibited “Tirranny or Crueltie towards any bruite Crea-
+ture.” Body of Liberties § 92, in A Bibliographical Sketch of
+the Laws of the Massachusetts Colony 52–53 (1890). Today,
+Massachusetts prohibits the sale of pork products from
+breeding pigs (or their offspring) if the breeding pig has been
+confined “in a manner that prevents [it] from lying down,
+standing up, fully extending [its] limbs or turning around
+freely.” Mass. Gen. Laws Ann., ch. 129, App. §§ 1–3, 1–5
+(Cum. Supp. 2023). Nor is that State alone. Florida's Con-
+stitution prohibits “any person [from] confn[ing] a pig during
+pregnancy . . . in such a way that she is prevented from
+turning around freely.” Art. X, § 21(a). Arizona, Maine,
+Michigan, Oregon, and Rhode Island, too, have laws regulat-
+ing animal confinement practices within their borders. See
+Ariz. Rev. Stat. Ann. § 13–2910.07(A) (2018); Me. Rev. Stat.
+Ann., Tit. 7, §§ 4020(1)–(2) (2018); Mich. Comp. Laws
+§ 287.746(2) (West Cum. Supp. 2022); Ore. Rev. Stat.
+§§ 600.150(1)–(2) (2021); R. I. Gen. Laws § 4–1.1–3 (Supp.
+2022).
+This case involves a challenge to a California law known
+as Proposition 12. In November 2018 and with the support
+of about 63% of participating voters, California adopted a
+ballot initiative that revised the State's existing standards
+for the in-state sale of eggs and announced new standards
+for the in-state sale of pork and veal products. App. to Pet.
+for Cert. 37a–46a. As relevant here, Proposition 12 forbids
+the in-state sale of whole pork meat that comes from breed-
+ing pigs (or their immediate offspring) that are “confined
+in a cruel manner.” Cal. Health & Safety Code Ann.
+§ 25990(b)(2) (West Cum. Supp. 2023). Subject to certain ex-
+ceptions, the law deems confinement “cruel” if it prevents a
+pig from “lying down, standing up, fully extending [its]
+limbs, or turning around freely.” § 25991(e)(1). Since Prop-
+osition 12's adoption, the State has begun developing “pro-
+posed regulations” that would permit compliance “certifca-
+tion[s]” to be issued “by non-governmental third parties,
+many used for myriad programs (e. g., `organic') already.”
+Brief for Intervenor Respondents 30, n. 8.
+A spirited debate preceded the vote on Proposition 12.
+Proponents observed that, in some farming operations, preg-
+nant pigs remain “[e]ncased” for 16 weeks in “ft-to-size”
+metal crates. M. Scully, A Brief for the Pigs: The Case of
+National Pork Producers Council v. Ross, National Review,
+July 11, 2022, https://www.nationalreview.com/2022/07/a -
+brief - for - the - pigs - the - case - of - national - pork - producers -
+council-v-ross/. These animals may receive their only op-
+portunity for exercise when they are moved to a separate
+barn to give birth and later returned for another 16 weeks
+of pregnancy confinement—with the cycle repeating until the
+pigs are slaughtered. Ibid. Proponents hoped that Propo-
+sition 12 would go a long way toward eliminating pork
+sourced in this manner “from the California marketplace.”
+A. Padilla, Cal. Secretary of State, California General Elec-
+tion—Official Voter Information Guide 70 (Nov. 6, 2018)
+(Voter Guide), https://vig.cdn.sos.ca.gov/2018/general/pdf /
+complete-vig.pdf. Proponents also suggested that the law
+would have health benefits for consumers because “packing
+animals in tiny, filthy cages increases the risk of food poison-
+ing.” Ibid.; see App. to Pet. for Cert. 201a–202a.
+Opponents pressed their case in strong terms too. They
+argued that existing farming practices did a better job of
+protecting animal welfare (for example, by preventing pig-
+on-pig aggression) and ensuring consumer health (by avoid-
+ing contamination) than Proposition 12 would. Id., at 185a–
+187a; see also Voter Guide 70–71. They also warned voters
+that Proposition 12 would require some farmers and proces-
+sors to incur new costs. Id., at 69. Ones that might be
+“passed through” to California consumers. Ibid.
+Shortly after Proposition 12's adoption, two organiza-
+tions—the National Pork Producers Council and the Ameri-
+can Farm Bureau Federation (collectively, petitioners)—fled
+this lawsuit on behalf of their members who raise and proc-
+ess pigs. App. to Pet. for Cert. 154a–155a. Petitioners al-
+leged that Proposition 12 violates the U. S. Constitution
+by impermissibly burdening interstate commerce. Id., at
+230a–232a.
+In support of that legal claim, petitioners pleaded a num-
+ber of facts. They acknowledged that, in response to con-
+sumer demand and the laws of other States, 28% of their
+industry has already converted to some form of group hous-
+ing for pregnant pigs. Id., at 186a. But, petitioners cau-
+tioned, even some farmers who already raise group-housed
+pigs will have to modify their practices if they wish to com-
+ply with Proposition 12. Id., at 208a–209a. Much of pork
+production today is vertically integrated, too, with farmers
+selling pigs to large processing frms that turn them into
+different “cuts of meat” and distribute the “different parts
+. . . all over to completely different end users.” Id., at 334a–
+335a. Revising this system to segregate and trace Propo-
+sition 12-compliant pork, petitioners alleged, will require
+certain processing frms to make substantial new capital in-
+vestments. Id., at 205a–206a. Ultimately, petitioners esti-
+mated that “compliance with Proposition 12 will increase
+production costs” by “9.2% . . . at the farm level.” Id., at
+214a. These compliance costs will fall on California and out-
+of-state producers alike. Ibid. But because California im-
+ports almost all the pork it consumes, petitioners empha-
+sized, “the majority” of Proposition 12's compliance costs will
+be initially borne by out-of-state frms. Ibid.
+After considerable motions practice, the district court held
+that petitioners' complaint failed to state a claim as a matter
+of law and dismissed the case. 456 F. Supp. 3d 1201 (SD Cal.
+2020). With Judge Ikuta writing for a unanimous panel, the
+Ninth Circuit affirmed. 6 F. 4th 1021 (2021). Following
+that ruling, petitioners sought certiorari and we agreed to
+consider the complaint's legal sufficiency for ourselves. 596
+U. S. ––– (2022).
+II
+The Constitution vests Congress with the power to “regu-
+late Commerce . . . among the several States.” Art. I, § 8,
+cl. 3. Everyone agrees that Congress may seek to exercise
+this power to regulate the interstate trade of pork, much as
+it has done with various other products. Everyone agrees,
+too, that congressional enactments may preempt conflicting
+state laws. See Art. VI, cl. 2. But everyone also agrees
+that we have nothing like that here. Despite the persistent
+efforts of certain pork producers, Congress has yet to adopt
+any statute that might displace Proposition 12 or laws regu-
+lating pork production in other States. See, e. g., H. R. 272,
+116th Cong., 1st Sess., § 2 (2019); H. R. 4879, 115th Cong., 2d
+Sess., § 2(a) (2018); H. R. 3599, 115th Cong., 1st Sess., § 2(a)
+(2017); H. R. 687, 114th Cong., 1st Sess., § 2(a) (2015).
+That has led petitioners to resort to litigation, pinning
+their hopes on what has come to be called the dormant Com-
+merce Clause. Reading between the Constitution's lines,
+petitioners observe, this Court has held that the Commerce
+Clause not only vests Congress with the power to regulate
+interstate trade; the Clause also “contain[s] a further, nega-
+tive command,” one effectively forbidding the enforcement
+of “certain state [economic regulations] even when Congress
+has failed to legislate on the subject.” Oklahoma Tax
+Comm'n v. Jefferson Lines, Inc., 514 U. S. 175, 179 (1995).
+This view of the Commerce Clause developed gradually.
+In Gibbons v. Ogden, Chief Justice Marshall recognized that
+the States' constitutionally reserved powers enable them to
+regulate commerce in their own jurisdictions in ways sure to
+have “a remote and considerable influence on commerce” in
+other States. 9 Wheat. 1, 203 (1824). By way of example,
+he cited “[i]nspection laws, quarantine laws, [and] health
+laws of every description.” Ibid. At the same time, how-
+ever, Chief Justice Marshall saw “great force in th[e] argu-
+ment” that the Commerce Clause might impliedly bar certain
+types of state economic regulation. Id., at 209. Decades
+later, in Cooley v. Board of Wardens of Port of Philadelphia
+ex rel. Soc. for Relief of Distressed Pilots, this Court again
+recognized that the power vested in Congress to regulate
+interstate commerce leaves the States substantial leeway to
+adopt their own commercial codes. 12 How. 299, 317–321
+(1852). But once more, the Court hinted that the Constitu-
+tion may come with some restrictions on what “may be regu-
+lated by the States” even “in the absence of all congressional
+legislation.” Id., at 320.
+Eventually, the Court cashed out these warnings, holding
+that state laws offend the Commerce Clause when they seek
+to “build up . . . domestic commerce” through “burdens upon
+the industry and business of other States,” regardless of
+whether Congress has spoken. Guy v. Baltimore, 100 U. S.
+434, 443 (1880). At the same time, though, the Court reiter-
+ated that, absent discrimination, “a State may exclude from
+its territory, or prohibit the sale therein of any articles
+which, in its judgment, fairly exercised, are prejudicial to”
+the interests of its citizens. Ibid.
+Today, this antidiscrimination principle lies at the “very
+core” of our dormant Commerce Clause jurisprudence.
+Camps Newfound/Owatonna, Inc. v. Town of Harrison, 520
+U. S. 564, 581 (1997). In its “modern” cases, this Court has
+said that the Commerce Clause prohibits the enforcement of
+state laws “driven by . . . `economic protectionism—that is,
+regulatory measures designed to benefit in-state economic
+interests by burdening out-of-state competitors.' ” Depart-
+ment of Revenue of Ky. v. Davis, 553 U. S. 328, 337–338
+(2008) (quoting New Energy Co. of Ind. v. Limbach, 486 U. S.
+269, 273–274 (1988)); see also Tennessee Wine and Spirits
+Retailers Assn. v. Thomas, 588 U. S. –––, ––– (2019) (observ-
+ing that this Court's cases operate principally to “safeguard
+against state protectionism”); Northwest Airlines, Inc. v.
+County of Kent, 510 U. S. 355, 373, n. 18 (1994) (describing
+“a violation of the dormant Commerce Clause” as “discrimi-
+nation against interstate commerce”).
+Admittedly, some “Members of the Court have authored
+vigorous and thoughtful critiques of this interpretation” of
+the Commerce Clause. Tennessee Wine , 588 U. S., at –––
+(citing cases). They have not necessarily quarreled with
+the antidiscrimination principle. But they have suggested
+that it may be more appropriately housed elsewhere in the
+Constitution. Perhaps in the Import-Export Clause, which
+prohibits States from “lay[ing] any Imposts or Duties on
+Imports or Exports” without permission from Congress.
+Art. I, § 10, cl. 2; see Camps Newfound/Owatonna, 520 U. S.,
+at 621–637 (Thomas, J., dissenting). Perhaps in the Privi-
+leges and Immunities Clause, which entitles “[t]he Citizens
+of each State” to “all Privileges and Immunities of Citizens
+in the several States.” Art. IV , § 2; see Tyler Pipe Indus-
+tries, Inc. v. Washington State Dept. of Revenue , 483 U. S.
+232, 265 (1987) (Scalia, J., concurring in part and dissenting
+in part). Or perhaps the principle inheres in the very struc-
+ture of the Constitution, which “was framed upon the theory
+that the peoples of the several [S]tates must sink or swim
+together.” American Trucking Assns., Inc. v. Michigan
+Pub. Serv. Comm'n, 545 U. S. 429, 433 (2005) (internal quota-
+tion marks omitted).
+Whatever one thinks about these critiques, we have no
+need to engage with any of them to resolve this case. Even
+under our received dormant Commerce Clause case law, peti-
+tioners begin in a tough spot. They do not allege that Cali-
+fornia's law seeks to advantage in-state frms or disadvan-
+tage out-of-state rivals. In fact, petitioners disavow any
+discrimination-based claim, conceding that Proposition 12
+imposes the same burdens on in-state pork producers that
+it imposes on out-of-state ones. As petitioners put it, “the
+dormant Commerce Clause . . . bar on protectionist state
+statutes that discriminate against interstate commerce . . .
+is not in issue here.” Brief for Petitioners 2, n. 2.
+III
+Having conceded that California's law does not implicate
+the antidiscrimination principle at the core of this Court's
+dormant Commerce Clause cases, petitioners are left to pur-
+sue two more ambitious theories. In the first, petitioners
+invoke what they call “extraterritoriality doctrine.” Id., at
+19. They contend that our dormant Commerce Clause cases
+suggest an additional and “almost per se” rule forbidding en-
+forcement of state laws that have the “practical effect of con-
+trolling commerce outside the State,” even when those laws
+do not purposely discriminate against out-of-state economic
+interests. Ibid. Petitioners further insist that Proposition
+12 offends this “almost per se” rule because the law will im-
+pose substantial new costs on out-of-state pork producers
+who wish to sell their products in California.
+A
+This argument falters out of the gate. Put aside what
+problems may attend the minor (factual) premise of this ar-
+gument. Focus just on the major (legal) premise. Petition-
+ers say the “almost per se” rule they propose follows ineluc-
+tably from three cases—Healy v. Beer Institute , 491 U. S.
+324 (1989); Brown-Forman Distillers Corp. v. New York
+State Liquor Authority , 476 U. S. 573 (1986); and Baldwin v.
+G. A. F. Seelig , Inc., 294 U. S. 511 (1935). A close look at
+those cases, however, reveals nothing like the rule petition-
+ers posit. Instead, each typifes the familiar concern with
+preventing purposeful discrimination against out-of-state
+economic interests.
+Start with Baldwin. There, this Court refused to enforce
+New York laws that barred out-of-state dairy farmers from
+selling their milk in the State “unless the price paid to” them
+matched the minimum price New York law guaranteed in-
+state producers. Id., at 519. In that way, the challenged
+laws deliberately robbed out-of-state dairy farmers of the
+opportunity to charge lower prices in New York thanks to
+whatever “natural competitive advantage” they might have
+enjoyed over in-state dairy farmers—for example, lower cost
+structures, more productive farming practices, or “lusher
+pasturage.” D. Regan, The Supreme Court and State Pro-
+tectionism: Making Sense of the Dormant Commerce Clause,
+84 Mich. L. Rev. 1091, 1248 (1986). The problem with New
+York's laws was thus a simple one: They “plainly discrimi-
+nate[d]” against out-of-staters by “erecting an economic bar-
+rier protecting a major local industry against competition
+from without the State.” Dean Milk Co. v. Madison, 340
+U. S. 349, 354 (1951) (discussing Baldwin). Really, the laws
+operated like “a tariff or customs duty.” West Lynn Cream-
+ery, Inc. v. Healy, 512 U. S. 186, 194 (1994); see Baldwin, 294
+U. S., at 523 (condemning the challenged laws for seeking
+to “protec[t]” New York dairy farmers “against competition
+from without”).
+Brown-Forman and Healy differed from Baldwin only in
+that they involved price-affrmation, rather than price-fxing,
+statutes. In Brown-Forman, New York required liquor dis-
+tillers to affirm (on a monthly basis) that their in-state prices
+were no higher than their out-of-state prices. 476 U. S., at
+576. Once more, the goal was plain: New York sought to
+force out-of-state distillers to “surrender” whatever cost ad-
+vantages they enjoyed against their in-state rivals. Id., at
+580. Once more, the law amounted to “simple economic pro-
+tectionism.” Ibid. (internal quotation marks omitted).
+In Healy, a Connecticut law required out-of-state beer
+merchants to affirm that their in-state prices were no higher
+than those they charged in neighboring States. 491 U. S.,
+at 328–330. Here, too, protectionism took center stage. As
+the Court later noted, “[t]he essential vice in laws” like Con-
+necticut's is that they “hoard” commerce “for the benefit of”
+in-state merchants and discourage consumers from crossing
+state lines to make their purchases from nearby out-of-state
+vendors. C & A Carbone , Inc. v. Clarkstown, 511 U. S. 383,
+391–392 (1994). Nor did the law in Healy even try to cloak
+its discriminatory purpose: “By its plain terms, the Connecti-
+cut affrmation statute applie[d] solely to interstate” frms,
+and in that way “clearly discriminate[d] against interstate
+commerce.” 491 U. S., at 340–341. The Court also worried
+that, if the Connecticut law stood, “each of the border States”
+could “enac[t] statutes essentially identical to Connecticut's”
+in retaliation—a result often associated with avowedly pro-
+tectionist economic policies. Id., at 339–340.
+B
+Petitioners insist that our reading of these cases misses
+the forest for the trees. On their account, Baldwin, Brown-
+Forman, and Healy didn't just find an impermissible dis-
+criminatory purpose in the challenged laws; they also sug-
+gested an “almost per se” rule against state laws with
+“extraterritorial effects.” Brief for Petitioners 19, 23. In
+Healy, petitioners stress, the Court included language criti-
+cizing New York's laws for having the “ `practical effect' ” of
+“control[ling] commerce `occurring wholly outside the bound-
+aries of [the] State.' ” Brief for Petitioners 21, 25 (quoting
+491 U. S., at 336). In Brown-Forman, petitioners observe,
+the Court suggested that whether a state law “ `is addressed
+only to [in-state] sales' ” “ `is irrelevant if the “practical ef-
+fect” of the law is to control' ” out-of-state prices. Brief for
+Petitioners 21 (quoting 476 U. S., at 583). Petitioners point
+to similar language in Baldwin as well. Brief for Petition-
+ers 37 (quoting 294 U. S., at 523–524).
+In our view, however, petitioners read too much into too
+little. “[T]he language of an opinion is not always to be
+parsed as though we were dealing with language of a stat-
+ute.” Reiter v. Sonotone Corp., 442 U. S. 330, 341 (1979).
+Instead, we emphasize, our opinions dispose of discrete cases
+and controversies and they must be read with a careful eye
+to context. See Cohens v. Virginia, 6 Wheat. 264, 399–400
+(1821) (Marshall, C. J.). And when it comes to Baldwin,
+Brown-Forman, and Healy, the language petitioners high-
+light appeared in a particular context and did particular
+work. Throughout, the Court explained that the challenged
+statutes had a specific impermissible “extraterritorial ef-
+fect”—they deliberately “prevent[ed out-of-state frms] from
+undertaking competitive pricing” or “deprive[d] businesses
+and consumers in other States of `whatever competitive ad-
+vantages they may possess.' ” Healy, 491 U. S., at 338–339
+(quoting Brown-Forman, 476 U. S., at 580).
+In recognizing this much, we say nothing new. This
+Court has already described “[t]he rule that was applied in
+Baldwin and Healy” as addressing “price control or price
+affrmation statutes” that tied “the price of . . . in-state prod-
+ucts to out-of-state prices.” Pharmaceutical Research and
+Mfrs. of America v. Walsh, 538 U. S. 644, 669 (2003) (internal
+quotation marks omitted). Many lower courts have read
+these decisions in exactly the same way. See, e. g., 6 F. 4th,
+at 1028–1029; Association for Accessible Medicines v. Frosh,
+887 F. 3d 664, 669 (CA4 2018); Energy and Environment
+Legal Inst. v. Epel, 793 F. 3d 1169, 1174 (CA10 2015); Ameri-
+can Beverage Assn. v. Snyder, 735 F. 3d 362, 373 (CA6 2013).
+Consider, too, the strange places petitioners' alternative
+interpretation could lead. In our interconnected national
+marketplace, many (maybe most) state laws have the “practi-
+cal effect of controlling” extraterritorial behavior. State
+income tax laws lead some individuals and companies to
+relocate to other jurisdictions. See, e. g., Banner v. United
+States, 428 F. 3d 303, 310 (CADC 2005) (per curiam ). Envi-
+ronmental laws often prove decisive when businesses choose
+where to manufacture their goods. See American Beverage
+Assn., 735 F. 3d, at 379 (Sutton, J., concurring). Add to the
+extraterritorial-effects list all manner of “libel laws, secu-
+rities requirements, charitable registration requirements,
+franchise laws, tort laws,” and plenty else besides. J. Gold-
+smith & A. Sykes, The Internet and the Dormant Commerce
+Clause, 110 Yale L. J. 785, 804 (2001). Nor, as we have seen,
+is this a recent development. Since the founding, States
+have enacted an “immense mass” of “[i]nspection laws, quar-
+antine laws, [and] health laws of every description” that have
+a “considerable” influence on commerce outside their bor-
+ders. Gibbons, 9 Wheat., at 203; see also Cooley, 12 How.,
+at 317–321. Petitioners' “almost per se” rule against laws
+that have the “practical effect” of “controlling” extraterrito-
+rial commerce would cast a shadow over laws long under-
+stood to represent valid exercises of the States' constitution-
+ally reserved powers. It would provide neither courts nor
+litigants with meaningful guidance in how to resolve dis-
+putes over them. Instead, it would invite endless litigation
+and inconsistent results. Can anyone really suppose Bald-
+win, Brown-Forman, and Healy meant to do so much?
+In rejecting petitioners' “almost per se” theory we do not
+mean to trivialize the role territory and sovereign bound-
+aries play in our federal system. Certainly, the Constitution
+takes great care to provide rules for fixing and changing
+state borders. Art. IV , § 3, cl. 1. Doubtless, too, courts
+must sometimes referee disputes about where one State's au-
+thority ends and another's begins—both inside and outside
+the commercial context. In carrying out that task, this
+Court has recognized the usual “legislative power of a State
+to act upon persons and property within the limits of its own
+territory,” Hoyt v. Sprague, 103 U. S. 613, 630 (1881), a fea-
+ture of our constitutional order that allows “different com-
+munities” to live “with different local standards,” Sable Com-
+munications of Cal., Inc. v. FCC, 492 U. S. 115, 126 (1989).
+But, by way of example, no one should think that one State
+may adopt a law exempting securities held by the residents
+of a second State from taxation in that second State. Bona-
+parte v. Tax Court, 104 U. S. 592, 592–594 (1882). Nor, we
+have held, should anyone think one State may prosecute the
+citizen of another State for acts committed “outside [the first
+State's] jurisdiction” that are not “intended to produce [or
+that do not] produc[e] detrimental effects within it.” Strass-
+heim v. Daily, 221 U. S. 280, 285 (1911).
+To resolve disputes about the reach of one State's power,
+this Court has long consulted original and historical under-
+standings of the Constitution's structure and the principles
+of “sovereignty and comity” it embraces. BMW of North
+America, Inc. v. Gore, 517 U. S. 559, 572 (1996). This Court
+has invoked as well a number of the Constitution's express
+provisions—including “the Due Process Clause and the Full
+Faith and Credit Clause.” Phillips Petroleum Co. v. Shutts,
+472 U. S. 797, 818 (1985). The antidiscrimination principle
+found in our dormant Commerce Clause cases may well rep-
+resent one more effort to mediate competing claims of sover-
+eign authority under our horizontal separation of powers.
+But none of this means, as petitioners suppose, that any
+question about the ability of a State to project its power
+extraterritorially must yield to an “almost per se” rule under
+the dormant Commerce Clause. This Court has never be-
+fore claimed so much “ground for judicial supremacy under
+the banner of the dormant Commerce Clause.” United
+Haulers Assn., Inc. v. Oneida-Herkimer Solid Waste Man-
+agement Authority , 550 U. S. 330, 347 (2007). We see no
+reason to change course now. 1
+1 Beyond Baldwin, Brown-Forman, and Healy, petitioners point to
+Edgar v. MITE Corp ., 457 U. S. 624 (1982), as authority for the “almost
+per se” rule they propose. Invoking the dormant Commerce Clause, a
+plurality in that case declined to enforce an Illinois securities law that
+“directly regulate[d] transactions which [took] place . . . wholly outside the
+State” and involved individuals “having no connection with Illinois.” Id.,
+at 641–643 (emphasis added). Some have questioned whether the state
+law at issue in Edgar posed a dormant Commerce Clause question as much
+as one testing the territorial limits of state authority under the Constitu-
+tion's horizontal separation of powers. See, e. g., D. Regan, Siamese Es-
+says: (I) CTS Corp. v. Dynamics Corp. of America and Dormant Com-
+merce Clause Doctrine; (II) Extraterritorial State Legislation, 85 Mich.
+L. Rev. 1865, 1875–1880, 1897–1902 (1987); cf. Shelby County v. Holder, 570
+U. S. 529, 535 (2013) (“[A]ll States enjoy equal sovereignty”). But either
+way, the Edgar plurality opinion does not support the rule petitioners
+IV
+Failing in their first theory, petitioners retreat to a second
+they associate with Pike v. Bruce Church, Inc., 397 U. S. 137
+(1970). Under Pike, they say, a court must at least assess
+“ `the burden imposed on interstate commerce' ” by a state
+law and prevent its enforcement if the law's burdens are
+“ `clearly excessive in relation to the putative local benefits.' ”
+Brief for Petitioners 44. Petitioners then rattle off a litany
+of reasons why they believe the benefits Proposition 12 se-
+cures for Californians do not outweigh the costs it imposes
+on out-of-state economic interests. We see problems with
+this theory too.
+A
+In the first place, petitioners overstate the extent to which
+Pike and its progeny depart from the antidiscrimination rule
+that lies at the core of our dormant Commerce Clause juris-
+prudence. As this Court has previously explained, “no clear
+line” separates the Pike line of cases from our core antidis-
+crimination precedents. General Motors Corp. v. Tracy, 519
+U. S. 278, 298, n. 12 (1997). While many of our dormant
+Commerce Clause cases have asked whether a law exhibits
+“ `facial discrimination,' ” “several cases that have purported
+to apply [Pike,] including Pike itself,” have “turned in whole
+or in part on the discriminatory character of the challenged
+state regulations.” Ibid. In other words, if some of our
+cases focus on whether a state law discriminates on its face,
+the Pike line serves as an important reminder that a law's
+practical effects may also disclose the presence of a discrimi-
+natory purpose.
+Pike itself illustrates the point. That case concerned an
+Arizona order requiring cantaloupes grown in state to be
+propose. That decision spoke to a law that directly regulated out-of-state
+transactions by those with no connection to the State. Petitioners do not
+allege those conditions exist here. To the contrary, they acknowledge
+that Proposition 12 regulates only products that companies choose to sell
+“within” California. Cal. Health & Safety Code Ann. § 25990(b).
+processed and packed in state. 397 U. S., at 138–140. The
+Court held that Arizona's order violated the dormant Com-
+merce Clause. Id., at 146. Even if that order could be
+fairly characterized as facially neutral, the Court stressed
+that it “requir[ed] business operations to be performed in
+[state] that could more effciently be performed elsewhere.”
+Id., at 145. The “practical effect[s]” of the order in opera-
+tion thus revealed a discriminatory purpose—an effort to in-
+sulate in-state processing and packaging businesses from
+out-of-state competition. Id., at 140, 145.
+Other cases in the Pike line underscore the same message.
+In Minnesota v. Clover Leaf Creamery Co., the Court found
+no impermissible burden on interstate commerce because,
+looking to the law's effects, “there [was] no reason to suspect
+that the gainers” would be in-state frms or that “the losers
+[would be] out-of-state frms.” 449 U. S. 456, 473 (1981); see
+also id., at 474–477, and n. 2 (Powell, J., concurring in part
+and dissenting in part) (asking whether the “actual purpose,”
+if not the “ `avowed purpose,' ” of the law was discrimina-
+tion). Similarly, in Exxon Corp. v. Governor of Maryland,
+the Court keyed to the fact that the effect of the challenged
+law was only to shift business from one set of out-of-state
+suppliers to another. 437 U. S. 117, 127 (1978). And in
+United Haulers, a plurality upheld the challenged law be-
+cause it could not “detect” any discrimination in favor of in-
+state businesses or against out-of-state competitors. 550
+U. S., at 346. In each of these cases and many more, the
+presence or absence of discrimination in practice proved
+decisive.
+Once again, we say nothing new here. Some time ago,
+Tracy identified the congruity between our core dormant
+Commerce Clause precedents and the Pike line. 519 U. S.,
+at 298, n. 12. Many lower courts have done the same. See,
+e. g., Rosenblatt v. Santa Monica, 940 F. 3d 439, 452 (CA9
+2019); Park Pet Shop, Inc. v. Chicago, 872 F. 3d 495, 501 (CA7
+2017); Amanda Acquisition Corp. v. Universal Foods Corp.,
+877 F. 2d 496, 505 (CA7 1989). So have many scholars. See,
+e. g., R. Fallon, The Dynamic Constitution 311 (2d ed. 2013)
+(observing that Pike serves to “ `smoke out' a hidden” pro-
+tectionism); B. Friedman & D. Deacon, A Course Unbroken:
+The Constitutional Legitimacy of the Dormant Commerce
+Clause, 97 Va. L. Rev. 1877, 1927 (2011); Regan, 84 Mich.
+L. Rev., at 1286.
+Nor does any of this help petitioners in this case. They
+not only disavow any claim that Proposition 12 discriminates
+on its face. They nowhere suggest that an examination of
+Proposition 12's practical effects in operation would disclose
+purposeful discrimination against out-of-state businesses.
+While this Court has left the “courtroom door open” to chal-
+lenges premised on “even nondiscriminatory burdens,”
+Davis, 553 U. S., at 353, and while “a small number of our
+cases have invalidated state laws . . . that appear to have been
+genuinely nondiscriminatory,” Tracy, 519 U. S., at 298, n. 12, 2
+2 Most notably, Tracy referred to, and petitioners briefly allude to, a line
+of cases that originated before Pike in which this Court refused to enforce
+certain state regulations on instrumentalities of interstate transporta-
+tion—trucks, trains, and the like. See, e. g., Bibb v. Navajo Freight Lines,
+Inc., 359 U. S. 520, 523–530 (1959) (concerning a state law specifying cer-
+tain mud faps for trucks and trailers); Southern Pacific Co. v. Arizona ex
+rel. Sullivan, 325 U. S. 761, 763–782 (1945) (addressing a state law regard-
+ing the length of trains). Petitioners claim these cases support something
+like the extraterritoriality or balancing rules they propose. But at least
+some decisions in this line might be viewed as condemning state laws that
+“although neutral on their face . . . were enacted at the instance of, and
+primarily benefit,” in-state interests. Raymond Motor Transp., Inc. v.
+Rice, 434 U. S. 429, 447 (1978); see also B. Friedman & D. Deacon, A Course
+Unbroken: The Constitutional Legitimacy of the Dormant Commerce
+Clause, 97 Va. L. Rev. 1877, 1927 (2011). In any event, this Court “has
+only rarely held that the Commerce Clause itself pre-empts an entire feld
+from state regulation, and then only when a lack of national uniformity
+would impede the fow of interstate goods.” Exxon Corp. v. Governor of
+Maryland, 437 U. S. 117, 128 (1978) (emphasis added). Nothing like that
+exists here. We do not face a law that impedes the fow of commerce.
+Pigs are not trucks or trains.

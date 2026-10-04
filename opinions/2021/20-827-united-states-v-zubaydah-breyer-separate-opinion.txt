@@ -1,0 +1,41 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — Opinion of Breyer, J.
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ment's privilege claim). Id., at 10–11. We follow Reynolds'
+example here.
+2
+Additionally, the Government cites legal authority from
+the separate but roughly analogous Freedom of Information
+Act (FOIA) context, which supports our conclusion that the
+CIA's concerns warrant application of the state secrets privi-
+lege. Brief for Petitioner 32–34. The FOIA contains ex-
+emptions that permit an agency to withhold Government rec-
+ords that a member of the public has requested and which
+the agency would otherwise have to disclose. 5 U. S. C.
+§ 552. But the exemptions do not apply (and the agency
+must make the information available) if the information has
+already become public, provided that it has been “ `officially
+acknowledged' ” by the agency from which the information
+is sought. Fitzgibbon v. CIA, 911 F. 2d 755, 765 (CADC
+1990) (emphasis added). The Court of Appeals held that,
+under the circumstances present in Fitzgibbon, if there has
+been “ `official acknowledgment' ” then the agency must dis-
+close the information despite the exemption. Ibid. If the
+agency has not officially acknowledged the information, how-
+ever, then it may withhold the information (under an applica-
+ble exemption) despite the fact that the information has be-
+come public. Ibid.
+To be clear, the FOIA doctrine is only an (imperfect) anal-
+ogy, and nothing in this opinion should be taken to suggest
+that the waiver standards in that area apply directly to the
+state secrets privilege. However, the principles underlying
+the FOIA rule provide at least some support for the Govern-
+ment's position here. Lower courts have explained that the
+official acknowledgement doctrine recognizes the reality that
+official confirmation of sensitive information may pose risks
+that unoffcial disclosure does not. “It is one thing for a re-
+porter or author to speculate or guess that a thing may be
+so or even, quoting undisclosed sources, to say that it is so;
+it is quite another thing for one in a position to know of it
+officially to say that it is so.” Alfred A. Knopf, Inc. v. Colby,

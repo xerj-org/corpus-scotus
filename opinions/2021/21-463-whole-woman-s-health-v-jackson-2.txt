@@ -1,0 +1,144 @@
+Whole Woman’s Health v. Jackson — No. 21-463 — October Term 2021 — decided 12/10/21 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 595 U.S. 30
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r4_0861.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+gest the petitioners will be the target of an enforcement ac-
+tion and thus allow this suit to proceed.
+D
+While this interlocutory appeal focuses primarily on the
+Texas official defendants' motion to dismiss on grounds of
+sovereign immunity and justiciability, before we granted cer-
+tiorari the Fifth Circuit also agreed to take up an appeal
+by the sole private defendant, Mr. Dickson. In the briefing
+before us, no one contests this decision. In his appeal,
+Mr. Dickson argues that the petitioners lack standing to sue
+him because he possesses no intention to fle an S. B. 8 suit
+against them. Mr. Dickson has supplied sworn declarations
+so attesting. See, e. g., Brief for Respondent Dickson 32.
+The petitioners do not contest this testimony or ask us to
+disregard it. Accordingly, on the record before us the peti-
+tioners cannot establish “personal injury fairly traceable to
+[Mr. Dickson's] allegedly unlawful conduct.” California v.
+Texas, 593 U. S., at ––– (internal quotation marks omitted).
+No Member of the Court disagrees with this resolution of
+the claims against Mr. Dickson.
+III
+While this should be enough to resolve the petitioners'
+appeal, a detour is required before we close. Justice Soto-
+mayor charges this Court with “shrink[ing]” from the task
+of defending the supremacy of the Federal Constitution over
+state law. Post, at 71. That rhetoric bears no relation to
+reality.
+The truth is, many paths exist to vindicate the supremacy
+of federal law in this area. Even aside from the fact that
+eight Members of the Court agree sovereign immunity does
+not bar the petitioners from bringing this pre-enforcement
+challenge in federal court, everyone acknowledges that other
+pre-enforcement challenges may be possible in state court
+as well. 5 In fact, 14 such state-court cases already seek to
+vindicate both federal and state constitutional claims against
+S. B. 8—and they have met with some success at the sum-
+mary judgment stage. See supra, at 36. Separately, any
+individual sued under S. B. 8 may pursue state and federal
+constitutional arguments in his or her defense. See n. 1,
+supra. Still further viable avenues to contest the law's com-
+pliance with the Federal Constitution also may be possible;
+we do not prejudge the possibility. Given all this, Justice
+Sotomayor’s suggestion that the Court's ruling somehow
+“clears the way” for the “nullifcation” of federal law along
+the lines of what happened in the Jim Crow South not only
+wildly mischaracterizes the impact of today's decision, it
+cheapens the gravity of past wrongs. Post, at 72.
+The truth is, too, that unlike the petitioners before us,
+those seeking to challenge the constitutionality of state laws
+are not always able to pick and choose the timing and pre-
+ferred forum for their arguments. This Court has never
+recognized an unqualifed right to pre-enforcement review of
+constitutional claims in federal court. In fact, general fed-
+eral question jurisdiction did not even exist for much of this
+Nation's history. See Mims v. Arrow Financial Services,
+LLC, 565 U. S. 368, 376 (2012). And pre-enforcement review
+under the statutory regime the petitioners invoke, 42 U. S. C.
+§ 1983, was not prominent until the mid-20th century. See
+Monroe v. Pape, 365 U. S. 167, 180 (1961); see also R. Fallon,
+J. Manning, D. Meltzer, & D. Shapiro, Hart and Wechsler's
+The Federal Courts and the Federal System 994 (7th ed.
+2015). To this day, many federal constitutional rights are as
+5 Justice Sotomayor 's complaint thus isn't really about whether this
+case should proceed. It is only about which particular defendants the
+petitioners may sue in this particular lawsuit. And even when it comes
+to that question, Justice Sotomayor agrees with the Court regarding
+the proper disposition of several classes of defendants—state-court judges,
+licensing officials, and Mr. Dickson.
+a practical matter asserted typically as defenses to state-law
+claims, not in federal pre-enforcement cases like this one.
+See, e. g., Snyder v. Phelps, 562 U. S. 443 (2011) (First
+Amendment used as a defense to a state tort suit).
+Finally, Justice Sotomayor contends that S. B. 8 “chills”
+the exercise of federal constitutional rights. If nothing else,
+she says, this fact warrants allowing further relief in this
+case. Post, at 62–63, 67–69. Here again, however, it turns
+out that the Court has already and often confronted—and
+rejected—this very line of thinking. As our cases explain,
+the “ `chilling effect' ” associated with a potentially unconsti-
+tutional law being “ `on the books' ” is insufficient to “justify
+federal intervention” in a pre-enforcement suit. Younger v.
+Harris, 401 U. S. 37, 42, 50–51 (1971). Instead, this Court
+has always required proof of a more concrete injury and com-
+pliance with traditional rules of equitable practice. See
+Muskrat, 219 U. S., at 361; Ex parte Young, 209 U. S., at 159–
+160. The Court has consistently applied these requirements
+whether the challenged law in question is said to chill the
+free exercise of religion, the freedom of speech, the right to
+bear arms, or any other right. The petitioners are not enti-
+tled to a special exemption.
+Maybe so, Justice Sotomayor replies, but what if other
+States pass legislation similar to S. B. 8? Doesn't that possi-
+bility justify throwing aside our traditional rules? Post,
+at 71. It does not. If other States pass similar legislation,
+pre-enforcement challenges like the one the Court approves
+today may be available in federal court to test the constitu-
+tionality of those laws. Again, too, further pre-enforcement
+challenges may be permissible in state court and federal law
+may be asserted as a defense in any enforcement action. To
+the extent Justice Sotomayor seems to wish even more
+tools existed to combat this type of law, Congress is free to
+provide them. In fact, the House of Representatives re-
+cently passed a statute that would purport to preempt state
+laws like S. B. 8. See H. R. 3755, 117th Cong., 1st Sess.
+(2021). But one thing this Court may never do is disregard
+the traditional limits on the jurisdiction of federal courts just
+to see a favored result win the day. At the end of that road
+is a world in which “[t]he division of power” among the
+branches of Government “could exist no longer, and the other
+departments would be swallowed up by the judiciary.”
+4 Papers of John Marshall 95 (C. Cullen ed. 1984). 6
+IV
+The petitioners' theories for relief face serious challenges
+but also present some opportunities. To summarize: (1) The
+Court unanimously rejects the petitioners' theory for relief
+against state-court judges and agrees Judge Jackson should
+be dismissed from this suit. (2) A majority reaches the
+same conclusion with respect to the petitioners' parallel the-
+ory for relief against state-court clerks. (3) With respect to
+the back-up theory of relief the petitioners present against
+Attorney General Paxton, a majority concludes that he must
+be dismissed. (4) At the same time, eight Justices hold this
+case may proceed past the motion to dismiss stage against
+Mr. Carlton, Ms. Thomas, Ms. Benz, and Ms. Young, defend-
+ants with specific disciplinary authority over medical licens-
+ees, including the petitioners. (5) Every Member of the
+Court accepts that the only named private-individual defend-
+ant, Mr. Dickson, should be dismissed.
+The order of the District Court is affirmed in part and
+reversed in part, and the case is remanded for further pro-
+ceedings consistent with this opinion.
+So ordered.
+6 Justice Sotomayor charges this Court with “delay” in resolving this
+case. Post, at 72. In fact, this case has received extraordinary solicitude
+at every turn. This Court resolved the petitioners' first emergency appli-
+cation in approximately two days. The Court then agreed to decide in
+the first instance the merits of an appeal pending in the Court of Appeals.
+The Court ordered briefing, heard argument, and issued an opinion on
+the merits—accompanied by three separate writings—all in fewer than
+50 days.

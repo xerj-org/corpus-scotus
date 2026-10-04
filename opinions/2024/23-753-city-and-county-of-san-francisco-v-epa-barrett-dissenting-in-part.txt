@@ -1,0 +1,461 @@
+City and County of San Francisco v. EPA — No. 23-753 — October Term 2024 — decided 3/04/25 — Barrett, J., dissenting in part
+Citation: 604 U.S. 334
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r16_o759.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+The judgment of the Ninth Circuit is reversed.
+It is so ordered.
+Justice Barrett, with whom Justice Sotomayor ,
+Justice Kagan, and Justice Jackson join, dissenting in
+part.
+The Environmental Protection Agency issued San Fran-
+cisco a permit allowing it to discharge pollutants from its
+combined sewer system into the Pacific Ocean. The permit,
+of course, does not give the city free rein, and among its
+conditions are prohibitions on discharges that contribute to
+a violation of applicable water quality standards. San Fran-
+cisco challenges these conditions on the ground that EPA
+lacks statutory authority to impose them. The city is
+wrong. The relevant provision of the Clean Water Act di-
+rects EPA to impose “any more stringent limitation” that is
+“necessary to meet . . . or required to implement any applica-
+ble water quality standard.” 33 U. S. C. § 1311(b)(1)(C).
+Conditions that forbid the city to violate water quality stand-
+ards are plainly “limitations” on the city's license to
+discharge.
+Notwithstanding the straightforward statutory language,
+the Court sides with San Francisco. I join Part II of its
+opinion, which rightly rejects the city's primary argument.
+In Part III, however, the Court embraces an equally weak
+theory—that the permit's restrictions are not “limitations,”
+as that word is ordinarily used. The Court's analysis is con-
+trary to the text, so I respectfully dissent in part.
+I
+A
+Under the Clean Water Act, “the discharge of any pollut-
+ant by any person” is unlawful except as expressly author-
+ized. 33 U. S. C. § 1311(a). As relevant here, authorization
+comes in the form of “National Pollutant Discharge Elimina-
+tion System (NPDES) permits,” which EPA (or, in some cir-
+cumstances, a State) may issue to allow discharges. Before
+issuing a permit, however, the Agency must ensure that
+“such discharge will meet . . . all applicable requirements”
+under several different statutory provisions. § 1342(a)(1).
+Section 1311(b) is one such provision. It works in two
+steps for permits like San Francisco's. First , under
+§ 1311(b)(1)(A), EPA must set “effuent limitations” that
+“shall require the application of the best practicable control
+technology currently available.” “ `[E]ffuent limitation' ”
+refers to a restriction “on quantities, rates, and concentra-
+tions of chemical, physical, biological, and other constituents
+which are discharged from point sources” into waters subject
+to EPA's jurisdiction. § 1362(11).
+Second, under § 1311(b)(1)(C), EPA must impose “any
+more stringent limitation, including those necessary to meet
+water quality standards, . . . or required to implement
+any applicable water quality standard.” Water quality
+standards—which are devised by the States and subject to
+federal approval—“consist of the designated uses of the navi-
+gable waters involved and the water quality criteria for such
+waters based upon such uses.” § 1313(c)(2)(A). Effuent
+limitations, standing alone, are not always sufficient to pro-
+tect the desired water quality, as set forth in the water qual-
+ity standards. So point sources, “ `despite individual compli-
+ance with effuent limitations, may be further regulated to
+prevent water quality from falling below acceptable levels.' ”
+Arkansas v. Oklahoma, 503 U. S. 91, 101 (1992) (quoting
+EPA v. California ex rel. State Water Resources Control
+Bd., 426 U. S. 200, 205, n. 12 (1976)). Importantly, the Act
+does not itself require dischargers to heed water quality
+standards; the standards are enforceable only insofar as they
+are incorporated into permit conditions under § 1311(b)(1)(C).
+Section 1311(b) therefore sets forth a coherent regime. In
+the first instance, EPA regulates water pollution through
+technology-based effuent limitations that restrict the “quan-
+tities, rates, and concentrations” of harmful materials that
+permittees may discharge. § 1362(11). But when the
+technology-based effuent limitations are insufficient to en-
+sure that the water quality standards are met, EPA has sup-
+plemental authority to impose further limitations.
+B
+As the Court explains, San Francisco operates a combined
+sewer system, which transports sewage and stormwater run-
+off via the same conduits. See ante, at 341–343. Such sys-
+tems occasionally overfow in wet weather—and when they
+do, they discharge both stormwater and untreated sewage
+into waters potentially regulated by the Clean Water Act.
+59 Fed. Reg. 18689 (1994). As relevant here, “combined
+sewer overfow” events from one component of San Francis-
+co's sewer system result in the discharge of pollutants into
+the Pacific Ocean via the Southwest Ocean Outfall, which is
+located within EPA's jurisdiction, 3.3 nautical miles off the
+coast of San Francisco. These discharges are presumptively
+unlawful under § 1311(a) and hence require a permit.
+The city's NPDES permit contains both the technology-
+based effuent limitations required by § 1311(b)(1)(A) and ad-
+ditional limitations to protect the water quality standards
+under § 1311(b)(1)(C). This latter category includes two “re-
+ceiving water limitations”—requirements defining the per-
+missible discharge by reference to its effect on the quality of
+the waters that receive it, rather than by reference to the
+nature of the discharge itself. (These are what the Court
+calls “ `end-result' requirements.” Ante, at 338.) The first
+states that San Francisco “shall not cause or contribute to a
+violation of any applicable water quality standard.” App. to
+Pet. for Cert. 97. The second provides that “[n]either the
+treatment nor the discharge of pollutants shall create pollu-
+tion, contamination, or nuisance” as defined by the California
+Water Code. Id., at 339.
+The city's permit thus tracks the structure of § 1311(b). It
+restrains discharges initially through technology-based ef-
+fuent limitations, as required by § 1311(b)(1)(A). But be-
+cause the effuent limitations may be insufficient to ensure
+that California's water quality standards are met, the permit
+contains supplemental limitations, as required by § 1311(b)
+(1)(C). The concern that the technology-based effuent limi-
+tations may fall short is on display in this case—discharges
+from components of San Francisco's sewer system have al-
+legedly led to serious breaches of the water quality stand-
+ards, such as “discoloration, scum, and foating material,
+including toilet paper, in Mission Creek. ” Complaint
+in United States v. City and County of San Francisco ,
+No. 3:24–cv–02594 (ND Cal., May 1, 2024), ECF Doc. 1, p.
+22. The receiving water limitations imposed under § 1311(b)
+(1)(C) are included to ensure that such breaches do not occur.
+II
+A
+San Francisco dedicates almost all its briefing to the prop-
+osition that the receiving water limitations are unlawful be-
+cause § 1311(b)(1)(C) allows only effuent limitations. In
+other words, San Francisco reads the phrase “any more
+stringent limitation” to mean “any more stringent effuent
+limitation.” As the Court explains, this argument is flatly
+inconsistent with the text of § 1311(b). See ante, at 344–345.
+In my view, the failure of that argument should have ended
+this case.
+The Court continues, however, with a theory largely of its
+own making. Whatever “any more stringent limitation”
+may mean, the Court says, it does not authorize EPA to di-
+rect permittees to comply with the water quality standards.
+This conclusion is puzzling. The entire function of
+§ 1311(b)(1)(C) is to ensure that permitted discharges do not
+violate state water quality standards. And as discussed
+above, the provision gives EPA broad authority to achieve
+that aim through conditions imposed in NPDES permits.
+Why would that broad authority not allow EPA to tell per-
+mittees that they must not cause or contribute to a viola-
+tion of the very standards that § 1311(b)(1)(C) serves to
+safeguard?
+The answer, according to the Court, is that a restriction
+does not count as a “limitation” if the permittee must iden-
+tify the steps necessary to comply with it. Ante, at 346.
+San Francisco's permit only authorizes discharges that do not
+degrade water quality below the applicable standard. It is
+up to the city, however, to formulate a plan to achieve that
+result. The city's plan, the Court asserts, is a “limitation”
+on its discharges, but the permit condition is not. See ibid.
+As best I can tell, the Court thinks that only the “direct
+source of restriction or restraint”—apparently, the most spe-
+cifc restriction—counts as a “limitation.” Ibid.
+The Court offers nothing to substantiate this proposition,
+and it is wrong as a matter of ordinary English. It is com-
+monplace for “limitations” to state “that a particular end re-
+sult must be achieved and that it is up to the [recipient] to
+figure out what it should do.” Ibid. For example, a com-
+pany could impose spending “limitations” by requiring each
+branch to spend no more than its allotted budget, while still
+leaving branch managers flexibility to determine how to allo-
+cate those funds. A doctor could impose a “limitation” on a
+patient's diet by telling the patient that she must lose 20
+pounds over the next six months, even if the doctor does not
+prescribe a specific diet and exercise regimen. And an air-
+line could impose a “limitation” on the weight of checked
+bags, even though it does not tell passengers what items to
+pack. “Limitations” can be general as well as specific, and
+general limitations can call for more specific ones.
+In this context, “limitation” is simply a synonym for “[a]
+restrictive condition.” Funk & Wagnalls New Standard
+Dictionary of the English Language 1437 (1952). And condi-
+tions can be stated at many levels of generality—including
+in terms of end results. A college may condition a scholar-
+ship on the student's maintenance of a minimum GPA. A
+homeowner may condition payment for a new roof on the
+contractor's satisfaction of industry standards. An em-
+ployer may condition job perks on the employee's perform-
+ance. In each example, the condition is a limitation on a
+benefit or payment. There are strings attached.
+The Court also misconstrues § 1311(b)(1)(C)'s reference to
+limitations that are “necessary to meet” or “required to im-
+plement” the water quality standards. As for the former
+phrase, “necessary to meet” does not imply anything about
+the specifcity or concreteness of the limitations adopted by
+EPA. Rather, the limitations on San Francisco's permit are
+“necessary to meet” the water quality standards because
+without them, the standards would not bind the city. The
+limitations thus ensure that San Francisco will “ `comply
+with,' ” “ `fulfill,' ” “ `satisfy,' ” or “ `come into conformity
+with' ” the water quality standards. Ante, at 347 (quoting
+Random House Unabridged Dictionary 1195 (2d ed. 1987)).
+Nor does the phrase “required to implement” help the
+Court. “Implement,” the Court says, generally means “ `to
+give practical effect to and ensure of actual fulfllment by
+concrete measures.' ” Ante, at 347. That is true but incom-
+plete. The full definition reads: “to carry out: accomplish,
+fulll, . . . esp: to give practical effect to and ensure of
+actual fulfllment by concrete measures.” Webster's Third
+New International Dictionary 1134 (1976). So while the
+word is often used in the sense of taking “concrete meas-
+ures,” such measures are not necessary to satisfy the defni-
+tion of “implement.”
+Regardless, the receiving water limitations “implement”
+the water quality standards in both the broad and narrow
+senses of the word. They are required to “carry out[,] ac-
+complish, [or] fulfill” the standards: When effuent limitations
+fall short, discharges from the city's combined sewer system
+will otherwise degrade water quality below the applicable
+standard. Ibid. (capitalization altered). And the limita-
+tions are “concrete measures,” ibid., because they are the
+means by which EPA “implement[s] any applicable water
+quality standard,” § 1311(b)(1)(C). They give the standards
+“practical effect” by making them enforceable. Id., at 1134.
+There is no getting around it: The receiving water limita-
+tions are “limitations.” If they are vague or unreasonable,
+they are vulnerable to challenge on one or both of those
+grounds. See, e. g., Natural Resources Defense Council v.
+EPA, 808 F. 3d 556, 578 (CA2 2015) (invalidating a receiving
+water limitation as arbitrary and capricious). But even a
+vague or unreasonable limitation is still a “limitation.”
+B
+With the text of § 1311(b)(1)(C) against it, the Court tries
+to marshal support for its approach from the Clean Water
+Act's history, as well as from what the Court describes as
+the “broader statutory scheme.” Ante, at 348–352. Nei-
+ther helps.
+1
+As for the statutory history: Advancing a specific theory
+of the congressional intent behind the Clean Water Act, the
+Court contends that EPA's interpretation would revive the
+“backward-looking” policy regime that the Act was designed
+to replace. See ante, at 348–349. Before the Act, the
+United States enforced federal water pollution laws primar-
+ily through abatement actions. See 33 U. S. C. § 1160 (1970
+ed.). Though the Act abolished this cause of action, the
+Court claims that receiving water limitations function in es-
+sentially the same way. Just as the United States did when it
+brought abatement suits, EPA would have to “ `work back-
+ward from an overpolluted body of water' ” to combat water
+pollution. Ante, at 349 (quoting State Water Resources Con-
+trol Bd., 426 U. S., at 204). Thus, the Court insists, the use
+of receiving water limitations would “undo” the Act's shift
+from abatement suits to “ `direct restrictions' on polluters.”
+Ante, at 349 (quoting State Water Resources Control Bd., 426
+U. S., at 204).
+Of course, no theory of “what Congress plainly sought to
+achieve,” ante, at 349, could justify an implausible interpre-
+tation of § 1311(b)(1)(C). Here, however, the Court does not
+even deliver on the claim that its account “plainly” tracks
+Congress's goal. Ante, at 349. Because receiving water
+limitations do not actually replicate the old abatement re-
+gime, the Court's rendition is not the only (much less the
+most obvious) explanation for the statutory before and after.
+There is another explanation, and it is one in which receiving
+water limitations ft right in.
+Under the old system, the United States could bring
+abatement actions only after the pollution had already oc-
+curred. See 33 U. S. C. § 1160(c)(5) (1970 ed.). A glaring
+problem with this approach is that an ex post enforcement
+regime does not adequately deter polluters or prevent pollu-
+tion. Making matters worse, this regime involved “cum-
+brous enforcement procedures” that made it next to impossi-
+ble to bring abatement actions. State Water Resources
+Control Bd., 426 U. S., at 202; see also 33 U. S. C. § 1160 (1970
+ed.) (requiring, prior to an abatement action, that the United
+States hold a conference of the relevant state agencies, then
+provide the state agency six months to take remedial action,
+then call a public hearing with the state agency and
+the discharger); K. Murchison, Learning From More Than
+Five-and-a-Half Decades of Federal Water Pollution Control
+Legislation: Twenty Lessons for the Future, 32 Boston Col-
+lege Env. Aff. L. Rev. 527, 534 (2005) (“According to a report
+prepared by the Senate Committee on Public Works, the fed-
+eral government initiated only one enforcement action under
+the Federal Water Pollution Control Act prior to 1970”).
+Congress chose a different regulatory model when it
+adopted the Act in 1972. The Act renders all discharges
+presumptively unlawful. Then, under the current ex ante
+permitting regime, EPA authorizes only those discharges
+that comply with the Act. Should a permittee fail to comply
+with the terms of its permit, EPA has broad authority to
+sue. See 33 U. S. C. §§ 1319(b)–(d) (authorizing civil actions
+for injunctive relief, civil penalties for violations, and in some
+instances criminal sanctions).
+The receiving water limitations imposed under § 1311(b)
+(1)(C) are entirely consistent with this scheme. Again, the
+technology-based effluent limitations imposed under
+§ 1311(b)(1)(A) do the primary work of gating discharges at
+the front end to minimize pollution. The § 1311(b)(1)(C) lim-
+itations guard against any residual risk that discharges will
+violate the water quality standards. Because these limita-
+tions supplement rather than replace the technology-based
+effuent limitations, there is no risk that broadly worded re-
+ceiving water limitations will recreate the ineffective abate-
+ment regime that prevailed prior to 1972.
+Furthermore, the receiving water limitations operate
+within the broader context of the Act's permitting regime.
+These permits impose a prospective requirement on permit-
+tees to comply with permit conditions. Under the old re-
+gime, a discharger could take an approach of “pollute first
+and apologize later,” secure in the knowledge that an abate-
+ment suit was unlikely and that such a suit would at most
+allow judgment to “secur[e] abatement of any pollution
+proved.” 33 U. S. C. § 1160(h) (1970 ed.). A permittee who
+violates a permit condition, by contrast, necessarily exposes
+itself to enforcement actions by EPA, as well as potential
+penalties. See 33 U. S. C. §§ 1319(b)–(d). Receiving water
+limitations, like any other permit condition, thus operate as
+“ `direct restrictions' on polluters.” Ante, at 349 (quoting
+State Water Resources Control Bd., 426 U. S., at 204).
+2
+The Court also claims that the receiving water limitations
+are inconsistent with two features of the “broader statutory
+scheme.” Ante, at 350–352. First, it contends that the re-
+ceiving water limitations are at odds with the permit shield
+provision because violations of the permit condition (and the
+attendant liability) are hard to predict. Ante, at 350–351.
+Second, it argues that the Clean Water Act is silent about
+the problem of multiple dischargers into the same body of
+water—and if the Act allowed EPA to condition a permit on
+maintaining water quality standards, the Court says, it
+surely would have spelled out how to deal with such an obvi-
+ous complication. Ante, at 351–352. Both of these argu-
+ments boil down to the Court's concern that receiving water
+limitations might be unfair to permittees. In some circum-
+stances, they might be. But any unfairness should be ad-
+dressed through arbitrary-and-capricious challenges—not a
+statutory rewrite.
+Start with the permit shield provision. Under § 1342(k),
+compliance with the terms of a permit “shall be deemed com-
+pliance” with various substantive provisions of the Act,
+thereby shielding permit holders from liability. The Court
+insists that receiving water limitations like those in the city's
+permit would “eviscerat[e]” that benefit by failing to provide
+fair notice. Ante, at 350–351.
+The permit shield provision, however, serves the specific
+role of immunizing permittees that comply with a permit.
+See § 1342(k). For instance, it “insulate[s] permit holders
+from changes in various regulations during the period of a
+permit” and “relieve[s] them of having to litigate in an en-
+forcement action the question whether their permits are suf-
+ficiently strict.” E. I. du Pont de Nemours & Co. v. Train,
+430 U. S. 112, 138, n. 28 (1977). The receiving water limita-
+tions do not eliminate that benefit. It remains true that San
+Francisco cannot be sued under the theory that the city's
+permit is insufficient to ensure compliance with the Act.
+Really, the Court's argument reduces to the broader policy
+concern that it may be difficult for regulated entities to com-
+ply with receiving water limitations and that they may lack
+adequate notice of a violation. But again, that concern goes
+to the question whether a particular receiving water limita-
+tion is rational. If a permittee cannot reasonably determine
+how to comply with a receiving water limitation, then the
+permit condition may be invalidated as arbitrary and capri-
+cious. (In fact, San Francisco made arbitrary-and -
+capricious arguments below, but the Ninth Circuit rejected
+them; the city did not seek this Court's review of that issue.
+See 75 F. 4th 1074, 1092–1093 (2023).) And as EPA acknowl-
+edged at oral argument, the Agency “may not impose limita-
+tions of any kind that are unconstitutionally vague.” Tr. of
+Oral Arg. 51. These concerns do not speak to the relevant
+question here, which is whether receiving water limitations
+comport with the Act.
+The Court is also wrong to suggest that receiving water
+limitations are categorically impermissible because there
+may be multiple dischargers into one body of water in some
+circumstances. See ante, at 351–352. It makes little sense
+to say that an agency always lacks authority to take a cer-
+tain action just because the action would be unreasonable in
+some scenarios. And as the Court itself recognizes, there is
+no multiple-discharger problem here: San Francisco is the
+only significant discharger at the Southwest Ocean Outfall.
+Ante, at 352. If EPA does start imposing receiving water
+limitations in contexts where permittees cannot control the
+quality of the receiving waters—such as where there are
+multiple dischargers—then, again, the permittee can bring
+an arbitrary-and-capricious challenge.
+3
+Finally, the Court downplays the valuable uses of receiv-
+ing water limitations. To begin, EPA imposes such limita-
+tions when the Agency “lacks the information necessary to
+develop more tailored limitations.” Tr. of Oral Arg. 51.
+That is the case here: San Francisco has consistently failed
+to update its Long-Term Control Plan for managing com-
+bined sewer overfows. See 75 F. 4th, at 1095 (observing
+that San Francisco has not updated its plan since 1991). By
+imposing receiving water limitations, EPA was nevertheless
+able to issue a permit to San Francisco while complying with
+the Clean Water Act.
+The Court does not explain what other course of action
+EPA could take. Instead, it states, without citation, that
+“EPA possesses the expertise . . . and the resources neces-
+sary to determine what a permittee should do.” Ante,
+at 353. This bare assertion simply ignores the obvious
+problem—how is EPA expected to deploy its expertise when
+it lacks the basic information necessary to make a decision?
+The Court also suggests that the Agency could refuse to
+issue a permit until the applicant provides the necessary in-
+formation. Ibid. But this gives the game away: The entire
+point of EPA's argument is that it is preferable for EPA to
+impose broadly worded conditions in its permits than to deny
+permits altogether and potentially shut down San Francisco's
+sewer system. Nor can EPA simply “make use of its emer-
+gency powers” when permittees fail to provide necessary in-
+formation. Ibid. Such powers are available only when
+there is “imminent and substantial endangerment to the
+health of persons or to . . . the livelihood of . . . persons.”
+§ 1364(a). As the name “emergency” suggests, these powers
+provide a limited avenue for the Agency to sue in response
+to a crisis. They do not provide a solution to the problem
+of noncompliant permittees.
+Receiving water limitations are also useful when EPA is-
+sues general permits to broad categories of dischargers (such
+as for construction projects). See South Fla. Water Man-
+agement Dist. v. Miccosukee Tribe, 541 U. S. 95, 108, n. (2004)
+(observing that such “permits greatly reduce . . . administra-
+tive burden by authorizing discharges from a category of
+point sources within a specified geographic area”). In lieu
+of individualized and prescriptive permitting conditions—
+which would take time to craft and with which small busi-
+nesses might have difficulty complying—EPA instead allows
+the permittee to proceed under more general language.
+EPA can therefore issue the permit quickly and give respon-
+sible permittees flexibility to choose how to comply with
+the permit.
+After today, the alternative for entities seeking a general
+permit is not for EPA to issue the permit without the
+§ 1311(b)(1)(C) limitation. Instead, the alternative is for the
+permit to be delayed or even denied. See Tr. of Oral Arg.
+83 (If the Court “take[s] away [EPA's] ability to rely on these
+sorts of prohibitions,” then the Agency is “going to need to
+ask for more information because it's only with that informa-
+tion” that the Agency can “develop more tailored limita-
+tions”). Section 1311(b)(1)(C) is not optional; EPA is re-
+quired to issue the limitations necessary to ensure that the
+water quality standards are met. So taking a tool away
+from EPA may make it harder for the Agency to issue the
+permits that municipalities and businesses need in order for
+their discharges to be lawful.
+The Court dismisses this concern, noting that “no . . . com-
+pany has submitted a brief supporting . . . EPA's interpreta-
+tion.” Ante, at 355. But there is no reason to think that
+the sampling of trade associations from which this Court
+happens to hear reflects the views of all potentially affected
+parties. And in any event, neither the cited amicus brief
+nor the Court itself has any response to EPA's straightfor-
+ward point: If the Agency must impose individualized condi-
+tions for each permittee under § 1311(b)(1)(C), then it will be
+more difficult and more time consuming for the Agency to
+issue permits.
+* * *
+Receiving water limitations are not categorically incon-
+sistent with the Clean Water Act. Because the Court holds
+otherwise, I respectfully dissent in part.

@@ -1,0 +1,560 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — Opinion of Thomas, J.
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas, with whom Justice Alito joins, con-
+curring in part and concurring in the judgment.
+Under United States v. Reynolds, 345 U. S. 1 (1953), a
+court evaluates the Government's assertion of the state-
+secrets privilege based on “the showing of necessity . . .
+made” by the party requesting discovery. Id., at 11. If the
+party makes only “a dubious showing of necessity,” the claim
+of privilege “will have to prevail” without judicial scrutiny
+into the Government's basis for the claim. Ibid. If the
+party makes “a strong showing of necessity,” however, im-
+mediate dismissal of the discovery request is not required.
+Ibid. A court may then ask whether there is a “reasonable
+danger” that “military secrets are at stake.” Id., at 10–11.
+In answering that question, the court must afford “the ut-
+most deference” to the Executive's national-security assess-
+ment. Department of Navy v. Egan, 484 U. S. 518, 530
+(1988) (internal quotation marks omitted). “[I]f the court is
+ultimately satisfied that military secrets are at stake,” “even
+the most compelling necessity cannot overcome the claim of
+privilege.” Reynolds, 345 U. S., at 11.
+The Court acknowledges that Abu Zubaydah's need for
+discovery from two CIA contractors is “not great,” ante, at
+15, but it declines to dismiss Zubaydah's discovery applica-
+tion on that basis. Rather, the Court concludes that the
+Government “has provided a reasonable explanation” why
+Zubaydah's proposed discovery “could significantly harm na-
+tional security interests.” Ante, at 207. In my view, Zu-
+baydah's “dubious” need for the discovery he seeks requires
+dismissal of his discovery application, regardless of the
+Government's reasons for invoking the state-secrets privi-
+lege. I, therefore, join only Part IV of the Court's opinion.
+I
+Abu Zubaydah is a terrorist. Before his detention, he
+was an al Qaeda-associated senior operative engaged in ac-
+tive hostilities against the United States. See generally
+Factual Return for Abu Zubaydah (ISN 10016), in Husayn
+v. Gates, No. 08–cv–1360 (DDC), ECF Doc. 474–1, pp. 24–67
+(Factual Return). Between 1994 and 2000, Zubaydah was
+the “key facilitator” for the “Khaldan camp,” a terrorist
+training center in eastern Afghanistan. Id., at 37, ¶33; see
+also Barhoumi v. Obama, 609 F. 3d 416, 425 (CADC 2010);
+National Commission on Terrorist Attacks upon the United
+States, The 9/11 Commission Report, pp. 59, 175 (2004) (9/11
+Report). Among other responsibilities, Zubaydah secured
+forged passports and visas for terrorist trainees, provided
+safe harbor for the trainees at a “guesthouse,” and managed
+the training camp's expenses. Factual Return 37, ¶33; see
+also 9/11 Report 169, 178. Numerous Khaldan-trained ter-
+rorists committed acts of terrorism against the United
+States, including Khalid al-Mihdhar, the al Qaeda hijacker
+who crashed American Airlines Flight 77 into the Pentagon
+on September 11, 2001. Factual Return 41, ¶41a; see also
+9/11 Report 73 (noting evidence that suggested the 1993
+World Trade Center bombing “plot or plots were hatched at
+or near the Khaldan camp”).
+After the September 11 attacks, Zubaydah “joined enemy
+forces against the United States,” “facilitated the retreat and
+escape of enemy forces out of Afghanistan,” and continued
+“plotting attacks against the United States.” Factual Re-
+turn 34, ¶28. From sites in Afghanistan and Pakistan, Zu-
+baydah commanded a terrorist militia closely associated with
+al Qaeda and Osama bin Laden. See id., at 48–55, ¶¶49–62;
+Ali v. Obama, 736 F. 3d 542, 546–548 (CADC 2013) (Kava-
+naugh, J.). Zubaydah had his followers trained in English,
+electronics, and explosives. See Factual Return 63–64,
+¶¶67– 68. He planned to wage war against the United
+States by planting remotely operated bombs in various pub-
+lic locations. See id., at 66, ¶73. In his diary, Zubaydah
+reflected that it would be “a lot better” to carry out a nuclear
+attack if a nuclear weapon ever became “available.” Id., at
+67, ¶73 (emphasis deleted). Zubaydah wanted “[a] general
+war, non stop and without mercy .” Ibid.
+On March 28, 2002, U. S. and allied forces captured Zubay-
+dah at his safe house in Faisalabad, Pakistan. Id., at 55,
+¶63; Ali, 736 F. 3d, at 543. Zubaydah “used the Faisalabad
+house to prepare for attacks on U. S. and Coalition forces
+using remote-detonated explosives.” Id. , at 546– 547.
+After his capture, the CIA transferred Zubaydah to several
+detention sites abroad before detaining him at Guantánamo
+Bay Naval Base, where he remains today. Between March
+2002 and September 2006, CIA interrogation of Zubaydah
+yielded 766 disseminated intelligence reports. S. Rep.
+No. 113–288, p. 46 (2014). “Zubaydah provided information
+on al-Qa'ida activities, plans, capabilities, and relationships,
+in addition to information on its leadership structure, includ-
+ing personalities, decision-making processes, training, and
+tactics.” Ibid. (internal quotation marks omitted).
+In this case, Zubaydah seeks discovery under 28 U. S. C.
+§ 1782 from two former CIA contractors, James Mitchell and
+John Jessen. Zubaydah does not request this discovery for
+his own use. Rather, Polish prosecutors asked Zubaydah to
+fle a discovery application after the United States repeat-
+edly declined the prosecutors' requests for information re-
+garding CIA operations at an alleged detention site in Po-
+land. See ante, at 201–202; Husayn v. Mitchell, 965 F. 3d
+775, 782 (CA9 2020) (Bress, J., dissenting from denial of re-
+hearing en banc). Zubaydah claims to have been detained
+and tortured at that site, and Polish authorities are investi-
+gating those allegations. The United States now moves to
+quash Zubaydah's § 1782 application by invoking the state-
+secrets privilege, citing national-security interests.
+II
+A
+In Reynolds, this Court held that the Government may
+invoke the state-secrets privilege whenever “there is a rea-
+sonable danger that compulsion of the evidence will expose
+military matters which, in the interest of national security,
+should not be divulged.” 345 U. S., at 10. Upon the Gov-
+ernment's “formal claim of privilege,” “[t]he court itself must
+determine whether the circumstances are appropriate for the
+claim of privilege, and yet do so without forcing a disclosure
+of the very thing the privilege is designed to protect.” Id.,
+at 7–8 (footnote omitted).
+Reynolds prescribed a two-step framework instructing
+courts “how far [they] should probe in satisfying [themselves]
+that the occasion for invoking the privilege is appropriate.”
+Id., at 11. First, courts must assess the requesting party's
+need for the Government's privileged material. If the par-
+ty's need is “dubious,” a formal claim of privilege “will have
+to prevail” without judicial inquiry into the basis for the Gov-
+ernment's claim. Ibid. A party has a dubious need unless
+it can show that the proposed discovery is “immediately and
+essentially applicable” to the party's case. United States v.
+Burr, 25 F. Cas. 30, 37 (No. 14,692d) (CC Va. 1807) (Marshall,
+C. J.). For example, a “dubious showing of necessity” arises
+if a party has an “available alternative” to privileged mate-
+rial that might “giv[e him] the evidence to make out [his]
+case without forcing a showdown on the claim of privilege.”
+Reynolds, 345 U. S., at 11. Likewise, a party's need is dubi-
+ous if it is “possible . . . to adduce the essential facts . . .
+without resort to material touching upon military secrets.”
+Ibid.
+Second, if a party has made a “strong showing of neces-
+sity,” immediate dismissal of the discovery request is not re-
+quired. Ibid. The court may then ask whether there is a
+“reasonable danger” that “military secrets are at stake.”
+Id., at 10–11. When answering that question, in camera re-
+view is not “automati[c],” id., at 10, but rather “a last resort,”
+Larson v. Department of State , 565 F. 3d 857, 870 (CADC
+2009) (internal quotation marks omitted). And, in all cases,
+the court must afford the “utmost deference” to the Execu-
+tive's assessment of national-security threats. Egan, 484
+U. S., at 530 (internal quotation marks omitted). 1 Such def-
+1 Justice Breyer suggests that case law under the Freedom of Infor-
+mation Act (FOIA) might provide a “roughly analogous” framework for
+courts to assess the Government's claim of state-secrets privilege. Ante,
+at 210 (plurality opinion). Yet, at the same time, Justice Breyer admits
+that the analogy is “imperfect,” and stresses that “nothing in [his] opinion
+should be taken to suggest” that FOIA law is “directly” relevant. Ibid.
+No party has proposed a FOIA approach to state secrets, presumably be-
+cause the statute has no apparent connection to the state-secrets privilege.
+Like the parties, I do not think that FOIA is relevant in this context.
+This Court has held that FOIA's “basic purpose” is to “open agency action
+to the light of public scrutiny,” regardless of the “particular purpose for
+which the document is being requested.” Department of Justice v. Re-
+porters Comm. for Freedom of Press, 489 U. S. 749, 772 (1989) (internal
+quotation marks omitted). That “basic purpose” is antithetical to the
+state-secrets privilege, which exists to protect “military matters [that]
+should not be divulged,” even when a party demonstrates “the most com-
+pelling necessity.” Reynolds, 345 U. S., at 10, 11. Thus, FOIA favors
+disclosure regardless of a party's need, while the state-secrets privilege
+mandates secrecy even if need is at its zenith.
+erence is required because it is the responsibility of the Ex-
+ecutive, “not that of the judiciary, to weigh the variety of
+complex and subtle factors in determining whether disclo-
+sure of information may lead to an unacceptable risk of com-
+promising” the Nation's safety. CIA v. Sims, 471 U. S. 159,
+180 (1985). Ultimately, if the court is “satisfied that military
+secrets are at stake,” “even the most compelling necessity
+cannot overcome the claim of privilege.” Reynolds, 345
+U. S., at 11; see also Trump v. Vance, 591 U. S. –––, ––– (2020)
+(Thomas, J., dissenting).
+Reynolds itself involved only a “dubious” need for privi-
+leged material. The plaintiffs were widows of three civil-
+ians who died when a military fight “testing secret elec-
+tronic equipment” crashed. 345 U. S., at 3. The plaintiffs
+fled suit under the Federal Tort Claims Act, 28 U. S. C.
+§ 1346 et seq., and the Government invoked the state-secrets
+privilege to withhold the Air Force's accident investigation
+report and related materials. See 345 U. S., at 3–4. The
+Court sustained the privilege because the plaintiffs “posed
+the privilege question for decision with the formal claim of
+privilege set against a dubious showing of necessity.” Id.,
+at 11. Specifically, the plaintiffs had adduced “nothing to
+suggest that the electronic equipment . . . had any causal
+connection with the accident,” making discovery into the
+equipment unnecessary. Ibid. The Government also had
+“offered to make the surviving crew members available for
+examination,” but the plaintiffs declined that invitation.
+Ibid. For these reasons, and not because the Court inde-
+pendently assessed whether “military secrets [were] at
+stake,” ibid., the Court found the plaintiffs' need “dubious”
+and ordered the dismissal of their discovery request.
+B
+In this case, the Court inverts the Reynolds test so that
+courts first ask whether the Government “has offered a valid
+reason for invoking the privilege,” and then ask whether the
+requesting party has demonstrated sufficient need for the
+discovery. Ante, at 209. Now, a court “turn[s] to the issue
+of necessity” not to determine whether to evaluate the
+Government's reasons for invoking the state-secrets privi-
+lege, but rather to ascertain “how deeply to probe the details
+of, and basis for, the Government's privilege claim.” Ante,
+at 210.
+Reynolds squarely forecloses the Court's reasons-first ap-
+proach. Regardless of need, a claim of privilege must pre-
+vail once the Government has given a “valid reason” to sup-
+port it, because “even the most compelling necessity cannot
+overcome the claim of privilege if the court is ultimately sat-
+isfed that military secrets are at stake.” Reynolds, 345
+U. S., at 11. The Court offers no explanation how a court
+might discern a “valid reason” to invoke the state-secrets
+privilege without also being “satisfied” that state secrets are
+in issue. Here, to determine whether the Government has
+offered a “valid reason,” the Court even searched “the evi-
+dentiary record” to ensure that “nothing . . . casts doubt on
+[its] conclusion.” Ante, at 209. Thus, to start by evaluating
+the Government's reasons for privilege, as the Court does,
+leaves Reynolds' analysis of need with no role to play. That
+result is flatly inconsistent with Reynolds, where the Court
+did not evaluate the Government's reasons to support its
+privilege claim, but instead ordered dismissal of the discov-
+ery request in light of the plaintiffs' “dubious showing of
+necessity.” 345 U. S., at 11. In upending Reynolds' test,
+the Court fails to grapple with or even discuss Reynolds'
+analysis.
+Unfortunately, by invoking need as Reynolds' second step,
+with a cryptic instruction to “probe” the Government's rea-
+sons yet more “deeply,” ante, at 210, the Court twice puts the
+Nation's security at risk. First, any judicial inquiry more
+searching than the Court's analysis here likely will lead to in
+camera review whenever the requesting party demonstrates
+adequate need. Because the Court already dissects the CIA
+Director's declaration, see ante, at 207–208, it is unclear how
+else the Government could support its privilege claim other
+than by disclosing evidence in camera. But making in cam-
+era review turn on the party's need improperly prescribes
+“automati[c] . . . disclosure to the judge” in the narrow but
+important class of cases for which the moving party demon-
+strates adequate need. Reynolds, 345 U. S., at 10. Such an
+approach also ignores that “examination of the evidence . . .
+by the judge alone” “jeopardize[s] the security which the
+privilege is meant to protect.” Ibid. While the Executive
+can control its subordinates' access to state secrets and en-
+force penalties if such material is mishandled, it has little
+control once state secrets fall into the Judiciary's hands.
+Disclosure to a judge, therefore, poses a very real national-
+security threat. The plurality's cavalier statement that
+“sometimes” in camera review is warranted fails even to ac-
+knowledge that risk. Ante, at 212.
+Second, the Court's inverted Reynolds test undermines
+the “utmost deference” owed to the Executive's national-
+security judgments. Egan, 484 U. S., at 530 (internal quota-
+tion marks omitted). While the Court purports to apply
+that standard in this case, see ante, at 205, it then instructs
+courts to “probe” more “deeply” the “basis for . . . the Gov-
+ernment's privilege claim” when need is established, ante, at
+210. This will inevitably result in “judicial second-guessing”
+of core national-security determinations, “defeat[ing] the
+unity, secrecy, and dispatch that the Founders believed to be
+so important” to the Executive Branch. Hamdi v. Rums-
+feld, 542 U. S. 507, 592 (2004) (Thomas, J., dissenting); see
+also The Federalist No. 64, pp. 392–393 (C. Rossiter ed. 1961)
+(because “perfect secrecy [is] sometimes requisite” in inter-
+national affairs, the President must be “able to manage the
+business of intelligence in such manner as prudence may
+suggest”).
+C
+Justice Kavanaugh joins the Court's opinion but would
+reframe its test. Rather than invert Reynolds' two-step ap-
+proach, he maintains that the Government's assertion of
+privilege should prompt a “threshold judicial inquiry” in
+which a court asks whether “the `circumstances indicat[e] a
+reasonable possibility' that state secrets are involved.”
+Post, at 232 (opinion concurring in part) (quoting Reynolds,
+345 U. S., at 11). Justice Kavanaugh fails to describe
+what this analysis entails, other than to characterize it as
+“not demanding” and the result as “typically self-evident.”
+Post, at 232–233. But his Reynolds step 0 cannot be mean-
+ingfully different from the Court's upfront demand for rea-
+son giving. He concedes that this is a case of “ `dubious'
+need,” post, at 233 (quoting Reynolds, 345 U. S., at 11), so he
+cannot think that the Court properly applies Reynolds' sec-
+ond step. He also joins the Court's analysis in relevant part,
+which indicates that his “threshold judicial inquiry” includes
+both the Court's searching evaluation of the CIA Director's
+declaration and its review of the record to ensure that nothing
+“casts doubt” on the Director's explanation. See ante, at 209
+(majority opinion). In short, Justice Kavanaugh's tripar-
+tite test must likewise require plenary (though deferential)
+review at the “threshold,” with more exacting review (some-
+times including in camera review) as the party's need grows.
+To be sure, Reynolds acknowledged that the Government
+raised the state-secrets privilege “under circumstances indi-
+cating a reasonable possibility that military secrets were in-
+volved.” 345 U. S., at 10–11. Justice Kavanaugh relies
+on that language to create Reynolds step 0. See post, at
+232 (opinion concurring in part). But Reynolds did not envi-
+sion the threshold reason-giving requirement that Justice
+Kavanaugh proposes and the Court now applies. Instead,
+in discussing the “circumstances,” Reynolds merely charac-
+terized the facts of the case: There was “a reasonable possi-
+bility that military secrets were involved” because the case
+involved “a military plane which had gone aloft to test secret
+electronic equipment.” 345 U. S., at 10–11. It did not re-
+quire a “threshold judicial inquiry” to make that observation.
+Nor does it require any meaningful “inquiry” to observe that
+this case involves an alleged clandestine detention site.
+Again, Reynolds' only “threshold inquiry” was to assess the
+plaintiffs' need for the Government's privileged material.
+That is why the Court decided that the Government's claim
+of privilege “cut off further demand for the documents on
+the showing of necessity” without assessing the validity of
+the Government's reasons. Id., at 11. The Court and Jus-
+tice Kavanaugh's reasons-first, need-later approach has no
+basis in our case law.
+D
+Finally, Justice Gorsuch would dispense with Reynolds
+and instruct judges to evaluate de novo the Government's
+invocation of the state-secrets privilege. He does not say
+“de novo,” but his analysis makes the point clear. He sum-
+marily dismisses the CIA Director's 15-page declaration as
+a “conclusory assertion,” post, at 259 (dissenting opinion),
+proposes that courts “often should” review state secrets in
+camera, post, at 254, and then suggests that courts “inde-
+pendently” evaluate that privileged information, post, at 251.
+This approach finds no support in Reynolds, Egan, or related
+cases, see Part II–A, supra, as Justice Gorsuch effectively
+concedes. He rejects Egan, see, e. g., post, at 253, and he
+criticizes Reynolds for accepting the Government's claim of
+privilege “at face value” “without even pausing to review”
+the privileged information, post, at 251. True, quoting Rey-
+nolds, Justice Gorsuch indicates that courts should ask
+whether discovery would present a “ `reasonable danger' ” to
+national security. Post, at 253 (quoting 345 U. S., at 10).
+But the question remains: in whose judgment? His answer
+is clear: our “independent judgment.” Post, at 253.
+Justice Gorsuch offers three arguments to support
+de novo judicial review of a state-secrets claim, none of which
+has merit. First, he asserts that “courts generally must re-
+spect . . . the ancient rule that the public enjoys a right to
+`every man's evidence.' ” Post, at 247 (quoting 4 J. Wigmore,
+Evidence in Trials at Common Law § 2192, p. 2965 (1905)).
+But whatever “right” there may be to civil discovery gener-
+ally,2 there is no “right” to state secrets specifically. As
+Wigmore explained, when any of “the various privileges” ap-
+plies, the obligation to produce evidence is “not insisted
+upon.” Id., at 2967. The state-secrets privilege, of course,
+is “a privilege which is well established in the law of evi-
+dence.” Reynolds, 345 U. S., at 6–7; see also Totten v.
+United States, 92 U. S. 105 (1876); Burr, 25 F. Cas., at 37.
+Thus, to assert a “right” to discovery proves nothing, be-
+cause the formal claim of the state-secrets privilege over-
+rides it here.
+Second, Justice Gorsuch posits that “[b]ecause Congress
+has expressly authorized the Judiciary to entertain this suit”
+by enacting § 1782, “it follows that we may not refexively
+defer to the Executive's wish to see it dismissed.” Post, at
+248, n. 10. But that argument “omits an important caveat
+found in the same [provision]” on which Justice Gorsuch
+relies. Ibid. Section 1782(a) provides: “A person may not
+be compelled to give his testimony or statement or to
+produce a document or other thing in violation of any legally
+applicable privilege.” Thus, far from inviting de novo re-
+view, Congress instructed federal courts to apply all privi-
+2 But see, e. g., 4 St. George Tucker, Blackstone's Commentaries 381–382
+(1803) (discussing limits on discovery at common law, including the lack of
+“complete discovery by the oath of the parties”; “a compulsive power for
+the production of books and papers belonging to the parties”; and “powe[r]
+to examine witnesses abroad”); E. Sunderland, Scope and Method of Dis-
+covery Before Trial, 42 Yale L. J. 863, 866–867 (1933) (discussing limits on
+discovery in equity); S. Subrin, Fishing Expeditions Allowed: The Histori-
+cal Background of the 1938 Federal Discovery Rules, 39 Boston College
+L. Rev. 691, 694 (1998) (“Historically, discovery [was] extremely limited in
+both England and the United States”); id., at 695 (at common law, “a party
+could neither take the stand nor force the opposing party to do so”).
+leges—including the state-secrets privilege—with full force.
+Invoking § 1782 merely presents anew the question in this
+case: what does the state-secrets privilege require. 3
+Third, Justice Gorsuch invokes Chief Justice Marshall's
+two opinions in the Burr prosecution, but both cut decisively
+against him. In 1807, the Federal Government prosecuted
+Aaron Burr, the former Vice President, for treason and,
+later, misdemeanor incitement. Vance, 591 U. S., at –––, –––.
+Burr moved for a subpoena duces tecum ordering President
+Jefferson to produce a letter from General James Wilkinson,
+Burr's principal accuser. Id., at ––– – –––. Chief Justice
+Marshall explained that it “d[id] not . . . appear to the court
+that the president d[id] object to the production of any
+part of [Wilkinson's] letter.” United States v. Burr, 25
+F. Cas. 187, 192 (No. 14,694) (CC Va. 1807); see also Burr, 25
+F. Cas., at 31, 37. But “[h]ad the president” done so and
+“subjected [the letter] to certain restrictions, and stated that
+in his judgment the public interest required certain parts of
+it to be kept secret,” Chief Justice Marshall assured that
+“all proper respect would have been paid” to the President's
+invocation of privilege. Burr, 25 F. Cas., at 192.
+Justice Gorsuch nonetheless reasons that it would not
+have been enough, to defeat the subpoena, for President Jef-
+ferson to have objected on state-secrets grounds. Chief Jus-
+tice Marshall supposedly would have required the President
+to “ `state the particular reasons' ” for withholding the Wil-
+kinson letter, and the court then could have “decide[d] for
+itself whether to sustain a claim of privilege.” Post, at 249
+(quoting Burr, 25 F. Cas., at 192). Justice Gorsuch's argu-
+ment by selective quotation is incorrect. Chief Justice Mar-
+shall explained that “on objections being made by the presi-
+dent to the production of a paper, the court would not
+3 Justice Gorsuch eventually recognizes that neither the supposed
+“duty to produce every man's evidence” nor § 1782 actually supports his
+position. Post, at 253, n. 12. He concedes that both sources simply pres-
+ent “the question when the state secrets privilege applies.” Ibid.
+proceed further in the case without such an affidavit as would
+clearly sh[o]w the paper to be essential to the justice of the
+case.” Id., at 192 (emphasis added); see also Burr, 25
+F. Cas., at 37 (“If it does contain any matter which . . . it is
+not the wish of the executive to disclose, such matter, if it
+be not immediately and essentially applicable to the point,
+will, of course, be suppressed”). That analysis tracks Rey-
+nolds' first step: The Government invokes the state-secrets
+privilege, and the privilege will prevail unless the requesting
+party makes the requisite showing of need. Thus, Justice
+Gorsuch is simply incorrect that “Chief Justice Marshall no-
+where suggested that the state secrets privilege should
+apply in this country without . . . a statement” of reasons to
+support the privilege. Post, at 249–250, n. 11.
+Justice Gorsuch further errs in asserting that a review-
+ing court must demand a statement of reasons and then “de-
+cide for itself” whether those reasons are adequate. Post,
+at 249. Quite the opposite: Chief Justice Marshall explained
+that “[t]he president may,” not must, “state the particular
+reasons” for his claim of privilege, and that the court will
+“unquestionably allow . . . full force to those reasons,” 25
+F. Cas., at 192 (emphasis added), not “decide for itself”
+whether they pass muster, post, at 249. That analysis fol-
+lows Reynolds' second step: If there is adequate need, the
+Government may explain the basis for privilege and the
+court affords “utmost deference” or “full force” to those rea-
+sons. The reality of Burr, then, is the opposite of what Jus-
+tice Gorsuch proposes.
+Ultimately, Justice Gorsuch's animating concern is that
+judicial deference to the Executive's national-security judg-
+ments risks collapsing “the many points of difference” be-
+tween our Chief Executive and the 18th-century British
+monarch. Burr, 25 F. Cas., at 34. Not so. This Court's
+standard of utmost deference bears little relation to “the
+privilege the English crown enjoyed.” Post, at 249. In con-
+trasting the American Executive and the British monarch,
+Chief Justice Marshall explained that only a king could not
+be made “to appear under the process of the court,” and
+therefore he alone could object even to the issuance of a sub-
+poena. Burr, 25 F. Cas., at 34. The President, meanwhile,
+must move to quash a subpoena rather than object to “its
+being issued,” and then he may invoke “the law of evidence”
+as grounds “for not obeying the process of the court.” Ibid.
+That is precisely how the Executive Branch proceeded here.
+After the District Court first granted Zubaydah's discovery
+application, the Government moved to quash it in light of the
+state-secrets privilege. See ante, at 202–203. To eviscerate
+that privilege, as Justice Gorsuch proposes, would not pro-
+tect the Nation from monarchy. Rather, it would contra-
+vene the “constitutional directive” that the Executive has
+“primary responsibility—along with the necessary power—
+to protect the national security.” Zivotofsky v. Kerry, 576
+U. S. 1, 34 (2015) (Thomas, J., concurring in judgment in part
+and dissenting in part) (internal quotation marks omitted).
+III
+While the Court recognizes that Zubaydah's need for dis-
+covery from Mitchell and Jessen is “not great,” ante, at 212;
+see also ante, at 213 (plurality opinion), it refuses to dismiss
+Zubaydah's discovery application in light of his “dubious
+showing of necessity,” Reynolds, 345 U. S., at 11. Instead,
+as explained above, the Court begins at Reynolds' second
+step and concludes that the Government “has provided a rea-
+sonable explanation” why Zubaydah's proposed discovery
+“could significantly harm national security interests.”
+Ante, at 207.4 I agree that the Government has offered, at
+4 Elsewhere, Justice Breyer notes that the “Polish government has
+also never confirmed whether it cooperated with the CIA,” and he there-
+fore declines to decide “what significance, if any, that disclosure would
+have.” Ante, at 211 (plurality opinion). Any such disclosure plainly would
+have no significance. The state-secrets privilege “belongs to the Govern-
+ment”—that is, our Government—alone. United States v. Reynolds, 345
+U. S. 1, 7 (1953).
+the very least, a “reasonable explanation” to support its
+claim of state secrets, but I would dismiss Zubaydah's discov-
+ery application at Reynolds' first step. 5 For at least three
+reasons, Zubaydah has failed to prove any nontrivial need
+for his requested discovery.
+First, Zubaydah will not use the requested discovery “in
+a case” that can offer him any meaningful relief. Reynolds,
+345 U. S., at 9. While even the plaintiffs in Reynolds sought
+to exercise a federal right that potentially entitled them to
+damages, Zubaydah, by contrast, does not assert any federal
+right to relief. He does not allege, for example, that the
+proposed discovery would support his release from federal
+custody. Nor could he, as “the sought discovery will be
+shipped overseas for the benefit of another country's judicial
+system, and at that point, totally out of control of a domestic
+court.” 965 F. 3d, at 792 (opinion of Bress, J.) (internal quo-
+tation marks omitted). Instead, Zubaydah requests discov-
+ery on behalf of foreign authorities to help them prosecute
+foreign nationals who allegedly committed crimes in a for-
+eign country. At least for purposes of the state-secrets
+privilege, Zubaydah has no cognizable “need” to serve as a
+conduit for foreign discovery. This Court has never held
+that an individual's desire to litigate a foreign case, let alone
+his desire merely to assist in the litigation of someone else's
+foreign case, establishes any need under Reynolds, dubious
+or otherwise.
+Second, Zubaydah has failed to pursue “an available alter-
+native” that “might have given [him] the evidence to make
+out [his] case without forcing a showdown on the claim of
+privilege.” Reynolds, 345 U. S., at 11. Before this Court,
+5 I agree that dismissal is the appropriate disposition because “the privi-
+lege blocks Zubaydah's discovery requests, which are the proceeding's sole
+object.” Ante, at 214 (plurality opinion). But even in ordinary litigation,
+dismissal of the action is required whenever the case cannot be fairly liti-
+gated without the disclosure of state secrets. See Totten v. United States,
+92 U. S. 105, 107 (1876).
+Zubaydah recognizes that his testimony as an alleged “survi-
+vor” of CIA interrogation could substitute for discovery from
+Mitchell and Jessen. Brief for Respondents 40. After all,
+what the Polish authorities supposedly “need to know is
+what happened inside Abu Zubaydah's cell between Decem-
+ber 2002 and September 2003.” Tr. of Oral Arg. 41. While
+Zubaydah complains that the Government holds him “ incom-
+municado,” he also admits that his attorneys may communi-
+cate on his behalf with the Government's “pre-clearance.”
+Brief for Respondents 40. At oral argument, the Govern-
+ment confirmed that Zubaydah has never asked to offer testi-
+mony under this preclearance procedure, see Tr. of Oral Arg.
+73, and the Government has since confirmed that the pre-
+clearance procedure remains available, see Letter Brief for
+United States 3. Faced with that confirmation, Zubaydah
+now concedes that “it is at least theoretically possible” that
+the preclearance process “will lead to a declaration that can
+assist the Polish prosecutor.” Letter Brief for Respondents
+2. He even asks that we hold his case in abeyance until he
+can prepare a declaration. See ibid. But that request
+comes too late. Zubaydah's “failure to pursue” an “available
+alternative” before demanding state secrets betrays “a
+dubious showing of necessity” that cannot overcome the Gov-
+ernment's “formal claim of privilege.” Reynolds, 345 U. S.,
+at 11.
+Third, on Zubaydah's own telling, it is “possible . . . to
+adduce the essential facts . . . without resort to material
+touching upon military secrets.” Ibid. At oral argument,
+Zubaydah's counsel clarified that Zubaydah does not need
+evidence about Poland specifically and seeks discovery only
+regarding the conditions of his confinement while in CIA cus-
+tody. See Tr. of Oral Arg. 41. Of course, that discovery
+would still tend to confirm or deny the existence of a deten-
+tion site in Poland. See ante, at 214 (plurality opinion).
+But, regardless, discovery is not warranted because Zubay-
+dah effectively disclaims any need for such evidence. In his

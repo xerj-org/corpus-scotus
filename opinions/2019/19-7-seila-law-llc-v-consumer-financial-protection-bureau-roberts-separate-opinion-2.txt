@@ -1,0 +1,224 @@
+Seila Law LLC v. Consumer Financial Protection Bureau — No. 19-7 — October Term 2019 — decided 6/29/20 — Opinion of Roberts, C. J.
+Citation: 591 U.S. 197
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US1PP_web.pdf#page=207 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+PROTECTION BUREAU
+Opinion of Roberts, C. J.
+sharpens our duty to ensure that the Executive Branch is
+overseen by a President accountable to the people. Ibid.
+IV
+Having concluded that the CFPB's leadership by a single
+independent Director violates the separation of powers, we
+now turn to the appropriate remedy. We directed the par-
+ties to brief and argue whether the Director's removal
+protection was severable from the other provisions of the
+Dodd-Frank Act that establish the CFPB. If so, then the
+CFPB may continue to exist and operate notwithstanding
+Congress's unconstitutional attempt to insulate the agency's
+Director from removal by the President. There is a live
+controversy between the parties on that question, and
+resolving it is a necessary step in determining petitioner's
+entitlement to its requested relief.
+As the defendant in this action, petitioner seeks a straight-
+forward remedy. It asks us to deny the Government's peti-
+tion to enforce the civil investigative demand and dismiss the
+case. The Government counters that the demand, though
+initially issued by a Director unconstitutionally insulated
+from removal, can still be enforced on remand because it has
+since been ratified by an Acting Director accountable to the
+President. The parties dispute whether this alleged ratifi-
+cation in fact occurred and whether, if so, it is legally suffi-
+cient to cure the constitutional defect in the original demand.
+That debate turns on case-specific factual and legal questions
+not addressed below and not briefed here. A remand for
+the lower courts to consider those questions in the first in-
+stance is therefore the appropriate course—unless such a
+remand would be futile.
+In petitioner's view, it would be. Before the Court of Ap-
+peals, petitioner contended that, regardless of any ratifica-
+tion, the demand is unenforceable because the statutory pro-
+vision insulating the CFPB Director from removal cannot be
+severed from the other statutory provisions that define the
+CFPB's authority. See Brief for Appellant in No. 17–56324
+(CA9), pp. 27–28, 30–32. If petitioner is correct, and the of-
+fending removal provision means the entire agency is uncon-
+stitutional and powerless to act, then a remand would be
+pointless. With no agency left with statutory authority to
+maintain this suit or otherwise enforce the demand, the ap-
+propriate disposition would be to reverse with instructions
+to deny the Government's petition to enforce the agency's
+demand for documents and dismiss the case, as petitioner
+requests.
+Accordingly, there is a live controversy over the question
+of severability. And that controversy is essential to our
+ability to provide petitioner the relief it seeks: If the removal
+restriction is not severable, then we must grant the relief
+requested, promptly rejecting the demand outright. If, on
+the other hand, the removal restriction is severable, we must
+instead remand for the Government to press its ratification
+arguments in further proceedings. Unlike the lingering rat-
+ification issue, severability presents a pure question of law
+that has been fully briefed and argued by the parties. We
+therefore proceed to address it. 12
+It has long been settled that “one section of a statute may
+be repugnant to the Constitution without rendering the
+whole act void.” Loeb v. Columbia Township Trustees, 179
+U. S. 472, 490 (1900) (quoting Treasurer of Fayette Cty. v.
+People's & Drovers' Bank, 47 Ohio St. 503, 523, 25 N. E. 697,
+12 Justice Thomas believes that any ratification is irrelevant. In his
+view, even if the issuance of the demand and initiation of this suit have
+been validly ratified, Director Kraninger's activities in litigating the
+case—after inheriting it from an Acting Director, but before becoming
+removable at will herself in light of our decision—present a distinct consti-
+tutional injury requiring immediate dismissal. See post, at 254–256 (opin-
+ion concurring in part and dissenting in part). But whether and when
+the temporary involvement of an unconstitutionally insulated officer in an
+otherwise valid prosecution requires dismissal falls outside the questions
+presented, has not been fully briefed, and is best resolved by the lower
+courts in the first instance.
+PROTECTION BUREAU
+Opinion of Roberts, C. J.
+702 (1890)). Because a “statute bad in part is not necessar-
+ily void in its entirety,” “[p]rovisions within the legislative
+power may stand if separable from the bad.” Dorchy v.
+Kansas, 264 U. S. 286, 289–290 (1924).
+“Generally speaking, when confronting a constitutional
+faw in a statute, we try to limit the solution to the problem,
+severing any problematic portions while leaving the remain-
+der intact.” Free Enterprise Fund, 561 U. S., at 508 (inter-
+nal quotation marks omitted). Even in the absence of a
+severability clause, the “traditional” rule is that “the uncon-
+stitutional provision must be severed unless the statute cre-
+ated in its absence is legislation that Congress would not
+have enacted.” Alaska Airlines, Inc. v. Brock, 480 U. S.
+678, 685 (1987). When Congress has expressly provided a
+severability clause, our task is simplifed. We will presume
+“that Congress did not intend the validity of the statute in
+question to depend on the validity of the constitutionally of-
+fensive provision . . . unless there is strong evidence that
+Congress intended otherwise.” Id., at 686.
+The only constitutional defect we have identified in the
+CFPB's structure is the Director's insulation from removal.
+If the Director were removable at will by the President, the
+constitutional violation would disappear. We must there-
+fore decide whether the removal provision can be severed
+from the other statutory provisions relating to the CFPB's
+powers and responsibilities.
+In Free Enterprise Fund, we found a set of unconstitu-
+tional removal provisions severable even in the absence of an
+express severability clause because the surviving provisions
+were capable of “functioning independently” and “nothing in
+the statute's text or historical context [made] it evident that
+Congress, faced with the limitations imposed by the Consti-
+tution, would have preferred no Board at all to a Board
+whose members are removable at will.” 561 U. S., at 509
+(internal quotation marks omitted).
+So too here. The provisions of the Dodd-Frank Act bear-
+ing on the CFPB's structure and duties remain fully opera-
+tive without the offending tenure restriction. Those provi-
+sions are capable of functioning independently, and there is
+nothing in the text or history of the Dodd-Frank Act that
+demonstrates Congress would have preferred no CFPB to
+a CFPB supervised by the President. Quite the opposite.
+Unlike the Sarbanes-Oxley Act at issue in Free Enterprise
+Fund, the Dodd-Frank Act contains an express severability
+clause. There is no need to wonder what Congress would
+have wanted if “any provision of this Act” is “held to be
+unconstitutional” because it has told us: “the remainder of
+this Act” should “not be affected.” 12 U. S. C. § 5302.
+Petitioner urges us to disregard this plain language for
+three reasons. None is persuasive. First, petitioner dis-
+misses the clause as non-probative “boilerplate” because it
+applies “to the entire, 848-page Dodd-Frank Act” and “ap-
+pears almost 600 pages before the removal provision at
+issue.” Brief for Petitioner 45. In petitioner's view, that
+means we cannot be certain that Congress really meant to
+apply the clause to each of the Act's provisions. But boiler-
+plate is boilerplate for a reason—because it offers tried-and-
+true language to ensure a precise and predictable result.
+That is the case here. The language unmistakably refer-
+ences “any provision of this Act.” 12 U. S. C. § 5302 (empha-
+sis added). And it appears in a logical and prominent place,
+immediately following the Act's title and definitions sections,
+reinforcing the conclusion that it applies to the entirety of
+the Act. Congress was not required to laboriously insert
+duplicative severability clauses, provision by provision, to ac-
+complish its stated objective.
+Second, petitioner points to an additional severability
+clause in the Act that applies only to one of the Act's sub-
+titles. See 15 U. S. C. § 8232. In petitioner's view, that
+clause would be superfluous if Congress meant the general
+PROTECTION BUREAU
+Opinion of Roberts, C. J.
+severability clause to apply across the Act. But “our prefer-
+ence for avoiding surplusage constructions is not absolute.”
+Lamie v. United States Trustee , 540 U. S. 526, 536 (2004).
+In this instance, the redundant language appears to reflect
+the fact that the subtitle to which it refers originated as a
+standalone bill that was later incorporated into Dodd-Frank.
+Compare 15 U. S. C. § 8232 with H. R. 2571, 111th Cong., 1st
+Sess., § 302 (2009). And petitioner does not offer any con-
+struction that would give effect to both provisions, making
+the redundancy both inescapable and unilluminating. See
+Microsoft Corp. v. i4i L. P ., 564 U. S. 91, 106 (2011) (“The
+canon against superfluity assists only where a competing in-
+terpretation gives effect to every clause and word of a stat-
+ute.” (internal quotation marks omitted)).
+Finally, petitioner argues more broadly that Congress
+would not have wanted to give the President unbridled con-
+trol over the CFPB's vast authority. Petitioner highlights
+the references to the CFPB's independence in the statutory
+text and legislative history, as well as in Professor Warren's
+and the Obama administration's original proposals. See
+Brief for Petitioner 43–44 (collecting examples). And peti-
+tioner submits that Congress might not have exempted the
+CFPB from congressional oversight via the appropriations
+process if it had known that the CFPB would come under
+executive control.
+These observations certainly confirm that Congress pre-
+ferred an independent CFPB to a dependent one; but they
+shed little light on the critical question whether Congress
+would have preferred a dependent CFPB to no agency at
+all. That is the only question we have the authority to de-
+cide, and the answer seems clear. Petitioner assumes that,
+if we eliminate the CFPB, regulatory and enforcement au-
+thority over the statutes it administers would simply revert
+back to the handful of independent agencies previously re-
+sponsible for them. See id., at 46. But, as the Solicitor
+General and House of Representatives explain, that shift
+would trigger a major regulatory disruption and would leave
+appreciable damage to Congress's work in the consumer-
+finance arena. See Reply Brief for Respondent 21–22; Tr.
+of Oral Arg. 67–68. One of the agencies whose regulatory
+authority was transferred to the CFPB no longer exists.
+See 12 U. S. C. §§ 5412–5413 (Office of Thrift Supervision).
+The others do not have the staff or appropriations to absorb
+the CFPB's 1,500-employee, 500-million-dollar operations.
+And none has the authority to administer the Dodd-Frank
+Act's new prohibition on unfair and deceptive practices in
+the consumer-finance sector. Given these consequences, it
+is far from evident that Congress would have preferred no
+CFPB to a CFPB led by a Director removable at will by
+the President.
+Justice Thomas would have us junk our settled severabil-
+ity doctrine and start afresh, even though no party has asked
+us to do so. See post, at 252–253, 258–261 (opinion concur-
+ring in part and dissenting in part). Among other things,
+he objects that it is sheer “speculation” that Congress would
+prefer that its consumer protection laws be enforced by a
+Director accountable to the President rather than not at all.
+Post, at 261. We think it clear that Congress would prefer
+that we use a scalpel rather than a bulldozer in curing the con-
+stitutional defect we identify today. And such an approach
+by this Court can come as no surprise to Congress, which
+was on notice of constitutional objections to single-Director
+agencies by multiple past Presidents from both political par-
+ties, supra, at 221–222, and enacted Dodd-Frank against the
+background of our established severability doctrine.
+As in every severability case, there may be means of reme-
+dying the defect in the CFPB's structure that the Court
+lacks the authority to provide. Our severability analysis
+does not foreclose Congress from pursuing alternative re-
+sponses to the problem—for example, converting the CFPB
+into a multimember agency. The Court's only instrument,
+however, is a blunt one. We have “the negative power to

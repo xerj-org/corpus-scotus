@@ -1,0 +1,149 @@
+Minerva Surgical, Inc. v. Hologic, Inc. — No. 20-440 — October Term 2020 — decided 6/29/21 — Alito, J., dissenting
+Citation: 594 U.S. 559
+Source: https://www.supremecourt.gov/opinions/20pdf/594us2r64_anbf.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+For these reasons, we vacate the judgment of the Federal
+Circuit and remand the case for further proceedings consist-
+ent with this opinion.
+It is so ordered.
+Justice Alito, dissenting.
+We granted review in this case to decide whether the doc-
+trine of assignor estoppel bars petitioner from challenging
+the validity of a patent indirectly assigned to respondents,
+and I do not see how we can answer that question without
+deciding whether Westinghouse Elec. & Mfg. Co. v. Formica
+Insulation Co., 266 U. S. 342 (1924), which recognized as-
+signor estoppel, should be overruled. Both the majority and
+the principal dissent go to great lengths to avoid that ques-
+tion, but in my judgment, their efforts are unsuccessful.
+The majority says it has no need to invoke precedent, see
+ante, at 574–575, but without that support, the majority's
+holding cannot stand. Not one word in the patent statutes
+supports assignor estoppel, and the majority does not claim
+otherwise. “[T]his Court [doesn't] usually read into statutes
+words that aren't there,” Romag Fasteners, Inc. v. Fossil
+Group, Inc., 590 U. S. –––, ––– (2020), but that is just what
+the majority has done in this case.
+With so little support for its reasoning, it is more than
+a little surprising that the majority forswears reliance on
+precedent. See ante, at 574. Not too long ago, in Kimble
+v. Marvel Entertainment, LLC , 576 U. S. 446 (2015), another
+case involving a judicially created rule of patent law, the
+Court applied a “superpowered form of stare decisis.” Id.,
+at 458. Yet the majority refuses to wield the nearly impreg-
+nable Kimble shield. Instead, it adopts a text-blind method
+of statutory interpretation with which I cannot possibly
+agree.
+The Court's evasion of stare decisis is fully matched by the
+principal dissent. That opinion sees no need to address
+stare decisis because, in its view, Westinghouse has not been
+a precedent for the past 69 years. According to the princi-
+pal dissent, Westinghouse was abrogated by the Patent Act
+of 1952. It reasons as follows: Westinghouse interpreted the
+Patent Act of 1870, post, at 583 (opinion of Barrett, J.);
+because that Act was superseded by the Patent Act of 1952,
+we must decide whether the new Act “ratified” Westing-
+house, post, at 584; and in order to show that Westinghouse
+was ratified, the defenders of assignor estoppel must per-
+suade us that “(1) the interpretation [adopted in Westing-
+house was] so well settled that we can `presume Congress
+knew of and endorsed it' at the time of the reenactment, and
+(2) the statute [was] reenacted without material change,”
+post, at 585 (quoting Jama v. Immigration and Customs En-
+forcement, 543 U. S. 335, 349 (2005)).
+This reasoning is unprecedented and troubling. To start,
+it is quite misleading to suggest that Westinghouse was
+based on an interpretation of the 1870 Patent Act. Neither
+of the two statutory provisions Westinghouse mentioned said
+anything that supported the Court's decision, and the
+Court did not claim otherwise. 1 Instead, the decision rested
+on different grounds. It relied on the principle of “fair
+dealing,” an analogy to the doctrine of estoppel by deed (a
+feature of the law of real property), and perhaps most impor-
+tantly, a body of lower court case law. 266 U. S., at 348–352.
+If Westinghouse had been based on an interpretation of lan-
+guage in the 1870 Act and if the 1952 Act had changed that
+language, there might be a basis for finding abrogation. 2
+But that is not the situation here.
+1 One provision permitted the assignment of patent rights, see Westing-
+house, 266 U. S., at 348–349, and the other, which authorized the granting
+of a patent to an assignee, was discussed in relation to the scope of the
+doctrine of assignor estoppel, not its existence, see id., at 352.
+2 By the same token, if Congress had again used that particular language
+without change, there might be a basis for finding ratification. See
+A. Scalia & B. Garner, Reading Law: The Interpretation of Legal Texts
+322 (2012) (Reading Law) (prior-construction canon applies when a “word
+or phrase has been authoritatively interpreted [and] a later version of that
+act perpetuat[es] the wording”).
+After starting with this flawed premise, the principal dis-
+sent adopts an ill-suited standard for determining whether
+one of our precedents has been abrogated by Congress. It
+applies a rule of interpretation that is patently designed for
+a different purpose, i. e., determining whether congressional
+reenactment of a statute should be understood as a ratifica-
+tion of a preexisting body of lower court case law .3 That
+was the issue in Jama, 543 U. S., at 349–352, the case the
+principal dissent quotes, and that is why the rule asks
+whether the interpretation in question is “well settled.”
+That question makes sense as applied to a body of lower
+court cases, but what does that mean with respect to one
+of our precedents? I would think that endorsement by a
+majority of this Court is consensus enough. Suggesting
+that a rule announced in a decision of this Court can cease
+to be a precedent if it is not “well settled” is very strange.
+Equally strange is the question whether we can presume
+that Congress “knew of ” a decision of this Court interpret-
+ing a statutory provision that it reenacts. Perhaps it is hu-
+bris, but we have often presumed that Congress is aware of
+our decisions. See, e. g., Ryan v. Valencia Gonzales, 568
+U. S. 57, 66 (2013) (“We normally assume that, when
+Congress enacts statutes, it is aware of relevant judicial
+precedent” (internal quotation marks omitted)).
+When we reach the final part of the principal dissent's test
+for abrogating one of our precedents—whether the statute
+in question was “reenacted without material change”—we
+encounter further problems. The adjective “material” can
+mean “[h]aving some logical connection with the consequen-
+tial facts.” Black's Law Dictionary 1170 (11th ed. 2019).
+3 This is not to say that Congress cannot pass statutes meant to incorpo-
+rate this Court's interpretations of specific statutory language. Compare
+post, at 575, n. 3. It obviously can. What is unusual is not the idea that
+Congress can ratify this Court's decisions but instead the application of a
+test designed to assess the ratification of lower court decisions to assess
+the abrogation of a decision of this Court.
+Thus, the principal dissent can be read to say that a decision
+of this Court interpreting a statutory provision is abrogated
+whenever a change in the language of the statute provides
+some degree of support for a different interpretation. The
+principal dissent cites no case in which we have set the abro-
+gation standard so low. And this new “material change”
+standard for abrogating one of our precedents is a marked
+departure from the standard advocated in one of the princi-
+pal dissent's chosen treatises. See Reading Law 331 (“Leg-
+islative revision of law clearly established by judicial opinion
+ought to be by express language or by unavoidably implied
+contradiction”).4
+The principal dissent is forced to adopt this new, low
+standard because it could not otherwise muster any sort of
+argument for abrogation. The principal dissent cannot iden-
+tify anything in the 1952 Act that does away with the judge-
+made doctrine of assignor estoppel “by express language or
+by unavoidably implied contradiction.” Ibid. It cites 35
+U. S. C. § 282(b), which states that the invalidity of a patent
+is a defense “in any action involving the validity or infringe-
+ment of a patent.” See post, at 583. But as the majority
+notes, the patent laws contained similar language when
+Westinghouse was decided. Ante, at 571–572.
+The only modification made by the 1952 Act that the prin-
+cipal dissent claims has any logical connection with assignor
+estoppel is the addition of language saying that patents gen-
+erally have the attributes of personal property. See post,
+at 589. That change has a bearing on whether Westinghouse
+4 The principal dissent responds by noting that this passage in Reading
+Law sets out the “ `express language' ” or “ `unavoidably implied contradic-
+tion' ” standard as part of “an entirely different canon.” Post, at 589, n. 4.
+That is precisely the point. The passage discusses the standard that
+should be used when an “authoritative judicial holding” is “cast in doubt
+and subjected to challenge” by changes to a statutory scheme. Reading
+Law 331. The rule applied by the principal dissent, on the other hand, is
+not meant to assess congressional abrogation of our precedents.

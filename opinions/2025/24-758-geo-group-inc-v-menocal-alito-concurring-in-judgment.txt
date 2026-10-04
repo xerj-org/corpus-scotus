@@ -1,0 +1,408 @@
+Geo Group, Inc. v. Menocal — No. 24-758 — October Term 2025 — decided 2/25/26 — Alito, J., concurring in judgment
+Citation: 607 U.S. 438
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r15_bqmc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(Thomas, J., concurring in part and concurring in judgment).
+I remain of the view that we should not expand the Cohen
+collateral order doctrine beyond orders that our precedents
+have already held to be immediately appealable.
+The Cohen collateral-order doctrine, which allows federal
+courts to exercise appellate jurisdiction over certain inter-
+locutory orders, conflicts with Congress's authority over fed-
+eral appellate jurisdiction. U. S. Const., Art. I, § 8, cl. 9;
+Art. III, § 1. By statute, parties generally cannot appeal
+before final judgment. See 28 U. S. C. § 1291; ante, at 443–
+444. Congress has established certain exceptions to that
+final-judgment rule that allow parties to appeal some inter-
+locutory orders immediately. E. g., § 1292(a)(1). It has also
+authorized this Court to create further exceptions through
+rulemaking. § 1292(e). Cohen's collateral-order doctrine
+allows judges to create additional exceptions by judicial opin-
+ion, which bypasses “ `Congress's designation of the rule-
+making process as the way to define or refine when a district
+court ruling is “final” and when an interlocutory order is
+appealable.' ” Mohawk Industries, 558 U. S., at 114–115
+(opinion of Thomas, J.) (quoting Swint v. Chambers County
+Comm'n, 514 U. S. 35, 48 (1995)). For that reason, if an in-
+terlocutory order “is not on all fours with orders we pre-
+viously have held to be appealable under the collateral order
+doctrine,” it should not be immediately appealable. Mo-
+hawk Industries, 558 U. S., at 115 (opinion of Thomas, J.).
+Justice Alito, concurring in the judgment.
+I agree with the Court that the defense conferred by Year-
+sley v. W. A. Ross Constr. Co., 309 U. S. 18 (1940), is not
+an “immunity from suit.” I therefore agree that an order
+denying a Yearsley defense is not a “collateral order” subject
+to immediate appeal. But I would not rest these conclusions
+solely on the fact that Yearsley's applicability “turn[s] on [the
+defendant's] conduct's legality.” Ante, at 445. Under the
+collateral-order doctrine, defendants may sometimes appeal
+the denial of a defense immediately when doing so is neces-
+sary to vindicate important constitutional or public-policy in-
+terests. And this rule holds true even if the defense at issue
+turns on the legality of the defendant's conduct. Thus, I
+cannot join the opinion of the Court, but I concur in the judg-
+ment because deferring appellate review of Yearsley rulings
+until final judgment does not imperil important constitu-
+tional or public-policy interests.
+I
+Since 1789, Congress has generally limited the universe of
+appealable orders to “final decrees and judgments.” Act of
+Sept. 24, 1789, 1 Stat. 84. Today, this “final-judgment rule”
+limits the jurisdiction of federal courts of appeals. See 28
+U. S. C. § 1291. The Court has long given this limit a “prac-
+tical rather than a technical construction.” Cohen v. Bene-
+ficial Industrial Loan Corp., 337 U. S. 541, 546 (1949). Con-
+sistent with that approach, our decision in Cohen held that
+certain interlocutory orders—now known as collateral or-
+ders—are sufficiently “final” that a party may appeal them
+before litigation reaches final judgment. Id., at 546–547.
+Our collateral-order doctrine establishes three criteria
+that an order must satisfy to qualify for immediate appeal.
+The order must (1) “conclusively determine [a] disputed
+question,” (2) resolve an issue “separate from the merits of
+the action,” and (3) be “effectively unreviewable on appeal
+from a final judgment.” Coopers & Lybrand v. Livesay, 437
+U. S. 463, 468 (1978). Whether a given order satisfies these
+criteria does not turn on the “facts of a particular case.”
+Carroll v. United States, 354 U. S. 394, 405 (1957). Rather,
+the criteria must be satisfied for the “entire category” of or-
+ders. Digital Equipment Corp. v. Desktop Direct, Inc., 511
+U. S. 863, 868 (1994).
+A
+Initially, this Court applied the “effectively unreviewable”
+requirement to capture orders that would become moot by
+the time of final judgment. See Cohen, 337 U. S., at 546.
+For those orders, a strict application of the final-judgment
+rule “would practically defeat the right to any review at all.”
+Cobbledick v. United States, 309 U. S. 323, 324–325 (1940).
+We first applied this reasoning in Cohen, which involved a
+district-court order that excused the plaintiffs from a
+litigation-bond requirement. 337 U. S., at 544–547. Appli-
+cable state law required the plaintiffs to post such a bond
+to secure their obligation to pay the defendant's litigation
+expenses and attorney's fees if their claims failed. Cohen
+held that the order excusing the plaintiffs from posting that
+bond was immediately appealable because it would “not be
+merged in final judgment.” Id., at 546. Regardless of who
+prevailed at final judgment, the question whether the plain-
+tiffs had to post a bond would be moot. If the defendant
+prevailed, an appeal would not relieve it from the plaintiffs'
+failure to post a bond. And if the plaintiffs prevailed, the
+defendant would not be entitled to recover its legal costs.
+Thus, if orders denying requests for litigation bonds were
+not subject to immediate appeal, those orders would never
+receive appellate review.
+This conception of the collateral-order doctrine's “effec-
+tively unreviewable” requirement informed our decision in
+Swift & Co. Packers v. Compania Colombiana Del Caribe,
+S. A., 339 U. S. 684 (1950). There, we held that the Fifth
+Circuit had appellate jurisdiction over a lower court's order
+vacating the attachment of a foreign vessel. Id., at 685–689.
+That vessel, which the libelants attached while it passed
+through U. S.-controlled waters, served as security for their
+claims against the foreign defendant. In this respect, the
+vessel resembled the bond in Cohen. As was the case with
+the bond order, an immediate appeal was the only means for
+appellate review of the order vacating the attachment of the
+vessel. If the libelants in Swift did not prevail at final judg-
+ment, the court's vacatur of the attachment order would be-
+come moot. And if the libelants did prevail, any appellate
+review of the attachment issue would be an “empty rite,” as
+the vessel would have likely departed U. S. jurisdiction. 339
+U. S., at 689.
+The same reasoning explains our jurisdictional holding in
+Stack v. Boyle, 342 U. S. 1 (1951), which extended Cohen to
+an order denying a criminal defendant's motion to modify
+his pretrial bail-bond amount. 342 U. S., at 3. Once a court
+renders final judgment in a criminal case, the conditions gov-
+erning the defendant's pretrial release become moot. By
+that juncture, the defendant has either been released from
+custody or begun a sentence of incarceration. Thus, if there
+were to be any appellate review of bail, it would need to
+occur before final judgment.
+In sum, our early collateral-order cases applied the “effec-
+tively unreviewable” requirement narrowly. It captured
+those orders that would be unreviewable on appeal from a
+final judgment on account of mootness.
+B
+Over the ensuing decades, the Court expanded its applica-
+tion of the “effectively unreviewable” requirement to include
+orders that undoubtedly would not become moot by final
+judgment. For example, in Abney v. United States, 431
+U. S. 651 (1977), and Helstoski v. Meanor, 442 U. S. 500
+(1979), the Court held that denials of defenses under the
+Double Jeopardy Clause and Speech or Debate Clause satis-
+fed Cohen even though these protections could be “vin-
+dicated on an appeal following final judgment.” Abney,
+431 U. S., at 660. Like most criminal-law defenses, double-
+jeopardy and speech-or-debate issues merge into the final
+judgment, and a reviewing court can grant meaningful relief
+on these grounds by reversing a defendant's conviction.
+Abney and Helstoski nevertheless held that denials of relief
+under these two Clauses were collateral orders.
+Our holdings in these cases relied on the premise that
+those two protections were not merely shields from criminal
+liability. They were instead “guarantee[s] against being . . .
+put to trial” at all. Abney, 431 U. S., at 661; accord, Hel-
+stoski, 442 U. S., at 508 (“[T]he Speech or Debate Clause was
+designed to protect Congressmen . . . from the burden of
+defending themselves” (internal quotation marks omitted)).
+Thus, although a court could review these defenses on appeal
+from a final judgment, a court could not fully vindicate their
+protections at that time. By the time of final judgment, the
+defendant would have already been exposed to trial, thereby
+suffering the very harm that these defenses exist to prevent.
+This line of reasoning sufficed to render the orders in Abney
+and Helstoski “effectively unreviewable” on appeal from a
+final judgment. See Abney, 431 U. S., at 662.
+This doctrinal development had important implications for
+our collateral-order jurisprudence. Under Abney and Hel-
+stoski's logic, once a court designates a defense as an “immu-
+nity from suit,” that defense satisfies the third collateral-
+order criterion. Digital Equipment, 511 U. S., at 870. We
+have likewise recognized that an order denying an immunity
+from suit will also satisfy the other two collateral-order re-
+quirements. See ante, at 447, n. 3. The denial of an immu-
+nity satisfies the first criterion because it “conclusively de-
+termine[s]” that a defendant may go to trial. Coopers &
+Lybrand, 437 U. S., at 468. See Helstoski, 442 U. S., at 507
+(“Once a motion to dismiss is denied, there is nothing the
+Member can do under the [Speech or Debate] Clause . . . to
+prevent the trial”). And a “claim of immunity is conceptu-
+ally distinct from the merits,” so an order denying an immu-
+nity claim satisfies the second requirement. Mitchell v. For-
+syth, 472 U. S. 511, 527 (1985). For these reasons, federal
+courts have consistently held that denials of an immunity
+are collateral orders subject to immediate appeal. See, e. g.,
+Nixon v. Fitzgerald, 457 U. S. 731, 742 (1982) (Presidential
+civil immunity); Mitchell, 472 U. S., at 530 (qualified immu-
+nity); Puerto Rico Aqueduct and Sewer Authority v. Met-
+calf & Eddy, Inc., 506 U. S. 139, 143 (1993) (state and territo-
+rial sovereign immunity); Kilburn v. Socialist People's
+Libyan Arab Jamahiriya, 376 F. 3d 1123, 1126 (CADC 2004)
+(foreign sovereign immunity).
+Given that the designation of a defense as an immunity is
+dispositive under the collateral-order doctrine, our Court has
+stringently guarded the designation. See Midland Asphalt
+Corp. v. United States, 489 U. S. 794, 801 (1989). After all,
+“virtually every right that could be enforced appropriately
+by pretrial dismissal” could be loosely described as an immu-
+nity from suit. Digital Equipment, 511 U. S., at 873. But
+treating every such right as an immunity would permit the
+“narrow” collateral-order doctrine to “swallow” the final-
+judgment rule in “virtually every case.” Id., at 868, 873 (in-
+ternal quotation marks omitted). Our Court has therefore
+recognized the need to distinguish “between a right not to
+be tried and a right whose remedy requires the dismissal of
+charges.” United States v. Hollywood Motor Car Co., 458
+U. S. 263, 269 (1982) (per curiam ). And we have explained
+that determining whether a defense constitutes an immunity
+requires an evaluation of “the value of the interests” that an
+immediate appeal would advance. Digital Equipment, 511
+U. S., at 878–879. Specifically, we explained in Will v. Hal-
+lock, 546 U. S. 345 (2006), that a defense “should be treated
+as an immunity demanding the protection of a collateral
+order appeal” only if wrongly allowing a suit to proceed
+would “imperil a substantial public interest.” Id., at 353;
+see also Lauro Lines s.r.l. v. Chasser, 490 U. S. 495, 502
+(1989) (Scalia, J., concurring) (“The reason” that a right fails
+the third requirement of the collateral-order doctrine “is,
+quite simply, that the law does not deem the right impor-
+tant enough”).
+Our collateral-order decisions reflect this approach. We
+have applied the immunity label to defenses when allowing
+an immediate appeal was necessary to preserve “some par-
+ticular value of a high order,” such as “honoring the separa-
+tion of powers, preserving the efficiency of government and
+the initiative of its officials, respecting a State's dignitary
+interests, and mitigating the government's advantage” over
+individual defendants in high-stakes matters. Will, 546
+U. S., at 352–353; see, e. g., Nixon, 457 U. S., at 742–743, 749,
+758 (citing separation-of-powers concerns when allowing an
+appeal of an order denying Presidential immunity); Mitchell,
+472 U. S., at 526 (explaining that the avoidance of distraction,
+overdeterrence, and timidity in Government service justified
+immediate appeals of orders denying qualified immunity);
+Puerto Rico Aqueduct and Sewer Authority , 506 U. S., at
+146 (allowing an appeal of an order denying sovereign immu-
+nity to “ `prevent the indignity of subjecting a State to the
+coercive process of judicial tribunals' ”). In contrast, we
+have declined to designate defenses as immunities when
+postponing appellate review to final judgment would not im-
+peril important interests. See, e. g., Will, 546 U. S., at 353
+(holding that the interest in shortening troublesome litiga-
+tion is insufficient to treat a defense as an immunity); Mo-
+hawk Industries, Inc. v. Carpenter, 558 U. S. 100, 108–113
+(2009) (acknowledging that the attorney-client privilege
+serves important public interests but declining to designate
+it as an immunity because deferring appeals would not mean-
+ingfully harm those interests).
+As these decisions illustrate, we have been cautious in re-
+cent years about expanding the collateral-order doctrine, but
+we have not closed the book on Cohen. Just two Terms ago,
+we designated another defense as an immunity and evaluated
+it in an interlocutory posture. See Trump v. United States,
+603 U. S. 593, 635 (2024) (citing Mitchell, 472 U. S., at 524–
+530); 603 U. S., at 654–655 (Barrett, J., concurring in part).
+The test for determining whether a defense constitutes an
+immunity therefore remains keyed to the interests that an
+immediate appeal would vindicate. If postponing review of
+a wrongly denied defense would undermine important con-
+stitutional or policy interests, that defense constitutes an
+immunity.
+II
+Under this framework, the Yearsley doctrine is not an im-
+munity from suit. Permitting immediate appeals of orders
+denying Yearsley defenses is not necessary to vindicate any
+sufficiently important constitutional or public-policy
+interests.
+A
+As the majority correctly explains, Yearsley shields de-
+fendants from damages actions for conduct that federal law
+authorized. See Campbell-Ewald Co. v. Gomez, 577 U. S.
+153, 166–167 (2016). Although this protection is important
+for a range of Government operations, it does not meet the
+threshold to be designated an immunity.
+First, postponing appellate review of Yearsley's applic-
+ability until final judgment would not create significant
+separation-of-powers problems. To be sure, the possibility
+that courts might impose liability for conduct that Congress
+authorized presents some conflict between those two
+branches of Government. Likewise, incorrect contractor-
+liability adjudications can interfere with Executive Branch
+operations. But these risks of error arise anytime a court
+misapplies a federal statute or entertains an action involving
+a Government contractor. Moreover, these risks pale in
+comparison to the separation-of-powers concerns that moti-
+vated the application of the collateral-order doctrine in other
+immunity contexts. See, e. g., Helstoski, 442 U. S., at 502
+(concerning a Congressman who was exposed to criminal lia-
+bility based on his decision to introduce a bill in the House
+of Representatives).
+Yearsley does not implicate sovereign-dignity interests,
+either. Although GEO Group describes Yearsley as confer-
+ring “derivative sovereign immunity” on contractors, Brief
+for Petitioner 10, this label is a poor ft. Sovereign immu-
+nity protects governments from the indignity of being sub-
+jected to a court's jurisdiction. Puerto Rico Aqueduct and
+Sewer Authority , 506 U. S., at 146. We have never de-
+scribed the Yearsley doctrine in those terms, nor have we
+suggested that it limits courts' jurisdiction over contractors.
+Cf. Yearsley, 309 U. S., at 19 (noting without disagreement
+that the lower court exercised jurisdiction over the case);
+Campbell-Ewald Co., 577 U. S., at 165–166 (concluding that
+the lower court had jurisdiction over a case before determin-
+ing whether Yearsley applied). Rather, Yearsley merely
+shields contractors from exposure for conduct that federal
+law authorized. I therefore agree with the majority that
+the Yearsley doctrine “derives” from the Government's law-
+making authority, not its sovereign immunity. See ante, at
+449–451; cf. Campbell-Ewald Co., 577 U. S., at 166–167;
+Sloan Shipyards Corp. v. United States Shipping Bd. Emer-
+gency Fleet Corporation, 258 U. S. 549, 566–567 (1922).
+Last, unlike with qualified immunity, allowing immediate
+appeals of Yearsley denials is not necessary to prevent over-
+deterrence, timidity, and distraction in Government service.
+That is not to say that these concerns are entirely absent
+when plaintiffs bring damages actions against Government
+contractors. As this Court recognized in Filarsky v. Delia,
+566 U. S. 377 (2012), the public has an interest in preventing
+overdeterrence, timidity, and distraction in Government
+functions no matter the “nature of [the defendant's] particu-
+lar relationship with the government.” Id., at 389–392.
+But our doctrine already accommodates these concerns by
+allowing contractors to invoke qualified immunity. Ibid.;
+Campbell-Ewald Co., 577 U. S., at 167. Indeed, qualified im-
+munity provides a greater protection to contractors than
+Yearsley does. Whereas Yearsley shields only those con-
+tractors who act within the bounds of their legal authoriza-
+tion, qualified immunity protects “all but the plainly incom-
+petent or those who knowingly violate the law.” Malley v.
+Briggs, 475 U. S. 335, 341 (1986). And as the defense's name
+indicates, contractors may immediately appeal denials of
+qualified immunity. Mitchell, 472 U. S., at 530. Because
+qualified immunity already vindicates the public interest in
+avoiding overdeterrence, timidity, and distraction among
+contractors, there is no overriding interest in also allowing
+immediate appeals of orders denying Yearsley's more modest
+protections.* Cf. Mohawk Industries, Inc., 558 U. S., at
+109–112 (declining to treat the attorney-client privilege as an
+immunity because other “established mechanisms for appel-
+late review” were available).
+In sum, allowing immediate appeals of orders denying
+Yearsley defenses is not necessary to vindicate any impor-
+tant constitutional or public-policy interests. Accordingly,
+the Yearsley doctrine is not an immunity from suit. And
+because Yearsley issues can be reviewed on an appeal from
+a final judgment, these orders do not otherwise satisfy the
+third collateral-order requirement.
+B
+Rather than conducting the public-interest inquiry that
+our immunity case law employs, the majority trains most of
+its analysis on a single question: Whether the Yearsley doc-
+trine “turn[s] on [the defendant's] conduct's legality.” Ante,
+*Although Government contractors may generally assert qualified im-
+munity, this Court has held that “private prison guards” may not in Rev.
+Stat. § 1979, 42 U. S. C. § 1983 cases. See Richardson v. McKnight, 521
+U. S. 399, 412 (1997). Separately, this Court has not decided whether
+corporate-contractor defendants like GEO Group may invoke qualified im-
+munity. But see United Pet Supply, Inc. v. Chattanooga, 768 F. 3d 464,
+484, n. 3 (CA6 2014) (noting that the Sixth Circuit has entertained corpo-
+rate defendants' assertions of qualified immunity). Perhaps the public in-
+terest would be well-served by allowing appeals of orders denying Years-
+ley defenses to those defendants who cannot invoke qualified immunity.
+Even so, our doctrine requires us to decide whether Yearsley denials are
+collateral orders as a category, not “as applied” to particular defendants.
+If, however, most defendants who invoke Yearsley could not invoke quali-
+fed immunity, the collateral-order analysis might be different. For exam-
+ple, if corporate contractors could never invoke qualified immunity, then
+there would be a stronger argument that denials of Yearsley defenses
+should be immediately appealable.
+at 445. Because the Yearsley doctrine does, the majority
+concludes that it fails to satisfy the third collateral-order re-
+quirement. That analysis is oversimplified.
+Of course, whether a defense turns on the legality of a
+defendant's conduct can be relevant to the collateral-order
+analysis. For example, the degree of overlap between a de-
+fense and a defendant's conduct can bear on whether an
+order is “ `separate from the merits of the action.' ” Ante,
+at 447, n. 3; but see Mitchell, 472 U. S., at 527. It is also true
+that certain “immunities from suit” are jurisdictional bars
+that shield a defendant from judicial process regardless of
+whether it acted lawfully. See, e. g., 28 U. S. C. § 1604 (codi-
+flying foreign sovereign immunity as a jurisdictional bar);
+Seminole Tribe of Fla. v. Florida, 517 U. S. 44, 72–73 (1996)
+(treating state sovereign immunity as a jurisdictional limit).
+Nonetheless, the majority's rule cannot fully explain our
+collateral-order case law. For instance, qualified immunity
+is an immunity from suit, yet its applicability can and often
+does turn on whether a defendant violated the law. See
+District of Columbia v. Wesby, 583 U. S. 48, 62–63 (2018).
+Indeed, before this Court decided Pearson v. Callahan, 555
+U. S. 223 (2009), a court evaluating a qualified-immunity de-
+fense had to resolve the legality of the defendant's alleged
+conduct. Id., at 232; see, e. g., Scott v. Harris, 550 U. S. 372,
+377 (2007). We nevertheless treated (and continue to treat)
+denials of qualified immunity as collateral orders.
+On the other side of the ledger, we have held that several
+defenses are not immunities even though they do not turn
+on the legality of the defendant's conduct. For instance, this
+Court has held that neither the Federal Tort Claims Act's
+judgment bar nor a criminal defendant's right against vindic-
+tive prosecution qualifies as an immunity from suit, even
+though neither defense concerns a defendant's challenged
+conduct. See Will, 546 U. S., at 353–355; Hollywood Motor
+Car Co., 458 U. S., at 267–270; see also Digital Equipment
+Corp., 511 U. S., at 884 (holding that a lower court's refusal
+to enforce a settlement agreement against a plaintiff 's claims
+was not a collateral order).
+In short, although the majority's focus—whether a defense
+turns on the legality of the defendant's conduct—can be rele-
+vant in the collateral-order analysis, it is not dispositive of
+whether a defense constitutes an immunity.
+* * *
+Because postponing appellate review of Yearsley issues
+until final judgment would not imperil important constitu-
+tional or public-policy interests, I concur in the judgment of
+the Court.

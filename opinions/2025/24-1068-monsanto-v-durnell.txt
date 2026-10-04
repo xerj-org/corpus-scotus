@@ -1,0 +1,811 @@
+Monsanto v. Durnell — No. 24-1068 — October Term 2025 — decided 6/25/26 — opinion of the Court — author Kavanaugh (listing code BK)
+Citation: 609 U.S. 371
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1068_n7ip.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+SUPREME COURT OF THE UNITED STATES
+No. 24–1068
+MONSANTO COMPANY, PETITIONER v.
+JOHN L. DURNELL
+ON WRIT OF CERTIORARI TO THE COURT OF APPEALS OF
+MISSOURI, EASTERN DISTRICT
+[June 25, 2026]
+ JUSTICE KAVANAUGH delivered the opinion of the Court.
+Under authority granted by the Federal Insecticide,
+Fungicide, and Rodenticide Act, the Environmental
+Protection Agency regulates pesticides, including pesticide
+labels. As relevant here, EPA regulates Roundup, a
+glyphosate-based pesticide manufactured by Monsanto.
+Because EPA has repeatedly concluded that glyphosate is
+not likely to cause cancer, the agency has not required a
+cancer warning on Roundup’s label.  Importantly, EPA’s
+regulations require a pesticide manufacturer such as
+Monsanto to use the EPA-appr oved pesticide label—here,
+the Roundup label without a cancer warning—unless and
+until EPA approves or requires a different label.  Moreover,
+to ensure “[u]niformity” in  labeling, FIFRA’s preemption
+clause prohibits States from  imposing any pesticide
+labeling requirements that are “in addition to or different
+from” the federal labeling requirements “under” FIFRA. 7
+U. S. C. §136v(b).
+John Durnell brought a failure-to-warn tort suit in
+Missouri state court against Monsanto for not including a
+cancer warning on Roundup’s label. Durnell alleged that
+
+Monsanto failed to warn him of Roundup’s cancer risks and
+that he developed non-Hodgkin’s lymphoma as a result.
+But Durnell’s state tort claim would require Monsanto to
+add a cancer warning to Roundup’s label even though
+federal law requires Monsanto to use the EPA-approved
+label without a cancer warning. Because Durnell’s state
+tort claim would impose a pe sticide labeling requirement
+“in addition to or different from” the label required by EPA,
+FIFRA expressly preempts Durnell’s claim.
+I
+A
+In 1947, Congress passed and President Truman signed
+the Federal Insecticide, Fungicide, and Rodenticide Act.  61
+Stat. 163, as amended, 7 U. S. C. §136 et seq. The 1947 Act
+required that pesticides be registered with the Secretary of
+Agriculture.  But the Act assigned the Secretary a relatively
+passive role; the Secretary coul d not refuse to register a
+pesticide. 61 Stat. 167–168.
+In 1972, Congress passed and President Nixon signed the
+Federal Environmental Pesticide Control Act.  86 Stat. 973.
+That Act “transformed” FIFRA “into a comprehensive
+regulatory statute” and placed the newly created
+Environmental Protection Agency in charge of pesticide
+registration and labeling. Bates v. Dow Agrosciences LLC,
+544 U. S. 431, 437 (2005) (quotation marks omitted).  In
+doing so, Congress “significantly strengthened FIFRA’s
+registration and labeling standards” and granted
+“increased enforcement authority” to EPA. Wisconsin
+Public Intervenor v. Mortier, 501 U. S. 597, 601 (1991).
+Under that revamped regulatory regime, which still
+governs today, pesticides must be registered with EPA.
+§§136a(a), 136j(a)(1)(A).  Before registering a pesticide,
+EPA undertakes an extensive review of the pesticide and
+its proposed labeling.  Pesticide manufacturers must
+submit information about the pesticides’ formulas,
+
+3  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+potential adverse effects, and testing. §§136a(c)(1)(A)–(F),
+(2); 40 CFR §152.50(f )(3) (2025).  Manufacturers must also
+propose a label for their products, which must include any
+necessary precautionary statements. 7 U. S. C.
+§136a(c)(1)(C); 40 CFR §156.10(a)(1)(vii).
+EPA must then review all of that information and data.
+To register a pesticide, EPA must conclude that the
+pesticide “will not generally  cause unreasonable adverse
+effects” on human health and the environment, and that its
+labeling “compl[ies] with the requirements” of FIFRA.  7
+U. S. C. §§136a(c)(5)(B), (D).
+As to the label, FIFRA requires that a pesticide not be
+“misbranded.” §136j(a)(1)(E). A pesticide is misbranded if
+its label contains “any statement” that is “false or
+misleading” or if the label does not contain “a warning or
+caution statement which may be necessary and . . .
+adequate to protect health and the environment.”
+§§136(q)(1)(A), (G).  FIFRA defines “protect health and the
+environment” to mean “protection against any
+unreasonable adverse effects  on the environment,”
+including “any unreasonable risk to man or the
+environment, taking into account the economic, social, and
+environmental costs and benefits of the use of any
+pesticide.” §§136(x), (bb).
+FIFRA authorizes EPA to issue regulations to “carry out
+the provisions of ” FIFRA. §136w(a)(1).  Under that
+statutory authority, EPA has promulgated extensive
+regulations fleshing out what it means for a pesticide to be
+misbranded and dictating what must appear on a
+pesticide’s label. See, e .g., 40 CFR §156.10 (Labeling
+requirements).  As relevant he re, those regulations specify
+the required content and placement of precautionary
+statements such as cancer warnings.  See §§156.60–156.70
+(Human Hazard and Precautionary Statements).
+Putting all of that together, before registering a pesticide,
+EPA must evaluate a pesticide and its proposed label—and
+
+must determine that the proposed label includes all
+warnings necessary and adequate to protect human health
+and the environment, and is not false or misleading.  EPA’s
+registration of the pesticide and approval of the pesticide’s
+label embodies the agency’s considered judgment that a
+pesticide is not misbranded—that is, that the label is not
+false or misleading and does not omit a necessary warning.
+See 7 U. S. C. §§136a(c)(5)(B), 136(q)(1)(A), (G).
+Importantly, after EPA has registered the pesticide and
+approved the label, the manufacturer is required to use that
+label. Subject to narrow exce ptions not relevant here, the
+manufacturer may not change the label unless EPA
+subsequently approves a m anufacturer’s proposed change
+or EPA itself requires a change to the label.  See 40 CFR
+§§152.44(a), 156.70(c).  If a manufacturer does not use the
+EPA-approved label, it may be subject to civil and criminal
+penalties.  See 7 U. S. C. §§136j(a)(1)(E) (misbranding
+violation), 136l (civil and criminal penalties).  In particular,
+EPA may bring enforcement actions against a
+manufacturer for violating FIFRA’s misbranding
+provisions—which could happen, for example, if a
+manufacturer sells its pesticide with a different label than
+the one EPA approved.  If EPA determines that a given
+warning is necessary for a pesticide’s label and the
+manufacturer then proceeds to sell the pesticide without
+that warning, the manufacturer might face liability for
+misbranding.1
+EPA’s comprehensive regulatory role does not end with
+the pesticide’s initial registration and label approval.  If the
+manufacturer wants to modify the label, it typically must
+——————
+1 Registration carries other consequences, too.  FIFRA prohibits selling
+a pesticide “if any claims made for it  . . . substantially differ” from any
+claims made in “the statement required in connection with its
+registration.”  7 U. S. C. §136j(a )(1)(B).  And FIFRA prohibits selling a
+pesticide if its “composition” differs  from the composition described at
+registration. §136j(a)(1)(C).
+
+5  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+go through an amended registration process.  FIFRA
+provides that if “the labeling . . . for a pesticide is changed,
+the registration shall be amen ded to reflect such change if
+the [EPA] Administrator determines that the change will
+not violate” FIFRA.  §136a(f )(1).  EPA regulations further
+provide that “any modification” to the “labeling” of a
+“registered product must be submitted with an application
+for amended registration.”  40 CFR §152.44(a); see §152.50
+(listing required contents of registration and amended
+registration applications).
+EPA also possesses a slew of tools to monitor the pesticide
+market and scientific developments, and thereby ensure
+that pesticide labels contain appropriate warnings in light
+of changed circumstances or new information.  After the
+initial registration and approval of a label, manufacturers
+must continue to inform EPA of “additional factual
+information regarding unreasonable adverse effects” of
+their pesticides. 7 U. S. C. §136d(a)(2).  That obligation is
+enforced through civil and criminal penalties.  See §136 l.
+EPA may also “determin[e] that additional data are
+required to maintain in effect an existing registration of a
+pesticide,” and therefore request more information from
+the manufacturers. §§136a(c)(2)(B)(i)–(ii). In that
+circumstance, manufacturers must take appropriate steps
+to disclose that new evidence or face suspension of their
+pesticides’ registration. §136a(c)(2)(B)(iv).  In light of new
+information or analysis by EPA, the agency at any time may
+require “additional labeling language” to “mitigate”
+“identified hazard(s).” 40 CFR §152.170(e)(1). EPA also
+must formally review a pesticide’s registration every 15
+years. 7 U. S. C. §§136a(g)(1)(A)(iii)–(iv).
+In addition, EPA may cancel a pesticide’s registration,
+and thereby prohibit its continued sale, if “it appears to the
+Administrator that a pesticide or its labeling . . . does not
+comply with” FIFRA.  §136d(b).  EPA may also immediately
+suspend a pesticide’s registration if “necessary to prevent
+
+an imminent hazard” while a cancellation is pending.
+§136d(c)(1).
+On top of EPA’s own authority to monitor a pesticide’s
+continued safety and order appropriate changes such as a
+new label, any person can petition EPA to modify, suspend,
+or cancel a pesticide’s registration based on, for example,
+new evidence about the danger s of the pesticide.  40 CFR
+§154.10.  If EPA refuses to do so, a party may seek judicial
+review of EPA’s decision. 7 U. S. C. §§136n(a), 136d(h).
+Finally, and crucially for this case, FIFRA includes a
+preemption clause that further underscores EPA’s
+comprehensive and exclusive authority in registering
+pesticides and approving labels.  In a provision entitled
+“Uniformity”—a title that was added in a public law
+enacted by Congress in 1988, not by the codifiers—FIFRA
+prohibits States from imposing “any requirements for
+labeling or packaging in addition to or different from those
+required under” FIFRA. §136v(b); Federal Insecticide,
+Fungicide, and Rodenticide Act Amendments of 1988, 102
+Stat. 2654, 2687.2
+B
+Monsanto Company is a subsidiary of Bayer AG.
+Monsanto manufactures and distributes Roundup, a
+glyphosate-based herbicide designed to control weeds.3
+In 1974, EPA first registered glyphosate-based pesticides
+and approved Roundup’s label without a cancer warning.
+In 1991 and for the more than three decades since, EPA has
+repeatedly re-evaluated glyp hosate and has repeatedly
+concluded that glyphosate is not likely to cause cancer.  For
+——————
+2 States remain free to “regulate th e sale or use of any federally
+registered pesticide.” §136v(a). For example, a State could outright ban
+a pesticide within its borders.
+3 Pesticide is an umbrella term that covers any substance “intended for
+preventing, destroying, repelling, or mitigating any pest.”  §136(u). A
+herbicide is a kind of pesticide that specifically targets weeds.
+
+7  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+example, in 1991, EPA classified glyphosate as unlikely to
+cause cancer in humans. See EP A, Office of Pesticides and
+Toxic Substances, Second Peer Review of Glyphosate 1 (Oct.
+30, 1991). In 1993, EPA reiterated that conclusion and re-
+registered glyphosate products without a cancer warning.
+See EPA, Office of Prevention, Pesticides and Toxic
+Substances, Reregistration Eligibility Decision: Glyphosate
+13–14 (Sept. 1993).
+In 2017 and 2019, after the International Agency for
+Research on Cancer classified glyphosate as a probable
+carcinogen, EPA re-examined the issue but still adhered to
+its longstanding position on glyphosate. See EPA, Office of
+Pesticide Programs, Revised Glyphosate Issue Paper:
+Evaluation of Carcinogenic Potential 12–13, 144 (Dec. 12,
+2017); EPA, Glyphosate: Proposed Interim Registration
+Review Decision 7–8 (Apr. 2019).  In 2020, in an interim
+registration review decision , EPA reiterated that same
+position. See EPA, Glyphosate: Interim Registration
+Review Decision Case No. 0178, p. 10 (Jan. 2020); Natural
+Resources Defense Council v. EPA, 38 F. 4th 34, 51 (CA9
+2022) (vacating EPA’s 2020 decision regarding glyphosate).
+EPA’s assessment of glyphosate is shared by many other
+regulatory bodies around the world that have likewise
+concluded that glyphosate is not carcinogenic, including
+regulators in Canada, Australia, Japan, and the European
+Union.
+All told, in accordance with EPA’s view that glyphosate
+is not likely to cause cancer in humans, EPA has not
+required glyphosate-based pesticides like Roundup to
+include a cancer warning on their labels. 4  Therefore, as a
+matter of federal law, Monsanto legally must use a label
+without a cancer warning unless and until EPA approves or
+requires a change.
+——————
+4 Monsanto has phased out residential Roundup products that contain
+glyphosate.
+
+C
+In 2019, John Durnell sued Monsanto in Missouri state
+court. Durnell alleged that he had used Monsanto’s
+Roundup products for about 20 years and that they had
+caused his non-Hodgkin’s lymphoma, a form of cancer.  As
+relevant here, Durnell brought a failure-to-warn tort claim,
+claiming that Monsanto should have included a cancer
+warning on Roundup’s label.  A jury agreed and awarded
+Durnell more than $1 million on the failure-to-warn theory.
+In Missouri trial court, Monsanto moved on preemption
+grounds for judgment notwithstanding the verdict.
+Monsanto argued that FIFRA expressly preempted
+Durnell’s failure-to-warn claim because FIFRA prohibits
+States from imposing labelin g requirements that are “in
+addition to or different from” those imposed under FIFRA.
+7 U. S. C. §136v(b). Monsanto explained that EPA
+approved its labels without a cancer warning at registration
+and that it was therefore able to (indeed, required to) keep
+using that label.
+The Missouri trial court rejected Monsanto’s preemption
+argument.  The Missouri Court of Appeals affirmed.  707
+S. W. 3d 828 (2025).  The Court of Appeals reasoned that
+Missouri failure-to-warn claims are “fully consistent with”
+FIFRA’s misbranding provisions because “both require a
+pesticide manufacturer to adequately warn users of the
+potential dangers of using its product.” Id., at 832–833.
+The federal Courts of Appeals and state courts have
+divided over whether FIFRA preempts a state tort claim
+based on Roundup’s lack of a cancer warning.  Compare
+Schaffner v. Monsanto Corp. , 113 F. 4th 364 (CA3 2024),
+with Carson v. Monsanto Co., 92 F. 4th 980 (CA11 2024);
+Hardeman v. Monsanto Co. , 997 F. 3d 941 (CA9 2021);
+Johnson v. Monsanto Co., 333 Ore. App. 678, 554 P. 3d 290
+(2024); Pilliod v. Monsanto Co. , 67 Cal. App. 5th 591, 282
+Cal. Rptr. 3d 679 (2021).
+
+9  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+To resolve that split, this Court granted certiorari.  607
+U. S. 1148 (2026).
+II
+FIFRA’s preemption clause is entitled “Uniformity” and
+provides that a “State shall not impose or continue in effect
+any requirements for labeling or packaging in addition to
+or different from those required under this subchapter.”  7
+U. S. C. §136v(b).  FIFRA therefore preempts a state-law
+labeling requirement that differs from the federal labeling
+requirements imposed under FIFRA.  “Uniformity” in
+labeling—the textually stated objective of FIFRA’s
+preemption clause—would otherwise be impossible to
+achieve. Ibid.
+A
+To start, as this Court’s precedents make clear and as the
+parties agree, state tort duties constitute state labeling
+requirements. See Bates v. Dow Agrosciences LLC , 544
+U. S. 431, 443–444 (2005); Riegel v. Medtronic, Inc. , 552
+U. S. 312, 323–324 (2008); Cipollone v. Liggett Group, Inc.,
+505 U. S. 504, 523–524 (1992) (plurality opinion); id., at
+548–549 (Scalia, J., concurring in judgment in part and
+dissenting in part).  Failure-to-warn claims, like Durnell’s
+claim here, “are premised on common-law rules that
+qualify” as labeling requirements because those “rules set a
+standard for a product’s labeling.” Bates, 544 U. S., at 446.
+That makes good sense. After all, the heart of Durnell’s
+failure-to-warn claim under Missouri tort law is that
+Monsanto should have included a cancer warning on its
+Roundup labels.
+The question, then, is whether the Missouri failure-to-
+warn claim—which would require a cancer warning on the
+Roundup label—would impose a labeling requirement that
+is “in addition to or different from” federal labeling
+requirements imposed “under” FIFRA.  The answer is yes.
+
+As described at length above, to register a pesticide, EPA
+must approve the pesticide’s label.  And to approve the
+label, EPA must determine that the label contains all
+warnings “necessary and . . . adequate to protect health and
+the environment” and that a label does not include any
+“false or misleading” statements.  §§136a(c)(5)(B),
+136(q)(1)(A), (G).
+After EPA approves a pesticide’s label at registration,
+manufacturers are legally required to use that label—
+unless and until EPA approves or requires a label change
+and amends the pesticide’s registration.  See §136a(f )(1); 40
+CFR §§152.44(a), 156.70(c) (2025).  If a manufacturer does
+not use the EPA-approved label, it may be subject to civil
+and criminal penalties. See 7 U. S. C. §§136l, 136j(a)(1)(E).
+It is true that EPA may subsequently change course in
+light of new information or new analysis, and require an
+amended label and amended registration.  As described
+above, FIFRA and EPA’s regulations set forth an extensive
+process for doing so. But absent such an EPA-approved or
+EPA-required label change, the pesticide manufacturers
+may—and indeed legally must—use the pesticide label
+approved by EPA at registration.5
+——————
+5 Of course, a manufacturer may make “minor modifications” by
+notification to EPA and without EPA’s approval.  40 CFR §152.46(a)(1).
+But EPA’s regulations specifica lly require EPA approval for
+precautionary “statements pertaining to the hazards of the product,”
+which would include cancer warnings.  §156.70(c); see also Brief for
+United States as Amicus Curiae  32–33 (“that exception” for minor
+modifications “does not apply to pr ecautionary statements like cancer
+warnings”).
+The dissent disputes that conclusion, maintaining that precautionary
+statements encompass only “acute hazards,” not chronic risks—and thus
+do not require EPA approval for cancer warnings. Post, at 6, n. 4 (opinion
+of JACKSON, J.).  The ordinary meaning of “hazards” and “precautionary
+statements,” however, covers cancer warnings.  Hazards to human
+health are hazards.  As the U. S. Government has explained,
+“precautionary statements” pertain to the hazards of a pesticide and thus
+
+11  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+In sum, federal law requires Monsanto to sell Roundup
+with the label that EPA approved at the initial registration
+and that EPA has subsequently re-approved on multiple
+occasions—that is, the label without a cancer warning.
+Durnell’s state tort claim, by contrast, would require
+Monsanto to add a cancer warning to its labels.  That
+Missouri-law requirement is “in addition to” and “different
+from” Monsanto’s federal-law labeling obligations.
+B
+This Court’s precedents reinforce that textual conclusion.
+In Bates, the Court explained that the relevant labeling
+“requirements” under FIFRA included FIFRA’s
+misbranding provision and “any relevant EPA regulations
+that give content to FIFRA’s misbranding standards.”  544
+U. S., at 453.
+And the Bates Court gave a telling example of how
+FIFRA’s preemption clause operates.  If an EPA regulation
+required a “CAUTION” designation for a pesticide and if a
+state failure-to-warn claim targeted the pesticide’s label for
+including the “CAUTION” designation instead of a
+——————
+plainly encompass “cancer warning[s].” Brief for United States as
+Amicus Curiae 7 (quotation marks omitted); see Tr. Oral Arg. 55 (“[I]f
+you are doing something like a hazard  warning, which I don’t see any
+way of describing a cancer warning as anything other than that, you
+must get agency approval.  That’s what it says.  That’s 156.70”); see also
+id., at 43 (“[Section] 156.70 is the clearest.  It says, for hazards like
+cancer, you have to ask for EPA’s approval”).  That is why EPA requires
+robust evidence of a pesticide’s potential carcinogenicity as a part of
+registration. See, e.g., 40 CFR §§158.34, 158.130(d)(3), 158.500(d) (2025).
+And that is why, with respect to Roundup specifically, EPA has
+repeatedly evaluated glyphosate’s potential carcinogenicity to ensure
+that the pesticide “will not generally cause unreasonable adverse effects”
+on human health and the environment.  7 U. S. C. §136a(c)(5)(D); see
+supra, at 6–7. Moreover, even if Monsanto could unilaterally add a
+cancer warning to its Roundup label as a “minor modification,” EPA has
+not required such a warning.  Therefore, a state-law requirement
+purporting to mandate a cancer warning is necessarily “in addition to”
+or “different from” the relevant federal requirements.
+
+“DANGER” warning, that failure-to-warn claim would be
+preempted. See ibid.
+Here, just like an EPA regulation providing that a
+pesticide need not include a “DANGER” warning on its
+label, EPA’s registration de termination that Roundup’s
+label need not include a cancer warning constitutes a
+federal labeling requirement that cannot be altered by state
+law, including state tort suits.  That is because those
+registration determinations, just like EPA’s regulations,
+“give content to FIFRA’s misbranding standards.”  Ibid.
+To be sure, in Bates, the state failure-to-warn claims at
+issue targeted a pesticide label’s efficacy claims.  See id., at
+435, 440. Those state tort claims were not preempted.
+Bates distinguished between effi cacy claims on the one
+hand—which EPA did not review as a part of registration—
+and safety claims on the other hand, which EPA does
+thoroughly review at registration and are therefore
+preempted. See id., at 440 (“EPA’s approval of a pesticide
+label does not reflect any determination on the part of EPA
+that the pesticide will be e fficacious”) (quotation marks
+omitted).
+This case of course concerns safety claims. And when it
+comes to safety claims, EPA’s registration determinations
+do reflect EPA’s considered judgment that a pesticide’s
+label is not false or misleading and contains all necessary
+warnings. So safety claims that would impose labeling
+requirements “in addition to” or “different from” those
+required under FIFRA are preempted.
+The Court’s more recent decision in Riegel further
+confirms that Durnell’s failure-to-warn claim is expressly
+preempted. In Riegel, the Court addressed the preemption
+clause in the Medical Device Amendments of 1976, which is
+nearly identical to FIFRA’s preemption clause.  552 U. S.,
+
+13  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+at 316; see 21 U. S. C. §360k(a). 6  The Medical Device
+Amendments direct the Food and Drug Administration to
+approve medical devices for sale after analyzing their
+safety, just as EPA does for pesticides.  552 U. S., at 318.
+As part of the premarket approval process, FDA is required
+to review the device’s label and to determine that the label
+is neither false nor misleading, as EPA does for pesticide
+labels. Ibid.  And after FDA approves a device, the
+manufacturer is required to use that label and is prohibited
+from making any changes to the device or label without
+additional FDA approval, as is the case with pesticide labels
+and EPA. Id., at 319.
+The Riegel Court concluded that FDA’s premarket
+approval of devices imposed “ ‘requirements’ under” the
+Act’s preemption clause, id., at 322, and therefore that
+FDA’s premarket approval of a medical device preempted
+state-law claims premised on additional or contrary safety
+requirements. Id., at 323–325.
+Riegel is dispositive here. If  FDA’s premarket approval
+of medical devices preempted additional state-law
+requirements, so too must EPA’s registration of pesticides
+and approval of pesticide labels.
+As Riegel indicates, allowing Durnell’s state tort claim to
+overcome preemption would affect more than FIFRA. The
+Medical Device Amendments and several other federal
+statutes across a range of industries contain similar or
+identical labeling preemption provisions. See, e.g., 21
+U. S. C. §§678; 1052(b); 467e; 379s(a), 379r(a)(2); 343–
+1(a)(2)–(4). Those similar labeling preemption clauses
+——————
+6 The MDA’s express preempt ion clause provides that “no State . . .
+may establish or continue in effect wi th respect to a device intended for
+human use any requirement—(1) which is different from, or in addition
+to, any requirement applicable un der this chapter to the device, and
+(2) which relates to the safety or e ffectiveness of the device or to any
+other matter included in a requirem ent applicable to the device under
+this chapter.”  21 U. S. C. §360k(a) (emphasis added).
+
+reflect Congress’s judgment that the ability to sell a product
+throughout the country with a single label can be important
+to maintaining an efficient nationwide market.
+In short, under federal law, Monsanto was required (i) to
+obtain EPA’s approval for its Roundup label at registration;
+and (ii) to use the EPA-approved Roundup label unless, in
+the future, EPA approved or required changes to the label.
+Those are the relevant federal labeling requirements
+“under” FIFRA.  Durnell’s failure-to-warn claim,
+meanwhile, would require Monsanto to place a cancer
+warning on Roundup’s label. That state labeling
+requirement is “in addition to or different from” EPA’s
+labeling determinations that do not mandate a cancer
+warning. Durnell’s failure-to-warn claim is expressly
+preempted.7
+III
+Durnell counters with four overlapping arguments, none
+of which is persuasive.
+First, Durnell (echoed by the dissent) contends that a
+Missouri failure-to-warn claim, like FIFRA itself, simply
+requires manufacturers to include adequate warnings to
+protect human health, and not to include false or
+misleading statements. Compare Moore v. Ford Motor Co.,
+332 S. W. 3d 749, 756 (Mo. 2011), with 7 U. S. C.
+§§136(q)(1)(A), (G), 136j(a)(1)(E).  But that argument
+operates at far too high a level of generality and disregards
+the central and comprehensive role that EPA performs in
+making labeling determinations under FIFRA’s
+registration provisions.  Looking at only FIFRA’s general
+standard for misbranding rather than the specific
+requirements imposed under federal law would nullify
+——————
+7 Because we conclude that Durnell’s failure-to-warn claim is expressly
+preempted, we need not consider  Monsanto’s implied preemption
+argument.
+
+15  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+FIFRA’s preemption clause and the uniformity that
+Congress sought for safety warnings on pesticide labels.
+Durnell’s argument implausibly maintains that EPA’s
+registration and labeling determinations do not have
+preemptive force. But by its text, FIFRA affords
+preemptive force to federal requirements imposed “under”
+FIFRA, not merely those imposed “by” the actual statute
+itself. §136v(b).  And FIFRA authorizes EPA to “prescribe
+regulations to carry out the provisions of [FIFRA],” and
+requires EPA to make registration and labeling
+determinations. §§136w(a)(1), 136a(c)(5)(B). EPA’s
+regulations require manufacturers to use the label
+approved by EPA, or face potential civil or criminal
+penalties. See 40 CFR §§152.44(a), 156.70(c) (2025); 7
+U. S. C. §§136j(a)(1)(E), 136 l. So EPA’s registration
+determinations as to the appropriate level of warning on a
+pesticide’s label impose “requirements” “under” FIFRA.
+Durnell’s argument also contravenes Riegel v. Medtronic,
+Inc., 552 U. S. 312 (2008).  There, as explained above, the
+Court held that FDA’s determ inations in the premarket
+approval process imposed federal “ ‘requirements’” “under”
+the Medical Device Amendments and thereby displaced
+additional or different state-law requirements imposed
+through state tort suits.  Id., at 322–323.  There is no good
+argument for treating FDA’s premarket approval as
+“requirements” “under” the Medical Device Amendments,
+but not treating EPA’s regulations and registration
+determinations as requirements under FIFRA’s materially
+identical preemption clause.
+Second, Durnell claims that EPA’s regulations—and its
+procedures for registering pesticides and approving
+pesticide labels—exceed or contravene EPA’s statutory
+authority under FIFRA. See Brief for Respondent 21–25,
+39–40 (citing Loper Bright Enterprises v. Raimondo, 603
+U. S. 369 (2024)).
+
+Durnell is incorrect. Again, FIFRA empowers EPA to
+“prescribe regulations to carry out the provisions of
+[FIFRA].” 7 U. S. C. §136w(a)(1).  And FIFRA expressly
+directs EPA to register pesticides and “determin[e]” that
+the pesticide’s “labeling” complies with FIFRA’s many
+specific requirements.  §136a(c)(5)(B). During that
+extensive registration process, EPA critically evaluates the
+pesticide’s label to ensure that the label contains all
+warnings necessary to protect human health.  After EPA
+makes a determination about the appropriate warnings for
+a pesticide’s label, a manufacturer is legally required to use
+that label unless and until EP A subsequently approves or
+requires a new label.  See 40 CFR §§152.44(a), 156.70(c).
+Under FIFRA’s preemption provision, those federal
+labeling requirements displace any additional or different
+state-law requirements.
+Third, Durnell (also echoed by the dissent) seizes on one
+of FIFRA’s self-described “[m]iscellaneous” provisions, 7
+U. S. C. §136a(f )(2), which provides that “[i]n no event shall
+registration . . . be construed as a defense for the
+commission of any offense under this subchapter,” but that
+registration is “prima facie” evidence of compliance with the
+registration provisions. Durn ell argues that the fact of
+“registration” of a pesticide like Roundup could not serve as
+a defense to an EPA enforcement action for misbranding
+and therefore cannot serve as a defense in a state tort suit
+that parallels a federal misbranding action.
+That argument would effectively erase FIFRA’s express
+preemption clause. And the argument fails for multiple
+independent reasons.
+To begin, §136a(f )(2), by its text, does not apply to state
+tort suits. That provision simply clarifies that registration
+does not bar EPA enforcement actions against
+manufacturers for violating FIFRA.
+Moreover, the premise of Durnell’s §136a(f )(2) argument
+is flawed. It is highly doubtful that EPA would bring an
+
+17  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+enforcement action for misbranding against a
+manufacturer for using the EPA-approved and EPA-
+required label. Rather, a manufacturer’s label might
+constitute a misbranding violation if the label (i) included
+information that was not on the EPA-approved label, or
+(ii) omitted information that was on the EPA-approved
+label. Under those circumstances, the mere fact of
+registration obviously may not serve as a complete defense
+to an EPA enforcement action, as §136a(f )(2) indicates.  In
+that context, §136a(f )(2) makes complete sense.
+But Durnell’s failure-to-warn claim does not fault
+Monsanto for using a label different from the EPA-approved
+labeling. Durnell instead faults Monsanto for not using a
+label different from the EPA-approved label. But FIFRA’s
+preemption clause expressly preempts any state tort claim
+that would require a pesticide manufacturer to use a label
+“in addition to” or “differe nt from” federal requirements
+imposed under FIFRA, which, as explained above, include
+the EPA-approved label.
+And even more problematic for Durnell, EPA regulations
+promulgated under FIFRA require a manufacturer to use
+the EPA-approved label and prohibit the manufacturer
+from unilaterally changing the label without EPA’s
+approval. See 40 CFR §§152.44(a), 156.70(c).  Indeed, if the
+manufacturer unilaterally changed the label, as Durnell
+says Monsanto should have done, the manufacturer would
+be flouting EPA’s regulations and exposing itself to
+potentially severe federal penalties. See 7 U. S. C.
+§§136j(a)(1)(E), 136l. So Durnell’s argument also triggers
+potential retroactivity and esto ppel questions.  The law is
+not ordinarily read to retroactively penalize persons for
+doing what the Government had required them to do.  Cf.
+Landgraf v. USI Film Products, 511 U. S. 244 (1994).
+Not surprisingly, therefore, the United States explicitly
+represented at oral argument that EPA does not bring a
+misbranding action when the manufacturer was using an
+
+EPA-approved label.  See Tr. of Oral Arg. 44 (“EPA doesn’t
+go after people for . . . not changing your label even though
+EPA doesn’t let you . . . . We don’t bring that kind of
+enforcement action”). Instead, as described at length above,
+if new safety information comes to light, EPA may gather
+more information from the manufacturer; ask the
+manufacturer to change its label; pursue registration
+cancellation, suspension, or modification proceedings; or
+seek civil or criminal penalties if a manufacturer failed to
+inform EPA of important new safety-related information.
+See 7 U. S. C. §§136a(d), 136d, 136l; 40 CFR §152.170(e)(1);
+Tr. of Oral Arg. 51–52 (United States: “if EPA also thought
+that there was some sort of misbranding risk,” “as a
+practical matter, what happens is EPA gets information
+and might ask the manufacturer . . . can you please try to
+amend your registration and change it?”).
+But suppose (contrary to the United States’ express
+representation to this Court) that EPA someday did charge
+a manufacturer with misbranding for using the EPA-
+approved and EPA-required labe l.  Even in that unlikely
+scenario, Durnell’s §136a(f )(2) argument would falter in
+light of the statutory text and  context. To reiterate,
+§136a(f )(2)’s proviso that registration is not a defense is
+limited to EPA enforcement actions for “any offense under
+this subchapter.” And it would be rather bizarre to read a
+provision entitled “[m]iscellaneous” and dealing only with a
+defense to an EPA enforcement action to upend FIFRA’s
+carefully calibrated and EPA-centric regulatory scheme.
+Make no mistake:  Durnell’s §136a(f )(2) argument would
+negate FIFRA’s express preemption clause, expose
+manufacturers to potentially massive tort liability for doing
+what EPA required them to do, and eviscerate the
+
+“uniformity” of EPA’s labeling determinations.
+§§136a(f )(2), 136v(b).8
+See
+In addition, Durnell’s §136a(f )(2) argument does not
+work for yet another reason. Monsanto is not invoking the
+mere fact of “registration” as a complete defense to state
+tort suits. Rather, Monsanto is relying on EPA’s specific
+determination that cancer warnings are not required for
+glyphosate-based pesticide labels.  So even by its own
+terms, §136a(f )(2) would not apply here.
+Last, Durnell’s §136a(f )(2) argument contravenes this
+Court’s decision in Riegel. In that case, FDA was
+statutorily authorized to withdraw premarket approval for
+a medical device based on “newly reported data or existing
+information.”  552 U. S., at 319.  And FDA was obligated to
+withdraw approval if it “determine[d] that a device is
+unsafe or ineffective.”  Id., at 319–320. But the possibility
+that FDA could withdraw its premarket approval based on
+new evidence or new analysis did not preclude this Court
+from concluding that FDA’s premarket approval imposed
+“requirements” on manufacturers that preempted state tort
+suits under the Medical Device Amendments’ materially
+identical preemption clause.  Id., at 322–323.9
+——————
+8 Durnell’s §136a(f )(2) argument also runs up against the Act’s history.
+Under the initial 1947 Act, manufacturers would apply to register their
+pesticides with the Secretary of Agriculture, and the Secretary’s decision
+to grant registration was essentially mandatory. See 61 Stat. 163, 168;
+Bates v. Dow Agrosciences LLC, 544 U. S. 431, 437, n. 8 (2005).  At that
+time, registration did not indicate compliance with the Act.  So
+§136a(f )(2) is a vestige of that earlie r regulatory approach, which is
+another contextual reason not to in terpret it so broadly as to erase
+FIFRA’s later-added preemption clause.
+9 The dissent advances two further arguments for distinguishing
+Riegel. Neither works. First, the di ssent contends that the Medical
+Device Amendments lack an equivalent to FIFRA’s §136a(f )(2).  See post,
+at 19–20.  But as explained above, premarket approval of a medical
+device did not prevent the FDA from later withdrawing its approval, just
+as §136a(f )(2) and other statutory provisions indicate that the mere fact
+
+So too here. The theoretical possibility that EPA could
+(despite its representation otherwise) try to bring a
+misbranding enforcement action against a pesticide
+manufacturer on the theory that the EPA-approved and
+EPA-required label had in essence become misbranded over
+time due to new evidence does not deprive EPA’s
+registration decisions of their preemptive force.
+Fourth, and relatedly, Durnell raises concerns about the
+scenario in which new safety information arises after EPA’s
+initial registration determination and labeling approval.
+As described at length abo ve, however, Durnell’s policy
+concern about regulatory lag is amply addressed by the
+extensive processes that FIFRA and EPA’s implementing
+regulations have established to respond to new or evolving
+safety information. For example, manufacturers must
+apprise EPA of new information “regarding unreasonable
+adverse effects” of their pesticides. §136d(a)(2).  That
+obligation is backed by civil and criminal penalties.  §136l.
+EPA, meanwhile, also has many ways of ensuring a
+pesticide’s continued compliance with FIFRA.  EPA does
+not sit in an information-free si lo.  It keeps abreast of new
+safety developments. EP A may request additional
+——————
+of registration does not foreclose EPA from later changing its labeling
+requirements.
+Second, the dissent points out that Riegel did not consider state-law
+claims that were parallel to “an applicable federal requirement, apart
+from the FDA’s premarket approval process.”  Post, at 20. From that,
+the dissent concludes that Riegel does not control this case, which
+involves state-law claims that are allegedly parallel to an applicable
+federal requirement—FIFRA’s misbranding prohibition.  See post, at 20.
+But that conclusion does not follow.  It is true that Riegel did not assess
+whether the state-law claims at issue were “different from, or in addition
+to” the relevant federal-law requirements.  552 U. S., at 330 (quotation
+marks omitted).  But Riegel indisputably did resolve the question of
+whether premarket approval constituted a “requirement” for preemption
+purposes. See id., at 322–323.  That is the portion of Riegel that controls
+here:  It establishes that EPA’s analogous registration and label approval
+determinations are “requirements” under FIFRA.
+
+21  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+information from manufacturers whenever the Agency
+“determines that additional data are required to maintain”
+a pesticide’s registration.  §136a(c)(2)(B)(i).  And EPA
+possesses ample resources to evaluate that information.
+EPA may solicit “comments, evaluations, and
+recommendations” to “imp rove the effectiveness and
+quality” of EPA’s “scientific analyses” from scientific
+advisory panels.  §136w(d)(1).
+For example, in the aftermath of the International
+Agency for Research on Cancer’s classification of glyphosate
+as probably carcinogenic, EPA commissioned multiple
+reports about glyphosate’s po tential carcinogenicity from
+its Cancer Assessment Review Committee and Office of
+Pesticide Programs. See EPA, Office of Chemical Safety
+and Pollution Prevention, Glyphosate: Report of the Cancer
+Assessment Review Committee 7–8 (Oct. 1, 2015); EPA,
+Office of Pesticide Programs,  Revised Glyphosate Issue
+Paper: Evaluation of Carcinogenic Potential 13 (Dec. 12,
+2017).
+Moreover, if third parties (like Durnell) want to bring
+new information to EPA’s attent ion or if they believe that
+EPA has failed to consider relevant information, those third
+parties are free to petition EPA to modify, suspend, or
+cancel a pesticide’s registration.  See 40 CFR §154.10. And
+EPA’s decision in response to such a petition is subject to
+judicial review. See 7 U. S. C. §§136n(a), 136d(h). 10
+As demonstrated by that comprehensive regulatory
+regime, EPA possesses a variety of tools to learn of and
+address new safety information. And as a matter of law,
+state tort law may not impose labeling requirements “in
+——————
+10 If a citizen becomes aware of new safety concerns that arise after
+registration, the citizen is free to bring the information to EPA’s
+attention and ask EPA to cancel or suspend the pesticide’s registration,
+or require a labeling change.  But that is quite different from seeking to
+retroactively penalize a manufacturer for doing what it was legally
+required to do at the time.
+
+addition to” or “different  from” federal requirements
+imposed under FIFRA.
+* * *
+With respect to pesticide labels, FIFRA demands
+“[u]niformity” and expressly preempts state labeling
+requirements that are “in addition to” or “different from”
+federal labeling requirements. §136v(b). Durnell’s state-
+law failure-to-warn claim would require a cancer warning
+on Roundup’s label—a require ment “in addition to” and
+“different from” the label re quired by EPA under FIFRA.
+FIFRA therefore expressly preempts Durnell’s claim. We
+reverse the judgment of the Missouri Court of Appeals and
+remand the case for further proceedings not inconsistent
+with this opinion.
+It is so ordered.

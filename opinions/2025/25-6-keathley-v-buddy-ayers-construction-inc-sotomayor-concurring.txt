@@ -1,0 +1,213 @@
+Keathley v. Buddy Ayers Construction, Inc. — No. 25-6 — October Term 2025 — decided 6/11/26 — SOTOMAYOR, J., concurring
+Citation: 608 U.S. 647
+Source: https://www.supremecourt.gov/opinions/25pdf/25-6_d1o2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+SOTOMAYOR, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25–6
+THOMAS KEATHLEY, PETITIONER v. BUDDY AYERS
+CONSTRUCTION, INCORPORATED
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 11, 2026]
+ JUSTICE SOTOMAYOR, concurring.
+Today, the Court correctly holds that, assuming judicial
+estoppel applies in the bankruptcy context, the Fifth Cir-
+cuit’s exceedingly narrow test for determining whether an
+inconsistent position was based on inadvertence or mistake
+is erroneous.  I write to address why it may not ever make
+sense to apply judicial estoppel when bankruptcy proceed-
+ings are pending, and why, in any context, judicial estoppel
+should always turn on the totality of the circumstances.
+I
+One of the principal justifications for judicial estoppel is
+that it prevents a party from using the “‘judicial process’ ”
+to “derive an unfair advantage” by taking a position in one
+proceeding and an inconsistent position in a separate pro-
+ceeding. New Hampshire v. Maine, 532 U. S. 742, 749, 751
+(2001). In bankruptcy, the “unfair advantage” a dishonest
+debtor gains by failing to disclose assets comes at the cred-
+itors’ expense and deprives them of potential recovery.
+From here, the argument goes, judicial estoppel is needed
+in other proceedings to deter that bankruptcy misconduct
+and to protect both the “integrity of the bankruptcy system”
+and “the rights of creditors to  an equitable distribution of
+the assets of the debtor’s estate.” Reed v. Arlington , 650
+F. 3d 571, 574 (CA5 2011) (en banc).
+
+There are many reasons to doubt the logic of this argu-
+ment, which may account for why “this Court has never ap-
+plied judicial estoppel in the bankruptcy context.”  Ante, at
+7. To start, applying judicial estoppel to debtors still in -
+volved in open bankruptcies is more likely to hurt creditors
+than it is to help them. Instead, the party most likely to
+benefit is the potential tortfeasor in the separate proceed-
+ing: someone who is not prejudiced by the debtor’s earlier,
+inconsistent position, but whom judicial estoppel permits to
+escape liability.
+Take the facts of this case as an example.  At the time the
+District Court applied judicial estoppel to dismiss petitioner
+Keathley’s tort claim against respondent, Keathley and his
+wife were operating under an amended repayment plan in
+which they still needed to make interest-free payments to
+creditors for about four more years.  If the District Court
+had not applied judicial estoppel, and if Keathley had pre-
+vailed on the merits of that tort claim, any judgment he re-
+ceived could have been used in turn to pay creditors interest
+or shorten the repayment period or both. See, e .g., 11
+U. S. C. §§1329(a)(1)–(2).  By applying judicial estoppel, the
+courts below prevented Keathley from recovering any
+money at all and thus “vaporiz[ed] assets that could [have
+been] used for the creditors’ benefit.”  Biesek v. Soo Line
+R. Co., 440 F. 3d 410, 413 (CA7 2006).  They also gave re-
+spondent, the employer of the alleged tortfeasor, a windfall
+even though it was not involved in the bankruptcy and thus
+was neither misled nor impacted by the delayed disclosure.
+“Judicial estoppel is an equitable doctrine,” but this is “not
+an equitable application.” Ibid.; see 18 J. Moore, D. Coquil-
+lette, G. Joseph, G. Vairo, & C. Varner, Moore’s Federal
+Practice §134.31, p. 134–102 (3d ed. 2026) (explaining that
+judicial estoppel should be applied “with an intent to
+achieve substantial justice”).
+There were other, more equitable options available that
+would have served the underlying goals of judicial estoppel.
+
+3  Cite as: 608 U. S. ____ (2026)
+SOTOMAYOR, J., concurring
+For instance, because the Keathleys had not yet completed
+the repayment process at the time Keathley filed this claim,
+the Bankruptcy Court retained jurisdiction over the bank-
+ruptcy. That court was better positioned than both the Dis-
+trict Court and Fifth Circuit in the personal-injury suit to
+address any harm to creditors caused by Keathley’s belated
+disclosure of the suit in the bankruptcy proceeding.  In the
+wake of that disclosure, the Bankruptcy Court could have
+imposed sanctions, Fed. Rule Bkrtcy. Proc. 9011, or modi -
+fied the repayment plan, 11 U. S. C. §1329.  It could have
+even converted this Chapter 13 bankruptcy to a Chapter 7
+case, which would have allowed a trustee to pursue this suit
+on the creditors’ behalf. See §§323(b), 704(a)(1), 1307(c);
+Marrama v. Citizens Bank of Mass., 549 U. S. 365, 372–374
+(2007). The Solicitor General of the United States, as ami-
+cus curiae, lists further options still.  See Brief for United
+States as Amicus Curiae 20–23 (surveying tools in a bank-
+ruptcy court’s arsenal). Judicial estoppel, by contrast, pro -
+vides one remedy and one remedy only: dismissal of the tort
+claim. Given that bankruptcy courts can craft full remedies
+to alleviate any prejudice to creditors caused by a belated
+disclosure of a claim, it is difficult to see how using judicial
+estoppel to bar the debtor from pursuing a separate claim,
+which only harms creditors, is either needed or warranted.
+For similar reasons, a bankruptcy court is also well posi-
+tioned to mitigate any harms to the “integrity of the bank-
+ruptcy system,” and the judicial system generally, caused
+by inconsistent positions. For instance, in response to de-
+liberate nondisclosures, a bankruptcy court may, in certain
+circumstances, revoke an order of confirmation, e.g.,
+§1330(a), decline to discharge the debtor, §§727(a)(2), (4),
+fine the debtor, 18 U. S. C. §401, or refer the debtor to the
+United States Attorney’s Office for potential perjury, §§152,
+1621. It can also protect the broader judicial system’s in -
+terest in preventing “ ‘inconsistent court determinations,’ ”
+New Hampshire, 532 U. S., at 751, by simply modifying its
+
+earlier orders.* Applying judi cial estoppel to a case (and
+thereby dismissing it) arguably has the opposite effect.  Alt-
+hough judicial estoppel might prevent inconsistent judg -
+ments in some circumstances, it likely “‘undermines the in-
+tegrity’” of both court systems when it becomes “a tool in
+the arsenal of potentially bad actors to reap a windfall” and
+secure that advantage at cre ditors’ detriment.  2025 WL
+673434, *8 (CA5, Mar. 3, 2025) (Haynes, J., concurring in
+judgment), App. to Pet. for Cert. 20a, 22a.
+All told, judicial estoppel is based in equity, and “specific
+factual contexts” must “inform the doctrine’s application.”
+New Hampshire, 532 U. S., at 751.  The above discussion
+has focused on the context of pending bankruptcy proceed-
+ings because the judicial estoppel calculus may look differ-
+ent if the debtor takes an inco nsistent position long after
+discharge. Cf. 11 U. S. C. §350(b) (allowing bankruptcy
+courts to reopen closed cases to “administer assets” or for
+other “cause[s]”); Brief for United States as  Amicus Curiae
+22 (observing that, for clos ed bankruptcies, a bankruptcy
+court can revoke a discharge within certain time periods de-
+pending on the kind of bankruptcy at issue).  When such a
+proceeding is still open, however, it is doubtful that equity
+ever demands the application of judicial estoppel to a claim
+asserted by a debtor in a different proceeding, even when
+that claim relies on a deliberately inconsistent position.
+II
+This case also illustrates another important facet of judi-
+cial estoppel: In assessing whether certain circumstances
+——————
+*Notably, after Keathley informed the Bankruptcy Court of his claim,
+the court did not impose any sanctions. In an affidavit submitted to the
+District Court here, a staff attorney for the Chapter 13 trustee assigned
+to the case explained, moreover, th at “there [was] nothing unusual or
+misleading about [the Keathleys] not disclosing the [tort claim] while [it]
+was ongoing,” and that even if they had “notified the” Bankruptcy Court
+“immediately, . . . it would not have had any effect on the administration
+of the bankruptcy.”  App. 253.
+
+5  Cite as: 608 U. S. ____ (2026)
+SOTOMAYOR, J., concurring
+warrant using this equitable tool, courts should apply tests
+that account for their totality. As this Court has explained,
+and reiterates today, “ ‘[t]he circumstances under which ju-
+dicial estoppel may appropriately be invoked are probably
+not reducible to any general formulation of principle.’”  New
+Hampshire, 532 U. S., at 750 (alteration in original).  This
+stems from the doctrine’s grounding in equity, which “es-
+chews mechanical rules” and “depends on flexibility.”
+Holmberg v. Armbrecht, 327 U. S. 392, 396 (1946).
+Although Courts of Appeals have attempted to add struc-
+ture to this analysis, some have more successfully captured
+the doctrine’s underlying principles than others.  Take how
+courts have approached the judicial estoppel inquiry in the
+bankruptcy context specifically.  If the doctrine is to apply
+in this context, then the Fifth Circuit’s approach, as the
+Court correctly identifies, was both “too rigid and too
+broad.” Ante, at 7. It distilled the test for whether a prior
+inconsistent position was “inad vertent or a mistake” down
+to two factors and then defined one of them in such a way
+that ensured a prior inconsiste nt position was never inad -
+vertent or mistaken.  See ante, at 8–9.
+The Eleventh Circuit previously employed a test that suf-
+fered from a similar problem. That Circuit used to “permi[t]
+the inference that a plaintiff intended to make a mockery of
+the judicial system simply be cause he failed to disclose  a
+civil claim.” Slater v. United States Steel Corp. , 871 F. 3d
+1174, 1185 (2017) (en banc) (describing the Circuit’s prior
+test). Like the Fifth Circuit’s test, this inference resembled
+a “one-size-fits-all approach,” which did not ensure that ju-
+dicial estoppel applied “only when a party acted with a suf-
+ficiently culpable mental state.”  Id., at 1185–1186. It also
+did not allow a court to factor in “any proceedings that oc -
+curred in the bankruptcy court after the omission was dis-
+covered,” which hampered a court’s ability to “ensure that
+the integrity of the bankruptcy court [was] protected” by the
+application of judicial estoppel. Id., at 1186.  Finally, it did
+
+not tie the application of the doctrine to the “facts and cir -
+cumstances” of a given dispute, which “risk[ed] that [its]
+application” would “give the civil defendant a windfall at
+the expense of innocent creditors.”  Ibid.
+The Eleventh Circuit in Slater retreated from this test.
+It now applies one that considers “all the facts and circum -
+stances of [a] particular case” and therefore one that does
+not suffer from any of the same shortfalls that arise when
+the application of the doctrine neglects critical context.  Id.,
+at 1185; id., at 1186–1189 (listing a nonexhaustive set of
+considerations). This new approach appears more closely
+to adhere to the “ ‘case-by-case’” assessment that equity re-
+quires and that judicial estoppel is intended to facilitate.
+Ante, at 7–9 (quoting Holland v. Florida, 560 U. S. 631,
+649–650 (2010)).
+Any test for applying judici al estoppel, not only in the
+bankruptcy context but in othe r factual contexts as well,
+must ensure that it captures the totality of the circum-
+stances and consistently leads to equitable applications.
+The Court rightfully vacates the decision below.

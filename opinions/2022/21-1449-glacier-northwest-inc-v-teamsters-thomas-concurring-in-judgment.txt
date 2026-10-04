@@ -1,0 +1,110 @@
+Glacier Northwest, Inc. v. Teamsters — No. 21-1449 — October Term 2022 — decided 6/01/23 — Thomas, J., concurring in judgment
+Citation: 598 U.S. 771
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r32_ca7d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+timely manner to avoid costly damage to [its] mixer trucks.”
+App. 72. The Union's actions not only resulted in the de-
+struction of all the concrete Glacier had prepared that day;
+they also posed a risk of foreseeable, aggravated, and immi-
+nent harm to Glacier's trucks. Because the Union took af-
+frmative steps to endanger Glacier's property rather than
+reasonable precautions to mitigate that risk, the NLRA does
+not arguably protect its conduct. We reverse the judgment
+of the Washington Supreme Court and remand the case for
+further proceedings not inconsistent with this opinion.
+It is so ordered.
+Justice Thomas, with whom Justice Gorsuch joins,
+concurring in the judgment.
+I agree that petitioner's state-court claims are not pre-
+empted by the National Labor Relations Act (NLRA). The
+majority reaches this conclusion, however, by applying the
+Court's precedent in San Diego Building Trades Council v.
+Garmon, 359 U. S. 236 (1959), which held that state courts
+are disabled from adjudicating state-law claims that concern
+conduct “arguably” protected under the NLRA. Id., at
+245–246. Because this Court has previously held that the
+type of conduct alleged here is not protected, I join Jus-
+tice Alito's opinion concurring in the judgment. I write
+separately to emphasize the oddity of Garmon's broad pre-
+emption regime.
+This Court typically applies a high bar before concluding
+that federal law “strip[s] state courts of jurisdiction to hear
+their own state claims.” Atlantic Richfeld Co. v. Christian,
+590 U. S. –––, ––– – –––. Likewise, the Court generally re-
+quires a “clear” purpose to displace state law before finding
+that a federal statute does so. Wyeth v. Levine, 555 U. S.
+555, 565 (2009) (internal quotation marks omitted).
+As the majority notes, however, Garmon “goes beyond the
+usual preemption rule.” Ante, at 776. In Garmon, the
+Court determined that, “[w]hen an activity is arguably sub-
+ject to § 7 or § 8 of the Act” (which, respectively, concern
+employees' right to engage in concerted activity and unfair
+labor practices), “the States as well as the federal courts
+must defer to the exclusive competence of the National
+Labor Relations Board [(NLRB or Board)].” 359 U. S., at
+245. The Court went on to explain that this prophylactic
+rule of pre-emption may apply even to state-court claims
+arising under state private law (rather than the NLRA or a
+comparable state regulatory scheme) and even to claims
+seeking remedies not available from the Board. Id., at 246–
+248.* Nor, under the Court's rule, is the State's power to
+act restored if the NLRB “fail[s] to determine the status of
+the disputed conduct by declining to assert jurisdiction, or
+by refusal . . . to fle a charge; or by adopting some other
+disposition which does not define the nature of the activity
+with unclouded legal significance.” Id., at 245–246.
+Garmon acknowledged that the NLRA's pre-emption im-
+plications “ `are of a Delphic nature,' ” leaving the States' re-
+sidual power in a “ `penumbral area [that] can be rendered
+progressively clear only by the course of litigation.' ” Id., at
+240–241 (quoting Machinists v. Gonzales, 356 U. S. 617, 619
+(1958); Weber v. Anheuser-Busch, Inc., 348 U. S. 468, 480–481
+(1955)). It thus emphasized that “Congress has entrusted
+administration of the labor policy for the Nation to a central-
+ized administrative agency,” making it “essential to the ad-
+ministration of the Act” that determinations about protected
+and prohibited conduct “be left in the first instance to the
+[NLRB].” 359 U. S., at 242, 244–245. To do otherwise, it
+feared, “would create potential frustration of national pur-
+*Nonetheless, and motivated by “due regard for the presuppositions of
+our embracing federal system,” Garmon carved out two areas of presump-
+tive state control: (1) “where the activity regulated was a merely periph-
+eral concern of the [NLRA as amended],” and (2) where it “touched inter-
+ests so deeply rooted in local feeling and responsibility that, in the absence
+of compelling congressional direction, [the Court] could not infer that Con-
+gress had deprived the States of the power to act.” 359 U. S., at 243–244.
+poses” and invite “the danger of state interference with na-
+tional policy.” Id., at 244–245.
+Justice Harlan concurred in the result, warning that the
+majority's rule would “reduc[e] to the vanishing point”
+States' “power to redress wrongful acts in the labor feld”
+and provide any “effective remedy under their own laws for
+. . . tortious conduct.” Id., at 253–254. The years since
+have borne out that warning. Garmon elevates “even the
+remotest possibility of conflict,” thereby “overstat[ing] the
+likelihood and significance of conflicts and . . . set[ting] up
+an unreal goal of doctrinal and factual harmony.” L. Jaffe,
+Primary Jurisdiction, 77 Harv. L. Rev. 1037, 1053 (1964). In
+effect, “Garmon doctrine completely pre-empts state-court
+jurisdiction unless the Board determines that the disputed
+conduct is neither protected nor prohibited by the [NLRA].”
+Sears, Roebuck & Co. v. Carpenters, 436 U. S. 180, 199,
+n. 29 (1978).
+The majority opinion today underscores the strangeness
+of the Garmon regime. Here, the Supreme Court of the
+United States reassures a state court of its power to adjudi-
+cate a state-law tort claim. The Court does so, not based on
+its own judgment that federal law does not pre-empt the
+claim, but because the NLRB's existing precedents ade-
+quately remove any “[c]lou[d]” over the matter. 359 U. S.,
+at 246. But, if the Board's precedents left the matter “argu-
+able” (and the NLRA did not plainly dictate an answer), then
+the state courts would be “ousted” of jurisdiction. Long-
+shoremen v. Davis, 476 U. S. 380, 396 (1986). The upshot of
+this approach appears to be that the scope of the NLRA's
+pre-emption of state-court jurisdiction over state claims is
+defined—not by the statutory text—but by “penumbra[s]”
+that wax and wane as the Board develops, or declines to de-
+velop, its own carefully insulated common law of labor rela-
+tions. Garmon, 359 U. S., at 240 (internal quotation marks
+omitted).

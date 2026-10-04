@@ -1,0 +1,401 @@
+George v. McDonough — No. 21-234 — October Term 2021 — decided 6/15/22 — opinion of the Court — author Barrett (listing code AB)
+Citation: 596 U.S. 740
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r47_m6hn.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+where it was pre-[codification].” Kucana v. Holder, 558 U. S. 233, 250.
+Pp. 749–753.
+991 F. 3d 1227, affirmed.
+Barrett, J., delivered the opinion of the Court, in which Roberts,
+C. J., and Thomas, Alito, Kagan, and Kavanaugh, JJ., joined. Soto-
+mayor, J., fled a dissenting opinion, post, p. 753. Gorsuch, J., fled a
+dissenting opinion, in which Breyer, J., joined, and in which Sotomayor,
+J., joined as to all but Part II–C, post, p. 756.
+Melanie L. Bostwick argued the cause for petitioner.
+With her on the briefs were Thomas M. Bondy, Benjamin
+P . Chagnon, Kenneth M. Carpenter, John D. Niles, Edmund
+Hirschfeld, and Melanie R. Hallums.
+Anthony A. Yang argued the cause for respondent. With
+him on the briefs were Solicitor General Prelogar, Princi-
+pal Deputy Assistant Attorney General Boynton, Deputy
+Solicitor General Stewart, and Richard A. Sauber.*
+Justice Barrett delivered the opinion of the Court.
+Veterans may claim benefits for disabilities connected to
+their military service subject to statutory and regulatory re-
+quirements. When the Department of Veterans Affairs
+(V A) denies a benefits claim, that decision generally becomes
+final after the veteran exhausts the opportunity for direct
+appeal. But a statutory exception permits the veteran to
+seek collateral review at any time on grounds of “clear and
+unmistakable error.” We must decide whether that excep-
+tion allows relief from a V A decision applying an agency reg-
+ulation that, although unchallenged at the time, is later
+deemed contrary to law. We hold that it does not.
+*Briefs of amici curiae urging reversal were fled for Disabled Ameri-
+can Veterans by Robert V. Chisholm; for Military-Veterans Advocacy, Inc.,
+et al. by Michael E. Joffre, William H. Milliken, and John B. Wells; for
+the National Law School Veterans Clinic Consortium by Angela K. Drake;
+for the National Veterans Legal Services Program et al. by Liam J. Mont-
+gomery; for Swords to Plowshares et al. by Amy Rose and Tyrone Collier;
+and for United States Senators Ted Cruz et al. by Jennifer L. Mascott
+and R. Trent McCotter.
+I
+A
+“The law entitles veterans who have served on active duty
+in the United States military to receive benefits for disabili-
+ties caused or aggravated by their military service.” Shin-
+seki v. Sanders, 556 U. S. 396, 400 (2009); see 38 U. S. C.
+§ 1110. A veteran seeking such benefits must first fle a
+claim with the V A. § 5101(a)(1)(A). A regional office of the
+V A then determines whether the veteran satisfies all legal
+prerequisites, including the requirement that military serv-
+ice caused or aggravated the disability. § 511(a); see 38 CFR
+§ 3.100(a) (2021). To that end, the statute governing war-
+time service imposes a “[p]resumption of sound condition”:
+If a veteran's disability was not noted at the time of entry
+into service, then the veteran is presumptively entitled to
+benefits unless the V A shows by a heightened burden of
+proof that the disability “existed before . . . and was not
+aggravated by such service.” 38 U. S. C. § 1111. After
+applying this and other statutory and regulatory require-
+ments, the regional office issues an initial decision granting
+or denying benefits. §§ 511(a), 5104(a).
+A veteran dissatisfed with this decision may challenge it
+through several layers of direct review. As a general rule,
+the veteran may appeal within one year to the V A's Board
+of Veterans' Appeals (Board). §§ 7105(b)(1), 7104(a). If the
+Board also denies relief, the veteran may seek further review
+outside the agency. Such review was once limited to consti-
+tutional and certain statutory claims, but since 1988 Con-
+gress has generally allowed veterans 120 days to appeal any
+Board decision to the Court of Appeals for Veterans Claims
+(Veterans Court). See Henderson v. Shinseki, 562 U. S. 428,
+432, and n. 1 (2011); §§ 7252(a), 7261(a), 7266(a). A veteran
+dissatisfed with that court's decision may seek review of any
+legal issue in the Federal Circuit and ultimately in this
+Court. § 7292; 28 U. S. C. § 1254(1).
+After this direct appeal process, the benefits decision gen-
+erally becomes “final and conclusive and may not be re-
+viewed by any other official or by any court.” 38 U. S. C.
+§ 511(a); see § 7104(a). Still, the veteran enjoys a few limited
+options for seeking collateral review in exceptional circum-
+stances. E. g., § 5108(a) (supplemental claim based on new
+and relevant evidence); § 503(a) (discretionary relief based on
+administrative error); § 5110(g) (increase of benefits based on
+subsequent liberalizing legal change).
+This case concerns one such exception to finality: At any
+time, a veteran may ask the Board or regional office to revise
+a final benefits decision on grounds of “clear and unmistak-
+able error.” § 5109A (regional office); § 7111 (the Board); 38
+CFR §§ 3.105, 20.1400–20.1411 (2021). This form of collat-
+eral review was first adopted by regulation roughly 100
+years ago. Since at least 1928, the V A and its predecessor
+agencies have allowed revision of an otherwise final decision
+when “obviously warranted by a clear and unmistakable
+error.” Veterans' Bureau Reg. No. 187, pt. 1, § 7155 (1928);
+see 38 CFR § 3.105(a) (Cum. Supp. 1963) (“Previous determi-
+nations . . . will be accepted as correct in the absence of clear
+and unmistakable error”). In 1997, Congress codified this
+form of review in the statute we interpret today. 111 Stat.
+2271.
+B
+Kevin George joined the Marine Corps in 1975 after expe-
+riencing multiple schizophrenic episodes. He did not ini-
+tially disclose that history, and a medical examination noted
+no mental disorders at the time he entered service. But less
+than a week into training, George had another episode and
+was hospitalized. A few months later, the Navy's Central
+Physical Evaluation Board found that his schizophrenia made
+him unft for duty and was not aggravated by service. App.
+to Brief for Petitioner 12a–15a. George was then medi-
+cally discharged.
+Later that year, George applied for veterans' disability
+benefits based on his schizophrenia. A V A regional office
+denied his claim after concluding that his condition predated
+his military service and was not aggravated by it. The
+Board agreed and denied George's appeal in 1977. In so rul-
+ing, neither the regional office nor the Board expressly dis-
+cussed the V A's burden of proof under the presumption of
+sound condition.
+In 2014, George asked the Board to revise that final deci-
+sion on grounds of “clear and unmistakable error.” 38
+U. S. C. § 7111. In particular, he claimed that the Board
+erred by applying a later invalidated regulation to deny his
+claim for benefits without holding the V A to its full burden of
+proof to rebut the statutory presumption of sound condition.
+For more than 40 years, including George's time in service,
+a V A regulation provided that the agency could rebut the
+presumption simply by showing, according to a heightened
+burden of proof, that a disability predated service. See 26
+Fed. Reg. 1580 (1961); 38 CFR § 3.304(b) (1976). In 2003,
+however, the V A concluded that this regulation conficted
+with the statute, which it now understood to require an addi-
+tional showing (by the same burden of proof): that the veter-
+an's condition was not later aggravated by service. V A Op.
+Gen. Counsel Precedent (V A Op.) 3–2003 (July 16, 2003).
+The V A recognized that it seemed “illogical” to require an
+additional showing with “no obvious bearing upon the pre-
+sumed fact of whether the veteran was in sound condition
+when he or she entered service.” Id., at 8. But it ex-
+plained that the statutory text nonetheless “compel[led]”
+this reading. Ibid. Based on this about-face, the V A con-
+fessed error in a pending case applying the regulation, and
+the Federal Circuit agreed that this “difficult to parse” and
+“somewhat self-contradictory” statute rendered the regula-
+tion “incorrect.” Wagner v. Principi, 370 F. 3d 1089, 1093,
+1097 (2004). The V A ultimately amended the regulation to
+resolve the issue going forward. 70 Fed. Reg. 23027 (2005).
+The Board denied George's claim for collateral relief, and
+the Veterans Court affirmed. The Federal Circuit also af-
+firmed, concluding that the application of a later invalidated
+regulation does not fall into the narrow category of “clear
+and unmistakable error” permitting revision of a final deci-
+sion under 38 U. S. C. §§ 5109A and 7111. 991 F. 3d 1227
+(2021). We granted certiorari. 595 U. S. ––– (2022).
+II
+A
+This case turns on the meaning of the 1997 statute subject-
+ing a final veterans' benefits decision to collateral review on
+grounds of “clear and unmistakable error.” 111 Stat. 2271
+(38 U. S. C. §§ 5109A, 7111). Neither this statute nor any
+other defines this term—indeed, it appears nowhere else in
+the entire United States Code. The modifiers “clear” and
+“unmistakable” indicate that this is a narrow category ex-
+cluding some forms of error cognizable in other contexts.
+The statutory structure similarly suggests a narrow cate-
+gory because this form of review functions as a limited ex-
+ception to finality, in contrast to the broad provision of one
+direct appeal for “[a]ll questions” in a case. § 7104(a). But
+beyond those general contours, the statute itself does not
+identify the specific ways in which this category is narrower
+than garden-variety “error.”
+Fortunately, a robust regulatory backdrop flls in the de-
+tails. Where Congress employs a term of art “ ` “obviously
+transplanted from another legal source,” ' it ` “brings the old
+soil with it.” ' ” Taggart v. Lorenzen, 587 U. S. –––, –––
+(2019). That principle applies here. In 1997, Congress
+used an unusual term that had a long regulatory history in
+this very context. It enacted no new “definition” or other
+provision indicating any departure from the “same meaning”
+that the V A had long applied. Hall v. Hall, 584 U. S. 59,
+73 (2018). We therefore agree with the Federal Circuit
+that Congress “codif[ied] and adopt[ed] the [clear-and-unmis-
+takable-error] doctrine as it had developed under” prior
+agency practice. Cook v. Principi, 318 F. 3d 1334, 1344
+(2002) (en banc). That longstanding V A practice reveals
+several respects in which the clear-and-unmistakable cate-
+gory is a “very specific and rare kind of error” narrower than
+error simpliciter. 38 CFR § 20.1403(a).
+Most important for present purposes, the history reveals
+that this category of error does not encompass a subsequent
+“change in law . . . or a change in interpretation of law.” 38
+CFR § 3.105 (Cum. Supp. 1963). And for good reason: Dur-
+ing the many years when clear and unmistakable error was
+purely a creature of regulation, the governing statutes gen-
+erally did not allow “[n]ew or recently developed facts or
+changes in the law” to “provide a basis for revising a finally
+decided case.” Russell v. Principi, 3 Vet. App. 310, 313
+(1992) (en banc) (citing 38 U. S. C. §§ 5108, 7104). To stay
+within that statutory constraint, authorities dating back to
+1928 confirm that “[a] determination that there was a `clear
+and unmistakable error' must be based on the record and the
+law that existed at the time of the prior [VA] decision. ” 3
+Vet. App., at 314 (emphasis added); see 38 CFR § 20.1403(b)
+(similar); Veterans' Bureau Reg. No. 187, pt. 1, § 7155 (requir-
+ing “clear and unmistakable error shown by the evidence in
+fle at the time the prior decision was rendered”). So, for
+example, the V A's failure to apply an existing regulation to
+undisputed record evidence could constitute clear and unmis-
+takable error. E. g., Myler v. Derwinski, 1 Vet. App. 571,
+574–575 (1991). But a subsequent legal change could not,
+because “only the `law that existed at the time' of the prior
+adjudication . . . can be considered” in this posture. Damrel
+v. Brown, 6 Vet. App. 242, 246 (1994). Or as the Veterans
+Court summed up, shortly before the enactment of the 1997
+statute: A “new interpretation of law . . . from a case decided
+in 1993 could not possibly be the basis of [clear and unmistak-
+able] error in 1969,” as “a simple recitation of the time se-
+quence” should “make . . . clear.” Berger v. Brown, 10 Vet.
+App. 166, 170 (1997).
+The invalidation of a prior regulation constitutes a “change
+in interpretation of law” under historical agency practice.
+Drawing on decades of history, the V A succinctly explained
+nearly 30 years ago that review for clear and unmistakable
+error provides “no authority . . . for retroactive payment of
+benefits when,” as in this case, a court later “invalidates a
+V A interpretation or regulation” after a benefits decision be-
+comes final. V A Op. 9–94, ¶6, p. 5 (Mar. 25, 1994). Under
+this practice and the statute codifying it, the Board is instead
+simply “performing its assigned task when it applies a regu-
+lation as promulgated by the [V A],” because that regulation
+legally binds agency adjudicators. V A Op. 25–95, ¶4, p. 2
+(Dec. 6, 1995); see 38 U. S. C. § 7104(c) (“The Board shall be
+bound in its decisions by the regulations of the Depart-
+ment”). To be sure, when a previously applied regulation is
+later invalidated, relief may be warranted for “error” in a
+case still on direct appeal. E. g., Wagner, 370 F. 3d, at 1092,
+1097. But on collateral review of a final decision, the more
+limited category of “[c]lear and unmistakable error does not
+include the otherwise correct application of a statute or reg-
+ulation where, subsequent to the Board decision challenged,
+there has been a change in the interpretation of the statute
+or regulation.” 38 CFR § 20.1403(e). 1 The applicability of
+this principle does not depend on the reason why the agency
+changed course: A change based on the conclusion that a prior
+interpretation was wrong is still a changed interpretation.
+Defined by this regulatory history, the statutory term
+“clear and unmistakable error” does not encompass a claim
+like George's. When the Board decided George's appeal in
+1977, it followed the then-applicable 1961 regulation, as it
+was statutorily obligated to do. See 38 U. S. C. § 7104(c).
+Decades later, the V A and the Federal Circuit rejected that
+1 As should be clear from our explanation, the principal dissent is wrong
+to attribute to the Court the view that an agency decision in these circum-
+stances is “infected by no error of any kind.” Post, at 759 (opinion of
+Gorsuch, J.). The issue in this case is the distinction between “errors”
+cognizable on direct appeal and clear and unmistakable errors cognizable
+on collateral review. Throughout his opinion, Justice Gorsuch elides
+that distinction.
+regulation based on a new interpretation of the “sound condi-
+tion” provision. We express no view on the merits of that
+change in interpretation, which are not before us. But be-
+cause it is a change, it cannot support a claim of clear and
+unmistakable error in the Board's routine 1977 application of
+the prior regulation. Put differently, the correct application
+of a binding regulation does not constitute “clear and unmis-
+takable error” at the time a decision is rendered, even if that
+regulation is subsequently invalidated.
+B
+1
+George offers several responses. He generally concedes
+the premise that the 1997 statute codified the longstanding
+regulatory practice defining “clear and unmistakable error.”
+He takes issue primarily with the conclusion that this prac-
+tice forbids his claim. In George's view, the V A has “dis-
+torted” its own history by glossing over a handful of “pre-
+legislation Veterans Court opinions” that he claims “point in
+[his] direction.” Brief for Petitioner 26, 41. But across a
+century of review for clear and unmistakable error, George
+can muster only one case sustaining a claim that arguably
+resembles his. See Look v. Derwinski, 2 Vet. App. 157
+(1992) (approving collateral relief on two grounds, including
+a later invalidated regulation, without discussing the change-
+in-interpretation principle). And even that case is ambigu-
+ous, as portions of the opinion may instead “suggest that
+the [subsequent] invalidation of regulations does not have
+retroactive effect in `finally' disallowed claims.” V A Op. 9–
+94, ¶5, p. 4 (emphasis added) (citing Look, 2 Vet. App., at
+164). Regardless, the case remains an outlier that “no court
+has cited” on this point “[i]n the 30 years since,” as the Gov-
+ernment notes without rebuttal from George. Brief for Re-
+spondent 38.
+This is thin stuff. One uncertain outlier does not come
+close to moving the mountain of contrary regulatory author-
+ity. See supra, at 746–748. When we say that a statute
+adopts a term of art, we mean that it captures “the state of
+[a] body of law,” not every errant decision of arguable rele-
+vance. Federal Republic of Germany v. Philipp, 592 U. S.
+169, 180 (2021). Even if George could pluck from the crowd
+a few stray decisions pointing his way, that would not show
+a “ `settled' meaning” that we can infer “Congress had . . .
+in mind when it enacted” this statute. Return Mail, Inc.
+v. Postal Service , 587 U. S. –––, ––– (2019). Instead, the
+mainstream of agency practice settles that a clear-and -
+unmistakable-error claim cannot rest on a subsequent change
+in interpretation.
+George alternatively argues that the V A erred in applying
+this principle to his situation. In his view, it is wrong to
+describe a later decision invalidating a regulation as a
+“change in interpretation of law.” But we think that is a
+perfectly natural way to characterize a decision announcing
+a new reading of a statute—much as the V A and Federal
+Circuit did in the decisions on which George now relies. V A
+Op. 3–2003, ¶¶3, 8, pp. 2, 5 (adopting a new “interpretation”
+to replace the prior “interpretation reflected in V A's regula-
+tions”); Wagner, 370 F. 3d, at 1092 (discussing that “change in
+agency interpretation”). We have occasionally used similar
+language ourselves. E. g., Gonzalez v. Crosby, 545 U. S. 524,
+536–537 (2005) (referring to “[t]he change in the law worked
+by” our precedent “interpret[ing] the AEDPA statute of lim-
+itations”). As the Federal Circuit has explained, a lack of
+“accuracy” in a prior statutory interpretation “does not ne-
+gate the fact that” it is an “initial interpretation.” Jordan
+v. Nicholson, 401 F. 3d 1296, 1298 (2005). In short, a misin-
+terpretation is still an interpretation, and a correction of that
+interpretation is a change. So the V A's application of the
+change-in-interpretation label to claims like George's hardly
+reflects an “atypical” use of language, despite his arguments
+to the contrary. Brief for Petitioner 18.
+Ordinary language aside, George tries to bolster his posi-
+tion with analogies to precedent from other contexts. He
+invokes an array of cases explaining that a judicial decision
+states what the statute “ always meant,” Rivers v. Roadway
+Express, Inc., 511 U. S. 298, 313, n. 12 (1994), and an unau-
+thorized regulation is a “ `nullity,' ” Dixon v. United States,
+381 U. S. 68, 74 (1965). True enough. Those general princi-
+ples, however, do not dispose of the issue before us. Assume
+George is right that the “sound condition” provision always
+required the V A to show that the veteran's condition was
+not later aggravated by service and that the 1961 regulation
+conficted with that requirement. We would still have to de-
+cide whether the Board's application of that binding regula-
+tion is the kind of “clear and unmistakable error” for which
+collateral relief is available under 38 U. S. C. §§ 5109A and
+7111. For the reasons we have explained, it is not.
+And while George suggests otherwise, there is nothing in-
+congruous about a system in which this kind of error—the
+application of a since-rejected statutory interpretation—can-
+not be remedied after final judgment. On the contrary, and
+as the lower courts have explained, the V A's longstanding
+approach is consistent with the general rule that “[t]he new
+interpretation of a statute can only retroactively [a]effect deci-
+sions still open on direct review.” Disabled American Vet-
+erans v. Gober, 234 F. 3d 682, 698 (CA Fed. 2000) (citing
+Harper v. Virginia Dept. of Taxation, 509 U. S. 86, 97
+(1993)); see also Smith v. West, 11 Vet. App. 134, 138 (1998)
+(“ `New legal principles, even when applied retroactively, do
+not apply to cases already closed' ” (quoting Reynoldsville
+Casket Co. v. Hyde, 514 U. S. 749, 758 (1995); alteration omit-
+ted)). That limitation serves important interests in finality,
+preventing narrow avenues for collateral review from bal-
+looning into “substitute[s] for ordinary error correction
+through appeal.” Harrington v. Richter, 562 U. S. 86, 102–
+103 (2011); see also United Student Aid Funds, Inc. v. Es-
+pinosa, 559 U. S. 260, 270 (2010) (an “exception to finality”
+should not be read to “swallow the rule”). So the V A's ap-
+proach to collateral relief is not unusual. Here as elsewhere,
+litigants must overcome a “stron[g]” “presumption of valid-
+ity” when “otherwise final decisions . . . are collaterally at-
+tacked.” Fugo v. Brown, 6 Vet. App. 40, 44 (1993). 2
+2
+George also leans on what he describes as “the plain mean-
+ing of th[e] words” clear and unmistakable error. Reply
+Brief 2. As he puts it: “Looking at the 1977 Board's decision
+today, the legal error is clear. It is unmistakable.” Id.,
+at 1. (This is the thrust of Justice Gorsuch's position too.
+See post, at 758–760 (dissenting opinion).) We share the
+Government's doubt about how natural it is to say that the
+Board “commit[ted] `clear and unmistakable error' by faith-
+fully applying a V A regulation that was found to be invalid
+more than 25 years later.” Brief for Respondent 33. More
+fundamentally, though, this argument is inconsistent with
+George's well-taken concessions elsewhere that “the [clear-
+and-unmistakable-error] statutes track preexisting Veterans
+Court case law” and other agency practice defining a “deeply
+rooted” regulatory standard. Reply Brief 8; Brief for Peti-
+tioner 6. The real question is not what might be called clear
+and unmistakable error in the abstract, but what was the
+“prevailing understanding” of this term of art “under the law
+that Congress looked to when codifying” it. Reply Brief 2,
+4; see West Virginia Univ. Hospitals, Inc. v. Casey, 499 U. S.
+83, 92, n. 5 (1991) (terms of art “depart from ordinary mean-
+ing”). To the extent they diverge, the historical meaning
+controls.
+2 The principal dissent claims that this conclusion conflicts with the gov-
+erning statute's present-tense statement that a V A decision “ ` is subject'
+to later `revision' ” on collateral review. Post, at 760 (opinion of Gorsuch,
+J.). But it would make little sense for Congress to pass a statute stating
+that a decision “was” subject to revision. The statute's use of the present
+tense refers to the time at which relief may be sought. It says nothing
+about the scope of the category of clear and unmistakable errors meriting
+relief, as fxed by the regulatory history. So we think there are good
+reasons why neither George nor any of his amici makes this argument.

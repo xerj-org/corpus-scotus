@@ -1,0 +1,48 @@
+Ciminelli v. United States — No. 21-1170 — October Term 2022 — decided 5/11/23 — Alito, J., concurring
+Citation: 598 U.S. 306
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r15_d1o2.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+317
+Cite as: 598 U. S. 306 (2023)
+Alito, J., concurring
+and apply them to the elements of a different wire fraud
+theory in the first instance. In other words, the Govern-
+ment asks us to assume not only the function of a court of
+first view, but also of a jury. That is not our role. See, e. g.,
+McCormick v. United States, 500 U. S. 257, 270–271, n. 8
+(1991) (“Appellate courts are not permitted to affirm convic-
+tions on any theory they please simply because the facts nec-
+essary to support the theory were presented to the jury”);
+Chiarella v. United States, 445 U. S. 222, 236 (1980). Ac-
+cordingly, we decline the Government's request to affirm
+Ciminelli's convictions on alternative grounds.
+III
+The right-to-control theory is invalid under the federal
+fraud statutes. We, therefore, reverse the judgment of the
+Court of Appeals and remand the case for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+Justice Alito, concurring.
+The opinion of the Court correctly answers the sole ques-
+tion posed to us: whether the right-to-control theory sup-
+ports liability under the federal wire fraud statute. The
+jury instructions embody that theory, and therefore this
+error, unless harmless, requires the reversal of the judgment
+below. I do not understand the Court's opinion to address
+fact-specific issues on remedy outside the question pre-
+sented, including: (1) petitioner's ability to challenge the in-
+dictment at this stage of proceedings, see Fed. Rule Crim.
+Proc. 12(b)(3)(B); (2) the indictment's sufficiency, see United
+States v. Miller, 471 U. S. 130, 134–135 (1985) (variance from
+indictment did not make indictment insufficient); (3) the ap-
+plicability of harmless error to particular invocations of the
+right-to-control theory during trial, see Neder v. United
+States, 527 U. S. 1, 15 (1999) (omission of element in jury
+instructions subject to harmless error); and (4) the Govern-
+318
+ CIMINELLI v. UNITED STATES
+Alito, J., concurring
+ment's ability to retry petitioner on the theory that he con-
+spired to obtain, and did in fact obtain, by fraud, a traditional
+form of property, viz., valuable contracts. On this under-
+standing, I join the Court's opinion.

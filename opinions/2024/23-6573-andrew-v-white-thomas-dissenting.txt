@@ -1,0 +1,699 @@
+Andrew v. White — No. 23-6573 — October Term 2024 — decided 1/21/25 — Thomas, J., dissenting
+Citation: 604 U.S. 86
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r08_db8e.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+97Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+see, 501 U. S. 808, 825 (1991); Romano v. Oklahoma, 512 U. S.
+1, 12 (1994); cf
+. Rideau v. Louisiana, 373 U. S. 723, 726 (1963).
+I express no view on whether that very high standard is
+met here.
+Justice Thomas, with whomJustice Gorsuchjoins,
+dissenting.
+Our precedent under the Antiterrorism and Effective
+Death Penalty Act of 1996 (AEDPA) establishes several
+rules for identifying clearly established federal law. 28
+U. S. C. § 2254(d)(1). We have instructed lower courts to
+avoid framing our precedents at too high a level of general-
+ity; to carefully distinguish holdings from dicta; and to re-
+frain from treating reserved questions as though they have
+already been answered. The Tenth Circuit followed these
+rules. The Court today does not. Instead, it summarily
+vacates the opinion below for failing to elevate to “clearly
+established” law the broadest possible interpretation of a
+one-sentence aside inPaynev.Tennessee, 501 U. S. 808
+(1991). In doing so, the Court blows pastEstellev.Mc-
+Guire, 502 U. S. 62 (1991), which, months afterPayne, re-
+served the very question that the Court saysPaynere-
+solved. And, worst of all, it redeﬁnes “clearly established”
+law to include debatable interpretations of our precedent.
+It is this Court, and not the Tenth Circuit, that has deviated
+from settled law. I respectfully dissent.
+I
+The Court’s errors begin with its recitation of the facts.
+Contrary to the majority’s insinuations, the State presented
+“overwhelming evidence” that Andrew participated in the
+murder of her husband. SeeAndrewv.State, 2007 OK CR
+23, ¶56, 164 P. 3d 176, 192; accord,id., at 207 (A. Johnson, J.,
+concurring in result in part and dissenting in part). In fact,
+the State presented an “unusually strong evidentiary case,
+which leaves little or no doubt that [Andrew] is guilty of the
+
+Thomas, J
+., dissenting
+crimes charged, crimes committed after methodical plan-
+ning.” Id
+., at 206 (Lumpkin, P. J., concurring in result).
+The Court inaccurately portrays the State’s evidence, the
+prosecution’s closing arguments, and the reasoning of the
+Oklahoma Court of Criminal Appeals (OCCA).
+A
+Brenda Andrew (Andrew) married Robert Andrew (Rob)
+in 1984. In February 2000, Rob purchased an $800,000 life
+insurance policy through agent Jim Pavatt, with Andrew as
+the beneﬁciary. The Andrews and Pavatt attended the
+same church. Pavatt and Andrew both served as Sunday
+school teachers. But, by August 2001, they had begun an
+affair. The affair caused the Andrews’ already strained
+marriage to reach a breaking point. Around late September
+Andrew initiated divorce proceedings and told Rob to move
+out of the house.
+One morning in October, Rob discovered that someone had
+cut the brake lines in his car. Several hours later, he re-
+ceived phone calls from two unknown callers—one of whom
+turned out to be Pavatt’s adult daughter, Janna Larson—
+falsely claiming that Andrew was in the hospital and ur-
+gently needed him. Phone records reveal that Pavatt and
+Andrew exchanged 82 phone calls that day and more than 50
+calls the next day. The next day, Andrew told Rob she had
+read in the newspaper about his brake lines being cut, but
+no such news story existed. And, around this time, Pavatt
+told Larson that Andrew had asked him to kill Rob. Pavatt
+later threatened to kill her if she ever revealed this
+information.
+After the brake-line incident, Rob sought to remove An-
+drew as the beneﬁciary of his life insurance policy, explaining
+to another insurance agent that he thought Pavatt and An-
+drew were trying to kill him. But, Andrew and Pavatt re-
+sorted to fraud to try to prevent this from happening, forging
+Rob’s signature on a form transferring ownership of the pol-
+
+99Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+icy to Andrew. The policy then became a serious point of
+contention in
+the divorce proceedings, even though Rob was
+only 38 years old and healthy.
+The Andrews had two young children who, after their sep-
+aration, continued to live with Andrew in the former family
+home. Rob would sometimes meet them outside the house
+and take them for visitation.
+When Rob came to pick up the children for the Thanksgiv-
+ing holiday, however, Andrew asked him to come into the
+garage to help her light the pilot light of her furnace. As
+he started to do so, someone pointed a 16-gauge shotgun at
+him from across the garage. Seeing this, Rob turned and
+grabbed a trash bag ﬁlled with aluminum cans, apparently in
+a desperate attempt to protect himself. The perpetrator
+shot him through the bag. Reloading the shotgun, the per-
+petrator (or an accomplice) then moved within three feet of
+Rob, and shot him a second time as he lay on the ﬂoor. An-
+drew was also shot with a .22-caliber weapon, but suffered
+only a superﬁcial wound on her arm.
+Andrew called 911 after the shootings, claiming that two
+masked men had come into the garage and attacked her and
+Rob. She related on the call that Rob was still conscious
+and trying to speak. By the time emergency responders ar-
+rived, however, he was dead. During the shootings, the
+children were in the master bedroom watching television
+with the volume turned up high, unaware of what was hap-
+pening in the garage. An ambulance then took Andrew to
+the hospital, where witnesses described her demeanor as un-
+usually calm.
+Police discovered substantial evidence linking Andrew and
+Pavatt to the murder. Rob owned a 16-gauge shotgun, but
+had told friends that Andrew refused to let him take it with
+him when he moved out. One witness testiﬁed that, eight
+days before the murder, he had seen Andrew in a rural area
+commonly used for target practice. The witness also said
+that later he found 16-gauge shotgun shells at the site. Pa-
+
+Thomas, J
+., dissenting
+vatt owned a .22-caliber handgun, which he had purchased
+about a week before
+the murder. The day of the murder, he
+borrowed Larson’s car, claiming he would get it serviced for
+her. When he returned it the following day, she noticed the
+car had not been serviced. And, she found a .22-caliber shell
+on the ﬂoorboard of her car.
+Forensic evidence also undermined Andrew’s account that
+she had been shot at a distance. Powder burns on her
+clothes and body revealed the shot had been ﬁred within two
+inches of her arm. An expert witness later testiﬁed that
+Andrew’s injury—a superﬁcial, close-range gunshot wound—
+was staged to make it look as if she had been a victim of the
+attack and thereby avoid suspicion.
+The Andrews’ neighbors were out of town on the day of
+the murder. When they returned, they found suspicious
+items in their home and contacted the police. Police discov-
+ered that someone had left a 16-gauge shotgun shell and sev-
+eral .22-caliber bullets in the home, both the same brand as
+those used in Rob’s murder. There was no evidence of a
+break-in, but Andrew had a key to their home. Prosecutors
+suggested that, after the shooting, Pavatt hid in the home
+until police had left the crime scene.
+Rather than attend her husband’s funeral, Andrew trav-
+eled with Pavatt and her children to Mexico. She appar-
+ently had no plans to return. Before the trip, Andrew tried
+to transfer funds from her account to Larson’s, so that Lar-
+son could wire money to her and Pavatt. The pair also
+asked Larson to help them forge Rob’s signature on a docu-
+ment granting Andrew permission to take the children
+abroad. Andrew abandoned her car in an apartment com-
+plex before leaving. She also stopped making payments on
+her home. Pavatt researched traveling to Argentina after
+hearing that Argentina did not extradite.
+Larson, however, cooperated with the FBI and refused to
+wire Pavatt or Andrew any money, despite their repeated
+requests. When they ran out of money three months later,
+
+101Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+they returned to the United States and were immediately
+arrested.
+While
+in Mexico, Pavatt wrote a letter addressed to An-
+drew’s daughter claiming that he and an unnamed “friend”
+had killed Rob, and that Andrew had nothing to do with it.
+Ante, at 88. He stated he did so because Andrew had told
+him four days before the murder that she planned to beg
+Rob to take her back after Thanksgiving. This was a pecu-
+liar claim, given that hours before the murder Pavatt had
+moved his washer and dryer into her home. And, far from
+adopting a conciliatory attitude toward Rob, the night before
+the murder Andrew had called a friend just to say, “I hate
+him. I hate him. I hate him.” Tr. 2662–2663 (July 1,
+2004). The friend recalled that the comment “made the
+hairs on the back of my neck stand up. She hated that
+man.”Id., at 2664.
+B
+A jury convicted Andrew of capital murder, and she was
+sentenced to death. So too was Pavatt in a separate trial.
+Sex and marriage were unavoidable issues at Andrew’s trial,
+and the State introduced a variety of evidence about her sex-
+ual behavior. On direct appeal, Andrew challenged some of
+the sex-based evidence introduced during the guilt phase of
+her trial, arguing that it was irrelevant and unduly prejudi-
+cial.1 Given that “this trial was primarily about the motive
+1 As the Court notes, in federal habeas proceedings, Andrew has “reiter-
+ated her claim that the admission of this evidence” rendered both her guilt
+and penalty phases fundamentally unfair.Ante,at 91. But, Andrew also
+objects now to the admission of certain evidence from the penalty phase,
+as well as items of guilt-phase evidence she did not challenge on direct
+appeal. These challenges fail for lack of exhaustion. See 28 U. S. C.
+§ 2254(b)(1)(A). To preserve an evidentiary claim, an Oklahoma defendant
+must raise a speciﬁc objection when the evidence in question is admitted.
+Stemplev.State, 2000 OK CR 4, ¶32, 994 P. 2d 61, 68–69. The OCCA will
+review on direct appeal only those objections brought to its attention.
+Stoufferv.State, 2006 OK CR 46, ¶126, 147 P. 3d 245, 270. Because An-
+drew did not raise these new objections in her direct appeal, she has not
+
+Thomas, J
+., dissenting
+and intent of [Andrew] to kill her husband with the aid of
+Pavatt,” the OCCA
+held that much of this evidence, particu-
+larly concerning her relationship with Pavatt, was not just
+admissible, but “highly relevant” and “probative.” Andrew,
+164 P. 3d, at 194. But, not all of it was so. The OCCA rec-
+ognized that some evidence, like the sort of outﬁts Andrew
+wore to dinner outings, was not relevant. Id., at 192.
+Given “the overwhelming evidence in this case,” however, it
+determined that the introduction of the irrelevant evidence
+“was harmless.” Ibid.
+The Court suggests that the OCCA permitted evidence
+of Andrew’s two prior affairs simply because it showed she
+had a penchant for adultery. See ante, at 89–90. In reality,
+the OCCA concluded that this evidence helped to prove “mo-
+tive and intent.” Andrew, 164 P. 3d, at 192. Andrew
+had “shared with both of these men her hatred for Rob An-
+drew and her wish that he was dead.” Ibid. Evidence that
+Andrew had “a close personal relationship” with these
+men gave credence to their testimony that she had re-
+vealed to them these “intimate details of [her] marriage.”
+Ibid.2
+The Court also insinuates that there was something im-
+proper about the State’s introduction of evidence on An-
+drew’s “failings as a mother.” Ante, at 87. But, it conven-
+iently omits the context. Andrew asserted that she was a
+“good mother” as part of her defense in both the guilt and
+presented them in state court “in accordance with state procedures,” and
+so has not exhausted them.Shinnv.Martinez Ramirez, 596 U. S. 366,
+378 (2022). Because the Court today does not address exhaustion, the
+Tenth Circuit is free to do so on remand.
+2 Faced with this reasonable holding by the OCCA, the majority insists
+that Andrew’s claim concerned certain gratuitous details about these af-
+fairs rather than the affairs’ existence.Ante,at 90, n. 2. The truth is
+just the opposite. Andrew’s sole argument to the OCCA was that the
+fact “[t]hat [she] had once had affairs with these men provided no evidence
+of her motive” or “intent” or any other relevant fact. App. to Reply Brief
+62a–64a.
+
+103Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+penalty phases of her trial. Tr. 62–63 (June 17, 2004); Tr.
+4179 (July
+14, 2004); Andrew, 164 P. 3d, at 205. In present-
+ing evidence to the contrary, the State was simplyrebutting
+a point thatAndrewhad placed in issue, as it clearly is enti-
+tled to do. See 1 R. Mosteller et al., McCormick on Evidence
+§ 191, p. 1188 (8th ed. 2020) (“[O]nce the defendant gives evi-
+dence of pertinent character traits to show that he is not
+guilty, his claim of possession of these traits . . . is open to
+rebuttal”).
+During its closing argument, the prosecution did not rely
+on any of the sexual evidence that the OCCA would later ﬁnd
+irrelevant.3 The prosecution’s reference to the underwear
+Andrew brought to Mexico, seeante,at 88, is no exception.
+The OCCA recognized that this evidence bore on Pavatt’s
+and Andrew’s “intentions in ﬂeeing to Mexico,” a key issue
+in the case.Andrew, 164 P. 3d, at 194.
+Finally, the Court is wrong to imply that the prosecution
+drew any kind of “contras[t]” between Rob and Andrew in
+terms of religious commitment.Ante,at 89. The prosecu-
+tion mentioned Rob’s religious faith to emphasize that the
+world lost “a ﬁne human being” when Rob was brutally mur-
+dered. Tr. 4401–4402 (July 14, 2004). But, the prosecution
+never cast any sort of religious judgment against Andrew.
+3 Andrew’s brieﬁng before this Court alleges that the prosecution called
+her a “ ‘slut puppy’ ” who is not a “ ‘woman of God’ ” during its guilt-stage
+closing argument. Pet. for Cert. i, 8, 11, 14 (quoting Tr. 4125 (July
+12, 2004)); Pet. for Cert. Reply 5, 13 (same). This accusation—which An-
+drew did not make until almost 20 years after her trial—is entirely false.
+The prosecutor was not referring to Andrew. Instead, he was recounting
+an abusive phone callfrom Andrewto Rob, during which Andrew base-
+lessly “accused [Rob] of having” an affair with a “slut puppy,” before tell-
+ing him that he “can’t be a man of God and [Rob’s supposed affair partner]
+can’t be a woman of God because she’s sleeping with a married man and
+even if you’re single that’s adultery, what a slut puppy she must be.” Tr.
+4125. For all its efforts to portray Andrew sympathetically, even the ma-
+jority stops short of endorsing her accusation. Seeante, at
+89, n. 1.
+
+Thomas, J
+., dissenting
+Tellingly, the Court is unable to cite even one example of the
+prosecution condemning
+Andrew in religious terms.
+The record makes clear that it was the defense , not the
+prosecution, that repeatedly appealed to the jury’s religious
+sentiments at sentencing. For example, the defense called
+a pastor as a witness, who testiﬁed to the importance of
+“mercy” as a “biblical” value. Id., at 4333. And, in its clos-
+ing, the defense repeatedly quoted the Bible; said that, if Rob
+could speak to the jury, he would ask them to “forgive” An-
+drew as “Jesus Christ on the cross” forgave His killers; and
+concluded with a prayer. Id., at 4429–4430, 4471–4473.
+The prosecution simply asked the jury during rebuttal to
+ignore the defense’s attempts to “guilt trip” them. Id.,
+at 4480.
+II
+The Court’s legal analysis fares no better. Under
+AEDPA, Andrew may obtain federal habeas relief only if the
+OCCA’s resolution of her due process claim “was contrary to,
+or involved an unreasonable application of, clearly estab-
+lished Federal law, as determined by” the holdings of this
+Court. 28 U. S. C. § 2254(d)(1); see Lockyer v. Andrade, 538
+U. S. 63, 71 (2003). This “standard is,” and “was meant to
+be,” “difﬁcult to meet.” Harrington v. Richter, 562 U. S. 86,
+102 (2011). It forecloses relief unless all “fairminded ju-
+rists” would agree that the OCCA’s “decision conﬂicts with
+this Court’s precedents.” Ibid.
+The Court today asserts that the Due Process Clause for-
+bids the admission of evidence so unduly prejudicial as to
+render a defendant’s trial fundamentally unfair, and holds
+that the Tenth Circuit erred in failing to recognize this rule
+as clearly established under our precedents. In so holding,
+the Court commits the error of “ ‘framing our precedents at’ ”
+too “ ‘high [a] level of generality.’ ” Lopez v. Smith, 574 U. S.
+1, 6 (2014) (per curiam) (quotingNevadav.Jackson, 569
+U. S. 505, 512 (2013) (per curiam)). And, even setting that
+
+105Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+aside, this reading of our precedents is one with which fair-
+minded jurists
+could easily (and justiﬁably) disagree.
+A
+“[H]oldings that speak only at a high level of generality”
+“cannot supply a ground for relief” under AEDPA.Brown
+v.Davenport, 596 U. S. 118, 136 (2022). We have repeatedly
+cautioned lower courts against “framing our precedents” too
+generally.Lopez, 574 U. S., at 6 (internal quotation marks
+omitted); see,e.g.,Woodsv.Donald, 575 U. S. 312, 318–319
+(2015) (per curiam);Whitev.Woodall, 572 U. S. 415, 426
+(2014);Nevada, 569 U. S., at 512;Harrington, 562 U. S., at
+101;Knowlesv.Mirzayance, 556 U. S. 111, 122 (2009). We
+have instead required courts to ask whether our precedents
+“establish clearlythe speciﬁc rule[the prisoner] needs.”
+Lopez, 574 U. S., at 6 (emphasis added). The Tenth Circuit
+heeded our repeated warnings. The majority disregards
+them.
+Payne“h[e]ld” that “the Eighth Amendment erects no
+per sebar” to “the admission of victim impact evidence” in
+capital sentencing proceedings. 501 U. S., at 827. But, the
+Court included a caveat: “In the event that evidence is intro-
+duced that is so unduly prejudicial that it renders the trial
+fundamentally unfair, the Due Process Clause of the Four-
+teenth Amendment provides a mechanism for relief.”Id., at
+825. Signiﬁcantly, that caveat did not apply inPayneitself.
+There, as in “the majority of cases,” the “victim impact evi-
+dence serve[d] entirely legitimate purposes.”Ibid.
+The Tenth Circuit correctly rejected Andrew’s claim that
+Payne’s caveat clearly established that the admission ofany
+evidence so prejudicial as to render a trial fundamentally
+unfair would violate due process. It held thatPayne’s brief
+discussion of due process only “appl[ied] to scenarios in
+which . . . victim impact statements” are “unfairly prejudi-
+cial.” 62 F. 4th 1299, 1314 (2023) (internal quotation marks
+omitted).
+
+Thomas, J
+., dissenting
+Nevertheless, the Court today vacates the Tenth Circuit’s
+decision, mark i
+ng the ﬁrst time it has ever summarily set
+aside a lower court decision for failing to ﬁnd that a legal
+rule is clearly established under AEDPA. Yet, the Court
+does not identify a speciﬁc on-point holding from Payne—or
+any other decision—that the Tenth Circuit overlooked.
+Instead, it faults the Tenth Circuit for failing to distill a
+“[g]eneral legal principl[e]” about fairness from Payne’s one-
+sentence due process caveat. Ante, at 94. In the process,
+the Court does not once mention, much less distinguish, our
+many precedents admonishing lower courts not to deﬁne
+clearly established law too abstractly.
+This speciﬁcity requirement serves an important function.
+Deﬁning clearly established law at an overly high level of
+generality makes it virtually impossible to ﬁnd an unreason-
+able application warranting relief. See Brown, 596 U. S., at
+136. It “is not ‘an unreasonable application of’ ” a more gen-
+eral rule “for a state court to decline to apply a speciﬁc legal
+rule that has not been squarely established by this Court.”
+Knowles, 556 U. S., at 122. “[I]f a habeas court must extend
+a rationale before it can apply to the facts at hand, then by
+deﬁnition the rationale was not clearly established at the
+time of the state-court decision.” White, 572 U. S., at 426
+(internal quotation marks omitted). When a legal rule is
+deﬁned at too high a level of generality, it becomes impossi-
+ble to apply it to the facts without articulating subsidiary
+legal principles that are not themselves clearly established,
+leaving no principled basis for granting relief under § 2254(d).
+To the extent some courts nonetheless grant relief based
+on an overly general principle, they defy AEDPA. As we
+have explained, when courts use “a high level of generality”
+to “transform even the most imaginative extension of case
+law into ‘clearly established Federal law,’ ” they wrongly per-
+form ordinary error correction under the guise of applying
+§ 2254(d). Nevada, 569 U. S., at 512. Thus, at best, today’s
+decision will simply create an extra, unnecessary step judges
+
+107Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+must perform before they can deny a habeas claim that is
+doomed to fai l.
+At worst, it will confuse lower courts into
+misapplying AEDPA’s standard of review.
+Consider Andrew’s case. On remand, if the Tenth Circuit
+properly applies AEDPA, it still will ﬁnd that the state court
+reasonably applied the principle the Court has identiﬁed, no
+matter what it thinks of the speciﬁc facts of Andrew’s trial.
+Payne addressed the use of victim-impact evidence at the
+penalty phase of a capital trial. 501 U. S., at 824–825. An-
+drew challenges the admission of evidence from her guilt
+phase, as well as non-victim-impact evidence from her pen-
+alty phase. “[I]t is not uncommon for a constitutional rule
+to apply somewhat differently at the penalty phase than it
+does at the guilt phase.” White, 572 U. S., at 421. And, a
+fairminded jurist could believe that victim-impact evidence
+raises unique due process concerns; otherwise, the speciﬁc
+question whether victim-impact evidence categorically vio-
+lates the Eighth Amendment would never have arisen. So,
+it would be impossible for the Tenth Circuit to grant Andrew
+relief without impermissibly “extend[ing]” Payne’s “ration-
+ale.” Id., at 426 (internal quotation marks omitted).
+Andrew’s claim also cannot survive on remand because
+Payne’s lone sentence on due process does not establish a
+test for determining when a trial is so infected by prejudicial
+evidence as to be fundamentally unfair. It does not identify
+what factors a court should consider, how to weigh them, or
+what the gap is between, say, a garden-variety Federal Rule
+of Evidence 403 error and a fundamentally unfair trial. To
+consider the speciﬁc facts of Andrew’s trial, the Tenth Circuit
+would need to decide these matters for itself. But it would
+then by deﬁnition be doing more than applying clearly estab-
+lished law. See Knowles, 556 U. S., at 122.
+The Court defends its reliance on a broadly deﬁned rule of
+law by citing Lockyer, 538 U. S., at 73, which recognized as
+clearly established the general principle that grossly dispro-
+portionate sentences violate the Eighth Amendment.Ante,
+
+Thomas, J
+., dissenting
+at 94–95. But, in Lockyer the Court denied relief, so it did
+not carefully
+consider the appropriate level of generality at
+which to deﬁne clearly established law. Indeed, it denied
+relief precisely because it had identiﬁed a “broad” legal prin-
+ciple whose “precise contours” were “unclear.” 538 U. S., at
+76–77 (internal quotation marks omitted). Lockyer also was
+an early AEDPA decision. In our many subsequent deci-
+sions, we have come to appreciate the need to ask whether
+our precedents “establish clearlythe speciﬁc rule[the pris-
+oner] needs.”Lopez, 574 U. S., at 6 (emphasis added).
+“[H]oldings that speak only at a high level of generality”
+cannot “supply a ground for relief” under AEDPA.Brown,
+596 U. S., at 136.
+In an effort to show that remand will not be futile, the
+Court observes that clearly established law can apply to
+“ ‘ “new factual permutations.” ’ ”Ante,at 95 (quoting
+White, 572 U. S., at 427). That is true, so long as one also
+keeps in mindWhite’s admonition that AEDPA “does not
+require state courts toextend[our] precedent” to any argua-
+bly distinct context, as would be necessary to grant Andrew
+relief.Id., at 426. The Court attempts to escapeWhite’s
+strict limitation by invokingTaylorv.Riojas, 592 U. S. 7
+(2020) (per curiam), to suggest that a “ ‘general constitu-
+tional rule’ ” can be a basis for relief in an “ ‘obvious’ ” case.
+Ante,at 95. But, the majority omits thatTayloris a quali-
+ﬁed immunity decision, rendering it utterly inapposite. Al-
+though both qualiﬁed immunity and AEDPA impose de-
+manding standards based on “clearly established law,” the
+two are meaningfully different. A plaintiff overcomes qual-
+iﬁed immunity by identifying case law “ﬁnding a [constitu-
+tional] violation under similar circumstances,”exceptthat in
+“an obvious case . . . a body of relevant case law is not
+needed.”District of Columbiav.Wesby, 583 U. S. 48, 65
+(2018) (internal quotation marks omitted). InTaylor, this
+Court found that the obviousness exception applied. 592
+U. S., at 8–9. AEDPA, by contrast, permits relief only when
+
+109Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+a state-court decision undeniably “conﬂicts with this Court’s
+precedents.” Harr
+ington, 562 U. S., at 102.
+Regardless of what we think of “the merits of the [due
+process] principle” that Andrew asserts, it does not warrant
+relief under AEDPA absent a prior Supreme Court holding
+that the principle “applies to the circumstances presented in
+this case.” Woods, 575 U. S., at 319 (internal quotation
+marks omitted). There is no such holding here, and the
+Tenth Circuit was right to insist on one.
+B
+Even setting aside the level-of-generality problem, the
+Court is wrong to ﬁnd a clearly established rule of law. For
+at least three reasons, a fairminded jurist could disagree
+with the Court’s reading ofPayne. The Court holds other-
+wise only by redeﬁning “clearly established” law to include
+debatable interpretations of our precedents.
+1
+First, a fairminded jurist could conclude thatPayne’s lone
+sentence on due process is not a holding at all. Although
+Payneasserted that victim-impact evidence could violate
+due process if it was unduly prejudicial, the Court found that
+“in this case” the evidence “serves entirely legitimate pur-
+poses,” and so declined to disturb the capital sentence under
+review. 501 U. S., at 825. The Court’s statement that a dif-
+ferent case presenting different facts could violate due proc-
+ess was thus dicta because it was not “ ‘necessaryto’ ” its
+“disposition of [the] case.”Tylerv.Cain, 533 U. S. 656, 663,
+n. 4 (2001) (quotingSeminole Tribe of Fla.v.Florida, 517
+U. S. 44, 67 (1996)); seeStewartv.Winn, 967 F. 3d 534, 539
+(CA6 2020) (describingPayne’s due process discussion as a
+“snippe[t]” of “ ‘dicta’ ”). As we have previously recognized,
+because “ ‘clearly established [f]ederal law’ . . . ‘refers to the
+holdings’ ” of this Court, Andrew cannot premise her habeas
+claim on “a case in which werejecteda due process claim.”
+
+Thomas, J
+., dissenting
+Metrish v. Lancaster, 569 U. S. 351, 367 (2013) (alteration
+in orig
+inal).
+The Court insists Payne’s due process statement was “in-
+dispensable” to its disposition, because without the existence
+of a due process backstop, the Payne Court might have de-
+termined that a categorical Eighth Amendment bar on
+victim-impact evidence is necessary to protect defendants.
+Ante,at 93. But, this is hardly the only “reasonable inter-
+pretatio[n]” ofPayne, which nowhere sets forth the reason-
+ing the Court ascribes to it.White, 572 U. S., at 423. The
+Court’s interpretation makes sense only if we assume that
+thePayneCourt would have seriously considered holding
+victim-impact evidence categorically unconstitutional de-
+spite it “serv[ing] entirely legitimate purposes” in “the ma-
+jority of cases.” 501 U. S., at 825. That would be a highly
+unusual approach to constitutional litigation. Cf.United
+Statesv.Salerno, 481 U. S. 739, 745 (1987) (requiring that a
+law be valid in “no set of circumstances” to be facially uncon-
+stitutional). Another reasonable interpretation—and in-
+deed, a far more plausible one—is that the Court simply
+wanted to make clear that its rejection of a categorical rule
+against victim-impact evidence did not rule out future fact-
+speciﬁc challenges. That kind of dicta is common in cases
+rejecting categorical challenges. See,e. g.,United Statesv.
+Hansen, 599 U. S. 762, 784–785 (2023). A fairminded jurist
+need not agree thatPayne’s single-sentence caveat consti-
+tutes a holding.
+2
+Even if we were to treatPayne’s sentence about due proc-
+ess as a holding, a fairminded jurist need not read it as
+broadly as the Court does. “[G]eneral expressions, in every
+opinion, are to be taken in connection with the case in which
+those expressions are used. If they go beyond the case,
+they . . . ought not to control the judgment in a subsequent
+suit.”Cohensv.Virginia, 6 Wheat. 264, 399 (1821). This
+principle applies with special force when a party claims “a
+
+111Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+single sentence” in an opinion establishes a broad legal prin-
+ciple. See Arkansas
+Game and Fish Comm’n v. United
+States, 568 U. S. 23, 35 (2012).
+A fairminded jurist could believe that the scope of any
+holding established byPayne’s cursory discussion of due
+process is limited toPayne’s analysis. On the majority’s
+telling,Payneeliminated a categorical Eighth Amendment
+prohibitionon victim-impact evidencebecause of the avail-
+ability of an alternative due process protectionagainst
+such evidence. Seeante,at 92–93. BecausePaynewas not
+considering the role of due process vis-à-vis any other kind
+of evidence, a fairminded jurist could conclude that any due
+process holding laid down byPayneextends only to victim-
+impact evidence.
+3
+Finally, a fairminded jurist could rely on this Court’s later
+decision inEstelleto conclude thatPaynedid not establish
+any general due process prohibition on the admission of un-
+duly prejudicial evidence.
+The Court of Appeals inEstellegranted habeas relief on
+the ground that the admission of irrelevant and prejudicial
+prior-bad-act evidence had helped render the prisoner’s trial
+“fundamentally unfair in violation of due process.” 502
+U. S., at 67 (internal quotation marks omitted). This Court
+reversed, holding the evidence in question “was relevant to
+an issue in the case.”Id., at 70. Having reached this con-
+clusion, the Court added that “we need not explore further
+the apparent assumption of the Court of Appeals that it is a
+violation of the due process guaranteed by the Fourteenth
+Amendment for evidence that is not relevant to be received
+in a criminal trial.”Ibid. That is, theEstelleCourt ex-
+pressly reserved the very question the majority asserts
+Payneresolved. This Court is “hardly in the habit of
+reserving separate questions that have already been deﬁ-
+nitively answered.”White, 572 U. S., at 424 (citation, al-
+teration, and internal quotation marks omitted). Thus,
+
+Thomas, J
+., dissenting
+“fairminded jurists could conclude that [Estelle ]’s reserva-
+tion regardi ng
+” unduly prejudicial evidence “would have
+served no meaningful purpose if [Payne ] had created [a] rule
+against” it already. Ibid.; accord, Kernan v. Cuero, 583 U. S.
+1, 8 (2017) (per curiam ).
+The law has not changed since we decided Estelle. The
+Court cites several decisions postdating and predating
+Payne and Estelle, but only for vague, atmospheric support.
+See ante, at 93–94. The Court does not assert that any of
+them establishes a general due process rule against unduly
+prejudicial evidence. And, the Court does not explain what
+work, if any, these citations do in its analysis. Nor could it.
+Our decision in Romano v. Oklahoma, 512 U. S. 1,
+13–14 (1994), cannot move the needle because Romano re-
+jected a due process claim. The reference to due process in
+Kansas v. Carr, 577 U. S. 108, 123 (2016), also is not a hold-
+ing. As in Payne, it is a one-sentence aside in a case reject-
+ing an Eighth Amendment claim. Regardless, Carr has no
+possible bearing on this case, as it was decided after the con-
+clusion of Andrew’s direct appeal. See Lockyer, 538 U. S.,
+at 71–72. So too, the Court’s remaining citations are clearly
+inapposite, as none involves the admission of evidence. As
+the Tenth Circuit correctly recognized, this Court has never
+answered the question it reserved in Estelle. 62 F. 4th,
+at 1315.
+4
+Remarkably, the Court does not deny that “a reasonable
+jurist could agree” that Payne does not establish the princi-
+ple Andrew asserts. Ante, at 95. Instead, it maintains
+that the potentially differing views of reasonable, fairminded
+jurists do not matter. According to the majority, federal ha-
+beas courts have an “independent obligation” to identify the
+holdings of this Court. Ibid. Only afterward does “defer-
+ence” kick in. Ibid.
+
+113Cite as: 604 U
+. S. 86 (2025)
+Thomas, J., dissenting
+That view is patently wrong. AEDPA requires state
+prisoners to base
+their claims on “ ‘clearly established’ ” law.
+Ibid. (quoting § 2254(d)(1)). A debatable holding does not
+clearly establish anything. AEDPA permits relief only
+when “the state court’s ruling . . . was so lacking in justiﬁca-
+tion that there was an error well understood and compre-
+hended in existing law beyond any possibility for fairminded
+disagreement.” Harrington, 562 U. S., at 103. If one could
+fairly disagree that the rule a prisoner invokes is part of
+“existing law,” one could fairly disagree that the state court
+erred under existing law.
+Our precedents conﬁrm that debatable readings of this
+Court’s cases cannot be clearly established law. In White,
+we held that Estelle v. Smith, 451 U. S. 454 (1981), did not
+clearly establish the prisoner’s asserted rule, because other
+“perfectly reasonable interpretations of Estelle” existed.
+572 U. S., at 423. In other words, the prisoner’s claim failed
+because “fairminded jurists could conclude” that Estelle had
+not “created [the] across-the-board rule” he invoked. 572
+U. S., at 424. To ﬁnd clearly established law in the face of
+these reasonable alternative interpretations would “contra-
+ven[e] § 2254(d)’s deferential standard of review.” Id., at
+423–424. Likewise, in Kernan, we reversed after the Ninth
+Circuit held that our decision in Santobello v. New York, 404
+U. S. 257 (1971), clearly established the rule on which the
+prisoner relied. See 583 U. S., at 6–9. Because “ ‘fair-
+minded jurists could disagree’ with the Ninth Circuit’s read-
+ing of Santobello,” we were “unable to ﬁnd in Supreme Court
+precedent that ‘clearly established federal law’ ” that the
+Ninth Circuit had claimed to see. Id., at 7–8. Thus, con-
+trary to what the majority says, we have extended “defer-
+ence” both at the threshold step of identifying clearly estab-
+lished law and at the subsequent step of applying it. Ante,
+at 95. A contestable interpretation of precedent cannot be
+clearly established law.
+
+Thomas, J
+., dissenting
+* * *
+Summary vacatur “ is
+a rare disposition.” Schweiker v.
+Hansen, 450 U. S. 785, 791 (1981) (Marshall, J., dissenting).
+This Court has traditionally reserved it for the uncommon
+“situations in which the law is settled and stable, the facts
+are not in dispute, and the decision below is clearly in error.”
+Ibid. Today, however, the Court turns this approach on its
+head, steamrolling settled AEDPA principles to set aside
+an entirely correct Tenth Circuit decision. I respectfully
+dissent.

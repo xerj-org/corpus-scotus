@@ -1,0 +1,112 @@
+United States v. Rahimi — No. 22-915 — October Term 2023 — decided 6/21/24 — Barrett, J., concurring
+Citation: 602 U.S. 680
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r43_p860.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Of course, difficult subsidiary questions can arise about how
+to apply those tools, both generally and in particular cases.
+And in some cases, text, history, and precedent may point in
+somewhat different directions. In law as in life, nothing is
+perfect. But in Second Amendment cases as in other con-
+stitutional cases, text, history, and precedent must remain
+paramount.
+Justice Barrett, concurring.
+Despite its unqualifed text, the Second Amendment is not
+absolute. It codified a pre-existing right, and pre-existing
+limits on that right are part and parcel of it. District of
+Columbia v. Heller, 554 U. S. 570, 595, 627 (2008). Those
+limits define the scope of “the right to keep and bear arms”
+as it was originally understood; to identify them, courts must
+examine our “historical tradition of firearm regulation.”
+New York State Rife & Pistol Assn., Inc. v. Bruen, 597 U. S.
+1, 17, 19 (2022). That evidence marks where the right stops
+and the State's authority to regulate begins. A regulation
+is constitutional only if the government affirmatively proves
+that it is “consistent with the Second Amendment's text and
+historical understanding.” Id., at 26.
+Because the Court has taken an originalist approach to the
+Second Amendment, it is worth pausing to identify the basic
+premises of originalism. The theory is built on two core
+principles: that the meaning of constitutional text is fxed at
+the time of its ratification and that the “discoverable histori-
+cal meaning . . . has legal significance and is authoritative in
+most circumstances.” K. Whittington, Originalism: A Criti-
+cal Introduction, 82 Ford. L. Rev. 375, 378 (2013) (Whitting-
+ton). Ratification is a democratic act that renders constitu-
+tional text part of our fundamental law, see Arts. V , VII,
+and that text “remains law until lawfully altered,” S. Sachs,
+Originalism: Standard and Procedure, 135 Harv. L. Rev. 777,
+782 (2022). So for an originalist, the history that matters
+most is the history surrounding the ratification of the text;
+that backdrop illuminates the meaning of the enacted law.
+History (or tradition) that long postdates ratification does
+not serve that function. To be sure, postenactment history
+can be an important tool. For example, it can “reinforce our
+understanding of the Constitution's original meaning”; “liq-
+uidate ambiguous constitutional provisions”; provide persua-
+sive evidence of the original meaning; and, if stare decisis
+applies, control the outcome. See Vidal v. Elster, 602 U. S.
+286, 323 (2024) (Barrett, J., concurring in part). But gen-
+erally speaking, the use of postenactment history requires
+some justification other than originalism simpliciter.
+In Bruen, the Court took history beyond the founding era,
+considering gun regulations that spanned the 19th century.
+597 U. S., at 50–70. I expressed reservations about the
+scope of that inquiry but concluded that the timing question
+did not matter to Bruen's holding. Id., at 81–83 (concurring
+opinion). It bears emphasis, however, that my questions
+were about the time period relevant to discerning the Second
+Amendment's original meaning—for instance, what is the
+post-1791 cutoff for discerning how the Second Amendment
+was originally understood? Id., at 82 (“How long after rati-
+fication may subsequent practice illuminate original public
+meaning?”). My doubts were not about whether “tradi-
+tion,” standing alone, is dispositive. Id., at 83 (“[T]oday's
+decision should not be understood to endorse freewheeling
+reliance on historical practice from the mid-to-late 19th cen-
+tury to establish the original meaning of the Bill of Rights”).
+As I have explained elsewhere, evidence of “tradition” un-
+moored from original meaning is not binding law. Vidal,
+602 U. S., at 323–324 (Barrett, J., concurring in part). And
+scattered cases or regulations pulled from history may have
+little bearing on the meaning of the text. Samia v. United
+States, 599 U. S. 635, 656–657 (2023) (Barrett, J., concurring
+in part and concurring in judgment).
+“Original history”—i. e., the generally dispositive kind—
+plays two roles in the Second Amendment context. It eluci-
+dates how contemporaries understood the text—for example,
+the meaning of the phrase “bear Arms.” See Heller, 554
+U. S., at 582–592. It also plays the more complicated role of
+determining the scope of the pre-existing right that the peo-
+ple enshrined in our fundamental law.* In Rahimi's case,
+the Court uses history in this latter way. Call this “original
+contours” history: It looks at historical gun regulations to
+identify the contours of the right.
+Courts have struggled with this use of history in the wake
+of Bruen. One difficulty is a level of generality problem:
+Must the government produce a founding-era relative of
+the challenged regulation—if not a twin, a cousin? Or do
+founding-era gun regulations yield concrete principles that
+mark the borders of the right?
+Many courts, including the Fifth Circuit, have understood
+Bruen to require the former, narrower approach. But
+Bruen emphasized that “analogical reasoning” is not a “regu-
+latory straightjacket.” 597 U. S., at 30. To be consistent
+with historical limits, a challenged regulation need not be
+an updated model of a historical counterpart. Besides, im-
+posing a test that demands overly specific analogues has se-
+rious problems. To name two: It forces 21st-century regula-
+tions to follow late-18th-century policy choices, giving us “a
+law trapped in amber.” Ante, at 691. And it assumes that
+founding-era legislatures maximally exercised their power to
+*To my mind, this use of history walks a fne line between original
+meaning (which controls) and expectations about how the text would apply
+(which do not). See Whittington 383 (“Specific expectations about the
+consequences of a legal rule are distinct from the meaning of the rule
+itself ”). Contemporary government actors might have been “wrong
+about the consequences of their own constitutional rule,” or they “might
+not have fully and faithfully implemented the adopted constitutional rule
+themselves.” Id., at 384. Thus, while early applications of a constitu-
+tional rule can help illuminate its original scope, an interpreter must exer-
+cise care in considering them. Id., at 385–386. In the Second Amend-
+ment context, particular gun regulations—even if from the ratification
+era—do not themselves have the status of constitutional law.

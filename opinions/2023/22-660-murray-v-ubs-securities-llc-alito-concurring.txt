@@ -1,0 +1,98 @@
+Murray v. UBS Securities, LLC — No. 22-660 — October Term 2023 — decided 2/08/24 — Alito, J., concurring
+Citation: 601 U.S. 23
+Source: https://www.supremecourt.gov/opinions/23pdf/601us1r02_c07d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+F. 3d 1524, 1528 (1995). In that case, the correct inquiry was
+whether the employer would have taken the same action if
+it had learned of the contents of the employee's protected
+disclosure through other means. Ibid. In UBS's hypothet-
+ical, the relevant inquiry would be whether the employer still
+would have fred the employee if the client had left for some
+other reason. If so, it will have no trouble prevailing under
+the statute.
+To be sure, the contributing-factor framework that Con-
+gress chose here is not as protective of employers as a
+motivating-factor framework. That is by design. Congress
+has employed the contributing-factor framework in contexts
+where the health, safety, or well-being of the public may well
+depend on whistleblowers feeling empowered to come for-
+ward. This Court cannot override that policy choice by
+giving employers more protection than the statute itself
+provides.
+* * *
+A whistleblower who invokes 18 U. S. C. § 1514A bears the
+burden to prove that his protected activity “was a contribut-
+ing factor in the unfavorable personnel action alleged in the
+complaint,” 49 U. S. C. § 42121(b)(2)(B)(i), but he is not re-
+quired to make some further showing that his employer
+acted with “retaliatory intent.” The judgment of the U. S.
+Court of Appeals for the Second Circuit is reversed for the
+reasons explained above, and the case is remanded for fur-
+ther proceedings consistent with this opinion.
+It is so ordered.
+Justice Alito , with whom Justice Barrett joins,
+concurring.
+I agree with the Court that a plaintiff suing under the
+whistleblower-protection provision of the Sarbanes-Oxley
+Act need not prove that his or her employer acted with “ani-
+mus,” a term that denotes “prejudic[e]” or “ill will.” *
+Merriam-Webster's Collegiate Dictionary 46 (10th ed. 1996);
+American Heritage Dictionary 73 (3d ed. 1992). The statute
+makes no mention of “animus” or any of its synonyms, and
+we have no ground for adding it in as an additional, non-
+statutory requirement. I write separately to explain in sim-
+ple terms how the statute works and to reiterate that our
+rejection of an “animus” requirement does not read intent
+out of the statute. Rather, as the Court confirms, a plaintiff
+must still show intent to discriminate. Ante, at 34.
+A Sarbanes-Oxley plaintiff must ultimately prove that his
+or her employer “discharge[d], demote[d], suspend[ed],
+threaten[ed], harass[ed], or in any other manner discrimi-
+nate[d] against” him or her “because of” protected whistle-
+blowing. 18 U. S. C. § 1514A(a). The phrase “in any other
+manner discriminate” suggests that the adverse action—
+here, petitioner's discharge—must be a form of discrimina-
+tion. Cf. Massachusetts v. EPA, 549 U. S. 497, 557 (2007)
+(Scalia, J., dissenting) (noting that when a catchall phrase is
+“limited,” the other items in the list “must be viewed . . . in
+light of that category”). And a discriminatory discharge
+that is made “because of” a particular factor necessarily in-
+volves an intentional choice in which that factor plays some
+role in the employer's thinking. As the Court puts it, the
+plaintiff must prove that the employer “ `intentionally
+treat[ed the plaintiff] worse because of' ” the protected con-
+duct. Ante, at 34 (quoting Bostock v. Clayton County , 590
+U. S. 644, 658 (2020)).
+To structure the presentation of proof in a case brought
+under the whistleblower-protection provision, Sarbanes-
+Oxley adopts a burden-shifting framework. See 18 U. S. C.
+§ 1514A(b)(2)(C); 49 U. S. C. § 42121(b)(2)(B). This frame-
+work provides the “mechanism for getting at” discriminatory
+*The Court uses the term “retaliatory intent” as a synonym for “ani-
+mus.” See ante, at 33. All references in the opinion to “retaliatory in-
+tent” must be understood to carry that meaning.
+intent. Ante, at 35. Under this framework, the plaintiff
+must show that differential treatment was at least in part
+“because of” his or her protected conduct, § 1514A(a), and
+was thus a “contributing factor” in the employer's decision-
+making process. § 42121(b)(2)(B)(iii). This requires proof
+of intent; that is, the plaintiff must show that a reason for
+the adverse decision was the employee's protected conduct.
+The plaintiff need not prove that the protected conduct was
+the only reason or even that it was a principal reason for the
+adverse decision. Showing that it “help[ed] to cause or
+bring about” that decision is enough. Concise Oxford Dic-
+tionary 310 (10th ed. 1999); Webster's Third New Inter-
+national Dictionary 496 (1993) (defining “contributing” as
+“ha[ving] a part in producing an effect”).
+If the plaintiff makes that showing, the statute's intent
+requirement is met, and the only open question is causation.
+On that element, the burden shifts to the employer to prove
+“by clear and convincing evidence that [it] would have taken
+the same unfavorable personnel action” alleged in the com-
+plaint. § 42121(b)(2)(B)(iv). In other words, it must show
+that the plaintiff 's protected conduct did not cause the chal-
+lenged employment decision. And if the employer satisfies
+that burden, the element of causation has not been proved.
+On the understanding that this is the interpretation
+adopted today, I join the opinion of the Court.

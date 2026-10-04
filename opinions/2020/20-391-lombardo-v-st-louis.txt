@@ -1,0 +1,113 @@
+Lombardo v. St. Louis — No. 20-391 — October Term 2020 — decided 6/28/21 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 594 U.S. 464
+Source: https://www.supremecourt.gov/opinions/20pdf/594us2r60_2c83.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+characterized it as insignifcant, the Eighth Circuit's opinion could be
+read to treat Gilbert's “ongoing resistance” as controlling as a matter of
+law. 956 F. 3d 1009, 1014. The Court expresses no view as to whether
+the officers used unconstitutionally excessive force or, if they did,
+whether Gilbert's right to be free of such force in these circumstances
+was clearly established at the time of his death, and instead remands
+the case to the Eighth Circuit for its consideration of those questions in
+the first instance.
+Certiorari granted; 956 F. 3d 1009, vacated and remanded.
+Per Curiam.
+On the afternoon of December 8, 2015, St. Louis police
+officers arrested Nicholas Gilbert for trespassing in a con-
+demned building and failing to appear in court for a traffc
+ticket.1 Officers brought him to the St. Louis Metropolitan
+Police Department's central station and placed him in a hold-
+ing cell. At some point, an officer saw Gilbert tie a piece of
+clothing around the bars of his cell and put it around his
+neck, in an apparent attempt to hang himself. Three officers
+responded and entered Gilbert's cell. One grabbed Gilbert's
+wrist to handcuff him, but Gilbert evaded the officer and
+began to struggle. The three officers brought Gilbert, who
+was 5'3” and 160 pounds, down to a kneeling position over a
+concrete bench in the cell and handcuffed his arms behind
+his back. Gilbert reared back, kicking the officers and hit-
+ting his head on the bench. After Gilbert kicked one of the
+officers in the groin, they called for more help and leg shack-
+les. While Gilbert continued to struggle, two officers shack-
+led his legs together. Emergency medical services person-
+nel were phoned for assistance.
+Several more officers responded. They relieved two of
+the original three officers, leaving six officers in the cell with
+Gilbert, who was now handcuffed and in leg irons. The off-
+1 Because this case was decided by summary judgment, the evidence
+here recounted is viewed “ `in the light most favorable' ” to the nonmoving
+party (here, Gilbert's parents, the petitioners). Tolan v. Cotton, 572 U. S.
+650, 655–656 (2014) (per curiam ).
+cers moved Gilbert to a prone position, face down on the
+floor. Three officers held Gilbert's limbs down at the shoul-
+ders, biceps, and legs. At least one other placed pressure
+on Gilbert's back and torso. Gilbert tried to raise his chest,
+saying, “ `It hurts. Stop.' ” Lombardo v. Saint Louis City ,
+361 F. Supp. 3d 882, 898 (ED Mo. 2019).
+After 15 minutes of struggling in this position, Gilbert's
+breathing became abnormal and he stopped moving. The
+officers rolled Gilbert onto his side and then his back to
+check for a pulse. Finding none, they performed chest
+compressions and rescue breathing. An ambulance eventu-
+ally transported Gilbert to the hospital, where he was
+pronounced dead.
+Gilbert's parents sued, alleging that the officers had used
+excessive force against him. The District Court granted
+summary judgment in favor of the officers, concluding that
+they were entitled to qualified immunity because they did
+not violate a constitutional right that was clearly established
+at the time of the incident. Id., at 895. The U. S. Court of
+Appeals for the Eighth Circuit affirmed on different grounds,
+holding that the officers did not apply unconstitutionally ex-
+cessive force against Gilbert. 956 F. 3d 1009, 1014 (2020).
+In assessing a claim of excessive force, courts ask
+“whether the officers' actions are `objectively reasonable' in
+light of the facts and circumstances confronting them.”
+Graham v. Connor, 490 U. S. 386, 397 (1989). 2 “A court
+(judge or jury) cannot apply this standard mechanically.”
+2 Petitioners brought their excessive force claims under both the Fourth
+and Fourteenth Amendments. See, e. g., First Amended Complaint in
+No. 4:16–cv–01637 (ED Mo.), ECF Doc. 28, p. 46. We need not address
+whether the Fourth or Fourteenth Amendment provides the proper basis
+for a claim of excessive force against a pretrial detainee in Gilbert's posi-
+tion. Whatever the source of law, in analyzing an excessive force claim,
+a court must determine whether the force was objectively unreasonable
+in light of the “ `facts and circumstances of each particular case.' ”
+Kingsley v. Hendrickson, 576 U. S. 389, 397 (2015) (quoting Graham, 490
+U. S., at 396).
+Kingsley v. Hendrickson, 576 U. S. 389, 397 (2015). Rather,
+the inquiry “requires careful attention to the facts and cir-
+cumstances of each particular case.” Graham, 490 U. S., at
+396. Those circumstances include “the relationship between
+the need for the use of force and the amount of force used;
+the extent of the plaintiff 's injury; any effort made by the
+officer to temper or to limit the amount of force; the severity
+of the security problem at issue; the threat reasonably per-
+ceived by the officer; and whether the plaintiff was actively
+resisting.” Kingsley, 576 U. S., at 397.
+Although the Eighth Circuit cited the Kingsley factors, it
+is unclear whether the court thought the use of a
+prone restraint—no matter the kind, intensity, duration, or
+surrounding circumstances—is per se constitutional so long
+as an individual appears to resist officers' efforts to subdue
+him. The court cited Circuit precedent for the proposition
+that “the use of prone restraint is not objectively unreason-
+able when a detainee actively resists officer directives and
+efforts to subdue the detainee.” 956 F. 3d, at 1013. The
+court went on to describe as “insignifcant” facts that may
+distinguish that precedent and appear potentially important
+under Kingsley, including that Gilbert was already hand-
+cuffed and leg shackled when officers moved him to the prone
+position and that officers kept him in that position for 15
+minutes. See 956 F. 3d, at 1013–1015.
+Such details could matter when deciding whether to grant
+summary judgment on an excessive force claim. Here, for
+example, record evidence (viewed in the light most favorable
+to Gilbert's parents) shows that officers placed pressure on
+Gilbert's back even though St. Louis instructs its officers
+that pressing down on the back of a prone subject can cause
+suffocation. The evidentiary record also includes well-
+known police guidance recommending that officers get a sub-
+ject off his stomach as soon as he is handcuffed because of
+that risk. The guidance further indicates that the struggles
+of a prone suspect may be due to oxygen deficiency, rather

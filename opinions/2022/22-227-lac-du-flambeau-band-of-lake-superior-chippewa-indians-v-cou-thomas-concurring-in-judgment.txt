@@ -1,0 +1,111 @@
+Lac du Flambeau Band of Lake Superior Chippewa Indians v. Coughlin — No. 22-227 — October Term 2022 — decided 6/15/23 — Thomas, J., concurring in judgment
+Citation: 599 U.S. 382
+Source: https://www.supremecourt.gov/opinions/22pdf/599us1r39_3204.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+mental unit that Congress used to specify the scope of the
+abrogation's sweep.
+Thus, however Congress may have treated governmental
+entities in bankruptcy law prior to 1978, it had clearly al-
+tered its view about the scope of coverage relative to govern-
+ments by the time it enacted § 101(27) and § 106(a). Those
+provisions unequivocally extend to all governments, for the
+reasons already discussed, and we decline to read ambiguity
+into the statute where none exists.
+* * *
+We find that the First Circuit correctly concluded that the
+Bankruptcy Code unambiguously abrogates tribal sovereign
+immunity. Therefore, the decision below is affirmed.
+It is so ordered.
+Justice Thomas, concurring in the judgment.
+As I have explained, to the extent that tribes possess sov-
+ereign immunity at all, that immunity does not extend to
+“suits arising out of a tribe's commercial activities conducted
+beyond its territory.” Michigan v. Bay Mills Indian Com-
+munity, 572 U. S. 782, 815 (2014) (dissenting opinion). Be-
+cause respondent's stay-enforcement motion arose from peti-
+tioners' off-reservation commercial conduct, petitioners lack
+sovereign immunity regardless of the Bankruptcy Code's
+abrogation provision. I therefore concur in the Court's
+judgment.
+“Tribal immunity is a judicial doctrine that is not man-
+dated by the Constitution, . . . developed almost by accident,
+was reiterated with little analysis, and does not reflect the
+realities of modern-day Indian tribes.” Upper Skagit Tribe
+v. Lundgren, 584 U. S. –––, ––– (2018) (Thomas, J., dissent-
+ing) (internal quotation marks omitted). To the extent that
+tribes have any sovereign immunity at all, it is a common-
+400 LA C du FLAMBEAU BAND OF LAKE SUPERIOR
+CHIPPEWA INDIANS v. COUGHLIN
+Thomas, J., concurring in judgment
+law immunity. Bay Mills, 572 U. S., at 816–817. Unlike
+the sovereign immunity enjoyed by the States under the
+Constitution, common-law immunity “is not a freestanding
+right that applies of its own force when a sovereign faces
+suit in the courts of another.” Id., at 816 (internal quotation
+marks omitted). Rather, it “normally depends on the sec-
+ond sovereign's law” as a matter of comity. Ibid. (internal
+quotation marks omitted). Because no federal law accords
+tribes sovereign immunity in federal court, petitioners lack
+immunity in this federal case.
+Moreover, even if federal courts could afford immunity to
+tribes as a matter of comity, comity considerations would not
+help petitioners. “Even with respect to fully sovereign for-
+eign nations, comity has long been discarded as a sufficient
+reason to grant immunity for commercial acts”—like those
+at issue here. Id., at 817 (emphasis added). And, far from
+furthering comity principles, recognizing immunity for off-
+reservation commercial acts “represents a substantial affront
+to a different set of sovereigns—the States.” Ibid. When
+a tribe engages in off-reservation commercial activity, “it
+necessarily acts within the territory of a sovereign State.”
+Id., at 818. Thus, to grant tribes a unique and unjustified
+immunity from both federal and state jurisdiction for com-
+mercial acts committed on a State's territory “aggravate[s]
+relationships between States and tribes throughout the
+country.” Id., at 818–819. Accordingly, any common-law
+immunity that petitioners possess cannot support their claim
+to immunity in federal court for their off-reservation com-
+mercial conduct.
+The Court's tribal immunity doctrine is also out of step
+with more recent decisions. In Franchise Tax Bd. of Cal.
+v. Hyatt, 587 U. S. ––– (2019), the Court recognized that the
+50 States possess a unique form of immunity that applies of
+its own force in the courts of sister States, id., at ––– – –––,
+as well as those of the Federal Government, id., at ––– (col-
+lecting cases). This immunity stems from the Constitution
+itself and belongs only to the 50 States through their ratifi-
+cation of the Constitution or admission to the Union on an
+equal footing with the original States. See Alden v. Maine,
+527 U. S. 706, 713 (1999). As a result, it is distinct from
+common-law immunity, which depends upon the forum
+court's sovereign for recognition. Bay Mills, 572 U. S., at
+816. By treating tribal immunity like state immunity, the
+Court's tribal immunity case law has afforded tribes, by judi-
+cial fat, a form of immunity that the Constitution accords to
+the 50 States, and only the 50 States.
+Finally, this Court's tribal immunity doctrine continues to
+artificially exempt tribes from generally applicable laws. I
+warned nearly a decade ago that tribal immunity “will con-
+tinue to invite problems, including de facto deregulation of
+highly regulated activities; unfairness to tort victims; and
+increasingly fractious relations with States and individuals
+alike.” Id., at 825. This is a case in point. In order to
+avoid state payday loan regulation, “payday lenders . . . often
+arrange to share fees or profts with tribes so they can use
+tribal immunity as a shield for conduct of questionable legal-
+ity.” Ibid. Petitioners here rely on tribal immunity to
+avoid not only state but also federal payday loan regulation.
+They further seek to leverage this immunity to pursue re-
+spondent on his debt while other creditors' collection efforts
+are stayed. Tribal immunity thus creates a pathway to cir-
+cumvent vast swaths of both state and federal laws.
+The consequences of the Court's erroneous tribal immu-
+nity precedents have only gotten worse over the years. See
+id., at 814 (Scalia, J., dissenting) (“I am now convinced that
+[Kiowa Tribe of Okla. v. Manufacturing Technologies, Inc.,
+523 U. S. 751 (1998)] was wrongly decided; that, in the inter-
+vening 16 years, its error has grown more glaringly obvious;
+and that stare decisis does not recommend its retention”);
+id., at 831 (Ginsburg, J., dissenting) (“[T]his Court's declara-
+tion of an immunity thus absolute was and remains exorbi-
+tant”). Further, the doctrine simply cannot be reconciled

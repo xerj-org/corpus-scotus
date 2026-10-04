@@ -1,0 +1,326 @@
+Texas v. New Mexico — No. 65, Orig. — October Term 2020 — decided 12/14/20 — opinion of the Court — author Kavanaugh (listing code BK)
+Citation: 592 U.S. 98
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=138 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+2. New Mexico is entitled to delivery credit for the evaporated water.
+Section C.5 of the River Master's Manual resolves this case. Texas re-
+quested that New Mexico store water at a facility in New Mexico, and
+New Mexico did so, with the understanding that the water belonged
+to Texas. Texas's counterarguments—that the stored water was not
+actually part of the “Texas allocation” referred to in § C.5, that New
+Mexico did not “store” the water for § C.5 purposes, and that Texas
+should not be charged for any evaporation occurring from March 15 until
+the water was released in August 2015—are unpersuasive. Pp. 106–108.
+Motion denied.
+Kavanaugh, J., delivered the opinion of the Court, in which Roberts,
+C. J., and Thomas, Breyer, Sotomayor, Kagan, and Gorsuch, JJ.,
+joined. Alito, J., fled an opinion concurring in the judgment in part and
+dissenting in part, post, p. 108. Barrett, J., took no part in the consider-
+ation or decision of the case.
+Kyle D. Hawkins, Solicitor General of Texas, argued the
+cause for plaintiff. With him on the briefs were Ken Pax-
+ton, Attorney General of Texas, Jeffrey C. Mateer, First As-
+sistant Attorney General, Bill Davis, Deputy Solicitor Gen-
+eral, Heather Gebelin Hacker, Assistant Solicitor General,
+and Abigail M. Frisch, Assistant Attorney General.
+Jeffrey J. Wechsler, Special Assistant Attorney General of
+New Mexico, argued the cause for defendant. With him on
+the brief were Hector H. Balderas, Attorney General of New
+Mexico, Tania Maestas, Deputy Attorney General, and Mat-
+thew A. Zidovsky , Dominique M. Work, and A. Nathaniel
+Chakeres, Special Assistant Attorneys General.
+Masha G. Hansford argued the cause for the United States
+as amicus curiae in support of defendant. On the brief
+were Solicitor General Francisco, Deputy Solicitor General
+Kneedler, Frederick Liu, and Christopher B. Rich.
+Justice Kavanaugh delivered the opinion of the Court.
+This is a case about evaporated water. In the southwest-
+ern United States, the Pecos River begins near Santa Fe,
+New Mexico, and winds its way south for hundreds of miles
+through New Mexico and Texas before flowing into the Rio
+Grande River on the Texas-Mexico border. The 1949 inter-
+state Pecos River Compact provides for equitable apportion-
+ment of the use of the River's water by New Mexico and Texas.
+The dispute in this case started in 2014 when a tropical
+storm hit the Pecos River Basin. To prevent fooding, Texas
+asked New Mexico to temporarily store water from the
+Pecos River that would otherwise fow into Texas. New
+Mexico agreed to do so. A few months later, New Mexico
+released the water to Texas. But in the interim, some of
+the water evaporated.
+The question presented is straightforward: Under the
+Pecos River Compact, does New Mexico receive delivery
+credit for the evaporated water even though that water was
+not delivered to Texas? The answer is yes. The River
+Master's Manual, which was approved by this Court in 1988,
+implements the Compact and speaks directly to this ques-
+tion: When water is stored in New Mexico “at the request of
+Texas,” then New Mexico's delivery obligation “will be re-
+duced by the amount of reservoir losses attributable to its
+storage.” App. to Texas's Motion for Review 37a. Here,
+the water was stored in New Mexico at the request of Texas,
+so New Mexico's delivery obligation must be reduced by the
+amount of water that evaporated during its storage.
+For that reason, the River Master awarded New Mexico
+delivery credit for the evaporated water. We agree with the
+River Master's determination, and we deny Texas's motion
+for review.
+I
+A
+The Pecos River originates in the Sangre de Cristo Moun-
+tains east of Santa Fe, New Mexico. The River fows south
+into Texas, winding its way for hundreds of miles past the
+oil fields, farms, ranches, and high school football stadiums
+of west Texas. About 900 miles later, the Pecos pours into
+the Rio Grande River a few miles west of the city of Del Rio
+on the Texas-Mexico border.
+Because of the dry landscape, farmers and ranchers in
+New Mexico and west Texas have long depended on Pecos
+River water. Over time, Texas recognized that its water
+supply was vulnerable because upriver New Mexico could (if
+it wanted) restrict Texas's access to the water from the Pecos
+River. Eventually, the two States struck a deal. In 1949,
+the States ratified and Congress approved the Pecos River
+Compact to, among other things, “provide for the equitable
+division and apportionment of the use of the waters of the
+Pecos River” and “remove causes of present and future con-
+troversies.” Art. I, 63 Stat. 160.
+Because of the irregular fow of the Pecos River, the Com-
+pact does not enumerate a specific amount of water that New
+Mexico must deliver to Texas each year. Rather, Article
+III(a) of the Compact provides that “New Mexico shall not
+deplete by man's activities the fow of the Pecos River at the
+New Mexico-Texas state line below an amount which will
+give to Texas a quantity of water equivalent to that available
+to Texas under the 1947 condition.” Id., at 161.
+Article VI(c) of the Compact in turn prescribes a method-
+ology to implement Article III(a) and determine whether
+New Mexico has met its annual delivery obligation: “the
+infow-outfow method.” Id., at 163. Roughly speaking,
+the infow-outfow method looks at how much water is in the
+River in New Mexico, which in turn helps determine how
+much water New Mexico must allow to fow into Texas.
+In 1987, after a number of early disputes, this Court deter-
+mined that New Mexico was not allowing sufficient water to
+fow into Texas and was therefore breaching its Article III(a)
+obligations. Texas v. New Mexico , 482 U. S. 124, 127–128.
+The Court issued a decree setting forth the States' rights
+and duties. Id., at 135. In addition, in light of the States'
+“natural propensity” to disagree, the Court decided to ap-
+point a disinterested River Master “to make the calculations
+provided for in this decree, annually and as promptly as pos-
+sible as data are available.” Id., at 134.
+In 1988, the Court appointed Neil S. Grigg as River Mas-
+ter, and he continues to serve in that position. Texas v. New
+Mexico, 485 U. S. 388, 394 (per curiam ). The Court also is-
+sued an amended decree. The amended decree requires the
+River Master to annually calculate: (i) New Mexico's delivery
+obligation; (ii) any shortfall or overage based on what New
+Mexico actually delivered; and (iii) the net shortfall, if any,
+after subtracting any overages accumulated in previous
+years. Id., at 391.
+In making those calculations, the River Master must abide
+by the River Master's Manual, which the Court described as
+“an integral part of this Decree.” Id., at 389; see also id., at
+391. New Mexico ordinarily receives credit only for water
+that actually makes its way to Texas. But there are excep-
+tions. Sometimes, as in this case, water may be stored in
+New Mexico at Texas's request. Section C.5 of the River
+Master's Manual addresses that situation. It is titled “Texas
+Water Stored in New Mexico Reservoirs.” App. to Texas's
+Motion for Review 37a. As relevant here, § C.5 provides:
+“If a quantity of the Texas allocation is stored in facili-
+ties constructed in New Mexico at the request of Texas,
+then . . . this quantity will be reduced by the amount of
+reservoir losses attributable to its storage , and, when
+released for delivery to Texas, the quantity released less
+channel losses is to be delivered by New Mexico at the
+New Mexico-Texas state line.” Ibid. (emphasis added).
+Procedurally, the decree (i) directs the River Master to
+deliver an annual preliminary report to the States by May
+15; (ii) requires the States to submit any objections prior to
+June 15; (iii) specifies that the River Master deliver a final
+report by July 1; and (iv) mandates that a State fle any re-
+quest for review of the final report in this Court within 30
+days of the final report. Texas, 485 U. S., at 391, 393. Each
+State appoints a single Pecos River Commissioner to repre-
+sent the State's interests.
+B
+In the fall of 2014, Tropical Storm Odile caused heavy rain-
+fall in the Pecos River Basin. The rain quickly filled a Texas
+reservoir known as Red Bluff Reservoir. Red Bluff lies just
+south of the New Mexico-Texas border along the Pecos
+River, about 50 miles west of Kermit, Texas.
+In November 2014, to prevent fooding, Texas's Pecos
+River Commissioner wrote to his counterpart Commissioner
+in New Mexico: “[I]t is my request that New Mexico store
+Texas' portion of the fows until such time as they can be
+utilized in Red Bluff Reservoir.” App. to Texas's Motion for
+Review 61a. In response, New Mexico's Commissioner
+agreed that water would be stored at the Brantley Reservoir
+in New Mexico, a reservoir owned by the United States.
+But he also explained that the water “belongs to Texas” and
+that “[b]ut for Texas' request, New Mexico would have re-
+leased” the water “to the Texas state line.” Id., at 63a.
+The New Mexico Commissioner added that “[e]vaporative
+losses . . . should thus be borne by Texas.” Ibid.
+Beginning in August 2015, the water was finally released
+to Texas. But there was a problem: During the time that
+the water was stored in New Mexico, a significant amount of
+water (approximately 21,000 acre-feet) evaporated.
+During the early months of 2015, Texas and New Mexico
+discussed how to account for that evaporated water under
+the Compact. But they did not reach an agreement. In
+May 2015, the River Master issued his preliminary report for
+2014. The preliminary report did not account for the evapo-
+rated water, but instead explained that the States would be
+“evaluating the issue and sending a recommendation about
+how to proceed.” App. to State of New Mexico's Response 38.
+The States still had not agreed on a course of action as of
+the July 1, 2015, deadline for the River Master's final report.
+Because the States had not submitted a joint proposal, the
+final report reiterated that the dispute over the water would
+be resolved later. In a section titled “Pending Issues,” the
+report explained that the “States can reach agreement” or,
+if not, either “State can initiate a motion to be considered by
+the River Master.” Id., at 61.
+Importantly, neither State objected to the preliminary or
+final reports for 2014. In other words, neither State op-
+posed the ongoing procedure outlined by the River Master
+for resolving this dispute. In the months and years that fol-
+lowed, the States continued to toil away on a joint proposal
+for the River Master. But the negotiations between the
+States eventually broke down, and in 2018, New Mexico fled
+a motion with the River Master seeking delivery credit for
+the evaporated water.
+In September 2018, as relevant here, the River Master
+ruled in favor of New Mexico. First, he rejected Texas's
+argument that New Mexico had waited too long to fle its
+motion for credit for the evaporated water. He stated that
+“discussions about the food and accounting for it equitably
+were continuous from the time the food occurred until the
+present”; that the States “knew from the time of the food that
+such an adjustment would be required”; and that the States
+had not previously expressed any urgency about resolving the
+matter. App. to Texas's Motion for Review 269a–270a.
+Second, on the merits, the River Master concluded that the
+evaporated water was “Texas Water Stored in New Mexico
+Reservoirs” under § C.5 of the River Master's Manual.
+Applying that provision of the Manual, the River Master de-
+cided that New Mexico was entitled to delivery credit for the
+evaporated water.1
+1 We note four aspects of the River Master's decision that are not at
+issue here. First, the River Master determined that these stored waters
+were not “unappropriated food waters” for purposes of the Compact.
+Art. III(f ), 63 Stat. 161. Neither State challenges that determination.
+Second, the River Master ruled that the States should be equally charged
+for evaporation that occurred before March 1, 2015, because public safety
+concerns in both States counseled against releasing the water before that
+date. That aspect of the River Master's decision is likewise not at issue
+in this Court. Third, in ruling for New Mexico, the River Master did not
+In the wake of the River Master's decision, Texas invoked
+this Court's original jurisdiction and fled a motion for re-
+view of the River Master's determination.
+II
+Texas first argues that New Mexico's 2018 motion to the
+River Master for credit for the evaporated water was un-
+timely. According to Texas, New Mexico fled the motion
+after expiration of the amended decree's 30-day deadline for
+a State to fle objections to the relevant preliminary report—
+a deadline that in this case would have expired several years
+ago. See Texas, 485 U. S., at 391.
+Texas's argument disregards the history of the proceed-
+ings in this case. Both States agreed to postpone the River
+Master's resolution of the evaporated-water issue while they
+negotiated and sought an agreement. The River Master's
+annual reports in turn repeatedly explained that the States
+were trying to negotiate a solution to the issue. Neither
+State objected to the negotiation procedure. Texas cannot
+now run away from the procedure that it agreed to.
+Texas responds that the amended decree's deadlines for
+objections are jurisdictional, meaning that the River Master
+and the States could not postpone the deadlines for objecting
+to the reports. But those time limits are plainly not juris-
+dictional. Among other things, the time limits do not
+“ `speak in jurisdictional terms or refer in any way to the
+jurisdiction' ” of this Court. Henderson v. Shinseki, 562
+U. S. 428, 438 (2011) (quoting Zipes v. Trans World Airlines,
+Inc., 455 U. S. 385, 394 (1982)).
+We proceed to the merits.
+rely on Article XII of the Compact, which applies to “consumptive use of
+water by the United States.” Id., at 165. Although Texas asks us to
+overturn the River Master's determination, Texas agrees that Article XII
+does not apply here. We therefore need not address that provision.
+Fourth, the River Master amended the Manual. That amendment does
+not affect our resolution of this case, so we need not address it.
+III
+On the merits, Texas contends that it should receive credit
+for the water that evaporated while New Mexico was storing
+the water. New Mexico and the United States argue that
+Texas is not entitled to credit because the water was stored
+in New Mexico at Texas's request. We agree with New
+Mexico and the United States.
+Recall that Article VI(c) of the Compact provides that “the
+infow-outfow method . . . shall be used” to calculate New
+Mexico's Article III(a) delivery obligation. 63 Stat. 163.
+To implement the Compact, as we have explained, this
+Court's 1988 amended decree adopted the River Master's
+Manual, which elaborates on how to make the proper calcula-
+tions. See Texas, 485 U. S., at 389 (describing the Manual
+as “an integral part of this Decree”). In particular, since
+1988, the Manual has included § C.5, which states:
+“If a quantity of the Texas allocation is stored in facili-
+ties constructed in New Mexico at the request of Texas,
+then . . . this quantity will be reduced by the amount of
+reservoir losses attributable to its storage , and, when
+released for delivery to Texas, the quantity released less
+channel losses is to be delivered by New Mexico at the
+New Mexico-Texas state line.” App. to Texas's Motion
+for Review 37a (emphasis added).
+We agree with the River Master that the text of § C.5 of
+the Manual easily resolves this case. Texas's Pecos River
+Commissioner asked that the water be stored at a facility in
+New Mexico when, in November 2014, he sent New Mexico's
+Commissioner an e-mail with the plainspoken subject line
+“Texas request for storage.” Id., at 61a. In that e-mail,
+Texas requested that New Mexico hold Texas's “portion of
+the fows until such time as they can be utilized in Red Bluff
+Reservoir.” Ibid. New Mexico did so. But New Mexico
+was careful to remind Texas that the water “belongs to
+Texas,” and that, “[b]ut for Texas' request, New Mexico
+would have released” the water “to the Texas state line.”
+Id., at 63a. New Mexico also added (correctly, as it turns
+out) that “[e]vaporative losses . . . should thus be borne by
+Texas.” Ibid.
+The text of § C.5 and the record evidence of the States'
+correspondence establish that New Mexico is entitled to de-
+livery credit for the water that evaporated while New Mex-
+ico was storing the water at Texas's request.
+In response, Texas offers various arguments, but none is
+persuasive.
+First, Texas suggests that the stored water was not actu-
+ally part of the “Texas allocation” referred to in § C.5 of the
+Manual. But under that provision, Texas's “allocation” is
+the amount of water that Texas would have received if the
+water had not been stored in New Mexico. See Compact,
+Art. III(a), 63 Stat. 161 (entitling Texas to the “quantity of
+water equivalent to that available to Texas under the 1947
+condition”); Art. VI(c), id., at 163 (requiring the use of the
+“infow-outfow method”). Here, Texas requested that New
+Mexico store water that otherwise would have fowed across
+the state line and counted toward Texas's allocation. The
+stored water was therefore part of Texas's allocation under
+§ C.5.
+Second, Texas asserts that New Mexico did not “store” the
+water for purposes of § C.5. Texas suggests that the term
+“stored” in that provision means holding the water long-term
+for beneficial use. But § C.5 of the Manual does not purport
+to define “stored” in any way other than its ordinary mean-
+ing of holding water for Texas. Consistent with that ordi-
+nary meaning, the States regularly used variations of
+the term “store” to describe the storage of the water in this
+case. Indeed, Texas's initial request to New Mexico came in
+an e-mail with the hard-to-misunderstand subject line
+“Texas request for storage.” App. to Texas's Motion for Re-
+view 61a. For purposes of § C.5, New Mexico stored the
+water.

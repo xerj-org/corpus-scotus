@@ -1,0 +1,145 @@
+Mirabelli v. Bonta — No. 25A810 — October Term 2025 — decided 3/02/26 — Barrett, J., concurring
+Citation: 607 U.S. 492
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r17_bqmc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+also permits the State to shield children from unft parents
+by enforcing child-abuse laws and removing children from
+parental custody in appropriate cases.
+III
+The Ninth Circuit's procedural objections to the injunction
+are unlikely to prevail.
+First, the parents protected by the injunction very likely
+have standing because they are objects of the challenged ex-
+clusion policies. See Diamond Alternative Energy, LLC v.
+EPA, 606 U. S. 100, 114 (2025). Contrary to the Ninth Cir-
+cuit's suggestion, the injunction does not provide relief for
+all the parents of California public school students, but only
+for those parents who object to the challenged policies or
+seek religious exemptions.
+Second, class certifcation was likely proper. The District
+Court addressed the requirements for certifcation under
+Rule 23 and explained why it concluded that they were met.
+* * *
+The application to vacate the Ninth Circuit's stay pre-
+sented to Justice Kagan and by her referred to the Court
+is granted as to the parents but is otherwise denied.
+Justice Thomas and Justice Alito would grant the ap-
+plication in full.
+Justice Sotomayor would deny the application in full.
+Justice Barrett, with whom The Chief Justice and
+Justice Kavanaugh join, concurring.
+As the dissent observes, substantive due process is a con-
+troversial doctrine. Judges typically interpret express con-
+stitutional rights, such as the freedom of speech or religion.
+But substantive due process asks us to find unexpressed
+rights in a constitutional provision that guarantees only
+“process” before a person is deprived of life, liberty, or prop-
+erty. U. S. Const., Amdt. 14, § 1. When rights are un-
+stated, how do judges know what they are? The obvious
+risk is that judges will use their own values as a guide,
+thereby jeopardizing the People's right to self-governance.
+To mitigate this risk, the Court has crafted a demanding test
+for recognizing unexpressed rights: They must be “deeply
+rooted in this Nation's history and tradition” and “implicit in
+the concept of ordered liberty.” Washington v. Glucksberg,
+521 U. S. 702, 721 (1997) (internal quotation marks omitted).
+Relevant here, the doctrine of substantive due process has
+long embraced a parent's right to raise her child, which in-
+cludes the right to participate in significant decisions about
+her child's mental health. See Pierce v. Society of Sisters,
+268 U. S. 510 (1925); Meyer v. Nebraska, 262 U. S. 390 (1923);
+Parham v. J. R., 442 U. S. 584 (1979).
+The parent-applicants are likely to succeed on the merits
+under a straightforward application of these cases. Califor-
+nia prohibits its public schools from informing parents of
+their child's gender transition at school unless the child con-
+sents. The record in this case indicates that the State's non-
+disclosure policy applies even if parents expressly ask for
+information about their child's gender identification. One
+set of parents learned of their child's transition at school only
+after the child attempted suicide. Strikingly, even after this
+tragic event, school administrators continued to withhold in-
+formation about the student's gender identification. Califor-
+nia's nondisclosure policy thus quite obviously excludes par-
+ents from highly important decisions about their child's
+mental health, see Parham, 442 U. S., at 601–604, and is un-
+likely to satisfy heightened scrutiny. Our resolution of the
+parents' likelihood of success on this claim is dictated by ex-
+isting law.
+The dissent questions how the Court can adhere to paren-
+tal-rights precedent after its decision in Dobbs v. Jackson
+Women's Health Organization, 597 U. S. 215 (2022). Post,
+at 505 (opinion of Kagan, J.). But Dobbs calls into question
+neither the doctrine of substantive due process nor the other
+unexpressed rights that the doctrine protects. Applying
+Glucksberg, Dobbs holds that Roe v. Wade, 410 U. S. 113
+(1973), and Planned Parenthood of Southeastern Pa. v.
+Casey, 505 U. S. 833 (1992), were incorrectly decided because
+a right to abortion is not “ `deeply rooted in this Nation's
+history and tradition' and `implicit in the concept of ordered
+liberty.' ” Dobbs, 597 U. S., at 231. And because the Court
+concluded that the stare decisis factors counseled against re-
+taining these cases, Dobbs overruled them. Id., at 263–290.
+It does not follow from Dobbs that all our substantive due
+process cases conflict with Glucksberg, much less that stare
+decisis would counsel overruling any that do.
+No party to this dispute questions the continued validity
+of Meyer, Pierce, or Parham. For all its concerns about de-
+ciding the issue in this posture, the dissent expresses “no
+doubt that parents have rights, even though unenumerated,
+concerning their children and the life choices they make.”
+Post, at 507. And the precedent recognizing those rights
+controls our assessment of whether the parents are likely to
+succeed on the merits.
+The word “likely” is important, because it reflects that our
+assessment is preliminary. We consider the merits not to
+conclusively resolve them, but because they bear on the lim-
+ited question before us: Are the parents entitled to the bene-
+ft of the judgment entered by the District Court while Cali-
+fornia tries to overturn that judgment on appeal? The
+Ninth Circuit—itself acting on an interim basis—said “no.”
+We disagree. The parents must continue to litigate in the
+Ninth Circuit, and if necessary, this Court. But in the
+meantime, the injunction of California's policy—which, inci-
+dentally, was entered after a full merits process—remains
+in place.
+And contrary to the dissent's charge, granting interim re-
+lief is not a sign of the Court's “impatience” to reach the
+merits. Post, at 503. Instead, the grant reflects the Court's
+judgment about the risk of irreparable harm to the parents.
+See Nken v. Holder, 556 U. S. 418, 435 (2009). If the parents
+were probably right but would suffer little harm from the
+Ninth Circuit's stay, they would not be entitled to interim
+relief. Ibid. But that is not the situation here. Under
+California's policy, parents will be excluded—perhaps for
+years—from participating in consequential decisions about
+their child's mental health and well-being. Thus, the par-
+ents are likely to suffer irreparable harm if California en-
+forces its policy while this litigation winds its way through
+the courts. Ante, at 497.
+One last point: The Court has chosen to accompany today's
+order with a per curiam opinion that explains its reasoning.
+The choice to say more rather than less is perhaps the source
+of the dissent's concern that our disposition of this applica-
+tion will be taken as a “conclusive merits judgment.” Post,
+at 504. But see, e. g., Whole Woman's Health v. Jackson,
+594 U. S. –––, ––– (2021) (Kagan, J., dissenting from denial
+of application for injunctive relief) (critiquing this Court's
+interim orders for “barely bother[ing] to explain [their] con-
+clusion[s]”); Trump v. Boyle, 606 U. S. –––, ––– (2025)
+(Kagan, J., dissenting from grant of application for stay)
+(similar). Interim applications routinely require the Court
+to balance the lock-in risk of saying too much against the
+transparency cost of saying too little. See Labrador v. Poe,
+601 U. S. 1110, 1128–1129 (2024) (Kavanaugh, J., concurring
+in grant of stay). In my judgment, the benefits of explana-
+tion win out here. The Ninth Circuit (following the Sixth
+Circuit) significantly misunderstood Mahmoud v. Taylor, 606
+U. S. 522 (2025), and general course correction will allow the
+case to progress effciently. And because of the Dobbs point
+that Justice Kagan raises, it would have been unwise to
+issue an unreasoned order on the parents' substantive due
+process claim.
+When an interim application comes to us, “we must decide
+it—grant or deny.” Labrador, 601 U. S., at 1121 (Kava-
+naugh, J., concurring in grant of stay). Because the Nken

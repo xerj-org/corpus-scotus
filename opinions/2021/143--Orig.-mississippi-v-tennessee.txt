@@ -1,0 +1,402 @@
+Mississippi v. Tennessee — No. 143, Orig. — October Term 2021 — decided 11/22/21 — opinion of the Court — author Roberts (listing code R)
+Citation: 595 U.S. 15
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r3_n758.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+gar, Acting Assistant Attorney General Williams, Deputy
+Solicitor General Kneedler, and Judith E. Coleman.*
+Chief Justice Roberts delivered the opinion of the
+Court.
+The City of Memphis sits on the banks of the Mississippi
+River in the southwest corner of Tennessee. Arkansas
+marks the City's western border, and Mississippi its south-
+ern. Hundreds of feet beneath Memphis lies one of the
+City's most valuable resources: the Middle Claiborne Aquifer.
+Workers discovered the aquifer in 1886 while drilling a well
+for the Bohlen-Huse Ice Company. Ever since, water
+pumped from the aquifer has provided Memphis with an
+abundant supply of clean, affordable drinking water.
+The Middle Claiborne Aquifer underlies other States too,
+including Mississippi. This case began in 2014 when Missis-
+sippi invoked our original jurisdiction and sought leave to
+fle a bill of complaint against Tennessee. Mississippi al-
+leges that Tennessee's pumping has taken hundreds of bil-
+lions of gallons of water that were once located beneath Mis-
+sissippi. It seeks at least $615 million in damages, as well
+as declaratory and injunctive relief. We granted Mississippi
+leave to fle its complaint and appointed a Special Master to
+oversee proceedings. The Special Master has now issued
+his report, which recommends that this Court dismiss Missis-
+*Briefs of amici curiae were fled for the State of Colorado et al. by
+Philip J. Weiser, Attorney General of Colorado, Lain Leoniak, First As-
+sistant Attorney General, and Preston V. Hartman, Katherine Duncan,
+and Emily Halvorsen, Assistant Attorneys General, and by the Attorneys
+General for their respective States as follows: Lawrence G. Wasden of
+Idaho, Doug Peterson of Nebraska, Josh Stein of North Carolina, Wayne
+Stenehjem of North Dakota, Ellen F. Rosenblum of Oregon, Jason R.
+Ravnsborg of South Dakota, and Bridget Hill of Wyoming; for the Inter-
+national Law Committee of the New York City Bar Association by Mat-
+thew E. Draper, John B. Draper, and Corinne E. Atton; and for Law Pro-
+fessors by Noah D. Hall, Jesse J. Richardson, Jr., Robert H. Abrams, and
+Burke W. Griggs, all pro se.
+sippi's complaint with leave to amend. Both Mississippi and
+Tennessee have fled exceptions.
+I
+A
+Layers of rock, clay, silt, sand, and gravel exist below the
+Earth's surface. Groundwater percolates through the
+spaces in and around these materials, sometimes forming un-
+derground reservoirs of water known as aquifers. Some aq-
+uifers are small, while others span tens of thousands of
+square miles. The Middle Claiborne Aquifer is one of the
+latter. It underlies portions of eight States in the Missis-
+sippi River Basin: Alabama, Arkansas, Illinois, Kentucky,
+Louisiana, Mississippi, Missouri, and Tennessee. See Re-
+port of Special Master 16; Hearing Tr. 278–279. Many of
+these States, including Mississippi and Tennessee, draw sig-
+nificant amounts of groundwater from the aquifer. Id., at
+660–662, 1038–1040; Joint Exh. J–71.
+To extract water from an aquifer, people drill wells.
+Pumps then draw water to the surface, where it is processed
+and piped to customers. Pumping does not just bring water
+to the surface; it also lowers water pressure at the site of
+the well. Water is naturally drawn to this area of lower
+pressure. This, in turn, “causes a pattern of lower or de-
+pressed water levels around the wells.” Report of Special
+Master 13. Hydrogeologists call such areas “cones of de-
+pression.” These cones of depression can be local—say, the
+size of a backyard. Or they can be regional, stretching out
+for many miles from a pumping site. See id., at 21–23; Hear-
+ing Tr. 176, 188, 435.
+The City of Memphis, through its public utility, the Mem-
+phis Light, Gas and Water Division (MLGW), pumps approx-
+imately 120 million gallons of groundwater from the Middle
+Claiborne Aquifer each day. Id., at 186, 200; Pl. Exh. P–157.
+It does so using more than 160 wells located in and around
+Memphis. Joint Statement of Stipulated and Contested
+Facts 101. Some of these wells are located just a few miles
+from the Mississippi-Tennessee border, though all are drilled
+straight down such that none crosses the physical border be-
+tween the States. Id., at 101–102, 106. MLGW's pumping
+contributes to a cone of depression that underlies both the
+City of Memphis and DeSoto County, Mississippi. Report of
+Special Master 21–23; Hearing Tr. 206, 435–436, 525.
+Mississippi argues that MLGW's pumping has altered the
+historic fow of groundwater within the Middle Claiborne
+Aquifer. Mississippi concedes that some water naturally
+fows from the part of the aquifer beneath Mississippi to the
+part beneath Tennessee. But only to the extent of some 30
+to 60 feet per year. See Exceptions Brief for Mississippi 8;
+see also Report of Special Master 24 (“Mississippi does not
+dispute the expert consensus that at least some quantity of
+groundwater . . . crossed the border under natural condi-
+tions.”). Mississippi contends that MLGW's pumping has
+substantially hastened this existing fow, allowing Memphis
+to take billions of gallons of groundwater that otherwise
+would have remained under Mississippi for thousands of
+years.
+B
+In 2005, prior to the present litigation, the Attorney Gen-
+eral of Mississippi sued the City of Memphis and MLGW in
+Federal District Court. The suit alleged that Memphis had
+wrongfully appropriated groundwater belonging to Missis-
+sippi through its pumping activities. Mississippi sought
+hundreds of millions of dollars in damages.
+The District Court dismissed the suit for failure to join
+Tennessee, which it determined was an indispensable party.
+Hood ex rel. Miss. v. Memphis, 533 F. Supp. 2d 646, 651 (ND
+Miss. 2008). The Fifth Circuit then affirmed. Hood ex rel.
+Miss. v. Memphis, 570 F. 3d 625 (2009).
+Both decisions turned in large part on what is known as
+“equitable apportionment.” Under that doctrine, this Court
+allocates rights to a disputed interstate water resource after
+one State sues another under our original jurisdiction. See
+Kansas v. Colorado, 206 U. S. 46, 97–98 (1907). Tradition-
+ally, equitable apportionment has been the exclusive judicial
+remedy for interstate water disputes, unless a statute, com-
+pact, or prior apportionment controls. This Court has never
+before held that an interstate aquifer is subject to equitable
+apportionment, so Mississippi's suit implicated a question of
+first impression.
+The Court of Appeals, affirming the District Court, held
+that interstate aquifers are comparable to interstate rivers
+and are thus subject to equitable apportionment. It rea-
+soned that an aquifer “fows, if slowly.” Hood ex rel. Miss.,
+570 F. 3d, at 630. And it said the fact that an aquifer is
+“located underground, as opposed to resting above ground,”
+was of “no analytical significance.” Ibid. Because deter-
+mining “Mississippi and Tennessee's relative rights to the
+Aquifer” brought the case within the equitable apportion-
+ment doctrine, the Court of Appeals affirmed the District
+Court's holding that Tennessee was an indispensable party.
+Id., at 630–631; see also Fed. Rule Civ. Proc. 19(a). Joinder
+of Tennessee in the lower federal courts was not possible,
+however, because this Court has exclusive jurisdiction over
+suits between States. See U. S. Const., Art. III, § 2; 28
+U. S. C. § 1251(a). So the Fifth Circuit held that the District
+Court had properly dismissed the suit. Hood ex rel. Miss.,
+570 F. 3d, at 632–633; Fed. Rule Civ. Proc. 19(b).
+Mississippi then petitioned for a writ of certiorari. It also
+sought leave to fle a bill of complaint against Tennessee,
+Memphis, and MLGW under our original jurisdiction. The
+proposed complaint requested over $1 billion in damages for
+the alleged taking of Mississippi's water. In the alternative,
+it sought equitable apportionment of the aquifer, with a dam-
+ages award for past diversions of groundwater. We declined
+to grant certiorari, 559 U. S. 904 (2010), and denied without
+prejudice Mississippi's request for leave to fle a bill of com-
+plaint, 559 U. S. 901 (2010).
+C
+In 2014, Mississippi again sought leave from this Court to
+fle a bill of complaint against Tennessee, Memphis, and
+MLGW. That is the basis of this suit. Mississippi's com-
+plaint alleges that MLGW “has forcibly siphoned into Ten-
+nessee hundreds of billions of gallons of high quality ground-
+water owned by Mississippi.” Complaint ¶23. It says that
+MLGW's “mechanical pumping” is to blame and that the
+“groundwater taken by Defendants from within Mississippi's
+borders would have never under normal, natural circum-
+stances been drawn into Tennessee.” Id., ¶24. This
+“wrongful taking,” the State contends, “is evidenced by a
+substantial drop in pressure and corresponding drawdown of
+stored groundwater” in northwest Mississippi, and by a cone
+of depression extending miles into its territory. Id., ¶25.
+As a result, Mississippi says, it has to drill its own wells
+deeper to access the aquifer, and use more electricity to
+pump water to the surface. Id., ¶54(b).
+Mississippi claims an absolute “ownership” right to all
+groundwater beneath its surface—even after that water has
+crossed its borders. See id., ¶¶8–12, 39. It argues that
+Tennessee's pumping thus amounts to a tortious taking of
+property, and it seeks at least $615 million in damages. See
+id., ¶¶55–56. Mississippi expressly disclaims equitable ap-
+portionment, arguing that the “fundamental premise of this
+Court's equitable apportionment jurisprudence—that each of
+the opposing States has an equality of right to use the waters
+at issue—does not apply to this dispute.” Id., ¶49.
+We granted Mississippi leave to fle its complaint and ap-
+pointed Judge Eugene E. Siler, Jr., of the Sixth Circuit to
+serve as Special Master. He has ably discharged his duties.
+Following motions practice, discovery, and a fve-day eviden-
+tiary hearing, the Special Master issued a report recom-
+mending that we dismiss Mississippi's complaint, but with
+leave to amend. He first determined that the Middle Clai-
+borne Aquifer is an interstate water resource. He found
+that the aquifer is a “single hydrogeological unit,” that Ten-
+nessee's pumping affects groundwater beneath Mississippi,
+and that prior to such pumping, “groundwater fowed be-
+tween Mississippi and Tennessee”—a fact Mississippi “does
+not dispute.” Report of Special Master 15–24.
+The Special Master then concluded that, because the aqui-
+fer is an interstate water resource, equitable apportionment
+is the appropriate remedy. He recognized that equitable ap-
+portionment “stands alone as the federal common-law princi-
+ple for disputes over interstate water,” id., at 31, and saw
+“no compelling reason to chart a new path for groundwater
+resources,” id., at 26. Because Mississippi's complaint did
+not seek equitable apportionment, the Special Master recom-
+mends that we dismiss it. But he also recommends that we
+grant Mississippi leave to fle an amended complaint seeking
+equitable apportionment, though the State has not yet
+sought such leave.
+Mississippi and Tennessee both fled exceptions to the Spe-
+cial Master's report. Mississippi objects to the Special Mas-
+ter's recommendation that we dismiss the suit. It argues
+that the Special Master erred in finding the water in the
+Middle Claiborne Aquifer subject to equitable apportion-
+ment. Tennessee objects only to the Special Master's rec-
+ommendation that we grant Mississippi leave to amend its
+complaint.
+We “conduct an independent review of the record, and as-
+sume the ultimate responsibility for deciding all matters.”
+Kansas v. Nebraska, 574 U. S. 445, 453 (2015) (internal quo-
+tation marks omitted). Based on that review, we dismiss
+Mississippi's complaint and decline to grant leave to amend.
+II
+A
+Equitable apportionment aims to produce a fair allocation
+of a shared water resource between two or more States.
+See Colorado v. New Mexico, 459 U. S. 176, 183 (1982). The
+doctrine's “guiding principle” is that States “have an equal
+right to make a reasonable use” of a shared water resource.
+Florida v. Georgia, 592 U. S. –––, ––– (2021) (internal quota-
+tion marks omitted).
+We pioneered the doctrine in Kansas v. Colorado, 206
+U. S. 46. Since then, we have often applied it to interstate
+rivers and streams. See South Carolina v. North Carolina,
+558 U. S. 256 (2010); Colorado v. New Mexico, 459 U. S. 176;
+Nebraska v. Wyoming, 325 U. S. 589 (1945); Wyoming v. Col-
+orado, 259 U. S. 419 (1922). We have also applied the doc-
+trine to disputes over interstate river basins, see Florida v.
+Georgia, 585 U. S. –––, ––– – ––– (2018), and in situations
+where the pumping of groundwater has affected the fow of
+interstate surface waters, see Nebraska v. Wyoming, 515
+U. S. 1, 14 (1995). We have even applied the doctrine to
+anadromous fsh—such as Chinook salmon and steelhead
+trout—that migrate between the Pacific Ocean and spawning
+grounds in the Columbia-Snake River system, “travel[ing]
+through several States during their lifetime.” See Idaho ex
+rel. Evans v. Oregon, 462 U. S. 1017, 1018–1019, 1024 (1983).
+Mississippi correctly observes that we have never consid-
+ered whether equitable apportionment applies to interstate
+aquifers. See Exceptions Brief for Mississippi 28. Con-
+fronted as we are with this matter of first impression, we
+resist general propositions and focus our analysis on whether
+equitable apportionment of the Middle Claiborne Aquifer
+would be “sufficiently similar” to past applications of the doc-
+trine to warrant the same treatment. Idaho ex rel. Evans,
+462 U. S., at 1024 (adopting such an approach in extending
+the doctrine to anadromous fsh). We conclude that it
+would.
+First, we have applied equitable apportionment only when
+transboundary resources were at issue. See Virginia v.
+Maryland, 540 U. S. 56, 74, n. 9 (2003); Colorado v. New Mex-
+ico, 459 U. S., at 183. The Middle Claiborne Aquifer's
+“multistate character” seems beyond dispute. See Sporhase
+v. Nebraska ex rel. Douglas, 458 U. S. 941, 953 (1982). Mis-
+sissippi concedes that the “geologic formation in which the
+groundwater is stored straddles two states.” Complaint
+¶41. Indeed, a core premise of Mississippi's suit is that Ten-
+nessee is pumping water that was once in Mississippi. The
+evidence shows that wells in Memphis and wells in north-
+west Mississippi are “pumping from the same aquifer.”
+Hearing Tr. 492; see Report of Special Master 20 (noting that
+the “scientific consensus holds that the Middle Claiborne Aq-
+uifer is a single hydrogeological unit” spanning multiple
+States).
+Also pertinent is that the Middle Claiborne Aquifer con-
+tains water that fows naturally between the States. All of
+our equitable apportionment cases have concerned such
+water, Kansas v. Colorado, 206 U. S., at 98, or fsh that live
+in it, Idaho ex rel. Evans, 462 U. S., at 1024. Mississippi
+suggests the Middle Claiborne Aquifer is distinguishable
+from interstate rivers and streams because its natural fow
+is “extremely slow.” Exceptions Brief for Mississippi 8.
+But we have long applied equitable apportionment even to
+streams that run dry from time to time. See Kansas v. Col-
+orado, 206 U. S., at 115. And although the transboundary
+fow here may be a mere “one or two inches per day,” Excep-
+tions Brief for Mississippi 8, that amounts to over 35 million
+gallons of water per day, and over ten billion gallons per
+year, see Hearing Tr. 532–533. So the speed of the fow, at
+least in the context of this case, does not place the aquifer
+beyond equitable apportionment.
+Finally, it is clear that actions in Tennessee “reach[ ]
+through the agency of natural laws” to affect the portion of
+the aquifer that underlies Mississippi. Kansas v. Colorado,
+206 U. S., at 97. Tennessee's pumping has contributed to a
+cone of depression that extends miles into northern Missis-
+sippi. Hearing Tr. 484–485, 501–502, 926; see also Report of
+Special Master 22–23. Mississippi itself contends that this
+cone of depression has reduced groundwater storage and
+pressure in northern Mississippi. See Complaint ¶¶25, 54.
+It also alleges that Tennessee's pumping is “siphoning” tens
+of millions of gallons of groundwater each day from Missis-
+sippi's portion of the aquifer. Id., ¶54. Such interstate ef-
+flects are a hallmark of our equitable apportionment cases.
+See, e. g., Florida v. Georgia, 592 U. S., at ––– – ––– (2021)
+(examining the effects of Georgia's water use on Florida's
+oyster fsheries and river ecosystem).
+For these reasons, we hold that the waters of the Middle
+Claiborne Aquifer are subject to the judicial remedy of equi-
+table apportionment.
+B
+Mississippi contends that it has sovereign ownership of all
+groundwater beneath its surface, so equitable apportionment
+ought not apply. We see things differently. It is certainly
+true that “each State has full jurisdiction over the lands
+within its borders, including the beds of streams and other
+waters.” Kansas v. Colorado, 206 U. S., at 93. But such
+jurisdiction does not confer unfettered “ownership or con-
+trol” of flowing interstate waters themselves. Wyoming v.
+Colorado, 259 U. S., at 464. Thus, we have “consistently de-
+nied” the proposition that a State may exercise exclusive
+ownership or control of interstate “waters flowing within her
+boundaries.” Hinderlider v. La Plata River & Cherry
+Creek Ditch Co., 304 U. S. 92, 102 (1938). Although our past
+cases have generally concerned streams and rivers, we see
+no basis for a different result in the context of the Middle
+Claiborne Aquifer. When a water resource is shared be-
+tween several States, each one “has an interest which should
+be respected by the other.” Wyoming v. Colorado, 259
+U. S., at 466. Mississippi's ownership approach would allow
+an upstream State to completely cut off fow to a downstream
+one, a result contrary to our equitable apportionment
+jurisprudence.
+Mississippi argues that our decision in Tarrant Regional
+Water Dist. v. Herrmann, 569 U. S. 614 (2013), supports
+its position. We disagree. Tarrant concerned the inter-
+pretation of an interstate compact. We held that the
+compact did not authorize the party States to “cross each
+other's boundaries to access a shared pool of water.” Id., at
+627. Our decision turned on the language of the compact
+and background principles of contract law. We did not con-
+sider equitable apportionment, because the affected States
+had taken it upon themselves to negotiate a compact that
+determined their respective rights to the resource in
+question.
+To the extent Tarrant stands for the broader proposition
+that one State may not physically enter another to take
+water in the absence of an express agreement, that principle
+is not implicated here. The parties have stipulated that all
+of Tennessee's wells are drilled straight down and do not
+cross the Mississippi-Tennessee border. See Joint State-
+ment of Stipulated and Contested Facts 106. When Tennes-
+see pumps groundwater, it is pumping water located within
+its own territory. That some of the water was previously
+located in Mississippi is of no moment, just as it was not
+dispositive that the river at issue in Colorado v. New Mexico
+started in Colorado, 459 U. S., at 181, n. 8, or that certain
+fsh at issue in Idaho ex rel. Evans hatched in Idaho, 462
+U. S., at 1028, n. 12. The origin of an interstate water re-
+source may be relevant to the terms of an equitable appor-
+tionment. But that feature alone cannot place the resource
+outside the doctrine itself.
+We conclude that the waters contained in the Middle Clai-
+borne Aquifer are subject to equitable apportionment. We
+therefore overrule Mississippi's exceptions and adopt the
+Special Master's recommendation to dismiss the bill of
+complaint.
+III
+After recommending that this Court dismiss Mississippi's
+suit, the Special Master went on to recommend that we grant
+the State leave to fle an amended complaint seeking equita-
+ble apportionment. We decline to decide whether Missis-
+sippi should be granted such leave, because the State has
+never sought it. As Mississippi itself emphasizes—
+literally—it has “not yet requested equitable apportion-
+ment.” Reply Brief to Defendants' Exception 7.
+Nor can we assume Mississippi will do so. Mississippi's
+initial pleadings in this case disavowed equitable apportion-
+ment entirely. See Complaint ¶38 (“This case does not fall
+within the Court's equitable apportionment jurisprudence.”).
+The State instead sought relief under principles of tort law.
+And the proceedings below reflected this posture, focusing
+on the physical properties of the aquifer and Tennessee's
+pumping. An equitable apportionment case would require
+us to consider a broader range of evidence. Such evidence
+often includes not only the physical properties and fow of
+a water resource, but also existing uses, the availability of
+alternatives, practical effects, and the costs and benefits to
+the States involved. See Florida v. Georgia, 585 U. S.,
+at ––– – ––– (2018); South Carolina, 558 U. S., at 271–272;
+Colorado v. New Mexico, 459 U. S., at 183, 186–187. A just
+equitable apportionment might also require the joinder of
+additional parties, cf. Fed. Rule Civ. Proc. 19(a), as Missis-
+sippi and Tennessee are not the only States that rely on the
+Middle Claiborne Aquifer for groundwater, see Hearing Tr.
+660–662, 1038–1040; Joint Exh. J–71. Finally, if Mississippi
+were to seek leave to amend, its complaint would be subject
+to our longstanding rule that a “State seeking equitable
+apportionment under our original jurisdiction must prove
+by clear and convincing evidence some real and substan-
+tial injury or damage.” Idaho ex rel. Evans, 462 U. S.,
+at 1027.
+As Mississippi has neither sought leave to amend nor ten-
+dered a proposed complaint seeking equitable apportion-
+ment, we have no occasion to determine how these and other
+pertinent principles might apply.
+* * *
+Mississippi has failed to show that it is entitled to relief.
+We therefore overrule Mississippi's exceptions to the Special
+Master's report, sustain Tennessee's, and dismiss the case.
+It is so ordered.

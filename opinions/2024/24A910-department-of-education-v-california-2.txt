@@ -1,0 +1,40 @@
+Department of Education v. California — No. 24A910 — October Term 2024 — decided 4/04/25 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 604 U.S. 650
+Source: https://www.supremecourt.gov/opinions/24pdf/604us2r24_l53m.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+that respondents are likely to succeed on the merits of their
+claims under the Administrative Procedure Act (APA), 60
+Stat. 237. On March 26, the Government fled this applica-
+tion to vacate the District Court's March 10 order (as ex-
+tended on March 24) and requested an immediate adminis-
+trative stay. The application was presented to Justice
+Jackson and by her referred to the Court.
+Although the Courts of Appeals generally lack appellate
+jurisdiction over appeals from TROs, several factors counsel
+in favor of construing the District Court's order as an appeal-
+able preliminary injunction. Among other considerations,
+the District Court's order carries many of the hallmarks of
+a preliminary injunction. See Sampson v. Murray, 415 U. S.
+61, 87 (1974); Abbott v. Perez, 585 U. S. 579, 594 (2018).
+Moreover, the District Court's “basis for issuing the order
+[is] strongly challenged,” as the Government is likely to suc-
+ceed in showing the District Court lacked jurisdiction to
+order the payment of money under the APA. Sampson, 415
+U. S., at 87. The APA's waiver of sovereign immunity does
+not apply “if any other statute that grants consent to suit
+expressly or impliedly forbids the relief which is sought.” 5
+U. S. C. § 702. Nor does the waiver apply to claims seeking
+“money damages.” Ibid. True, a district court's jurisdic-
+tion “is not barred by the possibility” that an order setting
+aside an agency's action may result in the disbursement of
+funds. Bowen v. Massachusetts, 487 U. S. 879, 910 (1988).
+But, as we have recognized, the APA's limited waiver of im-
+munity does not extend to orders “to enforce a contractual
+obligation to pay money” along the lines of what the District
+Court ordered here. Great-West Life & Annuity Ins. Co. v.
+Knudson, 534 U. S. 204, 212 (2002). Instead, the Tucker Act
+grants the Court of Federal Claims jurisdiction over suits
+based on “any express or implied contract with the United
+States.” 28 U. S. C. § 1491(a)(1).
+As for the remaining stay factors, respondents have not
+refuted the Government's representation that it is unlikely

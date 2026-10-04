@@ -1,0 +1,179 @@
+Badgerow v. Walters — No. 20-1143 — October Term 2021 — decided 3/31/22 — Appendix (Appendix to opinion of Breyer, J.)
+Citation: 596 U.S. 1
+Source: https://www.supremecourt.gov/opinions/21pdf/596us1r20_f2ag.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+FAA's interrelated enforcement mechanisms, not one ap-
+proach for the mechanism provided in Section 4 and a dif-
+ferent approach for the mechanisms provided in all other
+sections.
+* * *
+In this dissent I hope to have provided an example of what
+it means to say that we do not interpret a statute's words
+“in a vacuum.” Abramski v. United States, 573 U. S. 169,
+179 (2014). Rather, we should interpret those words “with
+reference to the statutory context, structure, history and
+purpose[,] . . . not to mention common sense.” Ibid. (inter-
+nal quotation marks omitted). Here, these considerations
+all favor a uniform look-through approach. And the stat-
+ute's language permits that approach. Interpretation of a
+statute must, of course, be consistent with its text. But
+looking solely to the text, and with a single-minded focus
+on individual words in the text, will sometimes lead to an
+interpretation at odds with the statute as a whole. And I
+fear that is what has happened in this case.
+I suggest that by considering not only the text, but con-
+text, structure, history, purpose, and common sense, we
+would read the statute here in a different way. That way
+would connect the statute more directly with the area of law,
+and of human life, that it concerns. And it would allow the
+statute, and the law, to work better and more simply for
+those whom it is meant to serve. With respect, I dissent.
+APPENDIX
+9 U. S. C. §§ 4, 5, 7, 9, 10, 11
+“§ 4. Failure to arbitrate under agreement; petition to United
+States court having jurisdiction for order to compel arbitra-
+tion; notice and service thereof; hearing and determination.
+“A party aggrieved by the alleged failure, neglect, or re-
+fusal of another to arbitrate under a written agreement for
+arbitration may petition any United States district court
+which, save for such agreement, would have jurisdiction
+under title 28, in a civil action or in admiralty of the subject
+matter of a suit arising out of the controversy between the
+parties, for an order directing that such arbitration proceed
+in the manner provided for in such agreement. Five days'
+notice in writing of such application shall be served upon the
+party in default. Service thereof shall be made in the man-
+ner provided by the Federal Rules of Civil Procedure. The
+court shall hear the parties, and upon being satisfied that
+the making of the agreement for arbitration or the failure to
+comply therewith is not in issue, the court shall make an
+order directing the parties to proceed to arbitration in ac-
+cordance with the terms of the agreement. The hearing and
+proceedings, under such agreement, shall be within the dis-
+trict in which the petition for an order directing such arbitra-
+tion is fled. If the making of the arbitration agreement or
+the failure, neglect, or refusal to perform the same be in
+issue, the court shall proceed summarily to the trial thereof.
+If no jury trial be demanded by the party alleged to be in
+default, or if the matter in dispute is within admiralty juris-
+diction, the court shall hear and determine such issue.
+Where such an issue is raised, the party alleged to be in
+default may, except in cases of admiralty, on or before the
+return day of the notice of application, demand a jury trial
+of such issue, and upon such demand the court shall make an
+order referring the issue or issues to a jury in the manner
+provided by the Federal Rules of Civil Procedure, or may
+specially call a jury for that purpose. If the jury find that
+no agreement in writing for arbitration was made or that
+there is no default in proceeding thereunder, the proceeding
+shall be dismissed. If the jury find that an agreement for
+arbitration was made in writing and that there is a default
+in proceeding thereunder, the court shall make an order sum-
+marily directing the parties to proceed with the arbitration
+in accordance with the terms thereof.”
+“§ 5. Appointment of arbitrators or umpire
+“If in the agreement provision be made for a method of
+naming or appointing an arbitrator or arbitrators or an um-
+pire, such method shall be followed; but if no method be pro-
+vided therein, or if a method be provided and any party
+thereto shall fail to avail himself of such method, or if for
+any other reason there shall be a lapse in the naming of an
+arbitrator or arbitrators or umpire, or in filling a vacancy,
+then upon the application of either party to the controversy
+the court shall designate and appoint an arbitrator or arbi-
+trators or umpire, as the case may require, who shall act
+under the said agreement with the same force and effect as
+if he or they had been specifically named therein; and unless
+otherwise provided in the agreement the arbitration shall be
+by a single arbitrator.”
+“§ 7. Witnesses before arbitrators; fees; compelling attendance
+“The arbitrators selected either as prescribed in this title
+or otherwise, or a majority of them, may summon in writing
+any person to attend before them or any of them as a witness
+and in a proper case to bring with him or them any book,
+record, document, or paper which may be deemed material
+as evidence in the case. The fees for such attendance shall
+be the same as the fees of witnesses before masters of the
+United States courts. Said summons shall issue in the name
+of the arbitrator or arbitrators, or a majority of them, and
+shall be signed by the arbitrators, or a majority of them, and
+shall be directed to the said person and shall be served in
+the same manner as subpoenas to appear and testify before
+the court; if any person or persons so summoned to testify
+shall refuse or neglect to obey said summons, upon petition
+the United States district court for the district in which such
+arbitrators, or a majority of them, are sitting may compel
+the attendance of such person or persons before said arbitra-
+tor or arbitrators, or punish said person or persons for con-
+tempt in the same manner provided by law for securing the
+attendance of witnesses or their punishment for neglect or
+refusal to attend in the courts of the United States.”
+“§ 9. Award of arbitrators; confirmation; jurisdiction;
+procedure
+“If the parties in their agreement have agreed that a judg-
+ment of the court shall be entered upon the award made
+pursuant to the arbitration, and shall specify the court, then
+at any time within one year after the award is made any
+party to the arbitration may apply to the court so specified
+for an order confirming the award, and thereupon the court
+must grant such an order unless the award is vacated, modi-
+fed, or corrected as prescribed in sections 10 and 11 of this
+title. If no court is specified in the agreement of the parties,
+then such application may be made to the United States
+court in and for the district within which such award was
+made. Notice of the application shall be served upon the
+adverse party, and thereupon the court shall have jurisdic-
+tion of such party as though he had appeared generally in
+the proceeding. If the adverse party is a resident of the
+district within which the award was made, such service shall
+be made upon the adverse party or his attorney as pre-
+scribed by law for service of notice of motion in an action in
+the same court. If the adverse party shall be a nonresident,
+then the notice of the application shall be served by the mar-
+shal of any district within which the adverse party may be
+found in like manner as other process of the court.”
+“§ 10. Same; vacation; grounds; rehearing
+“(a) In any of the following cases the United States court
+in and for the district wherein the award was made may
+make an order vacating the award upon the application of
+any party to the arbitration—
+“(1) where the award was procured by corruption, fraud,
+or undue means;
+“(2) where there was evident partiality or corruption in
+the arbitrators, or either of them;
+“(3) where the arbitrators were guilty of misconduct in
+refusing to postpone the hearing, upon sufficient cause
+shown, or in refusing to hear evidence pertinent and material
+to the controversy; or of any other misbehavior by which the
+rights of any party have been prejudiced; or
+“(4) where the arbitrators exceeded their powers, or so
+imperfectly executed them that a mutual, final, and definite
+award upon the subject matter submitted was not made.
+“(b) If an award is vacated and the time within which the
+agreement required the award to be made has not expired,
+the court may, in its discretion, direct a rehearing by the
+arbitrators.
+“(c) The United States district court for the district
+wherein an award was made that was issued pursuant to
+section 580 of title 5 may make an order vacating the award
+upon the application of a person, other than a party to the
+arbitration, who is adversely affected or aggrieved by the
+award, if the use of arbitration or the award is clearly incon-
+sistent with the factors set forth in section 572 of title 5.”
+“§ 11. Same; modification or correction; grounds; order
+“In either of the following cases the United States court
+in and for the district wherein the award was made may
+make an order modifying or correcting the award upon the
+application of any party to the arbitration—
+“(a) Where there was an evident material miscalcula-
+tion of figures or an evident material mistake in the descrip-
+tion of any person, thing, or property referred to in the
+award.
+“(b) Where the arbitrators have awarded upon a matter
+not submitted to them, unless it is a matter not affecting the
+merits of the decision upon the matter submitted.
+“(c) Where the award is imperfect in matter of form not
+affecting the merits of the controversy.
+The order may modify and correct the award, so as to effect
+the intent thereof and promote justice between the
+parties.”

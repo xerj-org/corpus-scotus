@@ -1,0 +1,37 @@
+Thryv, Inc. v. Click-To-Call Technologies, LP — No. 18-916 — October Term 2019 — decided 4/20/20 — Appendix (Appendix to opinion of the Court)
+Citation: 590 U.S. 45
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=61 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+V
+Click-to-Call presses an alternative reason why the
+Board's ruling on its § 315(b) objection is appealable. The
+Board's final written decision addressed the § 315(b) issue, so
+Click-to-Call argues that it may appeal under § 319, which
+authorizes appeal from the final written decision. But even
+labeled as an appeal from the final written decision, Click-to-
+Call's attempt to overturn the Board's § 315(b) ruling is still
+barred by § 314(d). Because § 315(b)'s sole office is to govern
+institution, Click-to-Call's contention remains, essentially,
+that the agency should have refused to institute inter partes
+review. As explained, § 314(d) makes that contention
+unreviewable.
+* * *
+For the reasons stated, we vacate the judgment of the
+United States Court of Appeals for the Federal Circuit and
+remand the case with instructions to dismiss for lack of ap-
+pellate jurisdiction.
+It is so ordered.
+APPENDIX OF KEY STATUTORY PROVISIONS
+35 U. S. C. § 314:
+“Institution of inter partes review
+“(a) Threshold.—The Director may not authorize an
+inter partes review to be instituted unless the Director
+determines that the information presented in the peti-
+tion fled under section 311 and any response fled under
+section 313 shows that there is a reasonable likelihood
+that the petitioner would prevail with respect to at least
+1 of the claims challenged in the petition.
+“(b) Timing.—The Director shall determine whether
+to institute an inter partes review under this chapter
+tution decision. 579 U. S., at 271, 275. The appeal bar, we therefore reit-
+erate, is not limited to the agency's application of § 314(a).

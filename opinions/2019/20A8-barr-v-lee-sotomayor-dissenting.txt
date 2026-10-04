@@ -1,0 +1,138 @@
+Barr v. Lee — No. 20A8 — October Term 2019 — decided 7/14/20 — Sotomayor, J., dissenting
+Citation: 591 U.S. 979
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf#page=538 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+government-resume-capital-punishment-after-nearly-two -
+decade-lapse. In an opinion preliminarily enjoining the exe-
+cution of Mr. Lee and three other plaintiffs, the U. S. District
+Court for the District of Columbia explained that the “scien-
+tifc evidence before [it] overwhelmingly indicates that the
+[Government's] 2019 Protocol is very likely to cause Plaintiffs
+extreme pain and needless suffering during their execu-
+tions.” Memorandum Opinion in No. 19–mc–145, In the
+Matter of the Federal Bureau of Prisons' Execution Proto-
+col Cases, Doc. 135, pp. 9, 11 (July 13, 2020). That court also
+explained that Mr. Lee and the other plaintiffs had “identi-
+fed two available and readily implementable alternative
+methods of execution that would significantly reduce the risk
+of serious pain.” Id., at 18.
+In short, the resumption of federal executions promises to
+provide examples that illustrate the difficulties of adminis-
+tering the death penalty consistent with the Constitution.
+As I have previously written, the solution may be for this
+Court to directly examine the question whether the death
+penalty violates the Constitution. See Glossip v. Gross, 576
+U. S., at 946 (dissenting opinion).
+Justice Sotomayor, with whom Justice Ginsburg and
+Justice Kagan join, dissenting.
+The Court hastily disposes of respondents' Eighth Amend-
+ment challenge to the use of pentobarbital in the Federal
+Government's single-drug execution protocol. In doing so,
+the Court accepts the Government's artificial claim of ur-
+gency to truncate ordinary procedures of judicial review.
+This sets a dangerous precedent. The Government is poised
+to carry out the first federal executions in nearly two dec-
+ades. Yet because of the Court's rush to dispose of this liti-
+gation in an emergency posture, there will be no meaningful
+judicial review of the grave, fact-heavy challenges respond-
+ents bring to the way in which the Government plans to exe-
+cute them.
+I
+Respondents' original complaint in this case dates back to
+2005. Since then, the Government has modified its execu-
+tion protocol in significant part, most recently in July 2019
+when it replaced the three-drug protocol with a single drug:
+pentobarbital sodium. App. to Application for Stay or Vaca-
+tur 5a. In light of this change, respondents alleged that the
+Government's planned use of pentobarbital could result in
+needless pain and suffering in violation of the Eighth
+Amendment. Among other things, respondents proffered
+expert evidence that the majority of those injected with pen-
+tobarbital suffer fash pulmonary edema, which can lead to a
+sensation akin to drowning and “ `extreme pain, terror, and
+panic.' ” Id., at 10a. Respondents first focused their litiga-
+tion efforts on the claim that the 2019 protocol exceeds statu-
+tory authority, although they also alleged that the protocol
+violated the Administrative Procedure Act, the Controlled
+Substances Act, the Food, Drug, and Cosmetic Act, and the
+Constitution. The Court of Appeals issued a final ruling on
+the statutory-authority claim in April 2020, expressly declin-
+ing to rule on respondents' remaining claims on the ground
+that they were “ `neither addressed by the district court nor
+fully briefed.' ” Id., at 7a. This Court denied review two
+weeks ago.
+On June 15, 2020, the Government announced respondents'
+new execution dates. Four days later, respondents fled a
+joint motion for a preliminary injunction on their remaining
+claims and fled a motion for expedited discovery the follow-
+ing day. The parties submitted hundreds of pages of
+briefing and exhibits over two weeks. The District Court
+decided this record-heavy motion within two weeks, and dur-
+ing a time when two sister courts independently stayed two
+of the executions. The District Court evaluated respond-
+ents' Eighth Amendment challenge and stayed their execu-
+tions to permit full consideration by the District Court and
+the Court of Appeals of their claims. The Court of Appeals
+denied the Government's motion for a stay, noting that re-
+spondents' claims involve “novel and difficult constitutional
+questions” that require the benefit of “further factual and
+legal development.” The court sua sponte set an expedited
+briefing schedule to resolve the appeal. Mere hours later,
+however, this Court now grants the Government's last-
+minute application to vacate the stay, allowing death-
+sentenced inmates to be executed before any court can prop-
+erly consider whether their executions are unconstitutionally
+cruel and unusual.
+II
+That outcome is hard to square with this Court's denial of
+a similar request by the Government seven months ago in
+this very litigation. See Barr v. Roane, 589 U. S. 1097
+(2019). That order prohibited the Government to proceed
+with executions before the Court of Appeals could address
+respondents' different, but equally serious statutory chal-
+lenge to the federal execution protocol. And in a separate
+statement, three Members of this Court contemplated that
+respondents here would not be executed before “the merits
+of their Administrative Procedure Act [APA] claim [are] adju-
+dicated.” Id., at 1098 (statement of Alito, J., respecting de-
+nial of stay or vacatur). They maintained that “in light of
+what is at stake, it would be preferable for the District
+Court's decision to be reviewed on the merits by the Court
+of Appeals for the District of Columbia Circuit before the
+executions are carried out.” Ibid.
+These statements now ring hollow. By overriding the
+lower court's stay, this Court forecloses any review of re-
+spondents' APA claims and bypasses the appellate court's
+review of a novel challenge to the federal execution protocol.
+It does so despite the fact that, whatever may have been
+true on the records presented in previous cases, see, e. g.,
+Zagorski v. Parker, 586 U. S. 938 (2018), the parties here
+introduced conflicting expert evidence about the likelihood
+that pentobarbital causes pain and suffering before ren-
+dering a person insensate, which no factfinder has
+adjudicated.
+III
+Once again, the Court has chosen to grant an emergency
+application from the Government for extraordinary relief.
+Wolf v. Cook County , 589 U. S. 1190, 1194 (2020) (Soto-
+mayor, J., dissenting from grant of stay). The dangers of
+that practice are particularly severe here, where the grant
+of the Government's emergency application inflicts the most
+irreparable of harms without the deliberation such an action
+warrants. See id., at 1195 (entertaining last-minute stay ap-
+plications from the Government “upend[s] the normal appel-
+late process” and “force[s] the Court to consider important
+statutory and constitutional questions that have not been
+ventilated fully in the lower courts, on abbreviated time-
+tables and without oral argument”).
+* * *
+Today's decision illustrates just how grave the conse-
+quences of such accelerated decisionmaking can be. The
+Court forever deprives respondents of their ability to press
+a constitutional challenge to their lethal injections, and pre-
+vents lower courts from reviewing that challenge. All of
+that is at sharp odds with this Court's own ruling mere
+months earlier. In its hurry to resolve the Government's
+emergency motions, I fear the Court has overlooked not only
+its prior ruling, but also its role in safeguarding robust fed-
+eral judicial review. I respectfully dissent.

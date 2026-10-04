@@ -1,0 +1,360 @@
+Sripetch v. SEC — No. 25-466 — October Term 2025 — decided 6/04/26 — Thomas, J., concurring
+Citation: 608 U.S. 555
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r44_j42l.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ble principles, and it would invite other questions too. See,
+e. g., SEC v. Jarkesy, 603 U. S. 109, 123–125 (2024) (holding
+that, when the SEC seeks penalties, the Seventh Amend-
+ment entitles the defendant to a jury trial). But none of
+this means, as Mr. Sripetch suggests, that we should hold
+the SEC's disgorgement remedy requires proof of pecuniary
+loss, a requirement foreign to Liu and to traditional equita-
+ble principles alike.
+Mr. Sripetch's amici offer one more way still in which,
+they say, a decision for the SEC in this case could risk trans-
+forming disgorgement into a penalty. They point to the tra-
+ditional equitable principle that disgorgement is appropriate
+only in cases where a defendant has violated a victim's le-
+gally protected rights. See, e. g., Brief for Chamber of Com-
+merce of the United States of America as Amicus Curiae 11–
+12 (citing Third Restatement § 51, Comment a). And they
+express concern that the Commission might try to seek dis-
+gorgement even for securities-law violations that do not in-
+vade the legally protected interests of any investor. See id.,
+at 15–20. But that worry, too, is beside the point in this
+case for, as it comes to us, Mr. Sripetch has not disputed that
+his victims “suffer[ed] a violation of their legally protected
+interests.” 154 F. 4th, at 986, n. 6.
+*
+Because traditional equitable principles do not require a
+showing of pecuniary loss to justify a disgorgement award
+and nothing in Liu teaches otherwise, the judgment of the
+Ninth Circuit is affirmed.
+It is so ordered.
+Justice Thomas, concurring.
+The Court correctly holds that the Securities and Ex-
+change Commission can seek disgorgement as a remedy for
+securities fraud without showing that the victims suffered
+pecuniary harm. The Court assumes without deciding that
+disgorgement is an equitable remedy, even after Congress
+amended the statute to separate disgorgement from equita-
+ble remedies. In a future case, we should recognize that
+disgorgement is now a legal remedy for which the Seventh
+Amendment requires a jury trial.
+I
+Disgorgement generally means the “act of giving up some-
+thing (such as profts illegally obtained) on demand or by
+legal compulsion.” Black's Law Dictionary 588 (12th ed.
+2024). But, disgorgement has “never been a precise legal
+term,” SEC v. Hallam, 42 F. 4th 316, 327 (CA5 2022), in part
+because it “has no basis in historical practice,” Liu v. SEC,
+591 U. S. 71, 95 (2020) (Thomas, J., dissenting). This lack of
+pedigree causes confusion as to whether “disgorgement” re-
+fers to an “equitable” remedy or a “legal” one requiring a
+jury trial. See S. Bray, Fiduciary Remedies, in The Oxford
+Handbook of Fiduciary Law 454 (2019) (Bray, Fiduciary
+Remedies) (noting that “[s]ometimes” disgorgement refers to
+“any gain-based equitable remedy,” but “other times” the
+term is used to refer to “legal relief”).
+Lower courts created the disgorgement remedy for
+securities-law violations in the 1970s. See ante, at 558. In
+1971, the Second Circuit became the first to hold that the
+SEC could pursue a “restitution of profts” remedy based on
+a violation of the securities laws. SEC v. Texas Gulf Sul-
+phur Co., 446 F. 2d 1301, 1307. The Second Circuit soon
+began to call this remedy “disgorgement.” SEC v. Manor
+Nursing Centers, Inc., 458 F. 2d 1082, 1105 (1972). It recog-
+nized that no statute “specifically authorize[d]” this new
+remedy, yet it believed that courts had equitable authority
+to create new remedies to deter securities-law violations.
+Id., at 1103–1104; but see Alexander v. Sandoval, 532 U. S. 275,
+286 (2001). Disgorgement “then leaked from that laboratory
+and spread rapidly to each regional circuit.” Hallam, 42
+F. 4th, at 327. In 2002, Congress amended the Exchange Act
+and authorized the SEC to pursue “any equitable relief that
+may be appropriate or necessary for the benefit of investors.”
+§ 305, 116 Stat. 779. The SEC began invoking this new provi-
+sion, 15 U. S. C. § 78u(d)(5), as a statutory basis for the dis-
+gorgement remedy that it had already pursued for decades.
+This Court eventually accepted disgorgement as an eq-
+uitable remedy under § 78u(d)(5) in 2020. In Liu v. SEC,
+this Court held that, despite disgorgement's “relatively re-
+cent vintage” and “ ` “protean character,” ' ” it was a tradi-
+tional equitable remedy authorized by § 78u(d)(5)'s general
+provision for equitable relief. 591 U. S., at 76, n. 1, 80; see
+also id., at 94 (Thomas, J ., dissenting). The Court also em-
+phasized that disgorgement would need to comply with tradi-
+tional equitable rules, such as the duty to return disgorged
+funds to victims, at least when doing so was “feasible.” See
+id., at 87–90 (majority opinion); see also ante, at 559–560.
+But, less than a year later, Congress amended the Ex-
+change Act. § 6501, 134 Stat. 4625. Congress added a
+new subsection—§ 78u(d)(7)—authorizing the SEC to seek
+“disgorgement.” Id., at 4626. A separate subsection con-
+ferred on federal district courts the power to “require dis-
+gorgement . . . of any unjust enrichment.” § 78u(d)(3)(A)(ii).
+And, Congress set different limitations periods for “dis-
+gorgement” and “equitable remedies.” §§ 78u(d)(8)(A), (B).
+“Disgorgement” is subject to either a 5- or 10-year limi-
+tations period depending on the underlying violation,
+§ 78u(d)(8)(A), while “any equitable remedy” must be sought
+within 10 years, § 78u(d)(8)(B).
+II
+The Seventh Amendment requires a jury trial when the
+SEC seeks disgorgement because Congress has now made
+disgorgement a legal remedy, not an equitable one.
+A
+The Seventh Amendment provides that “the right of trial
+by jury shall be preserved” in “Suits at common law.” “By
+common law,” the Constitution means “suits in which legal
+rights” are adjudicated, “in contradistinction to those where
+equitable rights alone were recognized, and equitable reme-
+dies were administered.” Parsons v. Bedford, 3 Pet. 433,
+447 (1830) (opinion for the Court by Story, J.).
+History informs the distinction between law and equity.
+At the founding, courts were principally divided into
+common-law courts and equity courts. 1 Common-law courts
+could “entertain suits only in a prescribed form, and they
+[could] give a general judgment only in the prescribed form.”
+1 J. Story, Equity Jurisprudence § 27 (13th ed. 1886) (Story).
+Equity courts, by contrast, could “give relief in extraordi-
+nary cases, which are exceptions to general rules.” The
+Federalist No. 83, p. 505 (C. Rossiter ed. 1961) (A. Hamilton)
+(some emphasis deleted; footnote omitted).
+Equity courts thus provided different remedies from law
+courts. The “essential characteristic of Equity procedure
+. . . is that it begins with a petition . . . to secure justice
+where it would not be secured by the ordinary and existing
+processes of law.” G. Adams, The Origin of English Equity ,
+16 Colum. L. Rev. 87, 91 (1916); see also L. Smith, Common
+Law and Equity in R3RUE, 68 Wash. & Lee L. Rev. 1185,
+1195 (2011) (describing the core use of equity as a “case
+where the plaintiff has a legal right and yet goes to Equity
+for some remedy that the common law cannot provide”). So,
+for example, common-law courts could find a breach of con-
+tract and provide the general legal remedy to the harmed
+party, “damages for the breach.” 1 Story § 30. But, when
+traditional legal remedies would be inadequate, equity courts
+1 England maintained separate law and equity courts until 1875, while
+in America, many States initially established separate equity courts before
+some began to fuse law and equity in the mid-19th century. S. Bray & E.
+Sherwin, Remedies: Cases and Materials 424, 426, 439 (4th ed. 2024). The
+federal district courts adjudicated claims under law and equity separately
+until the adoption of the Federal Rules of Civil Procedure in 1938. Id.,
+at 439–441.
+could provide more exceptional relief to maintain the status
+quo or ensure fairness, such as by compelling specific per-
+formance of the contract or issuing an “injunction to prevent
+wrongs.” Ibid. And, consistent with equity's “aim of exact
+justice,” S. Bray, Punitive Damages Against Trustees? in Re-
+search Handbook on Fiduciary Law 213 (D. Smith & A. Gold
+eds. 2018), “it is against the general principles of equity to
+aid in the enforcement of penalties or forfeitures,” 2 Story
+§ 1494. In short, equity provided exceptional relief tailored
+to the unique circumstances of the harmed party to achieve
+fairness when the remedies available at law were inadequate
+to do so. See 1 id., §§ 27–33, 59, 76; S. Bray, Equity, Law,
+and the Seventh Amendment, 100 Texas L. Rev. 467, 485,
+488–489 (2022).
+The Seventh Amendment guarantees a jury trial for “the
+sort[s] of suit[s] historically adjudicated before common-law
+courts,” but not for “the stuff of equity . . . jurisdiction.”
+SEC v. Jarkesy, 603 U. S. 109, 151 (2024) (Gorsuch, J ., con-
+curring). When parties seek (among other things) money
+damages, monetary relief in legal restitution, or monetary
+penalties, they seek “prototypical” legal relief and are enti-
+tled to a jury trial under the Seventh Amendment. Id., at
+123 (majority opinion). By contrast, when parties seek par-
+ticular remedies that merely “return unjustly obtained
+funds” or “ `restore the status quo,' ” such as an accounting
+for profts or an injunction, they seek equitable relief beyond
+the scope of the Seventh Amendment. Ibid.
+B
+When the SEC seeks “disgorgement” under the Exchange
+Act, it seeks a legal remedy. § 78u(d)(7); see also
+§ 78u(d)(3)(A)(ii).
+SEC disgorgement does not resemble any traditional equi-
+table remedy. It does not correspond to the most common
+forms of equitable relief that involved returning money—
+constructive trusts and equitable liens. Those restitution-
+ary remedies require plaintiffs to trace their original prop-
+erty to “particular funds or property in the defendant's pos-
+session,” which neither the SEC nor victims of securities
+fraud can generally do. Great-West Life & Annuity Ins. Co.
+v. Knudson, 534 U. S. 204, 213 (2002).
+Nor does SEC disgorgement correspond to the “accounting
+for profts” equitable remedy, as some have argued. That
+remedy more broadly entitles the plaintiff to the defendant's
+profts from the “use of” the plaintiff 's property without re-
+quiring him to trace his original property to the property
+that he seeks to recover. Id., at 214, and n. 2. But, unlike
+SEC disgorgement, an accounting for profts is fundamen-
+tally “transitive” and involves “an accounting by A to B” for
+the profts A obtained with B's property. Bray, Fiduciary
+Remedies 454. It traditionally was limited to cases in which
+a fduciary misused his principal's properties or in which the
+plaintiff had a trust-like interest in the funds sought. See 3
+J. Pomeroy, Equity Jurisprudence § 1421 (1883); J. Eichen-
+grun, Remedying the Remedy of Accounting, 60 Ind. L. J.
+463, 468, 482 (1985). Recognizing these limits, one treatise
+explained that generally bank customers could not even seek
+an accounting in equity from their bankers because the rela-
+tionship was not a fduciary one. E. Merwin, Equity and
+Equity Pleading § 582 (1895). SEC disgorgement is even
+further afield from equity: The wrongdoer is not necessarily
+or even ordinarily the victim's fduciary, and he does not sur-
+render to his victim the profts he made by unlawfully taking
+advantage of them. Instead, he disgorges them to the SEC,
+a Government enforcement agency that has no fduciary or
+trust-like relationship with the wrongdoer.
+Disgorgement more closely resembles legal restitution
+than any equitable remedy. In common-law courts, plain-
+tiffs could invoke the writ of assumpsit to “ `impos[e] a
+merely personal liability upon the defendant to pay a sum of
+money,' ” even when the plaintiff could not “ `assert title or
+right to possession of particular property.' ” Great-West
+Life, 534 U. S., at 213; see Moses v. Macferlan, 2 Burr. 1005,
+1012, 97 Eng. Rep. 676, 681 (K. B. 1760). Legal restitution,
+unlike equitable restitution, does not purport “to restore to
+the plaintiff particular funds”; it instead vindicates the plain-
+tiff 's “ `just grounds for recovering money to pay for some
+benefit the defendant had received.' ” Great-West Life , 534
+U. S., at 213–214. The SEC has no prior claim to ownership
+of or an interest in the defendant's funds; instead, the SEC
+takes money from the defendant based on his unjust proft
+at investors' expense. Thus, the disgorgement that the
+SEC seeks today looks more like legal restitution, for which
+the Seventh Amendment entitles the defendant to a jury
+trial.
+Congress's decision to enumerate disgorgement as a rem-
+edy in the Exchange Act further suggests that it is now a
+legal remedy. As Judge Smith explained, “explicitly author-
+izing a remedy in a statute's text” is generally “inconsistent
+with that remedy's being rooted in equity,” as the “historical
+role for equity” was providing relief where law did not.
+Hallam, 42 F. 4th, at 340. In fact, the core of equity juris-
+diction involves cases “where a plain, adequate, and complete
+remedy cannot be had” through law. 1 Story § 33; see id.,
+§ 61; S. Bray & P. Miller, Getting Into Equity, 97 Notre Dame
+L. Rev. 1763, 1764 (2022) (describing equity as “patching
+holes” in the system provided by law). Section 78u(d)(7)
+now expressly provides for disgorgement, so granting that
+remedy is hardly filling a remedial gap left by the law.
+The statutory structure confirms that Congress provided
+for disgorgement as a legal remedy in other ways, too. The
+statute now “twice distinguishes between disgorgement
+and equitable remedies.” Hallam, 42 F. 4th, at 339. In
+§ 78u(d)(5), the Act authorizes “any equitable relief,” but two
+subsections later, § 78u(d)(7) provides for “disgorgement,”
+which would be entirely superfluous if disgorgement were a
+kind of equitable relief. And, in § 78u(d)(8), the Act specifies
+one limitations period for actions seeking disgorgement and
+another for actions seeking “any equitable remedy.” “The
+obvious implication is that `disgorgement' is not `equitable
+relief.' ” Hallam, 42 F. 4th, at 340.
+It makes sense that Congress made disgorgement a legal
+remedy after Liu. Although Liu characterized disgorge-
+ment as an equitable remedy, it left the requirements for
+disgorgement unclear. And, because “[d]isgorgement is not
+a traditional form of equitable relief,” lower courts could not
+rely on historical practice for guidance in implementing the
+remedy this Court recognized. 591 U. S., at 94 (Thomas, J.,
+dissenting). Instead, lower courts could resort only to the
+language in Liu itself, which raised more questions than it
+answered: Liu defined disgorgement as “a remedy that com-
+pels each defendant to pay his profts (and sometimes, though
+it is not clear when, all of his codefendants' profts) to a third-
+party Government agency (which sometimes, though it is not
+clear when, passes the money on to victims).” Id., at 94–
+95. Given this vague definition and the doctrine's lack of
+foundation in equity practice, Congress unsurprisingly re-
+sponded seven months later by simply turning disgorgement
+into an enumerated legal remedy.
+Not even the SEC still treats disgorgement as an equitable
+remedy. To be sure, the SEC maintains that disgorgement
+is equitable in the hope of continuing to avoid jury trials.
+Tr. of Oral Arg. 59–62, 75–77. But, the SEC plainly uses
+disgorgement to collect forfeitures or penalties, even though
+doing so violates “the general principles of equity.” 2 Story
+§ 1494; see Bangor Punta Operations, Inc. v. Bangor & Aro-
+ostook R. Co., 417 U. S. 703, 717–718, n. 14 (1974). In 2024,
+the SEC obtained orders to disgorge $6.1 billion, while it
+returned only $345 million to victims. See Brief for Inves-
+tor Choice Advocates Network as Amicus Curiae 20–21.2
+2 At oral argument, the SEC explained that less than $6.1 billion was
+ever collected, though it could not say how much was collected. Tr. of
+Oral Arg. 66–67. The SEC also suggested that 88 percent of the dis-
+gorged funds that are collected get designated for distribution, though it
+It is difficult to see such a practice as anything other than a
+fnes regime, an inherently legal process. See Jarkesy, 603
+U. S., at 123. 3 The Court appropriately emphasizes that, so
+long as the SEC continues to seek disgorgement in equity,
+this practice must change. Ante, at 568–569. In a future
+case, however, we should address whether the SEC should
+be able to continue seeking disgorgement in equity at all.
+As it stands, disgorgement bears all the hallmarks of a legal
+remedy that requires a jury trial.
+C
+The counterarguments for permitting the SEC to con-
+tinue seeking disgorgement without a jury trial are
+unpersuasive.
+First, the SEC argued in this case that because disgorge-
+ment does nothing more than divest ill-gotten gains, it is “not
+a penalty and no Seventh Amendment right attaches.” Tr.
+of Oral Arg. 62. The SEC's conclusion does not follow from
+its premise that disgorgement is not a penalty. Many legal
+remedies that require jury trials under the Seventh Amend-
+ment are not penalties. Plenty of traditional remedies, such
+as relief in quasi-contract, replevin, or assumpsit, are plainly
+“legal” in nature, even though they provide restitution and
+are not penalties. See Great-West Life , 534 U. S., at 213,
+215.4 In fact, the quintessential legal remedy requiring a
+jury trial—compensatory damages—is not a penalty at all; it
+admitted that “doesn't mean it would necessarily have been distributed at
+the end of the day.” Id., at 67.
+3 Disgorgement also appears to be a “coercive penalty for a public
+wrong,” so it would have been understood at the founding as “ `punish-
+ment' for a `crime' ” for constitutional purposes. Ellingburg v. United
+States, 607 U. S. 163, 169 (2026) (Thomas, J ., concurring).
+4 See also Bray & Sherwin 457; C. Roberts, Restitutionary Disgorge-
+ment for Opportunistic Breach of Contract and Mitigation of Damages, 42
+Loyola (LA) L. Rev. 131, 137 (2008); L. Keele, Only Mostly Dead: How the
+Irreparable Injury Rule Can Protect the Jury Trial Right for Claims in
+Restitution, 77 Okla. L. Rev. 569, 593–594 (2025).
+simply makes the plaintiff whole for injuries that he should
+not have suffered in the first place. And, in any event, as
+the Court points out, there are substantial reasons to con-
+clude that SEC disgorgement functions as a penalty. Ante,
+at 568–569.
+Second, the SEC suggested that even if Congress author-
+ized a legal disgorgement remedy in § 78u(d)(7), the SEC can
+still seek equitable disgorgement under § 78u(d)(5)'s provi-
+sion for “any equitable relief.” See Tr. of Oral Arg. 53–54,
+69–70, 73–75. Disgorgement is not in fact a “traditional eq-
+uitable remedy,” so there is no such thing as equitable dis-
+gorgement under § 78u(d)(5). Liu, 591 U. S., at 93 (Thomas,
+J., dissenting).
+But, even taking Liu's interpretation of the pre-2021 stat-
+ute as a given, Congress has amended it. It explicitly sepa-
+rated disgorgement into its own subsection with its own stat-
+ute of limitations, set apart from the general authorization
+for equitable relief. That drafting choice suggests that Con-
+gress enacted a specific legal regime to control disgorgement
+going forward. Cf. A. Scalia & B. Garner, Reading Law 183
+(2012) (general/specific canon). With the latest amendments
+to the Exchange Act, it seems that Congress simply “reclas-
+sif[ied] the SEC's restitutionary remedy as legal.” S. Bray,
+The Changing Face of the SEC Restitution Remedy, Volokh
+Conspiracy (Jan. 7, 2021), https://reason.com/volokh/2021/01/
+07/the-changing-face-of-the-sec-restitution-remedy/ (ar -
+chived at https://perma.cc/2MN6-RM24). The SEC's cur-
+rent practice reflects this same understanding, as it keeps a
+significant portion of the disgorged profts as a forfeiture,
+which is flatly inconsistent with the equitable requirements
+that § 78u(d)(5) would impose.
+III
+We will soon need to address whether disgorgement under
+§ 78u(d)(7) is a legal remedy. The Circuits have already split
+on the answer. Compare Hallam, 42 F. 4th, at 341, with
+SEC v. Ahmed, 72 F. 4th 379, 395 (CA2 2023). In my view,
+disgorgement is a legal remedy.

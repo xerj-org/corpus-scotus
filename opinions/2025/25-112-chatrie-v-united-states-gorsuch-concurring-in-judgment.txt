@@ -1,0 +1,254 @@
+Chatrie v. United States — No. 25-112 — October Term 2025 — decided 6/29/26 — Gorsuch, J., concurring in judgment
+Citation: 609 U.S. 605
+Source: https://www.supremecourt.gov/opinions/25pdf/609us2r64_7mio.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch, concurring in the judgment.
+I agree with the Court's judgment that the government's
+examination of Okello Chatrie's Location History data
+amounted to a search for purposes of the Fourth Amend-
+ment. But respectfully, I would reach that conclusion by a
+different route.
+I
+To decide whether a Fourth Amendment search took place
+in this case, the Court once again invokes a test first ad-
+vanced in a solo concurrence in Katz v. United States, 389
+U. S. 347 (1967). Under that test, a search occurs when the
+government intrudes on an “expectation of privacy” that “so-
+ciety is prepared to recognize as `reasonable.' ” Id., at 361
+(Harlan, J., concurring).
+If Katz has become a familiar feature of our law, it seems
+to me no more persuasive for it. Consider just a few of its
+problems, beginning with this: It has no basis in the Consti-
+tution's text or history. The Fourth Amendment's protec-
+tions do not depend on “the breach of some abstract `expec-
+tation of privacy' whose contours are left to the judicial
+imagination.” Carpenter v. United States, 585 U. S. 296,
+391 (2018) (Gorsuch, J., dissenting). Instead, the Fourth
+Amendment speaks in more concrete terms, protecting an
+individual's person, house, papers, and effects from unreason-
+able searches and seizures. Ibid. No surprise, then, that
+it's hard to find anything like the Katz test in the law leading
+up to the Fourth Amendment's adoption—or anything much
+like it in this Court's jurisprudence before the 1960s. See
+Carpenter, 585 U. S., at 391–392 (Gorsuch, J., dissenting).
+Even if I could overlook that problem with Katz, I still
+wouldn't know how to apply it. As the Court has candidly
+admitted, it has never been able to identify a “single rubric”
+that might “definitively resolv[e] which expectations of pri-
+vacy are entitled to protection.” Carpenter, 585 U. S.,
+at 304 (majority opinion). Maybe Katz poses an empirical
+question, tagging reasonable expectations of privacy to those
+privacy expectations “people actually have.” Carpenter,
+585 U. S., at 392 (Gorsuch, J., dissenting). Or maybe the
+question is a normative one, asking what expectations rea-
+sonable people “should . . . have.” Ibid. In truth, nobody
+knows and, either way, this Court is the wrong body for the
+task. We aren't equipped to make empirical assessments
+about what most Americans think. Nor is it our job to en-
+force our own normative judgments, as opposed to those em-
+bodied in the Constitution and laws. Id., at 392–394.
+If this weren't trouble enough, we've also adorned Katz
+with an equally indefensible qualification called the third
+party doctrine. Under its terms, the Court has held, an in-
+dividual maintains no “reasonable expectation of privacy” in
+information he shares with others. Accordingly, the gov-
+ernment may freely search a person's papers and effects
+without triggering any Fourth Amendment scrutiny so long
+as they are entrusted to the care of someone else. See
+Smith v. Maryland, 442 U. S. 735, 743–744 (1979); United
+States v. Miller, 425 U. S. 435, 442–443 (1976).
+Much as with Katz itself, this Court has never offered
+a persuasive justification for its offshoot. Carpenter, 585
+U. S., at 389–390 (Gorsuch, J., dissenting). Nor do I see
+how it might. Do we seriously mean to suggest that most
+Americans think they have no “reasonable expectation of
+privacy” in records held for them by their banks or pharma-
+cists or doctors or technology companies? If not, on what
+authority might we rule that the American people should not
+reasonably expect privacy in materials like those? Really,
+the third party doctrine amounts to little more than a
+“doubtful application of Katz that lets the government
+search almost whatever it wants whenever it wants.” Id.,
+at 391.
+As it did eight years ago in Carpenter, the Court today
+largely ignores these problems. It simply declares that
+Mr. Chatrie enjoyed a reasonable expectation of privacy in
+his Location History because authorities could have used it
+to create “a virtual panopticon.” Ante, at 630. And it tells
+us that the third party doctrine does not apply to this case
+because Mr. Chatrie did “ `not truly shar[e]' ” his Location
+History with Google. Ante, at 634 (quoting Carpenter, 585
+U. S., at 315 (majority opinion)).
+Count me unpersuaded. Why does tracking Mr. Chatrie's
+movements digitally over an hour or two invade his reason-
+able expectation of privacy when an officer tailing him for
+the same length of time would not? See United States v.
+Knotts, 460 U. S. 276, 281–283 (1983). Why is Location His-
+tory data Mr. Chatrie voluntarily shared with Google not
+“truly shared” when a person's bank records are? See
+Miller, 425 U. S., at 440–443. Does the Court just mean to
+give Katz's third party doctrine a quiet burial by suggesting
+today that any information shared over “smartphones” using
+“apps and services” falls outside its reach? Ante, at 637 (in-
+ternal quotation marks omitted). And what does any of this
+have to do with the Fourth Amendment's terms anyway?
+Even if Katz and its battered third party doctrine may strag-
+gle on today, they leave our Fourth Amendment jurispru-
+dence about where the Court's obscenity doctrine stood in
+the 1960s: We know a “reasonable expectation of privacy”
+(and an exception to the third party doctrine) when we see it.
+II
+Rather than employ Katz and its third party doctrine, I
+would take a different approach. To decide whether the
+Fourth Amendment is in play, I would consult its terms,
+asking first whether Location History qualifies as one of
+Mr. Chatrie's papers or effects, and then asking whether the
+government searched those papers or effects. This tradi-
+tional approach remains very much part of our law. See
+Byrd v. United States, 584 U. S. 395, 403 (2018). Indeed, we
+have expressly recognized that Katz and its progeny “sup-
+plemen[t] rather than displac[e]” traditional Fourth Amend-
+ment principles. Byrd, 584 U. S., at 403; see also Soldal v.
+Cook County , 506 U. S. 56, 64–65 (1992); United States v.
+Jones, 565 U. S. 400, 406–407 (2012); Florida v. Jardines, 569
+U. S. 1, 11 (2013).
+Thanks to Katz's prominence today, of course, litigants
+sometimes fail to press more traditional Fourth Amendment
+arguments. See, e. g., Carpenter, 585 U. S., at 406 (Gor-
+such, J., dissenting). But whatever his faults (possibly in-
+cluding bank robbery), Mr. Chatrie has not forfeited that line
+of attack in this case. In fact, he begins his brief before us
+by contending that the Fourth Amendment is implicated
+here precisely because the government enlisted Google to
+search his “papers and effects.” See Brief for Petitioner
+15, 33.
+I agree with that assessment. Set aside whether Loca-
+tion History data qualifies as among Mr. Chatrie's “papers,”
+and consider whether it at least constitutes one of his “ef-
+flects.” Based on the evidence the parties have put before
+us, it appears the word “effects” was understood at the time
+of the Fourth Amendment's adoption to embrace most any
+kind of personal property. See, e. g., M. Brady, The Lost
+“Effects” of the Fourth Amendment: Giving Personal Prop-
+erty Due Protection, 125 Yale L. J. 946, 985–987 (2016)
+(“[E]arly sources indicate that the term `effects' meant `per-
+sonal property' in common and colloquial usage”); L. Don-
+ohue, The Original Fourth Amendment, 83 U. Chi. L. Rev.
+1181, 1301 (2016) (effects meant “personal property or pos-
+sessions,” including “commercial items and goods”); Brief for
+United States 32 (suggesting that “effects” excludes certain
+real property like so-called open fields (citing Oliver v.
+United States, 466 U. S. 170 (1984))).
+As I see it, Mr. Chatrie's Location History data qualifies
+as his personal property. To appreciate why, start with this.
+As Google puts it, and no one seriously disputes, Location
+History serves as a “diary” or map “of a person's travels.”
+Brief for Google LLC as Amicus Curiae 3–4. At the time
+of the events in question, Mr. Chatrie's agreement with
+Google referred to Location History as “your ” (meaning, the
+user's) “information.” 1 App. 72 (emphasis added). Under
+the parties' agreement, too, Mr. Chatrie was free to “review”
+and “edit” his location data. Id., at 19. He was even free
+to export or delete that data “from Google's servers at will.”
+Ibid. Beyond all that, Google promised to protect his infor-
+mation against “unauthorized access, alteration, disclosure,
+or destruction.” Id., at 71. Put simply, Mr. Chatrie had the
+rights to enjoy, manage, alter, dispose, and exclude others
+from what amounted to an electronic diary or map of his
+travels. And as someone who held that many “sticks in the
+bundle of rights . . . commonly characterized as property”—
+including the “most treasured” and “essential” right to ex-
+clude—he has a strong claim that the Location History data
+was his personal property. Cedar Point Nursery v. Hassid,
+594 U. S. 139, 149–150 (2021) (internal quotation marks
+omitted).
+Next, notice what statutory and case law have to say on
+the subject. The investigation of Mr. Chatrie unfolded in
+Virginia. That State's Computer Crimes Act expressly de-
+scribes “computer data” as a form of “[p]roperty.” Va. Code
+Ann. § 18.2–152.2 (2021). Altering or making an unauthor-
+ized copy of computer data can constitute the crime of “com-
+puter trespass” (another property law concept). §§ 18.2–
+152.4(A)(3), (6). And the State provides a right to sue for
+anyone “whose property or person is injured” by violations
+of the Act (again suggesting a right to exclude). § 18.2–
+152.12(A).
+Nor is Virginia some outlier. In Texas, “computer . . .
+data” can constitute “[p]roperty.” Tex. Penal Code Ann.
+§ 33.01(16) (West Cum. Supp. 2025). State law likewise
+criminalizes “knowingly access[ing] . . . a computer, com-
+puter network, or computer system . . . with the intent to
+obtain or use a fle, data, or proprietary information” for a
+prohibited purpose. § 33.02(b–1)(2)(C) (West 2016). Once
+more, as well, those whose “property has been injured” by
+certain computer crimes may bring a “civil cause of action.”
+Tex. Civ. Prac. & Rem. Code Ann. § 143.001 (West 2019).
+Georgia has a similar regime. See Ga. Code Ann. §§ 16–9–
+93(b), (g) (2018) (criminalizing “[c]omputer [t]respass” and
+providing a private right of action for such violations). And,
+it appears, so do many other States. See Brief for Cato In-
+stitute as Amicus Curiae 14–15, and n. 5 (“Today, more than
+half of states . . . treat digital records and data as personal
+property,” and “[m]any” of them “make it illegal for private
+actors to access or convert another person's digital data”);
+see also, e. g., People v. Seymour, 536 P. 3d 1260, 1273 (Colo.
+2023) (finding that “law enforcement's copying of [the defend-
+ant's] search history meaningfully interfered with his posses-
+sory interest in that data”); Integrated Direct Marketing,
+LLC v. May, 2016 Ark. 281, p. 6, 495 S. W. 3d 73, 76 (“[U]nder
+Arkansas law, intangible property, such as electronic data,
+. . . can be converted”); cf. Thyroff v. Nationwide Mut. Ins.
+Co., 8 N. Y . 3d 283, 292–293, 864 N. E. 2d 1272, 1278 (2007)
+(holding that “electronic records that were stored on a com-
+puter and were indistinguishable from printed documents”
+are “subject to a claim of conversion”).
+To be sure, pursuant to its agreement with Mr. Chatrie,
+Google stored his Location History data on its servers and
+was free to use it for certain purposes. Brief for United
+States 34–36. But an individual need not have “complete
+ownership or exclusive control” before he can assert a
+Fourth Amendment challenge against the search of real
+property. Carpenter, 585 U. S., at 401 (Gorsuch, J., dissent-
+ing). Instead, we have long recognized, a “tenan[t] [or] resi-
+dent family membe[r]” who does not enjoy “fee simple title”
+in a house has a sufficient interest in it to give rise to a
+Fourth Amendment right. Ibid. And I fail to see why the
+law should differ markedly when it comes to personal prop-
+erty. If you “[t]oss your keys to a valet at a restaurant” or
+“[a]sk your neighbor to look after your dog while you travel,”
+you may entrust your personal property to another and li-
+cense him to do certain things with it, much as Mr. Chatrie
+did with his Location History data. Id., at 399. But that
+hardly means that property is no longer yours. Ibid.
+Nor does it matter that those who wrote the Fourth
+Amendment might not have imagined an electronic diary or
+map of one's travels. As with other laws, the terms found
+in the Fourth Amendment carry their original public mean-
+ing and can bear more applications than its drafters might
+have expected or intended. See id., at 400. So just as the
+First Amendment protects speech over the internet today
+no less than it did speech delivered in the town square in
+1791, it should hardly come as a surprise that the Fourth
+Amendment might protect as personal “effects” electronic
+diaries of one's travels as it always has more traditional ones.
+See Kyllo v. United States, 533 U. S. 27, 40 (2001) (observing
+that a “search” of a home can take place not just by physical
+entry but also by the external use of thermal-imaging
+devices).
+Because Mr. Chatrie's Location History data is his effect,
+it is subject to the Fourth Amendment's restrictions when
+the government searches it. So, was there a search? The
+government conducts a search when it “ `look[s] over or
+through for the purpose of finding something.' ” Id., at 32,
+n. 1 (quoting N. Webster, An American Dictionary of the
+English Language 66 (1828) (reprint 6th ed. 1989)). Under
+our precedents, none of which the government asks us to
+overrule, a search equally transpires when government off-
+cials enlist private parties in that task. See Skinner v.
+Railway Labor Executives' Assn., 489 U. S. 602, 614 (1989)
+(Fourth Amendment “protects against” searches “effected”
+by a private party “if the private party acted as an instru-
+ment or agent of the Government”). And that's exactly
+what occurred here: The government conducted a search
+both when it compelled Google to rummage through Mr. Cha-
+trie's data at “step one,” and when it later examined that

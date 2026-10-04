@@ -1,0 +1,165 @@
+TikTok Inc. v. Garland — No. 24-656 — October Term 2024 — decided 1/17/25 — Gorsuch, J., concurring in judgment
+Citation: 604 U.S. 56
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r07_k536.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+ity are subject to heightened scrutiny under the First
+Amendment. Arcara v. Cloud Books, Inc., 478 U. S. 697,
+704 (1986); see Minneapolis Star & Tribune Co. v. Minnesota
+Comm'r of Revenue , 460 U. S. 575, 581–585 (1983). The
+challenged Act plainly imposes such a burden: It bars any
+entity from distributing TikTok's speech in the United
+States, unless TikTok undergoes a qualified divestiture.
+The Act, moreover, effectively prohibits TikTok from collabo-
+rating with certain entities regarding its “content recom-
+mendation algorithm” even following a qualified divestiture.
+§ 2(g)(6)(B), 138 Stat. 959. And the Act implicates content
+creators' “right to associate” with their preferred publisher
+“for the purpose of speaking.” Rumsfeld v. Forum for Aca-
+demic and Institutional Rights, Inc., 547 U. S. 47, 68 (2006).
+That, too, calls for First Amendment scrutiny.
+As to the remainder of the per curiam opinion, I agree
+that the Act survives petitioners' First Amendment
+challenge.
+Justice Gorsuch, concurring in the judgment.
+We have had a fortnight to resolve, finally and on the mer-
+its, a major First Amendment dispute affecting more than
+170 million Americans. Briefing finished on January 3, ar-
+gument took place on January 10, and our opinions issue on
+January 17, 2025. Given those conditions, I can sketch out
+only a few, and admittedly tentative, observations.
+First, the Court rightly refrains from endorsing the gov-
+ernment's asserted interest in preventing “the covert manip-
+ulation of content” as a justification for the law before us.
+Brief for Respondent 37. One man's “covert content manip-
+ulation” is another's “editorial discretion.” Journalists, pub-
+lishers, and speakers of all kinds routinely make less-than-
+transparent judgments about what stories to tell and how to
+tell them. Without question, the First Amendment has
+much to say about the right to make those choices. It makes
+no difference that Americans (like TikTok Inc. and many of
+its users) may wish to make decisions about what they say
+in concert with a foreign adversary. “Those who won our
+independence” knew the vital importance of the “freedom to
+think as you will and to speak as you think,” as well as the
+dangers that come with repressing the free fow of ideas.
+Whitney v. California, 274 U. S. 357, 375 (1927) (Brandeis,
+J., concurring). They knew, too, that except in the most ex-
+treme situations, “the fitting remedy for evil counsels is good
+ones.” Ibid. Too often in recent years, the government
+has sought to censor disfavored speech online, as if the in-
+ternet were somehow exempt from the full sweep of the
+First Amendment. See, e. g., Murthy v. Missouri, 603 U. S.
+43, 76–78 (2024) (Alito, J., dissenting). But even as times
+and technologies change, “the principle of the right to free
+speech is always the same.” Abrams v. United States, 250
+U. S. 616, 628 (1919) (Holmes, J., dissenting).
+Second, I am pleased that the Court declines to consider
+the classified evidence the government has submitted to us
+but shielded from petitioners and their counsel. Ante, at 74,
+n. 3. Efforts to inject secret evidence into judicial proceed-
+ings present obvious constitutional concerns. Usually, “the
+evidence used to prove the Government's case must be dis-
+closed to the individual so that he has an opportunity to show
+that it is untrue.” Greene v. McElroy, 360 U. S. 474, 496
+(1959). Maybe there is a way to handle classified evidence
+that would afford a similar opportunity in cases like these.
+Maybe, too, Congress or even the Standing Committee on
+Rules of Practice and Procedure would proft from consider-
+ing the question. Cf. United States v. Zubaydah, 595 U. S.
+195, 245 (2022) (Gorsuch, J., dissenting). But as the Court
+recognizes, we have no business considering the govern-
+ment's secret evidence here.
+Third, I harbor serious reservations about whether the
+law before us is “content neutral” and thus escapes “strict
+scrutiny.” See ante, at 70–73; Brief for Petitioners in No. 24–
+656, pp. 25–31; Brief for Petitioners in No. 24–657, pp. 24–26;
+Reply Brief in No. 24–656, pp. 10–12; Reply Brief in No. 24–
+657, pp. 8–11. More than that, while I do not doubt that
+the various “tiers of scrutiny” discussed in our case law—
+“rational basis, strict scrutiny, something(s) in between”—
+can help focus our analysis, I worry that litigation over them
+can sometimes take on a life of its own and do more to ob-
+scure than to clarify the ultimate constitutional questions.
+Riddle v. Hickenlooper , 742 F. 3d 922, 932 (CA10 2014) (Gor-
+such, J., concurring).
+Fourth, whatever the appropriate tier of scrutiny, I am
+persuaded that the law before us seeks to serve a compelling
+interest: preventing a foreign country, designated by Con-
+gress and the President as an adversary of our Nation, from
+harvesting vast troves of personal information about tens of
+millions of Americans. The record before us establishes
+that TikTok mines data both from TikTok users and about
+millions of others who do not consent to share their informa-
+tion. 2 App. 659. According to the Federal Bureau of In-
+vestigation, TikTok can access “ any data” stored in a con-
+senting user's “contact list”—including names, photos, and
+other personal information about unconsenting third parties.
+Ibid. (emphasis added). And because the record shows that
+the People's Republic of China (PRC) can require TikTok's
+parent company “to cooperate with [its] efforts to obtain per-
+sonal data,” there is little to stop all that information from
+ending up in the hands of a designated foreign adversary.
+Id., at 696; see id., at 673–676; ante, at 63–64. The PRC
+may then use that information to “build dossiers . . . for
+blackmail,” “conduct corporate espionage,” or advance intel-
+ligence operations. 1 App. 215; see 2 App. 659. To be sure,
+assessing exactly what a foreign adversary may do in the
+future implicates “delicate” and “complex” judgments about
+foreign affairs and requires “large elements of prophecy.”
+Chicago & Southern Air Lines, Inc. v. Waterman S. S. Corp.,
+333 U. S. 103, 111 (1948) (Jackson, J., for the Court). But
+the record the government has amassed in these cases after
+years of study supplies compelling reason for concern.
+Finally, the law before us also appears appropriately tai-
+lored to the problem it seeks to address. Without doubt, the
+remedy Congress and the President chose here is dramatic.
+The law may require TikTok's parent company to divest or
+(effectively) shutter its U. S. operations. But before seeking
+to impose that remedy, the coordinate branches spent years
+in negotiations with TikTok exploring alternatives and ulti-
+mately found them wanting. Ante, at 65. And from what
+I can glean from the record, that judgment was well founded.
+Consider some of the alternatives. Start with our usual
+and preferred remedy under the First Amendment: more
+speech. Supra, at 82. However helpful that might be, the
+record shows that warning users of the risks associated with
+giving their data to a foreign-adversary-controlled applica-
+tion would do nothing to protect nonusers' data. 2 App.
+659–660; supra, at 83. Forbidding TikTok's domestic opera-
+tions from sending sensitive data abroad might seem another
+option. But even if Congress were to impose serious crimi-
+nal penalties on domestic TikTok employees who violate a
+data-sharing ban, the record suggests that would do little to
+deter the PRC from exploiting TikTok to steal Americans'
+data. See 1 App. 214 (noting threats from “malicious code,
+backdoor vulnerabilities, surreptitious surveillance, and
+other problematic activities tied to source code development”
+in the PRC); 2 App. 702 (“[A]gents of the PRC would not
+fear monetary or criminal penalties in the United States”).
+The record also indicates that the “size” and “complexity” of
+TikTok's “underlying software” may make it impossible for
+law enforcement to detect violations. Id., at 688–689; see
+also id., at 662. Even setting all these challenges aside, any
+new compliance regime could raise separate constitutional
+concerns—for instance, by requiring the government to sur-
+veil Americans' data to ensure that it isn't illicitly flowing
+overseas. Id., at 687 (suggesting that effective enforcement
+of a data-export ban might involve “direct U. S. government
+monitoring” of the “fow of U. S. user data”).
+Whether this law will succeed in achieving its ends, I do
+not know. A determined foreign adversary may just seek
+to replace one lost surveillance application with another. As
+time passes and threats evolve, less dramatic and more effec-
+tive solutions may emerge. Even what might happen next
+to TikTok remains unclear. See Tr. of Oral Arg. 146–147.
+But the question we face today is not the law's wisdom, only
+its constitutionality. Given just a handful of days after oral
+argument to issue an opinion, I cannot profess the kind of
+certainty I would like to have about the arguments and rec-
+ord before us. All I can say is that, at this time and under
+these constraints, the problem appears real and the response
+to it not unconstitutional. As persuaded as I am of the wis-
+dom of Justice Brandeis in Whitney and Justice Holmes in
+Abrams, their cases are not ours. See supra, at 82. Speak-
+ing with and in favor of a foreign adversary is one thing.
+Allowing a foreign adversary to spy on Americans is another.

@@ -1,0 +1,40 @@
+County of Maui v. Hawaii Wildlife Fund — No. 18-260 — October Term 2019 — decided 4/23/20 — Kavanaugh, J., concurring
+Citation: 590 U.S. 165
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=181 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Kavanaugh, concurring.
+I join the Court's opinion in full. I write separately to
+emphasize three points.
+First, the Court's interpretation of the Clean Water Act
+regarding pollution “from” point sources adheres to the in-
+terpretation set forth in Justice Scalia's plurality opinion in
+Rapanos v. United States, 547 U. S. 715 (2006). The Clean
+Water Act requires a permit for “any addition of any pollut-
+ant to navigable waters from any point source.” 33 U. S. C.
+§ 1362(12)(A); see §§ 1311(a), 1342(a). The key word is
+“from.” The question in this case is whether the County of
+Maui needs a permit for its Lahaina Wastewater Reclama-
+tion Facility. No one disputes that pollutants originated at
+Maui's wastewater facility (a point source), and no one dis-
+putes that the pollutants ended up in the Pacific Ocean (a
+navigable water). Maui contends, however, that it does not
+need a permit. Maui says that the pollutants did not come
+“from” the Lahaina facility because the pollutants traveled
+through groundwater before reaching the ocean.
+Justice Scalia's plurality opinion in Rapanos explained
+why Maui's interpretation of the Clean Water Act is incor-
+rect. In that case, Justice Scalia stated that polluters could
+not “evade the permitting requirement of § 1342(a) simply
+by discharging their pollutants into noncovered intermittent
+watercourses that lie upstream of covered waters.” 547
+U. S., at 742–743. Justice Scalia reasoned that the Clean
+Water Act does not merely “forbid the `addition of any pollut-
+ant directly to navigable waters from any point source,' but
+rather the `addition of any pollutant to navigable waters.'
+Thus, from the time of the CWA's enactment, lower courts
+have held that the discharge into intermittent channels of
+any pollutant that naturally washes downstream likely vio-
+lates § 1311(a), even if the pollutants discharged from a point
+source do not emit `directly into' covered waters, but pass
+`through conveyances' in between.” Id., at 743 (citations
+omitted).

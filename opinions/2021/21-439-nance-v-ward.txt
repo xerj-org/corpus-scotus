@@ -1,0 +1,468 @@
+Nance v. Ward — No. 21-439 — October Term 2021 — decided 6/23/22 — opinion of the Court — author Kagan (listing code EK)
+Citation: 597 U.S. 159
+Source: https://www.supremecourt.gov/opinions/21pdf/597us1r56_p86b.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+D. Friedlander, Anna M. Arceneaux, Cory H. Isaacson,
+David A. Strauss, and Sarah M. Konsky.
+Masha G. Hansford argued the cause for the United States
+as amicus curiae supporting petitioner. With him on the
+brief were Solicitor General Prelogar, Principal Deputy
+Assistant Attorney General Boynton, Deputy Solicitor Gen-
+eral Feigin, and Michael S. Raab.
+Stephen J. Petrany, Solicitor General of Georgia, argued
+the cause for respondents. With him on the brief were
+Christopher M. Carr, Attorney General, Ross W. Bergethon
+and Drew F. Waldbeser, Deputy Solicitors General, Beth A.
+Burton, Deputy Attorney General, Sabrina D. Graham, Se-
+nior Assistant Attorney General, and Clint C. Malcom, As-
+sistant Attorney General.*
+Justice Kagan delivered the opinion of the Court.
+In several recent decisions, this Court has set out rules
+for challenging a State's proposed method of execution under
+the Eighth Amendment. To prevail on such a claim, a pris-
+oner must identify a readily available alternative method of
+*Briefs of amici curiae urging reversal were fled for the American
+Civil Liberties Union et al. by David D. Cole, David C. Fathi, Catherine
+E. Stetson, Allison M. Wuertz, Brian W. Stull, Cassandra Stubbs, Jennesa
+Calvo-Friedman, Brandon J. Buskey, Sean J. Young, and John W. White-
+head; and for Legal Scholars by Bruce H. Schneider.
+Briefs of amici curiae urging affirmance were fled for the State of
+Texas et al. by Ken Paxton, Attorney General of Texas, Brent Webster ,
+First Assistant Attorney General, Judd E. Stone II, Solicitor General, La-
+nora C. Pettit, Principal Deputy Solicitor General, and Kathryn M.
+Cherry, Assistant Solicitor General, and by the Attorneys General for
+their respective States as follows: Steve Marshall of Alabama, Mark
+Brnovich of Arizona, Leslie Rutledge of Arkansas, Ashley Moody of Flor-
+ida, Lawrence G. Wasden of Idaho, Todd Rokita of Indiana, Daniel Cam-
+eron of Kentucky, Jeff Landry of Louisiana, Lynn Fitch of Mississippi,
+Austin Knudsen of Montana, Doug Peterson of Nebraska, John O'Connor
+of Oklahoma, Jason Ravnsborg of South Dakota, and Sean D. Reyes of
+Utah; and for Jonathan F. Mitchell et al. by Adam K. Mortara and
+Mr. Mitchell, both pro se.
+execution that would significantly reduce the risk of severe
+pain. In doing so, the prisoner is not confined to proposing
+a method authorized by the executing State's law; he may
+instead ask for a method used in other States. See Bucklew
+v. Precythe, 587 U. S. –––, ––– (2019).
+This case concerns the procedural vehicle appropriate for
+a prisoner's method-of-execution claim. We have held that
+such a claim can go forward under 42 U. S. C. § 1983, rather
+than in habeas, when the alternative method proposed is al-
+ready authorized under state law. See Nelson v. Campbell,
+541 U. S. 637, 644–647 (2004). Here, the prisoner has identi-
+fed an alternative method that is not so authorized. The
+question presented is whether § 1983 is still a proper vehicle.
+We hold that it is.
+I
+A
+States choosing to impose capital punishment have over
+time sought out “more humane way[s] to carry out death sen-
+tences.” Glossip v. Gross, 576 U. S. 863, 868 (2015). In the
+27 States with the death penalty, lethal injection is by far
+the most common method of execution. See ibid. Fifteen
+States, including Georgia, authorize only the use of lethal
+injection.1 Nine States authorize lethal injection plus one
+or more other specified methods; of those (to use an example
+relevant here), four approve the firing squad. 2 And three
+1 Ariz. Rev. Stat. Ann. § 13–757(A) (2020); Ga. Code Ann. § 17–10–38(a)
+(2020); Idaho Code Ann. § 19–2716 (2017); Ind. Code § 35–38–6–1(a) (2021);
+Kan. Stat. Ann. § 22–4001(a) (2007); La. Rev. Stat. Ann. § 15:569(B) (West
+2022); Mont. Code Ann. § 46–19–103(3) (2021); Neb. Rev. Stat. § 83–964
+(2020 Cum. Supp.); Nev. Rev. Stat. § 176.355(1) (2017); N. C. Gen. Stat.
+Ann. § 15–188 (2021); Ohio Rev. Code Ann. § 2949.22(A) (Lexis 2021); Ore.
+Rev. Stat. § 137.473(1) (2021); 61 Pa. Cons. Stat. § 4304(a) (2015 Special
+Edition); S. D. Codified Laws § 23A–27A–32 (2016); Tex. Code Crim. Proc.
+Ann., Art. § 43.14(a) (Vernon 2018).
+2 Mississippi, Oklahoma, South Carolina, and Utah authorize the firing
+squad among other methods of execution. H. B. 1479, 2022 Leg., Reg.
+Sess. (Miss.); Okla. Stat., Tit. 22, § 1014 (2020 Supp.); S. C. Code Ann. § 24–
+States provide that if their authorized methods (including
+lethal injection) are found unconstitutional, then they may
+carry out a death sentence by any constitutional means. 3
+A death row inmate may attempt to show that a State's
+planned method of execution, either on its face or as applied
+to him, violates the Eighth Amendment's prohibition on
+“cruel and unusual” punishment. To succeed on that claim,
+the Court held in Glossip, he must satisfy two requirements.
+First, he must establish that the State's method of execution
+presents a “substantial risk of serious harm”—severe pain
+over and above death itself. Id., at 877. Second, and more
+relevant here, he “must identify an alternative [method] that
+is feasible, readily implemented, and in fact significantly re-
+duce[s]” the risk of harm involved. Ibid. (internal quotation
+marks omitted). Only through a “comparative exercise,” we
+have explained, can a judge “decide whether the State has
+cruelly `superadded' pain to the punishment of death.”
+Bucklew, 587 U. S., at –––.
+In identifying an alternative method, the Court in Buck-
+lew held, an inmate is “not limited to choosing among those
+presently authorized by a particular State's law.” Id., at
+–––. The prisoner may, for example, “point to a well-
+established protocol in another State as a potentially viable
+option.” Ibid. The Eighth Amendment, Bucklew ex-
+plained, “is the supreme law of the land, and the comparative
+assessment it requires can't be controlled by the State's
+choice of which methods to authorize.” Id., at –––; see
+Arthur v. Dunn, 580 U. S. 1141, 1147–1149 (2017) (Sotomayor,
+3–530 (2021 Cum. Supp.); Utah Code § 77–18–113 (2021). The rest of the
+States in this bucket most commonly authorize electrocution or lethal gas.
+See Ark. Code Ann. §§ 5–4–617(a), (l) (Supp. 2021); Cal. Penal Code Ann.
+§ 3604(a) (West Supp. 2022); Ky. Rev. Stat. Ann. §§ 431.220(1)(a), 431.223
+(Lexis 2021); Mo. Rev. Stat. § 546.720(1) (2016); Wyo. Stat. Ann. § 7–13–
+904 (2021).
+3 Ala. Code § 15–18–82.1(c) (2018); Fla. Stat. § 922.105(3) (2018); Tenn.
+Code Ann. § 40–23–114(d) (2018).
+J., dissenting from denial of certiorari). In addition, Buck-
+lew stated, allowing an inmate to propose a method not au-
+thorized by the State keeps his “burden” within reasonable
+bounds. 587 U. S., at –––. Because the inmate can look be-
+yond the State's current law, we saw “little likelihood” that
+he would “be unable to identify an available alternative.”
+Id., at –––; see id., at ––– (Kavanaugh, J., concurring).
+B
+While trying to fee a bank robbery, petitioner Michael
+Nance shot and killed a bystander. A Georgia jury con-
+victed Nance of murder, and the trial court sentenced him
+to death. Nance challenged his conviction and sentence—
+first on direct appeal, next in state collateral proceedings,
+and finally in federal habeas—but without success.
+Nance later brought suit under § 1983 to enjoin Georgia
+from using lethal injection to carry out his death sentence.
+As stated above, lethal injection is the only method of execu-
+tion Georgia law now authorizes. See supra, at 163.4 In his
+complaint, Nance alleges that applying that method to him
+would create a substantial risk of severe pain. See App. to
+Pet. for Cert. 86a. According to Nance, his veins are “se-
+verely compromised and unsuitable for sustained intrave-
+nous access.” Ibid. They are, Nance says, likely to “blow”
+during the execution, “leading to the leakage of the lethal
+injection drug into the surrounding tissue” and thereby caus-
+ing “intense pain and burning.” Ibid. On top of that,
+Nance asserts, his longtime use of a prescription drug for
+back pain creates a risk that the sedative used in the State's
+lethal injection protocol will fail to “render him unconscious
+and insensate.” Ibid. Nance proposes, as a “readily avail-
+able alternative” method of execution, “death by firing
+4 See Ga. Code Ann. § 17–10–38(a) (“All persons who have been convicted
+of a capital offense and have had imposed upon them a sentence of death
+shall suffer such punishment by lethal injection”).
+squad.” Ibid. As noted earlier, four other States have ap-
+proved that method. See supra, at 163, and n. 2. Use of a
+firing squad, Nance says, will lead to “swift and virtually
+painless” death. App. to Pet. for Cert. 102a. And imple-
+menting that method, he says, would be simple: Georgia has
+enough qualified personnel and could borrow specific proto-
+cols from another State. Ibid.
+After the District Court dismissed Nance's suit as un-
+timely, the Court of Appeals for the Eleventh Circuit re-
+jected it for a different reason—that Nance had used the
+wrong procedural vehicle. In the panel majority's view,
+Nance should have brought his method-of-execution claim by
+way of a habeas petition rather than a § 1983 suit. A habeas
+petition, the court stated, is appropriate when a prisoner
+seeks to “invalidate” a death sentence. 981 F. 3d 1201, 1209
+(2020). And the court thought that was what Nance was
+doing: The injunction he requested, preventing the use of
+lethal injection, “necessarily impl[ies] the invalidity of his
+death sentence.” Id., at 1203. That was so, the court rea-
+soned, because Georgia law “must [be taken] as fxed”—and
+under that “fxed” law, if Nance could not be executed by
+lethal injection, then he could not be executed at all. Id., at
+1211. The court therefore “reconstrued” Nance's complaint
+as a habeas petition. Id., at 1203. And having done so, the
+court dismissed the petition as “second or successive” be-
+cause Nance had already sought federal habeas relief. 28
+U. S. C. § 2244(b); see supra, at 165. Judge Martin dis-
+sented, arguing that Nance could proceed under § 1983. In
+her view, Nance was not challenging his death sentence; all
+he wanted was an order telling “the State to execute him
+by a different method.” 981 F. 3d, at 1215. The Eleventh
+Circuit denied Nance's petition for rehearing en banc over
+the dissent of three judges. See 994 F. 3d 1335 (2021).
+We granted certiorari, 595 U. S. ––– (2022), and now
+reverse.
+II
+This Court has often considered, when evaluating state
+prisoners' constitutional claims, the dividing line between
+§ 1983 and the federal habeas statute. Each law enables a
+prisoner to complain of “unconstitutional treatment at the
+hands of state officials.” Heck v. Humphrey, 512 U. S. 477,
+480 (1994). But there the resemblance stops. The habeas
+statute contains procedural requirements (like the second-
+or-successive rule) nowhere found in § 1983; the former stat-
+ute may therefore require dismissal of a claim when the
+latter statute would not. See id., at 480–481. Still more
+pertinent here, the scope of the two laws also differs. Sec-
+tion 1983 broadly authorizes suit against state officials for
+the “deprivation of any rights” secured by the Constitution.
+Read literally, that language would apply to all of a prison-
+er's constitutional claims, thus swamping the habeas stat-
+ute's coverage of claims that the prisoner is “in custody in
+violation of the Constitution.” 28 U. S. C. § 2254(a); see Wil-
+kinson v. Dotson, 544 U. S. 74, 78–79 (2005). So we have
+not read § 1983 literally in the prisoner context. To the con-
+trary, we have insisted that § 1983 contains an “implicit
+exception” for actions that lie “within the core of habeas cor-
+pus.” Id., at 79.
+In defining that core, this Court has focused on whether a
+claim challenges the validity of a conviction or sentence.
+See Preiser v. Rodriguez, 411 U. S. 475, 489 (1973). The
+simplest cases arise when an inmate, alleging a faw in his
+conviction or sentence, seeks “immediate or speedier re-
+lease” from prison. Heck, 512 U. S., at 481. The analogue
+in the capital punishment context, also clear-cut, is when an
+inmate seeks to overturn his death sentence, thus preventing
+the State from executing him. Slightly less obvious, this
+Court has held that an inmate must proceed in habeas when
+the relief he seeks would “necessarily imply the invalidity of
+his conviction or sentence.” Id., at 487 (barring § 1983 suits
+for money damages when prevailing would imply a convic-
+tion was wrongful). In doing so, though, we have under-
+scored that the implication must be “necessar[y].” Wilkin-
+son, 544 U. S., at 81 (emphasis in original); see Nelson, 541
+U. S., at 647. On the opposite end of the spectrum, the
+Court has held that a prison-conditions claim may be brought
+as a § 1983 suit. See Preiser, 411 U. S., at 498–499. Such
+a suit—for example, challenging the adequacy of a prison's
+medical care—does not go to the validity of a conviction or
+sentence, and thus falls outside habeas's core.
+In Nelson v. Campbell and Hill v. McDonough, this Court
+held two method-of-execution claims to fall on the § 1983 side
+of the divide. See Nelson, 541 U. S., at 644–647; Hill, 547
+U. S. 573, 580–583 (2006). Both cases involved challenges to
+a State's lethal injection protocol—the first to the use of a
+“cut-down” procedure to access the prisoner's veins, the sec-
+ond to a particular three-drug sequence. The cases pre-
+dated our requirement that prisoners identify alternative
+methods, but each prisoner had said enough to leave the
+Court convinced that alternatives to the challenged proce-
+dures were available. See Nelson, 541 U. S., at 646; Hill,
+547 U. S., at 580–581. And that made the difference in both
+cases. A claim should go to habeas, the Court held, only if
+granting the prisoner relief “would necessarily prevent [the
+State] from carrying out its execution.” Nelson, 541 U. S.,
+at 647 (emphasis in original); see Hill, 547 U. S., at 583. 5 In
+neither case would it have done so. Each prisoner had
+asked only for a change in implementing the death penalty,
+and an order granting that relief would not prevent the State
+5 In both cases, the Court made clear that its formulation (again, would
+granting relief necessarily prevent the execution) merely adapted to the
+capital punishment context the question the Court had formerly asked in
+choosing between § 1983 and habeas: Would granting relief necessarily
+imply the invalidity of a conviction or sentence? See Nelson, 541 U. S.,
+at 646; Hill, 547 U. S., at 583; supra, at 167–168.
+from executing him. So the claims could proceed under
+§ 1983.
+Both Nelson and Hill, though, reserved the question at
+issue here: whether the result should be different when a
+State's death-penalty statute does not authorize the alterna-
+tive method of execution. See Nelson, 541 U. S., at 645;
+Hill, 547 U. S., at 580. In each case, the Court observed
+that using a different method required no change in the
+State's statute, but only a change in an agency's uncodifed
+protocols. Here, all parties agree that Georgia would have
+to change its statute to carry out Nance's execution by means
+of a firing squad. They dispute whether that fact switches
+Nance's claim to the habeas track.
+Except for the Georgia statute, this case would even more
+clearly than Nelson and Hill be ft for § 1983. Since those
+two cases, we have compelled a prisoner bringing a method-
+of-execution claim to propose an alternative way for the
+State to carry out his death sentence. He must, we have
+said, present a “proposal” that is “sufficiently detailed” to
+show that an alternative method is both “feasible” and
+“readily implemented.” Bucklew, 587 U. S., at –––; see
+supra, at 164. In other words, he must make the case that
+the State really can put him to death, though in a different
+way than it plans. The substance of the claim, now more
+than ever, thus points toward § 1983. The prisoner is not
+challenging the death sentence itself; he is taking the valid-
+ity of that sentence as a given. And he is providing the
+State with a veritable blueprint for carrying the death sen-
+tence out. If the inmate obtains his requested relief, it is
+because he has persuaded a court that the State could readily
+use his proposal to execute him. The court's order therefore
+does not, as required for habeas, “necessarily prevent” the
+State from carrying out its execution. Nelson, 541 U. S., at
+647 (emphasis in original). Rather, the order gives the
+State a pathway forward.
+That remains true, we hold today, even if the alternative
+route necessitates a change in state law. Nance's requested
+relief still places his execution in Georgia's control. Assum-
+ing it wants to carry out the death sentence, the State can
+enact legislation approving what a court has found to be
+a fairly easy-to-employ method of execution. To be sure,
+amending a statute may require some more time and effort
+than changing an agency protocol, of the sort involved in
+Nelson and Hill. But in Hill, we explained that the “inci-
+dental delay” involved in changing a procedure—which even
+when uncodifed may take some real work 6—is not relevant
+to the vehicle question. 547 U. S., at 583. Instead, that in-
+quiry (as described earlier) focuses on whether the requested
+relief would “necessarily” invalidate, or foreclose the State
+from implementing, the death sentence. Ibid.; see supra,
+at 167–168. And anyway, Georgia has given us no reason to
+think that the amendment process would be a substantial
+impediment. The State has legislated changes to its execu-
+tion method several times before. See Dept. of Corrections,
+Office of Planning and Analysis, A History of the Death Pen-
+alty in Georgia: Executions by Year 1924–2014 (Jan. 2015)
+(describing how Georgia moved from hanging to electrocu-
+tion to lethal injection). Other States have regularly done
+the same, often in an effort to make executions more hu-
+mane. See S. Banner, The Death Penalty: An American
+History 296–297 (2002); see supra, at 163–164. That Nance's
+claim would require such action does not turn it from one
+contesting a method of execution into one disputing the un-
+derlying death sentence.
+The Court of Appeals could reach the contrary conclusion
+only by wrongly treating Georgia's statute as immutable.
+Recall the court's reasoning: Granting Nance relief would
+6 In a recent case, Texas described to this Court the complexity of chang-
+ing uncodifed execution protocols, given the number of state actors who
+need to reach agreement. See Respondents' Rule 32.3 Material in Rami-
+rez v. Collier, O. T. 2021, No. 21–5592, p. 14a.
+“necessarily imply[ ] the invalidity” of his death sentence be-
+cause Georgia law (presumably both statutes and regula-
+tions) “must [be taken] as fxed.” 981 F. 3d, at 1210–1211;
+see supra, at 166; post, at 177–178 (Barrett, J., dissenting)
+(agreeing that we must “take state law as we find it”). But
+why must it be so taken—when as a matter of fact Georgia
+could change its law and execute Nance? And when Nance
+accepts the validity of the State's taking that course? The
+Court of Appeals posited that “it is not [a federal court's]
+place to entertain complaints under section 1983” that would
+compel a State to change its capital punishment law. 981
+F. 3d, at 1211; see post, at 177. Except that sometimes it is.
+One of the “main aims” of § 1983 is to “override”—and thus
+compel change of—state laws when necessary to vindicate
+federal constitutional rights. Monroe v. Pape, 365 U. S. 167,
+173 (1961); see Zinermon v. Burch, 494 U. S. 113, 124 (1990).
+Or said otherwise, the ordinary and expected outcome of
+many a meritorious § 1983 suit is to declare unenforceable
+(whether on its face or as applied) a state statute as currently
+written. See, e. g., Cedar Point Nursery v. Hassid, 594
+U. S. ––– (2021). And in turn, the unsurprising effect of
+such a judgment may be to send state legislators back to the
+drawing board. See, e. g., Kolender v. Lawson, 461 U. S.
+352, 358 (1983). A prisoner, no less than any other § 1983
+litigant, can bring a suit of that ilk—can seek relief that
+would preclude a State from achieving some result unless
+and until it amends a statute.
+And indeed, courts not uncommonly entertain prisoner
+suits under § 1983 that may, if successful, require changing
+state law. As noted earlier, the classic prisoner § 1983 suit
+is one challenging prison conditions—say, overcrowding or
+inadequate medical care. See supra, at 168. Those suits
+can be brought under § 1983 because—just like this one—
+they attack not the validity of a conviction or sentence, but
+only a way of implementing the sentence. (They concern, in
+other words, how the prescribed incarceration is being car-
+ried out.) And the suits do not get diverted into habeas if,
+as sometimes is true, a judgment for the inmate would re-
+quire a new statutory appropriation for the prison—to hire
+more doctors, for example. See, e. g., Stafford v. Carter,
+No. 1:17–cv–00289 (SD Ind.), ECF Docs. 268, 282. Similarly,
+no one would think an action of that kind should go to habeas
+if the prison policy challenged (say, each facility's maximum
+population) were specified in a statute or regulation. Or
+consider another kind of prisoner § 1983 suit this Court has
+recently considered—one by a death row inmate seeking to
+compel the State to open the execution chamber to his spirit-
+ual advisor. See Dunn v. Ray, 586 U. S. ––– (2019); Murphy
+v. Collier, 587 U. S. ––– (2019); Gutierrez v. Saenz, 592
+U. S. ––– (2021); Ramirez v. Collier, 595 U. S. ––– (2022).
+Here too, the claim belongs in § 1983 because—just like this
+one—it challenges not the validity of a death sentence, but
+only the State's mode of carrying it out. And again, we can-
+not think it would matter if a State codified its no-spiritual-
+advisor protocol in a regulation. The State, assuming it lost
+the suit, would then have to modify its law to go forward
+with the execution. But the nature of the suit would still
+be the same. The complaint would still ask to adjust only a
+matter of implementation, so it still could be fled under
+§ 1983.
+Under the contrary approach, the federal vehicle for bring-
+ing a federal claim—and with that, the viability of the
+claim—would depend on the vagaries of state law. Consider
+how Nance's own method-of-execution claim would fare in
+different States. In Georgia (and any other State with le-
+thal injection as the sole authorized method), he would have
+to bring his claim in a habeas petition. But in some other
+States primarily using lethal injection, he could fle a § 1983
+suit—because their statutes include back-up plans for when
+a court holds injection unconstitutional. See supra, at 163–
+164. Oklahoma's statute, for example, provides in that event
+for several alternative methods, including a firing squad.
+See Okla. Stat., Tit. 22, §§ 1014(B)–(D). And Alabama's stat-
+ute, in addition to listing alternatives, provides for execution
+“by any constitutional method.” Ala. Code § 15–18–82.1(c).
+Similar issues of non-uniformity could arise when inmates
+challenge, as in Nelson and Hill, specific ways of carrying
+out a lethal injection. See supra, at 168–169. That is be-
+cause some States have codified injection protocols in their
+statutes or regulations, while others (like Georgia) have not.
+Compare, e. g., Ark. Code Ann. §§ 5–4–617(c)–(f) with, e. g.,
+Ga. Code Ann. § 17–10–38(a). It would be strange to read
+such state-by-state discrepancies into our understanding of
+how § 1983 and the habeas statute apply to federal constitu-
+tional claims. And that is especially so because the use of
+those vehicles can lead to different outcomes: An inmate in
+one State could end up getting his requested relief, while a
+similarly situated inmate in another would have his suit
+thrown out. We cannot agree with the dissent that such a
+disparity would be “unremarkable.” Post, at 177. Its ac-
+ceptance would mean that the Eighth Amendment is enforce-
+able in federal court in one State, but not in another. Again,
+this case tells the tale: Having reconstrued Nance's com-
+plaint as a habeas petition, the court below dismissed it as
+second or successive—a bar existing in habeas alone. See
+supra, at 167.
+That part of the circuit court's opinion raises one last prob-
+lem, because it threatens to undo the commitment this Court
+made in Bucklew. See post, at 178 (acknowledging the
+point, though finding it irrelevant). Recall that the Court
+there told inmates they could identify an alternative method
+of execution not “presently authorized” by the executing
+State's law. 587 U. S., at –––; see supra, at 164–165. That
+option would ensure state law does not “control[ ]” the
+Eighth Amendment inquiry; and it would keep manageable
+the inmate's “burden” to identify an alternative. 587 U. S.,
+at ––– – –––. Under the circuit court's approach, however,
+that option is no option at all. Once an inmate presents an
+out-of-state alternative, he is relegated to habeas. And once
+he is in habeas, he will (according to the circuit court) almost
+inevitably collide with the second-or-successive bar (because
+a method-of-execution claim typically postdates a first ha-
+beas petition by many years). We do not here decide
+whether that view of the second-or-successive bar is correct.
+But the two aspects of the circuit court's ruling, when taken
+together, turn Bucklew into a sham. On the Eleventh Cir-
+cuit's view, Georgia law effectively prevents an inmate like
+Nance from putting forward an out-of-state alternative.
+And Georgia law thereby precludes the kind of method-of-
+execution claim this Court told prisoners they could bring.
+One last point from Bucklew—this one about “dilatory”
+tactics—bears repeating here. Id., at –––. In recognizing
+that § 1983 is a good vehicle for a claim like Nance's, we do
+not for a moment countenance “last-minute” claims relied on
+to forestall an execution. Id., at –––. “Courts should police
+carefully against attempts to use [method-of-execution] chal-
+lenges as tools to interpose unjustified delay.” Ibid. In de-
+ciding whether to grant a stay of execution, courts must con-
+sider whether such a challenge “could have been brought
+earlier” or otherwise reflects a prisoner's “attempt at manip-
+ulation.” Ibid. (internal quotation marks omitted). And
+outside the stay context, courts have a variety of tools—
+including the “substantive [and] procedural limitations” that
+the Prison Litigation Reform Act imposes—to streamline
+§ 1983 actions and protect “the timely enforcement of a sen-
+tence.” Nelson, 541 U. S., at 650 (listing PLRA limitations);
+Bucklew, 587 U. S., at –––. Finally, all § 1983 suits must be
+brought within a State's statute of limitations for personal-
+injury actions. See Wallace v. Kato, 549 U. S. 384, 387
+(2007). Here, the District Court held Nance's suit untimely
+under that limitations period. See No. 20–cv–00107 (ND
+Ga., Mar. 13, 2020), ECF Doc. 26, p. 12; supra, at 166. The
+Eleventh Circuit did not review that holding because it in-
+stead reconstrued the action as a habeas petition. Now that

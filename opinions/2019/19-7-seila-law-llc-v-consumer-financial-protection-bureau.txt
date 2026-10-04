@@ -1,0 +1,1003 @@
+Seila Law LLC v. Consumer Financial Protection Bureau — No. 19-7 — October Term 2019 — decided 6/29/20 — opinion of the Court — author Roberts (listing code R)
+Citation: 591 U.S. 197
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US1PP_web.pdf#page=207 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+We therefore hold that the structure of the CFPB violates
+the separation of powers. We go on to hold that the CFPB
+Director's removal protection is severable from the other
+statutory provisions bearing on the CFPB's authority. The
+agency may therefore continue to operate, but its Director,
+in light of our decision, must be removable by the President
+at will.
+I
+A
+In the summer of 2007, then-Professor Elizabeth Warren
+called for the creation of a new, independent federal agency
+focused on regulating consumer financial products. Warren,
+Unsafe at Any Rate, Democracy (Summer 2007). Professor
+Warren believed the financial products marketed to ordinary
+American households—credit cards, student loans, mort -
+gages, and the like—had grown increasingly unsafe due to a
+“regulatory jumble” that paid too much attention to banks
+and too little to consumers. Ibid. To remedy the lack of
+“coherent, consumer-oriented” financial regulation, she pro-
+posed “concentrat[ing] the review of financial products in a
+single location”—an independent agency modeled after the
+multimember Consumer Product Safety Commission. Ibid.
+That proposal soon met its moment. Within months of
+Professor Warren's writing, the subprime mortgage market
+collapsed, precipitating a financial crisis that wiped out over
+$10 trillion in American household wealth and cost millions
+of Americans their jobs, their retirements, and their homes.
+In the aftermath, the Obama administration embraced Pro-
+fessor Warren's recommendation. Through the Treasury
+Department, the administration encouraged Congress to es-
+tablish an agency with a mandate to ensure that “consumer
+protection regulations” in the financial sector “are written
+fairly and enforced vigorously.” Dept. of Treasury, Finan-
+cial Regulatory Reform: A New Foundation 55 (2009). Like
+Professor Warren, the administration envisioned a tradi-
+PROTECTION BUREAU
+Opinion of the Court
+tional independent agency, run by a multimember board with
+a “diverse set of viewpoints and experiences.” Id., at 58.
+In 2010, Congress acted on these proposals and created
+the Consumer Financial Protection Bureau (CFPB) as an in-
+dependent financial regulator within the Federal Reserve
+System. Dodd-Frank Wall Street Reform and Consumer
+Protection Act (Dodd-Frank), 124 Stat. 1376. Congress
+tasked the CFPB with “implement[ing]” and “enforc[ing]” a
+large body of financial consumer protection laws to “ensur[e]
+that all consumers have access to markets for consumer f-
+nancial products and services and that markets for consumer
+financial products and services are fair, transparent, and
+competitive.” 12 U. S. C. § 5511(a). Congress transferred
+the administration of 18 existing federal statutes to the
+CFPB, including the Fair Credit Reporting Act, the Fair
+Debt Collection Practices Act, and the Truth in Lending Act.
+See §§ 5512(a), 5481(12), (14). In addition, Congress enacted
+a new prohibition on “any unfair, deceptive, or abusive act
+or practice” by certain participants in the consumer-finance
+sector. § 5536(a)(1)(B). Congress authorized the CFPB to
+implement that broad standard (and the 18 pre-existing stat-
+utes placed under the agency's purview) through binding
+regulations. §§ 5531(a)–(b), 5581(a)(1)(A), (b).
+Congress also vested the CFPB with potent enforcement
+powers. The agency has the authority to conduct investiga-
+tions, issue subpoenas and civil investigative demands, initi-
+ate administrative adjudications, and prosecute civil actions
+in federal court. §§ 5562, 5564(a), (f). To remedy violations
+of federal consumer financial law, the CFPB may seek resti-
+tution, disgorgement, and injunctive relief, as well as civil
+penalties of up to $1 million (inflation adjusted) for each day
+that a violation occurs. §§ 5565(a), (c)(2); 12 CFR § 1083.1(a),
+Table (2019). Since its inception, the CFPB has obtained
+over $11 billion in relief for over 25 million consumers, in-
+cluding a $1 billion penalty against a single bank in 2018.
+See CFPB, Financial Report of the Consumer Financial Pro-
+tection Bureau, Fiscal Year 2015, p. 3; CFPB, Bureau of
+Consumer Financial Protection Announces Settlement With
+Wells Fargo for Auto-Loan Administration and Mortgage
+Practices (Apr. 20, 2018).
+The CFPB's rulemaking and enforcement powers are cou-
+pled with extensive adjudicatory authority. The agency
+may conduct administrative proceedings to “ensure or en-
+force compliance with” the statutes and regulations it admin-
+isters. 12 U. S. C. § 5563(a). When the CFPB acts as an
+adjudicator, it has “jurisdiction to grant any appropriate
+legal or equitable relief.” § 5565(a)(1). The “hearing off-
+cer” who presides over the proceedings may issue subpoenas,
+order depositions, and resolve any motions fled by the par-
+ties. 12 CFR § 1081.104(b). At the close of the proceed-
+ings, the hearing officer issues a “recommended decision,”
+and the CFPB Director considers that recommendation
+and “issue[s] a final decision and order.” §§ 1081.400(d),
+1081.402(b); see also § 1081.405.
+Congress's design for the CFPB differed from the propos-
+als of Professor Warren and the Obama administration in one
+critical respect. Rather than create a traditional independ-
+ent agency headed by a multimember board or commission,
+Congress elected to place the CFPB under the leadership of
+a single Director. 12 U. S. C. § 5491(b)(1). The CFPB Di-
+rector is appointed by the President with the advice and con-
+sent of the Senate. § 5491(b)(2). The Director serves for a
+term of fve years, during which the President may remove
+the Director from office only for “inefficiency, neglect of duty,
+or malfeasance in office.” §§ 5491(c)(1), (3).
+Unlike most other agencies, the CFPB does not rely on
+the annual appropriations process for funding. Instead, the
+CFPB receives funding directly from the Federal Reserve,
+which is itself funded outside the appropriations process
+through bank assessments. Each year, the CFPB requests
+an amount that the Director deems “reasonably necessary
+to carry out” the agency's duties, and the Federal Reserve
+PROTECTION BUREAU
+Opinion of the Court
+grants that request so long as it does not exceed 12% of the
+total operating expenses of the Federal Reserve (inflation
+adjusted). §§ 5497(a)(1), (2)(A)(iii), (2)(B). In recent years,
+the CFPB's annual budget has exceeded half a billion dollars.
+See CFPB, Fiscal Year 2019: Ann. Performance Plan and
+Rep., p. 7.
+B
+Seila Law LLC is a California-based law frm that pro-
+vides debt-related legal services to clients. In 2017, the
+CFPB issued a civil investigative demand to Seila Law to
+determine whether the frm had “engag[ed] in unlawful acts
+or practices in the advertising, marketing, or sale of debt
+relief services.” 2017 WL 6536586, *1 (CD Cal., Aug. 25,
+2017). See also 12 U. S. C. § 5562(c)(1) (authorizing the
+agency to issue such demands to persons who “may have
+any information[ ] relevant to a violation” of one of the laws
+enforced by the CFPB). The demand (essentially a sub-
+poena) directed Seila Law to produce information and docu-
+ments related to its business practices.
+Seila Law asked the CFPB to set aside the demand,
+objecting that the agency's leadership by a single Director
+removable only for cause violated the separation of powers.
+The CFPB declined to address that claim and directed Seila
+Law to comply with the demand.
+When Seila Law refused, the CFPB fled a petition to en-
+force the demand in the District Court. See § 5562(e)(1)
+(creating cause of action for that purpose). In response,
+Seila Law renewed its defense that the demand was invalid
+and must be set aside because the CFPB's structure violated
+the Constitution. The District Court disagreed and ordered
+Seila Law to comply with the demand (with one modification
+not relevant here).
+The Court of Appeals affirmed. 923 F. 3d 680 (CA9 2019).
+The Court observed that the “arguments for and against” the
+constitutionality of the CFPB's structure had already been
+“thoroughly canvassed” in majority, concurring, and dissent-
+ing opinions by the en banc Court of Appeals for the District
+of Columbia Circuit in PHH Corp. v. CFPB, 881 F. 3d 75
+(2018), which had rejected a challenge similar to the one pre-
+sented here. 923 F. 3d, at 682. The Court saw “no need to
+re-plow the same ground.” Ibid. Instead, it provided a
+brief explanation for why it agreed with the PHH Court's
+core holding. The Court took as its starting point Hum-
+phrey's Executor , which had approved for-cause removal
+protection for the Commissioners of the Federal Trade Com-
+mission (FTC). In applying that precedent, the Court rec-
+ognized that the CFPB wields “substantially more executive
+power than the FTC did back in 1935” and that the CFPB's
+leadership by a single Director (as opposed to a multimem-
+ber commission) presented a “structural difference” that
+some jurists had found “dispositive.” 923 F. 3d, at 683–684.
+But the Court felt bound to disregard those differences in
+light of our decision in Morrison, which permitted a single
+individual (an independent counsel) to exercise a core execu-
+tive power (prosecuting criminal offenses) despite being in-
+sulated from removal except for cause. Because the Court
+found Humphrey's Executor and Morrison “controlling,” it
+affirmed the District Court's order requiring compliance
+with the demand. 923 F. 3d, at 684.
+We granted certiorari to address the constitutionality of
+the CFPB's structure. 589 U. S. 1031 (2019). We also re-
+quested argument on an additional question: whether, if the
+CFPB's structure violates the separation of powers, the
+CFPB Director's removal protection can be severed from the
+rest of the Dodd-Frank Act.
+Because the Government agrees with petitioner on the
+merits of the constitutional question, we appointed Paul
+Clement to defend the judgment below as amicus curiae .
+He has ably discharged his responsibilities.
+II
+We first consider three threshold arguments raised by the
+appointed amicus for why we may not or should not reach
+the merits. Each is unavailing.
+PROTECTION BUREAU
+Opinion of the Court
+First, amicus argues that the demand issued to petitioner
+is not “traceable” to the alleged constitutional defect because
+two of the three Directors who have in turn played a role in
+enforcing the demand were (or now consider themselves to
+be) removable by the President at will. Brief for Court-
+Appointed Amicus Curiae 21–24. Amicus highlights the
+Government's argument below that the demand, originally
+issued by former Director Richard Cordray, had been ratified
+by an acting CFPB Director who, according to the Office of
+Legal Counsel (OLC), was removable by the President at
+will. See Brief for Appellee in No. 17–56324 (CA9), pp. 1, 10,
+13–19 (citing Designating an Acting Director of the Bureau
+of Consumer Financial Protection, 41 Op. OLC 99, 109
+(2017)). Amicus further observes that current CFPB Di-
+rector Kathleen Kraninger, now responsible for enforcing the
+demand, agrees with the Solicitor General's position in this
+case that her for-cause removal protection is unconstitu-
+tional. See Brief for Respondent on Pet. for Cert. 20; Letter
+from K. Kraninger, CFPB Director, to M. McConnell, Major-
+ity Leader, U. S. Senate, p. 2 (Sept. 17, 2019); Letter from K.
+Kraninger, CFPB Director, to N. Pelosi, Speaker, U. S.
+House of Representatives, p. 2 (Sept. 17, 2019). 1 In amicus'
+view, these developments reveal that the demand would have
+been issued—and would continue to be enforced—even in the
+absence of the CFPB Director's removal protection, making
+the asserted separation of powers dispute “artificial.” Brief
+for Court-Appointed Amicus Curiae 22.
+Even if that were true, it would not deprive us of jurisdic-
+tion. Amicus' traceability argument appears to challenge
+petitioner's Article III standing. See Lujan v. Defenders of
+Wildlife , 504 U. S. 555, 560 (1992) (explaining that the plain-
+tiff 's injury must be “fairly traceable to the challenged action
+of the defendant” (internal quotation marks and alterations
+1 Director Kraninger did not indicate whether she would disregard her
+statutory removal protection if the President attempted to remove her
+without cause.
+omitted)). But amicus' argument does not cast any doubt
+on the jurisdiction of the District Court because petitioner
+is the defendant and did not invoke the Court's jurisdiction.
+See Bond v. United States, 564 U. S. 211, 217 (2011) (When
+the plaintiff has standing, “Article III does not restrict the
+opposing party's ability to object to relief being sought at
+its expense.”).
+It is true that “standing must be met by persons seeking
+appellate review, just as it must be met by persons appearing
+in courts of first instance.” Hollingsworth v. Perry, 570
+U. S. 693, 705 (2013) (internal quotation marks omitted).
+But petitioner's appellate standing is beyond dispute. Peti-
+tioner is compelled to comply with the civil investigative de-
+mand and to provide documents it would prefer to withhold,
+a concrete injury. That injury is traceable to the decision
+below and would be fully redressed if we were to reverse
+the judgment of the Court of Appeals and remand with in-
+structions to deny the Government's petition to enforce the
+demand.
+Without engaging with these principles, amicus contends
+that a litigant wishing to challenge an executive act on the
+basis of the President's removal power must show that the
+challenged act would not have been taken if the responsible
+official had been subject to the President's control. See
+Brief for Court-Appointed Amicus Curiae 21–24. Our prec-
+edents say otherwise. We have held that a litigant chal-
+lenging governmental action as void on the basis of the
+separation of powers is not required to prove that the
+Government's course of conduct would have been different
+in a “counterfactual world” in which the Government had
+acted with constitutional authority. Free Enterprise Fund,
+561 U. S., at 512, n. 12. In the specific context of the Presi-
+dent's removal power, we have found it sufficient that the
+challenger “sustain[s] injury” from an executive act that al-
+legedly exceeds the official's authority. Bowsher v. Synar,
+478 U. S. 714, 721 (1986).
+PROTECTION BUREAU
+Opinion of the Court
+Second, amicus contends that the proper context for as-
+sessing the constitutionality of an officer's removal restric-
+tion is a contested removal. See Brief for Court-Appointed
+Amicus Curiae 24–27. While that is certainly one way to
+review a removal restriction, it is not the only way. Our
+precedents have long permitted private parties aggrieved by
+an official's exercise of executive power to challenge the off-
+cial's authority to wield that power while insulated from re-
+moval by the President. See Bowsher, 478 U. S., at 721
+(lawsuit fled by aggrieved third party in the absence of con-
+tested removal); Free Enterprise Fund, 561 U. S., at 487
+(same); Morrison, 487 U. S., at 668–669 (defense to subpoena
+asserted by third party in the absence of contested removal).
+Indeed, we have expressly “reject[ed]” the “argument that
+consideration of the effect of a removal provision is not `ripe'
+until that provision is actually used,” because when such a
+provision violates the separation of powers it inflicts a “here-
+and-now” injury on affected third parties that can be reme-
+died by a court. Bowsher, 478 U. S., at 727, n. 5 (internal
+quotation marks omitted). The Court of Appeals therefore
+correctly entertained petitioner's constitutional defense on
+the merits.
+Lastly, amicus contends that we should dismiss the case
+because the parties agree on the merits of the constitutional
+question and the case therefore lacks “adverseness.” Tr. of
+Oral Arg. 42–43, 45–46. That contention, however, is fore-
+closed by United States v. Windsor, 570 U. S. 744 (2013).
+There, we explained that a lower court order that presents
+real-world consequences for the Government and its adver-
+sary suffices to support Article III jurisdiction—even if “the
+Executive may welcome” an adverse order that “is accom-
+panied by the constitutional ruling it wants.” Id., at 758.
+Here, petitioner and the Government disagree about
+whether petitioner must comply with the civil investigative
+demand. The lower courts sided with the Government, and
+the Government has not volunteered to relinquish that vic-
+tory and withdraw the demand. To the contrary, while the
+Government agrees that the agency is unconstitutionally
+structured, it believes it may nevertheless enforce the de-
+mand on remand. See infra, at 232. Accordingly, our “de-
+cision will have real meaning” for the parties. INS v.
+Chadha, 462 U. S. 919, 939 (1983). And, as in Windsor, any
+prudential concerns with deciding an important legal ques-
+tion in this posture can be addressed by “the practice of en-
+tertaining arguments made by an amicus when the Solicitor
+General confesses error with respect to a judgment below,”
+which we have done. 570 U. S., at 760.
+We therefore turn to the merits of petitioner's constitu-
+tional challenge.
+III
+We hold that the CFPB's leadership by a single individual
+removable only for inefficiency, neglect, or malfeasance vio-
+lates the separation of powers.
+A
+Article II provides that “[t]he executive Power shall be
+vested in a President,” who must “take Care that the Laws
+be faithfully executed.” Art. II, § 1, cl. 1; id., § 3. The en-
+tire “executive Power” belongs to the President alone. But
+because it would be “impossib[le]” for “one man” to “perform
+all the great business of the State,” the Constitution assumes
+that lesser executive officers will “assist the supreme Magis-
+trate in discharging the duties of his trust.” 30 Writings of
+George Washington 334 (J. Fitzpatrick ed. 1939).
+These lesser officers must remain accountable to the Presi-
+dent, whose authority they wield. As Madison explained,
+“[I]f any power whatsoever is in its nature Executive, it is
+the power of appointing, overseeing, and controlling those
+who execute the laws.” 1 Annals of Cong. 463 (1789). That
+power, in turn, generally includes the ability to remove exec-
+utive officials, for it is “only the authority that can remove”
+such officials that they “must fear and, in the performance of
+PROTECTION BUREAU
+Opinion of the Court
+[their] functions, obey.” Bowsher, 478 U. S., at 726 (internal
+quotation marks omitted).
+The President's removal power has long been confirmed
+by history and precedent. It “was discussed extensively in
+Congress when the first executive departments were cre-
+ated” in 1789. Free Enterprise Fund, 561 U. S., at 492.
+“The view that `prevailed, as most consonant to the text of
+the Constitution' and `to the requisite responsibility and har-
+mony in the Executive Department,' was that the executive
+power included a power to oversee executive officers through
+removal.” Ibid. (quoting Letter from James Madison to
+Thomas Jefferson (June 30, 1789), 16 Documentary History
+of the First Federal Congress 893 (2004)). The First Con-
+gress's recognition of the President's removal power in 1789
+“provides contemporaneous and weighty evidence of the
+Constitution's meaning,” Bowsher, 478 U. S., at 723 (internal
+quotation marks omitted), and has long been the “settled and
+well understood construction of the Constitution,” Ex parte
+Hennen, 13 Pet. 230, 259 (1839).
+The Court recognized the President's prerogative to re-
+move executive officials in Myers v. United States, 272 U. S.
+52. Chief Justice Taft, writing for the Court, conducted an
+exhaustive examination of the First Congress's determina-
+tion in 1789, the views of the Framers and their contempo-
+raries, historical practice, and our precedents up until that
+point. He concluded that Article II “grants to the Presi-
+dent” the “general administrative control of those executing
+the laws, including the power of appointment and removal
+of executive officers.” Id., at 163–164 (emphasis added).
+Just as the President's “selection of administrative officers is
+essential to the execution of the laws by him, so must be his
+power of removing those for whom he can not continue to be
+responsible.” Id., at 117. “[T]o hold otherwise,” the Court
+reasoned, “would make it impossible for the President . . . to
+take care that the laws be faithfully executed.” Id., at 164.
+We recently reiterated the President's general removal
+power in Free Enterprise Fund. “Since 1789,” we re-
+capped, “the Constitution has been understood to empower
+the President to keep these officers accountable—by remov-
+ing them from office, if necessary.” 561 U. S., at 483. Al-
+though we had previously sustained congressional limits on
+that power in certain circumstances, we declined to extend
+those limits to “a new situation not yet encountered by the
+Court”—an official insulated by two layers of for-cause re-
+moval protection. Id., at 483, 514. In the face of that novel
+impediment to the President's oversight of the Executive
+Branch, we adhered to the general rule that the President
+possesses “the authority to remove those who assist him in
+carrying out his duties.” Id., at 513–514.
+Free Enterprise Fund left in place two exceptions to the
+President's unrestricted removal power. First, in Hum-
+phrey's Executor , decided less than a decade after Myers,
+the Court upheld a statute that protected the Commissioners
+of the FTC from removal except for “inefficiency, neglect
+of duty, or malfeasance in office.” 295 U. S., at 620 (quoting
+15 U. S. C. § 41). In reaching that conclusion, the Court
+stressed that Congress's ability to impose such removal re-
+strictions “will depend upon the character of the office.”
+295 U. S., at 631.
+Because the Court limited its holding “to officers of the
+kind here under consideration,” id., at 632, the contours of
+the Humphrey's Executor exception depend upon the char-
+acteristics of the agency before the Court. Rightly or
+wrongly, the Court viewed the FTC (as it existed in 1935)
+as exercising “no part of the executive power.” Id., at 628.
+Instead, it was “an administrative body” that performed
+“specified duties as a legislative or as a judicial aid.” Ibid.
+It acted “as a legislative agency” in “making investigations
+and reports” to Congress and “as an agency of the judiciary”
+in making recommendations to courts as a master in chan-
+PROTECTION BUREAU
+Opinion of the Court
+cery. Ibid. “To the extent that [the FTC] exercise[d] any
+executive function[,] as distinguished from executive power
+in the constitutional sense,” it did so only in the discharge of
+its “quasi-legislative or quasi-judicial powers.” Ibid. (em-
+phasis added).2
+The Court identified several organizational features that
+helped explain its characterization of the FTC as non-
+executive. Composed of fve members—no more than three
+from the same political party—the Commission was designed
+to be “non-partisan” and to “act with entire impartiality.”
+Id., at 624; see id., at 619–620. The FTC's duties were “nei-
+ther political nor executive,” but instead called for “the
+trained judgment of a body of experts” “informed by experi-
+ence.” Id., at 624 (internal quotation marks omitted). And
+the Commissioners' staggered, seven-year terms enabled the
+agency to accumulate technical expertise and avoid a “com-
+plete change” in leadership “at any one time.” Ibid.
+In short, Humphrey's Executor permitted Congress to
+give for-cause removal protections to a multimember body
+of experts, balanced along partisan lines, that performed leg-
+islative and judicial functions and was said not to exercise
+any executive power. Consistent with that understanding,
+the Court later applied “[t]he philosophy of Humphrey's
+Executor ” to uphold for-cause removal protections for the
+members of the War Claims Commission—a three-member
+“adjudicatory body” tasked with resolving claims for com-
+pensation arising from World War II. Wiener v. United
+States, 357 U. S. 349, 356 (1958).
+2 The Court's conclusion that the FTC did not exercise executive power
+has not withstood the test of time. As we observed in Morrison v. Olson,
+487 U. S. 654 (1988), “[I]t is hard to dispute that the powers of the FTC at
+the time of Humphrey's Executor would at the present time be considered
+`executive,' at least to some degree.” Id., at 690, n. 28. See also Arling-
+ton v. FCC, 569 U. S. 290, 305, n. 4 (2013) (even though the activities of
+administrative agencies “take `legislative' and `judicial' forms,” “they are
+exercises of—indeed, under our constitutional structure they must be ex-
+ercises of—the `executive Power' ” (quoting Art. II, § 1, cl. 1)).
+While recognizing an exception for multimember bodies
+with “quasi-judicial” or “quasi-legislative” functions, Hum-
+phrey's Executor reaffirmed the core holding of Myers that
+the President has “unrestrictable power . . . to remove purely
+executive officers.” 295 U. S., at 632. The Court acknowl-
+edged that between purely executive officers on the one
+hand, and officers that closely resembled the FTC Commis-
+sioners on the other, there existed “a feld of doubt” that the
+Court left “for future consideration.” Ibid.
+We have recognized a second exception for inferior off-
+cers in two cases, United States v. Perkins and Morrison v.
+Olson.3 In Perkins, we upheld tenure protections for a
+naval cadet-engineer. 116 U. S., at 485. And, in Morrison,
+we upheld a provision granting good-cause tenure protection
+to an independent counsel appointed to investigate and pros-
+ecute particular alleged crimes by high-ranking Government
+officials. 487 U. S., at 662–663, 696–697. Backing away
+from the reliance in Humphrey's Executor on the concepts
+of “quasi-legislative” and “quasi-judicial” power, we viewed
+the ultimate question as whether a removal restriction is of
+“such a nature that [it] impede[s] the President's ability to
+perform his constitutional duty.” 487 U. S., at 691. Al-
+though the independent counsel was a single person and per-
+formed “law enforcement functions that typically have been
+undertaken by officials within the Executive Branch,” we
+concluded that the removal protections did not unduly inter-
+fere with the functioning of the Executive Branch because
+3 Article II distinguishes between two kinds of officers—principal off-
+cers (who must be appointed by the President with the advice and consent
+of the Senate) and inferior officers (whose appointment Congress may vest
+in the President, courts, or heads of Departments). § 2, cl. 2. While
+“[o]ur cases have not set forth an exclusive criterion for distinguishing
+between principal and inferior officers,” we have in the past examined
+factors such as the nature, scope, and duration of an officer's duties. Ed-
+mond v. United States, 520 U. S. 651, 661 (1997). More recently, we have
+focused on whether the officer's work is “directed and supervised” by a
+principal officer. Id., at 663.
+PROTECTION BUREAU
+Opinion of the Court
+“the independent counsel [was] an inferior officer under the
+Appointments Clause, with limited jurisdiction and tenure
+and lacking policymaking or significant administrative au-
+thority.” Ibid.
+These two exceptions—one for multimember expert agen-
+cies that do not wield substantial executive power, and one
+for inferior officers with limited duties and no policymaking
+or administrative authority—“represent what up to now
+have been the outermost constitutional limits of permissi-
+ble congressional restrictions on the President's removal
+power.” PHH, 881 F. 3d, at 196 (Kavanaugh, J., dissenting)
+(internal quotation marks omitted).
+B
+Neither Humphrey's Executor nor Morrison resolves
+whether the CFPB Director's insulation from removal is con-
+stitutional. Start with Humphrey's Executor. Unlike the
+New Deal-era FTC upheld there, the CFPB is led by a single
+Director who cannot be described as a “body of experts” and
+cannot be considered “non-partisan” in the same sense as a
+group of officials drawn from both sides of the aisle. 295
+U. S., at 624. Moreover, while the staggered terms of the
+FTC Commissioners prevented complete turnovers in
+agency leadership and guaranteed that there would always
+be some Commissioners who had accrued significant exper-
+tise, the CFPB's single-Director structure and fve-year
+term guarantee abrupt shifts in agency leadership and with
+it the loss of accumulated expertise.
+In addition, the CFPB Director is hardly a mere legislative
+or judicial aid. Instead of making reports and recommenda-
+tions to Congress, as the 1935 FTC did, the Director pos-
+sesses the authority to promulgate binding rules fleshing out
+19 federal statutes, including a broad prohibition on unfair
+and deceptive practices in a major segment of the U. S. econ-
+omy. And instead of submitting recommended dispositions
+to an Article III court, the Director may unilaterally issue
+final decisions awarding legal and equitable relief in adminis-
+trative adjudications. Finally, the Director's enforcement
+authority includes the power to seek daunting monetary pen-
+alties against private parties on behalf of the United States
+in federal court—a quintessentially executive power not con-
+sidered in Humphrey's Executor.4
+The logic of Morrison also does not apply. Everyone
+agrees the CFPB Director is not an inferior officer, and her
+duties are far from limited. Unlike the independent counsel,
+who lacked policymaking or administrative authority, the Di-
+rector has the sole responsibility to administer 19 separate
+consumer-protection statutes that cover everything from
+credit cards and car payments to mortgages and student
+loans. It is true that the independent counsel in Morrison
+was empowered to initiate criminal investigations and prose-
+cutions, and in that respect wielded core executive power.
+But that power, while significant, was trained inward to
+high-ranking governmental actors identified by others, and
+was confined to a specified matter in which the Department
+of Justice had a potential conflict of interest. By contrast,
+the CFPB Director has the authority to bring the coercive
+power of the state to bear on millions of private citizens and
+4 The dissent would have us ignore the reasoning of Humphrey's Exe-
+cutor and instead apply the decision only as part of a reimagined
+Humphrey's-through-Morrison framework. See post, at 278, n. 7, 279–
+282 (Kagan, J., concurring in judgment with respect to severability and
+dissenting in part) (hereinafter dissent). But we take the decision on its
+own terms, not through gloss added by a later Court in dicta. The dissent
+also criticizes us for suggesting that the 1935 FTC may have had lesser
+responsibilities than the present FTC. See post, at 286–287, n. 10. Per-
+haps the FTC possessed broader rulemaking, enforcement, and adjudica-
+tory powers than the Humphrey's Court appreciated. Perhaps not.
+Either way, what matters is the set of powers the Court considered as the
+basis for its decision, not any latent powers that the agency may have had
+not alluded to by the Court.
+PROTECTION BUREAU
+Opinion of the Court
+businesses, imposing even billion-dollar penalties through
+administrative adjudications and civil actions.
+In light of these differences, the constitutionality of the
+CFPB Director's insulation from removal cannot be settled
+by Humphrey's Executor or Morrison alone.
+C
+The question instead is whether to extend those prece-
+dents to the “new situation” before us, namely an independ-
+ent agency led by a single Director and vested with signifi-
+cant executive power. Free Enterprise Fund, 561 U. S., at
+483. We decline to do so. Such an agency has no basis in
+history and no place in our constitutional structure.
+1
+“Perhaps the most telling indication of [a] severe constitu-
+tional problem” with an executive entity “is [a] lack of histor-
+ical precedent” to support it. Id., at 505 (internal quotation
+marks omitted). An agency with a structure like that of the
+CFPB is almost wholly unprecedented.
+After years of litigating the agency's constitutionality, the
+Courts of Appeals, parties, and amici have identified “only a
+handful of isolated” incidents in which Congress has provided
+good-cause tenure to principal officers who wield power
+alone rather than as members of a board or commission.
+Ibid. “[T]hese few scattered examples”—four to be exact—
+shed little light. NLRB v. Noel Canning , 573 U. S. 513,
+538 (2014).
+First, the CFPB's defenders point to the Comptroller of
+the Currency, who enjoyed removal protection for one year
+during the Civil War. That example has rightly been dis-
+missed as an aberration. It was “adopted without discus-
+sion” during the heat of the Civil War and abandoned be-
+fore it could be “tested by executive or judicial inquiry.”
+Myers, 272 U. S., at 165. (At the time, the Comptroller may
+also have been an inferior officer, given that he labored
+“under the general direction of the Secretary of the Treas-
+ury.” Ch. 58, 12 Stat. 665.) 5
+Second, the supporters of the CFPB point to the Office of
+the Special Counsel (OSC), which has been headed by a sin-
+gle officer since 1978. 6 But this first enduring single-leader
+office, created nearly 200 years after the Constitution was
+ratified, drew a contemporaneous constitutional objection
+from the Office of Legal Counsel under President Carter and
+a subsequent veto on constitutional grounds by President
+Reagan. See Memorandum Opinion for the General Coun-
+sel, Civil Service Commission, 2 Op. OLC 120, 122 (1978);
+Public Papers of the Presidents, Ronald Reagan, Vol. II,
+Oct. 26, 1988, pp. 1391–1392 (1991). 7 In any event, the OSC
+exercises only limited jurisdiction to enforce certain rules
+governing Federal Government employers and employees.
+See 5 U. S. C. § 1212. It does not bind private parties at all
+or wield regulatory authority comparable to the CFPB.
+Third, the CFPB's defenders note that the Social Security
+Administration (SSA) has been run by a single Administra-
+tor since 1994. That example, too, is comparatively recent
+and controversial. President Clinton questioned the consti-
+tutionality of the SSA's new single-Director structure upon
+5 The dissent suggests that the Comptroller still enjoyed some degree of
+insulation after his removal protection was repealed because the President
+faced a new requirement to “communicate[ ]” his “reasons” for terminating
+the Comptroller to the Senate. Post, at 274 (quoting Act of June 3, 1864,
+ch. 106, § 1, 13 Stat. 100). But the President could still remove the Comp-
+troller for any reason so long as the President was, in the dissent's phrase,
+“in a firing mood.” Post, at 275.
+6 The OSC should not be confused with the independent counsel in Mor-
+rison or the special counsel recently appointed to investigate allegations
+related to the 2016 Presidential election. Despite sharing similar titles,
+those individuals have no relationship to the OSC.
+7 An Act similar to the one vetoed by President Reagan was eventually
+signed by President George H. W. Bush after extensive negotiations and
+compromises with Congress. See Public Papers of the Presidents, George
+H. W. Bush, Vol. I, Apr. 10, 1989, p. 391 (1990).
+PROTECTION BUREAU
+Opinion of the Court
+signing it into law. See Public Papers of the Presidents,
+William J. Clinton, Vol. II, Aug. 15, 1994, pp. 1471–1472 (1995)
+(inviting a “corrective amendment” from Congress). In ad-
+dition, unlike the CFPB, the SSA lacks the authority to bring
+enforcement actions against private parties. Its role is
+largely limited to adjudicating claims for Social Security
+benefits.
+The only remaining example is the Federal Housing Fi-
+nance Agency (FHFA), created in 2008 to assume responsi-
+bility for Fannie Mae and Freddie Mac. That agency is es-
+sentially a companion of the CFPB, established in response
+to the same financial crisis. See Housing and Economic Re-
+covery Act of 2008, 122 Stat. 2654. It regulates primarily
+Government-sponsored enterprises, not purely private
+actors. And its single-Director structure is a source of on-
+going controversy. Indeed, it was recently held unconstitu-
+tional by the Fifth Circuit, sitting en banc. See Collins v.
+Mnuchin, 938 F. 3d 553, 587–588 (2019).
+With the exception of the one-year blip for the Comptrol-
+ler of the Currency, these isolated examples are modern and
+contested. And they do not involve regulatory or enforce-
+ment authority remotely comparable to that exercised by the
+CFPB. The CFPB's single-Director structure is an innova-
+tion with no foothold in history or tradition. 8
+2
+In addition to being a historical anomaly, the CFPB's
+single-Director confguration is incompatible with our consti-
+tutional structure. Aside from the sole exception of the
+8 The dissent categorizes the CFPB as one of many “financial regulators”
+that have historically enjoyed some insulation from the President. See
+post, at 271–276. But even assuming financial institutions like the Second
+Bank and the Federal Reserve can claim a special historical status, the
+CFPB is in an entirely different league. It acts as a mini legislature,
+prosecutor, and court, responsible for creating substantive rules for a wide
+swath of industries, prosecuting violations, and levying knee-buckling pen-
+alties against private citizens. See supra, at 206–207. And, of course, it
+is the only agency of its kind run by a single Director.
+Presidency, that structure scrupulously avoids concentrating
+power in the hands of any single individual.
+“The Framers recognized that, in the long term, structural
+protections against abuse of power were critical to preserv-
+ing liberty.” Bowsher, 478 U. S., at 730. Their solution to
+governmental power and its perils was simple: divide it. To
+prevent the “gradual concentration” of power in the same
+hands, they enabled “[a]mbition . . . to counteract ambition”
+at every turn. The Federalist No. 51, p. 349 (J. Cooke ed.
+1961) (J. Madison). At the highest level, they “split the atom
+of sovereignty” itself into one Federal Government and the
+States. Gamble v. United States, 587 U. S. 678, 688 (2019)
+(internal quotation marks omitted). They then divided the
+“powers of the new Federal Government into three defined
+categories, Legislative, Executive, and Judicial.” Chadha,
+462 U. S., at 951.
+They did not stop there. Most prominently, the Framers
+bifurcated the federal legislative power into two Chambers:
+the House of Representatives and the Senate, each composed
+of multiple Members and Senators. Art. I, §§ 2, 3.
+The Executive Branch is a stark departure from all this
+division. The Framers viewed the legislative power as a
+special threat to individual liberty, so they divided that
+power to ensure that “differences of opinion” and the “jar-
+rings of parties” would “promote deliberation and circum-
+spection” and “check excesses in the majority.” See The
+Federalist No. 70, at 475 (A. Hamilton); see also id., No. 51,
+at 350. By contrast, the Framers thought it necessary to
+secure the authority of the Executive so that he could carry
+out his unique responsibilities. See id., No. 70, at 475–478.
+As Madison put it, while “the weight of the legislative au-
+thority requires that it should be . . . divided, the weakness
+of the executive may require, on the other hand, that it
+should be fortifed.” Id., No. 51, at 350.
+The Framers deemed an energetic executive essential to
+“the protection of the community against foreign attacks,”
+“the steady administration of the laws,” “the protection of
+PROTECTION BUREAU
+Opinion of the Court
+property,” and “the security of liberty.” Id., No. 70, at 471.
+Accordingly, they chose not to bog the Executive down with
+the “habitual feebleness and dilatoriness” that comes with a
+“diversity of views and opinions.” Id., at 476. Instead,
+they gave the Executive the “[d]ecision, activity, secrecy, and
+dispatch” that “characterise the proceedings of one man.”
+Id., at 472.
+To justify and check that authority—unique in our consti-
+tutional structure—the Framers made the President the
+most democratic and politically accountable official in Gov-
+ernment. Only the President (along with the Vice Presi-
+dent) is elected by the entire Nation. And the President's
+political accountability is enhanced by the solitary nature of
+the Executive Branch, which provides “a single object for
+the jealousy and watchfulness of the people.” Id., at 479.
+The President “cannot delegate ultimate responsibility or the
+active obligation to supervise that goes with it,” because Ar-
+ticle II “makes a single President responsible for the actions
+of the Executive Branch.” Free Enterprise Fund, 561 U. S.,
+at 496–497 (quoting Clinton v. Jones, 520 U. S. 681, 712–713
+(1997) (Breyer, J., concurring in judgment)).
+The resulting constitutional strategy is straightforward:
+divide power everywhere except for the Presidency, and ren-
+der the President directly accountable to the people through
+regular elections. In that scheme, individual executive of-
+ficials will still wield significant authority, but that authority
+remains subject to the ongoing supervision and control of the
+elected President. Through the President's oversight, “the
+chain of dependence [is] preserved,” so that “the lowest off-
+cers, the middle grade, and the highest” all “depend, as they
+ought, on the President, and the President on the commu-
+nity.” 1 Annals of Cong. 499 (J. Madison).
+The CFPB's single-Director structure contravenes this
+carefully calibrated system by vesting significant govern-
+mental power in the hands of a single individual accountable
+to no one. The Director is neither elected by the people nor
+meaningfully controlled (through the threat of removal) by
+someone who is. The Director does not even depend on
+Congress for annual appropriations. See The Federalist
+No. 58, at 394 (J. Madison) (describing the “power over the
+purse” as the “most compleat and effectual weapon” in repre-
+senting the interests of the people). Yet the Director may
+unilaterally, without meaningful supervision, issue final reg-
+ulations, oversee adjudications, set enforcement priorities,
+initiate prosecutions, and determine what penalties to im-
+pose on private parties. With no colleagues to persuade,
+and no boss or electorate looking over her shoulder, the Di-
+rector may dictate and enforce policy for a vital segment of
+the economy affecting millions of Americans.
+The CFPB Director's insulation from removal by an ac-
+countable President is enough to render the agency's struc-
+ture unconstitutional. But several other features of the
+CFPB combine to make the Director's removal protection
+even more problematic. In addition to lacking the most di-
+rect method of Presidential control—removal at will—the
+agency's unique structure also forecloses certain indirect
+methods of Presidential control.
+Because the CFPB is headed by a single Director with a
+fve-year term, some Presidents may not have any opportu-
+nity to shape its leadership and thereby influence its activi-
+ties. A President elected in 2020 would likely not appoint a
+CFPB Director until 2023, and a President elected in 2028
+may never appoint one. That means an unlucky President
+might get elected on a consumer-protection platform and
+enter office only to find herself saddled with a holdover Di-
+rector from a competing political party who is dead set
+against that agenda. To make matters worse, the agency's
+single-Director structure means the President will not have
+the opportunity to appoint any other leaders—such as a chair
+or fellow members of a Commission or Board—who can serve
+as a check on the Director's authority and help bring the
+agency in line with the President's preferred policies.
+PROTECTION BUREAU
+Opinion of the Court
+The CFPB's receipt of funds outside the appropriations
+process further aggravates the agency's threat to Presiden-
+tial control. The President normally has the opportunity to
+recommend or veto spending bills that affect the operation
+of administrative agencies. See Art. I, § 7, cl. 2; Art. II, § 3.
+And, for the past century, the President has annually sub-
+mitted a proposed budget to Congress for approval. See
+Budget and Accounting Act, 1921, ch. 18, § 201, 42 Stat. 20.
+Presidents frequently use these budgetary tools “to influence
+the policies of independent agencies.” PHH, 881 F. 3d, at
+147 (Henderson, J., dissenting) (citing Pasachoff, The Presi-
+dent's Budget as a Source of Agency Policy Control, 125 Yale
+L. J. 2182, 2191, 2203–2204 (2016)). But no similar opportu-
+nity exists for the President to influence the CFPB Director.
+Instead, the Director receives over $500 million per year to
+fund the agency's chosen priorities. And the Director re-
+ceives that money from the Federal Reserve, which is itself
+funded outside of the annual appropriations process. This
+financial freedom makes it even more likely that the agency
+will “slip from the Executive's control, and thus from that of
+the people.” Free Enterprise Fund, 561 U. S., at 499. 9
+3
+Amicus raises three principal arguments in the agency's
+defense. At the outset, amicus questions the textual basis
+9 Amicus and the dissent try to diminish the CFPB's insulation from
+Presidential control by observing that the CFPB's final rules can be set
+aside by a super majority of the Financial Stability and Oversight Council
+(FSOC). See Brief for Court-Appointed Amicus Curiae 40; post, at 292,
+n. 13, 295. But the FSOC's veto power is statutorily reserved for extreme
+situations, when two-thirds of the Council concludes that a CFPB regula-
+tion would “put the safety and soundness of the United States banking
+system or the stability of the financial system of the United States at
+risk.” 12 U. S. C. §§ 5513(a), (c)(3). That narrow escape hatch has no
+impact on the CFPB's enforcement or adjudicatory authority and has
+never been used in the ten years since the agency's creation. It certainly
+does not render the CFPB's independent, single-Director structure
+constitutional.
+for the removal power and highlights statements from Madi-
+son, Hamilton, and Chief Justice Marshall expressing “het-
+erodox” views on the subject. Brief for Court-Appointed
+Amicus Curiae 4–5, 28–29. But those concerns are mis-
+placed. It is true that “there is no `removal clause' in the
+Constitution,” id., at 1, but neither is there a “separation of
+powers clause” or a “federalism clause.” These foundational
+doctrines are instead evident from the Constitution's vesting
+of certain powers in certain bodies. As we have explained
+many times before, the President's removal power stems
+from Article II's vesting of the “executive Power” in the
+President. Free Enterprise Fund, 561 U. S., at 483 (quoting
+Art. II, § 1, cl. 1). As for the opinions of Madison, Hamilton,
+and Chief Justice Marshall, we have already considered the
+statements cited by amicus and discounted them in light of
+their context (Madison), the fact they reflect initial impres-
+sions later abandoned by the speaker (Hamilton), or their
+subsequent rejection as ill-considered dicta (Chief Justice
+Marshall). See Free Enterprise Fund, 561 U. S., at 500, n. 6
+(Madison); Myers, 272 U. S., at 136–139, 142–144 (Hamilton
+and Chief Justice Marshall). 10
+10 The dissent likewise points to Madison's statement in The Federalist
+No. 39 that the “tenure” of “ministerial offices generally will be a subject
+of legal regulation.” Post, at 270 (quoting The Federalist No. 39, p. 253
+(J. Cooke ed. 1961)). But whatever Madison may have meant by that
+statement, he later led the charge in contending, on the floor of the First
+Congress, that “inasmuch as the power of removal is of an Executive na-
+ture . . . it is beyond the reach of the Legislative body.” 1 Annals of Cong.
+464 (1789); see also id., at 462–464, 495–496. Like the dissent in Free
+Enterprise Fund, the dissent goes on to “attribute[ ] to Madison a belief
+that . . . the Comptroller[ ] could be made independent of the President.
+But Madison's actual proposal, consistent with his view of the Constitu-
+tion, was that the Comptroller hold office for a term of `years, unless
+sooner removed by the President'; he would thus be `dependent upon
+the President, because he can be removed by him,' and also `dependent
+upon the Senate, because they must consent to his [reappointment] for
+every term of years.' ” Free Enterprise Fund v. Public Company Ac-
+counting Oversight Bd., 561 U. S. 477, 499, 500, n. 6 (2010) (quoting 1
+PROTECTION BUREAU
+Opinion of the Court
+Next, amicus offers a grand theory of our removal prece-
+dents that, if accepted, could leave room for an agency like
+the CFPB—and many other innovative intrusions on Arti-
+cle II. According to amicus, Humphrey's Executor and
+Morrison establish a general rule that Congress may impose
+“modest” restrictions on the President's removal power, with
+only two limited exceptions. Brief for Court-Appointed
+Amicus Curiae 33–37. Congress may not reserve a role for
+itself in individual removal decisions (as it attempted to do
+in Myers and Bowsher). And it may not eliminate the Pres-
+ident's removal power altogether (as it effectively did in Free
+Enterprise Fund). Outside those two situations, amicus
+argues, Congress is generally free to constrain the Presi-
+dent's removal power. See also post, at 276–282 (Kagan,
+J., concurring in judgment with respect to severability and
+dissenting in part) (hereinafter dissent) (expressing similar
+view).
+But text, first principles, the First Congress's decision in
+1789, Myers, and Free Enterprise Fund all establish that
+the President's removal power is the rule, not the exception.
+While we do not revisit Humphrey's Executor or any other
+precedent today, we decline to elevate it into a freestanding
+invitation for Congress to impose additional restrictions on
+the President's removal authority.11
+Annals of Cong. 612; citation omitted). See post, at 270, n. 4. The dissent
+further notes that, at the time of the founding, some States placed limita-
+tions on their Governors' removal power. See post, at 267. But the
+Framers hardly viewed State Governors as a reliable guide in fashioning
+the Federal Executive. Indeed, they expressly rejected the “executive
+council” structure favored by most States, fearing that subjecting the
+President to oversight, as the States had, would “distract and . . . enervate
+the whole system of administration” and inject it with “habitual feebleness
+and dilatoriness.” The Federalist No. 70, at 473, 476 (A. Hamilton).
+11 Building on amicus' proposal, the dissent would endorse whatever
+“the times demand, so long as the President retains the ability to carry
+out his constitutional duties.” Post, at 264. But that amorphous test
+Finally, amicus contends that if we identify a constitu-
+tional problem with the CFPB's structure, we should avoid
+it by broadly construing the statutory grounds for removing
+the CFPB Director from office. See Brief for Court-
+Appointed Amicus Curiae 50–53; Tr. of Oral Arg. 57–62.
+The Dodd-Frank Act provides that the Director may be re-
+moved for “inefficiency, neglect of duty, or malfeasance in
+office.” 12 U. S. C. § 5491(c)(3). In amicus' view, that lan-
+guage could be interpreted to reserve substantial discretion
+to the President. Brief for Court-Appointed Amicus Cu-
+riae 51.
+We are not persuaded. For one, Humphrey's Executor
+implicitly rejected an interpretation that would leave the
+President free to remove an officer based on disagreements
+about agency policy. See 295 U. S., at 619, 625–626. In ad-
+dition, while both amicus and the House of Representatives
+invite us to adopt whatever construction would cure the con-
+provides no real limiting principle. The “clearest” (and only) “example”
+the dissent can muster for what may be prohibited is a for-cause removal
+restriction placed on the President's “close military or diplomatic advis-
+ers.” Post, at 276. But that carveout makes no logical or constitutional
+sense. In the dissent's view, for-cause removal restrictions are permissi-
+ble because they guarantee the President “meaningful control” over his
+subordinates. Post, at 288 (internal quotation marks and alterations
+omitted); see also post, at 268, 279–280, 285–286, 295. If that is the theory,
+then what is the harm in giving the President the same “meaningful con-
+trol” over his close advisers? The dissent claims to see a constitutional
+distinction between the President's “own constitutional duties in foreign
+relations and war” and his duty to execute laws passed by Congress.
+Post, at 273. But the same Article that establishes the President's foreign
+relations and war duties expressly entrusts him to take care that the laws
+be faithfully executed. And, from the perspective of the governed, it is
+far from clear that the President's core and traditional powers present
+greater cause for concern than peripheral and modern ones. If anything,
+“[t]he growth of the Executive Branch, which now wields vast power and
+touches almost every aspect of daily life, heightens the concern that it
+may slip from the Executive's control, and thus from that of the people.”
+Free Enterprise Fund, 561 U. S., at 499 (emphasis added).
+PROTECTION BUREAU
+Opinion of the Court
+stitutional problem, they have not advanced any workable
+standard derived from the statutory language. Amicus
+suggests that the proper standard might permit removals
+based on general policy disagreements, but not specific ones;
+the House suggests that the permissible bases for removal
+might vary depending on the context and the Presidential
+power involved. See Tr. of Oral Arg. 58–60, 76–77. They
+do not attempt to root either of those standards in the statu-
+tory text. Further, although nearly identical language
+governs the removal of some two-dozen multimember in-
+dependent agencies, amicus suggests that the standard
+should vary from agency to agency, morphing as necessary
+to avoid constitutional doubt. Id., at 55–56. We decline
+to embrace such an uncertain and elastic approach to the
+text.
+Amicus and the House also fail to engage with the Dodd-
+Frank Act as a whole, which makes plain that the CFPB is
+an “independent bureau.” 12 U. S. C. § 5491(a); see also 44
+U. S. C. § 3502(5) (listing the CFPB as an “independent regu-
+latory agency”). Neither amicus nor the House explains
+how the CFPB would be “independent” if its head were re-
+quired to implement the President's policies upon pain of
+removal. See Black's Law Dictionary 838 (9th ed. 2009)
+(defining “independent” as “[n]ot subject to the control or
+influence of another”). The Constitution might of course
+compel the agency to be dependent on the President notwith-
+standing Congress's contrary intent, but that result cannot
+fairly be inferred from the statute Congress enacted.
+Constitutional avoidance is not a license to rewrite Con-
+gress's work to say whatever the Constitution needs it to say
+in a given situation. Without a proffered interpretation
+that is rooted in the statutory text and structure, and would
+avoid the constitutional violation we have identified, we take
+Congress at its word that it meant to impose a meaningful
+restriction on the President's removal authority.
+The dissent, for its part, largely reprises points that the
+Court has already considered and rejected: It notes the lack
+of an express removal provision, invokes Congress's general
+power to create and define executive offices, highlights iso-
+lated statements from individual Framers, downplays the de-
+cision of 1789, minimizes Myers, brainstorms methods of
+Presidential control short of removal, touts the need for cre-
+ative congressional responses to technological and economic
+change, and celebrates a pragmatic, flexible approach to Amer-
+ican governance. See post, at 261–284, 292–293, 297–298.
+If these arguments sound familiar, it's because they are.
+They were raised by the dissent in Free Enterprise Fund.
+Compare post, at 261–284, 292–293, 297–298, with Free En-
+terprise Fund, 561 U. S., at 515–524, 530 (Breyer , J., dis-
+senting). The answers to these repeated concerns (beyond
+those we have already covered) are the same today as they
+were ten years ago. Today, as then, Congress's “plenary
+control over the salary, duties, and even existence of execu-
+tive offices” makes “Presidential oversight” more critical—
+not less—as the “[o]nly” tool to “counter [Congress's] influ-
+ence.” Id., at 500 (opinion of the Court). Today, as then,
+the various “bureaucratic minutiae” a President might use
+to corral agency personnel is no substitute for at will re-
+moval. Ibid. And today, as always, the urge to meet new
+technological and societal problems with novel governmental
+structures must be tempered by constitutional restraints
+that are not known—and were not chosen—for their eff-
+ciency or flexibility. Id., at 499.
+As we explained in Free Enterprise Fund, “One can have
+a government that functions without being ruled by func-
+tionaries, and a government that benefits from expertise
+without being ruled by experts.” Ibid. While “[n]o one
+doubts Congress's power to create a vast and varied federal
+bureaucracy,” the expansion of that bureaucracy into new
+territories the Framers could scarcely have imagined only

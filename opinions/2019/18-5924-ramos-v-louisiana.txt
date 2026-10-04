@@ -1,0 +1,298 @@
+Ramos v. Louisiana — No. 18-5924 — October Term 2019 — decided 4/20/20 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 590 U.S. 83
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US1PP_web.pdf#page=99 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch announced the judgment of the Court
+and delivered the opinion of the Court with respect to Parts
+I, II–A, III, and IV–B–1, an opinion with respect to Parts
+II–B, IV–B–2, and V , in which Justice Ginsburg, Justice
+Breyer, and Justice Sotomayor join, and an opinion with
+respect to Part IV–A, in which Justice Ginsburg and Jus-
+tice Breyer join.
+Accused of a serious crime, Evangelisto Ramos insisted on
+his innocence and invoked his right to a jury trial. Eventu-
+ally, 10 jurors found the evidence against him persuasive.
+But a pair of jurors believed that the State of Louisiana had
+failed to prove Mr. Ramos's guilt beyond reasonable doubt;
+they voted to acquit.
+In 48 States and federal court, a single juror's vote to ac-
+quit is enough to prevent a conviction. But not in Louisiana.
+Along with Oregon, Louisiana has long punished people
+based on 10-to-2 verdicts like the one here. So instead of
+the mistrial he would have received almost anywhere else,
+Mr. Ramos was sentenced to life in prison without the possi-
+bility of parole.
+Why do Louisiana and Oregon allow nonunanimous convic-
+tions? Though it's hard to say why these laws persist, their
+origins are clear. Louisiana first endorsed nonunanimous
+verdicts for serious crimes at a constitutional convention in
+1898. According to one committee chairman, the avowed
+purpose of that convention was to “establish the supremacy
+of the white race,” and the resulting document included
+many of the trappings of the Jim Crow era: a poll tax, a
+combined literacy and property ownership test, and a grand-
+father clause that in practice exempted white residents from
+the most onerous of these requirements. 1
+1 Official Journal of the Proceedings of the Constitutional Convention of
+the State of Louisiana 374 (H. Hearsey ed. 1898); Eaton, The Suffrage
+Clause in the New Constitution of Louisiana, 13 Harv. L. Rev. 279, 286–
+287 (1899); Louisiana v. United States, 380 U. S. 145, 151–153 (1965).
+Nor was it only the prospect of African-Americans voting
+that concerned the delegates. Just a week before the con-
+vention, the U. S. Senate passed a resolution calling for an
+investigation into whether Louisiana was systemically ex-
+cluding African-Americans from juries. 2 Seeking to avoid
+unwanted national attention, and aware that this Court
+would strike down any policy of overt discrimination against
+African-American jurors as a violation of the Fourteenth
+Amendment,3 the delegates sought to undermine African-
+American participation on juries in another way. With a
+careful eye on racial demographics, the convention delegates
+sculpted a “facially race-neutral” rule permitting 10-to-2 ver-
+dicts in order “to ensure that African-American juror service
+would be meaningless.” 4
+Adopted in the 1930s, Oregon's rule permitting nonunani-
+mous verdicts can be similarly traced to the rise of the Ku
+Klux Klan and efforts to dilute “the influence of racial, eth-
+nic, and religious minorities on Oregon juries.” 5 In fact, no
+one before us contests any of this; courts in both Louisiana
+and Oregon have frankly acknowledged that race was a moti-
+vating factor in the adoption of their States' respective non-
+unanimity rules. 6
+We took this case to decide whether the Sixth Amendment
+right to a jury trial—as incorporated against the States by
+way of the Fourteenth Amendment—requires a unanimous
+verdict to convict a defendant of a serious offense. 7 Louisi-
+ana insists that this Court has never definitively passed on
+2 See 31 Cong. Rec. 1019 (1898).
+3 Strauder v. West Virginia, 100 U. S. 303, 310 (1880).
+4 State v. Maxie, No. 13–CR–72522 (La. 11th Jud. Dist., Oct. 11, 2018),
+App. 56–57; see also Frampton, The Jim Crow Jury, 71 Vand. L. Rev.
+1593 (2018).
+5 State v. Williams, No. 15–CR–58698 (C. C. Ore., Dec. 15, 2016), App.
+104.
+6 Maxie, App. 82; Williams, App. 104.
+7 Under existing precedent and consistent with a common law tradition
+not at issue here, a defendant may be tried for certain “petty offenses”
+without a jury. Cheff v. Schnackenberg, 384 U. S. 373, 379 (1966).
+the question and urges us to find its practice consistent with
+the Sixth Amendment. By contrast, the dissent doesn't try
+to defend Louisiana's law on Sixth or Fourteenth Amend-
+ment grounds; tacitly, it seems to admit that the Constitution
+forbids States from using nonunanimous juries. Yet, un-
+prompted by Louisiana, the dissent suggests our precedent
+requires us to rule for the State anyway. What explains all
+this? To answer the puzzle, it's necessary to say a bit more
+about the merits of the question presented, the relevant
+precedent, and, at last, the consequences that follow from
+saying what we know to be true.
+I
+The Sixth Amendment promises that “[i]n all criminal
+prosecutions, the accused shall enjoy the right to a speedy
+and public trial, by an impartial jury of the State and district
+wherein the crime shall have been committed, which district
+shall have been previously ascertained by law.” The
+Amendment goes on to preserve other rights for criminal
+defendants but says nothing else about what a “trial by an
+impartial jury” entails.
+Still, the promise of a jury trial surely meant something—
+otherwise, there would have been no reason to write it down.
+Nor would it have made any sense to spell out the places
+from which jurors should be drawn if their powers as jurors
+could be freely abridged by statute. Imagine a constitution
+that allowed a “jury trial” to mean nothing but a single per-
+son rubberstamping convictions without hearing any evi-
+dence—but simultaneously insisting that the lone juror come
+from a specific judicial district “previously ascertained by
+law.” And if that's not enough, imagine a constitution that
+included the same hollow guarantee twice—not only in the
+Sixth Amendment, but also in Article III. 8 No: The text
+and structure of the Constitution clearly suggest that the
+term “trial by an impartial jury” carried with it some mean-
+ing about the content and requirements of a jury trial.
+8 See Art. III, § 2.
+One of these requirements was unanimity. Wherever we
+might look to determine what the term “trial by an impartial
+jury” meant at the time of the Sixth Amendment's adop-
+tion—whether it's the common law, state practices in the
+founding era, or opinions and treatises written soon after-
+ward—the answer is unmistakable. A jury must reach a
+unanimous verdict in order to convict.
+The requirement of juror unanimity emerged in 14th-
+century England and was soon accepted as a vital right pro-
+tected by the common law. 9 As Blackstone explained, no
+person could be found guilty of a serious crime unless “the
+truth of every accusation . . . should . . . be confirmed by the
+unanimous suffrage of twelve of his equals and neighbours,
+indifferently chosen, and superior to all suspicion.” 10 A
+“ `verdict, taken from eleven, was no verdict' ” at all. 11
+This same rule applied in the young American States.
+Six State Constitutions explicitly required unanimity.12 An-
+other four preserved the right to a jury trial in more general
+terms.13 But the variations did not matter much; consistent
+9 See J. Thayer, Evidence at the Common Law 86–90 (1898) (Thayer);
+W. Forsyth, History of Trial by Jury 200 (J. Morgan ed., 2d ed. 1875); 1
+W. Holdsworth, A History of English Law 318 (rev. 7th ed. 1956); Smith,
+The Historical and Constitutional Contexts of Jury Reform, 25 Hofstra L.
+Rev. 377, 397 (1996).
+10 4 W. Blackstone, Commentaries on the Laws of England 343 (1769).
+11 Thayer 88–89, n. 4 (quoting Anonymous Case , 41 Lib. Assisarum 11
+(1367)); see also 1 M. Hale, History of the Pleas of the Crown 33 (1736).
+12 See Del. Declaration of Rights § 14 (1776), in 1 The Bill of Rights: A
+Documentary History 278 (1971); Md. Declaration of Rights § XIX, in
+3 Federal and State Constitutions 1688 (F. Thorpe ed. 1909) (Thorpe);
+N. C. Declaration of Rights § IX (1776), in 5 id., at 2787; Pa. Declaration
+of Rights § IX (1776), in 5 id., at 3083; Vt. Declaration of Rights, ch. I,
+§ XI (1786), in 6 id., at 3753; Va. Declaration of Rights § 8 (1776), in 7 id.,
+at 3813.
+13 See Ga. Const., Art. IV , § 3 (1789), in 2 id., at 789; N. J. Const., Art.
+XXII (1776), in 5 id., at 2598; N. Y . Const., Art. XLI (1777), in 5 id., at
+2637; S. C. Const., Art. IX, § 6 (1790), in 6 id., at 3264.
+with the common law, state courts appeared to regard una-
+nimity as an essential feature of the jury trial.14
+It was against this backdrop that James Madison drafted
+and the States ratified the Sixth Amendment in 1791. By
+that time, unanimous verdicts had been required for about
+400 years.15 If the term “trial by an impartial jury” carried
+any meaning at all, it surely included a requirement as long
+and widely accepted as unanimity.
+Influential, postadoption treatises confirm this under -
+standing. For example, in 1824, Nathan Dane reported as
+fact that the U. S. Constitution required unanimity in crimi-
+nal jury trials for serious offenses.16 A few years later, Jus-
+tice Story explained in his Commentaries on the Constitution
+that “in common cases, the law not only presumes every man
+innocent, until he is proved guilty; but unanimity in the ver-
+dict of the jury is indispensable.” 17 Similar statements can
+14 See, e. g., Commonwealth v. Bowden, 9 Mass. 494, 495 (1813); People
+v. Denton, 2 Johns. Cas. 275, 277 (N. Y . 1801) (per curiam); Commonwealth
+v. Fells, 36 Va. 613, 614–615 (1838); State v. Doon & Dimond, 1 R. Charlton
+1, 2 (Ga. Super. Ct. 1811); see also Respublica v. Oswald, 1 Dall. 319, 323
+(Pa. 1788) (reporting Chief Justice McKean's observations that unanimity
+would have been required even if the Pennsylvania Constitution had not
+said so explicitly).
+15 To be sure, a few of the Colonies had relaxed (and then restored) the
+unanimity requirement well before the founding. For example, during a
+two decade period in the late 17th century, the Carolinas experimented
+with a non-common law system designed to encourage a feudal social
+structure; this “reactionary” constitution permitted conviction by majority
+vote. See Carolina Const., Art. 69 (1669), in 5 Thorpe 2781; Reinsch, The
+English Common Law in the Early American Colonies, in 1 Select Essays
+in Anglo-American Legal History 367, 407 (1907). But, as Louisiana ad-
+mits, by the time of the Sixth Amendment's adoption, unanimity had again
+become the accepted rule. See Brief for Respondent 17.
+16 6 N. Dane, Digest of American Law, ch. LXXXII, Art. 2, § 1, p. 226
+(1824).
+17 2 J. Story, Commentaries on the Constitution of the United States
+§ 777, p. 248 (1833).
+be found in American legal treatises throughout the 19th
+century.18
+Nor is this a case where the original public meaning was
+lost to time and only recently recovered. This Court has,
+repeatedly and over many years, recognized that the Sixth
+Amendment requires unanimity. As early as 1898, the
+Court said that a defendant enjoys a “constitutional right to
+demand that his liberty should not be taken from him except
+by the joint action of the court and the unanimous verdict of
+a jury of twelve persons.” 19 A few decades later, the Court
+elaborated that the Sixth Amendment affords a right to “a
+trial by jury as understood and applied at common law, . . .
+includ[ing] all the essential elements as they were recognized
+in this country and England when the Constitution was
+adopted.” 20 And, the Court observed, this includes a re-
+quirement “that the verdict should be unanimous.” 21 In all,
+this Court has commented on the Sixth Amendment's una-
+nimity requirement no fewer than 13 times over more than
+120 years.22
+18 See, e. g., J. Pomeroy, An Introduction to Municipal Law § 135, p. 78
+(1864); J. Tiffany, Government and Constitutional Law § 549, p. 367 (1867);
+T. Cooley, Constitutional Limitations 319–320 (1868); 1 J. Bishop, Criminal
+Procedure, ch. LXII § 897 (rev. 2d ed. 1872).
+19 Thompson v. Utah, 170 U. S. 343, 351 (1898). See also Maxwell v.
+Dow, 176 U. S. 581, 586 (1900).
+20 Patton v. United States, 281 U. S. 276, 288 (1930).
+21 Ibid. See also Andres v. United States, 333 U. S. 740, 748 (1948)
+(“Unanimity in jury verdicts is required where the Sixth and Seventh
+Amendments apply”).
+22 In addition to Thompson, Maxwell, Patton, and Andres, see Johnson
+v. Louisiana, 406 U. S. 356, 369 (1972) (Powell, J., concurring); United
+States v. Gaudin, 515 U. S. 506, 510 (1995); Richardson v. United States,
+526 U. S. 813, 817 (1999); Apprendi v. New Jersey, 530 U. S. 466, 477 (2000);
+Southern Union Co. v. United States, 567 U. S. 343, 356 (2012); Blakely v.
+Washington, 542 U. S. 296, 301–302 (2004); United States v. Booker, 543
+U. S. 220, 233–239 (2005); Descamps v. United States, 570 U. S. 254, 269
+(2013); United States v. Haymond, 588 U. S. 634, 642 (2019) (plurality
+opinion).
+There can be no question either that the Sixth Amend-
+ment's unanimity requirement applies to state and federal
+criminal trials equally. This Court has long explained that
+the Sixth Amendment right to a jury trial is “fundamental
+to the American scheme of justice” and incorporated against
+the States under the Fourteenth Amendment. 23 This Court
+has long explained, too, that incorporated provisions of the
+Bill of Rights bear the same content when asserted against
+States as they do when asserted against the federal govern-
+ment.24 So if the Sixth Amendment's right to a jury trial
+requires a unanimous verdict to support a conviction in fed-
+eral court, it requires no less in state court.
+II
+A
+How, despite these seemingly straightforward principles,
+have Louisiana's and Oregon's laws managed to hang on for
+so long? It turns out that the Sixth Amendment's otherwise
+simple story took a strange turn in 1972. That year, the
+Court confronted these States' unconventional schemes for
+the first time—in Apodaca v. Oregon25 and a companion case,
+Johnson v. Louisiana. 26 Ultimately, the Court could do no
+more than issue a badly fractured set of opinions. Four dis-
+senting Justices would not have hesitated to strike down the
+States' laws, recognizing that the Sixth Amendment requires
+unanimity and that this guarantee is fully applicable against
+the States under the Fourteenth Amendment.27 But a four-
+23 Duncan v. Louisiana, 391 U. S. 145, 148–150 (1968).
+24 Malloy v. Hogan, 378 U. S. 1, 10–11 (1964).
+25 406 U. S. 404 (plurality opinion).
+26 406 U. S. 356.
+27 See Apodaca, 406 U. S., at 414–415 (Stewart, J., joined by Brennan
+and Marshall, JJ., dissenting) (“Until today, it has been universally under-
+stood that a unanimous verdict is an essential element of a Sixth Amend-
+ment jury trial. . . . I would follow these settled Sixth Amendment prece-
+dents”); Johnson, 406 U. S., at 382–383, 391–393 (Douglas, J., joined by
+Brennan and Marshall, JJ., dissenting).
+Justice plurality took a very different view of the Sixth
+Amendment. These Justices declared that the real question
+before them was whether unanimity serves an important
+“function” in “contemporary society.” 28 Then, having re-
+framed the question, the plurality wasted few words before
+concluding that unanimity's costs outweigh its benefits in the
+modern era, so the Sixth Amendment should not stand in the
+way of Louisiana or Oregon.
+The ninth Member of the Court adopted a position that
+was neither here nor there. On the one hand, Justice Powell
+agreed that, as a matter of “history and precedent, . . . the
+Sixth Amendment requires a unanimous jury verdict to con-
+vict.” 29 But, on the other hand, he argued that the Four-
+teenth Amendment does not render this guarantee against
+the federal government fully applicable against the States.
+In this way, Justice Powell doubled down on his belief in
+“dual-track” incorporation—the idea that a single right can
+mean two different things depending on whether it is being
+invoked against the federal or a state government.
+Justice Powell acknowledged that his argument for dual-
+track incorporation came “late in the day.” 30 Late it was.
+The Court had already, nearly a decade earlier, “rejected the
+notion that the Fourteenth Amendment applies to the States
+only a `watered-down, subjective version of the individual
+guarantees of the Bill of Rights.' ” 31 It's a point we've
+restated many times since, too, including as recently as
+last year. 32 Still, Justice Powell frankly explained, he
+was “unwillin[g]” to follow the Court's precedents.33 So he
+28 Apodaca, 406 U. S., at 410.
+29 Johnson, 406 U. S., at 371 (concurring opinion).
+30 Id., at 375.
+31 Id., at 384 (Douglas, J., dissenting) (quoting Malloy, 378 U. S., at 10–
+11); Johnson, 406 U. S., at 395–396 (Brennan, J., dissenting) (collecting
+cases).
+32 See, e. g., Timbs v. Indiana, 586 U. S. 146, 150 (2019) (unanimously
+rejecting arguments for dual-track incorporation).
+33 Johnson, 406 U. S., at 375–376, and n. 15 (concurring opinion).

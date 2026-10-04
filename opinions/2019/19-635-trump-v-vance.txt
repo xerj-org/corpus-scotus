@@ -1,0 +1,722 @@
+Trump v. Vance — No. 19-635 — October Term 2019 — decided 7/09/20 — opinion of the Court — author Roberts (listing code R)
+Citation: 591 U.S. 786
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf#page=345 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+In our judicial system, “the public has a right to every
+man's evidence.” 1 Since the earliest days of the Republic,
+“every man” has included the President of the United States.
+Beginning with Jefferson and carrying on through Clinton,
+Presidents have uniformly testifed or produced documents
+in criminal proceedings when called upon by federal courts.
+This case involves—so far as we and the parties can tell—the
+first state criminal subpoena directed to a President. The
+President contends that the subpoena is unenforceable. We
+granted certiorari to decide whether Article II and the Su-
+premacy Clause categorically preclude, or require a height-
+ened standard for, the issuance of a state criminal subpoena
+to a sitting President.
+I
+In the summer of 2018, the New York County District At-
+torney's Office opened an investigation into what it opaquely
+describes as “business transactions involving multiple indi-
+viduals whose conduct may have violated state law.” Brief
+for Respondent Vance 2. A year later, the office—acting on
+behalf of a grand jury—served a subpoena duces tecum (es-
+sentially a request to produce evidence) on Mazars USA,
+LLP, the personal accounting frm of President Donald J.
+Trump. The subpoena directed Mazars to produce financial
+records relating to the President and business organizations
+gress et al. by Jamila G. Benkato , Cameron O. Kistler , Justin Florence ,
+Benjamin L . Berwick, and Steven A. Hirsch; and for Washington State
+Tax Practitioners by Dirk Giseburt, pro se, and for Sean J. Kealy et al. by
+James J. Wheaton and Mr. Kealy, both pro se.
+Briefs of amici curiae were fled for David Boyle by Mr. Boyle, pro se;
+for Claire Finklestein et al. by Richard W. Painter; and for Eugene H.
+Goldberg by Mr. Goldberg, pro se.
+1 This maxim traces at least as far back as Lord Chancellor Hardwicke,
+in a 1742 parliamentary debate. See 12 Parliamentary History of Eng-
+land 693 (1812).
+affliated with him, including “[t]ax returns and related
+schedules,” from “2011 to the present.” App. to Pet. for
+Cert. 119a.2
+The President, acting in his personal capacity, sued the
+district attorney and Mazars in Federal District Court to
+enjoin enforcement of the subpoena. He argued that, under
+Article II and the Supremacy Clause, a sitting President
+enjoys absolute immunity from state criminal process. He
+asked the court to issue a “declaratory judgment that the
+subpoena is invalid and unenforceable while the President
+is in office” and to permanently enjoin the district attor-
+ney “from taking any action to enforce the subpoena.”
+Amended Complaint in No. 1:19–cv–8694 (SDNY, Sept. 25,
+2019), p. 19. Mazars, concluding that the dispute was be-
+tween the President and the district attorney, took no posi-
+tion on the legal issues raised by the President.
+The District Court abstained from exercising jurisdiction
+and dismissed the case based on Younger v. Harris, 401 U. S.
+37 (1971), which generally precludes federal courts from
+intervening in ongoing state criminal prosecutions. 395
+F. Supp. 3d 283, 290 (SDNY 2019). In an alternative hold-
+ing, the court ruled that the President was not entitled to
+injunctive relief. Ibid.
+The Second Circuit met the District Court halfway. As
+to the dismissal, the Court of Appeals held that Younger ab-
+stention was inappropriate because that doctrine's core justi-
+fication—“preventing friction” between States and the Fed-
+eral Government—is diminished when state and federal
+actors are already in conflict, as the district attorney and the
+President were. 941 F. 3d 631, 637, 639 (2019).
+2 The grand jury subpoena essentially copied a subpoena issued to Ma-
+zars in April 2019 by the Committee on Oversight and Reform of the U. S.
+House of Representatives, which is at issue in Trump v. Mazars USA,
+LLP, 591 U. S. 848 (2020). The principal difference is that the instant
+subpoena expressly requests tax returns.
+On the merits, the Court of Appeals agreed with the Dis-
+trict Court's denial of a preliminary injunction. Drawing on
+the 200-year history of Presidents being subject to federal
+judicial process, the Court of Appeals concluded that “presi-
+dential immunity does not bar the enforcement of a state
+grand jury subpoena directing a third party to produce non-
+privileged material, even when the subject matter under in-
+vestigation pertains to the President.” Id., at 640. It also
+rejected the argument raised by the United States as ami-
+cus curiae that a state grand jury subpoena must satisfy a
+heightened showing of need. The court reasoned that the
+proposed test, derived from cases addressing privileged Ex-
+ecutive Branch communications, “ha[d] little bearing on a
+subpoena” seeking “information relating solely to the Presi-
+dent in his private capacity and disconnected from the dis-
+charge of his constitutional obligations.” Id., at 645–646.
+We granted certiorari. 589 U. S. 1120 (2019).
+II
+In the summer of 1807, all eyes were on Richmond, Vir-
+ginia. Aaron Burr, the former Vice President, was on trial
+for treason.3 Fallen from political grace after his fatal duel
+with Alexander Hamilton, and with a murder charge pending
+in New Jersey, Burr followed the path of many down-and-
+out Americans of his day—he headed West in search of new
+opportunity. But Burr was a man with outsized ambitions.
+Together with General James Wilkinson, the Governor of the
+Louisiana Territory, he hatched a plan to establish a new
+territory in Mexico, then controlled by Spain. 4 Both men
+3 See generally N. Isenberg, Fallen Founder: The Life of Aaron Burr
+271–365 (2007); J. Smith, John Marshall: Defner of a Nation 348–374 (1996);
+M. Lomask, Aaron Burr: The Conspiracy and Years of Exile, 1805–1836,
+pp. 222–298 (1982).
+4 Wilkinson was secretly being paid by Spain for information and influ-
+ence. In the wake of Burr's trial, he was investigated by Congress and
+anticipated that war between the United States and Spain
+was imminent, and when it broke out they intended to invade
+Spanish territory at the head of a private army.
+But while Burr was rallying allies to his cause, tensions
+with Spain eased and rumors began to swirl that Burr was
+conspiring to detach States by the Allegheny Mountains
+from the Union. Wary of being exposed as the principal co-
+conspirator, Wilkinson took steps to ensure that any blame
+would fall on Burr. He sent a series of letters to President
+Jefferson accusing Burr of plotting to attack New Orleans
+and revolutionize the Louisiana Territory.
+Jefferson, who despised his former running mate Burr for
+trying to steal the 1800 presidential election from him, was
+predisposed to credit Wilkinson's version of events. The
+President sent a special message to Congress identifying
+Burr as the “prime mover” in a plot “against the peace and
+safety of the Union.” 16 Annals of Cong. 39–40 (1807). Ac-
+cording to Jefferson, Burr contemplated either the “sever-
+ance of the Union” or an attack on Spanish territory. Id.,
+at 41. Jefferson acknowledged that his sources contained a
+“mixture of rumors, conjectures, and suspicions” but, citing
+Wilkinson's letters, he assured Congress that Burr's guilt
+was “beyond question.” Id., at 39–40.
+The trial that followed was “the greatest spectacle in the
+short history of the republic,” complete with a Founder-
+studded cast. N. Isenberg, Fallen Founder: The Life of
+Aaron Burr 351 (2007). People focked to Richmond to
+watch, massing in tents and covered wagons along the banks
+of the James River, nearly doubling the town's population of
+5,000. Burr's defense team included Edmund Randolph and
+Luther Martin, both former delegates at the Constitutional
+Convention and renowned advocates. Chief Justice John
+Marshall, who had recently squared off with the Jefferson
+administration in Marbury v. Madison, 1 Cranch 137 (1803),
+later court-martialed. But he was acquitted for want of evidence, and his
+duplicity was not confirmed until decades after his death, when Spanish
+archival material came to light.
+presided as Circuit Justice for Virginia. Meanwhile Jeffer-
+son, intent on conviction, orchestrated the prosecution from
+afar, dedicating Cabinet meetings to the case, peppering the
+prosecutors with directions, and spending nearly $100,000
+from the Treasury on the fve-month proceedings.
+In the lead-up to trial, Burr, taking aim at his accusers,
+moved for a subpoena duces tecum directed at Jefferson.
+The draft subpoena required the President to produce an
+October 21, 1806 letter from Wilkinson and accompanying
+documents, which Jefferson had referenced in his message to
+Congress. The prosecution opposed the request, arguing
+that a President could not be subjected to such a subpoena
+and that the letter might contain state secrets. Following
+four days of argument, Marshall announced his ruling to a
+packed chamber.
+The President, Marshall declared, does not “stand exempt
+from the general provisions of the constitution” or, in partic-
+ular, the Sixth Amendment's guarantee that those accused
+have compulsory process for obtaining witnesses for their
+defense. United States v. Burr , 25 F. Cas. 30, 33–34
+(No. 14,692d) (CC Va. 1807). At common law the “single res-
+ervation” to the duty to testify in response to a subpoena
+was “the case of the king,” whose “dignity” was seen as “in-
+compatible” with appearing “under the process of the court.”
+Id., at 34. But, as Marshall explained, a king is born to
+power and can “do no wrong.” Ibid. The President, by
+contrast, is “of the people” and subject to the law. Ibid.
+According to Marshall, the sole argument for exempting the
+President from testimonial obligations was that his “duties
+as chief magistrate demand his whole time for national ob-
+jects.” Ibid. But, in Marshall's assessment, those demands
+were “not unremitting.” Ibid. And should the President's
+duties preclude his attendance at a particular time and place,
+a court could work that out upon return of the subpoena.
+Ibid.
+Marshall also rejected the prosecution's argument that the
+President was immune from a subpoena duces tecum because
+executive papers might contain state secrets. “A subpoena
+duces tecum,” he said, “may issue to any person to whom an
+ordinary subpoena may issue.” Ibid. As he explained, no
+“fair construction” of the Constitution supported the conclu-
+sion that the right “to compel the attendance of witnesses[ ]
+does not extend” to requiring those witnesses to “bring[ ]
+with them such papers as may be material in the defence.”
+Id., at 35. And, as a matter of basic fairness, permitting
+such information to be withheld would “tarnish the reputa-
+tion of the court.” Id., at 37. As for “[t]he propriety of
+introducing any paper[s],” that would “depend on the charac-
+ter of the paper, not on the character of the person who holds
+it.” Id., at 34. Marshall acknowledged that the papers
+sought by Burr could contain information “the disclosure of
+which would endanger the public safety,” but stated that,
+again, such concerns would have “due consideration” upon
+the return of the subpoena. Id., at 37.
+While the arguments unfolded, Jefferson, who had re-
+ceived word of the motion, wrote to the prosecutor indicating
+that he would—subject to the prerogative to decide which
+executive communications should be withheld—“furnish on
+all occasions, whatever the purposes of justice may require.”
+Letter from T. Jefferson to G. Hay (June 12, 1807), in 10
+Works of Thomas Jefferson 398, n. (P. Ford ed. 1905). His
+“personal attendance,” however, was out of the question, for
+it “would leave the nation without” the “sole branch which
+the constitution requires to be always in function.” Letter
+from T. Jefferson to G. Hay (June 17, 1807), in id., at 400–
+401, n.
+Before Burr received the subpoenaed documents, Marshall
+rejected the prosecution's core legal theory for treason and
+Burr was accordingly acquitted. Jefferson, however, was
+not done. Committed to salvaging a conviction, he directed
+the prosecutors to proceed with a misdemeanor (yes, misde-
+meanor) charge for inciting war against Spain. Burr then
+renewed his request for Wilkinson's October 21 letter, which
+he later received a copy of, and subpoenaed a second letter,
+dated November 12, 1806, which the prosecutor claimed was
+privileged. Acknowledging that the President may with-
+hold information to protect public safety, Marshall instructed
+that Jefferson should “state the particular reasons” for with-
+holding the letter. United States v. Burr, 25 F. Cas. 187, 192
+(No. 14,694) (CC Va. 1807). The court, paying “all proper
+respect” to those reasons, would then decide whether to com-
+pel disclosure. Ibid. But that decision was averted when
+the misdemeanor trial was cut short after it became clear
+that the prosecution lacked the evidence to convict.
+In the two centuries since the Burr trial, successive Presi-
+dents have accepted Marshall's ruling that the Chief Execu-
+tive is subject to subpoena. In 1818, President Monroe re-
+ceived a subpoena to testify in a court-martial against one of
+his appointees. See Rotunda, Presidents and Ex-Presidents
+as Witnesses: A Brief Historical Footnote, 1975 U. Ill. L.
+Forum 1, 5. His Attorney General, William Wirt—who had
+served as a prosecutor during Burr's trial—advised Monroe
+that, per Marshall's ruling, a subpoena to testify may “be
+properly awarded to the President.” Id., at 5–6. Monroe
+offered to sit for a deposition and ultimately submitted an-
+swers to written interrogatories.
+Following Monroe's lead, his successors have uniformly
+agreed to testify when called in criminal proceedings, pro-
+vided they could do so at a time and place of their choosing.
+In 1875, President Grant submitted to a three-hour deposi-
+tion in the criminal prosecution of a political appointee em-
+broiled in a network of tax-evading whiskey distillers. See
+1 R. Rotunda & J. Nowak, Constitutional Law § 7.1(b)(ii),
+p. 996 (5th ed. 2012) (Rotunda & Nowak). A century later,
+President Ford's attempted assassin subpoenaed him to tes-
+tify in her defense. See United States v. Fromme, 405
+F. Supp. 578 (ED Cal. 1975). Ford obliged—from a safe dis-
+tance—in the first videotaped deposition of a President.
+President Carter testifed via the same means in the trial of
+two local officials who, while Carter was Governor of Geor-
+gia, had offered to contribute to his campaign in exchange for
+advance warning of any state gambling raids. See Carter's
+Testimony, on Videotape, Is Given to Georgia Gambling
+Trial, N. Y . Times, Apr. 20, 1978, p. A20 (Carter recounted
+that he “rejected the proposition instantly.”). Two years
+later, Carter gave videotaped testimony to a federal grand
+jury investigating whether a fugitive fnancier had entreated
+the White House to quash his extradition proceedings. See
+Rotunda & Nowak § 7.1(b)(vi), at 997. President Clinton tes-
+tified three times, twice via deposition pursuant to subpoe-
+nas in federal criminal trials of associates implicated during
+the Whitewater investigation, and once by video for a grand
+jury investigating possible perjury. See id., § 7.1(c)(viii), at
+1007–1008.
+The bookend to Marshall's ruling came in 1974 when the
+question he never had to decide—whether to compel the dis-
+closure of official communications over the objection of the
+President—came to a head. That spring, the Special Prose-
+cutor appointed to investigate the break-in of the Democratic
+National Committee Headquarters at the Watergate complex
+fled an indictment charging seven defendants associated
+with President Nixon and naming Nixon as an unindicted
+co-conspirator. As the case moved toward trial, the Special
+Prosecutor secured a subpoena duces tecum directing Nixon
+to produce, among other things, tape recordings of Oval Of-
+fce meetings. Nixon moved to quash the subpoena, claim-
+ing that the Constitution provides an absolute privilege
+of confidentiality to all presidential communications. This
+Court rejected that argument in United States v. Nixon, 418
+U. S. 683 (1974), a decision we later described as “unequivo-
+cally and emphatically endors[ing] Marshall's” holding that
+Presidents are subject to subpoena. Clinton v. Jones, 520
+U. S. 681, 704 (1997).
+The Nixon Court readily acknowledged the importance of
+preserving the confidentiality of communications “between
+high Government officials and those who advise and assist
+them.” 418 U. S., at 705. “Human experience,” the Court
+explained, “teaches that those who expect public dissemina-
+tion of their remarks may well temper candor with a concern
+for appearances and for their own interests to the detriment
+of the decisionmaking process.” Ibid. Confidentiality thus
+promoted the “public interest in candid, objective, and even
+blunt or harsh opinions in Presidential decisionmaking.”
+Id., at 708.
+But, like Marshall two centuries prior, the Court recog-
+nized the countervailing interests at stake. Invoking the
+common law maxim that “the public has a right to every
+man's evidence,” the Court observed that the public interest
+in fair and accurate judicial proceedings is at its height in the
+criminal setting, where our common commitment to justice
+demands that “guilt shall not escape” nor “innocence suffer.”
+Id., at 709 (internal quotation marks and alteration omitted).
+Because these dual aims would be “defeated if judgments”
+were “founded on a partial or speculative presentation of the
+facts,” the Nixon Court recognized that it was “imperative”
+that “compulsory process be available for the production of
+evidence needed either by the prosecution or the defense.”
+Ibid.
+The Court thus concluded that the President's “general-
+ized assertion of privilege must yield to the demonstrated,
+specific need for evidence in a pending criminal trial.” Id.,
+at 713. Two weeks later, President Nixon dutifully released
+the tapes.
+III
+The history surveyed above all involved federal criminal
+proceedings. Here we are confronted for the first time with
+a subpoena issued to the President by a local grand jury op-
+erating under the supervision of a state court.5
+5 While the subpoena was directed to the President's accounting frm,
+the parties agree that the papers at issue belong to the President and that
+Mazars is merely the custodian. Thus, for purposes of immunity, it is
+functionally a subpoena issued to the President.
+In the President's view, that distinction makes all the
+difference. He argues that the Supremacy Clause gives a
+sitting President absolute immunity from state criminal sub-
+poenas because compliance with those subpoenas would cate-
+gorically impair a President's performance of his Article II
+functions. The Solicitor General, arguing on behalf of the
+United States, agrees with much of the President's reasoning
+but does not commit to his bottom line. Instead, the Solici-
+tor General urges us to resolve this case by holding that a
+state grand jury subpoena for a sitting President's personal
+records must, at the very least, “satisfy a heightened stand-
+ard of need,” which the Solicitor General contends was not
+met here. Brief for United States as Amicus Curiae 26, 29.
+A
+We begin with the question of absolute immunity. No one
+doubts that Article II guarantees the independence of the
+Executive Branch. As the head of that branch, the Presi-
+dent “occupies a unique position in the constitutional
+scheme.” Nixon v. Fitzgerald, 457 U. S. 731, 749 (1982).
+His duties, which range from faithfully executing the laws to
+commanding the Armed Forces, are of unrivaled gravity and
+breadth. Quite appropriately, those duties come with pro-
+tections that safeguard the President's ability to perform his
+vital functions. See, e. g., ibid. (concluding that the Presi-
+dent enjoys “absolute immunity from damages liability pred-
+icated on his official acts”); Nixon, 418 U. S., at 708 (recog-
+nizing that presidential communications are presumptively
+privileged).
+In addition, the Constitution guarantees “the entire inde-
+pendence of the General Government from any control by
+the respective States.” Farmers and Mechanics Sav. Bank
+of Minneapolis v. Minnesota, 232 U. S. 516, 521 (1914). As
+we have often repeated, “States have no power . . . to retard,
+impede, burden, or in any manner control, the operations of
+the constitutional laws enacted by Congress.” McCulloch
+v. Maryland, 4 Wheat. 316, 436 (1819). It follows that
+States also lack the power to impede the President's execu-
+tion of those laws.
+Marshall's ruling in Burr, entrenched by 200 years of prac-
+tice and our decision in Nixon, confirms that federal criminal
+subpoenas do not “rise to the level of constitutionally forbid-
+den impairment of the Executive's ability to perform its con-
+stitutionally mandated functions.” Clinton, 520 U. S., at
+702–703. But the President, joined in part by the Solicitor
+General, argues that state criminal subpoenas pose a unique
+threat of impairment and thus demand greater protection.
+To be clear, the President does not contend here that this
+subpoena, in particular, is impermissibly burdensome. In-
+stead he makes a categorical argument about the burdens
+generally associated with state criminal subpoenas, focusing
+on three: diversion, stigma, and harassment. We address
+each in turn.
+1
+The President's primary contention, which the Solicitor
+General supports, is that complying with state criminal sub-
+poenas would necessarily divert the Chief Executive from
+his duties. He grounds that concern in Nixon v. Fitzgerald,
+which recognized a President's “absolute immunity from
+damages liability predicated on his official acts.” 457 U. S.,
+at 749. In explaining the basis for that immunity, this Court
+observed that the prospect of such liability could “distract a
+President from his public duties, to the detriment of not only
+the President and his office but also the Nation that the
+Presidency was designed to serve.” Id., at 753. The Presi-
+dent contends that the diversion occasioned by a state crimi-
+nal subpoena imposes an equally intolerable burden on a
+President's ability to perform his Article II functions.
+But Fitzgerald did not hold that distraction was sufficient
+to confer absolute immunity. We instead drew a careful
+analogy to the common law absolute immunity of judges and
+prosecutors, concluding that a President, like those officials,
+must “deal fearlessly and impartially with the duties of his
+office”—not be made “unduly cautious in the discharge of
+[those] duties” by the prospect of civil liability for official
+acts. Id., at 751–752, and n. 32 (internal quotation marks
+omitted). Indeed, we expressly rejected immunity based on
+distraction alone 15 years later in Clinton v. Jones. There,
+President Clinton argued that the risk of being “distracted
+by the need to participate in litigation” entitled a sitting
+President to absolute immunity from civil liability, not just
+for official acts, as in Fitzgerald, but for private conduct as
+well. 520 U. S., at 694, n. 19. We disagreed with that ra-
+tionale, explaining that the “dominant concern” in Fitzgerald
+was not mere distraction but the distortion of the Execu-
+tive's “decisionmaking process” with respect to official acts
+that would stem from “worry as to the possibility of dam-
+ages.” 520 U. S., at 694, n. 19. The Court recognized that
+Presidents constantly face myriad demands on their atten-
+tion, “some private, some political, and some as a result of
+official duty.” Id., at 705, n. 40. But, the Court concluded,
+“[w]hile such distractions may be vexing to those subjected
+to them, they do not ordinarily implicate constitutional . . .
+concerns.” Ibid.
+The same is true of criminal subpoenas. Just as a “prop-
+erly managed” civil suit is generally “unlikely to occupy any
+substantial amount of ” a President's time or attention, id.,
+at 702, two centuries of experience confirm that a properly
+tailored criminal subpoena will not normally hamper the per-
+formance of the President's constitutional duties. If any-
+thing, we expect that in the mine run of cases, where a Presi-
+dent is subpoenaed during a proceeding targeting someone
+else, as Jefferson was, the burden on a President will ordi-
+narily be lighter than the burden of defending against a
+civil suit.
+The President, however, believes the district attorney is
+investigating him and his businesses. In such a situation,
+he contends, the “toll that criminal process . . . exacts from
+the President is even heavier” than the distraction at issue in
+Fitzgerald and Clinton, because “criminal litigation” poses
+unique burdens on the President's time and will generate a
+“considerable if not overwhelming degree of mental preoccu-
+pation.” Brief for Petitioner 16–18, 30 (internal quotation
+marks omitted).
+But the President is not seeking immunity from the diver-
+sion occasioned by the prospect of future criminal liability.
+Instead he concedes—consistent with the position of the De-
+partment of Justice—that state grand juries are free to in-
+vestigate a sitting President with an eye toward charging
+him after the completion of his term. See Reply Brief 19
+(citing Memorandum from Randolph D. Moss, Assistant Atty.
+Gen., Office of Legal Counsel, to the Atty. Gen.: A Sitting
+President's Amenability to Indictment and Criminal Prose-
+cution, 24 Op. OLC 222, 257, n. 36 (Oct. 16, 2000)). The Pres-
+ident's objection therefore must be limited to the additional
+distraction caused by the subpoena itself. But that argu-
+ment runs up against the 200 years of precedent establishing
+that Presidents, and their official communications, are sub-
+ject to judicial process, see Burr, 25 F. Cas., at 34, even when
+the President is under investigation, see Nixon, 418 U. S.,
+at 706.
+2
+The President next claims that the stigma of being subpoe-
+naed will undermine his leadership at home and abroad.
+Notably, the Solicitor General does not endorse this argu-
+ment, perhaps because we have twice denied absolute immu-
+nity claims by Presidents in cases involving allegations of
+serious misconduct. See Clinton, 520 U. S., at 685; Nixon,
+418 U. S., at 687. But even if a tarnished reputation were a
+cognizable impairment, there is nothing inherently stigma-
+tizing about a President performing “the citizen's normal
+duty of . . . furnishing information relevant” to a criminal
+investigation. Branzburg v. Hayes, 408 U. S. 665, 691 (1972).
+Nor can we accept that the risk of association with persons
+or activities under criminal investigation can absolve a Presi-
+dent of such an important public duty. Prior Presidents
+have weathered these associations in federal cases, supra, at
+795–799, and there is no reason to think any attendant noto-
+riety is necessarily greater in state court proceedings.
+To be sure, the consequences for a President's public
+standing will likely increase if he is the one under investiga-
+tion. But, again, the President concedes that such investi-
+gations are permitted under Article II and the Supremacy
+Clause, and receipt of a subpoena would not seem to categor-
+ically magnify the harm to the President's reputation.
+Additionally, while the current suit has cast the Mazars
+subpoena into the spotlight, longstanding rules of grand jury
+secrecy aim to prevent the very stigma the President antici-
+pates. See S. Beale et al., Grand Jury Law and Practice
+§ 5:1, p. 5–3 (2d ed. 2018) (“[T]he federal system and most
+states have adopted statutes or court rules” that “impose
+sharp restrictions on the extent to which matters occurring
+before a grand jury may be divulged” to outside persons.).
+Of course, disclosure restrictions are not perfect. See
+Nixon, 418 U. S., at 687, n. 4 (observing that news media
+reporting made the protective order shielding the fact
+that the President had been named as an unindicted co-
+conspirator “no longer meaningful”). But those who make
+unauthorized disclosures regarding a grand jury subpoena do
+so at their peril. See, e. g., N. Y . Penal Law Ann. § 215.70
+(West 2010) (designating unlawful grand jury disclosure as
+a felony).
+3
+Finally, the President and the Solicitor General warn that
+subjecting Presidents to state criminal subpoenas will make
+them “easily identifiable target[s]” for harassment. Fitzger-
+ald, 457 U. S., at 753. But we rejected a nearly identical
+argument in Clinton, where then-President Clinton argued
+that permitting civil liability for unoffcial acts would “gener-
+ate a large volume of politically motivated harassing and
+frivolous litigation.” Clinton, 520 U. S., at 708. The Presi-
+dent and the Solicitor General nevertheless argue that state
+criminal subpoenas pose a heightened risk and could under-
+mine the President's ability to “deal fearlessly and impar-
+tially” with the States. Fitzgerald, 457 U. S., at 752 (inter-
+nal quotation marks omitted). They caution that, while
+federal prosecutors are accountable to and removable by the
+President, the 2,300 district attorneys in this country are
+responsive to local constituencies, local interests, and local
+prejudices, and might “use criminal process to register their
+dissatisfaction with” the President. Brief for Petitioner 16.
+What is more, we are told, the state courts supervising local
+grand juries may not exhibit the same respect that federal
+courts show to the President as a coordinate branch of
+Government.
+We recognize, as does the district attorney, that harassing
+subpoenas could, under certain circumstances, threaten the
+independence or effectiveness of the Executive. See Tr. of
+Oral Arg. 73. Even so, in Clinton we found that the risk of
+harassment was not “serious” because federal courts have
+the tools to deter and, where necessary, dismiss vexatious
+civil suits. 520 U. S., at 708. And, while we cannot ignore
+the possibility that state prosecutors may have political moti-
+vations, see post, at 839 (Alito , J., dissenting), here again
+the law already seeks to protect against the predicted abuse.
+First, grand juries are prohibited from engaging in “arbi-
+trary fshing expeditions” and initiating investigations “out
+of malice or an intent to harass.” United States v. R. Enter-
+prises, Inc., 498 U. S. 292, 299 (1991). See also, e. g., Virag
+v. Hynes, 54 N. Y . 2d 437, 442–443, 430 N. E. 2d 1249, 1252
+(1981) (recognizing that grand jury subpoenas can be “chal-
+lenged by an affirmative showing of impropriety,” including
+“bad faith” (internal quotation marks omitted)). These pro-
+tections, as the district attorney himself puts it, “apply with
+special force to a President, in light of the offce's unique
+position as the head of the Executive Branch.” Brief for
+Respondent Vance 43. And, in the event of such harass-
+ment, a President would be entitled to the protection of fed-
+eral courts. The policy against federal interference in state
+criminal proceedings, while strong, allows “intervention in
+those cases where the District Court properly finds that the
+state proceeding is motivated by a desire to harass or is con-
+ducted in bad faith.” Huffman v. Pursue, Ltd., 420 U. S.
+592, 611 (1975).
+Second, contrary to Justice Alito's characterization, our
+holding does not allow States to “run roughshod over the
+functioning of [the Executive B]ranch.” Post, at 846. The
+Supremacy Clause prohibits state judges and prosecutors
+from interfering with a President's official duties. See, e. g.,
+Tennessee v. Davis, 100 U. S. 257, 263 (1880) (“No State gov-
+ernment can . . . obstruct [the] authorized officers” of the
+Federal Government.). Any effort to manipulate a Presi-
+dent's policy decisions or to “retaliat[e]” against a President
+for official acts through issuance of a subpoena, Brief for Re-
+spondent Vance 15, 43, would thus be an unconstitutional at-
+tempt to “influence” a superior sovereign “exempt” from
+such obstacles, see McCulloch, 4 Wheat., at 427. We gener-
+ally “assume[ ] that state courts and prosecutors will observe
+constitutional limitations.” Dombrowski v. Pfster, 380 U. S.
+479, 484 (1965). Failing that, federal law allows a President
+to challenge any allegedly unconstitutional influence in a fed-
+eral forum, as the President has done here. See 42 U. S. C.
+§ 1983; Ex parte Young, 209 U. S. 123, 155–156 (1908) (holding
+that federal courts may enjoin state officials to conform their
+conduct to federal law).
+Given these safeguards and the Court's precedents, we
+cannot conclude that absolute immunity is necessary or ap-
+propriate under Article II or the Supremacy Clause. Our
+dissenting colleagues agree. Justice Thomas reaches the
+same conclusion based on the original understanding of the
+Constitution reflected in Marshall's decision in Burr. Post,
+at 816, 818–819. And Justice Alito , also persuaded by
+Burr, “agree[s]” that “not all” state criminal subpoenas for a
+President's records “should be barred.” Post, at 840. On
+that point the Court is unanimous.
+B
+We next consider whether a state grand jury subpoena
+seeking a President's private papers must satisfy a height-
+ened need standard. The Solicitor General would require a
+threshold showing that the evidence sought is “critical” for
+“specific charging decisions” and that the subpoena is a “last
+resort,” meaning the evidence is “not available from any
+other source” and is needed “now, rather than at the end
+of the President's term.” Brief for United States as Ami-
+cus Curiae 29, 32 (internal quotation marks and alteration
+omitted). Justice Alito, largely embracing those criteria,
+agrees that a state criminal subpoena to a President “should
+not be allowed unless a heightened standard is met.” Post,
+at 840–842 (asking whether the information is “critical” and
+“necessary . . . now”).
+We disagree, for three reasons. First, such a heightened
+standard would extend protection designed for official docu-
+ments to the President's private papers. As the Solicitor
+General and Justice Alito acknowledge, their proposed
+test is derived from executive privilege cases that trace back
+to Burr. Brief for United States as Amicus Curiae 26–28;
+post, at 840–841. There, Marshall explained that if Jefferson
+invoked presidential privilege over executive communica-
+tions, the court would not “proceed against the president as
+against an ordinary individual” but would instead require an
+affidavit from the defense that “would clearly show the paper
+to be essential to the justice of the case.” Burr, 25 F. Cas.,
+at 192. The Solicitor General and Justice Alito would
+have us apply a similar standard to a President's personal
+papers. But this argument does not account for the relevant
+passage from Burr: “If there be a paper in the possession of
+the executive, which is not of an official nature , he must
+stand, as respects that paper, in nearly the same situation
+with any other individual.” Id., at 191 (emphasis added).
+And it is only “nearly”—and not “entirely”—because the
+President retains the right to assert privilege over docu-
+ments that, while ostensibly private, “partake of the charac-
+ter of an official paper.” Id., at 191–192.
+Second, neither the Solicitor General nor Justice Alito
+has established that heightened protection against state sub-
+poenas is necessary for the Executive to fulfill his Article II
+functions. Beyond the risk of harassment, which we ad-
+dressed above, the only justification they offer for the height-
+ened standard is protecting Presidents from “unwarranted
+burdens.” Brief for United States as Amicus Curiae 28;
+see post, at 840 (asking whether “there is an urgent and criti-
+cal need for the subpoenaed information”). In effect, they
+argue that even if federal subpoenas to a President are war-
+ranted whenever evidence is material, state subpoenas are
+warranted “only when [the] evidence is essential.” Brief for
+United States as Amicus Curiae 28; see post, at 840. But
+that double standard has no basis in law. For if the state
+subpoena is not issued to manipulate, supra, at 805–806, the
+documents themselves are not protected, supra, at 807–808,
+and the Executive is not impaired, supra, at 801–804, then
+nothing in Article II or the Supremacy Clause supports hold-
+ing state subpoenas to a higher standard than their federal
+counterparts.
+Finally, in the absence of a need to protect the Executive,
+the public interest in fair and effective law enforcement cuts
+in favor of comprehensive access to evidence. Requiring a
+state grand jury to meet a heightened standard of need
+would hobble the grand jury's ability to acquire “all informa-
+tion that might possibly bear on its investigation.” R. En-
+terprises, Inc., 498 U. S., at 297. And, even assuming the
+evidence withheld under that standard were preserved until
+the conclusion of a President's term, in the interim the State
+would be deprived of investigative leads that the evidence
+might yield, allowing memories to fade and documents to
+disappear. This could frustrate the identification, investiga-
+tion, and indictment of third parties (for whom applicable
+statutes of limitations might lapse). More troubling, it could
+prejudice the innocent by depriving the grand jury of excul-
+patory evidence.
+Rejecting a heightened need standard does not leave Pres-
+idents with “no real protection.” Post, at 843 (opinion of
+Alito, J.). To start, a President may avail himself of the
+same protections available to every other citizen. These in-
+clude the right to challenge the subpoena on any grounds
+permitted by state law, which usually include bad faith and
+undue burden or breadth. See, e. g., Virag, 54 N. Y . 2d, at
+442–445, 430 N. E. 2d, at 1252–1253; In re Grand Jury Sub-
+poenas, 72 N. Y . 2d 307, 315–316, 528 N. E. 2d 1195, 1200
+(1988) (recognizing that grand jury subpoenas can be chal-
+lenged as “overly broad” or “unreasonably burdensome” (in-
+ternal quotation marks omitted)). And, as in federal court,
+“[t]he high respect that is owed to the office of the Chief
+Executive . . . should inform the conduct of the entire pro-
+ceeding, including the timing and scope of discovery.” Clin-
+ton, 520 U. S., at 707. See id., at 724 (Breyer, J., concurring
+in judgment) (stressing the need for courts presiding over
+suits against the President to “schedule proceedings so as to
+avoid significant interference with the President's ongoing
+discharge of his official responsibilities”); Nixon, 418 U. S., at
+702 (“[W]here a subpoena is directed to a President . . . ap-
+pellate review . . . should be particularly meticulous.”).
+Furthermore, although the Constitution does not entitle
+the Executive to absolute immunity or a heightened stand-
+ard, he is not “relegate[d]” only to the challenges available
+to private citizens. Post, at 841 (opinion of Alito, J.). A
+President can raise subpoena-specifc constitutional chal-
+lenges, in either a state or federal forum. As previously
+noted, he can challenge the subpoena as an attempt to influ-
+ence the performance of his official duties, in violation of the
+Supremacy Clause. See supra, at 806. This avenue pro-
+tects against local political machinations “interposed as an
+obstacle to the effective operation of a federal constitutional
+power.” United States v. Belmont, 301 U. S. 324, 332 (1937).
+In addition, the Executive can—as the district attorney
+concedes—argue that compliance with a particular subpoena
+would impede his constitutional duties. Brief for Respond-
+ent Vance 42. Incidental to the functions confded in Article
+II is “the power to perform them, without obstruction or
+impediment.” 3 J. Story, Commentaries on the Constitution
+of the United States § 1563, pp. 418–419 (1833). As a result,
+“once the President sets forth and explains a conflict be-
+tween judicial proceeding and public duties,” or shows that
+an order or subpoena would “significantly interfere with his
+efforts to carry out” those duties, “the matter changes.”
+Clinton, 520 U. S., at 710, 714 (opinion of Breyer, J.). At
+that point, a court should use its inherent authority to quash
+or modify the subpoena, if necessary to ensure that such “in-
+terference with the President's duties would not occur.”
+Id., at 708 (opinion of the Court).
+* * *
+Two hundred years ago, a great jurist of our Court estab-
+lished that no citizen, not even the President, is categorically
+above the common duty to produce evidence when called
+upon in a criminal proceeding. We reaffirm that principle
+today and hold that the President is neither absolutely im-
+mune from state criminal subpoenas seeking his private pa-
+pers nor entitled to a heightened standard of need. The
+“guard[ ] furnished to this high officer” lies where it always
+has—in “the conduct of a court” applying established legal
+and constitutional principles to individual subpoenas in a
+manner that preserves both the independence of the Execu-
+tive and the integrity of the criminal justice system. Burr,
+25 F. Cas., at 34.
+The arguments presented here and in the Court of Ap-
+peals were limited to absolute immunity and heightened

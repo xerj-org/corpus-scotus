@@ -1,0 +1,38 @@
+FCC v. Consumers’ Research — No. 24-354 — October Term 2024 — decided 6/27/25 — Jackson, J., concurring
+Citation: 606 U.S. 656
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r64_8nj9.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+raise significant Article II issues. In an appropriate case,
+this Court should address that problem.
+* * *
+As the Court explains, Congress has delegated authority
+to the FCC with respect to the Universal Service Fund in
+accordance with the longstanding intelligible principle test.
+If the FCC were an independent agency, however, the ques-
+tion would be more difficult. Because that issue is not pre-
+sented in this case, I join the Court's opinion in full.
+Justice Jackson, concurring.
+Respondents in this case have challenged the Federal
+Communications Commission's universal-service program
+under both the traditional nondelegation doctrine and the
+private nondelegation doctrine. The Court properly rejects
+both challenges today, and I join the Court's opinion in full.
+I write separately to express my skepticism that the private
+nondelegation doctrine—which purports to bar the Govern-
+ment from delegating authority to private actors—is a viable
+and independent doctrine in the first place. Nothing in the
+text of the Constitution appears to support a per se rule bar-
+ring private delegations. And recent scholarship highlights
+a similar lack of support for the doctrine in our history and
+precedents. See, e. g., A. Volokh, The Myth of the Federal
+Private Nondelegation Doctrine, 99 Notre Dame L. Rev.
+203 (2023).
+In today's case, none of the parties addressed these con-
+cerns, and the Court had no reason to consider them
+sua sponte because respondents' private nondelegation claim
+failed on its own terms. But we should tread carefully be-
+fore entertaining challenges under this theory in the future.
+“When the Constitution's text does not provide a limit to a
+coordinate branch's power, we should not lightly assume that
+Article III implicitly directs the Judiciary to find one.”
+Consumer Financial Protection Bureau v. Community Fi-

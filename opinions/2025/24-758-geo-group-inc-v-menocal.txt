@@ -1,0 +1,405 @@
+Geo Group, Inc. v. Menocal — No. 24-758 — October Term 2025 — decided 2/25/26 — opinion of the Court — author Kagan (listing code EK)
+Citation: 607 U.S. 438
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r15_bqmc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+were Solicitor General Sauer, Assistant Attorney General
+Shumate, Deputy Solicitor General Harris, Michael S.
+Raab, and Ashley C. Honold.*
+Justice Kagan delivered the opinion of the Court.
+In Yearsley v. W. A. Ross Constr. Co., 309 U. S. 18, 20
+(1940), this Court held that a federal contractor cannot be
+held liable for conduct that the Government has lawfully “au-
+thorized and directed” the contractor to perform. Rather,
+liability may attach only if the authorization was unlawful or
+if the contractor acted outside its scope. See id., at 20–21.
+The question here is whether a contractor may take an
+immediate appeal of a district court's pretrial order denying
+Yearsley protection. The answer is no. Because Yearsley
+provides a defense to liability, not an immunity from suit, an
+order denying its protection can be effectively reviewed
+after a final judgment. So appellate review of such an
+order, as of most pretrial rulings, must await completion of
+the district court's proceedings.
+*Briefs of amici curiae urging reversal were fled for the Chamber of
+Commerce of the United States of America by Michael R. Huston, Shae
+McPhee, Jonathan D. Urick, and Nicholas S. Crown; for the Coalition
+for Common Sense in Government Procurement by Nicole Saharsky and
+Charles A. Rothfeld; for MVM, Inc., by Paul J. Fraidenburgh, Alexander
+P . Carroll, and Anne M. Voigts; for the Nevada Hospital Association by
+Hugh C. Griffn; for the Professional Services Council—The Voice of the
+Government Services Industry by Daniel L. Russell, Jr., and Raymond
+B. Biagini; and for Alexander Volokh, pro se.
+Briefs of amici curiae urging affirmance were fled for the American
+Association for Justice by Robert S. Peck, Bruce Plaxen, and Jeffrey R.
+White; for Citizens for Responsibility and Ethics in Washington by Jona-
+than Maier and Donald K. Sherman; for Public Citizen by Nandan M.
+Joshi, Scott L. Nelson, and Allison M. Zieve; for the Roderick and Solange
+MacArthur Justice Center et al. by Amit Jain, Ellen Noble, Anya Bidwell,
+and Patrick Jaicomo; and for Erwin Chemerinsky by Steven A. Hirsch
+and Anne Bloom.
+Georgina Yeomans, Teague Paterson, and Matthew Stark Blumin fled
+a brief of amicus curiae for the American Federation of State, County
+and Municipal Employees.
+I
+Petitioner GEO Group operates a private detention facility
+in Aurora, Colorado, under a contract with U. S. Immigration
+and Customs Enforcement (ICE). The facility holds individ-
+uals whose immigration proceedings are pending. Respond-
+ent Alejandro Menocal was detained there in 2014. Soon
+afterward, he initiated this class action on behalf of the Au-
+rora facility's detainees.
+The suit challenges two policies GEO used to put the de-
+tainees to work, thereby reducing its own labor costs.
+First, the so-called Sanitation Policy required detainees to
+clean, without any pay, all the facility's common areas. A
+detainee's failure to perform his assigned tasks led to esca-
+lating sanctions, up to 72 hours in solitary confinement.
+Second, the so-called Voluntary Work Program offered $1
+per day to detainees for other kinds of needed work, such
+as preparing food and doing laundry. Menocal's complaint
+alleged that the former policy violated a federal bar on
+forced labor and that the latter breached Colorado's prohibi-
+tion on unjust enrichment.
+Following discovery, the District Court addressed GEO's
+contention that Yearsley required the suit's dismissal. That
+was so, the argument ran, because ICE had by contract “au-
+thorized and directed” GEO to carry out the two challenged
+policies. Defendant's Cross-Motion for Summary Judgt. in
+No. 14–2887 (D Colo., June 25, 2020), ECF Doc. 284, p. 17.
+But the District Court did not read the government contract
+that way. Nothing in its terms, the court found, instructed
+GEO to adopt the work rules at issue. Rather, in “inde-
+pendently develop[ing] and implement[ing]” those rules,
+GEO “far exceeded its contractual obligations.” 635
+F. Supp. 3d 1151, 1173 (Colo. 2022). So the Yearsley doc-
+trine, the District Court concluded, did not relieve GEO of
+legal responsibility. Instead, a trial would be necessary to
+address whether GEO's policies violated the referenced bans
+on forced labor or unjust enrichment.
+GEO immediately fled an appeal, but the Court of Appeals
+for the Tenth Circuit dismissed it for lack of jurisdiction.
+See 2024 WL 4544184 (Oct. 22, 2024). Appellate jurisdic-
+tion, the court explained, seldom extends to an order that
+does not terminate the litigation at issue. Such an order
+qualifies for interlocutory review only if it satisfies three con-
+ditions deriving from this Court's decision in Cohen v. Bene-
+ficial Industrial Loan Corp., 337 U. S. 541 (1949). And an
+order denying Yearsley protection, the Tenth Circuit held,
+does not do so. The court saw no need to address the first
+or third Cohen conditions because it concluded that a Years-
+ley denial flunked the second: Such a ruling is not (as Cohen
+demands) “completely separate from the merits” of the suit.
+2024 WL 4544184, *7. That is because, the court reasoned, an
+inquiry into what the Government instructed the contractor
+to do is relevant to both Yearsley's application and the “law-
+fulness of the contractor's challenged actions.” Id., at *8.
+We granted certiorari, 605 U. S. 968 (2025), to resolve
+whether a pretrial order denying Yearsley protection to a
+government contractor is immediately appealable. Like the
+Tenth Circuit, we hold that it is not. But unlike the Tenth
+Circuit, we focus on the third Cohen condition, which re-
+quires an order to be effectively unreviewable on appeal from
+a final judgment.
+II
+“Finality as a condition of review is an historic characteris-
+tic of federal appellate procedure.” Cobbledick v. United
+States, 309 U. S. 323, 324 (1940). Originating in the First
+Judiciary Act of 1789, the finality requirement is now codified
+in 28 U. S. C. § 1291. The courts of appeals, that section pro-
+vides, have jurisdiction over appeals from “final decisions of
+the district courts.” And a decision generally is “final”
+under § 1291 only when it “resolves the entire case”—when it
+“ends the litigation” (on the merits or otherwise) and “leaves
+nothing for the court to do but execute the judgment.” Rit-
+zen Group, Inc. v. Jackson Masonry, LLC, 589 U. S. 35, 37–38
+(2020). That final-judgment rule, by preventing piecemeal
+appeals, “promotes the efficient administration of justice”
+and “preserves the proper balance between trial and appellate
+courts.” Microsoft Corp. v. Baker, 582 U. S. 23, 36–37 (2017).
+For a “small class” of decisions, however, the finality rule
+gives ground and allows interlocutory appeals. Cohen, 337
+U. S., at 546. Section 1291, we have often explained, re-
+quires a “practical rather than a technical construction,” and
+thus may treat as “final” certain decisions that do not end a
+case. Mohawk Industries, Inc. v. Carpenter, 558 U. S. 100,
+106 (2009) (quoting Cohen, 337 U. S., at 546). We identify
+those decisions by category, not case-specific circumstances.
+See Mohawk, 558 U. S., at 107. And we erect a high bar.
+A non-terminal order may be appealed, Cohen held, only if
+it “finally determine[s] claims of right separable from, and
+collateral to, rights asserted in the action, too important to
+be denied review and too independent of the cause itself to
+require that appellate consideration be deferred.” 337 U. S.,
+at 546. That so-called collateral-order doctrine, we have
+since underscored, is “narrow,” “stringent,” and of “modest
+scope.” Digital Equipment Corp. v. Desktop Direct, Inc., 511
+U. S. 863, 868 (1994); Will v. Hallock, 546 U. S. 345, 350 (2006).
+To keep it that way, this Court has “distilled” the Cohen
+ruling into three non-negotiable conditions. Will, 546 U. S.,
+at 349. A pre-judgment order, to get immediate review,
+must “(1) conclusively determine the disputed question, (2)
+resolve an important issue completely separate from the
+merits of the action, and (3) be effectively unreviewable on
+appeal from a final judgment.” Van Cauwenberghe v.
+Biard, 486 U. S. 517, 522 (1988). Failure on any component
+of that three-part test is fatal.
+When, as here, an order denies a pretrial request to dis-
+miss, appealability under Cohen will generally turn on
+whether the defendant has asserted a defense to liability or
+instead an immunity from suit. See Mitchell v. Forsyth, 472
+U. S. 511, 526–527 (1985). If a defense, Cohen is likely to
+block an immediate appeal; if an immunity, Cohen will likely
+allow it. To show why, we describe below the difference
+between a merits defense and an immunity; what that differ-
+ence entails for the right to avoid trial; and how that right
+matters in applying the third Cohen condition. Once that is
+done, it becomes clear why, as later described, the parties
+here mainly contest whether Yearsley offers an immunity or
+just a merits defense. See infra, at 447–448. 1
+To start, a party asserting a merits defense in a lawsuit
+makes a fundamentally different kind of argument than a
+party asserting an immunity. The former advances some
+reason why his conduct was not unlawful—or said otherwise,
+why under the law he did nothing wrong. And so, that de-
+fendant says, he should not be found liable: Because he
+obeyed the law, he should not, for example, have to pay dam-
+ages. By contrast, a party asserting an immunity “makes
+no challenge” to “the merits of the charge against him.”
+Abney v. United States, 431 U. S. 651, 659 (1977). That de-
+fendant need never say he followed the law, because his claim
+of immunity does not turn on his conduct's legality. “[A]n
+immunity frees one who enjoys it from a lawsuit whether or
+not he acted wrongly.” Richardson v. McKnight, 521 U. S.
+399, 403 (1997). A classic example is sovereign immunity: It
+shields the Government from suit (absent a waiver) regard-
+less whether the Government violated the law. See, e. g.,
+FDIC v. Meyer, 510 U. S. 471, 475 (1994). 2
+1 Note that one category of cases exists outside this dichotomy: a non-
+merits-based defense that also is not an immunity. On occasion, this
+Court has decided that a defense, although barring suit irrespective of
+the merits, still fails to qualify as an immunity because it does not serve
+sufficiently “weighty public objective[s].” Will v. Hallock, 546 U. S. 345,
+353 (2006) (so holding with respect to the Federal Tort Claims Act's judg-
+ment bar). That “public interest” wrinkle, however, never arises if the
+defense is on the merits—which, as we will explain, is the case here.
+2 Qualified immunity is, in the respect relevant here, the same. That
+doctrine shields a defendant even when the claim against him “in fact has
+merit”—or otherwise said, even when he violated the law—so long as the
+That difference between a merits defense and an immunity
+entails another: The latter, but not the former, is in its “es-
+sence” an “entitlement not to stand trial.” Mitchell, 472
+U. S., at 525. Because an immunity applies irrespective of
+the merits, the protection it offers is not a simple finding of
+non-liability. Rather, the immunity ensures that the defend-
+ant need not “answer for his conduct” in court at all—that
+he avoids, in addition to liability, all the usual “burdens of
+litigation,” including a trial. Id., at 525–526. And so we
+typically describe the protection in just that way: as an im-
+munity “ from suit.” Id., at 526 (emphasis in original); see,
+e. g., Thacker v. TVA, 587 U. S. 218, 221 (2019); Jam v. Inter-
+national Finance Corp., 586 U. S. 199, 202 (2019). A “mere
+defense” to liability, as we have noted, offers something dif-
+ferent, and of lesser value. Mitchell, 472 U. S., at 526. Be-
+cause it establishes that the defendant acted lawfully, a valid
+defense leads to a judgment of non-liability. But it does not
+allow the defendant to escape the varied rigors and costs of
+legal proceedings. Indeed, it is in and through those pro-
+ceedings that the asserted defense is addressed and liability
+finally determined.
+And that divergence—in whether the defendant possesses
+a right not to stand trial—matters for the third Cohen condi-
+tion. Again, that condition states that a non-terminal order
+may be appealed when issued only if it is “effectively unre-
+viewable on appeal from a final judgment.” Van Cauwen-
+berghe, 486 U. S., at 522; see supra, at 444. For that to be
+true, we have explained, the order must involve a right that
+“would be irretrievably lost absent an immediate appeal.”
+Van Cauwenberghe , 486 U. S., at 524. The right to avoid
+trial fts that description. It is irretrievably lost once trial
+occurs, even supposing the defendant were to prevail on the
+law at that time was not “clearly established.” Camreta v. Greene, 563
+U. S. 692, 705 (2011). “Like other forms of immunity,” then, qualified im-
+munity offers protection “even when [the defendant] acts unlawfully.”
+Brief for United States as Amicus Curiae 23.
+merits. And so, in the ordinary case, the denial of an immu-
+nity is immediately appealable. See ibid.; Abney, 431 U. S.,
+at 659–660. But the right to a finding of non-liability stands
+on a different footing: It can be effectively vindicated after
+a trial has occurred, through the reversal of an adverse final
+judgment. And so the denial of a merits defense is gener-
+ally appealable only once trial-court proceedings have ended.
+See Van Cauwenberghe, 486 U. S., at 524; Mitchell, 472 U. S.,
+at 526.
+In short, then, distinguishing between a merits defense
+and an immunity from suit, in the way described above, of-
+fers a ready way of determining whether the denial of a re-
+quest to dismiss a case can satisfy Cohen's third condition for
+interlocutory review.3
+III
+For just that reason, the parties here mainly dispute
+whether our Yearsley decision offers federal contractors a
+3 By the same token, that distinction is likely to determine whether the
+other two Cohen conditions are met, though we need not here address the
+reasons in any detail. See Puerto Rico Aqueduct and Sewer Authority
+v. Metcalf & Eddy, Inc., 506 U. S. 139, 144 (1993) (“Once it is established
+that” a State is “immune from suit in federal court, it follows that the
+elements of the Cohen collateral order doctrine are satisfied”). Recall
+that Cohen's second condition, on which the Court of Appeals relied, de-
+mands that the order “resolve an important issue completely separate
+from the merits of the action.” Van Cauwenberghe v. Biard, 486 U. S.
+517, 522 (1988); see supra, at 444. A decision on a defense, addressing
+the legality of the defendant's conduct, goes directly to the suit's merits—
+whereas a decision on an immunity, applying regardless of that conduct's
+legality, does not. Similarly for the first condition, which is that the order
+“conclusively determine the disputed question.” Van Cauwenberghe, 486
+U. S., at 522. When a defense turns on contested facts, as is often true,
+a pretrial order denying it functions only to defer its resolution until trial.
+By contrast, we have held, a pretrial denial of an immunity always acts as
+a “fully consummated decision” because nothing can then happen to avert
+“the trial the defendant maintains is barred.” Mitchell v. Forsyth, 472
+U. S. 511, 527 (1985) (quoting Abney v. United States, 431 U. S. 651, 659
+(1977)).
+merits defense or instead an immunity. Menocal (supported
+by the United States as amicus curiae) says a defense, be-
+cause Yearsley gives contractors only a way to show that
+their conduct complied with the law. GEO says an immu-
+nity—more specifically, “derivative sovereign immunity.”
+Brief for GEO 15. Under Yearsley, GEO contends, the Gov-
+ernment's own immunity extends to contractors who meet
+specified conditions, thereby giving them the “right not to
+stand trial.” Brief for GEO 15. So which is it—a defense
+or an immunity?
+Yearsley involved a suit by landowners against a federal
+contractor for fooding their property. The Government had
+hired the contractor to redirect the Missouri River in order
+to improve its navigation. The construction company, as
+specified in the contract, built dikes in a part of the river
+near where the Yearsleys owned a farm. The result, as ex-
+pected, was to wash away almost 100 acres of their land.
+The Yearsleys did not dispute that the contractor's work was
+“all authorized and directed by the Government.” 309 U. S.,
+at 20. Nonetheless, they sued the contractor for money
+damages.
+This Court held that there was “no liability on the part of
+the contractor.” Id., at 21. Drawing from multiple prece-
+dents involving agency law, the Court explained that a con-
+tractor acting as an agent of the Government could be held
+liable for injurious conduct in only two circumstances: when
+“he exceeded his authority” or when that authority “was not
+validly conferred.” Ibid. Here, neither circumstance ob-
+tained. As to the second, the Court explained that the Gov-
+ernment had “validly” authorized the company to food the
+Yearsleys' land, because the Government itself possessed
+that legal right and had properly delegated it by contract.
+Id., at 21–22. And as to the first, the Court concluded that
+all the company's work had stayed within the bounds of the
+authority given: The Government had provided instructions,
+and the contractor had merely “execut[ed] its will.” Id., at
+20–21. Given both those facts—the Government's lawful au-
+thorization and the contractor's compliance with it—the
+Court could see “no ground for holding [the contractor] lia-
+ble.” Id., at 22.
+That reasoning describes a defense, not an immunity.
+Yearsley provides protection to a contractor when it has re-
+ceived a lawful authorization and acted according to its
+terms—meaning, when the contractor has acted within legal
+bounds. So in invoking Yearsley, the contractor is making
+the argument of a merits defense—that it is not liable be-
+cause it has complied with the law. See supra, at 445.
+Conversely, Yearsley's protection runs out when the contrac-
+tor may have violated the law—when the contractor either
+acted under an illegal authorization or exceeded the scope of
+a legal one. By drawing the line there, Yearsley ensures
+that it will never shield unlawful conduct, in the way that all
+immunities do. See supra, at 445. In short, because Year-
+sley protects a contractor only when—and only because—it
+has acted lawfully, Yearsley operates as a defense to liability
+on the merits. And that is consistent with all Yearsley's lan-
+guage. The decision never refers to an “immunity,” or oth-
+erwise suggests that the defendant receives a pass from legal
+proceedings; it asks only whether the contractor may be
+found “liable.” 309 U. S., at 21–22.
+Still more, GEO's contrary view would put Yearsley in con-
+flict with the general rule that sovereign immunity is not
+transferrable to agents, including contractors, of a govern-
+ment. As Justice Holmes once explained, the Federal Gov-
+ernment's immunity from a suit (absent a statute providing
+otherwise) “does not extend to those that act[ ] in its name.”
+Sloan Shipyards Corp. v. United States Shipping Bd. Emer-
+gency Fleet Corporation, 258 U. S. 549, 568 (1922). The
+Court repeated that precept in the Term just before Year-
+sley: “[T]he government does not become the conduit of its
+immunity in suits against its agents” just because “they
+do [the government's] work.” Keifer & Keifer v. Recon-
+struction Finance Corporation, 306 U. S. 381, 388 (1939).
+Rather, the “exceptional freedom from legal responsibility”
+that sovereign immunity offers is “confined” to the sovereign
+entity itself. Ibid. Or again, a few Terms after Yearsley:
+A private contractor cannot obtain “[i]mmunity from suit”
+by “reason of a contract” it made with the Government.
+Brady v. Roosevelt S. S. Co., 317 U. S. 575, 583 (1943). GEO
+tries to bypass those holdings by arguing that they preclude
+a contractor from asserting only “unconditional” sovereign
+immunity, not the (supposed) “derivative sovereign immu-
+nity” Yearsley offers, which is conditioned on compliance
+with the Government's lawful directives. Reply Brief 6–7.
+But the proposed distinction is strained. The whole thrust
+of the decisions is to deny that government agents can as-
+sert—whether always or sometimes—a “derived” form of
+sovereign immunity. Rather, the Court insisted, sovereign
+immunity belongs alone to the Government.
+And another, pre-Yearsley decision proves the point, by
+relegating a state agent that had asserted sovereign immu-
+nity to a merits defense, whose contours anticipated what
+Yearsley would offer. See Hopkins v. Clemson, 221 U. S.
+636 (1911). Oddly enough, the suit challenged the same kind
+of conduct involved in Yearsley: The government agent had
+fooded a person's land. The State itself, the Court noted,
+would have had “immunity from [a] suit” based on such con-
+duct. 221 U. S., at 642. But an agent working on the
+State's behalf could not “avail itself” of that special “exemp-
+tion” from “judicial process.” Id., at 642, 645. “[I]mmunity
+from suit,” the Court explained, “is a high attribute of sover-
+eignty—a prerogative of the State itself”—which cannot be
+invoked by the State's agents. Id., at 642–643. Yet all was
+not lost: The agent got something. Although the agent was
+“not exempt from suit,” it could “successfully defend”
+against the charges by showing the “lawful authority under
+which [it] acted.” Id., at 643. Those terms evoke the ones
+Yearsley used later. See 309 U. S., at 22 (precluding liability
+for a contractor “acting under” “validly conferred” author-
+ity); supra, at 448–449. And they function not, as GEO pos-
+its, to condition the transfer of sovereign immunity, but to
+describe something different—as the Court made explicit, a
+merits “defen[se].” Hopkins, 221 U. S., at 643. 4
+Once Yearsley is understood in that way—as a merits de-
+fense—the question before us almost answers itself: No, a
+district court's denial of Yearsley protection is not immedi-
+ately appealable under § 1291. Like the denial of other de-
+fenses, such a ruling is not, as Cohen's third condition de-
+mands, “effectively unreviewable on appeal from a final
+judgment.” Van Cauwenberghe , 486 U. S., at 522. The
+right that a merits defense affords is to a finding of non-
+liability. And that right—unlike the right not to stand trial—
+is fully vindicable on appeal from a final judgment. See
+Swint v. Chambers County Comm'n, 514 U. S. 35, 43 (1995);
+supra, at 446–447. All an appellate court need do at that
+4 GEO counters that two of our decisions refer to Yearsley as offering
+“immunity,” see Brief for GEO 17, 23, but that argument makes far too
+much of one piece of loose language. The first cited case, Brady v. Roose-
+velt S. S. Co., 317 U. S. 575 (1943), mainly cuts against GEO. As noted
+above, the Court there rejected the view that a government contractor
+obtains “[i]mmunity from suit” by virtue of its contractual relation. Id.,
+at 583; see supra, at 450. The Court then turned to Yearsley, finding it
+not to apply because the suit alleged negligent conduct, outside what the
+Government had authorized. In that half-paragraph, the decision once
+refers to Yearsley as providing a “certain immunity.” 317 U. S., at 583.
+But it apparently used that term in a colloquial sense, as something of
+a synonym for “protection.” The Court's fuller description of Yearsley
+explains that it relieves the contractor of “liability,” without suggesting
+that it also offers a pass from litigation. 317 U. S., at 583. And the sec-
+ond cited case, Campbell-Ewald Co. v. Gomez, 577 U. S. 153 (2016), gives
+GEO even less to work with. That decision merely quotes the imprecise
+phrase in Brady on the way to rejecting another contractor's claim (even
+more expansive than GEO's) to share in the Government's sovereign im-
+munity. 577 U. S., at 166.

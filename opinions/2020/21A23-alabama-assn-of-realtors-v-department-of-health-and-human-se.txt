@@ -1,0 +1,258 @@
+Alabama Assn. of Realtors v. Department of Health and Human Servs. — No. 21A23 — October Term 2020 — decided 8/26/21 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 594 U.S. 758
+Source: https://www.supremecourt.gov/opinions/20pdf/594us2r68_b97d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+moratorium intrudes into an area that is the particular domain of state
+law: the landlord-tenant relationship. Since § 361(a)'s enactment in
+1944, no regulation premised on it has even begun to approach the size
+or scope of the eviction moratorium or its imposition of criminal penal-
+ties on violators. Section 361(a) is a wafer-thin reed on which to rest
+such sweeping power.
+(b) The equities do not justify depriving the applicants of the District
+Court's judgment in their favor. Applicants, along with millions of
+landlords, face irreparable harm from the deprivation of rent payments
+with no guarantee of eventual recovery. Since the District Court en-
+tered its stay, whatever interest the Government had in maintaining the
+moratorium's original end date to ensure the orderly administration of
+those programs has diminished. And Congress—on notice that a fur-
+ther extension would almost surely require new legislation—failed to
+act in the several weeks leading up to the moratorium's expiration. It
+is up to Congress, not the CDC, to decide whether the public interest
+merits further action here.
+Application to vacate stay granted.
+Per Curiam.
+The Director of the Centers for Disease Control and Pre-
+vention (CDC) has imposed a nationwide moratorium on
+evictions of any tenants who live in a county that is experi-
+encing substantial or high levels of COVID–19 transmission
+and who make certain declarations of financial need. 86
+Fed. Reg. 43244 (2021). The Alabama Association of Real-
+tors (along with other plaintiffs) obtained a judgment from
+the U. S. District Court for the District of Columbia vacating
+the moratorium on the ground that it is unlawful. But the
+District Court stayed its judgment while the Government
+pursued an appeal. We vacate that stay, rendering the
+judgment enforceable. The District Court produced a com-
+prehensive opinion concluding that the statute on which the
+CDC relies does not grant it the authority it claims. The
+case has been thoroughly briefed before us—twice. And
+careful review of that record makes clear that the applicants
+are virtually certain to succeed on the merits of their argu-
+ment that the CDC has exceeded its authority. It would be
+one thing if Congress had specifically authorized the action
+OF HEALTH AND HUMAN SERVS.
+Per Curiam
+that the CDC has taken. But that has not happened. In-
+stead, the CDC has imposed a nationwide moratorium on
+evictions in reliance on a decades-old statute that authorizes
+it to implement measures like fumigation and pest extermi-
+nation. It strains credulity to believe that this statute
+grants the CDC the sweeping authority that it asserts.
+I
+A
+In March 2020, Congress passed the Coronavirus Aid,
+Relief, and Economic Security Act to alleviate burdens
+caused by the burgeoning COVID–19 pandemic. Pub. L.
+116–136, 134 Stat. 281. Among other relief programs, the
+Act imposed a 120-day eviction moratorium for properties
+that participated in federal assistance programs or were sub-
+ject to federally backed loans. § 4024, id., at 492–494.
+When the eviction moratorium expired in July, Congress
+did not renew it. Concluding that further action was
+needed, the CDC decided to do what Congress had not. See
+85 Fed. Reg. 55292 (2020). The new, administratively im-
+posed moratorium went further than its statutory predeces-
+sor, covering all residential properties nationwide and im-
+posing criminal penalties on violators. See id., at 55293,
+55296.
+The CDC's moratorium was originally slated to expire on
+December 31, 2020. Id., at 55297. But Congress extended
+it for one month as part of the second COVID–19 relief Act.
+See Consolidated Appropriations Act, 2021, Pub. L. 116–260,
+§ 502, 134 Stat. 2078–2079. As the new deadline approached,
+the CDC again took matters into its own hands, extending
+its moratorium through March, then again through June, and
+ultimately through July. 86 Fed. Reg. 8020, 16731, 34010.
+The CDC relied on § 361(a) of the Public Health Service
+Act for authority to promulgate and extend the eviction mor-
+atorium. See 58 Stat. 703, as amended, 42 U. S. C. § 264(a).
+That provision states:
+“The Surgeon General, with the approval of the [Secre-
+tary of Health and Human Services], is authorized to
+make and enforce such regulations as in his judgment
+are necessary to prevent the introduction, transmission,
+or spread of communicable diseases from foreign coun-
+tries into the States or possessions, or from one State
+or possession into any other State or possession. For
+purposes of carrying out and enforcing such regulations,
+the Surgeon General may provide for such inspection,
+fumigation, disinfection, sanitation, pest extermination,
+destruction of animals or articles found to be so infected
+or contaminated as to be sources of dangerous infection
+to human beings, and other measures, as in his judgment
+may be necessary.”
+See also 42 CFR § 70.2 (2020) (delegating this authority to
+the CDC). Originally passed in 1944, this provision has
+rarely been invoked—and never before to justify an eviction
+moratorium. Regulations under this authority have gener-
+ally been limited to quarantining infected individuals and
+prohibiting the import or sale of animals known to transmit
+disease. See, e. g., 40 Fed. Reg. 22543 (1975) (banning small
+turtles known to be carriers of salmonella).
+B
+Realtor associations and rental property managers in Ala-
+bama and Georgia sued to enjoin the CDC's moratorium.
+The U. S. District Court for the District of Columbia granted
+the plaintiffs summary judgment, holding that the CDC
+lacked statutory authority to impose the moratorium. Ala-
+bama Assn. of Realtors v. Department of Health and
+Human Servs., 539 F. Supp. 3d 29, 43–44 (2021).
+But the court stayed its order pending appeal. It rea-
+soned that even though the Government had not shown a
+substantial likelihood of success, it did make a lesser showing
+of a “serious legal question on the merits,” which the court
+said warranted granting a stay when the remaining stay fac-
+OF HEALTH AND HUMAN SERVS.
+Per Curiam
+tors weighed in the Government's favor. Alabama Assn. of
+Realtors v. Department of Health and Human Servs.,
+539 F. Supp. 3d 211, 216 (2021); see also Nken v. Holder,
+556 U. S. 418, 434 (2009) (listing the four traditional stay
+factors: “(1) whether the stay applicant has made a strong
+showing that he is likely to succeed on the merits;
+(2) whether the applicant will be irreparably injured absent
+a stay; (3) whether issuance of the stay will substanti-
+ally injure the other parties interested in the proceed-
+ing; and (4) where the public interest lies”). The D. C.
+Circuit agreed, though it rated the Government's argu-
+ments more highly. Alabama Assn. of Realtors v. Depart-
+ment of Health and Human Servs., 2021 WL 2221646 (June
+2, 2021).
+This Court declined to vacate the stay. Alabama Assn.
+of Realtors v. Department of Health and Human Servs., 591
+U. S. ––– (2021). Justice Kavanaugh concurred, explain-
+ing that he agreed with the District Court that the CDC's
+moratorium exceeded its statutory authority. But because
+the CDC planned to end the moratorium in only a few weeks,
+and because that time would allow for additional and more
+orderly distribution of congressionally appropriated rental-
+assistance funds, he concluded that the balance of equities
+justified leaving the stay in place. Justice Thomas, Jus-
+tice Alito, Justice Gorsuch, and Justice Barrett noted
+that they would vacate the stay.
+The moratorium expired on July 31, 2021. Three days
+later, the CDC reimposed it. See 86 Fed. Reg. 43244.
+Apart from slightly narrowing the geographic scope, the new
+moratorium is indistinguishable from the old.
+With the moratorium once again in place, the plaintiffs re-
+turned to the District Court to seek vacatur of its stay. The
+District Court agreed with the plaintiffs that the stay was
+no longer warranted for two reasons. First, the Govern-
+ment was unlikely to succeed on the merits, given the four
+votes to vacate the stay in this Court and Justice Kava-
+naugh's concurring opinion. 557 F. Supp. 3d 1, 10 (2021).
+Second, the equities had shifted in the plaintiffs' favor: Vac-
+cine and rental-assistance distribution had improved since
+the stay was entered, while the harm to landlords had contin-
+ued to increase. Id., at 9–10, n. 3. But the court concluded
+that its hands were tied by the law of the case, in light of
+the D. C. Circuit's earlier decision not to vacate the stay.
+Ibid. That denial was followed by one more stop at the
+D. C. Circuit, where that court again declined to lift the stay.
+2021 WL 3721431 (Aug. 20, 2021).
+Having passed through the lower courts twice, the plain-
+tiffs return as applicants to this Court to again ask us to
+vacate the District Court's stay.
+II
+The District Court concluded that its stay is no longer jus-
+tified under the governing four-factor test. See Nken, 556
+U. S., at 434. We agree.
+A
+The applicants not only have a substantial likelihood of
+success on the merits—it is difficult to imagine them losing.
+The Government contends that the first sentence of § 361(a)
+gives the CDC broad authority to take whatever measures
+it deems necessary to control the spread of COVID–19, in-
+cluding issuing the moratorium. But the second sentence
+informs the grant of authority by illustrating the kinds of
+measures that could be necessary: inspection, fumigation,
+disinfection, sanitation, pest extermination, and destruction
+of contaminated animals and articles. These measures di-
+rectly relate to preventing the interstate spread of disease
+by identifying, isolating, and destroying the disease itself.
+The CDC's moratorium, on the other hand, relates to inter-
+state infection far more indirectly: If evictions occur, some
+subset of tenants might move from one State to another, and
+some subset of that group might do so while infected with
+OF HEALTH AND HUMAN SERVS.
+Per Curiam
+COVID–19. See 86 Fed. Reg. 43248–43249. This down-
+stream connection between eviction and the interstate
+spread of disease is markedly different from the direct tar-
+geting of disease that characterizes the measures identified
+in the statute. Reading both sentences together, rather
+than the first in isolation, it is a stretch to maintain that
+§ 361(a) gives the CDC the authority to impose this eviction
+moratorium.
+Even if the text were ambiguous, the sheer scope of the
+CDC's claimed authority under § 361(a) would counsel
+against the Government's interpretation. We expect Con-
+gress to speak clearly when authorizing an agency to exer-
+cise powers of “vast `economic and political significance.' ”
+Utility Air Regulatory Group v. EPA, 573 U. S. 302, 324
+(2014) (quoting FDA v. Brown & Williamson Tobacco Corp.,
+529 U. S. 120, 160 (2000)). That is exactly the kind of power
+that the CDC claims here. At least 80% of the country, in-
+cluding between 6 and 17 million tenants at risk of eviction,
+falls within the moratorium. See Response in Opposition
+26, 29. While the parties dispute the financial burden on
+landlords, Congress has provided nearly $50 billion in emer-
+gency rental assistance—a reasonable proxy of the moratori-
+um's economic impact. See 86 Fed. Reg. 43247. And the
+issues at stake are not merely financial. The moratorium
+intrudes into an area that is the particular domain of state
+law: the landlord-tenant relationship. See Lindsey v. Nor-
+met, 405 U. S. 56, 68–69 (1972). “Our precedents require
+Congress to enact exceedingly clear language if it wishes to
+significantly alter the balance between federal and state
+power and the power of the Government over private prop-
+erty.” United States Forest Service v. Cowpasture River
+Preservation Assn., 590 U. S. 604, 621–622 (2020).
+Indeed, the Government's read of § 361(a) would give the
+CDC a breathtaking amount of authority. It is hard to see
+what measures this interpretation would place outside the
+CDC's reach, and the Government has identified no limit in
+§ 361(a) beyond the requirement that the CDC deem a meas-
+ure “necessary.” 42 U. S. C. § 264(a); 42 CFR § 70.2. Could
+the CDC, for example, mandate free grocery delivery to the
+homes of the sick or vulnerable? Require manufacturers to
+provide free computers to enable people to work from home?
+Order telecommunications companies to provide free high-
+speed Internet service to facilitate remote work?
+This claim of expansive authority under § 361(a) is unprec-
+edented. Since that provision's enactment in 1944, no regu-
+lation premised on it has even begun to approach the size or
+scope of the eviction moratorium. And it is further ampli-
+fed by the CDC's decision to impose criminal penalties of up
+to a $250,000 fne and one year in jail on those who violate
+the moratorium. See 86 Fed. Reg. 43252; 42 CFR § 70.18(a).
+Section 361(a) is a wafer-thin reed on which to rest such
+sweeping power.
+B
+The equities do not justify depriving the applicants of the
+District Court's judgment in their favor. The moratorium
+has put the applicants, along with millions of landlords across
+the country, at risk of irreparable harm by depriving them
+of rent payments with no guarantee of eventual recovery.
+Despite the CDC's determination that landlords should bear
+a significant financial cost of the pandemic, many landlords
+have modest means. And preventing them from evicting
+tenants who breach their leases intrudes on one of the most
+fundamental elements of property ownership—the right to
+exclude. See Loretto v. Teleprompter Manhattan CATV
+Corp., 458 U. S. 419, 435 (1982).
+As harm to the applicants has increased, the Government's
+interests have decreased. Since the District Court entered
+its stay, the Government has had three additional months to
+distribute rental-assistance funds to help ease the transition
+away from the moratorium. Whatever interest the Govern-

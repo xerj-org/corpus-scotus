@@ -1,0 +1,111 @@
+Hemphill v. New York — No. 20-637 — October Term 2021 — decided 1/20/22 — Alito, J., concurring
+Citation: 595 U.S. 140
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r9_5iek.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+criminal defendant presents different issues that are not be-
+fore this Court. 5
+* * *
+The Confrontation Clause requires that the reliability and
+veracity of the evidence against a criminal defendant be tes-
+ted by cross-examination, not determined by a trial court.
+The trial court's admission of unconfronted testimonial hear-
+say over Hemphill's objection, on the view that it was
+reasonably necessary to correct Hemphill's misleading argu-
+ment, violated that fundamental guarantee. The judgment
+of the New York Court of Appeals is reversed, and the case
+is remanded for further proceedings not inconsistent with
+this opinion.
+It is so ordered.
+Justice Alito , with whom Justice Kavanaugh joins,
+concurring.
+I agree with the Court's conclusion that—assuming
+Morris's statement was testimonial—its admission violated
+the Confrontation Clause of the Sixth Amendment. I write
+separately to address the conditions under which a defendant
+can be deemed to have validly waived the right to confront
+adverse witnesses.
+“The question of a waiver of a federally guaranteed consti-
+tutional right is, of course, a federal question controlled by
+federal law.” Brookhart v. Janis, 384 U. S. 1, 4 (1966).
+Waiver consists in the “intentional relinquishment or aban-
+donment of a known right or privilege.” Johnson v. Zerbst,
+5 The State also asks this Court to hold the constitutional error in this
+case harmless beyond a reasonable doubt, see Chapman v. California, 386
+U. S. 18, 24 (1967), citing what it calls “substantial independent evidence
+of [Hemphill's] guilt,” Brief for Respondent 49. It offers no reason, how-
+ever, for the Court to depart from its “general custom of allowing state
+courts initially to assess the effect of erroneously admitted evidence in
+light of substantive state criminal law.” Lilly v. Virginia, 527 U. S. 116,
+139 (1999).
+304 U. S. 458, 464 (1938). But a valid waiver need not be
+express. Implied waiver can be established through “ `a
+course of conduct' ” even “absent formal or express state-
+ments of waiver.” Berghuis v. Thompkins, 560 U. S. 370,
+383–384 (2010) (quoting North Carolina v. Butler, 441 U. S.
+369, 373 (1979)). In the prototypical case of implied waiver,
+the relevant course of conduct signals an intention to relin-
+quish the right at issue. But “[a]s a general proposition, the
+law can presume that an individual who, with a full under-
+standing of his or her rights, acts in a manner inconsistent
+with their exercise has made a deliberate choice to relinquish
+the protection those rights afford.” Berghuis, 560 U. S.,
+at 385.
+Our precedents establish that a defendant can impliedly
+waive the Sixth Amendment right to confront adverse wit-
+nesses through conduct.* The cause of implied waiver can
+be a “failure to object to the offending evidence” in accord-
+ance with the procedural standards fxed by state law.
+Melendez-Diaz v. Massachusetts, 557 U. S. 305, 314, n. 3
+(2009). But implied waiver can also occur when a defendant
+engages in a course of conduct that is incompatible with a
+demand to confront adverse witnesses. In Illinois v. Allen,
+397 U. S. 337 (1970), for instance, we held that a defendant
+may relinquish his right to confront adverse witnesses by
+“conducting himself in a manner so disorderly, disruptive,
+and disrespectful of the court that his trial cannot be carried
+on with him in the courtroom.” Id., at 343.
+The problem with the New York rule at issue in this case
+is that its application is predicated on neither conduct evinc-
+*The conduct relevant to waiver may be the defendant's or that of trial
+counsel. As a rule, for decisions “pertaining to the conduct of the trial,
+the defendant is `deemed bound by the acts of his lawyer-agent' ” and
+charged with the knowledge of trial counsel. New York v. Hill, 528 U. S.
+110, 115 (2000) (quoting Link v. Wabash R. Co., 370 U. S. 626, 634 (1962)).
+The exceptions to this rule are few, and they do not encompass decisions
+regarding what arguments to pursue at trial. See Hill, 528 U. S., at 115.
+ing intent to relinquish the right of confrontation nor action
+inconsistent with the assertion of that right. The introduc-
+tion of evidence that is misleading as to the real facts does
+not, in itself, indicate a decision regarding whether any given
+declarant should be subjected to cross-examination. Nor is
+that kind of maneuver inconsistent with the assertion of the
+right to confront a declarant whose out-of-court statements
+could potentially set the record straight.
+There are other circumstances, however, under which a
+defendant's introduction of evidence may be regarded as an
+implicit waiver of the right to object to the prosecution's use
+of evidence that might otherwise be barred by the Confron-
+tation Clause. Under the traditional rule of completeness,
+if a party introduces all or part of a declarant's statement,
+the opposing party is entitled to introduce the remainder of
+that statement or another related statement by the same de-
+clarant, regardless of whether the statement is testimonial
+or there was a prior opportunity to confront the declarant.
+See, e. g., 1 B. Bergman, N. Hollander, & T. Duncan, Whar-
+ton's Criminal Evidence § 4:10 (15th ed. 1997) (explaining rule
+of completeness and collecting cases); Fed. Rule Evid. 106
+(partially codifying rule of completeness with respect to
+writings and recorded statements).
+The rule of completeness fts comfortably within the con-
+cept of implied waiver. By introducing part or all of a state-
+ment made by an unavailable declarant, a defendant has
+made a knowing and voluntary decision to permit that de-
+clarant to appear as an unconfronted witness. As a result,
+the defendant cannot consistently maintain that the remain-
+der of the declarant's statement or the declarant's other
+statements on the same subject should not be admitted due
+to the impossibility of cross-examining that declarant. The
+defendant's decision to present the statement of an unavail-
+able declarant is inconsistent with the simultaneous asser-
+tion of the Sixth Amendment right to subject that declarant
+to cross-examination.

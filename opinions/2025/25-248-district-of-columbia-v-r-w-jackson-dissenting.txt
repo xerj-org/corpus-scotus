@@ -1,0 +1,105 @@
+District of Columbia v. R.W. — No. 25-248 — October Term 2025 — decided 4/20/26 — Jackson, J., dissenting
+Citation: 608 U.S. 22
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r26_ppl4.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+605 U. S. 73, 80 (2025) (quoting Scott v. Harris, 550 U. S. 372,
+383 (2007)). There may be no “ `easy-to-apply legal test' ” or
+“ `on/off switch' ” in this context, Barnes, 605 U. S., at 80
+(quoting Scott, 550 U. S., at 382–383), but one thing is clear:
+“The `totality of the circumstances' requires courts to con-
+sider `the whole picture,' ” Wesby, 583 U. S., at 60 (quoting
+Cortez, 449 U. S., at 417). The D. C. Court of Appeals ex-
+pressly declined to do that. 334 A. 3d, at 599. It instead
+considered only the observations that “(1) it was 2:00 a.m.
+and (2) R. W. reversed a few feet in a parking spot while
+the vehicle's rear door was open.” Id., at 605. Expressly
+“excis[ed]” from its analysis was, for example, the compelling
+fact that two individuals fed the vehicle as soon as they spot-
+ted the police car. Pretending that the most revealing as-
+pect of the encounter did not happen is incompatible with
+the totality-of-the-circumstances approach required by our
+precedents.
+* * *
+The petition for certiorari and R. W.'s motion to proceed
+in forma pauperis are granted, the judgment of the District
+of Columbia Court of Appeals is reversed, and the case is
+remanded for further proceedings not inconsistent with this
+opinion.
+It is so ordered.
+Justice Sotomayor would deny the petition for a writ
+of certiorari.
+Justice Jackson, dissenting.
+The Fourth Amendment may require courts to “slosh . . .
+through a factbound morass.” Ante, at 27 (internal quota-
+tion marks omitted). It does not require readers of judicial
+opinions to do the same. Any readable analysis will, of ne-
+cessity, tick through factors, finding some weighty, others
+less so, and still others not at all, before piling them on a scale
+and assessing the result. That is what the court below did
+here, and it was right to do so. Announcing a conclusion
+without providing reasoning along the way is not helpful to
+the parties, the public, or the development of the law.
+To its credit, the Court applies a similar, factor-by-factor
+approach here. That the Court's analysis is comprehensible
+shows as much. Like the court below, the per curiam takes
+account of the facts in turn: a “late-night dispatch call about
+a suspicious vehicle”; R. W.'s companions' “unprovoked
+fight”; R. W.'s shift into reverse with a car door still ajar.
+Ante, at 26 (internal quotation marks omitted). And like
+the court below, the per curiam explains how much weight
+it assigns to each. Unprovoked fight, the Court says, is
+“certainly suggestive” of wrongdoing. Ibid. (internal quota-
+tion marks omitted). “[C]ombined” with the fight, the Court
+continues, R. W.'s abrupt reversal “strongly suggested”
+wrongdoing. Ibid. This is how courts write opinions.
+So I am not sure why our Court sees ft to intervene in
+this case, let alone to do so summarily. If the intervention
+reflects a worry that the District of Columbia Court of Ap-
+peals (DCCA) misunderstands the Fourth Amendment's
+totality-of-the-circumstances analysis, that worry seems un-
+founded. The DCCA has grasped the correct inquiry. Its
+precedents rightly observe that “[t]he issue is not whether
+any one factor individually justifies a stop, but rather
+whether `collectively' the totality of the circumstances sup-
+ports a determination that the officers had reasonable suspi-
+cion for an investigatory stop.” Parker v. United States, 333
+A. 3d 1162, 1175 (2025) (citing Mayo v. United States, 315 A.
+3d 606, 637 (2024) (en banc)); see also, e.g., Maye v. United
+States, 260 A. 3d 638, 647 (2021); Golden v. United States,
+248 A. 3d 925, 941 (2021).
+If today's decision instead reflects dissatisfaction with the
+DCCA's comment that it “ `excis[ed]' ” certain factors from its
+analysis, ante, at 26–27, I do not contest that this was poor
+word choice, see United States v. Arvizu, 534 U. S. 266, 274
+(2002) (rejecting a “divide-and-conquer analysis”). But I do
+not think that word choice reflects a methodological error.
+Courts excise facts from their analyses every day. Opinion-
+writing is an exercise in culling the irrelevant; in application,
+no “totality-of-the-circumstances” test really lives up to its
+name. Indeed, today's per curiam necessarily omits a num-
+ber of facts the Court finds insignifcant—e . g., the make and
+model of the car, the precise location of the stop, the color of
+R. W.'s friends' clothing. Though it does not say so, the
+Court “excises” those facts, too. It does not thereby misap-
+ply the Fourth Amendment.
+If, finally, the Court's decision to intervene reflects disap-
+proval of the DCCA's assessment of which particular facts to
+weigh and to what extent, I cannot fathom why that kind of
+factbound determination warranted correction by this Court.
+The DCCA assigned no weight to two facts—the dispatch
+call and the unprovoked fight. The Court does not seem
+to take issue with the first. For good reason: The DCCA
+reasonably applied our decisions explaining that an officer
+may not obtain reasonable suspicion by relying on the unsup-
+ported hunch of a fellow officer. See Whiteley v. Warden,
+Wyo. State Penitentiary , 401 U. S. 560, 568 (1971); United
+States v. Hensley, 469 U. S. 221, 232 (1985). The Court may
+be right that the second—the unprovoked fight—should
+have borne some rather than no weight. But if this context-
+specific adjustment is all the per curiam seeks to achieve, it
+does not merit the use of our summary discretion.
+Even if I would have assigned more heft to a particular
+fact in my own first-instance assessment, I would not word-
+smith a lower court in this fashion. In my view, this is not
+a worthy accomplishment for the unusual step of summary
+reversal. Therefore, I respectfully dissent.

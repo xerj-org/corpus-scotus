@@ -1,0 +1,293 @@
+United States v. Hemani — No. 24-1234 — October Term 2025 — decided 6/18/26 — THOMAS, J., concurring
+Citation: 608 U.S. 772
+Source: https://www.supremecourt.gov/opinions/25pdf/24-1234_new_6k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 24–1234
+UNITED STATES, PETITIONER v. ALI
+DANIAL HEMANI
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE FIFTH CIRCUIT
+[June 18, 2026]
+JUSTICE THOMAS, concurring.
+I agree with the Court that §922(g)(3) violates the Second
+Amendment as applied to respondent Ali Hemani, and I
+join its opinion in full. I write separately to call attention
+to another issue: As a matter of both original meaning and
+this Court’s precedents, §922(g)(3) appears to exceed Con-
+gress’s enumerated power to regulate interstate commerce.
+The statute makes it a federal crime for unlawful drug us -
+ers to possess any firearm or ammunition “in or affecting
+commerce.” 18 U. S. C. §922(g)(3).  Under the prevailing
+interpretation of §922(g)(3), the Government can secure a
+conviction for unlawful firear m possession “if the firearm
+possessed” by the drug user “had previously traveled in in-
+terstate commerce.”  United States v. Rawls, 85 F. 3d 240,
+242 (CA5 1996) ( per curiam). The Commerce Clause does
+not authorize Congress to “regulate or ban possession of any
+item that has ever been offered for sale or crossed state
+lines.” Alderman v. United States , 562 U. S. 1163, 1167
+(2011) (T HOMAS, J., dissenting from denial of certiorari).
+Such an understanding would “convert congressional au -
+thority under the Commerce Clause to a general police
+power of the sort retained by the States.” United States v.
+Lopez, 514 U. S. 549, 567 (1995).  So, while the issue was
+not presented in this case, the Court, and lower courts,
+should revisit the constitutionality of §922(g).
+
+I
+Section 922(g) criminalizes intrastate gun possession. It
+makes it a felony for enumerated categories of people to, as
+relevant here, “possess in or  affecting commerce, any fire-
+arm or ammunition.”  §922(g). In Scarborough v. United
+States, 431 U. S. 563 (1977), this Court held that materially
+identical language required—as a matter of statutory inter-
+pretation—only that “the po ssessed firearm previously
+traveled in interstate commerce.” Id., at 564, 578.  The
+courts of appeals have interpreted §922(g)’s “in or affecting
+commerce” element to likewise require only that same
+“minimal nexus” to interstate commerce. Rawls, 85 F. 3d,
+at 242–243 (citing Scarborough, 431 U. S., at 575).  In He-
+mani’s indictment, for example, the Government alleged
+only that the firearm that he possessed had “been shipped
+and transported in interstate and foreign commerce” in the
+past—even though Hemani was indicted for possessing it in
+his home in Texas.  See No. 4:23–cr–00018 (ED Tex.), ECF
+Doc. 1, p. 1; ante, at 2–3 (majority opinion).  The Govern-
+ment did not have to allege, nor would it have had to prove
+at trial, that Hemani bought the firearm from someone in
+another State or even carried it across state lines himself
+at any point. See, e .g., United States v. Ervin, 131 F. 4th
+253, 256, 260 (CA4 2025) (upholding conviction of a North
+Carolina defendant for unlawfully possessing a firearm
+manufactured in North Carolina because someone else
+brought it to another State and back to North Carolina).
+II
+Section 922(g) appears to exceed Congress’s powers un-
+der the Commerce Clause. Co ngress has the power to “reg-
+ulate Commerce . . . among the several States.” U. S.
+Const., Art. I, §8, cl. 3.  As a matter of both original meaning
+and this Court’s precedents, Congress lacks the power to
+regulate the possession of firearms solely on the ground
+that they crossed state lines at some point in the past.
+
+3  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+A
+As an original matter, the Commerce Clause authorizes
+Congress only “to regulate the buying and selling of goods
+and services trafficked across state lines.” Gonzales v.
+Raich, 545 U. S. 1, 58 (2005) (T HOMAS, J., dissenting).  It
+gives Congress no power to regulate “activities wholly sep -
+arated from business, such as gun possession.”  Lopez, 514
+U. S., at 599 (THOMAS, J., concurring).  “[T]he power to reg-
+ulate ‘commerce’ can by no means encompass authority over
+mere gun possession, any more than it empowers the Fed-
+eral Government to regulate marriage, littering, or cruelty
+to animals, throughout the 50 States.”  Id., at 585.
+Because §922(g) criminalizes possession of firearms apart
+from any purchase or sale of goods and services across state
+lines, I doubt that it could be an exercise of Congress’s Com-
+merce Clause powers as an original matter.
+B
+Section 922(g), it seems, also “cannot be reconciled” with
+this Court’s modern Commerce Clause doctrine.  Alderman,
+562 U. S., at 1166 (opinion of THOMAS, J.). Under that doc-
+trine, §922(g) must fall within one of three categories to be
+constitutional: It must either regulate “the use of the chan-
+nels of interstate commerce,”  “regulate and protect the in-
+strumentalities of interstate commerce, or persons or
+things in interstate commerce,” or regulate “activities that
+substantially affect interstate commerce.”  Lopez, 514 U. S.,
+at 558–559.
+Section 922(g) does not seem to fall within either of the
+first two categories.  It does not, as far as I can tell, regulate
+the “use of the channels of interstate commerce” because it
+criminalizes possession of a firearm within a State long af-
+ter any use of those channels.  Nor does it “regulate and
+protect the instrumentalities of interstate commerce, or
+persons or things in interstate commerce” because it re-
+quires no showing that the possession in question poses any
+
+risk to interstate buying, selling, shipping, or transporta-
+tion.
+I also doubt that §922(g) can fall within the third and
+broadest category for regulati ons of “activities that sub-
+stantially affect interstate commerce.” Id., at 559. The
+mere possession of a firearm that long ago crossed state
+lines is not “economic activity” in any sense, and the Court
+has never upheld regulation of intrastate activity that is not
+“economic in nature” under this category. United States v.
+Morrison, 529 U. S. 598, 613 (2000).  Moreover, our prece-
+dents suggest that merely possessing a gun does not have a
+“substantial effect” on interstate commerce.  Section 922(g)
+targets classes of people t hat the Government thinks
+“threaten the safety of the community” if they have weap-
+ons.  Brief for United States 10.  But, the Court has em -
+phatically rejected “the argument that Congress may regu-
+late noneconomic, violent criminal conduct based solely on
+that conduct’s aggregate effect on interstate commerce.”
+Morrison, 529 U. S., at 617.  Accordingly, in Lopez, the
+Court concluded that “possession of a gun in a local school
+zone is in no sense an economic activity that might, through
+repetition elsewhere, substantially affect any sort of inter-
+state commerce.” 514 U. S., at 567. Like the gun-posses -
+sion statute at issue in Lopez, §922(g) is not a regulation of
+economic activity, but a law to combat “crime and violence,”
+even at the local level.  Gun Control Act of 1968, Pub. L. 90–
+618, §101, 82 Stat. 1213.*
+——————
+*Gonzales v. Raich, 545 U. S. 1 (2005), cannot save §922(g), either.
+That decision recognized a further category of a law forming an “essen-
+tial par[t] of a larger regulation of economic activity.”  Id., at 24 (internal
+quotation marks omitted).  Section 922(g) is not an effort to “regulate
+purely intrastate activity” on the basis that “failure to regulate that class
+of activity would undercut the regulation of the interstate market in that
+commodity.”  Id., at 18. Preventing gun “possession by certain categories
+of dangerous persons” does not bear any rational relationship to the in -
+terstate market for guns, drugs, or anything else, nor does it purport to
+do so. Brief for United States 5 (d escribing the purpose of §922(g)).
+
+5  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+For these reasons, lower court judges have for decades
+concluded that under this Court’s precedents, §922(g) ex-
+ceeds Congress’s power to regu late interstate commerce.
+See, e.g., United States v. Chesney, 86 F. 3d 564, 574–575
+(CA6 1996) (Batchelder, J., concurring); United States v.
+Kuban, 94 F. 3d 971, 977 (CA5 1996) (DeMoss, J., dissent-
+ing); United States v. Storey, 571 F. Supp. 3d 1296, 1298
+(MD Fla. 2021) (Mizelle, J.); United States v. Seekins, 52 F.
+4th 988, 991 (CA5 2022) (Ho, J., dissenting from denial of
+rehearing en banc); United States v. Bonner, 159 F. 4th 338,
+343 (CA5 2025) (Willett, J., concurring); see also United
+States v. Patton, 451 F. 3d 615, 634 (CA10 2006)
+(McConnell, J.) (regarding an analogous restriction on pos-
+sessing body armor); United States v. Alderman, 565 F. 3d
+641, 648 (CA9 2009) (Paez, J., dissenting) (same); United
+States v. Alderman, 593 F. 3d 1141 (CA9 2010)
+(O’Scannlain, J., dissenting from denial of rehearing en
+banc) (same).
+C
+In upholding §922(g) under the Commerce Clause, the
+courts of appeals have misapprehended our precedents in
+two ways. Some have thought that Scarborough’s statutory
+holding required them to uphold §922(g)’s constitutionality.
+Others have concluded that the presence of a so-called “ju-
+risdictional hook” in §922(g) renders the statute constitu-
+tional under Lopez and Morrison. Neither rationale estab-
+lishes that §922(g) is constitutional.
+Several courts have upheld §922(g) based on this Court’s
+decision in Scarborough alone. They have understood
+——————
+Section 922(g) is what the Government has always said it is: a regulation
+to further “public safety” by preventing local gun crime.  See Gun Control
+Act, Pub. L. 90–618, §101, 82 Stat. 1213 (stating that its purpose is to
+“provide support to Federal, State, and local law enforcement officials in
+their fight against crime and violence”); accord, Brief for United States
+32; Brief for Firearms Policy Coalition as Amicus Curiae 12.
+
+Scarborough’s interpretation of the statutory “in” or “affect-
+ing commerce” requirement to establish, as a matter of Su-
+preme Court precedent, that § 922(g) is a valid exercise of
+Congress’s Commerce Clause powers in all its applications.
+Some have even suggested that they would otherwise find
+§922(g) unconstitutional. See, e.g., Rawls, 85 F. 3d, at 243
+(Garwood, J., concurring) (writing for the full panel and ex-
+plaining that Scarborough “bind[s]” the court to uphold
+§922(g)’s constitutionality even though “one might well
+wonder how it could rationally be concluded that mere pos-
+session of a firearm in any meaningful way concerns inter-
+state commerce”); United States v. Gateward, 84 F. 3d 670,
+671 (CA3 1996) (upholding the statute on the ground that
+Lopez did not abrogate Scarborough); Patton, 451 F. 3d, at
+636 (“[W]e see considerable tension between Scarborough”
+and later decisions, but “we are bound by Scarborough”).
+Those courts misread Scarborough.  The Court has never
+held that §922(g) is constitutional whenever the Scar-
+borough test is satisfied. See Alderman, 562 U. S., at 1168
+(opinion of THOMAS, J.). Scarborough’s holding “was statu-
+tory, not constitutional.”  Seekins, 52 F. 4th, at 991 (opinion
+of Ho, J.); accord, Bonner, 159 F. 4th, at 342 (Willett, J.,
+concurring); Brief for Firearms Policy Coalition as Amicus
+Curiae 13–14.  Scarborough addressed only whether “Con-
+gress intended no more than a minimal nexus requirement”
+in its statutory requirement that the firearm in question
+was received, possessed, or transported “in commerce or af-
+fecting commerce.” 431 U. S., at 564, 577 (internal quota -
+tion marks omitted).  It based its holding on the statute’s
+“language” and “legislative history,” not constitutional law.
+Id., at 575. Scarborough cannot be taken, by this Court or
+the courts of appeals, as purporting to settle the question of
+§922(g)’s constitutionality. See United States v. L. A.
+Tucker Truck Lines, Inc., 344 U. S. 33, 38 (1952) (explaining
+that holdings of this Court cannot be gleaned from issues
+not “discussed in the opinion of the Court”).
+
+7  Cite as: 608 U. S. ____ (2026)
+THOMAS, J., concurring
+Other courts have upheld §922(g)’s constitutionality
+solely on the ground that it has a “jurisdictional hook” pur-
+porting to connect the offense to interstate commerce.  E.g.,
+United States v. McAllister, 77 F. 3d 387, 389–390 (CA11
+1996); United States v. Dorris, 236 F. 3d 582, 585–586
+(CA10 2000); United States v. Lemons, 302 F. 3d 769, 772
+(CA7 2002); United States v. Smith, 101 F. 3d 202, 215 (CA1
+1996); United States v. Hanna, 55 F. 3d 1456, 1462, n. 2
+(CA9 1995); United States v. Singletary, 268 F. 3d 196, 204
+(CA3 2001). Under Scarborough, §922(g) requires that the
+firearm at some point traveled across state lines.  This ju-
+risdictional element, these courts say, itself shows a suffi-
+cient “nexus with interstate commerce.” United States v.
+Bell, 70 F. 3d 495, 498 (CA7 1995); accord, e.g., Rawls, 85
+F. 3d, at 242–243; United States v. Bolton, 68 F. 3d 396, 400
+(CA10 1995). And, on this view, the “jurisdictional element”
+in §922(g) “distinguishes it from the statutes considered in
+Lopez and Morrison,” which lacked such a hook.  Singletary,
+268 F. 3d, at 204.
+This justification, too, appears to conflict with our prece-
+dents. Congress cannot regulate the possession of every
+thing that ever traveled across state lines.  Alderman, 562
+U. S., at 1167 (opinion of THOMAS, J.).  As a statutory mat-
+ter, Congress required no more.  But, treating Congress’s
+“jurisdictional element” as dispositive “could very well re-
+move any limit on the commerce power” and “would tres -
+pass on traditional state police powers.” Ibid.  It would also
+render meaningless this Court’s decisions requiring that
+exercises of the commerce powe r fit within defined catego-
+ries. Morrison, 529 U. S., at 608–609.
+ Nothing in Lopez or Morrison suggests anything to the
+contrary.  Lopez considered a jurisdictional hook helpful
+only if it “would ensure, through case-by-case inquiry, that
+the firearm possession in question affects interstate com-
+merce.” 514 U. S., at 561.  But, as explained, §922(g)’s bare
+requirement that the firearm previously traveled across
+
+state lines does not ensure that the firearm possession in
+question affects interstate commerce: Mere possession of a
+firearm does not necessarily affect commerce at all.  Morri-
+son also said that a jurisdictional hook could help show that
+the statute “is in pursuance of Congress’ power to regulate
+interstate commerce.” 529 U. S., at 613.  But, the fact that
+§922(g) purports to be an exercise of Congress’s Commerce
+Clause powers does not mean that it falls within the legiti-
+mate scope of those powers.
+III
+Under our Constitution, “[t]he  powers of the legislature
+are defined, and limited; and that those limits may not be
+mistaken, or forgotten, the constitution is written.”  Mar-
+bury v. Madison, 1 Cranch 137, 176 (1803).  It has now been
+26 years since a party has received relief in this Court based
+on a Commerce Clause challenge. Such relief has also been
+hard to come by in the lower courts, as the decisions con-
+cerning §922(g) show. This question merits a closer look in
+an appropriate case.  For, like Judge Batchelder, “I . . . am
+unprepared to reduce the Supreme Court’s Lopez decision
+to an anachronism to be noted in passing but ignored.  Con-
+gress’s enumerated powers, like Supreme Court opinions
+setting forth their limits, are, in my view, to be taken seri-
+ously.” Chesney, 86 F. 3d, at 580 (concurring opinion).

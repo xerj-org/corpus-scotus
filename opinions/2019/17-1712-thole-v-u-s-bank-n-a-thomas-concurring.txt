@@ -1,0 +1,75 @@
+Thole v. U. S. Bank N. A. — No. 17-1712 — October Term 2019 — decided 6/01/20 — Thomas, J., concurring
+Citation: 590 U.S. 538
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/590US2PP_web.pdf#page=126 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+Courts sometimes make standing law more complicated
+than it needs to be. There is no ERISA exception to Arti-
+cle III. And under ordinary Article III standing analysis,
+the plaintiffs lack Article III standing for a simple, common-
+sense reason: They have received all of their vested pension
+benefits so far, and they are legally entitled to receive the
+same monthly payments for the rest of their lives. Winning
+or losing this suit would not change the plaintiffs' monthly
+pension benefits. The plaintiffs have no concrete stake in
+this dispute and therefore lack Article III standing. We af-
+frm the judgment of the U. S. Court of Appeals for the
+Eighth Circuit.
+It is so ordered.
+Justice Thomas, with whom Justice Gorsuch joins,
+concurring.
+I agree with the Court's opinion, which correctly applies
+our precedents and concludes that petitioners lack standing.
+I also agree that “[c]ourts sometimes make standing law
+more complicated than it needs to be.” Ante, at 547. I
+write separately to observe that by requiring us to engage
+with petitioners' analogies to trust law, our precedents un-
+necessarily complicate this case.
+The historical restrictions on standing provide a simpler
+framework. Article III vests “[t]he judicial Power of the
+United States” in the federal courts and specifies that it shall
+extend to enumerated categories of “Cases” and “Controver-
+sies.” §§ 1, 2. “To understand the limits that standing im-
+poses on `the judicial Power,' . . . we must `refer directly to
+the traditional, fundamental limitations upon the powers
+of common-law courts.' ” Spokeo, Inc. v. Robins, 578 U. S.
+330, 344 (2016) (Thomas, J., concurring) (quoting Honig v.
+Doe, 484 U. S. 305, 340 (1988) (Scalia, J., dissenting)); see also
+Muskrat v. United States, 219 U. S. 346, 356–357 (1911) (ob-
+serving that the “judicial power with the right to determine
+`cases' and `controversies' ” has long referred to “suit[s] insti-
+tuted according to the regular course of judicial procedure”).
+“Common-law courts imposed different limitations on a
+plaintiff's right to bring suit depending on the type of right
+the plaintiff sought to vindicate.” Spokeo, 578 U. S., at 344
+(Thomas, J., concurring). Rights were typically divided
+into private rights and public rights. Private rights are
+those “ `belonging to individuals, considered as individuals.' ”
+Ibid. (quoting 3 W. Blackstone, Commentaries *2); see also
+Woolhandler & Nelson, Does History Defeat Standing Doc-
+trine? 102 Mich. L. Rev. 689, 693 (2004). Public rights are
+“owed `to the whole community, considered as a community,
+in its social aggregate capacity.' ” Spokeo, supra, at 345
+(Thomas, J., concurring) (quoting 4 Blackstone, supra, at *5);
+see also Woolhandler & Nelson, supra, at 693.
+Petitioners claim violations of private rights under the
+Employee Retirement Income Security Act of 1974 (ERISA).
+“In a suit for the violation of a private right, courts histori-
+cally presumed that the plaintiff suffered a de facto injury
+[if] his personal, legal rights [were] invaded.” Spokeo,
+supra, at 344 (Thomas, J., concurring). In this case, how-
+ever, none of the rights identified by petitioners belong to
+them. The fduciary duties created by ERISA are owed
+to the plan, not petitioners. See 29 U. S. C. §§ 1104(a)(1),
+1105(a), 1106(a)(1), 1106(b), 1109(a). As participants in a de-
+fined benefit plan, petitioners have no legal or equitable own-
+ership interest in the plan assets. See ante, at 543. There
+has been no assignment of the plan's rights by ERISA or
+any contract. See ante, at 543–544. And petitioners can-
+not rely on ERISA § 502(a). Although it establishes certain
+causes of action, it creates no private right. See § 1132(a).
+There is thus no need to analogize petitioners' complaint
+to trust law actions, derivative actions, qui tam actions, or
+anything else. We need only recognize that the private
+rights that were allegedly violated do not belong to petition-
+ers under ERISA or any contract.

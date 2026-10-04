@@ -1,0 +1,106 @@
+Johnson v. Arteaga-Martinez — No. 19-896 — October Term 2021 — decided 6/13/22 — Thomas, J., concurring
+Citation: 596 U.S. 573
+Source: https://www.supremecourt.gov/opinions/21pdf/596us2r40_2d93.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Arteaga-Martinez also advances an alternative theory that
+he is presumptively entitled to release under Zadvydas be-
+cause, in view of the length of time that withholding-only
+proceedings tend to take, his removal is not reasonably fore-
+seeable. See Brief for Respondent 19–22. The Govern-
+ment disagrees on the merits and adds that the issue is not
+properly before this Court because it would alter the scope
+of the judgment below, which granted Arteaga-Martinez a
+bond hearing, not release. See Reply Brief 11–12 (citing
+Trans World Airlines, Inc. v. Thurston, 469 U. S. 111, 119,
+n. 14 (1985)). Again, we decline to reach this claim in the
+first instance. See Cutter, 544 U. S., at 718, n. 7.
+* * *
+The judgment of the Court of Appeals for the Third Cir-
+cuit is reversed, and the case is remanded for further pro-
+ceedings consistent with this opinion.
+It is so ordered.
+Justice Thomas, with whom Justice Gorsuch joins as
+to Part I, concurring.
+I join the Court's opinion because it correctly decides that
+8 U. S. C. § 1231(a)(6) does not require periodic, 6-month bond
+hearings. I write separately to make three points.
+I
+First, we lack jurisdiction to hear this case. Under 8
+U. S. C. § 1252(b)(9), a federal court has jurisdiction to review
+“questions of law and fact . . . arising from any action taken
+or proceeding brought to remove an alien . . . only” in two
+circumstances: (1) when the court reviews a “final order” of
+removal, or (2) when § 1252 otherwise grants jurisdiction.
+See, e. g., Johnson v. Guzman Chavez, 594 U. S. –––, –––
+(2021) (Thomas, J ., concurring in part and concurring in
+judgment); Jennings v. Rodriguez, 583 U. S. –––, ––– – –––
+(2018) (same). This jurisdictional zipper clause “cover[s] all
+claims related to removal proceedings,” including detention-
+related “withholding-of-removal claims.” Guzman Chavez,
+594 U. S., at ––– (internal quotation marks omitted); see also
+Jennings, 583 U. S., at ––– – –––.
+Because Arteaga-Martinez does not seek review of a final
+removal order or otherwise invoke § 1252, and because his
+claim “aris[es] from” his removal proceedings, I would vacate
+and remand with instructions to dismiss for lack of jurisdic-
+tion. Nonetheless, “because the Court has held that we
+have jurisdiction in cases like these and the Court's opinion
+is otherwise correct,” I join it in full. Guzman Chavez, 594
+U. S., at ––– (internal quotation marks omitted).
+II
+Second, as I have explained elsewhere, there is consider-
+able historical evidence that the Due Process Clause does not
+“apply to laws governing the removal of aliens.” Sessions
+v. Dimaya, 584 U. S. –––, ––– (2018) (dissenting opinion).
+But even assuming the Due Process Clause extends to some
+aliens contesting their removability, it does not protect from
+detention an alien who, like Arteaga-Martinez, does not chal-
+lenge his final removal order. Illegal aliens deemed remov-
+able have no “right of release into this country.” Zadvydas
+v. Davis, 533 U. S. 678, 703 (2001) (Scalia, J., dissenting). Al-
+though the Court properly declines to decide Arteaga-
+Martinez's due process claim, see ante, at 583, we should re-
+visit whether the Due Process Clause applies at all in this
+context.
+III
+Third, this case illustrates why we should overrule
+Zadvydas at the earliest opportunity. There, the Court held
+that § 1231(a)(6) “would raise a serious constitutional prob-
+lem” under the Fifth Amendment if it permitted “indefinite
+detention of an alien.” 533 U. S., at 690. To avoid that sup-
+posed “problem,” the Court deemed “ambiguous” the statu-
+tory authorization that a removable alien “may be detained
+beyond the removal period,” and then, clothed in constitu-
+tional garb, invoked that manufactured ambiguity to graft a
+made-up rule onto § 1231(a)(6). Id., at 697. Namely, the
+Court decided that immigration authorities can detain an
+alien only long enough to accomplish the “basic purpose [of]
+effectuating an alien's removal” and must release him “once
+removal is no longer reasonably foreseeable.” Id., at 697, 699.
+The “presumptively reasonable” detention period, the Court
+declared, was six months. Id., at 701. The Court offered
+no textual support for that (or any) length of time. See ibid.
+As we later implied in Jennings, the constitutional-
+avoidance canon cannot justify adoption of such an implausi-
+ble construction of § 1231(a)(6). See 583 U. S., at –––. And,
+until we overrule Zadvydas, it will continue to invite nothing
+but mischief. An ill-defned, quasi-constitutional command
+of “reasonableness” inevitably encourages courts to fashion
+procedural rules with no basis in statutory text. We con-
+fronted that mischief in Jennings, see 583 U. S., at ––– (re-
+versing the Ninth Circuit for “all but ignor[ing] the statutory
+text” and instead “read[ing] Zadvydas . . . as essentially
+granting a license to graft a time limit onto the text of
+§ 1225(b)”), and we do so again today, compare ante, at 582,
+with Guerrero-Sanchez v. Warden York County Prison, 905
+F. 3d 208, 223 (CA3 2018). We will be forced to engage in
+this jurisprudential whack-a-mole until we recognize that
+Zadvydas was wrong the day it was decided and thus does
+not warrant “stare decisis effect.” Clark v. Martinez, 543
+U. S. 371, 401 (2005) (Thomas, J., dissenting); see also Gam-
+ble v. United States, 587 U. S. –––, ––– (2019) (Thomas, J.,
+concurring) (“[W]e should not invoke stare decisis to uphold
+precedents that are demonstrably erroneous”).
+* * *
+These three points notwithstanding, the Court's opinion
+correctly interprets § 1231(a)(6). Accordingly, I concur.

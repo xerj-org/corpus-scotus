@@ -1,0 +1,73 @@
+New York State Rifle & Pistol Assn., Inc. v. Bruen — No. 20-843 — October Term 2021 — decided 6/23/22 — Barrett, J., concurring
+Citation: 597 U.S. 1
+Source: https://www.supremecourt.gov/opinions/21pdf/597us1r54_7648.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+“Like most rights, the right secured by the Second
+Amendment is not unlimited. From Blackstone
+through the 19th-century cases, commentators and
+courts routinely explained that the right was not a right
+to keep and carry any weapon whatsoever in any man-
+ner whatsoever and for whatever purpose. . . . [N]oth-
+ing in our opinion should be taken to cast doubt on long-
+standing prohibitions on the possession of firearms by
+felons and the mentally ill, or laws forbidding the carry-
+ing of firearms in sensitive places such as schools and
+government buildings, or laws imposing conditions and
+qualifications on the commercial sale of arms. [Foot-
+note 26: We identify these presumptively lawful regula-
+tory measures only as examples; our list does not pur-
+port to be exhaustive.]
+“We also recognize another important limitation on
+the right to keep and carry arms. Miller said, as we
+have explained, that the sorts of weapons protected
+were those in common use at the time. We think that
+limitation is fairly supported by the historical tradition
+of prohibiting the carrying of dangerous and unusual
+weapons.” Heller, 554 U. S., at 626−627, and n. 26 (cita-
+tions and quotation marks omitted); see also McDonald,
+561 U. S., at 786 (plurality opinion).
+* * *
+With those additional comments, I join the opinion of the
+Court.
+Justice Barrett, concurring.
+I join the Court's opinion in full. I write separately to
+highlight two methodological points that the Court does not
+resolve. First, the Court does not conclusively determine
+the manner and circumstances in which postratification prac-
+tice may bear on the original meaning of the Constitution.
+See ante, at 33–38. Scholars have proposed competing and
+potentially conflicting frameworks for this analysis, including
+liquidation, tradition, and precedent. See, e. g., Nelson,
+Originalism and Interpretive Conventions, 70 U. Chi. L. Rev.
+519 (2003); McConnell, Time, Institutions, and Interpreta-
+tion, 95 B. U. L. Rev. 1745 (2015). The limits on the permis-
+sible use of history may vary between these frameworks (and
+between different articulations of each one). To name just
+a few unsettled questions: How long after ratification may
+subsequent practice illuminate original public meaning? Cf.
+McCulloch v. Maryland, 4 Wheat. 316, 401 (1819) (citing
+practice “introduced at a very early period of our history”).
+What form must practice take to carry weight in constitu-
+tional analysis? See Myers v. United States, 272 U. S. 52,
+175 (1926) (citing a “legislative exposition of the Constitution
+. . . acquiesced in for a long term of years”). And may prac-
+tice settle the meaning of individual rights as well as struc-
+tural provisions? See Baude, Constitutional Liquidation, 71
+Stan. L. Rev. 1, 49–51 (2019) (canvassing arguments). The
+historical inquiry presented in this case does not require us
+to answer such questions, which might make a difference in
+another case. See ante, at 26–28.
+Second and relatedly, the Court avoids another “ongoing
+scholarly debate on whether courts should primarily rely on
+the prevailing understanding of an individual right when the
+Fourteenth Amendment was ratified in 1868” or when the
+Bill of Rights was ratified in 1791. Ante, at 37. Here, the
+lack of support for New York's law in either period makes
+it unnecessary to choose between them. But if 1791 is the
+benchmark, then New York's appeals to Reconstruction-era
+history would fail for the independent reason that this evi-
+dence is simply too late (in addition to too little). Cf. Es-
+pinoza v. Montana Dept. of Revenue , 591 U. S. –––, ––– – –––
+(2020) (a practice that “arose in the second half of the 19th
+century . . . cannot by itself establish an early American tra-
+dition” informing our understanding of the First Amend-

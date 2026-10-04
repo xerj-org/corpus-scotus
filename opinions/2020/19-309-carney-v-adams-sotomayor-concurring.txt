@@ -1,0 +1,79 @@
+Carney v. Adams — No. 19-309 — October Term 2020 — decided 12/10/20 — Sotomayor, J., concurring
+Citation: 592 U.S. 53
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=93 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+they had applied in the past, there were regular opportuni-
+ties available with relevant frequency, and they were “able
+and ready” to apply for them.
+By way of contrast, our precedents have also said that a
+plaintiff need not “translat[e]” his or her “desire for a job . . .
+into a formal application” where that application would be
+merely a “futile gesture.” Teamsters v. United States, 431
+U. S. 324, 365–366 (1977); see also Sporhase v. Nebraska ex
+rel. Douglas, 458 U. S. 941, 944, n. 2 (1982). And we have
+said that an “aggrieved party `need not allege that he would
+have obtained the benefit but for the [unlawful] barrier
+in order to establish standing.' ” Adarand Constructors,
+supra, at 211; see also Gratz, supra, at 262; Associated Gen.
+Contractors, supra, at 666. We do not here depart from or
+modify these or any other of the precedents to which we
+have referred.
+Rather, our holding follows from a straightforward appli-
+cation of precedent to the particular summary judgment rec-
+ord before us. And, as we have explained, in the context
+set forth by the evidence, Adams has not shown that he was
+“able and ready” to apply in the imminent future. Conse-
+quently, he has failed to show that “personal,” “concrete,” and
+“imminent” injury upon which our standing precedents insist.
+For these reasons, we reverse the Third Circuit's decision
+in respect to standing, vacate the judgment, and remand
+with instructions to dismiss the case.
+It is so ordered.
+Justice Barrett took no part in the consideration or de-
+cision of this case.
+Justice Sotomayor, concurring.
+I agree that respondent Adams did not demonstrate Arti-
+cle III standing to bring this suit. Because the constitu-
+tional questions in this case will likely be raised again, I
+write separately to highlight two important considerations
+that may inform their answers.
+First, there are potentially material differences between
+two separate rules the Delaware Constitution imposes on its
+courts: the “major party” requirement and the “bare major-
+ity” requirement. Bare majority requirements preclude any
+single political party from having more than a bare majority
+of the seats in a public body. Such requirements have ex-
+isted in various forums for roughly 150 years, currently fea-
+ture in a large number of public bodies, and have been shown
+to help achieve ideological diversity. Major party require-
+ments like Delaware's, by contrast, preclude anyone who is
+not a member of the two major political parties from serving
+in a public body. They are far rarer than their bare majority
+cousins, and they arguably impose a greater burden on First
+Amendment associational rights. These differences may re-
+quire distinct constitutional analyses.
+Second, that possibility, in turn, raises the question
+whether Delaware's major party and bare majority require-
+ments are severable from one another, such that one require-
+ment could remain even if the other were constitutionally
+unenforceable. It is worth noting that federal courts are not
+ideally positioned to address such a sensitive issue of state
+constitutional law. They may therefore be well advised to
+consider certifying such a question to the State's highest
+court. See Leavitt v. Jane L., 518 U. S. 137, 139 (1996) (per
+curiam) (“Severability [of a state statute] is of course a mat-
+ter of state law”); Hooper v. Bernalillo County Assessor , 472
+U. S. 612, 624 (1985) (“It is for the New Mexico courts to
+decide, as a matter of state law, whether the state legislature
+would have enacted the statute without the invalid portion”);
+see also Arizonans for Official English v. Arizona, 520 U. S.
+43, 77 (1997) (encouraging certifcation of “novel or unsettled
+questions of state law” to “hel[p] build a cooperative judicial
+federalism” (internal quotation marks omitted; alteration in
+original)); Elkins v. Moreno, 435 U. S. 647, 662, n. 16 (1978)
+(certifying a question of state law sua sponte because it was
+“one in which state governments have the highest interest”).
+Certifcation may be especially warranted in a case such as
+this, where invalidating a state constitutional provision
+would affect the structure of one of the State's three major
+branches of government.

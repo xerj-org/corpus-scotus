@@ -1,0 +1,184 @@
+Case v. Montana — No. 24-624 — October Term 2025 — decided 1/14/26 — Sotomayor, J., concurring
+Citation: 607 U.S. 107
+Source: https://www.supremecourt.gov/opinions/25pdf/607us1r06_19m1.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+cers would have gone into Case's home just so he could insti-
+gate a gunfght. The circumstances making their entry rea-
+sonable, as just stated, were those suggesting that Case may
+already have shot himself or would do so absent interven-
+tion. The statements Case made to J. H. plus the visual
+evidence corroborating them indicated that Case wanted to
+end his life. The decision of the officers to enter his home
+to prevent that result—even at some significant risk to
+themselves—was (at the least) reasonable. The Fourth
+Amendment did not require them, as Case now argues, to
+leave him to his fate.
+* * *
+We repeat today what we have held before: An officer may
+enter a home without a warrant if he has “an objectively
+reasonable basis for believing that an occupant is seriously
+injured or imminently threatened with such injury.” Brig-
+ham City, 547 U. S., at 400. The officers' entry satisfied that
+test. Accordingly, we affirm the judgment (even though not
+all the reasoning) of the Montana Supreme Court.
+It is so ordered.
+Justice Sotomayor, concurring.
+I join the Court's opinion, which holds that police officers
+may enter a home without a warrant if they have an “ `objec-
+tively reasonable basis for believing' ” that an occupant is
+seriously injured or imminently threatened with such harm.
+Ante, at 114, 116, and this page. Although the Montana Su-
+preme Court's opinion appeared, erroneously, to apply a
+lower standard akin to reasonable suspicion, I agree that the
+officers here had an “ `objectively reasonable basis for believ-
+ing' ” that Case needed emergency assistance because he
+may have already shot himself or was imminently going to
+do so. Ante, at 116–118 and this page.
+I write separately to underscore the unique considerations
+that law enforcement and courts should bear in mind when
+assessing whether there is an “objectively reasonable basis
+to believe” that a person experiencing a mental-health crisis
+needs law enforcement to “render emergency assistance.”
+Brigham City v. Stuart, 547 U. S. 398, 403 (2006). As Brig-
+ham City explained, the “ `justification for what would be
+otherwise' ” an illegal warrantless entry of a home in this
+context is “ `[t]he need to protect or preserve life or avoid
+serious injury.' ” Ibid. (quoting Mincey v. Arizona, 437
+U. S. 385, 392 (1978)). The officers in Brigham City , for in-
+stance, needed to enter the house to break up an ongoing
+fight to protect a person whom they saw through a window
+being struck in the face and to prevent further violence.
+547 U. S., at 406. When an officer is called to respond to a
+person at risk of suicide, however, entering the house may
+not always be the objectively reasonable course of action to
+“ `preserve life or avoid serious injury.' ” Id., at 403 (quoting
+Mincey, 437 U. S., at 392).
+In these kinds of circumstances, the presence of law en-
+forcement at times can escalate the situation rather that
+ameliorate it, putting both the occupant and the officers in
+danger. See, e. g., Chamberlain v. White Plains, 960 F. 3d
+100, 101–104, 108 (CA2 2020) (officers repeatedly attempted
+entry of the home of a person with a known “history of men-
+tal illness,” eventually shooting and killing the occupant
+after he repeatedly said he was “ `okay' ” and officers saw he
+did not need medical attention); Bailey v. Kennedy, 349 F. 3d
+731, 734–736, 744 (CA4 2003) (officers attempted to enter
+house based on a neighbor's report of suicide, eventually
+kicking and striking occupant to arrest him, despite occupant
+telling the officers that he was not suicidal and that they
+should leave). The risk of escalation is also heightened by
+the prevalence of firearms in nearly half of American house-
+holds.1 Police may employ more forceful tactics when they
+1 In 2025, 42% of Americans reported living in a gun-owning household.
+Gallup, Guns, https://news.gallup.com/poll/1645/guns.aspx (archived at
+https://perma.cc/G76N-5T7Z.
+know a firearm is in the house, and an occupant who is expe-
+riencing an acute mental-health crisis may react more unpre-
+dictably in response. See, e. g., Corrigan v. District of Co-
+lumbia, 841 F. 3d 1022, 1025–1028 (CADC 2016) (despite
+occupant voluntarily meeting the police outside and disclaim-
+ing any intention to harm himself, the officers triggered
+occupant's posttraumatic stress disorder after kicking his
+door and searching his house, based on report that he was
+suicidal and owned firearms); Frazier v. Miller, 404 Mont. 1,
+484 P. 3d 912, 916 (2021) (occupant initially told police he was
+“ `fne' ” and to “go away” but drew pistol to his own head
+when the officer continued to attempt entry, leading the off-
+cer to draw his gun in response and eventually shoot the
+occupant).
+Studies show that individuals with serious mental-health
+conditions are disproportionately likely to be injured and
+seven times more likely to be killed during police interac-
+tions compared to the general population. 2 One report
+showed that over a 2-year period, “calls for help resulted in
+law enforcement officers shooting and killing the very people
+they were called on to assist” in 178 cases. 3 Another study
+found that police shooting incidents involving behavioral
+health concerns (suicidal behavior, substance use, or serious
+mental illness) were 2.1 times more likely to result in fatal
+injury than other police shooting incidents. 4 Further, indi-
+viduals with a mental illness were “2.8 times more likely” to
+2 See H. Jun, J. DeVylder, & L. Fedina, Police Violence Among Adults
+Diagnosed With Mental Disorders, 45 Health & Soc. Work 81 (May 2020);
+A. Saleh, P. Applebaum, X. Liu, T. Stroup, & M. Wall, Deaths of People
+With Mental Illness During Interactions With Law Enforcement, 58 Int'l
+J. L. & Psychiatry 110, 114 (May-June 2018) (Saleh).
+3 J. Gerberg & A. Li, When a Call to the Police for Help Turns Deadly,
+Washington Post, June 22, 2022, https://www.washingtonpost.com /
+investigations/interactive/2022/police-shootings-mental-health-calls/.
+4 J. Ward et al., National Burden of Injury and Deaths From Shootings
+by Police in the United States, 2015–2020, 4 Am. J. Pub. Health 387, 391–
+392 (2024).
+“be killed in their own homes” compared to those without a
+mental illness. 5
+Given these risks, in some circumstances it may be more
+reasonable for officers to try different means of de-escalation
+before entering the home of a person experiencing a mental-
+health crisis. Officers could, for example, attempt to speak
+with the occupant from a distance or over the phone; contact
+family, friends, or neighbors to help intervene; call in special-
+ized police units, such as negotiators or officers trained in
+crisis intervention; 6 or otherwise work with mental-health
+professionals to approach the occupant. 7 Officers called to
+respond to these kinds of situations should carefully investi-
+gate and assess the nature of the potential crisis and deter-
+mine whether there is an objectively reasonable basis to be-
+lieve that the occupant needs emergency aid inside before
+entering without a warrant. Once the decision is made to
+enter, moreover, the “manner” of the officers' entry and their
+subsequent conduct inside must also be “reasonable.” Brig-
+ham City, 547 U. S., at 406.
+This case highlights the very complexities that will often
+attend emergency-aid interventions involving reported
+mental-health crises. Multiple facts suggested that Case
+did not need emergency aid but was instead waiting inside
+for the officers in order to provoke a confrontation that
+would result in “suicide-by-cop.”
+5 Saleh 114.
+6 See id., at 114–115; Brief for American Psychiatric Association et al.
+as Amici Curiae 18–25 (describing programs that involve sending teams
+of specially trained police to respond to calls about mental-health crises).
+7 Many jurisdictions around the country have introduced programs in
+which police officers and mental-health professionals jointly respond
+to calls about mental-health crises. See Policy Research, Inc. & Na-
+tional League of Cities, A. Krider, R. Huerter, K. Gaherty, & A. Moore,
+Responding to Individuals in Behavioral Health Crisis Via Co-responder
+Models (Jan. 2020), https://www.theiacp.org/sites/default/files /
+SJCResponding%20to%20Individuals.pdf (archived at https://perma.cc/
+LMZ2-FAC9) (describing “co-responder” programs).
+Case had told his girlfriend, J. H., on the phone that he
+would “shoot them all” if she called the police to his house.
+App. 69. Once J. H. arrived at the house, she told the off-
+cers that Case threatened to “shoot it out” with the police.
+Id., at 70–74. The officers also knew that in a prior incident
+in which police were called to respond to a suicide attempt
+by Case, Case had confronted the police in a way that sug-
+gested he was attempting suicide-by-cop. Then, while sur-
+veying the house, the officers discussed how Case had “ `tried
+suicide by cop before' ” and that it was likely Case was “ `going
+to pull a gun on us' ” once they “ `go in the house.' ” 417 Mont.
+354, 373, 553 P. 3d 985, 998 (2024) (McKinnon, J., dissenting).
+These facts, taken together, suggested that Case was nei-
+ther already injured nor about to injure himself, but rather
+that the primary danger he faced would arise only if the
+officers entered his house. In other words, these facts
+tended to undermine the officers' basis to believe that he
+needed emergency assistance inside.
+The officers' warrantless entry ultimately did not violate
+the Fourth Amendment, however, because there were suffi-
+cient facts on the other side of the ledger supporting an ob-
+jectively reasonable basis to believe that Case had shot him-
+self. Critically, Case had told J. H. he had a “loaded gun”
+and J. H. heard a “clicking” sound like the “cock[ing]” of “a
+gun,” a “pop,” and then “just dead air” despite J. H. yelling
+Case's name multiple times over the phone. App. 68–69; 417
+Mont., at 357, 553 P. 3d, at 988. Case also told J. H. that he
+was “going to get a note” and “kill himself.” App. 67–68.
+When the officers arrived, they saw an empty handgun hol-
+ster and notepad with writing inside Case's house, and Case
+did not respond when they shouted his name into an open
+window. Considered together, those facts gave rise to an
+objectively reasonable basis for the officers to believe that
+Case was already injured and in need of emergency medical
+assistance, and was not necessarily waiting inside for the of-
+ficers seeking to provoke an escalation leading to suicide-

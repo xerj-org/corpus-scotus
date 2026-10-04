@@ -1,0 +1,95 @@
+Federal Republic of Germany v. Philipp — No. 19-351 — October Term 2020 — decided 2/03/21 — 541 U. S. 677, 713 (Breyer , J., concurring). Pp. 176–180.
+Citation: 592 U.S. 169
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/592US1PP_web.pdf#page=209 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+541 U. S. 677, 713 (Breyer , J., concurring). Pp. 176–180.
+(2) The heirs concede that the international law of expropriation
+retained the domestic takings rule at the time of the FSIA's enactment,
+but they read “rights in property taken in violation of international law”
+to incorporate any international norm, including international human
+rights law, rather than merely the international law of expropriation.
+The text of the FSIA's expropriation exception, however, supports Ger-
+many's reading. The exception places repeated emphasis on property
+and property-related rights, while injuries and acts associated with vio-
+lations of human rights law, such as genocide, are notably lacking—a
+remarkable omission if the provision was intended to provide relief for
+atrocities such as the Holocaust. A statutory phrase concerning prop-
+erty rights most sensibly references the international law governing
+property rights, rather than the law of genocide. The heirs' position
+would arguably force courts themselves to violate international law not
+only by ignoring the domestic takings rule, but also by derogating inter-
+national law's preservation of sovereign immunity for violations of
+human rights law. Germany's interpretation of the exception is also
+more consistent with the FSIA's express goal of codifying the restrictive
+theory of sovereign immunity, 28 U. S. C. § 1602, under which immunity
+extends to a sovereign's public, but not private, acts. It would destroy
+the Act's distinction between private and public acts were the Court to
+subject all manner of sovereign public acts to judicial scrutiny under the
+FSIA by transforming the expropriation exception into an all-purpose ju-
+risdictional hook for adjudicating human rights violations. Pp. 180–183.
+(3) Other FSIA provisions confirm Germany's position. The heirs'
+approach would circumvent the reticulated boundaries Congress placed
+in the FSIA with regard to bringing claims asserting human rights vio-
+lations. One FSIA exception, for example, provides jurisdiction over
+claims “in which money damages are sought against a foreign state
+for personal injury or death, or damage to or loss of property,” but
+only where the relevant conduct “occurr[ed] in the United States.”
+§ 1605(a)(5). And the FSIA's terrorism exception eliminates sovereign
+immunity for state sponsors of terrorism, but only for certain human
+rights claims, brought by certain victims, against certain defendants.
+§§ 1605A(a),(h). Such restrictions would be of little consequence if
+human rights abuses could be packaged as violations of property rights
+and thereby brought within the expropriation exception. Pp. 183–185.
+(b) The heirs' counterarguments cannot overcome the text, context,
+and history of the expropriation exception. They claim that the 2016
+Foreign Cultural Exchange Jurisdictional Immunity Clarification Act—
+which amends the FSIA to explain that participation in specified “art
+exhibition activities” does not qualify as “commercial activity” under
+the expropriation exception, § 1605(h)—demonstrates that Congress an-
+ticipated that Nazi-era claims could be adjudicated under the exception.
+Congress's effort to preserve sovereign immunity in a narrow, partic-
+ularized context, however, does not support the broad elimination of
+sovereign immunity across all areas of law. Other statutes aimed at
+promoting restitution to Holocaust victims, on which the heirs rely, gen-
+erally encourage redressing those injuries outside of public court sys-
+tems and do not speak to sovereign immunity. See, e. g., Holocaust
+Expropriated Art Recovery Act of 2016, 130 Stat. 1524. Pp. 185–187.
+(c) This Court does not address Germany's argument that the District
+Court was obligated to abstain from deciding the case on international
+comity grounds or the heirs' alternative argument that the sale of the
+Welfenschatz is not subject to the domestic takings rule because the
+consortium members were not German nationals at the time of the
+transaction. P. 187.
+894 F. 3d. 406, vacated and remanded.
+Roberts, C. J., delivered the opinion for a unanimous Court.
+Jonathan M. Freiman argued the cause for petitioners.
+With him on the briefs were Tadhg Dooley, Benjamin M.
+Daniels, and David R. Roth.
+Deputy Solicitor General Kneedler argued the cause for
+the United States as amicus curiae urging reversal. With
+him on the brief were Acting Solicitor General Wall, Sopan
+Joshi, Colleen E. Roh Sinzdak, Sharon Swingle, and Joshua
+K. Handell.
+Nicholas M. O'Donnell argued the cause for respondents.
+With him on the brief was Erika L. Todd.*
+*Briefs of amici curiae urging reversal were fled for Foreign Interna-
+tional Law Scholars et al. by Lisa M. Geary; for Société Nationale SNCF
+SA by John B. Bellinger III, Sally L. Pei, and R. Reeves Anderson;
+and for Davis R. Robinson et al. by James H. Hulme and Timothy J.
+Feighery.
+Briefs of amici curiae urging affirmance were fled for the American
+Association of Jewish Lawyers and Jurists et al. by Arthur R. Traldi and
+Stephen R. Greenwald; for the Florida Holocaust Museum et al. by Donald
+S. Burris, Joshua Magidson, and Andrew Sasso; for the Holocaust Art
+Restitution Project, Inc., by Pierre Ciric; for the Holocaust Survivors
+Foundation USA, Inc., et al. by Samuel J. Dubbin; for Members of the
+United States House of Representatives by Akiva Shapiro; for the Na-
+tional Jewish Commission on Law and Public Affairs et al. by Nathan
+Lewin, Alyza D. Lewin, and Dennis Rapps; and for the World Jewish
+Congress et al. by Thomas R. Kline and L. Eden Burgess.
+Briefs of amici curiae were fled for Holocaust and Nuremberg Histori-
+ans by Owen C. Pell; for The 1939 Society et al. by Benjamin G. Shatz,
+Stanley A. Goldman, and Stanley W. Levy; for William S. Dodge et al. by
+Geoffrey M. Klineberg and Daniel S. Severson; for Samuel Estreicher
+et al. by Amelia L. B. Sargent; and for Peter Toren by Lawrence S. Rob-
+bins, Gary A. Orseck, Ariel N. Lavinbuk, and D. Hunter Smith.

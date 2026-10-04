@@ -1,0 +1,255 @@
+Dewberry Group, Inc. v. Dewberry Engineers Inc. — No. 23-900 — October Term 2024 — decided 2/26/25 — opinion of the Court — author Kagan (listing code EK)
+Citation: 604 U.S. 321
+Source: https://www.supremecourt.gov/opinions/24pdf/604us1r15_dc8f.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+the brief were Solicitor General Prelogar, Principal Deputy
+Assistant Attorney General Boynton, Deputy Solicitor Gen-
+eral Stewart, Daniel Tenny, Laura E. Myron, Farheena
+Rasheed, Mai-Trang Dang, and Giulio Yaquinto.
+Elbert Lin argued the cause for respondent. With him
+on the brief were Stephen P . Demm, David M. Parker,
+David N. Goldman, and Arthur E. Schmalz.*
+Justice Kagan delivered the opinion of the Court.
+A prevailing plaintiff in a trademark infringement suit is
+often entitled to an award of the “defendant's profts.” 15
+U. S. C. § 1117(a). In making such an award, the District
+Court in this case totaled the profts of the named corporate
+defendant with those of separately incorporated affliates not
+parties to the suit. We hold today that the court erred
+in doing so. Under the pertinent statutory provision, the
+court could award only profts properly ascribable to the de-
+fendant itself.
+I
+The trademark dispute here is between two unrelated
+real-estate companies with the word “Dewberry” in their
+names.
+Dewberry Engineers provides real-estate development
+services for commercial entities across the country, and par-
+ticularly in several southeastern States. It owns a regis-
+tered trademark in the word “Dewberry.” That mark gives
+Dewberry Engineers certain exclusive rights to use the
+“Dewberry” name in offering real-estate services.
+*Briefs of amici curiae urging reversal were fled for the American
+Intellectual Property Law Association by Lauren Keller Katzenellenbo-
+gen and Ann M. Mueting; and for the Washington Legal Foundation by
+John M. Masslon II and Cory L. Andrews. Megan K. Bannigan, Jared
+I. Kagan, and Thomas A. Agnello fled a brief for the International Trade-
+mark Association as amicus curiae urging vacatur.
+Noel J. Francisco and Jennifer L. Swize fled a brief for Intellectual
+Property Scholars as amici curiae urging affirmance.
+Dewberry Group is also a commercial real-estate company
+operating in the southeast. Owned by developer John Dew-
+berry, it provides services solely to other, separately incorpo-
+rated companies in his portfolio (about 30 in all). Each of
+those affliates owns a piece of commercial property for lease,
+but none has employees to carry out business functions.
+That is instead Dewberry Group's role. It affords the affli-
+ates the services needed—financial, legal, operational, and
+marketing—to generate rental income from the properties
+they own. That income goes on the affliates' books; Dew-
+berry Group receives only agreed-upon fees. And those fees
+are apparently set at less than market rates. According to
+its tax returns, the Group has operated at a loss for decades;
+it survives only through occasional cash infusions from John
+Dewberry himself. Meanwhile, the affliates—which, recall,
+he also owns—have racked up tens of millions of dollars in
+proft.
+The success of John Dewberry's overall business comes
+in part from trademark infringement—specifically, from
+Dewberry Group's violation of Dewberry Engineers' trade-
+mark rights in the “Dewberry” name. (If that sentence is
+confusing—too darn many Dewberrys—it is also a good illus-
+tration of why trademarks exist: to prevent consumers from
+being confused about which company is providing a product
+or service.) Dewberry Engineers has sought to defend its
+trademark rights against Dewberry Group for nearly two
+decades. In 2007, an infringement suit the Engineers
+brought against the Group led to a settlement limiting the
+latter's use of the word “Dewberry.” But a decade or so
+later, Dewberry Group reneged on the deal. As part of a
+rebranding effort, the Group resumed its use of the “Dew-
+berry” name in the marketing and other materials it used to
+lease its affliates' properties.
+So Dewberry Engineers sued Dewberry Group again, and
+won decisively. The action—brought against Dewberry
+Group alone—alleged trademark infringement and unfair
+competition under the federal Lanham Act, as well as breach
+of contract (i. e., the settlement agreement) under state law.
+The District Court found Dewberry Group liable on all
+counts. It was especially scathing about Dewberry Group's
+trademark infringements. Those violations, the court held,
+were “intentional, willful, and in bad faith.” 2022 WL
+1439826, *6 (ED Va., Mar. 2, 2022). Dewberry Group had
+encountered “numerous red fags alerting it to the illegality
+of its conduct,” yet continued to use the trademarked name.
+Id., at *2; see id., at *6. Those findings of willful infringe-
+ment, later affirmed by the Court of Appeals for the Fourth
+Circuit, are not before us. See 77 F. 4th 265, 289, 291 (2023).
+What remains in dispute is the District Court's award of
+profts to remedy the infringement. The Lanham Act pro-
+vides for a prevailing plaintiff like Dewberry Engineers to
+recover the “defendant's profts” deriving from a trademark
+violation. § 1117(a). The sole named defendant here is
+Dewberry Group. But Dewberry Group, as noted above, re-
+ports no profts. See supra, at 324. Rather, the District
+Court found, the profts from the Group's illicit conduct (as
+from all its services) “show up exclusively on the [property-
+owning affliates'] books.” 2022 WL 1439826, *9. To reflect
+that “economic reality,” the court decided to treat Dewberry
+Group and its affliates “as a single corporate entity” for pur-
+poses of calculating a profts award. Id., at *10. If those
+companies were viewed separately, the court reasoned, the
+“entire Dewberry Group enterprise” would “evade the f-
+nancial consequences of its willful, bad faith infringement.”
+Ibid. By contrast, considering the companies together
+would prevent the “unjust enrichment” that the Act was
+meant to target. Ibid. The court thus totaled the affli-
+ates' real-estate profts from the years Dewberry Group in-
+fringed, producing an award of nearly $43 million. See id.,
+at *14.
+A divided Court of Appeals panel affirmed that award.
+Reiterating the “ `economic reality' of Dewberry Group's re-
+lationship with its affliates,” the majority approved the Dis-
+trict Court's treatment of all the companies “as a single cor-
+porate entity.” 77 F. 4th, at 290 (quoting 2022 WL 1439826,
+*10). That approach, the majority reasoned, properly
+“h[e]ld Dewberry Group to account” for its use of infringing
+materials to generate corporate profts. 77 F. 4th, at 293.
+It did not matter that the affliates, rather than the Group,
+“receive[d] the revenues” earned, given the links among
+those companies. Ibid. To hold otherwise, the majority
+thought, would give businesses a “blueprint for using corpo-
+rate formalities to insulate their infringement from financial
+consequences.” Ibid. Judge Quattlebaum dissented. He
+would have held that the District Court had no authority, in
+calculating a defendant's profts, to “simply add the revenues
+[of] non-parties.” Id., at 300.
+We granted certiorari, 602 U. S. 1038 (2024), and we now
+vacate the decision below.
+II
+The statutory text authorizing a profts award for trade-
+mark infringement offers no support for the approach the
+courts below took. Again, the section of the Lanham Act
+addressing remedial issues provides that a plaintiff like Dew-
+berry Engineers is “entitled” to “recover [the] defendant's
+profts.” § 1117(a); see supra, at 325. The term “defend-
+ant” is not specially defined, and thus bears its usual legal
+meaning. A “defendant” is “the party against whom relief
+or recovery is sought in an action or suit.” Black's Law Dic-
+tionary 541 (3d ed. 1933). So here the defendant is the en-
+tity named in Dewberry Engineers' complaint as liable for
+infringing the “Dewberry” trademark. And that entity is
+Dewberry Group alone. See App. 1 (“The Plaintiff, Dew-
+berry Engineers . . . files this Complaint against the Defend-
+ant, Dewberry Group”). The Engineers chose not to add the
+Group's property-owning affliates as defendants. Accord-
+ingly, the affliates' profts are not the (statutorily disgorg-
+able) “defendant's profts” as ordinarily understood.
+Nor do background principles of corporate law convert the
+one into the other. We have often read federal statutes to
+incorporate such principles, on the view that Congress would
+not have wanted to displace “bedrock” features of the com-
+mon law. United States v. Bestfoods, 524 U. S. 51, 62 (1998).
+So if corporate law treated all affliated companies as (in the
+District Court's phrase) “a single corporate entity,” we might
+construe the term “defendant” in the same vein—as sweep-
+ing in the named defendant's affliates because they lack a
+distinct identity. But in fact the usual rule is the opposite.
+“[I]t is long settled as a matter of American corporate law
+that separately incorporated organizations are separate legal
+units with distinct legal rights and obligations.” Agency for
+Int'l Development v. Alliance for Open Society Int'l Inc.,
+591 U. S. 430, 435 (2020). And that is so even if the entities
+are affliated—as they are here by virtue of having a common
+owner. See ibid.; Dole Food Co. v. Patrickson, 538 U. S. 468,
+474–475 (2003). To be sure, the “principle[ ] of corporate
+separateness” has exceptions: A court may in select circum-
+stances “pierc[e] the corporate veil,” especially to prevent
+corporate formalities from shielding fraudulent conduct.
+Bestfoods, 524 U. S., at 62; Dole Food, 538 U. S., at 475. But
+Dewberry Engineers, as it admits, never tried to make the
+showing needed for veil-piercing. See Brief for Respondent
+52, n. 8. So the demand to respect corporate formalities re-
+mains. And that demand fts hand-in-glove with the Lan-
+ham Act's text: Again, the “defendant's profts” are the de-
+fendant's profts, not its plus its affliates'.
+Dewberry Engineers cannot, and so does not, contest those
+points; to defend the decisions below, it must set off on a
+different path, involving different statutory language. True
+enough, concede the Engineers, that a court has no authority
+to “disregard corporate separateness” and order disgorge-
+ment of an affliate's profts as the “defendant's” own. Id.,
+at 2. But a court, the company says, may take account of
+an affliate's profts in another way. Dewberry Engineers
+here invokes a later sentence in the Act's remedies section:
+“If the court shall find that the amount of the recovery based
+on profts is either inadequate or excessive[,] the court may
+in its discretion enter judgment for such sum as the court
+shall find to be just, according to the circumstances.”
+§ 1117(a). In the Engineers' view, that so-called just-sum
+provision enables a court, after first assessing the “defend-
+ant's profts,” to determine that a different figure better re-
+flects the “defendant's true financial gain.” Id., at 24. And
+at that “second step” of the process, the court can consider
+“as relevant evidence” the profts of related entities—for ex-
+ample, to see if the defendant diverted some of its earnings
+to an affliate's books. Id., at 1, 38. Finally, Dewberry En-
+gineers contends that the courts below in fact followed that
+approach. In other words, those courts merely considered
+the affliates' profts as evidence in assessing Dewberry
+Group's “true financial gain” under the just-sum provision.
+Id., at 40.
+But that is not a tenable take on why Dewberry Engineers
+got a $43 million award. The District Court did not rely on
+the just-sum provision, or suggest that it was departing up
+from Dewberry Group's reported profts to reflect the com-
+pany's true gain. There was no two-step process for decid-
+ing on the award, but only a single step: the calculation of
+the “defendant's profts.” 2022 WL 1439826, *14; see id., at
+*9–*10. And in making that assessment, the District Court
+designated whose profts should count: both Dewberry
+Group's and its affliates', because all those companies should
+be “treated as a single corporate entity.” Ibid. That treat-
+ment, by its terms, disregards “corporate formalities”—and
+likewise the “principle[ ] of corporate separateness.” Dole
+Food, 538 U. S., at 476; Bestfoods, 524 U. S., at 62. The
+proof, if any more were needed, is in the number the court
+arrived at. It was simply the sum of all the Dewberry enti-
+ties' real-estate profts for the relevant years. That amount
+accords with the idea that Dewberry Group and its affliates
+should be regarded as one—as in toto the “defendant.” But
+it conflicts with the Engineers' alternative understanding of
+what happened below. For a court adopting the Engineers'
+view would have had to identify which of the affliates'
+profts were properly attributable to Dewberry Group, as
+reflecting the Group's own gain. And the court could not
+plausibly have concluded that all of them were, given (at a
+minimum) that the affliates owned the rent-producing prop-
+erties. The only way to reach the District Court's wholesale
+result was to take a simpler tack: to lump together Dewberry
+Group and its affliates as (in the court's own words) a sin-
+gle entity.
+So too, the Court of Appeals' decision bears no resem-
+blance to Dewberry Engineers' description. No more than
+the District Court did the Fourth Circuit rely on the just-
+sum provision, or on any “second-step” analysis that it en-
+ables. The Court of Appeals related, in straightforward
+manner, the basis of the District Court's decision: The lower
+court, to determine profts, “treated Dewberry Group and its
+affliates as a single corporate entity.” 77 F. 4th, at 290.
+And the appellate court approved that treatment for much
+the same reasons the District Court gave—because of the
+“economic reality” of how the Dewberry companies operated
+and the fear that “corporate formalities” would otherwise
+insulate infringing conduct from any penalty. See ibid.; id.,
+at 293; supra, at 325–326. The concern in such circum-
+stances is not amiss. But as even the Engineers agree, it
+cannot justify ignoring the distinction between a corporate
+defendant (i. e., Dewberry Group) and its separately incorpo-
+rated affliates. By treating those entities as one and the
+same, the courts below approved an award including non-
+defendants' profts—and thus went further than the Lanham
+Act permits.
+In remanding this case for a new award proceeding, we
+leave a number of questions unaddressed. First, we express
+no view on Dewberry Engineers' understanding of the just-

@@ -1,0 +1,113 @@
+Whole Woman’s Health v. Jackson — No. 21-463 — October Term 2021 — decided 12/10/21 — Opinion of Gorsuch, J.
+Citation: 595 U.S. 30
+Source: https://www.supremecourt.gov/opinions/21pdf/595us1r4_0861.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+more that this Court should cast aside its precedents requir-
+ing federal courts to abide by traditional equitable principles.
+Post, at 68–69, n. 3. This time, however, Justice Soto-
+mayor does not claim to identify any countervailing author-
+ity to support her proposal. Instead, she says, it is justified
+purely by the fact that the State of Texas in S. B. 8 has
+“delegat[ed] its enforcement authority to the world at large.”
+Post, at 70, n. 4. But somewhat analogous complaints could
+be levied against private attorneys general acts, statutes
+allowing for private rights of action, tort law, federal anti-
+trust law, and even the Civil Rights Act of 1964. In some
+sense all of these laws “delegate” the enforcement of public
+policy to private parties and reward those who bring suits
+with “bount[ies]” like exemplary or statutory damages and
+attorney's fees. Nor does Justice Sotomayor explain
+where her novel plan to overthrow this Court's precedents
+and expand the equitable powers of federal courts would
+stop—or on what theory it might plausibly happen to reach
+just this case or maybe those exactly like it. 2
+C
+While this Court's precedents foreclose some of the peti-
+tioners' claims for relief, others survive. The petitioners
+also name as defendants Stephen Carlton, Katherine
+Thomas, Allison Benz, and Cecile Young. On the briefing
+and argument before us, it appears that these particular de-
+fendants fall within the scope of Ex parte Young 's historic
+exception to state sovereign immunity. Each of these indi-
+viduals is an executive licensing official who may or must
+take enforcement actions against the petitioners if they vio-
+2 This is not to say that the petitioners, or other abortion providers, lack
+potentially triable state-law claims that S. B. 8 improperly delegates state
+law enforcement authority. Nor do we determine whether any particular
+S. B. 8 plaintiff possesses standing to sue under state justiciability doc-
+trines. We note only that such arguments do not justify federal courts
+abandoning traditional limits on their equitable authority and our prece-
+dents enforcing them.
+late the terms of Texas's Health and Safety Code, including
+S. B. 8. See, e. g., Tex. Occ. Code Ann. § 164.055(a); Brief
+for Petitioners 33–34. Accordingly, we hold that sovereign
+immunity does not bar the petitioners' suit against these
+named defendants at the motion to dismiss stage. 3
+Justice Thomas alone reaches a different conclusion. He
+emphasizes that suits seeking equitable relief against execu-
+tive officials are permissible only when supported by tradi-
+tion. See post, at 53–54 (opinion concurring in part and dis-
+senting in part). He further emphasizes that the relevant
+tradition here, embodied in Ex parte Young, permits equita-
+ble relief against only those officials who possess authority
+to enforce a challenged state law. Post, at 54. We agree
+with all of these principles; our disagreement is restricted to
+their application.
+Justice Thomas suggests that the licensing-official de-
+fendants lack authority to enforce S. B. 8 because that stat-
+ute says it is to be “exclusively” enforced through private
+civil actions “[n]otwithstanding . . . any other law.” See Tex.
+Health & Safety Code Ann. § 171.207(a). But the same pro-
+vision of S. B. 8 also states that the law “may not be con-
+strued to . . . limit the enforceability of any other laws that
+regulate or prohibit abortion.” § 171.207(b)(3). This saving
+clause is significant because, as best we can tell from the
+briefing before us, the licensing-official defendants are
+charged with enforcing “other laws that regulate . . . abor-
+tion.” Consider, for example, Texas Occupational Code
+§ 164.055, titled “Prohibited Acts Regarding Abortion.”
+That provision states that the Texas Medical Board “shall
+take an appropriate disciplinary action against a physician
+who violates . . . Chapter 171, Health and Safety Code,” a
+part of Texas statutory law that includes S. B. 8. Accord-
+3 The petitioners may proceed against Ms. Young solely based on her
+authority to supervise licensing of abortion facilities and ambulatory sur-
+gical centers, and not with respect to any other enforcement authority
+under Chapter 171 of the Texas Health and Safety Code.
+ingly, it appears Texas law imposes on the licensing-official
+defendants a duty to enforce a law that “regulate[s] or pro-
+hibit[s] abortion,” a duty expressly preserved by S. B. 8's
+saving clause. Of course, Texas courts and not this one
+are the final arbiters of the meaning of state statutory direc-
+tions. See Railroad Comm'n of Tex. v. Pullman Co., 312
+U. S. 496, 500 (1941). But at least based on the limited ar-
+guments put to us at this stage of the litigation, it appears
+that the licensing defendants do have authority to enforce
+S. B. 8. 4
+In the face of this conclusion, Justice Thomas advances
+an alternative argument. He stresses that to maintain a
+suit consistent with this Court's Ex parte Young and Arti-
+cle III precedents, “it is not enough that petitioners `feel in-
+hibited' ” or “ `chill[ed]' ” by the abstract possibility of an en-
+forcement action against them. Post, at 57. Rather, they
+must show at least a credible threat of such an action against
+them. Post, at 58. Again, we agree with these observations
+in principle and disagree only on their application to the facts
+of this case. The petitioners have plausibly alleged that
+S. B. 8 has already had a direct effect on their day-to-day
+operations. See Complaint ¶¶103, 106–109. And they have
+identified provisions of state law that appear to impose a
+duty on the licensing-official defendants to bring disciplinary
+actions against them if they violate S. B. 8. In our judg-
+ment, this is enough at the motion to dismiss stage to sug-
+4 Tending to confirm our understanding of the statute is the fact that
+S. B. 8 expressly prohibits “enforcement of Chapters 19 and 22, Penal
+Code, in response to violations of this subchapter.” Tex. Health & Safety
+Code Ann. § 171.207(a). This language suggests that the Texas Legisla-
+ture knew how to prohibit collateral enforcement mechanisms when it
+adopted S. B. 8, and understood that it was necessary to do so. To read
+S. B. 8 as barring any collateral enforcement mechanisms without a spe-
+cifc exclusion would thus threaten to render this statutory language su-
+perfuous. See Kallinen v. Houston, 462 S. W. 3d 25, 28 (Tex. 2015)
+(courts should avoid treating any statutory language as surplusage); Kun-
+gys v. United States, 485 U. S. 759, 778 (1988) (same).

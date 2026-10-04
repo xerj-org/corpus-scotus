@@ -1,0 +1,539 @@
+Rutherford v. United States — No. 24-820 — October Term 2025 — decided 5/28/26 — opinion of the Court — author Barrett (listing code AB)
+Citation: 608 U.S. 454
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r40_o7kq.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+tor General Sauer, Acting Assistant Attorney General
+Galeotti, Frederick Liu, Tyler Anne Lee, and Andrew C.
+Noll.†
+Justice Barrett delivered the opinion of the Court.
+A prison sentence, once imposed, usually cannot be modi-
+fed by the district court. 18 U. S. C. § 3582(b). But Con-
+gress has established several narrow exceptions to this rule.
+One exception—commonly referred to as “compassionate re-
+lease”—permits the court to reduce a term of imprisonment
+if it finds, among other things, that “extraordinary and com-
+pelling reasons warrant such a reduction.” § 3582(c)(1)
+(A)(i). We consider whether the sentencing disparity cre-
+ated by Congress's nonretroactive change to § 924(c)'s man-
+datory penalties can serve as an “extraordinary and compel-
+ling reaso[n]” that “warrant[s]” a reduction. § 3582(c)(1)
+(A)(i). We hold that it cannot.
+†Briefs of amici curiae urging reversal in both cases were fled for
+Clinical Law Professors by Erica Zunkel and David H. Korn; for the
+Constitutional Accountability Center by Elizabeth B. Wydra and Brianne
+J. Gorod; for FAMM et al. by Jarrod L. Schaeffler and Joshua L. Dratel;
+for Former Corrections Officials by Scott P . Lewis; for the NAACP et al.
+by Raymond P . Tolentino, Carlton Forbes, Kristen Johnson, and Christo-
+pher Kemmitt; for the National Association of Federal Defenders by Shel-
+ley Fite, Tracy Dreispul, Daniel Habib, Jennifer Niles Coffn, and Marisa
+Taney; for the New York Council of Defense Lawyers (NYCDL) by Harry
+Sandick and Celeste L. M. Koeleveld; for Douglas Berman by Vincent
+Levy; and for Sen. Cory Booker et al. by Amy Mason Saharia.
+Andrew T. Tutt, Dana Kagan McGinley, and Nicole L. Masiello fled a
+brief for Former Federal Judges as amici curiae urging reversal in No.
+24–820.
+Amelia T. R. Starr fled a brief for The Fortune Society as amicus
+curiae urging reversal in No. 24–860.
+Briefs of amici curiae were fled in both cases for the Cato Institute
+et al. by Matthew P . Cavedon, Brett Tolman, and John W. Whitehead; and
+for Former Commissioners of the United States Sentencing Commission
+by Joshua Matz and Trisha Anderson.
+I
+A
+Daniel Rutherford, petitioner in one of these consolidated
+cases, committed two separate robberies at gunpoint in 2003.
+A jury convicted him of several crimes, including two counts
+of using and carrying a firearm during a crime of violence,
+in violation of § 924(c). At the time, a defendant convicted
+of two § 924(c) counts was subject to a mandatory 25-year
+sentence of imprisonment for the second offense that would
+be “stacked” upon—that is, run consecutively to—the first
+offense's mandatory penalty (which, for Rutherford, was 7
+years). See Deal v. United States, 508 U. S. 129, 132–137
+(1993). Rutherford's two § 924(c) counts thus earned him a
+32-year minimum sentence, resulting in a total sentence of
+over 42 years of imprisonment.
+Johnnie Carter, petitioner in the other case, received an
+even longer mandatory minimum under § 924(c). In 2007,
+Carter participated in a string of armed bank robberies.
+Among other offenses, he was convicted of three § 924(c)
+counts. Carter was sentenced to 70 years of imprison-
+ment—57 of which came from his stacked § 924(c)
+convictions.
+Years after Rutherford and Carter were each sentenced,
+Congress passed the First Step Act of 2018, 132 Stat. 5194,
+“a landmark piece of legislation that changed the federal
+criminal-sentencing system in numerous respects,” Hewitt v.
+United States, 606 U. S. 419, 424 (2025). Among the changes
+was the elimination of § 924(c)'s 25-year stacking require-
+ment for first-time offenders: A 25-year consecutive sentence
+is now required only for a “ `violation . . . that occurs after
+a prior conviction under this subsection has become final.' ”
+§ 403(a), 132 Stat. 5222. This change would have made a sig-
+nificant difference for both Rutherford and Carter. Had
+either been sentenced today, his mandatory minimum under
+§ 924(c) would have been much shorter: 14 years for Ruther-
+ford and 21 years for Carter.
+Obviously, Rutherford and Carter—not to mention the
+many other similarly situated prisoners—would like the ben-
+eft of the Act's amendment to § 924(c). As a rule, however,
+changes to sentencing statutes apply only to offenses com-
+mitted after the statute's effective date. See Hewitt, 606
+U. S., at 424. The Act departs from this rule in a very lim-
+ited respect: Its more lenient penalties apply to offenses com-
+mitted before the statute's enactment “if a sentence for the
+offense has not been imposed as of such date of enactment.”
+§ 403(b), 132 Stat. 5222. But for defendants sentenced be-
+fore the Act, the general rule of nonretroactivity remains in
+place. See Hewitt, 606 U. S., at 427.
+Rutherford and Carter acknowledge that they do not
+qualify for the reduced penalties. Nonetheless, each has in-
+voked the Act as a ground for compassionate release under
+§ 3582(c)(1)(A)(i).
+B
+At this point, some background on the compassionate re-
+lease provision is helpful. This provision, which was part of
+the Sentencing Reform Act of 1984, allows a district court to
+reduce a prison term “after considering the factors set forth
+in section 3553(a) to the extent that they are applicable” if
+the court finds that “extraordinary and compelling reasons
+warrant such a reduction” and that “such a reduction is con-
+sistent with applicable policy statements issued by the Sen-
+tencing Commission.” 18 U. S. C. § 3582(c)(1)(A). Congress
+did not specify what “extraordinary and compelling” reasons
+might warrant compassionate release. It did, however, au-
+thorize the Commission to promulgate policy statements that
+“describe what should be considered extraordinary and com-
+pelling reasons for sentence reduction, including the criteria
+to be applied and a list of specific examples.” 28 U. S. C.
+§ 994(t). The Commission first issued an applicable policy
+statement in 2006 and amended it the following year to iden-
+tify several “ `extraordinary and compelling' ” reasons for
+compassionate release: “ `terminal illness' ”; “ `permanent
+physical or medical condition' ”; “ `deteriorating physical or
+mental health because of the aging process' ”; “ `death or in-
+capacitation of the defendant's only family member capable
+of caring for the defendant's minor child or minor children' ”;
+and a catchall category for “ `other' ” reasons not specifically
+enumerated, “ `[a]s determined by the Director of the Bureau
+of Prisons.' ” United States Sentencing Commission, Guide-
+lines Manual Supp. to App. C, Amdt. 698 (Nov. 2011) (USSG).
+In 2016, the Commission streamlined the statement to recog-
+nize four categories of reasons: “ `Medical Condition of the
+Defendant,' ” “ `Age of the Defendant,' ” “ `Family Circum-
+stances,' ” and “ `Other Reasons.' ” Id., Amdt. 799.
+When Congress passed the First Step Act in 2018, it
+amended the compassionate release provision. While it left
+the “extraordinary and compelling” standard untouched, it
+opened a new procedural route for seeking a reduction.
+Originally, only the Bureau of Prisons could ask a district
+court to reduce a prisoner's sentence. The Act gives the
+prisoner greater agency: He may request that the Bureau
+fle a motion on his behalf, and, if it declines or fails to do so
+within 30 days, he may fle a motion himself. 18 U. S. C.
+§ 3582(c)(1)(A). The Act also obligates the Bureau to take
+certain steps when a prisoner is diagnosed with a terminal
+illness or is mentally or physically unable to fle his own mo-
+tion. §§ 3582(d)(2)(A)–(B). For example, the Bureau must
+inform “the defendant's attorney, partner, and family mem-
+bers” about the defendant's condition and that they can fle
+a sentence-reduction request on his behalf. Ibid.
+The Commission lost a quorum shortly after the Act went
+into effect and did not update its policy statement to address
+these changes. Most Circuits held that the existing state-
+ment—which mentioned only motions fled by the Bureau—
+did not apply to motions fled by prisoners. See United
+States v. Andrews, 12 F. 4th 255, 259 (CA3 2021) (collecting
+cases); but see United States v. Bryant, 996 F. 3d 1243, 1247–
+1248 (CA11 2021) (applying the policy statement). So for
+this new class of motions, most courts interpreted the stat-
+ute without input from the Commission.
+They were soon forced into uncharted territory. Relevant
+here, courts faced a surge of motions from prisoners who
+invoked the Act's nonretroactive sentencing amendments as
+grounds for compassionate release. Most Courts of Appeals
+held that a nonretroactive amendment to a mandatory mini-
+mum cannot serve as an “extraordinary and compelling” rea-
+son for a reduced sentence. 1 A minority, however, con-
+cluded that the disparity produced by such an amendment
+can justify a reduced sentence—at least when considered in
+combination with other factors. 2
+The Commission eventually regained a quorum, entered
+the fray, and sided with the minority. In 2023, it amended
+its policy statement to add a new category to the list of
+“extraordinary and compelling” reasons: “Unusually Long
+Sentence.” 3 See USSG App. C, Amdt. 814. Under this
+category:
+“ `If a defendant received an unusually long sentence and
+has served at least 10 years of the term of imprisonment,
+a change in the law (other than an amendment to the
+Guidelines Manual that has not been made retroactive)
+1 See Andrews, 12 F. 4th, at 260–262; United States v. McMaryion, 2023
+WL 4118015, *2 (CA5, June 22, 2023); United States v. Jarvis, 999 F. 3d
+442, 443–444 (CA6 2021); United States v. Thacker, 4 F. 4th 569, 573–575
+(CA7 2021); United States v. Crandall, 25 F. 4th 582, 583 (CA8 2022);
+United States v. Jenkins, 50 F. 4th 1185, 1197–1200 (CADC 2022).
+2 See United States v. Ruvalcaba, 26 F. 4th 14, 24–28 (CA1 2022); United
+States v. McCoy, 981 F. 3d 271, 284–288 (CA4 2020); United States v. Chen,
+48 F. 4th 1092, 1094–1101 (CA9 2022); United States v. McGee, 992 F. 3d
+1035, 1045–1048 (CA10 2021).
+3 In addition, the Commission added the fact that a prisoner was a victim
+of abuse while in custody as an “extraordinary and compelling” reason.
+See USSG App. C, Amdt. 814 (Nov. 2023). This change is not at issue in
+today's cases.
+may be considered in determining whether the defend-
+ant presents an extraordinary and compelling reason,
+but only where such change would produce a gross dis-
+parity between the sentence being served and the sen-
+tence likely to be imposed at the time the motion is fled,
+and after full consideration of the defendant's individual-
+ized circumstances.' ” Ibid.
+Three Commissioners voted against the amendment and
+accused the Commission of making “a seismic structural
+change to our criminal justice system without congressional
+authorization or directive.” United States Sentencing Com-
+mission, Public Meeting Tr. 60 (Apr. 5, 2023).
+C
+Back to the cases at hand. After the First Step Act be-
+came effective, Rutherford moved for compassionate release.
+He argued that “extraordinary and compelling” reasons war-
+rant a reduction because he had received an “unusually long
+sentence under a statutory provision that Congress has since
+found too punitive but has not made retroactively applica-
+ble.” 2 App. in No. 23–1904 (CA3), p. 58. In addition, he
+noted that he suffered from obesity and hypertension, which
+rendered him more vulnerable to the COVID–19 virus.
+While Rutherford's motion was pending, the Third Circuit
+held that the nonretroactive change to § 924(c) cannot serve
+as an “extraordinary and compelling” reason for compassion-
+ate release. See Andrews, 12 F. 4th, at 260–262. The Dis-
+trict Court then denied Rutherford's motion, and Rutherford
+appealed that ruling to the Third Circuit. While his appeal
+was pending, the Commission amended its policy statement,
+and Rutherford asked the Court of Appeals to consider the
+effect of this statement in the first instance.
+The Third Circuit affirmed the District Court's denial of
+Rutherford's motion. See 120 F. 4th 360, 363 (2024). The
+court acknowledged that Congress had authorized the Com-
+mission to issue a policy statement fleshing out the meaning
+of “ `extraordinary and compelling ' ” reasons under
+§ 3582(c)(1)(A)(i). Id., at 375. But that statement, the court
+said, cannot “go beyond what Congress intended.” Id., at
+376. And as the Third Circuit had already explained in An-
+drews, it makes no sense to “ `construe Congress's nonretro-
+activity directive as simultaneously creating an extraordi-
+nary and compelling reason for early release.' ” 120 F. 4th,
+at 376 (quoting Andrews, 12 F. 4th, at 261). Because the
+Commission's amended policy statement “conflicts with the
+will of Congress,” the court held, it “cannot be considered in
+determining a prisoner's eligibility for compassionate re-
+lease.” 120 F. 4th, at 376.
+Carter's case is similar. After the Commission amended
+its policy statement, he moved for a reduction under § 3582(c)
+(1)(A)(i), arguing that his sentence is “unusually long” and
+that the Act created a “ `gross disparity' ” between his origi-
+nal sentence and the one he would receive under the
+amended § 924(c). 2 App. in No. 24–1115 (CA3), pp. 206–207.
+He also pointed to his strong family ties, rehabilitation, and
+good conduct while incarcerated as additional reasons for a
+reduction. Bound by Andrews, the District Court denied
+Carter's motion, and Carter appealed. While the appeal
+was pending, the Third Circuit decided Rutherford's case.
+Shortly thereafter, it summarily affirmed the denial of Car-
+ter's motion. See 2024 WL 5339852, *1 (Dec. 2, 2024).
+The Circuits remain divided over whether the disparity
+created by a nonretroactive change to sentencing law, like
+the Act, can constitute an “extraordinary and compelling rea-
+so[n]” that “warrant[s]” compassionate release. 4 18 U. S. C.
+4 Most Courts of Appeals that previously answered this question in the
+negative have determined that they are not bound by the Sentencing Com-
+mission's contrary amendment to its policy statement. See 120 F. 4th 360,
+378–380 (CA3 2024) (case below); United States v. Austin, 125 F. 4th 688,
+692 (CA5 2025); United States v. Bricker, 135 F. 4th 427, 435 (CA6 2025);
+United States v. Black, 131 F. 4th 542, 545–546 (CA7 2025); United States
+v. Johnson, 2025 WL 1949738, *2 (CA8, July 16, 2025). But see United
+§ 3582(c)(1)(A)(i). We granted certiorari in these consoli-
+dated cases to resolve the split. 605 U. S. 1001 (2025).
+II
+Petitioners argue that the Third Circuit's decisions depart
+from the plain text of § 3582(c)(1)(A)(i) and ignore binding
+guidance from the Sentencing Commission. We disagree.
+When Congress declines to make a sentencing amendment
+retroactive, the fact that a preamendment sentence is longer
+than it would have been postamendment is not an “extra-
+ordinary and compelling reaso[n]” that “warrant[s]” a sen-
+tence reduction. 18 U. S. C. § 3582(c)(1)(A)(i). Insofar as
+the Commission's amended policy statement maintains other-
+wise, it conflicts with the statute.
+A
+The compassionate release provision empowers a district
+court to “reduce the term of imprisonment” if it finds, among
+other things, that “extraordinary and compelling reasons
+warrant such a reduction.” Ibid. The term “extraordi-
+nary” means “most unusual,” “far from common,” or “having
+little or no precedent.” Webster's Third New International
+Dictionary 807 (1976); see 5 Oxford English Dictionary 614
+(2d ed. 1989) (“[o]ut of the usual or regular course or order”).
+“Compelling,” meanwhile, means “tending to convince or
+convert by or as if by forcefulness of evidence.” Webster's
+Third New International Dictionary, at 463; see 3 Oxford
+English Dictionary, at 600 (“irresistible; demanding atten-
+tion, respect”). Putting these definitions together, “extraor-
+dinary and compelling” reasons for compassionate release
+are those that are especially unusual and convincing.
+The disparity created by Congress's amendment to § 924(c)
+does not satisfy this definition. Far from “extraordinary,”
+States v. Wilson, 77 F. 4th 837, 841–842 (CADC 2023) (reserving this ques-
+tion because the amendment had not yet gone into effect).
+nonretroactive amendments to criminal penalties are the
+norm. “Ordinarily,” we have explained, “statutory changes
+to federal penalties only benefit future offenders.” Hewitt,
+606 U. S., at 424; see 1 U. S. C. § 109. Congress sometimes
+deviates from the default, as it did in the Act, by extending
+the revised penalties to defendants not yet sentenced. Even
+then, some measure of prospectivity is par for the course:
+The “ordinary practice” is to “withhol[d] that change from
+defendants already sentenced.” Dorsey v. United States,
+567 U. S. 260, 280 (2012). And regardless of whether the
+line is drawn at the offense or the sentence, a nonretroactive
+penalty change necessarily creates a disparity between those
+who receive the benefit and those who do not. See ibid.
+(“[D]isparities . . . refec[t] a line-drawing effort” and “will
+exist whenever Congress enacts a new law changing sen-
+tences”). Such a disparity is an unexceptional feature of a
+system in which nonretroactivity is the default.
+As for “compelling”: It is hard to see how Congress's delib-
+erate decision not to extend newly reduced penalties to those
+already sentenced could be a convincing reason that “war-
+rant[s]” a reduction. 18 U. S. C. § 3582(c)(1)(A)(i). As we
+have explained, Congress decided to apply the lower prison
+sentences to some violators of § 924(c)—those for whom
+a sentence had not yet been imposed—but not others.
+§ 403(b), 132 Stat. 5222. In doing so, Congress “reinforced
+its interest in finality and avoided burdening district courts
+with additional litigation.” Hewitt, 606 U. S., at 437–438
+(plurality opinion). Treating the disparity resulting from
+§ 924(c)'s amendment as a compelling reason for reducing a
+sentence would undermine Congress's choice to leave the
+sentence intact.
+It would also fall well outside the heartland of compassion-
+ate release, which has long been defined by a prisoner's per-
+sonal circumstances. After Congress enacted § 3582(c)(1)
+(A)(i), the Bureau of Prisons explained that the standards
+for compassionate release mirrored those of a prior sentence-
+reduction statute and that “[r]eleases have been most often
+applied in cases where the inmate is terminally ill.” 59 Fed.
+Reg. 1238 (1994); see 28 CFR § 572.40(a) (1984) (providing
+that the Bureau would move for a sentence reduction under
+18 U. S. C. § 4205(g) (1982 ed.) “in particularly meritorious or
+unusual circumstances,” such as “if there is an extraordinary
+change in an inmate's personal or family situation or if an
+inmate becomes severely ill”). The Act's heightened proce-
+dural requirements are similarly tied to personal circum-
+stances: The Bureau must provide extra assistance to a mov-
+ant diagnosed with a terminal illness or who is physically or
+mentally unable to submit a request on his own. § 3582(d)(2)
+(2018 ed.). And from 2007 until 2023, the Sentencing Com-
+mission highlighted essentially three grounds for compas-
+sionate release: (1) medical condition, (2) age, and (3) family
+circumstances.5 See USSG § 1B1.13, comment., n. 1 (Nov.
+2021).
+We need not decide whether there are reasons beyond per-
+sonal circumstances that could qualify as “extraordinary and
+compelling.” Until very recently, no one thought that non-
+retroactive sentencing amendments were among them. 6
+They are not.
+5 The Commission also recognized that “[o]ther [r]easons” could qualify,
+“[a]s determined by the Director of the Bureau of Prisons.” USSG
+§ 1B1.13, comment., n. 1. The Bureau is responsible for the housing and
+care of prisoners, 18 U. S. C. § 4042(a), so it is well positioned to identify
+“other reasons” based on a prisoner's personal circumstances. By con-
+trast, it plays no role in the sentencing process and lacks expertise in that
+area. See Fernandez v. United States, 608 U. S. 411, 425 (2026).
+6 Petitioners argue otherwise, but the cases they cite do not involve non-
+retroactive sentencing amendments. See United States v. Diaco, 457 F.
+Supp. 371, 372 (NJ 1978) (reducing a prisoner's sentence under 18 U. S. C.
+§ 4205(g) (1982 ed.) after his codefendants received significantly lower sen-
+tences); Setser v. United States, 566 U. S. 231, 242–243 (2012) (suggesting
+that a district court could use § 3582(c)(1)(A) (2018 ed.) to address the
+unfairness resulting from state-court developments that produce an un-
+usually long sentence). We need not decide whether compassionate re-
+lease is available for these kinds of postjudgment developments.
+B
+Petitioners, echoed by the dissent, insist that our reading
+artificially limits the text. The terms “extraordinary and
+compelling,” they say, are “ `comprehensive and flexible,' ” re-
+quiring a “ `case-by-case' inquiry into the `totality of the cir-
+cumstances.' ” Brief for Petitioner Rutherford 15, 17; see
+Brief for Petitioner Carter 41. And under this “ `flexible,
+all-things-considered approach,' ” a judge may consider the
+disparity resulting from Congress's amendment to § 924(c).
+Brief for Petitioner Rutherford 17; see post, at 480 (opinion
+of Sotomayor, J.).
+While the terms “extraordinary” and “compelling” leave
+room for judgment, they are not so flexible as to encompass
+any consideration. Their meaning depends on context: A
+reason is “extraordinary” and “compelling” only if it is suffi-
+ciently unusual and convincing to “warrant” compassionate
+release. 18 U. S. C. § 3582(c)(1)(A)(i); see Fernandez v.
+United States, 608 U. S. 411, 423–424, and n. 4 (2026). As
+we have explained, the disparity resulting from Congress's
+amendment to § 924(c) tracks ordinary sentencing practice
+and reflects Congress's deliberate choice to extend relief to
+some prisoners and not others. Thus, the disparity is nei-
+ther an “extraordinary” nor a “compelling” reason that war-
+rants a reduction in sentence.
+Both petitioners and the dissent note that when Congress
+empowered the Sentencing Commission to describe the
+grounds for compassionate release, it included only one ex-
+press limitation: “Rehabilitation of the defendant alone shall
+not be considered an extraordinary and compelling reason.”
+28 U. S. C. § 994(t). By ruling out just one reason, they
+argue, Congress impliedly authorized the district court to
+consider all other relevant information. Post, at 483–484.
+This argument fares no better. We have repeatedly em-
+phasized that “ `[t]he force of any negative implication . . .
+depends on context.' ” NLRB v. SW General, Inc., 580 U. S.
+288, 302 (2017) (quoting Marx v. General Revenue Corp., 568
+U. S. 371, 381 (2013)); see also A. Scalia & B. Garner, Reading
+Law: The Interpretation of Legal Texts 107–111 (2012). A
+speaker's choice to rule out one item does not always mean
+that the rest of the universe is on the table. Imagine that
+a dietitian cautions her patient, “Pasta alone is not an accept-
+able dinner.” Though the patient might fervently wish oth-
+erwise, this advice does not license any meal besides stand-
+alone pasta. (Fried chicken with a side of funnel cakes? A
+bowl of Lucky Charms?) Instead, the dietitian surely had
+some reason—like the patient's past eating habits—to cau-
+tion against this specific choice.
+So too with § 994(t). By addressing rehabilitation, Con-
+gress did not impliedly bless all other considerations. In-
+stead, it had a particular reason—namely, past sentencing
+practice—to single out this factor. Before the Sentencing
+Reform Act, “[b]oth indeterminate sentencing and parole
+were based on concepts of the offender's possible, indeed
+probable, rehabilitation, a view that it was realistic to at-
+tempt to rehabilitate the inmate and thereby to minimize the
+risk that he would resume criminal activity upon his return
+to society.” Mistretta v. United States, 488 U. S. 361, 363
+(1989). Guided by this aim, the judge and parole officer each
+made decisions based on “their own assessments of the of-
+fender's amenability to rehabilitation.” Ibid. When the
+Sentencing Reform Act eliminated parole and instituted a
+new sentencing regime, it “reject[ed] imprisonment as a
+means of promoting rehabilitation.” Id., at 367; see 18
+U. S. C. § 3582(a) (“[I]mprisonment is not an appropriate
+means of promoting correction and rehabilitation”). Ruling
+out “rehabilitation alone” as a basis for compassionate re-
+lease therefore underscores the break from the old system.
+It suggests nothing about what other reasons might qualify
+as “extraordinary and compelling.”
+And in petitioners' telling, the list is long. They empha-
+size that when imposing or modifying a sentence, a district
+court ordinarily enjoys “broad discretion to consider all rele-
+vant information” unless prohibited by the Constitution or
+by Congress. Concepcion v. United States, 597 U. S. 481,
+491 (2022); see 18 U. S. C. § 3661 (“No limitation shall be
+placed on the information concerning the background, char-
+acter, and conduct of a person . . . which a court . . . may
+receive and consider for the purpose of imposing an appro-
+priate sentence”). Section 3582(c)(1)(A) expressly recog-
+nizes that discretion, they argue, by providing that a court
+may grant relief “after considering the factors set forth in
+section 3553(a) to the extent that they are applicable.”
+Those factors include “the kinds of sentences available,” “the
+kinds of sentence and the sentencing range established for
+. . . the applicable category of offense,” and “the need to
+avoid unwarranted sentence disparities.” §§ 3553(a)(3)–(4),
+(6). A factor like the disparity caused by a nonretroactive
+sentencing amendment, petitioners contend, fts right in. See
+also post, at 482–483, 488–489.
+Petitioners skip a step. Before determining the extent of
+a reduction based on the § 3553(a) factors, a court must first
+ensure that a movant is part of the “limited class of prison-
+ers” who are “eligibl[e]” for such a reduction. Dillon v.
+United States, 560 U. S. 817, 825, 827 (2010). And whether
+a prisoner is eligible depends on whether he can offer “ex-
+traordinary and compelling” reasons that “warrant” compas-
+sionate release, not on the § 3553(a) factors. § 3582(c)(1)
+(A)(i); see id., at 827. This gatekeeping requirement is not,
+as petitioners seem to believe, a free-for-all. It is a distinct
+analytical step that imposes independent and ascertainable
+limits on access to compassionate release.
+Concepcion v. United States, 597 U. S. 481, is not to the
+contrary. Concepcion involved sentence-modification pro-
+ceedings under a different provision of the Act. See id., at
+486–487. All agreed that the defendant was eligible for a
+reduction under that provision; the only question was what
+type of information the District Court could consider in mod-
+ifying his sentence. See id., at 488 (explaining that “[t]he
+Government conceded [the defendant's] eligibility for re-
+lief”). Because that provision lacks any limiting language,
+we concluded that a court could consider changes to the
+Guidelines, as well as intervening facts, when calculating a
+new sentence under it. Id., at 500. Today's cases differ
+from Concepcion because they concern whether a prisoner
+is eligible for compassionate release in the first place. And
+on that score, Congress has “expressly cabined district
+courts' discretion,” id., at 495, by prohibiting a reduction in
+sentence unless a court finds that “extraordinary and com-
+pelling” reasons warrant it.
+Finally, petitioners downplay the conflict between the Act
+and their interpretation of § 3582(c)(1)(A)(i). True, Con-
+gress chose not to reduce § 924(c) penalties on a categorical
+basis for already sentenced defendants. But petitioners' ap-
+proach is not categorical: The disparity between a pre- and
+post-Act sentence would serve as just one of at least two
+considerations that, taken together, warrant compassionate
+release. And reducing a sentence based on an all-things-
+considered judgment, petitioners argue, does not contradict
+Congress's decision to leave a class of offenders ineligible for
+a sentencing reduction. See also post, at 487–488.
+The implications of this argument are sweeping. Indeed,
+its logic extends well beyond nonretroactive sentencing
+amendments to disagreement with the length of any punish-
+ment on the books. Take a judge who believes that a man-
+datory minimum is unduly harsh. Could she treat the se-
+verity of the sentence as an “extraordinary and compelling
+reason” for compassionate release? Petitioners refused to
+rule out this possibility at oral argument. Tr. of Oral Arg.
+11–15, 44–49. Yet “[i]t is the legislature, not the Court,
+which is to define a crime, and ordain its punishment.”
+United States v. Wiltberger, 5 Wheat. 76, 95 (1820). Treat-
+ing the severity of a mandatory penalty as a reason for com-
+passionate release rejects Congress's judgment that the pun-
+ishment fts the crime. 7 And petitioners' proposal—inject-
+ing other factors into the mix of extraordinary and compel-
+ling reasons—does not solve the problem. The Sixth Circuit
+put it well: “[A]dding a legally impermissible ground to three
+insufficient factual considerations does not entitle a defend-
+ant to a sentence reduction. ” United States v. Jarvis, 999
+F. 3d 442, 444 (2021).
+C
+This brings us to the Sentencing Commission. Recall that
+Congress authorized the Commission to promulgate policy
+statements that “describe what should be considered ex-
+traordinary and compelling reasons for sentence reduction,”
+28 U. S. C. § 994(t), and provided that any grant of compas-
+sionate release must be consistent with the Commission's
+policy statements, 18 U. S. C. § 3582(c)(1)(A). Recall, too,
+that the Commission's current policy statement allows con-
+sideration of nonretroactive legal changes in certain circum-
+stances. Petitioners contend that our interpretation of the
+statute must yield to the policy statement.
+Petitioners misunderstand the Commission's role. Con-
+gress has empowered the Commission to “give meaning” to
+the compassionate release provision by identifying the cir-
+cumstances that constitute “extraordinary and compelling”
+reasons for release. Loper Bright Enterprises v. Rai-
+mondo, 603 U. S. 369, 394 (2024). Even so, the Commission's
+7 The dissent tries to escape this dilemma by arguing that the severity
+of a mandatory minimum is not a “relevant consideration” under § 3553(a).
+Post, at 490. But the dissent is conspicuously silent about why, on its
+logic, a district court could not credit this fact as an “extraordinary and
+compelling” reason why a prisoner is eligible for a reduction. If there is
+no restriction on the “kind[s]” of reasons that qualify, post, at 480, then
+the severity of a mandatory penalty should be fair game too. And
+whether district courts will ever “routinely” rely on this consideration is
+beside the point. Post, at 491. A district court is never free—even in
+an individual case—to reject a punishment that Congress has required.

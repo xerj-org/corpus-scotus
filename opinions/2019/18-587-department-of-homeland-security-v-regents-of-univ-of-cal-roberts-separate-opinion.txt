@@ -1,0 +1,79 @@
+Department of Homeland Security v. Regents of Univ. of Cal. — No. 18-587 — October Term 2019 — decided 6/18/20 — Opinion of Roberts, C. J.
+Citation: 591 U.S. 1
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US1PP_web.pdf#page=11 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+reliance interests engendered by DACA when exercising in-
+dividualized enforcement discretion.
+To be clear, DHS was not required to do any of this or to
+“consider all policy alternatives in reaching [its] decision.”
+State Farm, 463 U. S., at 51. Agencies are not compelled to
+explore “every alternative device and thought conceivable by
+the mind of man.” Vermont Yankee Nuclear Power Corp.
+v. Natural Resources Defense Council, Inc., 435 U. S. 519,
+551 (1978). But, because DHS was “not writing on a blank
+slate,” post, at 59, n. 14 (opinion of Thomas, J.), it was re-
+quired to assess whether there were reliance interests, de-
+termine whether they were significant, and weigh any such
+interests against competing policy concerns.
+The lead dissent sees all the foregoing differently. In its
+view, DACA is illegal, so any actions under DACA are them-
+selves illegal. Such actions, it argues, must cease immedi-
+ately and the APA should not be construed to impede that
+result. See post, at 56–60 (opinion of Thomas, J.).
+The dissent is correct that DACA was rescinded because
+of the Attorney General's illegality determination. See
+post, at 57. But nothing about that determination fore-
+closed or even addressed the options of retaining forbearance
+or accommodating particular reliance interests. Acting Sec-
+retary Duke should have considered those matters but did
+not. That failure was arbitrary and capricious in violation
+of the APA.
+IV
+Lastly, we turn to respondents' claim that the rescission
+violates the equal protection guarantee of the Fifth
+Amendment.
+The parties dispute the proper framing of this claim. The
+Government contends that the allegation that the Executive,
+motivated by animus, ended a program that disproportion-
+ately benefits certain ethnic groups is a selective enforce-
+ment claim. Such a claim, the Government asserts, is
+barred by our decision in Reno v. American-Arab Anti-
+34 DEP ARTMENT OF HOMELAND SECURITY v.
+REGENTS OF UNIV . OF CAL.
+Opinion of Roberts, C. J.
+Discrimination Committee . See 525 U. S., at 488 (holding
+that “an alien unlawfully in this country has no constitutional
+right to assert selective enforcement as a defense against his
+deportation”). Respondents counter that their claim falls
+outside the scope of that precedent because they are not
+challenging individual enforcement proceedings. We need
+not resolve this debate because, even if the claim is cogniza-
+ble, the allegations here are insufficient.
+To plead animus, a plaintiff must raise a plausible inference
+that an “invidious discriminatory purpose was a motivating
+factor” in the relevant decision. Arlington Heights v. Met-
+ropolitan Housing Development Corp., 429 U. S. 252, 266
+(1977). Possible evidence includes disparate impact on a
+particular group, “[d]epartures from the normal procedural
+sequence,” and “contemporary statements by members of
+the decisionmaking body.” Id., at 266–268. Tracking these
+factors, respondents allege that animus is evidenced by (1)
+the disparate impact of the rescission on Latinos from Mex-
+ico, who represent 78% of DACA recipients; (2) the unusual
+history behind the rescission; and (3) pre- and post-election
+statements by President Trump. Brief for New York 54–55.
+None of these points, either singly or in concert, estab-
+lishes a plausible equal protection claim. First, because
+Latinos make up a large share of the unauthorized alien
+population, one would expect them to make up an outsized
+share of recipients of any cross-cutting immigration relief
+program. See B. Baker, DHS, Office of Immigration Statis-
+tics, Population Estimates, Illegal Alien Population Residing
+in the United States: January 2015, Table 2 (Dec. 2018),
+https://www.dhs.gov/sites/default/files/publications/18_1214_
+PLCY_pops-est-report.pdf. Were this fact sufficient to
+state a claim, virtually any generally applicable immigration
+policy could be challenged on equal protection grounds.
+Second, there is nothing irregular about the history lead-
+ing up to the September 2017 rescission. The lower courts
+concluded that “DACA received reaffrmation by [DHS] as

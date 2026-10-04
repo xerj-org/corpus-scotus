@@ -1,0 +1,231 @@
+Moyle v. United States — No. 23-726 — October Term 2023 — decided 6/27/24 — Kagan, J., concurring
+Citation: 603 U.S. 324
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r53_l5gm.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Per Curiam.
+The writs of certiorari before judgment are dismissed as
+improvidently granted, and the stays entered by the Court
+on January 5, 2024, are vacated.
+It is so ordered.
+Justice Kagan, with whom Justice Sotomayor joins, and
+with whom Justice Jackson joins as to Part II, concurring.
+An Idaho law prohibits abortions unless necessary to pre-
+vent a pregnant woman's death; the law makes no exception
+see, Ken Paxton of Texas, Sean Reyes of Utah, Patrick Morrisey of West
+Virginia, and Bridget Hill of Wyoming; for the American Association of
+Pro-Life Obstetricians and Gynecologists by Judd E. Stone II and Ari
+Cuenin; for the American Center for Law and Justice by Jay Alan Seku-
+low, Stuart J. Roth, Colby M. May, Jordan A. Sekulow, and Laura B.
+Hernandez; for the Christian Medical & Dental Associations by Lori H.
+Windham and Rebekah P . Ricketts; for the Institute for Faith and Family
+by Deborah J. Dewart and Tami Fitzgerald; for the Manhattan Institute
+by Ilya Shapiro; for the Minnesota Family Council et al. by Nicholas J.
+Nelson and Renee K. Carlson; for the National Right to Life Committee
+by James Bopp, Jr.; for the Prolife Center at the University of St. Thomas
+by Christopher E. Mills; for Stanton International by William Wagner
+and Erin Elizabeth Mersino; for the United States Conference of Catholic
+Bishops et al. by Thomas Brejcha and B. Tyler Brooks; and for 121 Members
+of Congress by Steven H. Aden. William J. Olson, Jeremiah L. Morgan,
+Robert J. Olson, and Phillip L. Jauregui fled a brief for America's Future
+as amici curiae in No. 23–726 urging reversal. Gene C. Schaerr fled a brief
+for the Charlotte Lozier Institute as amicus curiae urging vacatur.
+Briefs of amici curiae urging affirmance in both cases were fled for the
+State of California et al. by Letitia James, Attorney General of New York,
+Barbara D. Underwood, Solicitor General, Ester Murdukhayeva, Deputy
+Solicitor General, Galen Sherwin, Laura Etlinger , Assistant Solicitor
+General, by Rob Bonta, Attorney General of California, Michael J.
+Mongan, Solicitor General, Helen H. Hong and Julie Veroff, Deputy Solici-
+tors General, Renu R. George , Senior Assistant Attorney General, Karli
+Eisenberg, Supervising Deputy Attorney General, and Hayley Penan,
+Deputy Attorney General, and by the Attorneys General for their respec-
+tive jurisdictions as follows: Kris Mayes of Arizona, Philip J. Weiser
+of Colorado, William Tong of Connecticut, Kathleen Jennings of Dela-
+ware, Brian L. Schwalb of the District of Columbia, Anne E. Lopez
+of Hawaii, Kwame Raoul of Illinois, Aaron M. Frey of Maine, Anthony
+for abortions necessary to prevent grave harms to the wom-
+an's health, like the loss of her fertility. Before the law
+could take effect, the Federal Government sued the State
+under the Emergency Medical Treatment and Labor Act
+(EMTALA). That law requires a Medicare-funded hospital
+G. Brown of Maryland, Andrea Joy Campbell of Massachusetts, Dana Nes-
+sel of Michigan, Keith Ellison of Minnesota, Aaron D. Ford of Nevada,
+Matthew J. Platkin of New Jersey, Raúl Torrez of New Mexico, Joshua
+H. Stein of North Carolina, Ellen F. Rosenblum of Oregon, Michelle A.
+Henry of Pennsylvania, Peter F. Neronha of Rhode Island, Charity R.
+Clark of Vermont, Robert W. Ferguson of Washington, and Joshua L. Kaul
+of Wisconsin; for the County of Santa Clara et al. by Meredith A. Johnson,
+Rachel A. Neil, Lyndsey M. Olson, and Sylvia O. Hinds-Radix; for the
+American Civil Liberties Union et al. by Alexa Kolbi-Molinas, Jennifer
+Dalven, David D. Cole, Kathleen R. Hartnett, and Angeline Chen; for the
+American College of Obstetricians and Gynecologists et al. by Skye L.
+Perryman, Carrie Y . Flaxman, Kaitlyn Golden, and Shannon Rose Sel-
+den; for the American Hospital Association et al. by Charlotte H. Taylor
+and Amanda K. Rice; for Amnesty International et al. by Christina G.
+Hioureas; for Former HHS Officials by Nicole Saharsky; for Legal Schol-
+ars by John P . Elwood, Daphne O'Connor, Andrew T. Tutt, and William
+T. Sharon; for the National Network of Abortion Funds by Jamie L. Lisa-
+gor and Alanna Peterson; for Physicians for Human Rights by Gerson H.
+Smoger; for Physicians for Reproductive Health by Janice Mac Avoy; for
+Public Citizen by Nandan M. Joshi, Allison M. Zieve, and Scott L. Nelson;
+for Sanctuary for Families et al. by Jennifer Kennedy Park; for Caitlin
+Bernard et al. by Rupali Sharma and Tanya Pellegrini; for David S.
+Cohen et al. by Susan Frietsche and David S. Cohen, pro se; and for 258
+Members of Congress by Elizabeth B. Wydra and Brianne J. Gorod.
+Briefs of amici curiae were fled in both cases for Advancing American
+Freedom et al. by J. Marc Wheat; for the American Public Health Associa-
+tion et al. by Thomas Barker; for the Center for Constitutional Jurispru-
+dence by John C. Eastman and Anthony T. Caso; for the Chicago Abortion
+Fund by Alexander M. Wolf and Drew Padley; for Disability Rights Advo-
+cates et al. by Carolyn F. Corwin and Maria Michelle Uzeta; for the Foun-
+dation for Moral Law et al. by John A. Eidsmoe and Roy S. Moore; for
+the Idaho Coalition for Safe Healthcare, Inc., by Colleen R. Smith; for
+Local Prosecutors et al. by Corey Stoughton, Rajat Rana, and Jonathan B.
+Miller; for the National Women's Law Center et al. by Christine E. Webber,
+Michelle Banker, Gretchen Borchelt, and Leila Abolfazli; for Pregnancy
+Justice et al. by H. Rodgin Cohen and Sharon Cohen Levin; for St. Luke's
+Health System, Ltd., by Lindsay C. Harrison; for the U. S. Women's Cham-
+to provide essential care to patients experiencing medi -
+cal emergencies. The Government's suit contended that
+EMTALA preempts the Idaho abortion law in a narrow class
+of cases: when the state law bars a hospital from performing
+an abortion needed to prevent serious health harms.
+The District Court, believing the Government was likely
+to prevail in its suit, entered a preliminary injunction. Dur-
+ing the year that the injunction was in place, women in Idaho
+were able to obtain abortions in medical emergencies.
+Idaho meanwhile sought to get the injunction lifted. When
+the en banc Court of Appeals for the Ninth Circuit declined
+to stay the injunction, Idaho fled an emergency application
+here. This Court stayed the injunction and granted the
+State's petition for certiorari before judgment. With that
+stay in effect, Idaho could enforce its abortion ban even when
+terminating a pregnancy was necessary to prevent grave
+harm to the woman. The on-the-ground impact was im-
+mediate. To ensure appropriate medical care, the State's
+largest provider of emergency services had to airlift preg-
+nant women out of Idaho roughly every other week, com-
+pared to once in all of the prior year (when the injunction
+was in effect). See Tr. of Oral Arg. 66, 113.
+I concur in the Court's decision today to vacate its stay
+and dismiss the writ of certiorari before judgment as im-
+providently granted. I do so because Idaho's arguments
+about EMTALA do not justify, and have never justified,
+either emergency relief or our early consideration of this dis-
+pute. With this Court's writ of certiorari dismissed, the
+lower courts can proceed with this litigation in the regular
+course. And with this Court's stay dissolved, the District
+Court's preliminary injunction will again take effect. That
+ber of Commerce et al. by James C. Martin and M. Patrick Yingling; for
+Women Hurt by Abortion by Mary J. Browning, R. Clayton Trotter,
+Allan E. Parker, Jr., and Catherine Glenn Foster; for Kent Greenfeld
+et al. by Emily Kanstroom Musgrave and Susan Finegan; and for
+Amanda Zurawski et al. by Beth S. Brinkmann, Marc Hearron, and
+Molly Duane.
+will prevent Idaho from enforcing its abortion ban when the
+termination of a pregnancy is needed to prevent serious
+harms to a woman's health.
+I
+EMTALA requires hospitals to provide abortions that Ida-
+ho's law prohibits. When that is so, Idaho's law is preempted.
+The Court's ruling today follows from those premises.
+Federal law and Idaho law are in conflict about the treat-
+ment of pregnant women facing health emergencies.
+EMTALA requires a Medicare-funded hospital to offer an
+abortion when needed to stabilize a medical condition that
+seriously threatens a pregnant woman's life or health. See
+42 U. S. C. § 1395dd. Idaho allows abortions only when “nec-
+essary to prevent” a pregnant woman's “death.” Idaho Code
+Ann. § 18–622(2)(a)(i) (Supp. 2023). By their terms, the two
+laws differ. What falls in the gap between them are cases in
+which continuing a pregnancy does not put a woman's life in
+danger, but still places her at risk of grave health conse-
+quences, including loss of fertility. In that situation, federal
+law requires a hospital to offer an abortion, whereas Idaho law
+prohibits that emergency care. And the record shows that,
+as a matter of medical reality, such cases exist. For example,
+when a woman comes to an emergency room with preterm pre-
+mature rupture of membranes (PPROM), the serious risk she
+faces may not be of death but of damage to her uterus, prevent-
+ing her from having children in the future. See 2 App. 594;
+see also id., at 615–616 (similar for preeclampsia). Idaho has
+never suggested that its law would allow an abortion in those
+circumstances. See Tr. of Oral Arg. 23 (stating that although
+the threat of death need not be “imminen[t],” only that threat
+can justify an abortion); see also id., at 25–28, 33–34. That is
+why hospitals in Idaho have had to airlift medically fragile
+women to other States to receive abortions needed to prevent
+serious harms to their health. See id., at 66, 103–104, 113–
+115. Those transfers measure the difference between the
+life-threatening conditions Idaho will allow hospitals to treat
+and the health-threatening conditions it will not, despite
+EMTALA's command.
+Given that conflict, I agree with the Court's decision today
+to step back from its early intervention in this dispute. In
+the first stage of this suit, the District Court considered both
+sides' medical evidence and entered a preliminary injunction
+against Idaho's law on the ground of preemption. See 623
+F. Supp. 3d 1096, 1103–1105, 1110, 1117 (2022). After the
+Idaho Supreme Court construed the law, the District Court
+revisited its findings, and reaffirmed its entry of the injunc-
+tion. See 2023 WL 3284977, *1, *5 (May 4, 2023). In line
+with standard practice, that decision now can go to the Court
+of Appeals, and the District Court can afterward consider
+further evidence and arguments for the purpose of final judg-
+ment. Idaho is not entitled to anything more. It mainly
+argues that EMTALA never requires a hospital to “offer
+medical treatments that violate state law,” even when they
+are needed to prevent substantial health harms. Tr. of Oral
+Arg. 4. In my view, that understanding of EMTALA is not
+“likely to succeed on the merits,” and so cannot support a
+stay of the injunction. Nken v. Holder, 556 U. S. 418, 434
+(2009). Neither does the State's argument provide any basis
+for this Court to short-circuit the proceedings below. To-
+day's ruling thus puts the case back where it belongs, and
+with the preliminary injunction in place.
+II
+Justice Alito's dissenting opinion requires a brief re-
+sponse. His primary argument is that although EMTALA
+generally obligates hospitals to provide emergency medical
+care, it never demands that they offer an abortion—no mat-
+ter how much that procedure is needed to prevent grave
+physical harm, or even death. See post, at 348–359. That
+view has no basis in the statute.
+EMTALA unambiguously requires that a Medicare-funded
+hospital provide whatever medical treatment is necessary to
+stabilize a health emergency—and an abortion, in rare situa-
+tions, is such a treatment. The statutory obligation kicks in
+when an individual arrives at a hospital with an “emergency
+medical condition,” which is one involving serious jeopardy
+to health. § 1395dd(e)(1)(A). The hospital must then “sta-
+bilize” the condition. § 1395dd(b)(1)(A). That means offer-
+ing the medical treatment necessary to ensure that “no ma-
+terial deterioration of the condition” is likely to occur.
+§ 1395dd(e)(3)(A). The statute does not list particular treat-
+ments—for example, defbrillation, blood transfusion, or me-
+chanical ventilation. What it instead requires is the treat-
+ment that is medically appropriate to stabilize the patient.
+And when a pregnancy goes terribly wrong, that treatment
+may be an abortion. Termination of the pregnancy (which
+is often of a non-viable fetus) may be the only way to prevent
+a woman's death or serious injury, including kidney failure
+or loss of fertility. See 623 F. Supp. 3d, at 1101, 1103–1105.
+I do not understand Justice Alito to dispute that medical
+fact. And from that fact, a statutory obligation arises. It
+does not matter that EMTALA “does not mention abortion.”
+Post, at 356; see post, at 349. Neither, as just noted, does
+EMTALA mention any other treatment. The statute sim-
+ply requires the hospital to offer the treatment necessary to
+prevent the emergency condition from spiraling downward.
+And on rare occasions that means providing an abortion.
+The statute's references to protecting an “unborn child” do
+not lead to a different result. Contrary to Justice Alito's
+view, none alters EMTALA's command when a pregnancy
+threatens the woman's life or health. Three of the four pro-
+visions Justice Alito cites concern the treatment of women
+in labor (including all those with healthy pregnancies).
+Those provisions ensure that a hospital, in considering
+the transfer of a woman to another facility, takes account of
+risks to not only the woman but also her “unborn child.”
+§ 1395dd(c)(1)(A)(ii), (2)(A), (e)(1)(B)(ii). The provisions
+have no application to women who are not in labor, but in-
+stead are experiencing a different pregnancy-related condi-

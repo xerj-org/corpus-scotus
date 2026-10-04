@@ -1,0 +1,917 @@
+Trump v. CASA, Inc. — No. 24A884 — October Term 2024 — decided 6/27/25 — opinion of the Court — author Barrett (listing code AB)
+Citation: 606 U.S. 831
+Source: https://www.supremecourt.gov/opinions/24pdf/606us2r66_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Barrett delivered the opinion of the Court.
+The United States has fled three emergency applications
+challenging the scope of a federal court's authority to enjoin
+Government officials from enforcing an executive order.
+Traditionally, courts issued injunctions prohibiting executive
+officials from enforcing a challenged law or policy only
+against the plaintiffs in the lawsuit. The injunctions before
+us today reflect a more recent development: district courts
+asserting the power to prohibit enforcement of a law or pol-
+icy against anyone. These injunctions—known as “univer-
+sal injunctions”—likely exceed the equitable authority that
+Congress has granted to federal courts. 1 We therefore
+I. Harris III, Mark J. Fitzgibbons, Jeffrey C. Tuomala, Patrick M. Mc-
+Sweeney, J. Mark Brewer, Joseph W. Miller, and Phillip L. Jauregui;
+for the Claremont Institute's Center for Constitutional Jurisprudence
+by John C. Eastman and Alexander Haberbush; for the Immigration Re-
+form Law Institute by Christopher J. Hajec; for Members of Congress
+by R. Trent McCotter, Daniel Z. Epstein, and Joel B. Ard; for Edwin
+Meese III by J. Christian Adams; and for Joshua Steinman by Judd E.
+Stone II.
+Briefs of amici curiae were fled in all cases for the State of Tennessee
+by Jonathan Skrmetti, Attorney General of Tennessee, J. Matthew Rice,
+Solicitor General, and Whitney D. Hermandorfer; for Members of the U. S.
+Congress by Jonathan Weinberg; for the National Immigrant Justice
+Center by Charles Roth; for Corey J. Biazzo, pro se; for David Boyle, pro
+se; for William T. Dickson, pro se; for G. Antaeus B. Edelsohn by Joan
+Deborah B. Edelsohn; and for James E. Pfander, pro se , by Jeffrey T.
+Green.
+Briefs of amici curiae were fled in No. 24A884 for the Chamber of
+Commerce of the United States of America by Elbert Lin, Erica N. Pe-
+terson, and Jennifer B. Dickey; and for Legal Historians by Virginia
+Grace Davis.
+1 Such injunctions are sometimes called “nationwide injunctions,” re-
+fecting their use by a single district court to bar the enforcement of a law
+anywhere in the Nation. But the term “universal” better captures how
+these injunctions work. Even a traditional, parties-only injunction can
+apply beyond the jurisdiction of the issuing court. Steele v. Bulova Watch
+Co., 344 U. S. 280, 289 (1952) (When “exercising its equity powers,” a dis-
+grant the Government's applications to partially stay the in-
+junctions entered below.
+I
+The applications before us concern three overlapping, uni-
+versal preliminary injunctions entered by three different
+District Courts. See 763 F. Supp. 3d 723 (Md. 2025), appeal
+pending, No. 25–1153 (CA4); 765 F. Supp. 3d 1142 (WD Wash.
+2025), appeal pending, No. 25–807 (CA9); Doe v. Trump, 766
+F. Supp. 3d 266 (Mass. 2025), appeal pending, No. 25–1170
+(CA1). The plaintiffs—individuals, organizations, and
+States—sought to enjoin the implementation and enforce-
+ment of President Trump's Executive Order No. 14160. 2
+See Protecting the Meaning and Value of American Citizen-
+ship, 90 Fed. Reg. 8449 (2025). The Executive Order identi-
+fes circumstances in which a person born in the United
+States is not “subject to the jurisdiction thereof” and is thus
+not recognized as an American citizen. See ibid. Specifi-
+cally, it sets forth the “policy of the United States” to no
+longer issue or accept documentation of citizenship in two
+scenarios: “(1) when [a] person's mother was unlawfully pres-
+ent in the United States and the person's father was not a
+United States citizen or lawful permanent resident at the
+time of said person's birth, or (2) when [a] person's mother's
+trict court “may command persons properly before it to cease or perform
+acts outside its territorial jurisdiction”). The difference between a tradi-
+tional injunction and a universal injunction is not so much where it applies,
+but whom it protects: A universal injunction prohibits the Government
+from enforcing the law against anyone, anywhere. H. Wasserman, “Na-
+tionwide” Injunctions Are Really “Universal” Injunctions and They Are
+Never Appropriate, 22 Lewis & Clark L. Rev. 335, 338 (2018).
+2 The Government does not dispute—nor could it—that the individual
+plaintiffs have standing to sue. But it argues that the States lack third-
+party standing because their claims rest exclusively on the rights of indi-
+viduals. Application for Partial Stay of Injunction in No. 24A884, pp. 28–
+32. It also challenges the District Courts' authority to grant relief to the
+organizations' members who are not identified in the complaints. See id.,
+at 22. We do not address these arguments.
+presence in the United States was lawful but temporary, and
+the person's father was not a United States citizen or lawful
+permanent resident at the time of said person's birth.”
+Ibid. The Executive Order also provides for a 30-day ramp-
+up period. During that time, the order directs executive
+agencies to develop and issue public guidance regarding the
+order's implementation. See id., at 8449–8450.
+The plaintiffs fled suit, alleging that the Executive Order
+violates the Fourteenth Amendment's Citizenship Clause,
+§ 1, as well as § 201 of the Nationality Act of 1940, 54 Stat.
+1138 (codified at 8 U. S. C. § 1401). In each case, the District
+Court concluded that the Executive Order is likely unlawful
+and entered a universal preliminary injunction barring vari-
+ous executive officials from applying the policy to anyone in
+the country. And in each case, the Court of Appeals denied
+the Government's request to stay the sweeping relief. See
+2025 WL 654902 (CA4, Feb. 28, 2025); 2025 WL 553485 (CA9,
+Feb. 19, 2025); 131 F. 4th 27 (CA1 2025).
+The Government has now fled three nearly identical appli-
+cations seeking to partially stay the universal preliminary
+injunctions and limit them to the parties. See Application
+for Partial Stay of Injunction in No. 24A884; Application for
+Partial Stay of Injunction in No. 24A885; Application for Par-
+tial Stay of Injunction in No. 24A886. 3 The applications do
+not raise—and thus we do not address—the question
+whether the Executive Order violates the Citizenship Clause
+or Nationality Act. The issue before us is one of remedy:
+whether, under the Judiciary Act of 1789, federal courts have
+equitable authority to issue universal injunctions.
+II
+The question whether Congress has granted federal courts
+the authority to universally enjoin the enforcement of an ex-
+ecutive or legislative policy plainly warrants our review, as
+3 Because the applications are materially identical, we cite only the appli-
+cation in No. 24A884 throughout the rest of the opinion.
+Members of this Court have repeatedly emphasized. See,
+e. g., McHenry v. Texas Top Cop Shop, Inc., 604 U. S. –––, –––
+(2025) (Gorsuch, J., concurring in grant of stay) (“I would
+. . . take this case now to resolve definitively the question
+whether a district court may issue universal injunctive re-
+lief”); Labrador v. Poe, 601 U. S. 1110, 1116 (2024) (Gorsuch,
+J., joined by Thomas and Alito, JJ., concurring in grant of
+stay) (“[T]he propriety of universal injunctive relief [is] a
+question of great significance that has been in need of the
+Court's attention for some time”); Griffn v. HM Florida-
+ORL, LLC , 601 U. S. –––, ––– (2023) (statement of Kava-
+naugh, J., joined by Barrett, J., except as to footnote 1,
+respecting denial of application for stay) (Universal injunc-
+tions present “an important question that could warrant our
+review in the future”); Trump v. Hawaii, 585 U. S. 667, 713
+(2018) (Thomas, J., concurring) (“If [universal injunctions']
+popularity continues, this Court must address their legal-
+ity”). On multiple occasions, and across administrations, the
+Solicitor General has asked us to consider the propriety of
+this expansive remedy. See, e. g., Application for Stay of In-
+junction in McHenry v. Texas Top Cop Shop, Inc., O. T. 2024,
+No. 24A653 (Biden administration); Brief for Petitioners in
+Trump v. Hawaii, O. T. 2017, No. 17–965 (first Trump
+administration).
+It is easy to see why. By the end of the Biden administra-
+tion, we had reached “a state of affairs where almost every
+major presidential act [was] immediately frozen by a federal
+district court.” W. Baude & S. Bray, Comment, Proper Par-
+ties, Proper Relief, 137 Harv. L. Rev. 153, 174 (2023). The
+trend has continued: During the first 100 days of the second
+Trump administration, district courts issued approximately
+25 universal injunctions. Congressional Research Service,
+J. Lampe, Nationwide Injunctions in the First Hundred Days
+of the Second Trump Administration 1 (May 16, 2025). As
+the number of universal injunctions has increased, so too has
+the importance of the issue.
+III
+A
+The Government is likely to succeed on the merits of its
+argument regarding the scope of relief. See Nken v. Holder,
+556 U. S. 418, 434 (2009) (holding that for a stay application
+to be granted, the applicant must make “ `a strong showing
+that [it] is likely to succeed on the merits' ”). A universal
+injunction can be justified only as an exercise of equitable
+authority, yet Congress has granted federal courts no such
+power.4
+The Judiciary Act of 1789 endowed federal courts with ju-
+risdiction over “all suits . . . in equity,” § 11, 1 Stat. 78, and
+still today, this statute “is what authorizes the federal courts
+to issue equitable remedies,” S. Bray & E. Sherwin, Reme-
+dies 442 (4th ed. 2024). Though flexible, this equitable au-
+thority is not freewheeling. We have held that the statutory
+grant encompasses only those sorts of equitable remedies
+“traditionally accorded by courts of equity” at our country's
+inception. Grupo Mexicano de Desarrollo, S. A. v. Alliance
+Bond Fund, Inc., 527 U. S. 308, 319 (1999); see also, e. g.,
+Payne v. Hook, 7 Wall. 425, 430 (1869) (“The equity jurisdic-
+tion conferred on the Federal courts is the same that the
+High Court of Chancery in England possesses”). 5 We must
+therefore ask whether universal injunctions are sufficiently
+“analogous” to the relief issued “ `by the High Court of
+Chancery in England at the time of the adoption of the
+4 Our decision rests solely on the statutory authority that federal courts
+possess under the Judiciary Act of 1789. We express no view on the Gov-
+ernment's argument that Article III forecloses universal relief.
+5 See also Guaranty Trust Co. v. York, 326 U. S. 99, 105 (1945) (“[T]he
+federal courts [have] no power that they would not have had in any event
+when courts were given `cognizance,' by the first Judiciary Act, of suits
+`in equity' ”); Boyle v. Zacharie & Turner , 6 Pet. 648, 658 (1832) (“[T]he
+settled doctrine of this court is, that the remedies in equity are to be
+administered, not according to the state practice, but according to the
+practice of courts of equity in the parent country”).
+Constitution and the enactment of the original Judiciary
+Act.' ” Grupo Mexicano , 527 U. S., at 318–319 (quoting A.
+Dobie, Handbook of Federal Jurisdiction and Procedure 660
+(1928)).
+The answer is no: Neither the universal injunction nor any
+analogous form of relief was available in the High Court of
+Chancery in England at the time of the founding. Equity
+offered a mechanism for the Crown “to secure justice where
+it would not be secured by the ordinary and existing proc-
+esses of law.” G. Adams, The Origin of English Equity, 16
+Colum. L. Rev. 87, 91 (1916). This “judicial prerogative of
+the King” thus extended to “those causes which the ordinary
+judges were incapable of determining.” 1 J. Pomeroy, Eq-
+uity Jurisprudence § 31, p. 27 (1881). Eventually, the Crown
+instituted the “practice of delegating the cases” that “came
+before” the judicial prerogative “to the chancellor for his sole
+decision.” Id., § 34, at 28. This “became the common mode
+of dealing with such controversies.” Ibid.
+Of importance here, suits in equity were brought by and
+against individual parties. Indeed, the “general rule in Eq-
+uity [was] that all persons materially interested [in the suit
+were] to be made parties to it.” J. Story, Commentaries on
+Equity Pleadings § 72, p. 74 (2d ed. 1840) (Story). Injunc-
+tions were no exception; there were “sometimes suits to re-
+strain the actions of particular officers against particular
+plaintiffs.” S. Bray, Multiple Chancellors: Reforming the
+National Injunction, 131 Harv. L. Rev. 417, 425 (2017) (Bray,
+Multiple Chancellors) (emphasis added). And in certain
+cases, the “Attorney General could be a defendant.” Ibid.
+The Chancellor's remedies were also typically party specific.
+“As a general rule, an injunction” could not bind one who
+was not a “party to the cause.” F. Calvert, Suits in Equity
+120 (2d ed. 1847); see also Iveson v. Harris, 7 Ves. 251, 257,
+32 Eng. Rep. 102, 104 (1802) (“[Y]ou cannot have an injunc-
+tion except against a party to the suit”). Suffice it to say,
+then, under longstanding equity practice in England, there
+was no remedy “remotely like a national injunction.” Bray,
+Multiple Chancellors 425.
+Nor did founding-era courts of equity in the United States
+chart a different course. See 1 Pomeroy, Equity Jurispru-
+dence § 41, at 33–34. If anything, the approach traditionally
+taken by federal courts cuts against the existence of such
+a sweeping remedy. Consider Scott v. Donald, where the
+plaintiff successfully challenged the constitutionality of a law
+on which state officials had relied to confscate alcohol that
+the plaintiff kept for personal use. See 165 U. S. 107, 109
+(1897) (statement of case); id., at 111–112 (opinion of the
+Court). Although the plaintiff sought an injunction barring
+enforcement of the law against both himself and anyone else
+“whose rights [were] infringed and threatened” by it, this
+Court permitted only a narrower decree between “the par-
+ties named as plaintiff and defendants in the bill.” Id., at
+115–117.6
+In the ensuing decades, we consistently rebuffed requests
+for relief that extended beyond the parties. See, e. g., Per-
+kins v. Lukens Steel Co., 310 U. S. 113, 123 (1940) (“The bene-
+fts of [the court's] injunction” improperly extended “to bid-
+ders throughout the Nation who were not parties to any
+proceeding, who were not before the court[,] and who had
+6 Though the principal dissent claims otherwise, we do not treat Scott
+as “dispositive.” Post, at 905 (opinion of Sotomayor, J.). Under Grupo
+Mexicano de Desarrollo, S. A. v. Alliance Bond Fund, Inc., 527 U. S.
+308 (1999), the lack of a historical analogue is dispositive. Scott simply
+illustrates that as late as 1897, this Court adhered to a party-specifc view
+of relief. And while the principal dissent relies on Smyth v. Ames, 169
+U. S. 466, 518 (1898), as a counterexample to Scott, see post, at 905 (opinion
+of Sotomayor, J.), it is unclear why. Even supporters of the universal
+injunction recognize that “the decree [that Smyth] affirmed did not reach
+beyond the parties.” M. Sohoni, The Lost History of the “Universal” In-
+junction, 133 Harv. L. Rev. 920, 939 (2020); Smyth, 169 U. S., at 476–477
+(statement of case) (quoting circuit court order that enjoined state officials
+from enforcing the statute “against said railroad companies” (emphasis
+added)).
+sought no relief”); cf. Frothingham v. Mellon, decided with
+Massachusetts v. Mellon, 262 U. S. 447, 487–489 (1923) (con-
+cluding that the Court lacked authority to issue “preventive
+relief” that would apply to people who “suffe[r] in some in-
+definite way in common with people generally”); Bray, Multi-
+ple Chancellors 433 (explaining that the Frothingham analy-
+sis “intertwines concepts of equity, remedies, and the judicial
+power”). As Justice Nelson put it while riding circuit,
+“[t]here is scarcely a suit at law, or in equity, . . . in which a
+general statute is interpreted, that does not involve a ques-
+tion in which other parties are interested.” Cutting v. Gil-
+bert, 6 F. Cas. 1079, 1080 (No. 3,519) (CC SDNY 1865). But
+to allow all persons subject to the statute to be treated as
+parties to a lawsuit “would confound the established order of
+judicial proceedings.” Ibid.
+Our early refusals to grant relief to nonparties are consist-
+ent with the party-specifc principles that permeate our un-
+derstanding of equity. “[N]either declaratory nor injunctive
+relief,” we have said, “can directly interfere with enforce-
+ment of contested statutes or ordinances except with respect
+to the particular federal plaintiffs.” Doran v. Salem Inn,
+Inc., 422 U. S. 922, 931 (1975); see also Gregory v. Stetson,
+133 U. S. 579, 586 (1890) (“It is an elementary principle that
+a court cannot adjudicate directly upon a person's right with-
+out having him either actually or constructively before it.
+This principle is fundamental”); Baude & Bray, 137 Harv.
+L. Rev., at 168 (noting the “party-specifc understanding of
+what equitable remedies do”).
+In fact, universal injunctions were not a feature of federal-
+court litigation until sometime in the 20th century. See
+Bray, Multiple Chancellors 448–452 (discussing various ra-
+tionales for the birth of the universal injunction); see also
+Application in No. 24A884, at 17–18. The D. C. Circuit is-
+sued what some regard as the first universal injunction in
+1963. See Wirtz v. Baldor Elec. Co., 337 F. 2d 518, 535 (en-
+joining the Secretary of Labor “with respect to the entire
+[electric motors and generators] industry,” not just the
+named plaintiffs to the lawsuit). 7 Yet such injunctions re-
+mained rare until the turn of the 21st century, when their
+use gradually accelerated. See Bray, Multiple Chancellors
+439–443 (referencing Flast v. Cohen, 392 U. S. 83 (1968), and
+Harlem Valley Transp. Assn. v. Stafford, 360 F. Supp. 1057
+(SDNY 1973)). One study identified approximately 127 uni-
+versal injunctions issued between 1963 and 2023. See Dis-
+trict Court Reform: Nationwide Injunctions, 137 Harv.
+L. Rev. 1701, 1705 (2024). Ninety-six of them—over three
+quarters—were issued during the administrations of Presi-
+dent George W. Bush, President Obama, President Trump,
+and President Biden. Ibid.
+The bottom line? The universal injunction was conspicu-
+ously nonexistent for most of our Nation's history. Its ab-
+sence from 18th- and 19th-century equity practice settles the
+question of judicial authority. 8 See Grupo Mexicano , 527
+7 There is some dispute about whether Wirtz was the first universal
+injunction. Professor Mila Sohoni points to other possible 20th-century
+examples, including West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624
+(1943), Pierce v. Society of Sisters, 268 U. S. 510 (1925), and Lewis Publish-
+ing Co. v. Morgan, 229 U. S. 288 (1913). See Sohoni, 133 Harv. L. Rev., at
+943; Brief for Professor Mila Sohoni as Amica Curiae 3; see also post, at
+898–899 (opinion of Sotomayor, J.). But see M. Morley, Disaggregating
+the History of Nationwide Injunctions: A Response to Professor Sohoni,
+72 Ala. L. Rev. 239, 252–256 (2020) (disputing these examples). Regard-
+less, under any account, universal injunctions postdated the founding by
+more than a century—and under Grupo Mexicano , equitable authority
+exercised under the Judiciary Act must derive from founding-era practice.
+527 U. S., at 319. It also bears emphasis that none of these cases ad-
+dresses the propriety of universal relief. Like a “drive-by-jurisdictional
+rulin[g],” implicit acquiescence to a broad remedy “ha[s] no precedential ef-
+fect.” Steel Co. v. Citizens for Better Environment, 523 U. S. 83, 91 (1998).
+8 The principal dissent faults us for failing to identify a single founding-
+era case in which this Court held that universal injunctions exceed a federal
+court's equitable authority. See post, at 905–906 (opinion of Sotomayor,
+J.). But this absence only bolsters our case. That this Court had no occa-
+sion to reject the universal injunction as inconsistent with traditional eq-
+uity practice merely demonstrates that no party even bothered to ask for
+U. S., at 318–319. That the absence continued into the 20th
+century renders any claim of historical pedigree still more
+implausible. Even during the “deluge of constitutional liti-
+gation that occurred in the wake of Ex parte Young, through-
+out the Lochner Era, and at the dawn of the New Deal,”
+universal injunctions were nowhere to be found. M. Morley,
+Disaggregating the History of Nationwide Injunctions: A
+Response to Professor Sohoni, 72 Ala. L. Rev. 239, 252 (2020)
+(footnotes omitted). Had federal courts believed themselves
+to possess the tool, surely they would not have let it lie idle.
+Faced with this timeline, the principal dissent accuses us
+of “misunderstand[ing] the nature of equity” as being “fr[o-
+zen] in amber . . . at the time of the Judiciary Act.” Post,
+at 906 (opinion of Sotomayor, J.). Not so. We said it be-
+fore, see supra, at 841, and say it again: “[E]quity is flexible.”
+Grupo Mexicano , 527 U. S., at 322. At the same time, its
+“flexibility is confined within the broad boundaries of tradi-
+tional equitable relief.” 9 Ibid. A modern device need not
+such a sweeping remedy—because no court would have entertained the
+request. Cf. Grupo Mexicano , 527 U. S., at 332 (“[E]quitable powers con-
+ferred by the Judiciary Act of 1789 did not include the power to create
+remedies previously unknown to equity jurisprudence”).
+9 Notwithstanding Grupo Mexicano , the principal dissent invokes Ex
+parte Young, 209 U. S. 123 (1908), as support for the proposition that eq-
+uity can encompass remedies that have “no analogue in the relief exercised
+in the English Court of Chancery,” because Ex parte Young permits plain-
+tiffs to “obtain plaintiff-protective injunctions against Government off-
+cials,” and the English Court of Chancery “could not enjoin the Crown or
+English officers,” post, at 907 (opinion of Sotomayor, J.). But contrary
+to the principal dissent's suggestion, Ex parte Young does not say—either
+explicitly or implicitly—that courts may devise novel remedies that have
+no background in traditional equitable practice. Historically, a court of
+equity could issue an antisuit injunction to prevent an officer from engag-
+ing in tortious conduct. Ex parte Young justifies its holding by reference
+to a long line of cases authorizing suits against state officials in certain
+circumstances. See 209 U. S., at 150–152 (citing, e. g., Osborn v. Bank of
+United States, 9 Wheat. 738 (1824); Governor of Georgia v. Madrazo, 1
+Pet. 110 (1828); and Davis v. Gray, 16 Wall. 203 (1873)). Support for the
+principal dissent's approach is found not in Ex parte Young, but in Justice
+Ginsburg's partial dissent in Grupo Mexicano , which eschews the govern-
+have an exact historical match, but under Grupo Mexicano ,
+it must have a founding-era antecedent. And neither the
+universal injunction nor a sufficiently comparable predeces-
+sor was available from a court of equity at the time of our
+country's inception. See id., at 333. Because the universal
+injunction lacks a historical pedigree, it falls outside the
+bounds of a federal court's equitable authority under the Ju-
+diciary Act.10 See id., at 318–319.
+B
+Respondents raise several counterarguments, which the
+principal dissent echoes. First, they insist that the univer-
+sal injunction has a sufficient historical analogue: a decree
+resulting from a bill of peace. Second, they maintain that
+universal injunctions are consistent with the principle that a
+court of equity may fashion complete relief for the parties.
+Third, they argue that universal injunctions serve important
+policy objectives.
+1
+In an effort to satisfy Grupo Mexicano's historical test,
+respondents claim that universal injunctive relief does have
+a founding-era forebear: the decree obtained on a “bill of
+peace,” which was a form of group litigation permitted
+in English courts. See Opposition to Application in No.
+24A884 (CASA), pp. 30–31; see also Brief for Professor Mila
+Sohoni as Amica Curiae 6–8. This bill allowed the Chancel-
+lor to consolidate multiple suits that involved a “common
+claim the plaintiff could have against multiple defendants” or
+“some kind of common claim that multiple plaintiffs could
+have against a single defendant.” Bray, Multiple Chancel-
+lors 426; see How v. Tenants of Bromsgrove , 1 Vern. 22, 23
+ing historical approach in favor of “[a] dynamic equity jurisprudence.”
+527 U. S., at 337 (opinion concurring in part and dissenting in part).
+10 Nothing we say today resolves the distinct question whether the Ad-
+ministrative Procedure Act authorizes federal courts to vacate federal
+agency action. See 5 U. S. C. § 706(2) (authorizing courts to “hold unlaw-
+ful and set aside agency action”).
+Eng. Rep. 277 (1681) (suit by a lord against his tenants collec-
+tively); Brown v. Vermuden, 1 Ch. Ca. 283, 22 Eng. Rep. 802
+(1676), and Brown v. Vermuden, 1 Ch. Ca. 272, 22 Eng. Rep.
+796 (1676) (suit by a parson against lead miners in a parish,
+who named four of their members to defend the suit in a
+representative capacity). Universal injunctions are analo-
+gous to this traditional equitable device, respondents say, so
+federal courts have authority under the Judiciary Act to
+issue them.
+The analogy does not work. True, “bills of peace allowed
+[courts of equity] to adjudicate the rights of members of dis-
+persed groups without formally joining them to a lawsuit
+through the usual procedures.” Arizona v. Biden, 40 F. 4th
+375, 397 (CA6 2022) (Sutton, C. J., concurring); see Story
+§§ 120–135 (discussing representative suits). Even so, their
+use was confined to limited circumstances. See 7A C.
+Wright, A. Miller, & M. Kane, Federal Practice and Proce-
+dure § 1751, p. 10, and n. 4 (4th ed. 2021) (citing Adair v. New
+River Co., 11 Ves. 429, 32 Eng. Rep. 1153 (Ch. 1803)). Unlike
+universal injunctions, which reach anyone affected by legis-
+lative or executive action—no matter how large the group or
+how tangential the effect—a bill of peace involved a “group
+[that] was small and cohesive,” and the suit did not “resolve a
+question of legal interpretation for the entire realm.” Bray,
+Multiple Chancellors 426. And unlike universal injunctions,
+which bind only the parties to the suit, decrees obtained on
+a bill of peace “would bind all members of the group, whether
+they were present in the action or not.” 7A Wright, Federal
+Practice and Procedure § 1751, at 10; see Smith v. Sworm-
+stedt, 16 How. 288, 303 (1854) (When “a court of equity per-
+mits a portion of the parties in interest to represent the en-
+tire body . . . the decree binds all of them the same as if all
+were before the court”); see also Story § 120 (“[I]n most, if
+not in all, cases of this sort, the decree obtained upon such a
+Bill will ordinarily be held binding upon all other persons
+standing in the same predicament”). As Chief Judge Sutton
+aptly put it, “[t]he domesticated animal known as a bill of
+peace looks nothing like the dragon of nationwide injunc-
+tions.” Arizona, 40 F. 4th, at 397 (concurring opinion).
+The bill of peace lives in modern form, but not as the uni-
+versal injunction. It evolved into the modern class action,
+which is governed in federal court by Rule 23 of the Federal
+Rules of Civil Procedure. 7A Wright, Federal Practice and
+Procedure § 1751, at 10 (“It was the English bill of peace that
+developed into what is now known as the class action”); see
+Hansberry v. Lee, 311 U. S. 32, 41 (1940) (“The class suit was
+an invention of equity”). And while Rule 23 is in some ways
+“more restrictive of representative suits than the original
+bills of peace,” Rodgers v. Bryant, 942 F. 3d 451, 464 (CA8
+2019) (Stras, J., concurring), it would still be recognizable to
+an English Chancellor. Rule 23 requires numerosity (such
+that joinder is impracticable), common questions of law or
+fact, typicality, and representative parties who adequately
+protect the interests of the class. Fed. Rule Civ. Proc. 23(a).
+The requirements for a bill of peace were virtually identical.
+See 7A Wright, Federal Practice and Procedure § 1751, at 10,
+and n. 4 (citing Adair, 11 Ves. 429, 32 Eng. Rep. 1153). None
+of these requirements is a prerequisite for a universal
+injunction.
+Rule 23's limits on class actions underscore a significant
+problem with universal injunctions. A “ `properly con-
+ducted class action,' ” we have said, “can come about in fed-
+eral courts in just one way—through the procedure set out
+in Rule 23.” Smith v. Bayer Corp., 564 U. S. 299, 315 (2011);
+Fed. Rule Civ. Proc. 23(a) (“One or more members of a class
+may sue or be sued as representative parties on behalf of
+all members only if ” Rule 23(a)'s requirements are satisfied
+(emphasis added)). Yet by forging a shortcut to relief that
+benefits parties and nonparties alike, universal injunctions
+circumvent Rule 23's procedural protections and allow
+“ `courts to “create de facto class actions at will.” ' ” Smith,
+564 U. S., at 315 (quoting Taylor v. Sturgell, 553 U. S. 880,
+901 (2008)). Why bother with a Rule 23 class action when
+the quick fx of a universal injunction is on the table? Cf.
+Grupo Mexicano, 527 U. S., at 330–331 (“Why go through the
+trouble of complying with local attachment and garnishment
+statutes when this all-purpose prejudgment injunction is
+available?”). The principal dissent's suggestion that these
+suits could have satisfied Rule 23's requirements simply
+proves that universal injunctions are a class-action work-
+around. Post, at 902–903 (opinion of Sotomayor, J.).
+The taxpayer suit is a similarly inadequate historical anal-
+ogy. Contra, post, at 901–902. In a successful taxpayer
+suit, a court would enjoin the collection of an unlawful tax
+against “taxpayers joined as co-plaintiffs, or by one taxpayer
+suing on behalf of himself and all others similarly situated.”
+1 Pomeroy, Equity Jurisprudence § 260, at 277. To be sure,
+some state courts would occasionally “enjoin the enforce-
+ment and collection” of taxes against an “entire community,”
+even when a “single taxpayer su[ed] on his own account.”
+Id., at 277–278. But the practice of extending relief “with
+respect to any taxpayer” was not adopted by state courts
+until the mid-19th century, and even then, not all states were
+willing to provide such sweeping relief. See Bray, Multiple
+Chancellors 427. This post-founding practice of some state
+courts thus sheds minimal light on federal courts' equitable
+authority under the Judiciary Act. What is more, in Froth-
+ingham, we refused to allow a single taxpayer to challenge
+a federal appropriations act. 262 U. S., at 486–487. That
+counsels against placing much, if any, reliance on taxpayer
+suits as justification for the modern universal injunction.
+2
+Respondents contend that universal injunctions—or at
+least these universal injunctions—are consistent with the
+principle that a court of equity may fashion a remedy that
+awards complete relief. See Opposition to Application in
+No. 24A884 ( CASA), at 22–25; Opposition to Application in
+No. 24A885 ( Washington), pp. 28–32; Opposition to Applica-
+tion in No. 24A886 (New Jersey), pp. 31–39. We agree that
+the complete-relief principle has deep roots in equity. But
+to the extent respondents argue that it justifies the award
+of relief to nonparties, they are mistaken.11
+“Complete relief” is not synonymous with “universal re-
+lief.” It is a narrower concept: The equitable tradition has
+long embraced the rule that courts generally “may adminis-
+ter complete relief between the parties.” Kinney-Coastal
+Oil Co. v. Kieffer, 277 U. S. 488, 507 (1928) (emphasis added).
+While party-specifc injunctions sometimes “advantag[e]
+nonparties,” Trump, 585 U. S., at 717 (Thomas, J., concur-
+ring), they do so only incidentally.
+Consider an archetypal case: a nuisance in which one
+neighbor sues another for blasting loud music at all hours of
+the night. To afford the plaintiff complete relief, the court
+has only one feasible option: order the defendant to turn her
+11 Justice Jackson, for her part, thinks the “premise” that universal
+injunctions provide relief to nonparties is “suspect” because, in her view,
+“[n]onparties may benefit from an injunction, but only the plaintiff gets
+relief.” Post, at 928–929, n. 2 (dissenting opinion). The availability of
+contempt proceedings suggests otherwise. Consider the civil contempt
+context. Under “traditional principles of equity practice,” courts may
+“impos[e] civil contempt sanctions to `coerce [a] defendant into compliance'
+with an injunction.” Taggart v. Lorenzen, 587 U. S. 554, 560 (2019) (quot-
+ing United States v. Mine Workers, 330 U. S. 258, 303–304 (1947)). Gener-
+ally, civil contempt proceedings occur between the original parties to the
+lawsuit. See Gompers v. Bucks Stove & Range Co., 221 U. S. 418, 444–
+445 (1911). But a federal court's “power in civil contempt proceedings is
+determined by the requirements of full remedial relief” to “effect compli-
+ance with its decree.” McComb v. Jacksonville Paper Co., 336 U. S. 187,
+193–194 (1949). And “[w]hen an order grants relief for a nonparty,” as is
+the case with universal injunctions, “the procedure for enforcing the order
+is the same as for a party.” Fed. Rule Civ. Proc. 71; see, e. g., Zamecnik
+v. Indiana Prairie School Dist. No. 204, 636 F. 3d 874, 879 (CA7 2011).
+So a nonparty covered by a universal injunction is likely to reap both the
+practical benefit and the formal relief of the injunction. See M. Smith,
+Only Where Justified: Toward Limits and Explanatory Requirements for
+Nationwide Injunctions, 95 Notre Dame L. Rev. 2013, 2019 (2020).
+music down—or better yet, off. That order will necessarily
+benefit the defendant's surrounding neighbors too; there is
+no way “to peel off just the portion of the nuisance that
+harmed the plaintiff.” Rodgers, 942 F. 3d, at 462 (Stras, J.,
+concurring); see A. Woolhandler & C. Nelson, Does History
+Defeat Standing Doctrine? 102 Mich. L. Rev. 689, 702 (2004).
+But while the court's injunction might have the practical
+effect of benefting nonparties, “that benefit [is] merely inci-
+dental.” Trump, 585 U. S., at 717 (Thomas, J., concurring);
+see also 3 J. Pomeroy, Equity Jurisprudence § 1349, pp. 380–
+381 (1883).12 As a matter of law, the injunction's protection
+extends only to the suing plaintiff—as evidenced by the fact
+that only the plaintiff can enforce the judgment against the
+defendant responsible for the nuisance. If the nuisance per-
+sists, and another neighbor wants to shut it down, she must
+fle her own suit. 13
+The individual and associational respondents are therefore
+wrong to characterize the universal injunction as simply an
+application of the complete-relief principle. Under this
+principle, the question is not whether an injunction offers
+complete relief to everyone potentially affected by an alleg-
+edly unlawful act; it is whether an injunction will offer com-
+plete relief to the plaintiffs before the court. See Califano
+v. Yamasaki, 442 U. S. 682, 702 (1979) (“[I]njunctive relief
+should be no more burdensome to the defendant than neces-
+sary to provide complete relief to the plaintiffs” (emphasis
+added)). Here, prohibiting enforcement of the Executive
+12 There may be other injuries for which it is all but impossible for courts
+to craft relief that is complete and benefits only the named plaintiffs.
+See, e. g., Shaw v. Hunt, 517 U. S. 899 (1996) (racially gerrymandered con-
+gressional maps).
+13 The new plaintiff might be able to assert nonmutual offensive issue
+preclusion. See Parklane Hosiery Co. v. Shore, 439 U. S. 322, 331–332
+(1979) (setting forth prerequisites for applying the doctrine). But nonmu-
+tual offensive issue preclusion is unavailable against the United States.
+United States v. Mendoza, 464 U. S. 154, 155 (1984). That universal in-
+junctions end-run this rule is one of the Government's objections to them.
+Order against the child of an individual pregnant plaintiff
+will give that plaintiff complete relief: Her child will not be
+denied citizenship. Extending the injunction to cover all
+other similarly situated individuals would not render her re-
+lief any more complete.
+The complete-relief inquiry is more complicated for the
+state respondents, because the relevant injunction does not
+purport to directly benefit nonparties. Instead, the District
+Court for the District of Massachusetts decided that a uni-
+versal injunction was necessary to provide the States them-
+selves with complete relief. See 766 F. Supp. 3d, at 288. 14
+The States maintain that the District Court made the right
+call. See Opposition to Application in No. 24A886 (New Jer-
+sey), at 31–39.
+As the States see it, their harms—financial injuries and
+the administrative burdens flowing from citizen-dependent
+benefits programs—cannot be remedied without a blanket
+ban on the enforcement of the Executive Order. See, e. g.,
+id., at 9–11. Children often move across state lines or are
+born outside their parents' State of residence. Id., at 31, 35.
+Given the cross-border fow, the States say, a “patchwork
+injunction” would prove unworkable, because it would re-
+quire them to track and verify the immigration status of the
+parents of every child, along with the birth State of every
+child for whom they provide certain federally funded bene-
+fts. Ibid.
+The Government—unsurprisingly—sees matters differ-
+ently. It retorts that even if the injunction is designed to
+benefit only the States, it is “more burdensome than neces-
+sary to redress” their asserted harms. Califano, 442 U. S.,
+at 702. After all, to say that a court can award complete
+14 The District Court for the Western District of Washington acknowl-
+edged the state respondents' complete-relief argument but primarily
+granted a universal injunction on the basis that the “extreme nature of
+the equities . . . alone warrant[ed] nationwide relief.” 765 F. Supp. 3d
+1142, 1153 (2025).
+relief is not to say that it should do so. Complete relief is
+not a guarantee—it is the maximum a court can provide.
+And in equity, “the broader and deeper the remedy the plain-
+tiff wants, the stronger the plaintiff 's story needs to be.” S.
+Bray & P. Miller, Getting into Equity, 97 Notre Dame L. Rev.
+1763, 1797 (2022). In short, “[t]he essence of equity jurisdic-
+tion has been the power of the Chancellor to do equity and to
+mould each decree to the necessities of the particular case.”
+Hecht Co. v. Bowles, 321 U. S. 321, 329 (1944).
+Leaning on these principles, the Government contends
+that narrower relief is appropriate. For instance, the Dis-
+trict Court could forbid the Government to apply the Execu-
+tive Order within the respondent States, including to chil-
+dren born elsewhere but living in those States. Application
+in No. 24A884, at 23. Or, the Government says, the District
+Court could direct the Government to “treat covered chil-
+dren as eligible for purposes of federally funded welfare ben-
+efts.” Ibid. It asks us to stay the injunction insofar as it
+sweeps too broadly.
+We decline to take up these arguments in the first in-
+stance. The lower courts should determine whether a nar-
+rower injunction is appropriate; we therefore leave it to
+them to consider these and any related arguments.
+3
+Respondents also defend universal injunctions as a matter
+of policy. They argue that a universal injunction is some-
+times the only practical way to quickly protect groups from
+unlawful government action. See Opposition to Application
+in No. 24A884 ( CASA), at 26–27; see also A. Frost, In De-
+fense of Nationwide Injunctions, 93 N. Y . U. L. Rev. 1065,
+1090–1094 (2018) (suggesting that universal injunctions are
+appropriate when not all interested individuals can come
+quickly to court); post, at 914–915 (Sotomayor, J., dissenting).
+Respondents also contend that universal injunctions are an
+appropriate remedy to preserve equal treatment among indi-
+viduals when the Executive Branch adopts a facially unlaw-
+ful policy. Opposition to Application in No. 24A884 ( CASA),
+at 25–27; cf. post, at 899 (Sotomayor , J., dissenting). And
+they suggest that forcing plaintiffs to proceed on an individ-
+ual basis can result in confusion or piecemeal litigation that
+imposes unnecessary costs on courts and others. See Oppo-
+sition to Application in No. 24A885 ( Washington), at 31–32;
+Frost, 93 N. Y . U. L. Rev., at 1098–1101; see also post, at
+908 (Sotomayor, J., dissenting). So, they insist, universal
+injunctions must be permitted for the good of the system.
+The Government advances policy arguments running the
+other way. Echoing Chief Judge Sutton, the Government
+asserts that avoiding a patchwork enforcement system is a
+justification that “lacks a limiting principle and would make
+nationwide injunctions the rule rather than the exception”
+for challenges to many kinds of federal law. Arizona, 40
+F. 4th, at 397 (concurring opinion). It stresses—as the prin-
+cipal dissent also observes—that universal injunctions incen-
+tivize forum shopping, since a successful challenge in one ju-
+risdiction entails relief nationwide. See Application in No.
+24A884, at 19–20; see also post, at 899–900 (opinion of Soto-
+mayor, J.). In a similar vein, the Government observes that
+universal injunctions operate asymmetrically: A plaintiff
+must win just one suit to secure sweeping relief. But to
+fend off such an injunction, the Government must win every-
+where. See Application in No. 24A884, at 19–20; see also post,
+at 900 (opinion of Sotomayor, J.) (acknowledging this con-
+cern).15 Moreover, the Government contends, the practice of
+universal injunctions means that highly consequential cases
+are often decided in a “fast and furious” process of “ `rushed,
+15 The Government contrasts this with class actions. A judgment in a
+Rule 23 class action (favorable or not) binds the whole class—so if the
+defendant wins, it is protected from future suits. But because an adverse
+ruling on a request for universal relief lacks this preclusive effect, plain-
+tiffs can continue to fle in different forums until they find a court willing
+to award such relief.
+high-stakes, [and] low-information' ” decisionmaking. Lab-
+rador, 601 U. S., at 1119 (Gorsuch, J., concurring in grant of
+stay). When a district court issues a universal injunction,
+thereby halting the enforcement of federal policy, the
+Government says that it has little recourse but to proceed to
+the court of appeals for an emergency stay. The loser in
+the court of appeals will then seek a stay from this Court.
+See Application in No. 24A884, at 20. This process forces
+courts to resolve significant and difficult questions of law on
+a highly expedited basis and without full briefing. See
+ibid.16
+The upshot: As with most disputed issues, there are argu-
+ments on both sides. But as with most questions of law, the
+policy pros and cons are beside the point. Under our well-
+established precedent, the equitable relief available in the
+federal courts is that “traditionally accorded by courts of
+equity” at the time of our founding. Grupo Mexicano , 527
+U. S., at 319. Nothing like a universal injunction was avail-
+able at the founding, or for that matter, for more than a cen-
+tury thereafter. Thus, under the Judiciary Act, federal
+courts lack authority to issue them.
+C
+The principal dissent focuses on conventional legal terrain,
+like the Judiciary Act of 1789 and our cases on equity. Jus-
+16 Acknowledging these problems, the principal dissent admits that
+“[t]here may be good reasons not to issue universal injunctions in the typi-
+cal case.” Post, at 900 (opinion of Sotomayor, J.). This concession, while
+welcome, is inconsistent with the position that the universal injunction is
+a “nothing to see here” extension of the kind of decree obtained on a bill
+of peace. Neither the principal dissent nor respondents have pointed to
+any evidence that such decrees presented any of the universal injunction's
+systemic problems or that they were reserved for situations in which the
+defendant's conduct was “patently unconstitutional” and risked “excep-
+tional” harm. Post, at 899–900. It is precisely because the universal in-
+junction is a new, potent remedy that it poses new, potent risks. Our
+observation in Grupo Mexicano rings true here: “Even when sitting as a
+court in equity, we have no authority to craft a `nuclear weapon' of the
+law.” 527 U. S., at 332.
+tice Jackson, however, chooses a startling line of attack
+that is tethered neither to these sources nor, frankly, to any
+doctrine whatsoever. Waving away attention to the limits
+on judicial power as a “mind-numbingly technical query,”
+post, at 922 (dissenting opinion), she offers a vision of the
+judicial role that would make even the most ardent defender
+of judicial supremacy blush. In her telling, the fundamental
+role of courts is to “order everyone (including the Executive)
+to follow the law—full stop.” Ibid.; see also post, at 930
+(“[T]he function of the courts—both in theory and in prac-
+tice—necessarily includes announcing what the law requires
+in . . . suits for the benefit of all who are protected by the
+Constitution, not merely doling out relief to injured private
+parties”); see also post, at 930–931, n. 3, 935. And, she
+warns, if courts lack the power to “require the Executive to
+adhere to law universally,” post, at 935, courts will leave a
+“gash in the basic tenets of our founding charter that could
+turn out to be a mortal wound,” post, at 932.
+Rhetoric aside, Justice Jackson's position is difficult to
+pin down. She might be arguing that universal injunctions
+are appropriate—even required—whenever the defendant is
+part of the Executive Branch. See, e. g., post, at 923, 930–932,
+936–937. If so, her position goes far beyond the mainstream
+defense of universal injunctions. See, e. g., Frost, 93 N. Y . U.
+L. Rev., at 1069 (“Nationwide injunctions come with signif-
+cant costs and should never be the default remedy in cases
+challenging federal executive action”). As best we can tell,
+though, her argument is more extreme still, because its logic
+does not depend on the entry of a universal injunction: Jus-
+tice Jackson appears to believe that the reasoning behind
+any court order demands “universal adherence,” at least
+where the Executive is concerned. Post, at 922 (dissenting
+opinion). In her law-declaring vision of the judicial function,
+a district court's opinion is not just persuasive, but has the
+legal force of a judgment. But see Haaland v. Brackeen,
+599 U. S. 255, 294 (2023) (“It is a federal court's judgment,
+not its opinion, that remedies an injury”). Once a single dis-
+trict court deems executive conduct unlawful, it has stated
+what the law requires. And the Executive must conform to
+that view, ceasing its enforcement of the law against any-
+one, anywhere.17
+We will not dwell on Justice Jackson's argument, which
+is at odds with more than two centuries' worth of precedent,
+not to mention the Constitution itself. We observe only this:
+Justice Jackson decries an imperial Executive while em-
+bracing an imperial Judiciary.
+No one disputes that the Executive has a duty to follow the
+law. But the Judiciary does not have unbridled authority to
+enforce this obligation—in fact, sometimes the law prohibits
+the Judiciary from doing so. See, e. g., Marbury v. Madison,
+1 Cranch 137 (1803) (concluding that James Madison had vio-
+lated the law but holding that the Court lacked jurisdiction
+to issue a writ of mandamus ordering him to follow it). But
+see post, at 935 (Jackson, J., dissenting) (“If courts do not
+have the authority to require the Executive to adhere to law
+universally, . . . compliance with law sometimes becomes a
+matter of Executive prerogative”). Observing the limits on
+judicial authority—including, as relevant here, the bound-
+aries of the Judiciary Act of 1789—is required by a judge's
+oath to follow the law.
+17 Think about what this position means. If a judge in the District of
+Alaska holds that a criminal statute is unconstitutional, can the United
+States prosecute a defendant under that statute in the District of Mary-
+land? Perhaps Justice Jackson would instinctively say yes; it is hard
+to imagine anyone saying no. But why, on Justice Jackson's logic, does
+it not violate the rule of law for the Executive to initiate a prosecution
+elsewhere? See post, at 922 (dissenting opinion). Among its many prob-
+lems, Justice Jackson's view is at odds with our system of divided judi-
+cial authority. See, e. g., this Court's Rule 10(a) (identifying conflict in the
+decisions of the courts of appeals as grounds for granting certiorari). It
+is also in considerable tension with the reality that district court opinions
+lack precedential force even vis-à-vis other judges in the same judicial
+district. See Camreta v. Greene, 563 U. S. 692, 709, n. 7 (2011).
+Justice Jackson skips over that part. Because analyz-
+ing the governing statute involves boring “legalese,” post, at
+923, she seeks to answer “a far more basic question of enor-
+mous legal and practical significance: May a federal court in
+the United States of America order the Executive to follow
+the law?” Ibid. In other words, it is unnecessary to con-
+sider whether Congress has constrained the Judiciary; what
+matters is how the Judiciary may constrain the Executive.
+Justice Jackson would do well to heed her own admonition:
+“[E]veryone, from the President on down, is bound by law.”
+Ibid. That goes for judges too.
+IV
+Finally, the Government must show a likelihood that it will
+suffer irreparable harm absent a stay. Nken, 556 U. S., at
+434–435. When a federal court enters a universal injunction
+against the Government, it “improper[ly] intru[des]” on “a
+coordinate branch of the Government” and prevents the Gov-
+ernment from enforcing its policies against nonparties. INS
+v. Legalization Assistance Project of Los Angeles County
+Federation of Labor , 510 U. S. 1301, 1306 (1993) (O'Connor,
+J., in chambers). That is enough to justify interim relief.
+The principal dissent disagrees, insisting that “it strains
+credulity to treat the Executive Branch as irreparably
+harmed” by these injunctions, even if they are overly broad.
+Post, at 894 (opinion of Sotomayor, J.); see also Opposition
+to Application in No. 24A884 ( CASA), at 16–20. That is so,
+the principal dissent argues, because the Executive Order is
+unconstitutional. Thus, “the Executive Branch has no right
+to enforce [it] against anyone.” Post, at 893.
+The principal dissent's analysis of the Executive Order is
+premature because the birthright citizenship issue is not be-
+fore us.18 And because the birthright citizenship issue is not
+18 The dissent worries that the Citizenship Clause challenge will never
+reach this Court, because if the plaintiffs continue to prevail, they will
+have no reason to petition for certiorari. And if the Government keeps
+before us, we take no position on whether the dissent's analy-
+sis is right. The dissent is wrong to say, however, that a
+stay applicant cannot demonstrate irreparable harm from a
+threshold error without also showing that, at the end of the
+day, it will prevail on the underlying merits. That is not
+how the Nken factors work. See 556 U. S., at 434. For in-
+stance, when we are asked to stay an execution on the
+grounds of a serious legal question, we ask whether the capi-
+tal defendant is likely to prevail on the merits of the issue
+before us, not whether he is likely to prevail on the merits
+of the underlying suit. See, e. g., Gutierrez v. Saenz, 603
+U. S. 937 (2024) (granting application for a stay based on a
+question implicating the prisoner's standing to attempt to
+access DNA testing). The same is true when an applicant
+seeks a stay in other contexts. See, e. g., Office of Personnel
+Management v. American Federation of Government Em-
+ployees, 604 U. S. ––– (2025) (granting application for stay
+because the organizational plaintiffs' allegations were “insuf-
+fcient to support [their] standing”). So too here.
+The question before us is whether the Government is
+likely to suffer irreparable harm from the District Courts'
+entry of injunctions that likely exceed the authority con-
+ferred by the Judiciary Act. The answer to that question is
+yes. See Coleman v. Paccar Inc., 424 U. S. 1301, 1307–1308
+(1976) (Rehnquist, C. J., in chambers); Trump v. Interna-
+tional Refugee Assistance Project, 582 U. S. 571, 578–579
+(2017) (per curiam ); see also Maryland v. King, 567 U. S.
+losing, it will “ha[ve] no incentive to fle a petition here . . . because the
+outcome of such an appeal would be preordained.” Post, at 918 (opinion
+of Sotomayor, J.). But at oral argument, the Solicitor General acknowl-
+edged that challenges to the Executive Order are pending in multiple cir-
+cuits, Tr. of Oral Arg. 50, and when asked directly “When you lose one of
+those, do you intend to seek cert?”, the Solicitor General responded, “yes,
+absolutely.” Ibid. And while the dissent speculates that the Govern-
+ment would disregard an unfavorable opinion from this Court, the Solicitor
+General represented that the Government will respect both the judgments
+and the opinions of this Court. See id., at 62–63.
+1301, 1303 (2012) (Roberts, C. J., in chambers) (“ `[A]ny time
+a State is enjoined by a court from effectuating statutes
+enacted by representatives of its people, it suffers a form of
+irreparable injury' ” (alteration in original)). And the bal-
+ance of equities does not counsel against awarding the Gov-
+ernment interim relief: Partial stays will cause no harm to
+respondents because they will remain protected by the pre-
+liminary injunctions to the extent necessary and appropriate
+to afford them complete relief.
+* * *
+Some say that the universal injunction “give[s] the Judi-
+ciary a powerful tool to check the Executive Branch.”
+Trump, 585 U. S., at 720 (Thomas, J., concurring) (citing S.
+Amdur & D. Hausman, Nationwide Injunctions and Nation-
+wide Harm, 131 Harv. L. Rev. Forum 49, 51, 54 (2017); S.
+Malveaux, Class Actions, Civil Rights, and the National In-
+junction, 131 Harv. L. Rev. Forum, 56, 57, 60–62 (2017)).
+But federal courts do not exercise general oversight of the
+Executive Branch; they resolve cases and controversies con-
+sistent with the authority Congress has given them. When
+a court concludes that the Executive Branch has acted un-
+lawfully, the answer is not for the court to exceed its
+power, too.
+The Government's applications to partially stay the pre-
+liminary injunctions are granted, but only to the extent that
+the injunctions are broader than necessary to provide com-
+plete relief to each plaintiff with standing to sue. The lower
+courts shall move expeditiously to ensure that, with respect
+to each plaintiff, the injunctions comport with this rule and
+otherwise comply with principles of equity. The injunctions
+are also stayed to the extent that they prohibit executive
+agencies from developing and issuing public guidance about
+the Executive's plans to implement the Executive Order.
+Consistent with the Solicitor General's representation, § 2 of

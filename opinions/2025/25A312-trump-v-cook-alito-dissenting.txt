@@ -1,0 +1,196 @@
+Trump v. Cook — No. 25A312 — October Term 2025 — decided 6/29/26 — ALITO, J., dissenting
+Citation: 609 U.S. 528
+Source: https://www.supremecourt.gov/opinions/25pdf/25a312_5468.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+ALITO, J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 25A312
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, APPLICANT v. LISA D. COOK, MEMBER
+OF THE BOARD OF GOVERNORS OF THE
+FEDERAL RESERVE SYSTEM, ET AL.
+ON APPLICATION FOR STAY
+[June 29, 2026]
+JUSTICE ALITO, with whom JUSTICE GORSUCH joins, dis-
+senting.
+This case presents many thorny legal questions.  What is
+the substance of the “for cause” removal standard as ap -
+plied to Federal Reserve Governor s?  12 U. S. C. §242.  Do
+Governors have an implied right of action to enforce that
+removal protection? See Alexander v. Sandoval, 532 U. S.
+275, 286–287 (2001).  What degree of judicial review, if any,
+applies to the President’s determination that cause exists?
+See Reagan v. United States , 182 U. S. 419, 425 (1901).
+What showing of “irreparable injury,” if any, can entitle a
+removed executive officer to an interim reinstatement or-
+der? See Sampson v. Murray, 415 U. S. 61, 84, 92, n. 68
+(1974). Does the President’s social-media post purporting
+to remove Governor Cook give  her standing to seek an in-
+junction against parties who never attempted to effectuate
+her removal? See Whole Woman’s Health  v. Jackson, 595
+U. S. 30, 48 (2021). May courts, consistent with Articles II
+and III of the Constitution, countermand the President’s at-
+tempted removal of a principal executive officer? See
+Trump v. United States, 603 U. S. 593, 608–609 (2024).  Can
+the President appeal an injunction that no enjoined party
+challenges?
+
+Some of these questions present issues of first impres-
+sion, and many of them lack obvious answers.  More im-
+portant, the lower courts in th is case have passed on very
+few of these issues and have done so in a preliminary and
+rushed fashion. We often say that “we are a court of review,
+not of first view,” Cutter v. Wilkinson, 544 U. S. 709, 718,
+n. 7 (2005), but the Court has strayed far from that oft-re-
+peated maxim here.
+What is before us is simply an application for a stay pend-
+ing appeal, and the Court should have granted or denied
+that application in a brief order last fall.  The nascency of
+this lawsuit and the novelty of the issues that it presents
+militated against holding oral argument and issuing a com-
+prehensive opinion at this juncture.  Rather than resolving
+several challenging and underdeveloped issues at this early
+stage of the litigation, I would decide this application solely
+on the two issues that the District Court addressed.  And
+because the District Court resolved those issues incorrectly,
+I respectfully dissent from the Court’s denial of a stay.
+I
+A summary of this case’s history illustrates the impru-
+dence of how the Court has handled this application.  The
+President purported to remove Governor Cook from office
+on August 25, and on August 28, she filed suit against the
+President, the Board of Governors of the Federal Reserve,
+and its chairman, Jerome Powell.
+After 12 days, one round of temporary-restraining-order
+briefing, and a single hearing, the District Court issued a
+preliminary injunction that barred Powell and the Board of
+Governors from effectuating the President’s attempted re -
+moval of Cook. The court rested its order on two grounds:
+The President’s allegations were not “cause” to remove
+Cook because they pertained to “conduct before she began
+serving on the Federal Reserve Board,” 804 F. Supp. 3d 14,
+32–33 (DC 2025), and the President violated the Due
+
+3  Cite as: 609 U. S. ____ (2026)
+ALITO, J., dissenting
+Process Clause by failing to provide Cook sufficient preter-
+mination process, id., at 33–39. The President appealed
+and moved to stay the injunction in the Court of Appeals for
+the D. C. Circuit.  Four days later, that court denied the
+motion, relying only on Cook’s due process claim. Order in
+No. 25–5326 (Sept. 15, 2025), App. 1a–7a (Garcia, J., joined
+by Childs, J., concurring) (Order).  The President then ap-
+plied for a stay from this Court.
+When that application arrived here, this litigation was
+just 21 days old. There had been only two rounds of abbre-
+viated briefing below and no meaningful development of a
+factual record. Indeed, the record does not even contain
+copies of Cook’s allegedly fraudulent mortgage applications.
+Of course, parties may appropriately seek (and courts
+may appropriately grant) stays early in a litigation.  No
+court, including this Court, should sit on its hands when
+interim relief is appropriate. But this does not mean that
+the Court must reach out to opine on each issue that could
+conceivably arise in a case’s future.  Here, the incipiency of
+this case and the complexity of the issues that it presents
+counseled in favor of a light touch by this Court, regardless
+of whether we granted or denied the application.  To that
+end, the Court should have resolved the President’s appli-
+cation shortly after we received it.  And in doing so, we
+should have focused on the few issues that the courts ad-
+dressed below. If a majority had desired, we could have is-
+sued a statement explaining our decision.  That is exactly
+how we have handled nearly all our stay applications in re-
+cent years.
+Had we adhered to this well- worn path and decided this
+application in October, the parties could have continued lit-
+igating this case in the lower courts.  See, e.g., Doe v. Mills,
+No. 21A83 (Oct. 19, 2021) (Breyer, J., in chambers) (denying
+stay without prejudice to rea pply after the lower court is -
+sues a final decision).  By now, the District Court might well
+have granted summary judgment for one of the parties,
+
+providing a fuller exposition of the relevant facts and legal
+issues. Or perhaps the D. C. Circuit would have resolved
+an expedited appeal. Although the panel performed admi-
+rably given the four days that it had to decide the Presi-
+dent’s stay motion, nobody can doubt that the panel would
+have produced more comprehensive opinions if it had even
+a fraction of the 280-plus days that this Court has spent
+with the case. Either way, this Court could have reentered
+the fray when we inevitably granted certiorari.
+Instead, the Court departed from its normal practice and
+“deferred” ruling on this app lication, bringing proceedings
+in the lower courts to a 9-month standstill.  606 U. S. 1062
+(2025). We then ordered the parties to submit more briefing
+than they had filed at any other point in this litigation.  In
+January, we held oral argument, marking just the second
+in-court proceeding in this entire suit. The Court now is -
+sues a full-length opinion that purports to resolve many
+complicated and novel legal questions on an underdevel-
+oped record while ignoring lurking jurisdictional issues.
+“Either out of humility or out of self-respect (one or the
+other), the Court should decline to answer” these “incredi-
+bly difficult” questions in this case’s current posture.  PGA
+TOUR, Inc. v. Martin, 532 U. S. 661, 700 (2001) (Scalia, J.,
+dissenting).
+II
+I would grant the application because, within the narrow
+confines of this case’s posture, the President has satisfied
+the traditional stay factors.
+Consider first the President’s likelihood of success on the
+merits. If the Court were to grant certiorari at this stage of
+the litigation, we would normally limit our consideration to
+the specific issues on which the courts below passed.  See
+F. Hoffmann-La Roche Ltd  v. Empagran S. A. , 542 U. S.
+155, 175 (2004).  Those issues are (1) whether removal “for
+cause” is limited to removal for in-office conduct, and
+
+5  Cite as: 609 U. S. ____ (2026)
+ALITO, J., dissenting
+(2) whether the President’s attempt to remove Cook vio-
+lated the Due Process Clause.
+On those two issues, the courts below were incorrect.  As
+the majority and J USTICE THOMAS apparently agree, the
+District Court erred in holding that removal “for cause”
+means removal only for “events that have occurred while
+[the officer is] in office.” 804 F. Supp. 3d, at 30; see ante, at
+11–15; ante, at 14–16 (dissenting opinion). And as J USTICE
+THOMAS and Judge Katsas have explained, Cook lacks a
+private property interest in her seat on the Board of Gover-
+nors. See ante, at 14; Order 16a–19a (Katsas, J., dissent-
+ing). Thus, the President’s attempt to remove her could not
+have violated the Due Process Clause. See American Mfrs.
+Mut. Ins. Co. v. Sullivan, 526 U. S. 40, 59 (1999) (“Only af-
+ter finding the deprivation of a protected interest do we look
+to see if the [defendant’s] procedures comport with due pro-
+cess”).
+Because the courts below resolved these two issues incor-
+rectly, I would conclude that the President has shown a
+likelihood that we would reverse at this preliminary stage,
+leaving all other issues to be developed on remand in the
+first instance.*  As to the remaining stay factors, this Court
+has held that they are satisfied when a lower court counter-
+mands the President’s removal of a principal executive
+——————
+*The Court claims that this disposit ion would have left “the public in
+limbo” and “sow[n] doubt as to the status of one of our Nation’s (and the
+world’s) most important financial institutions.”  Ante, at 24. See also
+ante, at 2–3 (K AVANAUGH, J., concurring).  But granting a stay on the
+ground set out above would have had no such effect.  It would have
+simply returned the case to the courts below so that the ligation could
+continue in the normal course.  That disposition would not have signaled
+any view on the question whether th e Constitution permits Congress to
+restrict a President’s authority to remove a member of the Federal Re-
+serve’s Board of Governors. That qu estion is indeed important and sen-
+sitive, but it is not before us in this case because the Government does
+not challenge the constitutionality of  the statutory restriction on the
+President’s power to remove Governor Cook.
+
+officer. See Trump v. Wilcox, 605 U. S. ___, ___ (2025) (slip
+op., at 1–2). A stay is therefore warranted here.
+* * *
+I respectfully dissent.

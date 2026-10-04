@@ -1,0 +1,592 @@
+Garland v. Cargill — No. 22-976 — October Term 2023 — decided 6/14/24 — opinion of the Court — author Thomas (listing code T)
+Citation: 602 U.S. 406
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r36_k537.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Thomas delivered the opinion of the Court.
+Congress has long restricted access to “ `machinegun[s],' ”
+a category of firearms defined by the ability to “shoot, auto-
+matically more than one shot . . . by a single function of the
+trigger.” 26 U. S. C. § 5845(b); see also 18 U. S. C. § 922(o).
+Semiautomatic firearms, which require shooters to reengage
+the trigger for every shot, are not machineguns. This case
+asks whether a bump stock—an accessory for a semiauto-
+matic rife that allows the shooter to rapidly reengage the
+trigger (and therefore achieve a high rate of fre)—converts
+the rife into a “machinegun.” We hold that it does not and
+therefore affirm.
+I
+A
+Under the National Firearms Act of 1934, a “machinegun”
+is “any weapon which shoots, is designed to shoot, or can be
+readily restored to shoot, automatically more than one shot,
+without manual reloading, by a single function of the trig-
+ger.” § 5845(b). The statutory definition also includes “any
+part designed and intended . . . for use in converting a
+weapon into a machinegun.” Ibid. With a machinegun, a
+shooter can fre multiple times, or even continuously, by en-
+gaging the trigger only once. This capability distinguishes
+America et al. by William J. Olson, Jeremiah L. Morgan, Robert J. Olson,
+and John I. Harris III; for the Manhattan Institute by Ilya Shapiro and
+R. Trent McCotter; for the National Association for Gun Rights, Inc., et al.
+by David A. Warrington, Gary M. Lawkowski, and Glenn D. Bellamy; for
+the National Association of Criminal Defense Lawyers by Theodore M.
+Cooperstein and David Oscar Markus; for the National Rife Association
+of America, Inc., by Michael T. Jean and Erin M. Erhardt; for the Na-
+tional Shooting Sports Foundation, Inc., by Paul D. Clement, Erin E.
+Murphy, Matthew D. Rowen, and Lawrence G. Keane; for the Second
+Amendment Law Center et al. by C. D. Michel and Konstadinos T. Moros;
+and for Sen. Cynthia Lummis et al. by David B. Kopel and George A.
+Mocsary.
+Briefs of amici curiae were fled for FAMM by David Debold, Peter
+Goldberger, and Mary Price; and for the Pacific Legal Foundation by
+Glenn E. Roper, Steven Simpson, and Caleb Kruckenberg.
+a machinegun from a semiautomatic firearm. With a semi-
+automatic firearm, the shooter can fre only one time by en-
+gaging the trigger. The shooter must release and reengage
+the trigger to fre another shot. Machineguns can ordinarily
+achieve higher rates of fre than semiautomatic firearms be-
+cause the shooter does not need to release and reengage the
+trigger between shots.
+Shooters have devised techniques for firing semiautomatic
+firearms at rates approaching those of some machineguns.
+One technique is called bump firing. A shooter who bump
+fires a rife uses the frearm's recoil to help rapidly manipu-
+late the trigger. The shooter allows the recoil from one shot
+to push the whole firearm backward. As the rife slides
+back and away from the shooter's stationary trigger fnger,
+the trigger is released and reset for the next shot. Simulta-
+neously, the shooter uses his nontrigger hand to maintain
+forward pressure on the rife's front grip. The forward
+pressure counteracts the recoil and causes the firearm (and
+thus the trigger) to move forward and “bump” into the shoot-
+er's trigger fnger. This bump reengages the trigger and
+causes another shot to fre, and so on.
+Bump firing is a balancing act. The shooter must main-
+tain enough forward pressure to ensure that he will bump
+the trigger with sufficient force to engage it. But, if the
+shooter applies too much forward pressure, the rife will not
+slide back far enough to allow the trigger to reset. The
+right balance produces a reciprocating motion that permits
+the shooter to repeatedly engage and release the trigger in
+rapid succession.
+Although bump firing does not require any additional
+equipment, there are accessories designed to make the tech-
+nique easier. A “bump stock” is one such accessory. 1 It re-
+places a semiautomatic rife's stock (the back part of the rife
+1 Some bump stocks (called mechanical bump stocks) rely on an internal
+spring, rather than forward pressure from the shooter's nontrigger hand,
+to force the rife and trigger forward after recoil. These devices are not
+at issue in this case.
+that rests against the shooter's shoulder) with a plastic cas-
+ing that allows every other part of the rife to slide back and
+forth. This casing helps manage the back-and-forth motion
+required for bump firing. A bump stock also has a ledge to
+keep the shooter's trigger fnger stationary. A bump stock
+does not alter the basic mechanics of bump firing. As with
+any semiautomatic firearm, the trigger still must be released
+and reengaged to fre each additional shot.
+B
+The question in this case is whether a bump stock trans-
+forms a semiautomatic rife into a “machinegun,” as defined
+by § 5845(b). For many years, the Bureau of Alcohol, To-
+bacco, Firearms and Explosives (ATF) took the position that
+semiautomatic rifes equipped with bump stocks were not
+machineguns under the statute. On more than 10 separate
+occasions over several administrations, ATF consistently
+concluded that rifes equipped with bump stocks cannot “au-
+tomatically” fre more than one shot “by a single function of
+the trigger.” See App. 16–68. In April 2017, for example,
+ATF explained that a rife equipped with a bump stock does
+not “operat[e] automatically” because “forward pressure
+must be applied with the support hand to the forward hand-
+guard.” Id., at 66. And, because the shooter slides the rife
+forward in the stock “to fre each shot, each succeeding shot
+fr[es] with a single trigger function.” Id., at 67.
+ATF abruptly reversed course in response to a mass shoot-
+ing in Las Vegas, Nevada. In October 2017, a gunman fred
+on a crowd attending an outdoor music festival in Las Vegas,
+killing 58 people and wounding over 500 more. The gunman
+equipped his weapons with bump stocks, which allowed him
+to fre hundreds of rounds in a matter of minutes.
+This tragedy created tremendous political pressure to out-
+law bump stocks nationwide. Within days, Members of
+Congress proposed bills to ban bump stocks and other de-
+vices “designed . . . to accelerate the rate of fre of a semiau-
+tomatic rife.” S. 1916, 115th Cong., 1st Sess., § 2 (2017); see
+also H. R. 3947, 115th Cong., 1st Sess. (2017); H. R. 3999,
+115th Cong., 1st Sess. (2017). None of these bills became
+law. Similar proposals in the intervening years have also
+stalled. See, e.g., H. R. 396, 118th Cong., 1st Sess. (2023);
+S. 1909, 118th Cong., 1st Sess. (2023); H. R. 5427, 117th Cong.,
+1st Sess. (2021).
+While the first wave of bills was pending, ATF began con-
+sidering whether to reinterpret § 5845(b)'s definition of “ma-
+chinegun” to include bump stocks. It proposed a rule that
+would amend its regulations to “clarify” that bump stocks
+are machineguns. 83 Fed. Reg. 13442 (2018). ATF's about-
+face drew criticism from some observers, including those
+who agreed that bump stocks should be banned. Senator
+Dianne Feinstein, for example, warned that ATF lacked stat-
+utory authority to prohibit bump stocks, explaining that the
+proposed regulation “ `hinge[d] on a dubious analysis' ” and
+that the “ `gun lobby and manufacturers [would] have a feld
+day with [ATF's] reasoning' ” in court. Statement on Regu-
+lation To Ban Bump Stocks (Mar. 23, 2018). She asserted
+that “ `legislation is the only way to ban bump stocks.' ”
+Ibid.
+ATF issued its final Rule in 2018. 83 Fed. Reg. 66514.
+The agency's earlier regulations simply restated § 5845(b)'s
+statutory definition. Ibid. The final Rule amended those
+regulations by adding the following language:
+“[T]he term `automatically' as it modifes `shoots, is de-
+signed to shoot, or can be readily restored to shoot,'
+means functioning as the result of a self-acting or self-
+regulating mechanism that allows the firing of multiple
+rounds through a single function of the trigger; and `sin-
+gle function of the trigger' means a single pull of the
+trigger and analogous motions. The term `machinegun'
+includes a bump-stock-type device, i.e., a device that
+allows a semi-automatic firearm to shoot more than one
+shot with a single pull of the trigger by harnessing the
+recoil energy of the semi-automatic firearm to which it
+is affixed so that the trigger resets and continues firing
+without additional physical manipulation of the trigger
+by the shooter.” Id., at 66553–66554.
+The final Rule also repudiated ATF's previous guidance that
+bump stocks did not qualify as “machineguns” under
+§ 5845(b). Id., at 66530–66531. And, it ordered owners of
+bump stocks to destroy them or surrender them to ATF
+within 90 days. Id., at 66530. Bump-stock owners who
+failed to comply would be subject to criminal prosecution.
+Id., at 66525; see also 18 U. S. C. § 922(o)(1).
+C
+Michael Cargill surrendered two bump stocks to ATF
+under protest. He then fled suit to challenge the final Rule,
+asserting a claim under the Administrative Procedure Act.
+As relevant, Cargill alleged that ATF lacked statutory au-
+thority to promulgate the final Rule because bump stocks
+are not “machinegun[s]” as defined in § 5845(b). After a
+bench trial, the District Court entered judgment for ATF.
+The court concluded that “a bump stock fts the statutory
+definition of a `machinegun.' ” Cargill v. Barr , 502
+F. Supp. 3d 1163, 1194 (WD Tex. 2020).
+The Court of Appeals initially affirmed, 20 F. 4th 1004
+(CA5 2021), but later reversed after rehearing en banc, 57
+F. 4th 447 (CA5 2023). A majority agreed, at a minimum,
+that § 5845(b) is ambiguous as to whether a semiautomatic
+rife equipped with a bump stock fts the statutory definition
+of a machinegun. And, the majority concluded that the rule
+of lenity required resolving that ambiguity in Cargill's favor.
+Id., at 469; see also id., at 450, n. An eight-judge plurality
+determined that the statutory definition of “machinegun” un-
+ambiguously excludes such weapons. A semiautomatic rife
+equipped with a bump stock, the plurality reasoned, fires
+only one shot “each time the trigger `acts,' ” id., at 459, and
+so does not fre “more than one shot . . . by a single function
+of the trigger,” § 5845(b). The plurality also concluded that
+a bump stock does not enable a semiautomatic rife to fre
+more than one shot “automatically” because the shooter must
+“maintain manual, forward pressure on the barrel.” Id.,
+at 463.
+We granted certiorari, 601 U. S. ––– (2023), to address a
+split among the Courts of Appeals regarding whether bump
+stocks meet § 5845(b)'s definition of “machinegun.” 2 We
+now affirm.
+II
+Section 5845(b) defines a “machinegun” as any weapon ca-
+pable of firing “automatically more than one shot . . . by a
+single function of the trigger.” We hold that a semiauto-
+matic rife equipped with a bump stock is not a “machinegun”
+because it cannot fre more than one shot “by a single func-
+tion of the trigger.” And, even if it could, it would not do
+so “automatically.” ATF therefore exceeded its statutory
+authority by issuing a Rule that classifies bump stocks as
+machineguns.
+A
+A semiautomatic rife equipped with a bump stock does
+not fre more than one shot “by a single function of the trig-
+ger.” With or without a bump stock, a shooter must release
+and reset the trigger between every shot. And, any subse-
+quent shot fred after the trigger has been released and reset
+is the result of a separate and distinct “function of the trig-
+ger.” All that a bump stock does is accelerate the rate of
+fre by causing these distinct “function[s]” of the trigger to
+occur in rapid succession.
+As always, we start with the statutory text, which refers
+to “a single function of the trigger.” The “function” of an
+2 See, e.g., Hardin v. Bureau of Alcohol, Tobacco, Firearms and Explo-
+sives, 65 F. 4th 895 (CA6 2023); Guedes v. Bureau of Alcohol, Tobacco,
+Firearms and Explosives, 45 F. 4th 306 (CADC 2022); Aposhian v. Barr,
+958 F. 3d 969 (CA10 2020).
+object is “the mode of action by which it fulfls its purpose.”
+4 Oxford English Dictionary 602 (1933); see also American
+Heritage Dictionary 533 (1969) (“The natural or proper ac-
+tion for which a . . . mechanism . . . is fitted or employed”).
+And, a “trigger” is an apparatus, such as a “movable catch
+or lever,” that “sets some force or mechanism in action.” 11
+Oxford English Dictionary, at 357; see also American Heri-
+tage Dictionary, at 1371 (“The lever pressed by the fnger to
+discharge a firearm” or “[a]ny similar device used to release
+or activate a mechanism”); Webster's New International Dic-
+tionary 2711 (2d ed. 1934) (“A piece, as a lever, connected
+with a catch or detent as a means of releasing it; specif.,
+Firearms, the part of a lock moved by the fnger to release
+the cock in firing”). The phrase “function of the trigger”
+thus refers to the mode of action by which the trigger acti-
+vates the firing mechanism. For most firearms, including
+the ones at issue here, the trigger is a curved metal lever.
+On weapons with these standard trigger mechanisms, the
+phrase “function of the trigger” means the physical trigger
+movement required to shoot the firearm.
+No one disputes that a semiautomatic rife without a bump
+stock is not a machinegun because it fires only one shot per
+“function of the trigger.” That is, engaging the trigger a
+single time will cause the firing mechanism to discharge only
+one shot. To understand why, it is helpful to consider the
+mechanics of the firing cycle for a semiautomatic rife. Be-
+cause the statutory definition is keyed to a “function of the
+trigger,” only the trigger assembly is relevant for our pur-
+poses. Although trigger assemblies for semiautomatic rifes
+vary, the basic mechanics are generally the same. The fol-
+lowing series of illustrations depicts how the trigger assem-
+bly on an AR–15 style semiautomatic rife works. 3 In each
+illustration, the front of the rife (i.e ., the barrel) would be
+pointing to the left.
+3 These illustrations are found in the Brief for FPC Action Foundation
+as Amicus Curiae 14–15.
+We begin with an overview of the relevant components:
+Figure 1.
+The trigger is a simple lever that moves backward and for-
+ward. P. Sweeney, Gunsmithing the AR–15, p. 131 (2016).
+The square point at the top left edge of the trigger locks into
+a notch at the bottom of the hammer. P. Sweeney, Gun-
+smithing: Rifes 269 (1999). The hammer is a spring-loaded
+part that swings forward toward the barrel and strikes the
+firing pin, causing a shot to fre. Ibid. The disconnector is
+the component responsible for resetting the hammer to its
+original position after a shot is fred. Ibid.
+We turn next to how these components operate:
+Figure 2.
+When the shooter engages the trigger by moving it back-
+ward (as indicated by the arrow), the square point of the
+trigger pivots downward and out of the notch securing the
+hammer. Ibid. This movement releases the spring-loaded
+hammer, allowing it to swing forward. Ibid.
+Figure 3.
+At the top of the hammer's rotation, it strikes the firing pin,
+causing the weapon to fre a single shot. See ibid.
+Figure 4.
+The firearm then ejects the spent cartridge from the cham-
+ber and loads a new one in its place. D. Long, The Complete
+AR–15/M16 Sourcebook 206 (2001). The mechanism that
+performs this task swings the hammer backward at the same
+time. Ibid.
+Figure 5.
+As the hammer swings backward, it latches onto the discon-
+nector. Sweeney, Gunsmithing: Rifes, at 269. This latch-
+ing (circled above) prevents the hammer from swinging
+forward again after a new cartridge is loaded into the cham-
+ber. Ibid. The disconnector will hold the hammer in that
+position for as long as the shooter holds the trigger back,
+thus preventing the firearm from firing another shot. 4
+Ibid.
+Figure 6.
+Finally, when the shooter takes pressure off the trigger and
+allows it to move forward (as indicated by the arrow), the
+hammer slips off the disconnector just as the square point of
+the trigger rises into the notch on the hammer (circled
+above). Ibid. The trigger mechanism is thereby reset to
+4 Machinegun variants of the AR–15 style rife include an additional com-
+ponent known as an auto sear. The auto sear catches the hammer as it
+swings backwards, but will release it again once a new cartridge is loaded
+if the trigger is being held back. P. Sweeney, 1 The Gun Digest Book of
+the AR–15, p. 38 (2005). An auto sear thus permits a shooter to fre multi-
+ple shots while engaging the trigger only once. ATF has accordingly rec-
+ognized that modifying a semiautomatic rife or handgun with an auto sear
+converts it into a machinegun. See ATF Ruling 81–4.
+the original position shown in Figure 1. A semiautomatic
+rife must complete this cycle for each shot fred. 5
+ATF does not dispute that this complete process is what
+constitutes a “single function of the trigger.” A shooter
+may fre the weapon again after the trigger has reset, but
+only by engaging the trigger a second time and thereby ini-
+tiating a new firing cycle. For each shot, the shooter must
+engage the trigger and then release the trigger to allow it
+to reset. Any additional shot fred after one cycle is the
+result of a separate and distinct “function of the trigger.”
+Nothing changes when a semiautomatic rife is equipped
+with a bump stock. The firing cycle remains the same. Be-
+tween every shot, the shooter must release pressure from
+the trigger and allow it to reset before reengaging the trig-
+ger for another shot. A bump stock merely reduces the
+amount of time that elapses between separate “functions” of
+the trigger. The bump stock makes it easier for the shooter
+to move the firearm back toward his shoulder and thereby
+release pressure from the trigger and reset it. And, it helps
+the shooter press the trigger against his fnger very quickly
+thereafter. A bump stock does not convert a semiautomatic
+rife into a machinegun any more than a shooter with a
+lightning-fast trigger fnger does. Even with a bump stock,
+a semiautomatic rife will fre only one shot for every “func-
+tion of the trigger.” So, a bump stock cannot qualify as a
+machinegun under § 5845(b)'s definition.
+Although ATF agrees on a semiautomatic rife's mechanics,
+it nevertheless insists that a bump stock allows a semiauto-
+matic rife to fre multiple shots “by a single function of the
+trigger.” ATF starts by interpreting the phrase “single
+function of the trigger” to mean “a single pull of the trigger
+and analogous motions.” 83 Fed. Reg. 66553. A shooter
+using a bump stock, it asserts, must pull the trigger only one
+5 An animated graphic that displays the relevant movements is available
+at https://www.supremecourt.gov/media/images/AR-15.gif.
+time to initiate a bump-fring sequence of multiple shots.
+Id., at 66554. This initial trigger pull sets off a sequence—
+fre, recoil, bump, fre—that allows the weapon to continue
+firing “without additional physical manipulation of the trig-
+ger by the shooter.” Ibid. According to ATF, all the
+shooter must do is keep his trigger fnger stationary on the
+bump stock's ledge and maintain constant forward pressure
+on the front grip to continue firing. The dissent offers similar
+reasoning. See post, at 435–437 (opinion of Sotomayor, J.).
+This argument rests on the mistaken premise that there
+is a difference between a shooter fexing his fnger to pull
+the trigger and a shooter pushing the firearm forward to
+bump the trigger against his stationary fnger. ATF and
+the dissent seek to call the shooter's initial trigger pull a
+“function of the trigger” while ignoring the subsequent
+“bumps” of the shooter's fnger against the trigger before
+every additional shot. But, § 5845(b) does not define a ma-
+chinegun based on what type of human input engages the
+trigger—whether it be a pull, bump, or something else. Nor
+does it define a machinegun based on whether the shooter
+has assistance engaging the trigger. The statutory defni-
+tion instead hinges on how many shots discharge when the
+shooter engages the trigger. And, as we have explained, a
+semiautomatic rife will fre only one shot each time the
+shooter engages the trigger—with or without a bump stock. 6
+Supra, at 415–421.
+In any event, ATF's argument cannot succeed on its own
+terms. The final Rule defines “function of the trigger” to
+6 The dissent says that we “resis[t]” the “ordinary understanding of the
+term `function of the trigger' with two technical arguments.” Post, at
+439. But, the arguments it refers to explain why, even assuming a semi-
+automatic rife equipped with a bump stock could fre more than one shot
+by a single function of the trigger, it could not do so “automatically.” See
+infra, at 424–427. Those arguments have nothing to do with our explana-
+tion of what a “single function of the trigger” means. Ibid.
+include not only “a single pull of the trigger” but also any
+“analogous motions.” 83 Fed. Reg. 66553. ATF concedes
+that one such analogous motion that qualifies as a single
+function of the trigger is “sliding the rife forward” to bump
+the trigger. Brief for Petitioners 22. But, if that is true,
+then every bump is a separate “function of the trigger,” and
+semiautomatic rifes equipped with bump stocks are there-
+fore not machineguns. ATF resists the natural implication
+of its reasoning, insisting that the bumping motion is a “func-
+tion of the trigger” only when it initiates, but not when it
+continues, a firing sequence. But, Congress did not write
+a statutory definition of “machinegun” keyed to when a fr-
+ing sequence begins and ends. Section 5845(b) asks only
+whether a weapon fires more than one shot “by a single func-
+tion of the trigger.”
+Finally, the position that ATF and the dissent endorse is
+logically inconsistent. They reason that a semiautomatic
+rife equipped with a bump stock fires more than one shot by
+a single function of the trigger because a shooter “need only
+pull the trigger and maintain forward pressure” to “activate
+continuous fre.” Post, at 438–439; see also Brief for Peti-
+tioners 23. If that is correct, however, then the same should
+be true for a semiautomatic rife without a bump stock.
+After all, as the dissent and ATF themselves acknowledge,
+a shooter manually bump firing a semiautomatic rife can
+achieve continuous fre by holding his trigger fnger station-
+ary and maintaining forward pressure with his nontrigger
+hand. See post, at 433–434; 83 Fed. Reg. 66533. Yet, they
+agree that a semiautomatic rife without a bump stock “fires
+only one shot each time the shooter pulls the trigger.” Post,
+at 433; see also 83 Fed. Reg. 66534. Their argument is thus
+at odds with itself.
+We conclude that a semiautomatic rife equipped with a
+bump stock is not a “machinegun” because it does not fre
+more than one shot “by a single function of the trigger.”
+B
+A bump stock is not a “machinegun” for another reason:
+Even if a semiautomatic rife with a bump stock could fre
+more than one shot “by a single function of the trigger,” it
+would not do so “automatically.” Section 5845(b) asks
+whether a weapon “shoots . . . automatically more than one
+shot . . . by a single function of the trigger.” The statute
+thus specifies the precise action that must “automatically”
+cause a weapon to fre “more than one shot”—a “single func-
+tion of the trigger.” If something more than a “single func-
+tion of the trigger” is required to fre multiple shots, the
+weapon does not satisfy the statutory definition. As Judge
+Henderson put it, the “statutory definition of `machinegun'
+does not include a firearm that shoots more than one round
+`automatically' by a single pull of the trigger AND THEN
+SOME.” Guedes v. Bureau of Alcohol, Tobacco, Firearms
+and Explosives, 920 F. 3d 1, 44 (CADC 2019) (opinion concur-
+ring in part and dissenting in part).
+Firing multiple shots using a semiautomatic rife with a
+bump stock requires more than a single function of the trig-
+ger. A shooter must also actively maintain just the right
+amount of forward pressure on the rife's front grip with his
+nontrigger hand. See supra, at 411–412. Too much for-
+ward pressure and the rife will not slide back far enough to
+release and reset the trigger, preventing the rife from firing
+another shot. Too little pressure and the trigger will not
+bump the shooter's trigger fnger with sufficient force to fre
+another shot. Without this ongoing manual input, a semiau-
+tomatic rife with a bump stock will not fre multiple shots.
+Thus, firing multiple shots requires engaging the trigger one
+time—and then some. 7
+7 The dissent seemingly concedes this point, repeatedly recognizing that
+the shooter must both pull the trigger and maintain forward pressure on
+the front grip. See, e.g., post, at 435 (“[A] single pull of the trigger
+provides continuous fre as long as the shooter maintains forward pressure
+on the gun”); ibid. (“A bump-stock-equipped semiautomatic rife is a
+ATF and the dissent counter that machineguns also re-
+quire continuous manual input from a shooter: He must both
+engage the trigger and keep it pressed down to continue
+shooting. In their view, there is no meaningful difference
+between holding down the trigger of a traditional machine-
+gun and maintaining forward pressure on the front grip of a
+semiautomatic rife with a bump stock. This argument ig-
+nores that Congress defined a machinegun by what happens
+“automatically” “by a single function of the trigger.” Sim-
+ply pressing and holding the trigger down on a fully
+automatic rife is not manual input in addition to a trigger's
+function—it is what causes the trigger to function in the first
+place. By contrast, pushing forward on the front grip of a
+semiautomatic rife equipped with a bump stock is not part
+of functioning the trigger. After all, pushing on the front
+grip will not cause the weapon to fre unless the shooter also
+engages the trigger with his other hand. Thus, while a fully
+automatic rife fires multiple rounds “automatically . . . by
+a single function of the trigger,” a semiautomatic rife
+equipped with a bump stock can achieve the same result only
+by a single function of the trigger and then some.
+Moreover, a semiautomatic rife with a bump stock is indis-
+tinguishable from another weapon that ATF concedes cannot
+fre multiple shots “automatically”: the Ithaca Model 37 shot-
+gun. The Model 37 allows the user to “slam fre”—that is,
+fre multiple shots by holding down the trigger while operat-
+ing the shotgun's pump action. Each pump ejects the spent
+cartridge and loads a new one into the chamber. If the
+shooter is holding down the trigger, the new cartridge will
+machinegun because . . . a shooter can . . . fre continuous shots without
+any human input beyond maintaining forward pressure”); post, at 438 (“[A]
+shooter of a bump-stock-equipped AR–15 need only pull the trigger and
+maintain forward pressure”); post, at 441 (“After a shooter pulls the trig-
+ger, if he maintains continuous forward pressure on the gun, the bump
+stock harnesses the recoil to move the curved lever back and forth against
+his fnger”).
+fre as soon as it is loaded. According to ATF, the Model 37
+fires more than one shot by a single function of the trigger,
+but it does not do so “automatically” because the shooter
+must manually operate the pump action with his nontrigger
+hand. See 83 Fed. Reg. 66534. That logic mandates the
+same result here. Maintaining the proper amount of for-
+ward pressure on the front grip of a bump-stock equipped
+rife is no less additional input than is operating the pump
+action on the Model 37. 8
+ATF responds that a shooter is less physically involved
+with operating a bump-stock equipped rife than operating
+the Model 37's pump action. Once the shooter pulls the ri-
+fe's trigger a single time, the bump stock “harnesses the
+frearm's recoil energy in a continuous back-and-forth cycle
+that allows the shooter to attain continuous firing.” Id., at
+66519. But, even if one aspect of a weapon's operation could
+be seen as “automatic,” that would not mean the weapon
+“shoots . . . automatically more than one shot . . . by a single
+function of the trigger .” § 5845(b) (emphasis added). After
+all, many weapons have some “automatic” features. For ex-
+ample, semiautomatic rifes eject the spent cartridge from
+the frearm's chamber and load a new one in its place without
+any input from the shooter. See supra, at 419. A semiau-
+tomatic rife is therefore “automatic” in the general sense
+that it performs some operations that would otherwise need
+to be completed by hand. But, as all agree, a semiautomatic
+rife cannot fre more than one shot “automatically . . . by a
+single function of the trigger” because the shooter must do
+8 The dissent attempts to undermine this analogy by pointing out that
+a Model 37 requires manual reloading and therefore cannot qualify as a
+machinegun under § 5845(b). Post, at 441, n. 5. But, that is beside the
+point. As ATF itself agrees, the Model 37 is not a machinegun for an-
+other, independent reason: It cannot “automatically” fre more than one
+shot by a single function of the trigger. See Brief for Petitioners 38.
+And, as explained, the reasons why a Model 37 cannot do so apply with
+equal force to semiautomatic rifes equipped with bump stocks.
+more than simply engage the trigger one time. The same is
+true of a semiautomatic rife equipped with a bump stock.
+Thus, even if a semiautomatic rife could fre more than
+one shot by a single function of the trigger, it would not do
+so “automatically.”
+C
+Abandoning the text, ATF and the dissent attempt to
+shore up their position by relying on the presumption against
+ineffectiveness. That presumption weighs against interpre-
+tations of a statute that would “rende[r] the law in a great
+measure nugatory, and enable offenders to elude its provi-
+sions in the most easy manner.” The Emily, 9 Wheat. 381,
+389 (1824). It is a modest corollary to the commonsense
+proposition “that Congress presumably does not enact use-
+less laws.” United States v. Castleman, 572 U. S. 157, 178
+(2014) (Scalia, J., concurring in part and concurring in
+judgment).
+In ATF's view, Congress “restricted machineguns because
+they eliminate the manual movements that a shooter would
+otherwise need to make in order to fre continuously” at a
+high rate of fre, as bump stocks do. Brief for Petitioners
+40. So, ATF reasons, concluding that bump stocks are law-
+ful “simply because the [trigger] moves back and forth . . .
+would exalt artifce above reality and enable evasion of the
+federal machinegun ban.” Id., at 41–42 (internal quotation
+marks omitted). The dissent endorses a similar view. See
+post, at 442–446.
+The presumption against ineffectiveness cannot do the
+work that ATF and the dissent ask of it. A law is not use-
+less merely because it draws a line more narrowly than one
+of its conceivable statutory purposes might suggest. Inter-
+preting § 5845(b) to exclude semiautomatic rifes equipped
+with bump stocks comes nowhere close to making it useless.
+Under our reading, § 5845(b) still regulates all traditional
+machineguns. The fact that it does not capture other weap-
+ons capable of a high rate of fre plainly does not render the
+law useless. Moreover, it is difficult to understand how ATF
+can plausibly argue otherwise, given that its consistent posi-
+tion for almost a decade in numerous separate decisions was
+that § 5845(b) does not capture semiautomatic rifes equipped
+with bump stocks. See App. 16–68. Curiously, the dissent
+relegates ATF's about-face to a footnote, instead pointing to
+its classification of other devices. See post, at 441–446, and
+n. 6.
+The dissent's additional argument for applying the pre-
+sumption against ineffectiveness fails on its own terms. To
+argue that our interpretation makes § 5845(b) “far less
+effective,” the dissent highlights that a shooter with a
+bump-stock-equipped rife can achieve a rate of fre that ri-
+vals traditional machineguns. Post, at 445. But, the dis-
+sent elsewhere acknowledges that a shooter can do the same
+with an unmodifed semiautomatic rife using the manual
+bump-fring technique. See post, at 433–434. The dissent
+thus fails to prove that our reading makes § 5845(b) “far less
+effective,” much less ineffective (as is required to invoke the
+presumption). In any event, Congress could have linked the
+definition of “machinegun” to a weapon's rate of fre, as the
+dissent would prefer. But, it instead enacted a statute that
+turns on whether a weapon can fre more than one shot “au-
+tomatically . . . by a single function of the trigger.”
+§ 5845(b). And, “it is never our job to rewrite . . . statutory
+text under the banner of speculation about what Congress
+might have done.” Henson v. Santander Consumer USA
+Inc., 582 U. S. 79, 89 (2017). 9
+9 The dissent concludes by claiming that our interpretation of § 5845(b)
+“renders Congress's clear intent readily evadable.” Post, at 445. And,
+it highlights that “[e]very Member of the majority has previously em-
+phasized that the best way to respect congressional intent is to adhere
+to the ordinary understanding of the terms Congress uses.” Ibid. But,
+“[w]hen Congress takes the trouble to define the terms it uses, a court
+must respect its definitions as virtually conclusive. . . . This Court will not
+deviate from an express statutory definition merely because it varies from
+the term's ordinary meaning.” Department of Agriculture Rural Devel-

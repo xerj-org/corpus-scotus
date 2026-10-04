@@ -1,0 +1,181 @@
+Collins v. Yellen — No. 19-422 — October Term 2020 — decided 6/23/21 — Opinion of Kagan, J.
+Citation: 594 U.S. 220
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r55_5468.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+vant action by an FHFA Director violated the Constitution.
+And, absent an unlawful act, the shareholders are not en-
+titled to a remedy. The Fifth Circuit can certainly consider
+this issue on remand.
+Justice Kagan , with whom Justice Breyer and
+Justice Sotomayor join as to Part II, concurring in part
+and concurring in the judgment.
+Faced with a global financial crisis, Congress created the
+Federal Housing Finance Agency (FHFA) and gave it broad
+powers to rescue the Nation's mortgage market. I join the
+Court in deciding that the FHFA wielded its authority
+within statutory limits. On the main constitutional ques-
+tion, though, I concur only in the judgment. Stare decisis
+compels the conclusion that the FHFA's for-cause removal
+provision violates the Constitution. But the majority's
+opinion rests on faulty theoretical premises and goes further
+than it needs to. I also write to address the remedial ques-
+tion. The majority's analysis, which I join, well explains
+why backwards-looking relief is not always necessary to re-
+dress a removal violation. I add only two thoughts. The
+broader is that the majority's remedial holding mitigates the
+harm of the removal doctrine applied here. The narrower
+is that, as I read the decision below, the Court of Appeals
+has already done what is needed to find that the plaintiffs
+are not entitled to their requested relief.
+I
+I agree with the majority that Seila Law LLC v. Con-
+sumer Financial Protection Bureau, 591 U. S. 197 (2020),
+governs the constitutional question here. See ante, at 250.
+In Seila Law, the Court held that an “agency led by a single
+[d]irector and vested with significant executive power” com-
+ports with the Constitution only if the President can fre the
+director at will. 591 U. S., at 220. I dissented from that
+decision—vehemently. See id., at 264 (Kagan, J., dissent-
+ing) (“The text of the Constitution, the history of the coun-
+try, the precedents of this Court, and the need for sound
+and adaptable governance—all stand against the majority's
+opinion”). But the “doctrine of stare decisis requires us, ab-
+sent special circumstances, to treat like cases alike”—even
+when that means adhering to a wrong decision. June Medi-
+cal Services L. L. C. v. Russo, 591 U. S. 299, 345 (2020)
+(Roberts, C. J., concurring in judgment). So the issue now
+is not whether Seila Law was correct. The question is
+whether that case is distinguishable from this one. And it
+is not. As I observed in Seila Law, the FHFA “plays a cru-
+cial role in overseeing the mortgage market, on which mil-
+lions of Americans annually rely.” 591 U. S., at 290. It
+thus wields “significant executive power,” much as the
+agency in Seila Law did. And I agree with the majority
+that there is no other legally relevant distinction between
+the two. See ante, at 253–256.
+For two reasons, however, I do not join the majority's dis-
+cussion of the constitutional issue. First is the majority's
+political theory. Throughout the relevant part of its opinion,
+the majority offers a contestable—and, in my view, deeply
+flawed—account of how our government should work. At-
+will removal authority, the majority intones, “is essential to
+subject Executive Branch actions to a degree of electoral
+accountability”—and so courts should grant the President
+that power in cases like this one. Ante, at 252. I see the
+matter differently (as, I might add, did the Framers). Seila
+Law, 591 U. S., at 269–273 (Kagan, J., dissenting). The
+right way to ensure that government operates with “elec-
+toral accountability” is to lodge decisions about its structure
+with, well, “the branches accountable to the people.” Id.,
+at 298; see ibid. (the Constitution “instructs Congress, not
+this Court, to decide on agency design”). I will subscribe
+to decisions contrary to my view where precedent, fairly
+read, controls (and there is no special justification for rever-
+sal). But I will not join the majority's mistaken mus-
+ings about how to create “a workable government.” Id., at
+297 (quoting Youngstown Sheet & Tube Co. v. Sawyer, 343
+U. S. 579, 635 (1952) (Jackson, J., concurring)).
+My second objection is to the majority's extension of Seila
+Law's holding. Again and again, Seila Law emphasized that
+its rule was limited to single-director agencies “wield[ing]
+significant executive power.” 591 U. S., at 204 (plurality
+opinion); see id., at 220 (majority opinion); id., at 238 (plural-
+ity opinion). To take Seila Law at its word is to acknowl-
+edge where it left off: If an agency did not exercise “signif-
+cant executive power,” the constitutionality of a removal
+restriction would remain an open question. Accord, post, at
+293 (Sotomayor, J., concurring in part and dissenting in
+part). But today's majority careens right past that bound-
+ary line. Without even mentioning Seila Law's “significant
+executive power” framing, the majority announces that, ac-
+tually, “the constitutionality of removal restrictions” does
+not “hinge[ ]” on “the nature and breadth of an agency's au-
+thority.” Ante, at 251, 253. Any “agency led by a single
+Director,” no matter how much executive power it wields,
+now becomes subject to the requirement of at-will removal.
+Ante, at 251. And the majority's broadening is gratuitous—
+unnecessary to resolve the dispute here. As the opinion
+later explains, the FHFA exercises plenty of executive au-
+thority: Indeed, it might “be considered more powerful than
+the CFPB.” Ante, at 252. So the majority could easily
+have stayed within, rather than reached out beyond, the rule
+Seila Law created.
+In thus departing from Seila Law , the majority strays
+from its own obligation to respect precedent. To ensure
+that our decisions reflect the “evenhanded” and “consistent
+development of legal principles,” not just shifts in the
+Court's personnel, stare decisis demands something of
+Justices previously on the losing side. Payne v. Tennessee,
+501 U. S. 808, 827 (1991). They (meaning here, I) must fairly
+apply decisions with which they disagree. But fidelity to
+precedent also places demands on the winners. They must
+apply the Court's precedents—limits and all—wherever they
+can, rather than widen them unnecessarily at the first oppor-
+tunity. Because today's majority does not conform to that
+command, I concur in the judgment only.
+II
+I join in full the majority's discussion of the proper remedy
+for the constitutional violation it finds. I too believe that
+our Appointments Clause precedents have little to say about
+remedying a removal problem. See ante, at 258; cf. Lucia
+v. SEC, 585 U. S. 237, 251 (2018) (requiring a new hearing
+before a properly appointed official). As the majority ex-
+plains, the officers heading the FHFA, unlike those with in-
+valid appointments, possessed the “authority to carry out the
+functions of the office.” Ante, at 258. I also agree that
+plaintiffs alleging a removal violation are entitled to injunc-
+tive relief—a rewinding of agency action—only when the
+President's inability to fre an agency head affected the
+complained-of decision. See ante, at 259–260. Only then is
+relief needed to restore the plaintiffs to the position they
+“would have occupied in the absence” of the removal prob-
+lem. Milliken v. Bradley, 433 U. S. 267, 280 (1977); see D.
+Laycock & R. Hasen, Modern American Remedies 275 (5th
+ed. 2019). Granting relief in any other case would, contrary
+to usual remedial principles, put the plaintiffs “in a better
+position” than if no constitutional violation had occurred.
+Mt. Healthy City Bd. of Ed. v. Doyle, 429 U. S. 274, 285 (1977).
+The majority's remedial holding limits the damage of the
+Court's removal jurisprudence. As the majority explains,
+its holding ensures that actions the President supports—
+which would have gone forward whatever his removal
+power—will remain in place. See ante, at 259–260. In re-
+fusing to rewind those presidentially favored decisions, the
+majority prevents theories of formal presidential control from
+stymying the President's real-world ability to carry out his
+agenda. Similarly, the majority's approach should help
+protect agency decisions that would never have risen to
+the President's notice. Consider the hundreds of thousands
+of decisions that the Social Security Administration (SSA)
+makes each year. The SSA has a single head with for-cause
+removal protection; so a betting person might wager that the
+agency's removal provision is next on the chopping block.
+Cf. ante, at 256–257, n. 21. But given the majority's reme-
+dial analysis, I doubt the mass of SSA decisions—which
+would not concern the President at all—would need to be
+undone. That makes sense. “[P]residential control [does]
+not show itself in all, or even all important, regulation.”
+Kagan, Presidential Administration, 114 Harv. L. Rev. 2245,
+2250 (2001). When an agency decision would not capture a
+President's attention, his removal authority could not make
+a difference—and so no injunction should issue.
+My final point relates to the last sentence of the majority's
+remedial section. There, the Court holds that the decisive
+question—whether the removal provision mattered—“should
+be resolved in the first instance by the lower courts.” Ante,
+at 260. That remand follows the Court's usual practice: We
+are, as we often say, not a “court of first view.” Alabama
+v. Shelton, 535 U. S. 654, 673 (2002). But here the lower
+court proceedings may be brief indeed. As I read the opin-
+ion below, the Court of Appeals already considered and de-
+cided the issue remanded today. The court noted that all of
+the FHFA's policies were jointly “created [by] the FHFA and
+Treasury” and that the Secretary of the Treasury is “subject
+to at will removal by the President.” Collins v. Mnuchin,
+938 F. 3d 553, 594 (CA5 2019). For that reason, the court
+concluded, “we need not speculate about whether appro-
+priate presidential oversight would have stopped” the
+FHFA's actions. Ibid. “We know that the President, act-
+ing through the Secretary of the Treasury, could have
+stopped [them] but did not.” Ibid.; see ibid., n. 6 (noting
+that the plaintiffs' “allegations show that the President had

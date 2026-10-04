@@ -1,0 +1,348 @@
+Pitchford v. Cain — No. 24-7351 — October Term 2025 — decided 5/28/26 — Gorsuch, J., dissenting
+Citation: 608 U.S. 391
+Source: https://www.supremecourt.gov/opinions/25pdf/608us2r38_l53m.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+fense counsel must at least have an opportunity to argue
+that the asserted race-neutral reasons were not the actual
+reasons—that is, the reasons were pretextual. Then, the
+trial court can determine whether those asserted reasons
+were the actual reasons or instead were pretextual. In this
+case, whether due to confusion, oversight, an overly hurried
+jury selection process, or some other cause, things broke
+down, and the ordinary trial-court procedure for resolving
+Batson claims at step three never occurred—notwithstand-
+ing the repeated efforts of Pitchford's counsel to pursue and
+preserve the Batson objection.
+To be sure, the AEDPA standard for reviewing claims on
+federal habeas is deferential to the state court. See Wil-
+liams v. Taylor, 529 U. S. 362, 412–413 (2000); Harrington v.
+Richter, 562 U. S. 86, 102–103 (2011); Brown v. Davenport,
+596 U. S. 118, 135 (2022); Klein v. Martin, 607 U. S. 213, 220–
+221 (2026) (per curiam ). But deference does not mean abdi-
+cation, and “deference does not by definition preclude relief.”
+Miller-El v. Dretke, 545 U. S. 231, 240 (2005) (quotation
+marks and alteration omitted). In light of the entire record
+in this case, we agree with the U. S. District Court that the
+Mississippi Supreme Court unreasonably applied the clearly
+established Batson precedents and unreasonably determined
+that Pitchford waived his opportunity to rebut the prose-
+cutor's asserted race-neutral reasons for the peremptory
+strikes of four black prospective jurors. 28 U. S. C.
+§§ 2254(d)(1), (2).
+We reverse the judgment of the U. S. Court of Appeals for
+the Fifth Circuit and remand the case for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+Justice Gorsuch, with whom Justice Thomas, Justice
+Alito, and Justice Barrett join, dissenting.
+Under the Antiterrorism and Effective Death Penalty Act
+of 1996 (AEDPA), federal courts may grant habeas corpus
+relief to state prisoners only in narrowly defined circum-
+stances. Appreciating as much, this Court has repeatedly
+overturned lower-court decisions that have failed to respect
+AEDPA's constraints. See, e. g., Klein v. Martin, 607 U. S.
+213 (2026) (per curiam ); Dunn v. Reeves, 594 U. S. 731 (2021)
+(per curiam ); Mays v. Hines, 592 U. S. 385 (2021) (per cu-
+riam). Today, the Court looks past those constraints, and
+its own admonitions, to issue a judgment that AEDPA pre-
+cludes. Respectfully, I dissent.
+I
+In 2004, Terry Pitchford and an accomplice robbed a store
+in Mississippi. At the end of it, the store's owner, Reuben
+Britt, lay dead. Pitchford v. State, 45 So. 3d 216, 222–223
+(Miss. 2010) (en banc). A state-court trial followed in which
+a jury found Mr. Pitchford guilty of murder and sentenced
+him to death, concluding that he “actually killed R[e]uben
+Britt, . . . intended the killing of R[e]uben Britt[,] . . . and
+. . . contemplated that lethal force would be employed.”
+Trial Tr. 812. 1
+This case concerns what happened during jury selection.
+Midway through that process, Mr. Pitchford's trial team ob-
+jected that prosecutors were using their peremptory strikes
+to exclude black prospective jurors in violation of Batson v.
+Kentucky, 476 U. S. 79 (1986). 1 App. 167–168.
+To resolve objections like that, Batson provides a three-
+step framework. First, a defendant must make a “prima
+facie showing” that prosecutors have struck prospective ju-
+rors “on the basis of race.” Snyder v. Louisiana, 552 U. S.
+1 To be sure, Mr. Pitchford has advanced various accounts of what hap-
+pened the day of the robbery. Initially, he denied he was present at all.
+See 1 App. 195. Later, he said he only fred his gun into the floor and did
+not shoot Mr. Britt. Ibid.; id., at 329, n. 54. But later still, he acknowl-
+edged the existence of “admissible proof” showing he did shoot Mr. Britt.
+Id., at 329; see also Pitchford, 45 So. 3d, at 260. And, whatever his view
+of the facts may be, there is no dispute that a jury found he “inten[tion-
+ally]” and “actually killed R[e]uben Britt.” Trial Tr. 812.
+472, 476 (2008) (internal quotation marks omitted). One
+common way to meet this burden is statistical—if prosecu-
+tors have struck black prospective jurors at a higher rate
+than white prospective jurors, that may suggest discrimina-
+tion. Flowers v. Mississippi, 588 U. S. 284, 302 (2019). An-
+other common way to meet this burden is comparative—if
+“side-by-side comparisons” show prosecutors have struck
+black prospective jurors while accepting similar white pro-
+spective jurors, that too may suggest discrimination. Ibid.
+Should a defendant make a prima facie case, the court then
+moves to step two. There, “the prosecution must offer a
+race-neutral basis” for each strike. Snyder, 552 U. S., at
+476–477 (internal quotation marks omitted). If the prosecu-
+tion does so, the court proceeds to step three: The defendant
+can try to rebut the prosecution's race-neutral reasons as
+“pretextual,” and ultimately the court must determine
+whether the prosecution's strikes were in fact based on pur-
+poseful discrimination. Id., at 477, 485. As at step one, de-
+fendants commonly use statistical and comparative juror
+arguments at step three.
+In this case, Mr. Pitchford made his prima facie case based
+on a statistical argument. The prosecution, he noted, had
+refrained from striking only “one African-American juror out
+of the fve that ha[d] thus far . . . arisen on the venire.” 1
+App. 167. And, Mr. Pitchford continued, “this is already a
+disproportiona[tely] white jury [pool] for the population of
+this county.” Id., at 167–168.
+The trial judge agreed that Mr. Pitchford had made a
+prima facie case under Batson and thus required the State
+to offer race-neutral reasons for each of the peremptory
+strikes it had used on black prospective jurors. The State
+did so. One prospective juror, it said, had returned late to
+court after lunch break and had a history of mental prob-
+lems. 1 App. 86–88, 169. Two had brothers who had been
+convicted of violent offenses. Id., at 169–170. Another
+“had no opinion on the death penalty.” Id., at 170. Plus,
+he was similar to Mr. Pitchford in several ways: They were
+“approximately the [same] age,” they “both ha[d] children
+about the same age,” and they “both ha[d] never been mar-
+ried.” Ibid.
+The judge accepted these reasons as race neutral and
+directed the parties to resume jury selection. Ibid.
+Mr. Pitchford did not object to that direction or otherwise
+seek to make a step three showing. Instead, after jury se-
+lection concluded, Mr. Pitchford's trial team approached the
+bench. There, they sought “to reserve . . . [their] Batson
+objection.” Id., at 175. The court agreed the Batson objec-
+tion was “in the record,” but “f[ound] there to be no Batson
+violation.” Ibid. At that point, defense counsel reiterated
+their earlier statistical argument. “[O]ne,” “[a]nd only one,”
+of the final jury panel selected for service, Mr. Pitchford's
+lawyers said, was black even though the “county is approxi-
+mately . . . 40 percent black.” Id., at 176.
+After that exchange, the case proceeded to trial and, in
+the end, the jury returned a guilty verdict. Seeking to undo
+that verdict later, Mr. Pitchford fled a motion for a new trial
+based in part on his statistical Batson argument. 1 App.
+179, 184, 186. But for the first time, he also briefly intro-
+duced a new comparative juror argument, asserting in one
+sentence that the prosecution had improperly “deselected
+black people from the jury panel who had the same familial,
+living, social or marital circumstances as whites who were
+not deselected.” Id., at 184.
+After the trial court denied Mr. Pitchford's motion, he ap-
+pealed to the Mississippi Supreme Court. There, Mr. Pitch-
+ford continued to press the statistical argument he had made
+during jury selection. Id., at 209–210, 223–225. But now
+he directed most of his efforts to the separate comparative
+juror argument he introduced for the first time after trial,
+drawing detailed comparisons in his appellate brief between
+white jurors who were not struck and the four black jurors
+who were. Id., at 210–223.
+The Mississippi Supreme Court analyzed Mr. Pitchford's
+Batson claim this way. At step one, the court upheld the
+trial court's ruling that Mr. Pitchford's statistical argument
+sufficed to make out a prima facie case. Pitchford, 45 So. 3d,
+at 224–226. It also upheld the trial court's step two ruling
+that the prosecution's reasons were race neutral. Id., at
+226–227. And when it came to step three, the Mississippi
+Supreme Court held that Mr. Pitchford hadn't carried his
+ultimate burden to show purposeful discrimination. See id.,
+at 227–228.
+He hadn't, the court ruled, because he had failed to rebut
+the State's step two submission in the trial court. Put sim-
+ply, Mr. Pitchford had “waive[d]” any step three argument.
+Id., at 227, n. 16 (internal quotation marks omitted). Yes,
+Mr. Pitchford “devoted a considerable portion” of his appel-
+late brief to a step three comparative juror argument, ex-
+panding on the one-sentence version he introduced for the
+first time in his post-trial motion. Id., at 227. But, the
+court held, Mr. Pitchford had not adequately presented this
+argument to the trial court in the first instance. Ibid.
+And, the court added, it could “not now fault the trial judge
+with failing to discern whether the State's race-neutral rea-
+sons were overcome by rebuttal evidence and argument
+never presented.” Ibid.
+Following his loss in state court, Mr. Pitchford sought ha-
+beas relief in federal court. Among other things, he argued
+that the Mississippi Supreme Court's waiver holding was un-
+reasonable. The district court agreed and granted relief,
+explaining that it “view[ed] the record a bit differently” than
+the Mississippi Supreme Court had. App. to Pet. for Cert.
+22. In the district court's view, the state trial court had
+“failed to provide” Mr. Pitchford with any “opportunity” to
+make a step three argument “rebut[ting]” the prosecution's
+proffered race-neutral reasons. Ibid. The Fifth Circuit re-
+versed, holding that the Mississippi Supreme Court's waiver
+finding was both reasonable and, indeed, correct. 126 F. 4th
+422, 429, 431 (2025). We granted certiorari. 607 U. S.
+1094 (2025).
+II
+To secure federal habeas relief under AEDPA, Mr. Pitch-
+ford must shoulder a considerable burden. Pursuant to 28
+U. S. C. § 2254(a), he must prove that he is being held in cus-
+tody in violation of the Constitution or federal laws. In this
+case, that means Mr. Pitchford must show his trial was in
+fact infected by a Batson violation. In addition to that
+showing, he must make one of two further showings. Under
+§ 2254(d)(1), he must demonstrate that the Mississippi Su-
+preme Court's decision “was contrary to, or involved an un-
+reasonable application of, clearly established Federal law.”
+Or, under § 2254(d)(2), he must demonstrate that the court's
+“decision was based on an unreasonable determination of the
+facts in light of the evidence presented” in state court. See
+Klein, 607 U. S., at 220.
+This Court has long recognized the rigor of § 2254(d)'s re-
+quirements. Showing legal error, we have said, isn't enough
+to satisfy § 2254(d)(1). Instead, a petitioner must demon-
+strate that “no fairminded jurist could reach the state court's
+conclusion under this Court's precedents.” Brown v. Dav-
+enport, 596 U. S. 118, 135 (2022) (internal quotation marks
+and alterations omitted). Likewise, to satisfy § 2254(d)(2),
+“it is not enough to show that reasonable minds reviewing
+the record might disagree about the [factual] finding in ques-
+tion.” Ibid. (internal quotation marks omitted). Instead,
+the finding must have so little support in the record that only
+an “unreasonable” jurist could make it. § 2254(d)(2); see
+also § 2254(e)(1).
+As I see things, Mr. Pitchford has failed to satisfy either of
+these standards. Start with § 2254(d)(1). The Court today
+seems to think the Mississippi Supreme Court “unreason-
+ably” applied our clearly established precedents by conclud-
+ing that Mr. Pitchford “waived” any step three argument.
+Ante, at 401. But in Ford v. Georgia, 498 U. S. 411 (1991), we
+said that States enjoy authority to fashion their own preser-
+vation rules governing Batson claims. 498 U. S., at 423.
+And taking us at our word, the Mississippi Supreme Court
+has adopted just such a rule: Any Batson argument not ade-
+quately presented in a trial court is “waived.” See Pitch-
+ford, 45 So. 3d, at 227, and n. 16 (collecting cases). Nothing
+about that rule defies our clearly established precedents. 2
+Nor does the Mississippi Supreme Court's application of
+its rule offend any of our precedents. The court recognized
+that Mr. Pitchford had preserved a step one statistical argu-
+ment, but held that he had waived the step three compara-
+tive juror argument he sought to press on appeal by failing
+to raise it during jury selection or trial. See id., at 227–228.
+The Court today suggests this analysis “slices Batson . . .
+too thin[ly].” Ante, at 400. Yet it nowhere pauses to iden-
+tify any of our clearly established precedents the Mississippi
+Supreme Court supposedly defied or mistook.
+Turn next to § 2254(d)(2). The Court concludes that the
+Mississippi Supreme Court's waiver holding rests on an
+“unreasonable” reading of the trial record. Ante, at 399.
+After all, the Court observes, Mr. Pitchford didn't entirely
+forgo a comparative juror argument in the trial court; his
+motion for a new trial included a line devoted to just that
+topic. Ante, at 400; 1 App. 184. But be that as it may, the
+Court does not (and cannot) explain how it was unreasonable
+for the Mississippi Supreme Court to determine that
+Mr. Pitchford waived a Batson argument he never made dur-
+2 Where Mississippi preservation law operates on an argument-by-
+argument basis, we have sometimes said ours operates on a claim-by-claim
+basis. See Lebron v. National Railroad Passenger Corporation, 513
+U. S. 374, 379 (1995). And what Mississippi calls “waiver,” we would ordi-
+narily call “forfeiture.” See Hamer v. Neighborhood Housing Servs. of
+Chicago, 583 U. S. 17, 20, n. 1 (2017). But our preferences on these mat-
+ters do not bind the State. See Ford, 498 U. S., at 423. And for that
+reason, I use the term “waiver” here the same way the Mississippi Su-
+preme Court did.
+ing jury selection and introduced for the first time only in a
+single sentence in a post-trial motion.
+Perhaps sensing the problem, the Court ultimately rests
+its § 2254(d)(2) analysis on a different ground. Citing the
+exchange that took place at the end of jury selection, the
+Court says that the state trial court “explicitly assured” de-
+fense counsel that the “Batson objection was preserved.”
+Ante, at 399. And this assurance, the Court reasons, must
+mean that Mr. Pitchford adequately preserved the step three
+comparative juror argument he sought to make before the
+Mississippi Supreme Court.
+But that much is far from clear. Rather than announcing
+an intent to raise a new step three comparative juror argu-
+ment at the conclusion of jury selection, Mr. Pitchford's at-
+torneys said only that they “want[ed] to reserve . . . [their]
+Batson objection,” which sounds like a reference to the step
+one statistical argument they had made earlier. 1 App. 175.
+Supporting that inference, counsel proceeded to repeat the
+same statistical argument they had already made. Id., at
+175–176. True, resting on that point alone might not have
+been the best move. But considering what happened later,
+it hardly seems an unlikely explanation. After his appeal to
+the Mississippi Supreme Court failed, Mr. Pitchford sought
+state post-conviction relief. And in support of that effort,
+one of his trial attorneys expressly represented that she had
+“ `failed to challenge the prosecution's reasons as pretextual
+at trial' ” and that she “did not . . . do anything to . . . reserve”
+the pretext argument Mr. Pitchford sought to press on ap-
+peal. App. to Brief for Respondents 40a, 77a.
+Of course, Mr. Pitchford now advances a very different
+reading of the trial court record. Now, he says his lawyers
+did seek to preserve a step three comparative juror argu-
+ment at the conclusion of jury selection. To be sure,
+Mr. Pitchford admits, his lawyers did not ask the trial court
+to compare any seated white juror with any struck black
+juror. But, he suggests, that is only because the court cut
+off his attorneys and didn't allow them to get the argument
+out. See Brief for Petitioner 33–35.
+That account is difficult to credit as well. Not only is it
+inconsistent with his own attorney's representation that she
+failed to preserve a pretext argument. Nothing in the rec-
+ord indicates a trial court seeking to thwart defense counsel's
+ability to represent their client. In fact, the record shows
+that Mr. Pitchford's attorneys were more than capable of
+speaking up when they had something to say. For just one
+example, consider the page of the transcript following the
+initial Batson exchange. On that one page alone, counsel
+cut off another lawyer, raised an objection, and then inter-
+rupted the trial judge mid-sentence to make another point.
+1 App. 171. There are plenty of other examples like it.
+See, e. g., id., at 158–160, 164–165.
+Put simply, Mr. Pitchford's account of a muzzled defense
+team is hard to square with the record. But even if it were
+a plausible account, that still would not be enough. Under
+§ 2254(d)(2), a federal habeas petitioner must show not only
+that his version of events is plausible. He must show that
+the record “compel[s]” it. Rice v. Collins, 546 U. S. 333, 341
+(2006). And no matter how generously one interprets the
+record in this case, that is a standard Mr. Pitchford cannot
+meet. It is just as reasonable, if not more so, to conclude
+that Mr. Pitchford's attorneys meant to “reserve” only the
+statistical argument they had made at step one—not a step
+three comparative juror argument they never mentioned at
+any point during jury selection or trial. 1 App. 175. Re-
+fecting as much, not only did the Mississippi Supreme Court
+read the record differently than Mr. Pitchford now does.
+The Fifth Circuit did too, holding that the Mississippi Su-
+preme Court's waiver conclusion was not only reasonable but
+correct. 126 F. 4th, at 429.
+In response to all this, the Court insists that “defense
+counsel typically” make a step three comparative juror argu-
+ment before the trial court. Ante, at 400, n. 3. Perhaps
+that is right. But the Court points to nothing in the record
+showing that Mr. Pitchford's counsel made such an argument
+in this case. The Court reasserts, too, its “fundamental
+point” that, even if Mr. Pitchford's counsel failed to present
+a step three comparative juror argument, it was only because
+the trial court “prevented” them from doing so. Ante, at
+400, n. 3. But the Court's repetition of its point serves only
+to highlight its failure to cite anything in the record support-
+ing, much less compelling, its conclusion. See Rice, 546
+U. S., at 341.
+*
+In short, I respectfully dissent because, as I see it, the
+Court's opinion errs on the law and the factual record alike.
+But if the Court's decision is mistaken, at least its impact is
+limited. Precisely because so many of our AEDPA prece-
+dents go unmentioned, I do not read today's decision as call-
+ing any of them into question. Notably, too, the Court is-
+sues a narrow judgment, holding only that Mr. Pitchford did
+not waive a step three Batson argument without dictating
+what further proceedings may be appropriate on remand
+consistent with § 2254.

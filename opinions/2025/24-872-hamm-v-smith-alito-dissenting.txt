@@ -1,0 +1,861 @@
+Hamm v. Smith — No. 24-872 — October Term 2025 — decided 5/21/26 — Alito, J., dissenting
+Citation: 608 U.S 278
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r35_j4el.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Amendment. See, e. g., Dobbs v. Jackson Women's Health
+Organization, 597 U. S. 215, 263–290 (2022); Ramos, 590
+U. S., at 105–109.
+III
+“Some of our most `egregious' cases have been those in
+which we have granted relief based on an unfounded Eighth
+Amendment claim,” and Atkins is certainly near the top of
+the list. Glossip v. Gross, 576 U. S. 863, 905–906 (2015)
+(Thomas, J., concurring). Atkins's rejection of “the histori-
+cal meaning of the [Eighth] Amendmen[t],” see Ramos, 590
+U. S., at 106, has denied the justice governments have given
+to murder victims from time immemorial, Glossip, 576 U. S.,
+at 905–906 (Thomas, J., concurring). And it degrades the
+mildly intellectually disabled by putting them “on a level
+with . . . infants, imbeciles, and domestic animals”—those
+who cannot “ `have known better.' ” C. S. Lewis, The Hu-
+manitarian Theory of Punishment, 13 Issues in Religion and
+Psychotherapy 147, 151 (1987); see Atkins, 536 U. S., at 318,
+319–320. In a future case, the Court should overrule Atkins
+and restore “the Cruel and Unusual Punishments Clause's
+fxed meaning in resolving any challenge brought under it.”
+Grants Pass, 603 U. S., at 562 (Thomas, J., concurring). For
+now, I respectfully dissent.
+Justice Alito , with whom Justice Thomas joins, and
+with whom The Chief Justice and Justice Gorsuch join
+as to Parts I, III, and IV , dissenting.
+In Atkins v. Virginia, 536 U. S. 304 (2002), this Court held
+that the Eighth Amendment forbids the execution of defend-
+ants whom it described, using the standard terminology of
+the time, as “mentally retarded.” Atkins did not define that
+term for Eighth Amendment purposes, and our subsequent
+decisions on the issue have spawned doctrinal ambiguity and
+numerous unanswered questions. See, e. g., Hall v. Florida,
+572 U. S. 701, 740–742 (2014) (Alito , J., dissenting); Moore v.
+Texas, 581 U. S. 1, 28–33 (2017) (Roberts, C. J., dissenting);
+Bowling v. Commonwealth, 163 S. W. 3d 361, 369, 375 (Ky.
+2005) (enumerating several basic questions that Atkins gen-
+erated but left unresolved).
+This case presents one of those questions: How should a
+court apply a 70-IQ cutoff when a defendant has multiple test
+scores in the record? As the decisions below demonstrate,
+our failure to address this recurring question has led to con-
+fusion and unsound analysis in lower courts. When the
+Court granted Alabama's most recent petition in this case,
+we asked the parties and amici to brief this question. 605
+U. S. 1001 (2025). Their briefing provided helpful insight on
+analyzing multiple scores cumulatively. The Court nonethe-
+less dismisses this opportunity to provide much-needed guid-
+ance to lower courts, even though six Justices stake out a
+position on whether the decision below is correct. See ante,
+at 291 (Sotomayor, J., joined by Jackson, J., concurring).
+I respectfully dissent from the Court's decision to leave
+this important question unanswered. At the very least, we
+should reverse the lower courts' erroneous analysis of
+Smith's scores and remand for a fresh consideration of his
+Atkins claim using any sound method. Even if our decision
+went no further, we would provide clarity and coherence to
+one aspect of our Atkins doctrine. Instead, the Court shies
+away from its obligation to provide workable rules for capital
+cases. In doing so, the Court disserves its own death-
+penalty jurisprudence, States' criminal-justice systems,
+lower courts, and victims of horrific murders.
+I write to clarify the scope of our decisions in Hall and
+Moore, offer guidance on how courts may evaluate multiple
+IQ scores, and explain how the lower courts' decisions in this
+case contravened psychology, statistics, and precedent.
+I
+A
+Before Atkins, a defendant convicted of a capital offense
+could argue at the sentencing phase of his trial that the
+death penalty should not be imposed because his “mental
+retardation”—a condition that psychologists now term “in-
+tellectual disability”—diminished his culpability. Bobby v.
+Bies, 556 U. S. 825, 827–828 (2009). Specifically, under
+Penry v. Lynaugh, 492 U. S. 302 (1989), a defendant could
+argue that his disability rendered him “less able than a nor-
+mal adult” to “act `deliberately,' ” “control his impulses,” or
+“evaluate the consequences of his conduct.” Id., at 322–328.
+Applying this regime, Virginia sentenced Daryl Atkins to
+death after he unsuccessfully attempted to mitigate his cul-
+pability using evidence of intellectual disability.
+When Atkins's case made it to this Court, he contended
+that Penry's individualized approach was insufficient to pro-
+tect nonculpable defendants under the Eighth Amendment.
+In particular, Atkins argued that juries could not make “reli-
+able sorting decisions among defendants with mental retar-
+dation” and had not “cull[ed] the more culpable from those
+whose disabilities [should] preclude” a death sentence.
+Brief for Petitioner in Atkins v. Virginia, O. T. 2001, No.
+00–8452, p. 39. Atkins therefore urged the Court to replace
+Penry's “case-by-case administration” with a “categorical
+rule” barring imposition of the death penalty on any “per-
+so[n] with mental retardation.” Brief for Petitioner in No.
+00–8452, at 39–40. The Court ultimately agreed with At-
+kins, holding that “the execution of mentally retarded crimi-
+nals” violates the Eighth Amendment. Atkins, 536 U. S.,
+at 321.
+One might have expected that the Atkins Court, in impos-
+ing a new categorical rule, would have also defined the cate-
+gory in question. Yet Atkins did not. Id., at 317. That
+void entailed two consequences. First, States and lower
+courts would need to develop their own categorical defni-
+tions that were susceptible of judicial administration. Ibid.
+Second, because “[i]ntelligence, as measured by IQ, has pre-
+dominated as the primary criterion for diagnosing” intellec-
+tual disability, it followed that IQ would feature in these
+definitions and play a central role in adjudicating Atkins
+claims. American Association on Mental Retardation, Men-
+tal Retardation: Definition, Classification, and Systems of
+Supports 25 (10th ed. 2002) (AAMR); see, e. g., id., at 21–23
+(cataloging the consistent use of an “IQ Cutoff ” as a diagnos-
+tic requirement in the fve decades leading up to Atkins);
+AAMR 66 (noting that possessing an IQ that is two or more
+standard deviations below the mean is a “necessary . . . crite-
+rion to establish a diagnosis of mental retardation”); Ameri-
+can Psychiatric Association, Diagnostic and Statistical Man-
+ual of Mental Disorders 41 (rev. 4th ed. 2000) (“The essential
+feature of Mental Retardation” is an “IQ of about 70 or
+below”).
+In the years since Atkins, IQ has remained a central com-
+ponent of intellectual-disability diagnoses and Atkins claims.
+On the diagnostic end, “[i]dentifying defcits in intellectual
+functioning via IQs” continues to be “the standard of prac-
+tice, as it has been for approximately a century.” R. Floyd,
+R. Farmer, W. Schneider, & K. McGrew, Theories and Meas-
+urement of Intelligence, in 1 APA Handbook of Intellectual
+and Developmental Disabilities 392 (L. Glidden ed. 2021)
+(APA Handbook). Likewise, governments continue to in-
+corporate IQ thresholds into intellectual-disability defni-
+tions that determine a defendant's eligibility for the death
+penalty. See, e. g., Ex parte Perkins, 851 So. 2d 453, 456
+(Ala. 2002); Ky. Rev. Stat. Ann. § 532.130(2) (West Cum.
+Supp. 2025).
+Initially, Atkins entrusted States with the task of develop-
+ing judicially manageable criteria to define intellectual dis-
+ability and assess a defendant's IQ. 536 U. S., at 317; Bies,
+556 U. S., at 831. In the ensuing years, however, this Court
+has inserted itself into that role and constitutionalized vari-
+ous rules for evaluating intellectual disability. Three of
+these rules concern IQ cutoffs and test scores.
+First, in Hall, the Court clarified that States may use a
+70-IQ cutoff for Atkins claims. Hall concerned a Florida
+statute that defined “intellectual disability” as an IQ of 70 or
+less and “defcits in adaptive behavior” that manifested be-
+fore age 18. Fla. Stat. § 921.137(1) (2013); Hall, 572 U. S., at
+711. Addressing this provision, this Court concluded:
+“On its face this statute could be interpreted consist-
+ently with Atkins and with the conclusions this Court
+reaches in the instant case. Nothing in the statute pre-
+cludes Florida from taking into account the IQ test's
+standard error of measurement, and as discussed below
+there is evidence that Florida's Legislature intended to
+include the measurement error in the calculation.” Id.,
+at 711–712.
+The undeniable thrust of this analysis is that a 70-IQ cutoff
+is constitutional, provided that courts consider measurement
+error when applying it. If that were not so—if a 70-IQ cut-
+off could never be dispositive of an Atkins claim—then Hall
+could not have held that Florida's statute was “consisten[t]
+with Atkins.” 572 U. S., at 711. Hall thus clarified that
+the Eighth Amendment does not bar the death penalty when
+a defendant fails to prove that his IQ is 70 or below. This
+conclusion cohered with Atkins, which keyed its holding to
+a purported “national consensus” against “execut[ing] of-
+fenders possessing a known IQ less than 70.” 536 U. S.,
+at 316.
+While Hall affirmed a 70-IQ cutoff for Atkins claims, it
+imposed a constitutional rule about how courts may apply
+that cutoff to an IQ test score. At the time of Hall, Florida
+treated a test score as a “final and conclusive” determination
+of a defendant's IQ and “refus[ed]” to consider possible meas-
+urement error. 572 U. S., at 712. Thus, if a defendant
+failed to produce a test score of 70 or below, Florida courts
+rejected Atkins relief without considering any other evi-
+dence. Hall rejected Florida's approach. Although Hall
+acknowledged that sufficiently high scores might be disposi-
+tive in some cases, 572 U. S., at 715, the Court held that
+courts must account for a test's “standard error of measure-
+ment,” an estimate of the test's possible error, id., at 723–
+724. To do so, courts must interpret an individual test score
+using a “confidence interval” that captures a range of IQs,
+rather than as a single point estimate. 1 If the confidence
+interval for a score spans 70 or lower, courts may not treat
+that score as singly dispositive of an Atkins claim. 572
+U. S., at 723.
+Three years later in Moore, this Court announced another
+constitutional rule of IQ analysis. There, a Texas defendant
+obtained a test score of 74 with a corresponding confidence
+interval spanning 69 to 79. 581 U. S., at 10. In determining
+whether the defendant satisfied a 70-IQ cutoff, the Texas
+Court of Criminal Appeals considered factors beyond the
+test score and its standard error of measurement. For ex-
+ample, the court noted that the defendant had possibly expe-
+rienced depression when he took the IQ test. Ex parte
+Moore, 470 S. W. 3d 481, 517–519 (2015). The court also rec-
+ognized that he had “external motivations to obtain a lower
+score, such as facing the death penalty” if he scored too high.
+Id., at 517. Based on these extrinsic details, the Texas court
+concluded that there was “no reason to doubt” that the de-
+fendant's “actual IQ” was in the “higher portion” of the 69-
+to-79 interval and thus above 70. Id., at 519. The court
+accordingly denied Atkins relief on IQ grounds.
+1 A “confidence interval” is a range of values above and below a single
+test score. The upper and lower limits of a confidence interval are equal
+to the test score plus or minus the standard error of measurement or some
+multiple thereof. For instance, a 68% confidence interval for a score spans
+one standard error above and below the score, and a 95% confidence inter-
+val spans two standard errors above and below. See Hall, 572 U. S., at
+713; R. Cohen, M. Swerdlik, & E. Sturman, Psychological Testing and As-
+sessment: An Introduction to Tests and Measurement 176 (8th ed. 2013)
+(Cohen). Although Hall held that courts must consider a confidence inter-
+val when applying a 70-IQ cutoff to a score, the Court did not specify what
+confidence level must be used. As a result, Hall left lower courts guess-
+ing what level suffices. See 572 U. S., at 740–741 (Alito , J., dissenting).
+Moore rejected this analysis, holding that courts may not
+rely on “factors unique to [the defendant]” to conclude that
+his “true” IQ falls in one range of a confidence interval
+rather than another. 581 U. S., at 14. Put differently,
+Moore held that courts may not infate or defate estimates of
+a defendant's IQ based on specific details about him. When
+determining a defendant's IQ, a court must consider only his
+test scores and valid statistical analysis.
+Our case law has thus laid out three rules concerning IQ
+and Atkins claims. First, Atkins does not bar the execution
+of a defendant who fails to prove an IQ of 70 or lower. Sec-
+ond, when determining whether a defendant has met this 70-
+IQ threshold, a court may not treat any one score as disposi-
+tive without considering a confidence interval based on the
+test's standard error of measurement. And third, courts
+may not use extrinsic, defendant-specifc details to infer
+where his IQ falls within a given interval.
+B
+Although Hall and Moore announced rules about treating
+a single test score as dispositive, this Court has never ex-
+plained when courts may treat multiple scores as cumula-
+tively dispositive. Hamm v. Smith, 604 U. S. 1, 2 (2024)
+(per curiam ). Our silence on this issue leaves courts with-
+out direction on how to address a recurring situation. Be-
+cause defendants raising Atkins claims have usually taken
+multiple IQ tests, courts must often apply a 70-IQ cutoff to
+a defendant with several scores. See, e. g., Smith v. Ryan,
+813 F. 3d 1175, 1183–1184 (CA9 2016) (fve scores); State v.
+Escalante-Orozco, 241 Ariz. 254, 290, 386 P. 3d 798, 834 (2017)
+(four scores); Black v. Carpenter, 866 F. 3d 734, 737–738 (CA6
+2017) (10 scores); Jackson v. Payne, 9 F. 4th 646, 653 (CA8
+2021) (four scores). See also Pet. for Cert. in Saldano v.
+Texas, O. T. 2025, No. 25–5749, p. 6 (four scores). By Smith's
+count, Atkins claims presenting multiple IQ scores have
+arisen at least 56 times since our decision in Hall. See Brief
+for Respondent 9, and n. 1; App. to Brief for Appellant 1a–
+17a. These cases “starkly underscor[e] the need for clarity”
+on this issue, and our failure to provide it has not gone unno-
+ticed. Busby v. Guerrero, 175 F. 4th 610, 611 (CA5 2026)
+(opinion of Higginson, J.). “In a matter of life and death,”
+lower-court judges “must be certain that [they] apply the
+proper constitutional rule.” Ibid.
+Fortunately, psychometric literature provides various
+methods for estimating a person's “true” IQ using multiple
+scores.2 Although the Constitution does not require courts
+to adopt any one approach, the medical community's IQ-
+estimation techniques inform our Atkins jurisprudence.
+Hall, 572 U. S., at 710–713. Thus, courts and legislatures
+may rely on any reasonably sound method of estimating a
+defendant's “true” IQ. The parties and amici discuss sev-
+eral approaches, and I highlight three that appear in the APA's
+Handbook of Intellectual and Developmental Disabilities.
+First, multiple IQ scores may be used to calculate a “com-
+posite score.” This approach provides a mathematically rig-
+orous way to aggregate scores across different tests into a
+single, more precise estimate. APA Handbook 415–417.
+Indeed, a prominent psychology expert whom this Court
+cited in Hall suggests that the composite-score method is
+appropriate for estimating the “true” IQ of someone “fac-
+ing the death penalty.” W. Schneider, Can't Decide Which
+IQ Is Best? Make a Composite Score 1 (Jan. 13, 2012),
+http://assessingpysche.wordpress.com/2021/01/13/cantdecide-
+which-iq-is-best-make-a-composite-iq-score/; accord, D. Wat-
+2 IQ is measured using a standardized scale that gauges a person's intel-
+lectual functioning relative to the overall population. Cohen 323–335.
+Because these scales are mathematical constructs, there is no such thing
+as a “real” IQ. W. Schneider, Principles of Assessment of Aptitude and
+Achievement, in The Oxford Handbook of Child Psychological Assessment
+289 (P. Nathan ed. 2013) (Schneider, Oxford Handbook). From a statisti-
+cal standpoint, however, an individual does have a “true” IQ, which is the
+expected value of someone's score over a long run of repeated, independ-
+ent administrations of an IQ test. APA Handbook 396.
+son, Intelligence Testing, in The Death Penalty and Intellec-
+tual Disability 124 (E. Polloway ed. 2015) (Watson) (discuss-
+ing the composite-score approach as an appropriate method
+in the death-penalty context).
+The estimate produced by a composite-score calculation
+can be interpreted like any other IQ score. In other words,
+a composite-score estimate of 70 reflects intellectual func-
+tioning that is “significantly subaverage.” See Schneider,
+Oxford Handbook 290–291. And because using multiple
+scores can increase measurement precision, the standard
+error for a composite score will often be smaller than that
+for any constituent test score. Id., at 291; APA Handbook
+415–417. The resulting confidence interval for a composite
+score will thus be narrower. Id., at 417.
+Computing a composite score and its associated standard
+error of measurement is a multistep calculation that requires
+the defendant to provide certain statistics about the tests
+that he has taken. Id., at 416–417; Watson 124. When a
+defendant provides all these data, courts, with the assistance
+of expert witnesses, can construct a composite score and its
+corresponding confidence interval. Unless that interval
+spans 70 or below, courts may deny Atkins relief.
+Second, if a defendant fails to provide the information nec-
+essary to compute a composite score, the “next best practice”
+for estimating someone's “true” IQ is to take the median
+value of his scores. Watson 124. The median score is a
+“reasonable estimate” of a defendant's “true” IQ that is “ap-
+propriate and useful” where the 95% confidence intervals for
+all of an individual's scores overlap. APA Handbook 415.
+Thus, when this condition is met, courts adjudicating Atkins
+claims can “reasonabl[y]” and “appropriate[ly]” conclude that
+a defendant's IQ is above 70 when his median score exceeds
+70. APA Handbook 415.
+Third, some have suggested that it may be valid for an
+expert witness to take a less formal approach and make a
+judgment call about the “central tendency” of a defendant's
+various scores. Ibid. When a defendant takes multiple
+tests, his scores will usually “cluster” around his “true” IQ.
+A. Frances, Essentials of Psychiatric Diagnosis: Responding
+to the Challenge of DSM–5, pp. 30–31 (2013) (Frances).
+Under this approach, when an expert determines that a de-
+fendant's scores “cluster,” or evince a “central tendency,”
+above 70, a court can reasonably conclude that a defendant's
+“true” IQ exceeds 70.
+Any one of these approaches provides a reasonable way to
+evaluate whether a defendant's IQ is 70 or below in Atkins
+cases involving multiple scores. And when a court using a
+reasonable method concludes that a defendant's “true” IQ is
+above 70, it may reject an Atkins claim solely on that
+ground.
+II
+The courts below did not apply any defensible method to
+determine Smith's IQ. To the contrary, they relied on psy-
+chologically, statistically, and legally unsound analyses to
+conclude that Smith's IQ is 70 or below. At the very least,
+we should reverse and remand to give the lower courts an
+opportunity to perform a proper analysis.
+A
+Consider first the Eleventh Circuit's 2023 decision, which
+affirmed that Smith was entitled to Atkins relief. The Elev-
+enth Circuit's analysis started off on the right foot. It ex-
+plained that Smith “ha[d] the burden of proving” that he
+possessed “significant subaverage intellectual functioning.”
+Smith v. Commissioner, 67 F. 4th 1335, 1345 (2023) (per cu-
+riam) (internal quotation marks omitted). Likewise, the
+court correctly recognized that “[w]hether Smith has signif-
+cantly subaverage intellectual functioning turns on whether
+he has an IQ equal to or less than 70.” Ibid. Thus, in up-
+holding the lower court's decision to grant Smith Atkins re-
+lief, the Eleventh Circuit necessarily concluded that his
+“true” IQ was 70 or lower.
+In reaching this conclusion, however, the Eleventh Circuit
+employed an illegitimate approach to analyzing Smith's
+scores. The record below contained fve valid IQ scores for
+Smith: 75, 74, 72, 78, and 74. 67 F. 4th, at 1345–1346. When
+assessing whether Smith's IQ was 70 or lower based on these
+data, the Eleventh Circuit did not employ any recognized
+method for analyzing multiple test scores. Instead, it deter-
+mined Smith's “true” IQ by taking the value at “the lower
+end” of the confidence interval for “his lowest IQ score.”
+Id., at 1346. Here, Smith's lowest valid score was 72, with
+a standard error of measurement of 3. Id., at 1340. From
+those values, the Eleventh Circuit determined that Smith's
+IQ was “actually as low as 69” and his Atkins claim therefore
+met the 70-IQ cutoff. 67 F. 4th, at 1349. In other words,
+under the Eleventh Circuit's view, whenever the lower bound
+of a defendant's lowest score spans 70 or lower, his Atkins
+claim satisfies the IQ threshold, and courts must “move on”
+to consider evidence for other Atkins criteria. 67 F. 4th,
+at 1347.
+This approach is fagrantly unsound. When a defendant
+has multiple IQ scores, it is indefensible to use the lower
+bound of his lowest score to determine whether his “true”
+IQ is 70 or below. Such an approach contravenes basic prin-
+ciples of psychological measurement and statistics.
+First, psychometric literature teaches that when an indi-
+vidual has multiple IQ scores, the “higher scores are likely
+to be more indicative” of a person's intelligence than the
+lower scores. Frances 31; accord, S. Whitaker, The Stability
+of IQ in People With Low Intellectual Ability: An Analysis
+of the Literature, 46 Intellectual and Developmental Disabil-
+ities, No. 2, p. 126 (2008) (Whitaker) (noting it is “likely that
+the higher result [is] the more accurate”). This asymmetry
+reflects the fact that the possible sources of error in an indi-
+vidual's IQ-test performance, such as uncooperativeness,
+anxiety, sleep deprivation, malingering, or other mental-
+health disorders, “will tend to reduce” one's score. Ibid.
+In contrast, there is “no reason why” an IQ score would over-
+estimate someone's intelligence. Frances 31. This princi-
+ple counsels against making decisions based on someone's
+lowest score.
+The Eleventh Circuit flipped this principle of psychology
+on its head by giving dispositive weight to Smith's lowest
+score, which was likely “subject to more error” and “less
+accurate” than the others. Whitaker 126. If anything, the
+Eleventh Circuit should have given greater weight to
+Smith's higher scores of 75 and 78, which indicate that At-
+kins does not bar his execution. See Hall, 572 U. S., at 715
+(noting that the defendant conceded the validity of a bright-
+line 75-IQ cutoff for Atkins claims).
+Second—and most critically—the Eleventh Circuit's sole
+reliance on the lower bound of Smith's lowest score reflects
+a basic misunderstanding of statistics. When clinicians con-
+struct a confidence interval using the standard error of meas-
+urement, their calculations rely on the assumption that a de-
+fendant's test scores are normally distributed around his
+“true” IQ—i. e., if a defendant took a large number of IQ
+tests, the scores would form a bell curve centered on his
+“true” IQ. Cohen 176; K. Widaman, Concepts of Measure-
+ment, in The Death Penalty and Intellectual Disability 68 (E.
+Polloway ed. 2015). Under that assumption, an individual's
+score on any given test is more likely to be close to his “true”
+IQ than far away from it. This fact, in turn, means that the
+values near the center of a confidence interval are more
+likely estimates of the defendant's “true” IQ than the values
+at the interval's upper and lower bounds. See G. Cum-
+ming & F. Fidler, Confidence Intervals Give Better Answers,
+217 J. Psychology 18 (2009); G. Cumming, Inference by Eye:
+Pictures of Confidence Intervals and Thinking About Levels
+of Confidence, 29 Teaching Statistics 90–91 (2007).
+The Eleventh Circuit's analysis ignored this attribute of
+confidence intervals. It concluded that Smith's IQ was 70 or
+below because the lower bound of the interval for one score
+was 69. But the fact that 69 marked the lower limit of the
+interval meant that this value was less likely to reflect
+Smith's “true” IQ than other, higher values in the interval.
+Once again, the Eleventh Circuit's analysis was precisely
+backward.
+The Eleventh Circuit attempted to justify its approach by
+citing Hall and Moore. On its reading of those cases, any
+time that the lower bound of a defendant's lowest score de-
+scends to 70 or below, IQ cannot be dispositive, and courts
+must decide an Atkins claim based on evidence of the defend-
+ant's adaptive functioning. 67 F. 4th, at 1348–1349 (“Hall
+and Moore required the district court to turn to evidence of
+Smith's adaptive defcits because the lower end of his
+standard-error range was 69”). But as we recognized the
+last time that this case was before us, neither Hall nor
+Moore established any rules for analyzing multiple IQ
+scores, much less the one-low-score approach that the Elev-
+enth Circuit took. Hamm, 604 U. S., at 2 (“This Court has
+not specified how courts should evaluate multiple IQ scores”
+(citing Hall, 572 U. S., at 714, and Moore, 581 U. S., at 1)).
+Start with Hall. To be sure, the defendant in that case
+had taken multiple IQ tests. 572 U. S., at 707. But neither
+the Florida courts nor this Court considered the cumulative
+significance of his scores. See Hall v. State, 109 So. 3d 704,
+707–711 (Fla. 2012) (per curiam ); Hall, 572 U. S., at 724.
+Under then-controlling Florida case law, state courts consid-
+ered each score individually. See Cherry v. State, 959 So. 2d
+702, 712–714 (Fla. 2007). Unless a defendant provided at
+least one score of 70 or below, Florida courts would deny
+relief. Although Hall rejected this approach, the decision
+did not explain how courts should consider the cumulative
+significance of multiple scores. To the extent that Hall ad-
+dressed multiple-score analysis at all, it held only that courts
+must “take into account” potential measurement error. 572
+U. S., at 724. Hall did not, however, explain how to account
+for error across multiple scores. It merely noted that such
+analysis is a “complicated endeavor,” one that neither Flor-
+ida courts nor this Court had undertaken. Id., at 714. This
+cursory discussion is hardly the sort of treatment that the
+Court would have given if it had intended to impose a one-
+low-score approach.3
+Moore did not mandate the Eleventh Circuit's approach,
+either. As I have already explained, Moore prohibited
+courts from using extrinsic facts about a defendant to draw
+conclusions about where his “true” IQ falls within a conf-
+dence interval. Beyond that, Moore's IQ discussion merely
+reaffirmed Hall's holding that courts must consider the
+standard error of measurement when applying a 70-IQ cutoff
+to a single score. 581 U. S., at 14. Moore did not articulate
+any rules about analyzing multiple scores in aggregate. As
+in Hall, the defendant in Moore had multiple IQ scores in
+the record, id., at 10, but neither the Texas court nor this
+Court considered those scores collectively, see Ex parte
+Moore, 470 S. W. 3d, at 519; Moore, 581 U. S., at 14.
+If psychology, statistics, and our case law do not suffice to
+underscore the faws of the Eleventh Circuit's one-low-score
+approach, common sense seals the deal. The Eleventh Cir-
+cuit's approach would produce absurd results. Imagine that
+a defendant had taken an IQ test every year from first grade
+through high-school graduation. Suppose that fve of these
+scores were 100, fve were in the 90s, one was in the 80s, and
+one was 71 on a test with a standard error of 3. On this
+hypothetical record, there would be no practical likelihood
+that the defendant's IQ is 70 or below. Rather, the most
+reasonable conclusion would be that the 71 score is an outlier,
+3 Hall also warned that, even when a defendant has multiple scores, the
+tests “may be . . . administered in a consistently flawed manner [such] that
+even a consistent score is not conclusive.” 572 U. S., at 714. It does not
+follow, however, that multiple scores are never dispositive. If a defendant
+believes that one or more of his test scores are flawed, he is of course free
+to argue that courts should disregard those scores when determining his
+“true” IQ. Id., at 743, n. 14 (Alito , J., dissenting).
+and that its confidence interval does not capture the defend-
+ant's “true” IQ. But under the Eleventh Circuit's one-low-
+score rule, a court could not deny Atkins relief on these
+scores unless it separately found inadequate the defendant's
+adaptive-functioning evidence. In effect, a court would
+need to ignore the defendant's 11 higher scores and consider
+only the outlier. That approach cannot be correct, and our
+case law does not command it.
+In short, the Eleventh Circuit's 2023 analysis was indefen-
+sible. In determining whether Smith satisfied a 70-IQ cut-
+off, the court focused on the lower bound of the confidence
+interval for Smith's lowest score—the least plausible region
+of the interval for what was likely Smith's least accurate
+score. Because this Court was troubled by this deeply
+flawed approach, we summarily vacated the Eleventh Cir-
+cuit's decision last Term. Hamm, 604 U. S., at 1–3.
+B
+The Eleventh Circuit's attempt to resuscitate its decision
+on remand remained flawed. Once again, the Eleventh Cir-
+cuit began by correctly noting that Atkins requires Smith to
+prove that “his IQ is 70 or lower.” Smith v. Commissioner,
+Ala. Dept. of Corrections, No. 21–14519 (Nov. 14, 2024)
+(per curiam ), App. to Pet. for Cert. 3a. The court then con-
+cluded that “the record evidence plausibly supports” the
+finding that “Smith's true IQ score could be less than or
+equal to 70.” Id., at 7a (emphasis added). In support of
+this conclusion, the Eleventh Circuit quoted the District
+Court's analysis:
+“ `Smith did not consistently score so high that the
+[c]ourt is confident that the lowest score can be thrown
+out as an outlier or that the standard error for the' other
+tests, which individually suggest Smith's true IQ may
+be 70 or lower, `can be disregarded.' ” Id., at 6a (quoting
+Smith v. Dunn, Civ. Action No. 05–cv–00474 (SD Ala.,
+Aug. 17, 2021), App. to Pet. for Cert. 70a; emphasis
+added).
+This analysis cannot justify granting Atkins relief. First,
+it is not enough for Smith to show that his “true” IQ “could
+be” or “may be” 70 or lower. Rather, Smith needed to show
+that his IQ is 70 or lower. Moreover, even if the District
+Court definitively concluded that Smith had a 70-or-lower IQ,
+the court's reasoning could not support such a conclusion.
+For reasons that I have already discussed, it is unsound to
+hold that Smith satisfied a 70-IQ threshold simply because
+the lower limits of the intervals for some scores descended
+to 70. To obtain relief, Smith needs to prove that his scores
+cumulatively demonstrate a “true” IQ of 70 or lower.
+Apart from test scores, the Eleventh Circuit's decision on
+remand also relied on evidence of Smith's adaptive function-
+ing to conclude that his IQ was 70 or lower. In particular,
+the Eleventh Circuit pointed to the District Court's conclu-
+sion that “[a]though [Smith] has scored above 70 on many of
+his IQ tests, his adaptive behavior problems are severe
+enough that his actual functioning is lower.” App. to Pet.
+for Cert. 61a. In other words, although Smith's scores all
+exceeded 70, the courts concluded that his “actual” IQ was
+lower using evidence other than his scores and their stand-
+ard errors. Ibid.
+This line of reasoning is equally untenable, as it commits
+the same error that the Texas Court of Criminal Appeals
+made in Moore. Estimates of Smith's IQ spanned the 70s,
+yet the courts below concluded that Smith's “actual” IQ more
+likely fell in the 70-or-lower range of these intervals. App.
+to Pet. for Cert. 61a. As in Moore, the lower courts
+grounded this quantitative conclusion on “factors unique to
+[Smith].” 581 U. S., at 14. Specifically, the District Court
+defated its estimate of Smith's IQ based on details about
+his social and interpersonal difficulties, his struggles living
+independently, and his academic underperformance. App. to
+Pet. for Cert. 61a. As in Moore, however, none of that evi-
+dence permits the lower courts to conclude that Smith's
+“true” IQ is more likely to fall at the lower (or higher) end
+of an estimated range. 581 U. S., at 14; accord, Whitaker
+126 (“Other sources of information” about “how the individ-
+ual functions in his/her environment” cannot be “used quanti-
+tatively to reduce margin of error in an IQ score”).
+Indeed, the evidence on which lower courts relied to de-
+fate their estimate of Smith's IQ was even less relevant than
+the evidence that the Texas court considered in Moore. In
+Moore, the Texas court relied on evidence that plausibly
+caused a test to underestimate the defendant's IQ, such as
+his possible depression on test day and his strong incentive
+to underperform. Ex parte Moore , 470 S. W. 3d, at 517–519.
+Here, in contrast, the lower courts discounted Smith's IQ
+using facts completely unrelated to his testing, such as his
+failure to maintain a bank account and his difficulties pur-
+chasing groceries. App. to Pet. for Cert. 87a. If Moore
+prohibits courts from using test-day details to infate an IQ
+estimate, then surely it prohibits courts from using sundry
+facts about a defendant's life before prison to defate an esti-
+mate.4 Yet this is precisely the evidence on which the courts
+below relied to conclude that Smith's IQ was 70 or below.
+Because the Eleventh Circuit continued to rely on unsound
+reasoning, I would reverse and remand its 2024 decision with
+instructions to reevaluate Smith's IQ using any sound
+method.
+4 Our earlier summary-vacatur opinion in this case is not to the contrary.
+In suggesting that courts might consider “expert testimony” when evalu-
+ating Smith's scores, we simply recognized that litigants usually introduce
+test scores, evidence of their validity, and any relevant statistical analysis
+through expert testimony. Hamm v. Smith, 604 U. S. 1, 2 (2024) (per cu-
+riam). We did not suggest that courts may factor in expert testimony
+about a defendant's adaptive functioning when determining whether the
+defendant satisfies the 70-IQ threshold.
+C
+Smith's attempts to defend the judgment below are simi-
+larly unpersuasive. Smith contends that Hall and Moore re-
+quire courts to “consider other evidence of intellectual func-
+tioning” whenever “IQ scores alone are inconclusive.” Brief
+for Respondent 24. But this contention only raises the
+question of when multiple scores are “inconclusive” under
+Atkins. When pressed at oral argument to address this
+question, Smith's counsel steadfastly refused to give a clear
+or consistent answer. At one point, counsel conceded that
+several sufficiently high IQ test scores could be dispositive
+even if one score was 71. Tr. of Oral Arg. 104–105. Mo-
+ments later, however, counsel suggested that any time the
+confidence interval for a test score falls below 70, courts
+must consider evidence beyond IQ tests. Id., at 120. When
+we asked counsel to clarify when, if ever, test scores alone
+could be conclusive, he retorted only that Smith was “not in
+the same time zone” as a defendant for whom scores might
+be dispositive. Id., at 116. Obviously, an “I know it when
+I see it” rule is plainly inappropriate for determining
+whether to impose the death penalty. 5
+5 Certain amici suggest that IQ scores should never be dispositive in
+Atkins claims because clinicians would never treat IQ as conclusive in
+diagnosing intellectual disability. Brief for American Psychological Asso-
+ciation et al. as Amici Curiae 6–8 (APA Brief); Brief for American Associ-
+ation on Intellectual and Development Disabilities et al. as Amici Curiae
+27–28 (AAIDD Brief). That argument is wrong several times over. For
+one, Hall recognized (consistent with Smith's concession) that IQ scores
+could be dispositive under Atkins if they are sufficiently high. 572 U. S.,
+at 711–712, 715. More fundamentally, amici err by assuming that IQ's
+role under Atkins must mirror its role in the clinical context. As amici
+admit, the “clinical framework for diagnosing intellectual disability was
+largely developed . . . independently of . . . the criminal cour[t].” AAIDD
+Brief 8. And the APA stresses that clinical diagnostic criteria are not
+well “tailored” for making decisions in “the death penalty context.” APA
+Brief 5. Thus, although our Atkins doctrine has consulted the diagnostic
+criteria for intellectual disability, this Court has rejected the view that
+Smith separately argues that the District Court's analysis
+merely tracked Alabama law, which does not bar consider-
+ation of adaptive-functioning evidence even if a defendant
+fails to produce a 70-or-lower test score. Brief for Respond-
+ent 45–46. But whether the District Court correctly
+granted habeas relief turns on whether Smith's death sen-
+tence violated the Constitution, not Alabama law. 6 See 28
+U. S. C. § 2254(a). Regardless, Alabama law, like our Atkins
+doctrine, requires a defendant to prove that his IQ is 70 or
+below. See Ex parte Perkins, 851 So. 2d, at 456. Smith has
+thus far failed to do so under any valid method, and he cannot
+identify a single Alabama case in which a court granted relief
+after concluding that a defendant's IQ exceeded 70. See,
+e. g., Mulkey v. State, ––– So. 3d ––– (Ala. Crim. App. 2025)
+(applying a 70 IQ cutoff and denying relief to a defendant
+who scored 72). The District Court's decision therefore
+fares no better under Alabama law.
+courts must yield to every putative expert consensus. See Moore v.
+Texas, 581 U. S. 1, 13 (2017); id., at 22 (Roberts, C. J., dissenting) (“clini-
+cians, not judges, should determine clinical standards; and judges, not
+clinicians, should determine the content of the Eighth Amend -
+ment”). And as I explain below, eschewing bright-line IQ thresholds
+would place our Atkins doctrine on a collision course with its own logic
+and with our Eighth Amendment jurisprudence more broadly. See infra,
+at 336–338.
+6 Although Justice Sotomayor asserts that the correctness of the Dis-
+trict Court's intellectual-disability determination turns on Alabama law,
+ante, at 297, she ultimately concludes that whether Smith is disabled is a
+factual issue subject to clear-error review. Ante, at 298–299. Our deci-
+sions, however, indicate that IQ analyses in Atkins claims pose mixed
+questions of law and fact. A defendant's specific scores are factual issues,
+whereas the propriety of a court's interpretation of those scores can be
+an issue of federal law. See Hall, 572 U. S., at 723 (concluding that the
+Constitution prohibited Florida's approach to analyzing IQ scores); Moore,
+581 U. S., at 13–15 (vacating the Texas court's IQ analysis because it con-
+travened our holding in Hall, not because it constituted clear factual
+error).
+* * *
+The lower courts' IQ analysis was flawed at every stage of
+this litigation. Because the courts below have yet to pro-
+vide a sound basis for granting Smith Atkins relief, the
+Court should reverse the Eleventh Circuit's decision and re-
+mand this case for further proceedings.
+III
+Justice Sotomayor attempts to justify dismissing this
+case on the ground that it does not meaningfully present
+the question on which we granted certiorari. This assertion
+blinks reality. The question on which we granted certiorari
+asks how courts should “consider the cumulative effective of
+multiple IQ scores in assessing an Atkins claim.” 605 U. S.
+1001. When the courts below assessed Smith's claim, they
+evaluated whether his “multiple IQ scores” were “consist-
+ently . . . so high” as to establish “that Smith is not intellectu-
+ally disabled” under Atkins. App. to Pet. for Cert. 70a.
+Thus, this case plainly presents the question on which we
+granted certiorari, as well as the intertwined question of
+whether the courts below properly analyzed Smith's scores
+when granting him Atkins relief. Contra, ante, at 287–289
+(Sotomayor, J., concurring).
+Justice Sotomayor nevertheless emphasizes that “Ala-
+bama never argued that the [District Court] must . . . us[e]
+any particular method (or set of methods) to assess whether
+an Atkins claimant has proven significantly subaverage intel-
+lectual functioning.” Ante, at 287. But it was not Ala-
+bama's burden to explain why Smith's IQ scores disqualifed
+him from Atkins relief. Rather, Smith has the burden of
+proving that his scores establish an IQ of 70 or less using some
+defensible method. See Hawk v. Olson, 326 U. S. 271, 279
+(1945) (“Petitioner carries the burden in a collateral [habeas]
+attack”). Alabama has consistently maintained that Smith
+fails to satisfy this burden given his scores. See Respond-
+ent's Post-Hearing Brief in Smith v. Dunn, No. 05–cv–00474
+(SD Ala.), ECF Doc. 129, pp. 36–46. The District Court held
+otherwise only by engaging in unsound analysis, and Ala-
+bama has objected to that analysis at every stage of the liti-
+gation since. See Respondent's Motion to Alter or Amend
+the Judgment in Smith, supra, ECF Doc. 136, pp. 3–7; Brief
+for Appellant in No. 21–14519 (CA11), ECF Doc. 12, pp. 40–
+42; Pet. for Cert. in Hamm v. Smith, O. T. 2023, No. 23–167,
+pp. 10–20; Pet. for Cert. 26–31. Having properly preserved
+this issue, Alabama could “ `make any argument in support' ”
+of its position in this Court, even if it did not present those
+“ `precise arguments' ” below. Lebron v. National Railroad
+Passenger Corporation, 513 U. S. 374, 379 (1995). Indeed, it
+was particularly appropriate for Alabama to raise arguments
+about cumulative-score analysis given that we specifically di-
+rected the State to do so. 7 See 605 U. S. 1001. In suggest-
+ing that Alabama needed to raise these same exact argu-
+ments below, Justice Sotomayor misunderstands basic
+party-presentation rules and joins the lower courts in im-
+properly shifting the burden to Alabama.
+To be sure, I agree with Justice Sotomayor that the de-
+cision below was not “trained on” any rigorous multi-score
+analysis. Ante, at 286. But that shortcoming is precisely
+why we should reverse the decision below and remand this
+case for further proceedings.
+IV
+Today, the Court declines to offer guidance on analyzing
+multiple IQ scores despite receiving significant briefing on
+the issue. The Court's failure to resolve this issue will have
+7 The crux of Justice Sotomayor’s stance appears to be that the Court
+erred by granting certiorari on the question as formulated by the United
+States. Ante, at 285. But this petition-stage gripe is no reason to dis-
+miss the case a year later. The parties and amici—not to mention Mem-
+bers of this Court—devoted substantial resources to this case and thor-
+oughly addressed the question presented, and that question is dispositive
+to the judgment below.
+regrettable consequences. Without clear rules for deter-
+mining when multiple IQ scores are dispositive, nearly every
+Atkins case will devolve into an amorphous, individualized
+determination of whether the defendant meets an impre-
+cisely defined notion of “significantly subaverage intellectual
+functioning” under which the role of IQ is not clearly articu-
+lated. See ante, at 294–298 (Sotomayor, J., concurring) (de-
+scribing that approach as “holistic”). Such an approach will
+place our Atkins doctrine out of step with psychology, our
+death-penalty jurisprudence, and Atkins itself. In the feld
+of psychology, IQ testing remains the standard practice for
+measuring intellectual functioning, and it is difficult to find
+a definition of “significantly subaverage intellectual function-
+ing” that does not center on IQ. See, e. g., R. Schalock, R.
+Luckasson, & M. Tasse, Intellectual Disability: Definition, Di-
+agnosis, Classification, and Systems of Supports 29, 130 (12th
+ed. 2021) (defining the condition as having an IQ two stand-
+ard deviations below the mean); APA Handbook 392–393.
+It is likewise difficult for courts to develop objective, judi-
+cially manageable standards for evaluating intelligence that
+do not turn on IQ. Without clear IQ criteria, Atkins pro-
+ceedings will be little more than battles of experts, with one
+side saying that the defendant's intellectual functioning is
+“significantly subaverage,” and the other saying that it is
+not. Whether a defendant lives or dies will hinge on which
+expert a judge finds more credible. Cf. 536 U. S., at 353
+(Scalia, J., dissenting) (predicting that Atkins will “tur[n] the
+process of capital trial into a game”). Indeed, both the Dis-
+trict Court and Eleventh Circuit openly admitted that
+whether Smith would be executed “ `largely [came] down to
+which expert' the district court `believed.' ” App. to Pet. for
+Cert. 8a (quoting id., at 91a; alteration in original); see 67
+F. 4th, at 1353.
+This unmoored approach to Atkins will produce the very
+sort of “arbitrary and unpredictable” outcomes that our post-
+Gregg death-penalty jurisprudence has sought to avoid.
+California v. Brown, 479 U. S. 538, 541 (1987); see Gregg v.
+Georgia, 428 U. S. 153 (1976). If Atkins has any prospect of
+surviving as a workable doctrine, lower courts need “ `clear
+and objective standards' that provide `specific and detailed
+guidance' ” on how to analyze multiple IQ scores. Godfrey v.
+Georgia, 446 U. S. 420, 428 (1980) (plurality opinion) (footnote
+omitted). The Court's refusal to provide such guidance will
+continue to undermine the intelligibility of this doctrine.
+A case-by-case approach without categorical IQ rules also
+runs contrary to Atkins's very premise. As I noted at the
+outset, Atkins rejected Penry's regime, under which the re-
+lationship between a capital defendant's intellectual capabil-
+ity and his culpability would be assessed on an individual-
+ized, case-by-case basis. In its place, Atkins adopted a
+categorical rule under which IQ would necessarily play a
+central role. For this rule to function in a defensible way,
+the Court needs to elucidate sound and reputable methods
+for dealing with multiple IQ scores. If courts relegate the
+70-IQ cutoff to a perfunctory formality and the main point
+of contention in Atkins cases becomes an individualized as-
+sessment of a defendant's adaptive functioning, then the
+Atkins Court's basis for imposing a categorical rule will
+disintegrate.8
+8 Indeed, the continued diminution of IQ's role in Atkins claims means
+that capital sentencing will turn on individualized determinations that are
+less relevant to the Eighth Amendment than those that occurred under
+the pre-Atkins regime. Our Eighth Amendment jurisprudence evaluates
+the constitutionality of a criminal penalty by asking whether imposing the
+penalty would advance traditional goals of punishment, such as retribution
+or deterrence. See, e. g., Roper v. Simmons, 543 U. S. 551, 571 (2005).
+Before Atkins, a sentencing jury could consider the direct relationship
+between intellectual disability and those goals. For instance, a jury could
+consider how a defendant's intellectual functioning bore on his just deserts
+or his capacity to control his actions, understand consequences, and dis-
+cern right from wrong. See Penry v. Lynaugh, 492 U. S. 302, 322–328
+(1989). In contrast, individualized adaptive-functioning analyses turn on
+assorted details about a defendant's life, such as how much income he
+made or whether he cooked his own food. See, e. g., Smith v. Dunn,
+* * *
+This case presented an opportunity for the Court to ex-
+plain how courts should evaluate Atkins claims when the de-
+fendant has multiple IQ test scores. Nothing in our case
+law sanctioned the lower courts' analyses, and we should
+have used this case to bring clarity to our Atkins doctrine.
+By instead remaining silent, the Court exacerbates the con-
+fusion that plagues our jurisprudence in this area. If this
+Court continues to shy away from opportunities to provide
+workable doctrine, we should not be surprised if petitions
+asking us to overrule Atkins, Hall, and Moore arrive at our
+doorsteps soon. See, e. g., Brief for United States as Ami-
+cus Curiae 26–32 (asking the Court to overrule Hall and
+Moore); Brief for Commonwealth of Kentucky as Amicus
+Curiae 2 (urging the Court to “engage in a more wholesale
+rethinking” of Atkins); ante, at 301 (Thomas, J., dissenting);
+cf. Brief for State of Idaho et al. as Amici Curiae 14–17
+(urging the Court to “undercut the `evolving standards of
+decency' framework” even though “no party has asked for
+. . . Atkins to be overruled” here); Pet. for Cert. in Ohio v.
+Ford, O. T. 2019, No. 19–1191, pp. 28–30 (asking this Court
+to replace our current Atkins doctrine with a rule barring
+the execution of only those who meet the Model Penal Code's
+definition of insane).
+Civ. Action No. 05–cv–00474 (SD Ala., Aug. 17, 2021), App. to Pet. for Cert.
+82a, 87a. These types of details are far more attenuated from the Eighth
+Amendment principles of culpability and punishment that drove the deci-
+sion in Atkins in the first place. See Hall, 572 U. S., at 737 (Alito , J.,
+dissenting); Atkins v. Virginia, 536 U. S. 304, 317–321 (2002) (grounding
+the Court's holding on the conclusion that imposing the death penalty on
+intellectually disabled persons does not “measurably advance” the goals of
+retribution or deterrence). Thus, the less weight our Atkins doctrine
+places on IQ, the less that doctrine coheres with our Eighth Amendment
+jurisprudence.

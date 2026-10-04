@@ -1,0 +1,113 @@
+Goldman Sachs Group, Inc. v. Arkansas Teacher Retirement System — No. 20-222 — October Term 2020 — decided 6/21/21 — Opinion of Sotomayor, J.
+Citation: 594 U.S. 113
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r52_3e04.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+is simply to assess all the evidence of price impact—direct
+and indirect—and determine whether it is more likely than
+not that the alleged misrepresentations had a price impact.
+The defendant's burden of persuasion will have bite only
+when the court finds the evidence in equipoise—a situation
+that should rarely arise. Cf. Medina v. California, 505 U. S.
+437, 449 (1992) (preponderance of the evidence burden mat-
+ters “only in a narrow class of cases where the evidence is
+in equipoise”).
+* * *
+The Second Circuit correctly placed the burden of proving
+a lack of price impact on Goldman. But because it is unclear
+whether the Second Circuit properly considered the generic
+nature of Goldman's alleged misrepresentations in reviewing
+the District Court's price impact determination, we vacate
+the judgment of the Second Circuit and remand the case for
+further proceedings consistent with this opinion.
+It is so ordered.
+Justice Sotomayor, concurring in part and dissenting in
+part.
+I agree with the Court's answers to the questions pre-
+sented, and I accordingly join Parts I, II–A–1, and II–B of
+the Court's opinion. Under Basic Inc. v. Levinson, 485 U. S.
+224 (1988), securities plaintiffs may demonstrate reliance by
+invoking the rebuttable presumption that investors rely on
+any misrepresentations reflected in a security's market price.
+Id., at 241–247. The Basic presumption is particularly use-
+ful to class-action plaintiffs who, without the presumption,
+ordinarily could not demonstrate that questions common to
+the class predominate over individual ones. Ante, at 118–119.
+Defendants, for their part, may rebut the Basic presumption
+by demonstrating that the alleged misrepresentations did
+not in fact affect the security's price. Ante, at 118. So-called
+“price impact” may be disproved with a variety of evidence,
+RETIREMENT SYSTEM
+Opinion of Sotomayor, J.
+alone or in combination. As the Court holds today, one
+potentially relevant piece of evidence may be the “generic
+nature” of the misrepresentation. Ante, at 121–123.
+I do not, however, join the Court's judgment to vacate and
+remand because I believe the Second Circuit “properly con-
+sidered the generic nature of Goldman's alleged misrepre-
+sentations.” Ante, at 123. On appeal, Goldman did not
+contend that the District Court improperly refused to con-
+sider the generic nature of the alleged misstatements as evi-
+dence of price impact (or lack thereof). Instead, Goldman
+argued that “general statements, like those challenged here,
+are incapable of impacting a company's stock price as a mat-
+ter of law” because they are “ `too general to cause a reason-
+able investor to rely upon them.' ” Brief for Appellants in
+No. 18–3667 (CA2), pp. 43, 46. Goldman reasoned that “the
+challenged statements are incapable of maintaining inflation
+in a stock price for the same reasons that those statements
+are immaterial as a matter of law (as well as fact).” Id.,
+at 48.
+The Second Circuit properly rejected Goldman's argu-
+ment. The court explained that although “Goldman is not
+formally asking for a materiality test,” its proposed rule
+would “essentially requir[e] courts to ask” at the class-
+certifcation stage “whether the alleged misstatements are,
+in Goldman's words, `immaterial as a matter of law.' ” 955
+F. 3d 254, 267 (2020). But “materiality is irrelevant at the
+Rule 23 stage.” Id., at 268 (citing Amgen Inc. v. Connecti-
+cut Retirement Plans and Trust Funds, 568 U. S. 455, 468
+(2013)). “If general statements cannot maintain price infa-
+tion because no reasonable investor would have relied on
+them, then the question of inactionable generality is common
+to the class.” 955 F. 3d, at 268.
+In declining to adopt Goldman's proposed rule that generic
+misstatements cannot have a price impact (as a matter of
+law), the Second Circuit nowhere held that the generic na-
+ture of an alleged misstatement could not serve as evidence
+of price impact (as a matter of fact). Nor did the Second
+Circuit refuse to consider such evidence in affirming the Dis-
+trict Court's finding that Goldman failed to rebut the Basic
+presumption. The Court nevertheless reads a handful of
+sentences in the Second Circuit's opinion to create “doubt”
+over whether the Court of Appeals refused to consider “ all
+record evidence relevant to price impact.” Ante, at 124; see
+also ante, at 124, n. 3. But such statements must be viewed
+in the context of Goldman's now-abandoned argument that
+generic misrepresentations have no price impact as a matter
+of law. Take, for example, the Second Circuit's statement
+that “[w]hether alleged misstatements are too general to
+demonstrate price impact has nothing to do with the issue
+of whether common questions predominate over individual
+ones.” 955 F. 3d, at 268. Fairly read in light of Goldman's
+appellate briefing, that sentence addresses only Goldman's
+argument that general statements are always per se irrele-
+vant. That is why the Second Circuit observed several sen-
+tences later that “Goldman's test is materiality by another
+name.” Ibid. At the same time, the court was careful to
+emphasize that defendants “may attempt to disprove [price
+impact] at class certifcation” even though the inquiry “re-
+sembles materiality.”* Id., at 267.
+In short, the Second Circuit did not address whether the
+generic nature of a misstatement may be used as evidence
+to disprove price impact for a simple reason: Goldman identi-
+fed no error in the District Court's treatment of such evi-
+dence. Goldman did not press the argument in the Second
+*Indeed, in a prior appeal in this case, an earlier Second Circuit panel
+vacated an order of the District Court in part because it had refused to
+consider price-impact evidence that overlapped with materiality. See 879
+F. 3d 474, 486 (2018) (holding that “[a]lthough price impact touches on
+materiality, which is not an appropriate consideration at the class certif-
+cation stage,” courts nonetheless must consider evidence regarding
+“[w]hether a misrepresentation was reflected in the market price at the
+time of the transaction”). It is hard to imagine that the Second Circuit
+here was unaware of (or intended to depart from) the prior panel's holding.

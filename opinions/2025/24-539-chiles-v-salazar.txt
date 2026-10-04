@@ -1,0 +1,836 @@
+Chiles v. Salazar — No. 24-539 — October Term 2025 — decided 3/31/26 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 607 U.S. 627
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r24_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Gorsuch delivered the opinion of the Court.
+Kaley Chiles is a mental-health counselor in Colorado. In
+this case, we consider her First Amendment challenge to a
+Yeates; for Jaco Booyens Ministries (JBM) et al. by Frank J. Wright; for
+Legislators from 30 State Legislatures by William Wagner; for Liberty
+Counsel by Mathew D. Staver, Anita L. Staver, and Horatio G. Mihet; for
+the Liberty Justice Center by Jeffrey Schwab; for the Manhattan Institute
+et al. by Ilya Shapiro and Howard Slugh; for Medical Professionals by
+John C. Sullivan and Robert P . George; for the National Association of
+Scholars by Dennis J. Saffran; for National Religious Broadcasters by
+Michael P . Farris; for the NC Values Institute et al. by Deborah J. Dew-
+art, Tami Fitzgerald, and Robert H. Tyler; for Our Duty-USA et al. by Dan-
+iel Cragg; for the Pacific Legal Foundation by Ethan W. Blevins and Caleb
+R. Trotter; for Sexual Orientation Scholars by Jonathan R. Whitehead;
+for the United States Conference of Catholic Bishops et al. by Nicholas J.
+Nelson; for the Women's Liberation Front by Elspeth B. Cypher; for Erin
+Brewer et al. by Renee K. Carlson and Douglas G. Wardlow; for Joy Buch-
+man et al. by Luke N. Berg and Richard M. Esenberg; for Sexuality Re-
+search Scholar Amy E. Hamilton by Randall L. Wenger and Janice L.
+Martino-Gottshall; for Mary Hasson et al. by Thomas Brejcha; for
+Anthony M. Joseph by Allan E. Parker, Jr., R. Clayton Trotter, and
+Steven W. Fitschen; and for David A. Robinson, pro se. Robert J. Mc-
+Namara, Samuel B. Gedge, Andrew Ward, Michael N. Greenberg, Jeffrey
+T. Rowes, and Paul V. Avelar fled a brief for Parties in Other First
+Amendment Cases Pending Before the Court urging vacatur and
+remand.
+Briefs of amici curiae urging affirmance were fled for the State of
+Washington et al. by Nicholas W. Brown, Attorney General of Washing-
+ton, Noah G. Purcell, Solicitor General, Cristina Sepe, Deputy Solicitor
+General, and by the Attorneys General for their respective jurisdictions as
+follows: Rob Bonta of California, William Tong of Connecticut, Kathleen
+Jennings of Delaware, Brian L. Schwalb of the District of Columbia, Anne
+E. Lopez of Hawaii, Kwame Raoul of Illinois, Aaron M. Frey of Maine,
+Anthony G. Brown of Maryland, Andrea Joy Campbell of Massachusetts,
+Dana Nessel of Michigan, Keith Ellison of Minnesota, Aaron D. Ford of
+Nevada, Matthew J. Platkin of New Jersey, Raúl Torrez of New Mexico,
+Letitia James of New York, Jeff Jackson of North Carolina, Dan Rayfeld
+of Oregon, Peter F. Neronha of Rhode Island, Charity R. Clark of Ver-
+mont, and Joshua L. Kaul of Wisconsin; for the American Psychological
+Association et al. by Jessica Ring Amunson, Deanne M. Ottaviano, and
+Aaron M. Panner; for the Constitutional Accountability Center by Eliza-
+state law regulating what she may say when speaking with
+her clients.
+beth B. Wydra, Brianne J. Gorod, and David H. Gans; for Constitutional
+Law and First Amendment Scholars by Thomas S. Kessler, Luke A. Bare-
+foot, and Sarah E. Libowsky; for the Conversion Therapy Survivor Net-
+work et al. by Shayna Medley, Ezra Cukor, and Katherine Rosenfeld; for
+Experts in Health Care Practice et al. by Craig Konnoth, Lisa Linsky,
+and Jared Gerber; for Faith-Based Mental Health Professionals by Paul
+Alessio Mezzina, Amy R. Upshaw, and Sean P . Madden; for the Fred T.
+Korematsu Center for Law and Equality et al. by Paul F. Rugani, Nicole
+Ries Fox, Shane McCammon, and Robert S. Chang; for Health Law Schol-
+ars by Cynthia Cheng-Wun Weaver, Ami R. Patel, and John Paul
+Schnapper-Casteras; for Legal Ethics Professors by Melissa C. Cassel; for
+Medical History Scholars et al. by Kendra N. Beckwith; for Members of Con-
+gress by Conor Tucker and Jefferson Klocke; for PFLAG, Inc., et al. by Jo-
+seph H. Lang, Jr., and Nancy J. Faggianelli; for Parents of Conversion-
+Therapy Participants et al. by Parker Rider-Longmaid, Steven Marcus, and
+Hanaa Khan; for Professors of Law et al. by Kathleen R. Hartnett, Patrick
+J. Hayden, Raymond P . Tolentino, and Joshua Revesz; for Religious Organi-
+zations by Amy Tai; for the Trevor Project, Inc., et al. by Abbey Hudson,
+Amer S. Ahmed, Kelly Herbert, Shireen A. Barday, and Stuart F. Delery;
+for Guy Albert, Ph.D., by Alice W. Yao and Mary Rohmiller; for Interna-
+tional Law Scholar Paul Behrens by Sonia Miller-Van Oort; for Gregory
+Coles et al. by William L. Harbison; for Ryan M. Kendall et al. by Sarah
+Austin and Patience Crozier; for David Palmieri et al. by Mark W. Fried-
+man and Justin R. Rassi; for Mathew Shurka by Ross M. Bagley and
+Meghan E. Hill; for Dr. Jack L. Turban MD, MHS, et al. by John M.
+McHugh; and for 27+ Lay Roman Catholics by James K. Riley, pro se.
+Briefs of amici curiae were fled for the American Association of Chris-
+tian Counselors et al. by Sean P . Gates; for the Christian Medical and
+Dental Associations et al. by Kristine L. Brown; for Former Conversion
+Therapy Leaders by Laura Landenwich; for the Freedom From Religion
+Foundation by Patrick Elliott; for the International Foundation for Thera-
+peutic and Counseling Choice by William Bock III; for Land-Surveyor
+and Civil-Engineer Trade Associations by Jens B. Koepke and Steve
+Hirsch; for the LONANG Institute by Kerry Lee Morgan and Randall A.
+Pentiuk; for the UCLA School of Law Williams Institute Scholars by S.
+Douglas Bunch and Ryan Wheeler; for Randy Elf, pro se; for Erin Lee
+et al. by J. Brad Bergford; for Joseph Nicolosi, Jr., Ph.D., et al. by Jeffrey
+M. Trissell, Charles S. LiMandri, Paul M. Jonna, and Thomas Brejcha;
+for Clifford J. Rosky et al. by Veronica Percia and Whitney Pellegrino;
+and for Eugene Volokh, pro se.
+I
+A
+According to Ms. Chiles's verifed complaint, she holds a
+master's degree in clinical mental health and a state counsel-
+ing license. App. to Pet. for Cert. 212a (App.). Clients
+seek her help on a wide variety of mental-health issues, in-
+cluding trauma, addiction, “eating disorders, gender dyspho-
+ria[,] and sexuality.” Id., at 206a–207a, 215a. Ms. Chiles
+“does not begin counseling” on any topic “with any predeter-
+mined goals.” Id., at 207a. Nor does she seek to “impose
+her values or beliefs” on clients. Id., at 212a. Instead, she
+“sits down . . . and talks to them about their goals.” Id., at
+207a; see also id., at 213a. Only after clients have identified
+their own aspirations does Ms. Chiles begin “formulat[ing]
+methods of counseling that will most benefit” them. Id., at
+207a. In any counseling that follows, as well, Ms. Chiles
+seeks to respect her “clients' fundamental right of self-
+determination.” Ibid.
+On matters of sexuality and gender, Ms. Chiles's clients,
+including minors, come to her with different goals in mind.
+Some “are content with” their sexual orientation and gender
+identity and seek assistance only with “social issues, family
+relationships,” and the like. Id., at 207a, 213a–214a. In
+cases like those, Ms. Chiles does not try to persuade her
+clients to “change their attractions, behavior, or identity,”
+but aims instead to help them address their stated goals.
+Id., at 214a; see also id., at 207a. Other clients, however,
+come to her hoping to “reduce or eliminate unwanted sexual
+attractions, change sexual behaviors, or grow in the experi-
+ence of harmony with [their] bod[ies].” Ibid. And in these
+cases, too, Ms. Chiles seeks to help her clients reach their
+own stated objectives. Ibid. In doing so, she does not pre-
+scribe any medicines, perform any physical treatments, or
+engage in any coercive or aversive practices. Id., at 205a–
+207a. All Ms. Chiles offers is talk therapy. Ibid.
+B
+In 2019, Colorado adopted a law prohibiting licensed coun-
+selors from engaging in “conversion therapy” with minors.
+Colo. Rev. Stat. § 12–245–224(1)(t)(V) (2025). The State re-
+ports that it adopted the law “in response to a growing men-
+tal health crisis among Colorado teenagers and mounting evi-
+dence that conversion therapy is associated with increased
+depression, anxiety, suicidal thoughts, and suicide attempts.”
+Brief for Respondents 11–12. Any Coloradan who thinks a
+licensed counselor is engaging in conversion therapy may
+fle a complaint with a regulatory board. See § 12–245–
+226(1)(a)(II)(B). A complaint, in turn, triggers a discipli-
+nary review process that can yield a fne, probation, or the
+loss of a license. See § 12–245–225; Brief for Respondents 9.
+The term “conversion therapy” may evoke physical tech-
+niques such as “ `electric shoc[k]' ” therapy aimed at chang-
+ing an individual's sexual orientation or gender identity.
+Id., at 4. But Colorado's ban on conversion therapy reaches
+further, forbidding “ any practice or treatment . . . that
+attempts . . . to change an individual's sexual orientation
+or gender identity.” § 12–245–202(3.5)(a) (emphasis added).
+The law forbids as well any “effor[t ] to change behaviors or
+gender expressions or to eliminate or reduce sexual or ro-
+mantic attraction or feelings toward individuals of the same
+sex.” Ibid. At the same time, the law explicitly allows
+counselors to engage in “practices” that provide “[a]ccept-
+ance, support, and understanding for the facilitation of an
+individual's . . . identity exploration and development.”
+§ 12–245–202(3.5)(b)(I). Likewise, the law allows counselors
+to provide “[a]ssistance to a person undergoing gender tran-
+sition.” § 12–245–202(3.5)(b)(II).
+After Colorado adopted its new law, Ms. Chiles fled suit
+in federal court and sought a preliminary injunction prohibit-
+ing the State from enforcing it against her. She did not dis-
+pute that the statute has many valid applications. Indeed,
+Ms. Chiles did not take issue with Colorado's effort to ban
+what she herself calls “long-abandoned, aversive” physical
+interventions. Brief for Petitioner 10. Instead, Ms. Chiles
+objected to Colorado's law only as it applies to her talk ther-
+apy, therapy that involves no physical interventions or medi-
+cations, only the spoken word. Motion for Preliminary
+Injunction in No. 22–cv–2287 (D Colo.), ECF Doc. 29, pp. 2–
+3, 15.
+Ms. Chiles's as-applied challenge ran this way. With re-
+spect to gender identity, she claimed, the law permits her to
+speak in ways that encourage a client “ `undergoing gender
+transition,' ” but the law prohibits her from speaking in ways
+that help a client “realign [his] identity with [his] sex.”
+Brief for Petitioner 11; see ECF Doc. 29, at 17–20. With
+respect to sexual orientation, Ms. Chiles continued, Colora-
+do's law similarly allows her to affirm a client's sexual orien-
+tation, but prohibits her from speaking in any way that helps
+a client “change” his sexual attractions or behaviors. Brief
+for Petitioner 11; see ECF Doc. 29, at 17–20. Even though
+Colorado's law surely has other constitutional applications,
+she insisted, these constraints strip her of her First Amend-
+ment right to speak freely with her clients in ways she be-
+lieves might help them meet “their own goals.” Brief for
+Petitioner 12; see ECF Doc. 29, at 2–3.
+C
+Both the district court and the Tenth Circuit determined
+that Ms. Chiles had Article III standing to pursue her as-
+applied pre-enforcement challenge. 116 F. 4th 1178, 1199,
+1201 (2024); Civ. Action No. 1:22–cv–2287 (D Colo., Dec. 19,
+2022), App. 139a.
+In support of their conclusion, both courts read Colorado's
+law as prohibiting licensed counselors like Ms. Chiles from
+engaging in any attempt—including through speech—to help
+a minor client change his gender identity or sexual orienta-
+tion. 116 F. 4th, at 1197; App. 141a–142a. Both courts un-
+derstood this prohibition as extending to any attempt—in-
+cluding through speech—to change a client's “behaviors or
+gender expressions or to eliminate or reduce sexual or ro-
+mantic attraction or feelings toward individuals of the same
+sex.” § 12–245–202(3.5)(a); see 116 F. 4th, at 1197; App.
+141a–142a. As both courts saw it, too, Ms. Chiles had pre-
+viously spoken in ways the law now forbids, and she would
+continue speaking the same way but for Colorado's new law.
+116 F. 4th, at 1196–1198; App. 141a–142a. Finally, both
+courts concluded that Ms. Chiles had alleged a “credible
+threat” that the State would enforce its law against her if
+she continued speaking as she had in the past and wished to
+do in the future. Indeed, both courts observed, Colorado
+authorities had refused to disavow bringing enforcement ac-
+tions against her. 116 F. 4th, at 1198–1199; App. 142a–144a.
+Under these circumstances, the courts held, Ms. Chiles
+faced an “ongoing injury resulting from the statute's chilling
+effect” on her speech. 116 F. 4th, at 1195 (internal quotation
+marks omitted); see App. 140a–141a. Satisfied as well that
+Ms. Chiles's injury was traceable to Colorado's law and re-
+dressable by an as-applied constitutional ruling in her favor,
+both courts held that she possessed Article III standing to
+bring suit. 116 F. 4th, at 1194, 1199; App. 145a, n. 5. In
+coming to this conclusion, the lower courts joined others that
+have found standing in similar cases involving similar stat-
+utes. See, e. g., Tingley v. Ferguson, 47 F. 4th 1055, 1066
+(CA9 2022); Catholic Charities of Jackson, Lenawee and
+Hillsdale Ctys. v. Whitmer, 162 F. 4th 686, 691 (CA6 2025).*
+*We, too, agree that Ms. Chiles has standing. Before us, Colorado only
+halfheartedly contests the point, suggesting Ms. Chiles cannot establish a
+present “intention” to speak in a way the law forbids. Brief for Respond-
+ents 23, n. 18. But the State's argument is based not on some new insight
+about Ms. Chiles's state of mind, only a new and narrowed construction of
+the statute that the State advances for the first time in this Court. Id.,
+at 18–19. Colorado's late-breaking construction of its law, however, would
+render much of the law's language superfluous. Reply Brief 2–6; People
+v. Rodriguez-Morelos, 562 P. 3d 71, 73 (Colo. 2025) (reciting the presump-
+tion against surplusage when construing state statutes). The State's new
+Turning to the merits, both the district court and the
+Tenth Circuit denied Ms. Chiles's request for a preliminary
+injunction. The courts recognized that Ms. Chiles provides
+only “talk therapy.” 116 F. 4th, at 1193; see App. 152a.
+And they acknowledged that Colorado's law regulates the
+“verbal language” she may use. 116 F. 4th, at 1208; see App.
+152a. But, the courts held, the main thrust of the State's
+law is to delineate which “treatments” and “therapeutic mo-
+dalit[ies]” are permissible. 116 F. 4th, at 1208, 1210; see
+App. 151a. Accordingly, the courts reasoned that Colorado's
+law is best understood as regulating “professional conduct.”
+116 F. 4th, at 1206, 1208, 1214; see App. 151a, 155a. At most,
+they continued, Colorado's law regulates speech only “inci-
+dentally” to professional conduct. 116 F. 4th, at 1204; see
+App. 155a. As a result, the courts concluded, Colorado's law
+triggers no more than “rational basis review” under the First
+Amendment, requiring the State to show merely that its law
+is rationally related to a legitimate governmental interest.
+116 F. 4th, at 1215; App. 156a. Because the State satisfied
+that standard, the courts held that Ms. Chiles was not enti-
+tled to the relief she sought. 116 F. 4th, at 1220–1221;
+App. 157a.
+At the Tenth Circuit, Judge Hartz dissented. As he saw
+it, the majority committed “several fundamental errors.”
+116 F. 4th, at 1227. While Colorado's law may ban conduct
+in other applications, he observed, with respect to Ms. Chiles
+it regulates only what she may and may not say. Id., at
+interpretation also seemingly stands at odds with how the State itself
+understood its law in proceedings below. See, e. g., Motion to Dismiss
+Complaint in No. 22–cv–2287 (D Colo.), ECF Doc. 52, p. 5, n. 3. Sepa-
+rately, Colorado suggests that Ms. Chiles has not shown a credible threat
+that the State will enforce its law against her. Brief for Respondents 23,
+n. 18. But Colorado has fought this suit through three courts over three
+years and, at argument here, expressly declined to disavow enforcement
+against Ms. Chiles. Tr. of Oral Arg. 80–81. As the lower courts held, no
+more is required under this Court's precedents. 116 F. 4th, at 1199; App.
+145a; see Susan B. Anthony List v. Driehaus, 573 U. S. 149, 159 (2014).
+1231. And under this Court's precedents, he argued, that
+kind of speech regulation triggers far more demanding scru-
+tiny than mere rational-basis review. Id., at 1226–1229.
+Nor, Judge Hartz continued, does the fact that Ms. Chiles
+happens to hold a professional license change the equation.
+Id., at 1229–1230. To the contrary, he said, the majority's
+effort to recast Ms. Chiles's speech as “professional conduct”
+amounted to little more “than a labeling game.” Id., at 1231
+(internal quotation marks omitted).
+After the Tenth Circuit ruled, Ms. Chiles sought certio-
+rari. In doing so, she argued that the Tenth Circuit's deci-
+sion “worsened a circuit conflict” over how the First Amend-
+ment interacts with laws like Colorado's. Pet. for Cert. 16;
+compare 116 F. 4th, at 1221, and Tingley, 47 F. 4th, at 1077,
+with Catholic Charities of Jackson, 162 F. 4th, at 696; Otto
+v. Boca Raton, 981 F. 3d 854, 868–870 (CA11 2020); King v.
+Governor of New Jersey , 767 F. 3d 216, 229 (CA3 2014), abro-
+gated in part by National Institute of Family and Life Ad-
+vocates v. Becerra, 585 U. S. 755, 767–769 (2018) (NIFLA);
+Tingley v. Ferguson, 57 F. 4th 1072, 1083–1085 (CA9 2023)
+(Bumatay, J., dissenting from denial of rehearing en banc).
+We agreed to hear the case. 604 U. S. 1193 (2024).
+II
+The question before us is a narrow one. Ms. Chiles does
+not question that Colorado's law banning conversion therapy
+has some constitutionally sound applications. See Brief for
+Petitioner 53. She does not take issue with the State's
+effort to prohibit what she herself calls “long-abandoned, av-
+ersive” physical interventions. Id., at 10. Instead, Ms.
+Chiles stresses that she provides only talk therapy, employ-
+ing no physical techniques or medications. Yet, she argues,
+Colorado's law still applies to her, prescribing what she may
+say in “voluntary counseling conversations” with her clients.
+Id., at 50. And because that application of the law strikes
+at the heart of the First Amendment's protections for free
+speech, she contends, it warrants considerably more search-
+ing scrutiny than the rational-basis review the Tenth Circuit
+applied in this case or the intermediate-scrutiny review some
+other lower courts have employed in cases like hers. Id., at
+38; see, e. g., King, 767 F. 3d, at 237. We agree. To explain
+why, we begin by outlining the relevant First Amendment
+principles that govern us before discussing how they apply
+here.
+A
+The First Amendment “envisions the United States as a
+rich and complex place” where all enjoy the “ `freedom to
+think as you will and to speak as you think.' ” 303 Creative
+LLC v. Elenis, 600 U. S. 570, 584, 603 (2023) (quoting Boy
+Scouts of America v. Dale, 530 U. S. 640, 660–661 (2000)).
+Often, speech may prove illuminating and inspiring. Some-
+times, it can be misguided, offensive, or cause “incalculable
+grief.” Snyder v. Phelps, 562 U. S. 443, 456 (2011). But
+either way, the First Amendment protects the inalienable
+right of every individual to decide for himself “how best to
+speak.” Riley v. National Federation of Blind of N. C.,
+Inc., 487 U. S. 781, 791 (1988). In this Nation, no official—
+“high or petty”—may command our tongues or silence our
+voices. West Virginia Bd. of Ed. v. Barnette, 319 U. S. 624,
+642 (1943).
+Consistent with the First Amendment's jealous protec-
+tions for the individual's right to think and speak freely, this
+Court has long held that laws regulating speech based on its
+subject matter or “communicative content” are “presump-
+tively unconstitutional.” Reed v. Town of Gilbert, 576 U. S.
+155, 163 (2015). As a general rule, such “content-based” re-
+strictions trigger “strict scrutiny,” a demanding standard
+that requires the government to prove its restriction on
+speech is “narrowly tailored to serve compelling state inter-
+ests.” Ibid. Under that test, it is “ `rare that a regulation
+. . . will ever be permissible.' ” Brown v. Entertainment
+Merchants Assn., 564 U. S. 786, 799 (2011) (quoting United
+States v. Playboy Entertainment Group, Inc., 529 U. S. 803,
+818 (2000)).
+We have recognized, as well, the even greater dangers as-
+sociated with regulations that discriminate based on the
+speaker's point of view. When the government seeks not
+just to restrict speech based on its subject matter, but also
+seeks to dictate what particular “opinion or perspective” in-
+dividuals may express on that subject, “the violation of the
+First Amendment is all the more blatant.” Rosenberger v.
+Rector and Visitors of Univ. of Va., 515 U. S. 819, 829 (1995).
+“Viewpoint discrimination,” as we have put it, represents “an
+egregious form” of content regulation, and governments in
+this country must nearly always “abstain” from it. Ibid.;
+see also Iancu v. Brunetti, 588 U. S. 388, 393 (2019) (describ-
+ing “the bedrock First Amendment principle that the gov-
+ernment cannot discriminate” based on viewpoint (internal
+quotation marks omitted)); Good News Club v. Milford Cen-
+tral School, 533 U. S. 98, 112–113 (2001); Barnette, 319 U. S.,
+at 642.
+Of course, with almost any rule comes exceptions. And
+this Court has recognized a “few historic and traditional
+categories of expression long familiar to the bar” where
+content-based restrictions on speech will not automatically
+trigger strict scrutiny—categories that include fraud,
+defamation, and “fghting words.” United States v. Alvarez,
+567 U. S. 709, 717 (2012) (plurality opinion) (alterations and
+internal quotation marks omitted). But, as we have taken
+pains to emphasize, these exceptional categories are few and
+narrowly drawn, and all share a long and wellrecognized his-
+torical pedigree. Ibid.; see NIFLA, 585 U. S., at 767. In-
+deed, even within these categories we have sometimes still
+applied strict scrutiny when governments have sought to
+regulate speech based on viewpoint. See, e. g., R. A. V. v.
+St. Paul, 505 U. S. 377, 392, 395–396 (1992) (addressing an
+ordinance that barred certain “fghting words” based on
+viewpoint).
+From these general principles, other more specific ones fol-
+low. So, for example, a law regulating the content of speech
+cannot avoid searching First Amendment review just be-
+cause it mostly regulates non-expressive conduct. Take a
+classic illustration: Cohen v. California, 403 U. S. 15 (1971).
+There, the State of California charged Paul Cohen with “ma-
+liciously and willfully disturb[ing] the peace.” Id., at 16 (in-
+ternal quotation marks omitted). Often, of course, a person
+disturbs the peace through conduct alone (say, by brawling
+at a city council meeting). But that is not always true.
+And in Mr. Cohen's case, California charged him for disturb-
+ing the peace because he wore a jacket bearing the words
+“ `Fuck the Draft' ” in the corridor of a municipal courthouse.
+Ibid. As applied to him, the Court recognized, the law im-
+plicated core First Amendment concerns because the only
+“ `conduct' ” he engaged in was the speech he displayed. Id.,
+at 18. And, we held, California could not constitutionally
+punish him because of the “content” of his message. Ibid.
+We repeated the point in Holder v. Humanitarian Law
+Project, 561 U. S. 1 (2010). That case involved a federal law
+banning the provision of “ `material support' ” to certain for-
+eign terrorist organizations. Id., at 8–9. Much as Califor-
+nia had in Cohen, the federal government in Holder argued
+that the law did not trigger strict scrutiny because it ad-
+dressed “conduct, not speech.” 561 U. S., at 26. We dis-
+agreed. True, we acknowledged, the law often might regu-
+late conduct. But, we observed, in the case before us the
+government threatened to prosecute lawyers, doctors, and
+others for providing spoken training and expert advice (such
+as “ `how to use humanitarian and international law to peace-
+fully resolve disputes' ”) to certain groups. Id., at 16, 21–22.
+And that application of the law, we held, sought to “regulat[e]
+speech on the basis of its content” and thus demanded strict-
+scrutiny review. Id., at 27–28.
+As Holder indicates, too, the First Amendment's protec-
+tions extend to licensed professionals much as they do to
+everyone else. It's a point we have since discussed at length
+in NIFLA. There, California sought to require crisis preg-
+nancy clinics to make certain statements to their clients.
+The State argued that its law did not trigger demanding
+First Amendment review because it sought to regulate only
+“ `professional speech' ” by state license holders. 585 U. S.,
+at 766–767. We rejected that move. By compelling clinics
+to speak the State's message, the law regulated speech based
+on its content. Id., at 766. And, we held, California had
+failed to “identifi[y] a persuasive reason for treating profes-
+sional speech as a unique category . . . exempt from ordinary
+First Amendment principles.” Id., at 773.
+In reaching that conclusion, to be sure, we acknowledged
+two kinds of content-based restrictions that can apply to pro-
+fessional speech without triggering strict scrutiny. First,
+courts generally deploy less searching review when faced
+with laws that require speakers to disclose only factual, non-
+controversial information in “ `commercial speech.' ” Id., at
+768; Zauderer v. Office of Disciplinary Counsel of Supreme
+Court of Ohio , 471 U. S. 626, 650–653 (1985). Second, laws
+regulating conduct in ways that incidentally sweep in speech
+may also generally avoid strict scrutiny. NIFLA, 585 U. S.,
+at 769. As with laws addressing fraud, defamation, and
+“fghting words,” laws regulating speech along these two
+lines enjoy a long historical tradition. Id., at 767. But, we
+stressed, neither “turn[s] on the fact” that a licensed profes-
+sional happens to be speaking. Id., at 768. Nor, we empha-
+sized, do these narrow categories of lesser-protected speech
+warrant a new rule exempting a broader “category called
+`professional speech' ” from demanding First Amendment re-
+view. Ibid.
+B
+Applying these principles, we conclude that the courts
+below failed to apply sufficiently rigorous First Amendment
+scrutiny in this case.
+Start with the most obvious point. While the First
+Amendment protects many and varied forms of expression,
+the spoken word is perhaps the quintessential form of pro-
+tected speech. And that is exactly the kind of expression in
+which Ms. Chiles seeks to engage. As a talk therapist, all
+Ms. Chiles does is speak with clients; she does not prescribe
+medication, use medical devices, or employ any physical
+methods. App. 205a–207a.
+Next, and nearly as clear to our eyes, Colorado seeks to
+regulate the content of Ms. Chiles's speech. When it comes
+to issues of human sexuality, some of her clients “are content
+with” their sexual identity and orientation and want help
+only “with social issues [or] family relationships.” Id., at
+207a, 214a. But other clients seek her counsel on how to
+“reduce or eliminate unwanted sexual attractions, change
+sexual behaviors, or grow in the experience of harmony with
+[their] bod[ies].” Id., at 207a. And in those cases, Colorado
+regulates how Ms. Chiles may respond. Under its law, she
+may not speak in any way that attempts to change a client's
+“sexual orientation or gender identity”—including a client's
+“behaviors or gender expressions”—or in any way that seeks
+to “eliminate or reduce” a client's “sexual or romantic at-
+traction or feelings toward individuals of the same sex.”
+§ 12–245–202(3.5)(a).
+Doubtless, Colorado sees things differently. The State in-
+sists, and the Tenth Circuit agreed, that its law does not
+“regulate expression” at all, only “conduct,” “treatment,” or
+a “therapeutic modality.” Brief for Respondents 2, 36–37,
+47; 116 F. 4th, at 1208. As a result, Colorado reasons, its
+law triggers no more than rational-basis or intermediate-
+scrutiny review. Brief for Respondents 42–44. But the
+State's premise is simply mistaken. In many applications,
+the State's law banning “conversion therapy” may address
+conduct—such as aversive physical interventions. But here,
+Ms. Chiles seeks to engage only in speech, and as applied to
+her the law regulates what she may say. Her speech does
+not become conduct just because the State may call it that.
+Nor does her speech become conduct just because it can also
+be described as a “treatment,” a “therapeutic modality,” or
+anything else. The First Amendment is no word game.
+And the rights it protects cannot be renamed away or their
+protections nullifed by “mere labels.” NAACP v. Button,
+371 U. S. 415, 429 (1963).
+Our precedents have long made that much clear. Califor-
+nia faulted Mr. Cohen for the “conduct” of wearing an offen-
+sive jacket. Cohen, 403 U. S., at 16. The federal govern-
+ment insisted that its law banning support to terrorists
+regulated “conduct” even as applied to the written and
+spoken advice of professionals like lawyers and doctors.
+Holder, 561 U. S., at 10, 26. But the effort to recast speech
+as conduct failed in those cases—and it must here too.
+Under the First Amendment, what matters is not how a gov-
+ernment describes its law or whether the law may regulate
+conduct in other circumstances. What matters is whether,
+in fact, the law regulates speech in the case at hand.
+As applied here, Colorado's law does not just regulate the
+content of Ms. Chiles's speech. It goes a step further, pre-
+scribing what views she may and may not express. For a
+gay client, Ms. Chiles may express “[a]cceptance, support,
+and understanding for the facilitation of . . . identity explora-
+tion.” § 12–245–202(3.5)(b)(I). For a client “undergoing
+gender transition,” Ms. Chiles may likewise offer words of
+“[a]ssistance.” § 12–245–202(3.5)(b)(II). But if a gay or
+transgender client seeks her counsel in the hope of changing
+his sexual orientation or gender identity, Ms. Chiles cannot
+provide it. The law forbids her from saying anything that
+“attempts . . . to change” a client's “sexual orientation or
+gender identity,” including anything that might represent an
+“effor[t] to change [her client's] behaviors or gender express-
+sions or . . . romantic attraction[s].” § 12–245–202(3.5)(a).
+Colorado disputes none of this; neither does the dissent.
+See post, at 677–678 (opinion of Jackson, J.) (acknowledging
+that Colorado has engaged in viewpoint discrimination).
+Of course, Ms. Chiles remains free to say other things.
+As Colorado and the dissent emphasize, she may “shar[e] in-
+formation” about sexual orientation or gender identity.
+Brief for Respondents 20. She can “criticiz[e] Colorado's
+law.” Ibid. She can “writ[e] papers” espousing her views.
+Post, at 677 (opinion of Jackson, J.). She may even encour-
+age a client to seek advice from someone else who doesn't
+hold a state license. Brief for Respondents 20. But true as
+all that may be, it is also true that she cannot voice certain
+“perspective[s]” the State disfavors when speaking with con-
+senting clients. Rosenberger, 515 U. S., at 829. And, under
+our precedents, viewpoint restrictions like that are not sub-
+ject to mere rational-basis review or intermediate scrutiny.
+Rather, they represent “an egregious form of content dis-
+crimination” where First Amendment concerns are at their
+most “blatant.” Ibid.; see also Reed, 576 U. S., at 168–169;
+contra, post, at 666, 677–679 (Jackson, J., dissenting) (con-
+tending that “heightened scrutiny . . . is not warranted” even
+while admitting that Colorado's law discriminates based on
+viewpoint).
+The fact that the State's viewpoint regulation targets only
+licensed healthcare professionals like Ms. Chiles changes
+nothing. Colorado and the dissent may believe that the
+First Amendment should carry “far less salience” for the Na-
+tion's millions of “medical professionals” than for everyone
+else. Post, at 646 (opinion of Jackson, J.); post, at 674–683;
+Brief for Respondents 23. They may believe that state-im-
+posed orthodoxies in speech pose few dangers and many bene-
+fts in this feld (and who knows what others). But their policy
+is not the First Amendment's. The Constitution does not pro-
+tect the right of some to speak freely; it protects the right of
+all. It safeguards not only popular ideas; it secures, even and
+especially, the right to voice dissenting views. Consist-
+ent with these principles, our precedents have expressly re-
+jected the State and dissent's notion that “professional
+speech” represents some “separate category of speech” sub-
+ject to “diminished constitutional protection.” NIFLA, 585
+U. S., at 767 (internal quotation marks omitted). History is
+littered with examples of official efforts to manipulate and
+control professional speech—including “the content of
+doctor-patient discourse”—in ways designed “to increase
+state power,” “suppress minorities,” and muzzle “unpopular
+ideas.” Id., at 771 (internal quotation marks omitted) (re-
+counting examples). And the “dangers associated with”
+censorship, we have recognized, are no less acute “in the
+fields of medicine and public health” than they are anywhere
+else. Ibid. (internal quotation marks omitted).
+Nor does Colorado's law implicate any recognized excep-
+tion to our usual First Amendment rules. As we have seen,
+some laws regulating speech based on its content—like ones
+addressing fraud, defamation, and “fghting words”—do not
+generally trigger heightened scrutiny because of their long
+historical pedigree. See Part II–A, supra. As we have
+seen, too, NIFLA recognized that two kinds of such laws
+sometimes apply to professionals. See 585 U. S., at 768.
+But Colorado's law fts in neither category. The State does
+not require professionals to disclose “factual, noncontrover-
+sial information in their commercial speech.” Ibid. (internal
+quotation marks omitted). Instead, Colorado seeks to sup-
+press views Ms. Chiles wishes to express. Nor, with re-
+spect to Ms. Chiles, does Colorado's law regulate conduct in
+a way that only “incidentally burden[s] speech.” Id., at 769.
+All Ms. Chiles does is speak—and, as far as she is concerned,
+speech is all Colorado seeks to regulate.
+Resisting this conclusion, Colorado and the dissent try to
+shoehorn the State's statute into the latter category. See,
+e. g., Brief for Respondents 37. By defining prohibited “con-
+version therapy” broadly, Colorado observes, its law pro-
+scribes a “wide range” of “treatments.” Id., at 18. Any
+activity that seeks to change a client's gender identity or
+sexual orientation—whether it involves “electric shocks” or
+consists of “words only”—is banned. Ibid. And consider-
+ing the full scope of the law's many applications, the State
+submits, it seeks to regulate mostly conduct and reaches
+speech only incidentally. Ibid. The dissent pursues a simi-
+lar theme, insisting that Colorado has only incidentally pro-
+hibited Ms. Chiles's speech because the law's “primary objec-
+tive” is to regulate medical treatments. Post, at 666–683
+(opinion of Jackson, J.).
+This argument echoes Colorado's claim that it seeks to reg-
+ulate only conduct, and they falter for similar reasons. If a
+government could reclassify talk therapy as speech incident
+to conduct, it might just as easily do the same for speech
+incident to “teaching or protesting.” Otto, 981 F. 3d, at 865.
+“[B]oth are activities, after all.” Ibid. Were that the rule,
+“[w]hat an opportunity for [the] suppression of dissent this
+would offer.” 116 F. 4th, at 1228 (Hartz, J., dissenting).
+Governments could easily wield all manner of laws regulat-
+ing some conduct to silence speech they disfavor. It is a
+result that would not “compor[t] with the First Amend-
+ment's animating principles” so much as betray them. Con-
+tra, post, at 674 (Jackson, J., dissenting).
+Recognizing as much, our precedents in Cohen and Holder
+already foreclose exactly this move. California prosecuted
+Mr. Cohen under a law banning disturbances of the peace.
+Cohen, 403 U. S., at 16. The federal government threatened
+lawyers and doctors with prosecution under a law prohibit-
+ing support for terrorists. Holder, 561 U. S., at 10, 14–15,
+25. In both cases, the government defended its actions on
+the ground that the law in question was generally aimed at
+certain types of conduct. But in both cases, we emphati-
+cally rejected that argument. Just because a law may “gen-
+erally functio[n] as a regulation of conduct,” we held, does
+not exempt it from demanding First Amendment review
+when a government seeks to apply that law to speech alone.
+Id., at 27–28.
+At bottom, Colorado and the dissent fundamentally mis-
+conceive this Court's speech-incident-to-conduct precedents.
+In these cases, the question is not whether a law mostly ad-
+dresses conduct and only sometimes sweeps in speech. In-
+stead, the focus lies on two entirely different questions:
+whether the law in question restricts speech only because it
+is integrally related to unlawful conduct—or whether the law
+restricts expressive conduct only for reasons unrelated to its
+content. Illustrative of the first category, this Court has
+held that strict scrutiny does not apply to regulations aimed
+at speech promoting the sale of contraband because such
+speech is often bound up with traditional criminal conduct.
+United States v. Williams, 553 U. S. 285, 297–298 (2008); see
+also Giboney v. Empire Storage & Ice Co., 336 U. S. 490, 502
+(1949); Brief for Eugene Volokh as Amicus Curiae 3–11. Il-
+lustrative of the second category, “an ordinance against out-
+door fires” would not require a court to apply strict scrutiny
+even if it prohibited burning a fag in protest, because the
+law forbids conduct without regard to the message it may
+convey. Sorrell v. IMS Health Inc., 564 U. S. 552, 567 (2011).
+Colorado's law does not regulate speech incident to con-
+duct under either test. The State does not dictate what Ms.
+Chiles may say because her speech bears a close causal con-
+nection to some separately unlawful conduct like a tradi-
+tional crime. Rather, Ms. Chiles seeks to speak with inter-
+ested clients about steps they might take to change
+unwanted behaviors, expressions, or attractions related to
+sexual orientation or gender identity—conduct Colorado it-
+self does not dispute those clients (or anyone else) may law-
+fully undertake. Cf. Tr. of Oral Arg. 58 (conceding that “life
+coaches” and other non-licensees can lawfully convey the ad-
+vice Ms. Chiles seeks to offer). Nor does Colorado seek to
+regulate Ms. Chiles's speech for reasons unrelated to its con-
+tent, like a ban on outdoor fires that happens to sweep in
+fag burning. Instead, the State's law trains directly on the
+content of her speech and permits her to express some view-
+points but not others. Colorado does not regulate speech
+incident to conduct; it regulates “speech as speech.”
+NIFLA, 585 U. S., at 770.
+C
+Perhaps sensing that this Court's existing precedents offer
+it little support, Colorado ultimately pivots, urging us to re-
+shape our doctrine. In doing so, the State begins by point-
+ing again to NIFLA. There, recall, the Court observed that
+our cases have identified “two circumstances” in which
+speech by professionals may warrant “diminished” First
+Amendment protection: when a law seeks to compel disclo-
+sure of factual, noncontroversial information in commercial
+speech; and when a law regulates speech only incidentally to
+conduct. Id., at 767–768 (internal quotation marks omitted).
+Still, Colorado emphasizes, NIFLA left open the possibility
+that a future party might present “persuasive evidence . . .
+of a long (if heretofore unrecognized) tradition” of content
+regulation regarding additional categories of professional (or
+other) speech that might likewise warrant only “diminished”
+First Amendment protection. Id., at 767 (internal quotation
+marks omitted); see also United States v. Stevens, 559 U. S.
+460, 472 (2010).
+Seeking to take up this challenge, Colorado contends that
+its law falls within a long tradition of permissible content
+regulation. It's a line of argument that comes with a daunt-
+ing burden. Under our precedents, the State must present
+“persuasive” historical evidence in order to overcome our
+“especia[l]” “reluctan[ce] to mark off new categories of
+speech for diminished constitutional protection.” NIFLA,
+585 U. S., at 767 (internal quotation marks omitted). Still,
+Colorado insists, it can carry that burden in this case because
+States have traditionally enjoyed wide latitude to proscribe
+“substandard care” even when that involves regulating the
+content of speech. Brief for Respondents 16. As evidence,
+Colorado points to the history of state laws licensing the
+practice of medicine, regulating informed consent, and per-
+mitting tort suits for medical malpractice. Id., at 23–36.
+The dissent pursues the same point citing the same authori-
+ties. See post, at 667–669, 683–689, 692 (opinion of Jackson,
+J.) (suggesting that States may ban “substandard care” pro-
+vided “via speech” in light of licensing, informed consent, and
+malpractice laws).
+This argument stumbles out of the gate, for it proceeds at
+far too high a level of generality. From three specific sets
+of laws, Colorado and the dissent ask us to recognize a cav-
+ernous “First Amendment Free Zone,” Stevens, 559 U. S., at
+469 (internal quotation marks omitted), one in which States
+may censor almost any speech they consider “substandard
+care.” It is, once more, an approach our precedents al-
+ready foreclose.
+Consider a couple examples. In Alvarez, the federal gov-
+ernment pointed to specific, historical laws proscribing fraud
+and defamation and asked us to extrapolate from them a
+much broader rule allowing it to enforce content-based re-
+strictions on any “false statements.” In NIFLA, California
+suggested that informed-consent laws and our speech-
+incident-to-conduct doctrine might be cobbled together to
+sustain the recognition of a feld of “professional speech” sub-
+ject only to rational-basis review. We rejected both efforts,
+stressing instead that discrete traditions of content-based
+regulations cannot be aggregated together to sustain some
+new and broader category of lesser-protected speech. Al-
+varez, 567 U. S., at 718–722 (plurality opinion); id., at 736
+(Breyer, J., concurring in judgment); NIFLA, 585 U. S., at
+767–768; see also Button, 371 U. S., at 439–440 (distinguish-
+ing State's law from laws proscribing accepted “common-law
+offenses”); Florida Star v. B. J. F., 491 U. S. 524, 539 (1989)
+(similar). And Colorado's similar effort can succeed no more
+than others like it have in the past.
+Beyond that problem lies another. Taking each of the
+three traditions Colorado and the dissent invoke on its own
+terms—as we must—none delivers the support they suppose.
+Start with Colorado's suggestion, endorsed by the dissent,
+that the State's statute represents nothing more than a tra-
+ditional law licensing the practice of medicine. See Brief for
+Respondents 27–28; post, at 683–685 (opinion of Jackson, J.).
+We cannot agree for at least two reasons. First, the State
+has not presented persuasive evidence that its law is part of
+a historical tradition. When assessed at the level of gener-
+ality our precedents demand, what Colorado describes turns
+out to be a relatively recent innovation. Indeed, the
+briefing before us suggests that the very first state “coun-
+selor-licensure bill” was adopted only in 1976. National
+Academies, Institute of Medicine, Provision of Mental Health
+Counseling Services Under TRICARE 94 (2010); D. Berg-
+man, The Role of Government and Lobbying in the Creation
+of a Health Profession: The Legal Foundations of Counseling,
+91 J. Counseling & Development 61 (2013) (Bergman); see
+also Brief for Petitioner 42. And that is far from the sort
+of “persuasive evidence” of a historically grounded practice
+our precedents require. NIFLA, 585 U. S., at 767 (internal
+quotation marks omitted).
+Second, licensing laws have traditionally addressed what
+qualifications an individual must possess before practicing a
+particular profession. See Bergman 62 (licensing laws gen-
+erally “establis[h] minimum standards of preparation and en-
+sur[e] the professional is qualified”); R. Kry, The “Watchman
+for Truth”: Professional Licensing and the First Amend-
+ment, 23 Seattle U. L. Rev. 885, 887 (2000) (a “licensure
+scheme typically sets out certain requirements that the pro-
+fessional must fulfill before practicing”). And whatever tra-
+ditional interest a State may have in ensuring a professional
+possesses a particular set of qualifications, that interest does
+not automatically entail a right to dictate a professional's
+point of view. NIFLA, 585 U. S., at 773.
+Turn now to Colorado's effort, again echoed by the dissent,
+to compare its statute to informed-consent laws. See Brief
+for Respondents 34–36; post, at 667–669 (opinion of Jackson,
+J.). Those laws generally require a doctor to inform a pa-
+tient about “the nature of [a proposed] procedure” and its
+attendant “risks.” NIFLA, 585 U. S., at 769–770 (internal
+quotation marks omitted). As such, informedconsent laws
+do not usually trigger strict scrutiny because they regulate
+speech only incident to separate physical conduct that would,
+“without [the] patient's consent,” amount to “an assault.”
+Id., at 770 (internal quotation marks omitted). Usually, too,
+informed-consent laws require practitioners to disclose only
+factual and uncontroversial information. See id., at 769–
+770. But all that is a far cry from how Colorado's law oper-
+ates here. As applied to Ms. Chiles, the State seeks neither
+to regulate her speech incident to any conduct, nor does it
+seek to compel disclosure of factual and uncontroversial in-
+formation. Instead, it seeks to silence a viewpoint she
+wishes to express.
+Colorado and the dissent close by asking us to analogize
+the State's law to traditional tort malpractice claims. See
+Brief for Respondents 25–26; post, at 685–686 (opinion of Jack-
+son, J.). But here again the differences are impossible to
+ignore. In a traditional malpractice action, liability attaches
+only if the plaintiff shows, among other things, that he has
+suffered an injury caused by the defendant's breach of the
+applicable duty of care. See, e. g., Day v. Johnson, 255 P. 3d
+1064, 1068–1069 (Colo. 2011). Those kinds of “[e]xacting
+proof requirements,” we have observed, may “provide suffi-
+cient breathing room for protected speech.” Illinois ex rel.
+Madigan v. Telemarketing Associates, Inc., 538 U. S. 600,
+620 (2003). Yet Colorado's law contains nothing like them,
+instead threatening individuals with fnes, probation, and the
+loss of their licenses simply for expressing a particular view.
+See §§ 12–245–202(3.5), 12–245–224(1)(t), 12–245–225. Nor
+does Colorado's law allow clients to consent to practices that
+depart from the prevailing standard of care, while malprac-
+tice law sometimes does. See Restatement (Third) of Torts:
+Medical Malpractice § 11 (2024); Schneider v. Revici, 817
+F. 2d 987, 995 (CA2 1987).
+Consider, too, where the State and dissent's logic leads.
+Not long ago, many medical experts and organizations, in-
+cluding the American Psychiatric Association, considered ho-
+mosexuality a mental disorder. See American Psychiatric
+Association, Diagnostic and Statistical Manual of Mental Dis-
+orders 38–39 (1952); cf. American Psychiatric Association,
+Position Statement on Homosexuality and Civil Rights, 131
+Am. J. Psychiatry 497 (1974). On the view Colorado and the
+dissent advance, a law adopted during that era prohibiting
+counselors from engaging in the “substandard care” of af-
+firming their clients' homosexuality would have been subject
+to only rational-basis or intermediate-scrutiny review—and
+likely upheld. See 116 F. 4th, at 1237–1238 (Hartz, J., dis-
+senting). Today, tomorrow, and forever, too, any profes-
+sional speech that deviates from “current beliefs about the
+safety and efficacy of various medical treatments” could be
+silenced with relative ease. Post, at 681 (opinion of Jack-
+son, J.). It is a consequence Colorado freely acknowledges.
+Tr. of Oral Arg. 61–63. And one the dissent embraces.
+Post, at 681–683, and n. 9 (opinion of Jackson, J.). So what
+if that kind of refexive deference to currently prevailing pro-
+fessional views may not always end well? Cf. Buck v. Bell,
+274 U. S. 200, 205–207 (1927).
+Fortunately, that is not the world the First Amendment
+envisions for us. Licensed professionals “have a host of
+good-faith disagreements” about the “prudence” and “ethics”
+of various practices in their fields. NIFLA, 585 U. S., at 772.
+Medical consensus, too, is not static; it evolves and always
+has. A prevailing standard of care may reflect what most
+practitioners believe today, but it cannot mark the outer
+boundary of what they may say tomorrow. Far from a test

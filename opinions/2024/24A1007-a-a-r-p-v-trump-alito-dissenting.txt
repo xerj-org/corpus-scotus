@@ -1,0 +1,474 @@
+A.A.R.P. v. Trump — No. 24A1007 — October Term 2024 — decided 5/16/25 — Alito, J., dissenting
+Citation: 605 U.S. 91
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r31_7k47.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+America's national security and that it is “critical to remove
+TdA members subject to the Proclamation quickly.” Appli-
+cation To Vacate Orders in Trump v. J. G. G., No. 24A931
+(Mar. 28, 2025), p. 37; see Opposition to Emergency Applica-
+tion 3, 5. For their part, the detainees have explicitly re-
+quested that the Court move fast and grant certiorari before
+judgment. See Reply 4.
+The circumstances call for a prompt and final resolution,
+which likely can be provided only by this Court. At this
+juncture, I would prefer not to remand to the lower courts
+and further put off this Court's final resolution of the critical
+legal issues. Rather, consistent with the Executive
+Branch's request for expedition—and as the detainees them-
+selves urge—I would grant certiorari, order prompt briefing,
+hold oral argument soon thereafter, and then resolve the
+legal issues.
+Justice Alito , with whom Justice Thomas joins,
+dissenting.
+I cannot join the decision of the Court. First and most
+important, we lack jurisdiction and therefore have no author-
+ity to issue any relief. Second, even if we had such author-
+ity, the applicants have not satisfied the requirements for
+the issuance of injunctive relief pending appellate review.
+Third, granting certiorari before any decision on the merits
+has been made by either the District Court or the Court of
+Appeals is unwarranted.
+I
+A
+“Jurisdiction is power to declare the law,” and “[w]ithout
+jurisdiction the court cannot proceed at all.” Ex parte Mc-
+Cardle, 7 Wall. 506, 514 (1869). So in order for us to do
+anything in this matter, “we must assure ourselves that we
+have jurisdiction.” Abbott v. Perez, 585 U. S. 579, 594 (2018).
+The Court's theory of jurisdiction, as I understand it, is as
+follows. Under 28 U. S. C. § 1254, we have jurisdiction to
+review a “case” that is properly before one of the federal
+courts of appeals. This case was properly before the Court
+of Appeals for the Fifth Circuit because the two habeas peti-
+tioners, A. A. R. P. and W. M. M., took an appeal from a
+District Court order that refused to issue “an injunction.”
+§ 1292(a)(1). Although the District Court never actually is-
+sued such an order or said that it would do so, the District
+Court constructively denied injunctive relief by failing to act
+under circumstances where prompt intervention was ur-
+gently needed. See ante, at 94.
+This theory rests on a mischaracterization of what hap-
+pened in the District Court. I do not dispute that a district
+court's failure to act expeditiously may, in some circum-
+stances, have “the practical effect of refusing an injunction”
+and thus entitle a party to take an interlocutory appeal.
+Carson v. American Brands, Inc., 450 U. S. 79, 84 (1981);
+see also § 1292(a)(1). But that principle does not apply here
+where (a) the District Court had no good reason to think that
+either A. A. R. P. or W. M. M. was in imminent danger of
+removal, (b) the record at that time contained only sketchy
+evidence about any imminent threat to members of the class
+of alien detainees they sought to have certified, (c) the court
+took the entirely reasonable position that it would wait for
+the Government to respond to the applicants' request for a
+temporary restraining order (TRO) before acting, (d) the
+court set a very short deadline for the filing of the Govern-
+ment's response, and (e) the court was working diligently on
+the difficult issues presented by the applicants' request for
+relief for themselves and the members of the putative class.
+The Court asserts that the District Court failed to act “for
+14 hours and 28 minutes,” ante, at 94, but that is misleading.
+Here is what actually happened. On the evening of April
+17, lawyers for A. A. R. P. and W. M. M. made a phone call
+in which they demanded “to talk to the Judge immediately
+. . . and have the Judge issue an order.” Order in No. 1:25–
+cv–59 (ND Tex., Apr. 21, 2025), ECF Doc. 47–1, p. 2. As the
+District Court has since correctly noted, judges are gener-
+ally not permitted to consider such ex parte communications.
+See ECF Doc. 47, at 1–2 (citing Code of Conduct for Federal
+Judges, Canon 3(A)(4)); see also Fed. Rule Civ. Proc. 65(b)(1).
+So the judge issued an electronic order admonishing the at-
+torneys and stating that “[t]o the extent either party seeks
+emergency relief, it may fle a motion to do so. If an emer-
+gency motion is fled, the opposing party shall have 24 hours
+to fle a response.” ECF Doc. 29.
+Thus, when the attorneys for A. A. R. P. and W. M. M.
+fled their renewed motion for a TRO at 12:34 a.m. on April
+18, they were fully aware that the District Court intended
+to give the Government 24 hours to fle a response. But in
+that motion, the attorneys said nothing about a plan to ap-
+peal if the District Court elected to wait for that response.
+It was not until their 12:48 p.m. emergency motion for an
+immediate status conference that the attorneys suddenly in-
+formed the court that they would fle an appeal if the District
+Court did not act within 42 minutes, i. e., by 1:30 p.m. No.
+1:25–cv–59 (ND Tex., Apr. 18, 2025), ECF Doc. 34, p. 2. The
+attorneys then fled their appeal at 3:02 p.m., just 133 min-
+utes after they put the District Court on notice that they
+would seek appellate relief. Reply 10. Whether or not the
+actions taken by applicants' attorneys are thought to be jus-
+tified under the circumstances, delivering such an ultimatum
+to a district court judge (“Act on my motion on a complex
+matter within 42 or 133 minutes or I'll fle an appeal and
+divest you of jurisdiction”) represented a very stark depar-
+ture from what is usually regarded as acceptable practice.
+Faced with applicants' extraordinary demand, the District
+Court proceeded in an entirely reasonable manner. The
+Court characterizes the District Court's behavior during the
+period in question as “inaction,” ante, at 94, but in my judg-
+ment, that is unfair. Rather, as the judge has noted, he “was
+working with utmost diligence to resolve [the] important and
+complicated issues [presented by the motion] as quickly as
+possible.” ECF Doc. 41, p. 4. The judge explained that he
+had not yet ruled because he could not “shirk [his] responsi-
+bility to decide . . . complicated issues of law without at least
+some opportunity to review the pleadings and attachments
+and to get thoughtful responses from the parties.” Id., at 5.
+And the judge “was prepared to issue an order” “as soon as
+practicable after the government fled its response shortly
+after midnight, if not sooner.” Id., at 4.
+We should commend this careful approach, not criticize it.
+In the past few months alone, we have vacated or stayed
+district court orders that granted temporary injunctive relief
+without adequate consideration of the relevant issues. See
+Trump v. J. G. G., 604 U. S. 670 (2025) (per curiam ); Depart-
+ment of Education v. California, 604 U. S. 650 (2025)
+(per curiam ). But in this case, a District Court Judge is
+deemed to have constructively denied an injunction by fail-
+ing to act within the space of a little over two hours on an
+application that required consideration of important and dif-
+fcult questions and that was supported by factual submis-
+sions that, as I will explain below, were very weak.
+Under these circumstances, I cannot agree that the Dis-
+trict Court's failure to act amounted to a constructive denial
+of the applicants' request for relief.
+B
+As I mentioned, the factual support provided to the Dis-
+trict Court was weak. The Court claims that the facts pre-
+sented to the District Court on April 18 showed that there
+was an emergency entailing a high risk of “serious, perhaps
+irreparable, consequences.” Ante, at 94 (internal quotation
+marks omitted). But it is important not to confate the in-
+formation that was in the record on April 18 with the new
+information that was presented to this Court several days
+later.
+The record that was before the District Court on April 18
+(which is the same record that was before us at midnight on
+that date) included no concrete evidence that any removals
+were so imminent that a ruling had to be made immediately.
+The applicants' factual support consisted of six sworn decla-
+rations and a photograph that the applicants asserted was an
+image of a notice of removal. See App. to Application 32–
+37, 56–65. But neither the declarations nor the photograph
+showed “extreme urgency.” Ante, at 94.
+The declarations certainly did not show that action was
+urgently needed to protect A. A. R. P. or W. M. M. The
+Government had represented in District Court that it would
+not remove either of those men—the only parties who were
+indisputably before the court—while their habeas petitions
+were pending. Order in No. 1:25–cv–59 (ND Tex., Apr. 17,
+2025), ECF Doc. 27, p. 1. And the two declarations concern-
+ing those individuals included no allegations about imminent
+removal. App. to Application 32–37. Indeed, the declara-
+tions concerning them were signed on April 15, prior to the
+Government's representation that they would not be re-
+moved while their habeas petitions were pending. As a re-
+sult, the declarations were outdated and provided no support
+for the claim that either A. A. R. P. or W. M. M. was threat-
+ened with removal on April 18 or 19. 1
+The remaining evidence in the record at that time con-
+cerned only the unnamed members of the as-yet uncertifed
+1 The Government “unequivocally” told the District Court that it did not
+“ `presently expect to remove A.A.R.P. or W.M.M. under the [Alien Ene-
+mies Act (AEA)] until after the pending habeas petition is resolved,' ” and
+that it would “ `update' ” the District Court if that changed. ECF Doc. 27,
+at 1. And in their application for relief before this Court, the applicants
+did not assert that A. A. R. P. or W. M. M. in particular were at risk of
+being removed. To the contrary, the applicants represented that they had
+contacted the Government and were told that “the two named Applicants
+had not been given [removal] notices.” Application 5, n. 3. The Govern-
+ment later confirmed in its filings before this Court that it “has agreed
+not to remove pursuant [to] the AEA those AEA detainees who do fle
+habeas claims,” including the named applicants. Opposition to Emer-
+gency Application 2.
+class. And of the four declarations concerning those individ-
+uals, only one said anything about when removal might hap-
+pen. In that declaration, a lawyer swore that she spoke on
+the phone with an unidentifed Venezuelan man who said that
+“ICE had informed them that they will be deported either
+today or tomorrow to Venezuela.” Id., at 56. In other
+words, the most specific piece of evidence in the record was
+a double-hearsay statement that cannot be traced back to
+any specific government official. Outside of that, none of
+the remaining declarations said anything about imminent re-
+moval. They merely stated that certain aliens were receiv-
+ing deportation notices, but it was not claimed that these
+notices specified when removal might occur. See id., at 57–
+58 (Brané decl.); id., at 59–60 (Collins decl.); id., at 61 (Siegel
+decl.). And the image of a document labeled “Notice and
+Warrant of Apprehension and Removal Under the Alien En-
+emies Act,” which the applicants termed a removal notice,
+likewise said nothing about the time of removal. See id., at
+64–65. Other than these declarations, the court was left
+with unsupported attorney assertions in the application
+itself.
+Ignoring these defciencies in the record before the Dis-
+trict Court, the Court relies on information that was not in
+the District Court record, namely, (a) statements made by a
+Government attorney in a hearing in another case that was
+held in Washington, D. C., during the evening on April 18,
+well after applicants fled their appeal and (b) evidence that
+we received several days later. See ante, at 93. But in
+evaluating whether the District Court effectively refused to
+issue injunctive relief, we must consider the facts as they
+were known to that court at the time in question. 2
+2 Moreover, it appears to me that the Court overstates what the Govern-
+ment attorney actually said during the April 18 hearing. The attorney
+represented that it was “definitive” that “there are no fights tonight,” and
+that “the people [he] spoke to were not aware of any plans for fights
+tomorrow.” Tr. of Proceedings in J. G. G. v. Trump, ECF Doc. 93, p. 15.
+For these reasons, I agree with the unanimous Court of
+Appeals panel that the District Court did not constructively
+deny an application for an injunction. As the panel stated,
+there was no reason to doubt the “diligence and ability” of
+the District Court to act appropriately under the circum-
+stances. Order in No. 25–10534 (CA5, Apr. 18, 2025), ECF
+Doc. 14–1, p. 2. And his “failure to issue the requested rul-
+ing” within the extraordinarily short period specified by the
+applicants cannot reasonably be viewed as “an effective de-
+nial of injunctive relief.” Id., at 4 (Ramirez, J., concurring).
+II
+Even if the District Court had denied the applicants' mo-
+tion, there would be no ground for reversal because the ap-
+plicants failed to satisfy the requirements for emergency in-
+junctive relief, one of which is a showing of likelihood of
+success on the merits. Nken v. Holder, 556 U. S. 418, 434
+(2009). And here, in order to obtain what the application
+sought (and what the Court now provides)—i.e ., relief for the
+members of the class that applicants asked to have certi-
+fed—applicants had to show that they were likely to estab-
+lish that class relief is available in a habeas proceeding and,
+if such relief is available, that the standard requirements for
+class certifcation could likely be met. 3
+Although the attorney also said that the Department of Homeland Secu-
+rity “reserve[d] the right to remove people tomorrow,” he repeated nu-
+merous times that no fights were planned for April 19. Id., at 26; see
+also id., at 9, 15, 29–30. The attorney's statements showed that there was
+a possibility of future injury but not that such an injury was certainly
+impending. Clapper v. Amnesty Int'l, USA, 568 U. S. 398, 410 (2013).
+3 The Court asserts that “courts may issue temporary relief to a putative
+class” without “decid[ing] whether a class should be certified.” Ante, at
+98. In support of that proposition, the Court cites to no precedent of this
+Court. Instead, it cites to a treatise that provides no substantive reason-
+ing in support of the proposition. See ibid. (citing 2 W. Rubenstein, New-
+berg & Rubenstein on Class Actions § 4:30 (6th ed. 2022 and Supp. 2024).
+Even if the Court were correct, its position would not justify its decision
+to entirely sidestep the issue of certification. A court considering
+In my judgment, applicants were not likely to prevail on
+either of those issues.
+A
+1
+First, it is doubtful that class relief may be obtained in a
+habeas proceeding. We have never so held, and it is highly
+questionable whether it is permitted. Although habeas pro-
+ceedings are classified as civil, the Federal Rules of Civil
+Procedure apply only “to the extent that the practice in [ha-
+beas] proceedings . . . previously conformed to the practice
+in civil actions.” Rule 81(a)(4)(B); see also Rule 1. And in
+accordance with Rule 81, we have acknowledged that some
+Federal Rules are inapplicable in habeas.
+In Harris v. Nelson, 394 U. S. 286 (1969), for example, we
+held that Rule 33—concerning interrogatories—does not
+apply in habeas proceedings because it has no analogue in
+historical habeas practice and is a poor ft in a habeas pro-
+ceeding. Id., at 292–298. Among other things, we noted
+that the prevalence of fact-finding in habeas proceedings was
+a relatively recent development, and that the specific scope
+of Rule 33 was “ill-suited to the special problems and charac-
+ter of [habeas] proceedings.” Id., at 296.
+There are similar reasons to believe that Rule 23, which
+authorizes class actions, is not applicable in habeas. Neither
+courts nor commentators have found historical support
+for the practice. One commentator, writing in 1968, noted
+that “no case has been found in which anything resembling
+a class action was used in habeas corpus.” Note, Multiparty
+Federal Habeas Corpus, 81 Harv. L. Rev. 1482, 1493. Two
+years later, another commentator observed that “[c]lass ac-
+tions for habeas corpus relief have rarely been attempted,
+whether to issue preliminary injunctive relief must consider whether the
+movant is likely to succeed on the merits. And to consider whether a
+request for classwide relief is likely to succeed on the merits, a court must
+at least consider whether class certifcation is likely.
+perhaps because Rule 81(a)(2) [now Rule 81(a)(4)] seems to
+bar the application of the civil class action rule to habeas
+proceedings.” Developments in the Law—Federal Habeas
+Corpus, 83 Harv. L. Rev. 1038, 1170 (1970) (footnotes omit-
+ted). Indeed, there appears to be some historical debate
+over whether even joinder was permitted in habeas practice.
+Compare Note, 81 Harv. L. Rev., at 1494 (“The issue of join-
+der was not explicitly ruled upon in any of these cases, and
+no case has been found which expressly sanctions the proce-
+dure”), with Developments in the Law—Federal Habeas
+Corpus, 83 Harv. L. Rev., at 1169 (arguing that “the rules on
+joinder and consolidation apply under even the most restric-
+tive interpretation of Rule 81,” but citing contrary dicta
+found in at least one case (footnotes omitted)).
+2
+Despite this lack of historical support, some lower courts
+have held that our decision in Harris sometimes permits pro-
+cedures that resemble those used in a class action. As
+noted, Harris held that Rule 33, which concerns interrogato-
+ries, does not apply in habeas, but the Court also observed
+that habeas courts “may fashion appropriate modes of proce-
+dure, by analogy to existing rules or otherwise in conformity
+with judicial usage,” when such modes of procedure are nec-
+essary to “the habeas corpus jurisdiction and the duty to
+exercise it.” 394 U. S., at 299. On this ground, Harris held
+that a habeas court may use its authority under the All Writs
+Act, 28 U. S. C. § 1651, to fashion a procedure resembling an
+interrogatory to the extent that such an instrument is
+“needed” by the court to “perform [its] duty” to “summarily
+hear and determine the facts, and dispose of the matter as
+law and justice require.” 394 U. S., at 299–300 (internal
+quotation marks omitted).
+Based on this discussion in Harris, the Second Circuit held
+that while Federal Rule of Civil Procedure 23 does not itself
+apply in habeas, “a multi-party proceeding similar to” a Rule
+23 class action is sometimes allowed. United States ex rel.
+Sero v. Preiser, 506 F. 2d 1115, 1125 (CA2 1974). And it
+concluded that this procedure was appropriate in “the un-
+usual circumstances” present in the case at hand. Ibid.; see
+also Bijeol v. Benson, 513 F. 2d 965, 968 (CA7 1975).
+This reading of Harris is highly questionable. Where a
+particular rule does not apply in habeas, a court cannot cir-
+cumvent that limitation by simply saying that it is importing
+the same feature under a different rubric. Harris con-
+cluded that something like an interrogatory was allowed be-
+cause it was needed under the circumstances to help the ha-
+beas court carry out a duty clearly imposed by law, that is,
+to “ `determine the facts' ” that are material to the claim
+made by the petitioner who was before the court. 394 U. S.,
+at 299 (quoting 28 U. S. C. § 2243).
+The situation here is different. No provision of law im-
+poses on a habeas court the duty to determine facts or decide
+legal issues regarding parties who are not before the court.
+And as a general matter, the class action device is uniquely
+“ill-suited” for habeas proceedings, 394 U. S., at 296, which
+often turn on individualized and fact-specific determinations
+regarding the confinement of a specific prisoner.
+B
+Even if something resembling a class action could be used
+in a habeas proceeding, it is very questionable whether the
+requirements for class certifcation could be met in this case.
+Rule 23(a)(3) provides that named plaintiffs may sue as rep-
+resentatives of a class “only if,” among other things, “the
+claims or defenses of the representative parties are typical
+of the claims or defenses of the class.” And when a court
+certifes a class, the court is supposed to define the precise
+“claims” that will be adjudicated on a class-wide basis. See
+Rule 23(c)(1)(B). That ensures that the only claims that
+are adjudicated in a class action are those that the class
+brings in common and those for which the named plaintiffs
+are “typical” representatives of the class. See General Tele-
+phone Co. of Northwest v. EEOC, 446 U. S. 318, 330 (1980)
+(“The typicality requirement is said to limit the class claims
+to those fairly encompassed by the named plaintiff 's
+claims”).
+Here, however, the main interim relief sought on behalf of
+the putative class—adequate notice of plans for removal
+under the AEA and an opportunity to contest such removal
+in court, see Application 17–18; Reply 5–7—is not needed by
+either A. A. R. P. or W. M. M., who already have a pending
+habeas proceeding and a promise that they will not be re-
+moved until that proceeding concludes. For this reason,
+their situation differs critically from that of many of the pu-
+tative class members since they have no personal stake in
+how the court resolves the question of interim relief for the
+putative class members.
+The Court responds to this problem by suggesting that a
+class action defendant may not “defeat class treatment, if it
+is otherwise proper , by promising as a matter of grace to
+treat named plaintiffs differently.” Ante, at 98 (emphasis
+added). But the Court provides no analysis suggesting that
+class certifcation here is “otherwise proper,” and instead as-
+serts that it can ignore the question of class certifcation at
+this preliminary stage. Ibid. And, in any event, the record
+does not suggest that the Government is treating the named
+plaintiffs differently “as a matter of grace.” Ibid. Rather,
+it is doing so pursuant to its general policy against removing
+AEA detainees when they have a pending habeas petition.
+See Opposition to Emergency Application 2 (“the govern-
+ment has agreed not to remove pursuant [to] the AEA those
+AEA detainees who do fle habeas claims”).
+C
+We have told district courts that they may certify a class
+only after conducting a “ `rigorous analysis' ” of the question.
+Wal-Mart Stores, Inc. v. Dukes, 564 U. S. 338, 351 (2011)
+(quoting General Telephone Co. of Southwest v. Falcon, 457
+U. S. 147, 161 (1982)). On April 18, the District Court had
+no time to engage in such analysis, and as a result, it cannot
+be said that the court abused its discretion in failing to con-
+clude that applicants' were likely to prevail on their class-
+action arguments. Cf. University of Tex. v. Camenisch, 451
+U. S. 390, 393–394 (1981).
+The District Court has since had time to conduct the “rig-
+orous analysis” that our precedents require, and has con-
+cluded that class certifcation would be improper here.
+Order in No. 1:25–cv–59 (ND Tex., May 9, 2025), ECF Doc.
+67. That development makes the relief issued by the Court
+today all the more extraordinary. Purporting to exercise its
+appellate jurisdiction, the Court issues “preliminary relief”
+to a putative class that the District Court has explicitly
+refused to certify, and it does so without providing any
+substantive analysis suggesting that the District Court's
+analysis of the class certifcation issue was incorrect.
+Instead of substantively engaging with the District
+Court's order, the Court asserts that the order makes no
+difference because it “primarily addressed the detainees'
+ability to challenge the validity of AEA removal on a class-
+wide basis,” whereas “[t]he application before this Court
+seeks only to vindicate notice rights.” Ante, at 97, n. But
+the District Court's order did address the notice question.
+In addition to explaining why the applicants cannot pursue
+their final merits claims as a class action, the order explains
+at length why the applicants' claims regarding notice rights
+also cannot proceed on a class basis. ECF Doc. 67, at 29–
+31, 33, 38–39. Among other things, the District Court
+observed that “due process is by its very nature individual-
+ized,” id., at 33, a proposition plainly supported by our prece-
+dents. See Jennings v. Rodriguez, 583 U. S. 281, 314 (2018)
+(“Due process is flexible, we have stressed repeatedly, and it
+calls for such procedural protections as the particular situa-
+tion demands” (internal quotation marks and alteration
+omitted)).
+In any event, the District Court also offered several gen-
+eral reasons why class relief would be inappropriate here,
+and these apply equally to the applicants' claims regarding
+notice rights. See ECF Doc. 67, at 35–36, 39–45. The
+Court today issues temporary relief without engaging with
+any of that analysis. And, what's more, it asks the Fifth
+Circuit to finally adjudicate the notice rights of members of
+the putative class without asking that court to do its own
+analysis regarding whether class certifcation as to those
+claims would be appropriate. Ante, at 99. Clearly, the
+Court would prefer to ignore the important step of class cer-
+tification and skip directly to the adjudication of the class
+members' rights. The Federal Rules do not permit such a
+shortcut.
+III
+Instead of merely ruling on the application that is before
+us—which asks for emergency relief pending appeal—the
+Court takes the unusual step of granting certiorari before
+judgment, summarily vacating the judgment below dismiss-
+ing the applicants' appeal, and remanding the case to the
+Court of Appeals with directions regarding the issues that
+court should address. From the Court's order, it is not en-
+tirely clear whether the Court has silently decided issues
+that go beyond the question of interim relief. (I certainly
+hope that it has not.) But if it has done so, today's order is
+doubly extraordinary. Granting certiorari before a court of
+appeals has entered a judgment is a sharp departure from
+usual practice, but here neither the Court of Appeals nor the
+District Court has decided any merits questions.
+We have said more times than I care to remember that
+“we are a court of review, not of first view.” Cutter v. Wil-
+kinson, 544 U. S. 709, 718, n. 7 (2005). Even on the Court's
+reading of what happened below, all that the District Court
+and the Court of Appeals decided was that the applicants
+were not entitled to temporary injunctive relief. If the
+Court has gone beyond that question, it has blazed a new
+trail. It has plucked a case from a district court and decided
+important issues in the first instance. To my eyes, that
+looks far too much like an expansion of our original
+jurisdiction.
+I must therefore respectfully dissent.

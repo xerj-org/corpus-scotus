@@ -1,0 +1,41 @@
+Barr v. American Assn. of Political Consultants, Inc. — No. 19-631 — October Term 2019 — decided 7/06/20 — Sotomayor, J., concurring in judgment
+Citation: 591 U.S. 610
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf#page=169 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+CONSULTANTS, INC.
+Sotomayor, J., concurring in judgment
+that door. And this Court, in this and other recent deci-
+sions, has clarified and refined severability doctrine by em-
+phasizing frm adherence to the text of severability clauses,
+and underscoring the strong presumption of severability.
+The doctrine as so refined is constitutionally well-rooted, see,
+e. g., Marbury v. Madison, 1 Cranch 137 (Marshall, C. J.), and
+can be predictably applied. True, there is no magic solution
+to severability that solves every conundrum, especially in
+equal-treatment cases, but the Court's current approach
+as reflected in recent cases such as Free Enterprise Fund
+and Seila Law is constitutional, stable, predictable, and
+commonsensical.
+* * *
+In 1991, Congress enacted a general restriction on robo-
+calls to cell phones. In 2015, Congress carved out an ex-
+ception that allowed robocalls made to collect government
+debt. In doing so, Congress favored debt-collection speech
+over plaintiffs' political speech. We hold that the 2015
+government-debt exception added an unconstitutional ex-
+ception to the law. We cure that constitutional violation
+by invalidating the 2015 government-debt exception and
+severing it from the remainder of the statute. The judg-
+ment of the U. S. Court of Appeals for the Fourth Circuit
+is affirmed.
+It is so ordered.
+Justice Sotomayor, concurring in the judgment.
+I agree with much of the partial dissent's explanation that
+strict scrutiny should not apply to all content-based distinc-
+tions. Cf. post, at 641–645 (Breyer, J., concurring in judg-
+ment with respect to severability and dissenting in part).
+In my view, however, the government-debt exception in 47
+U. S. C. § 227(b) still fails intermediate scrutiny because it is
+not “narrowly tailored to serve a significant governmental
+interest.” Ward v. Rock Against Racism, 491 U. S. 781, 791
+(1989) (internal quotation marks omitted). Even under in-

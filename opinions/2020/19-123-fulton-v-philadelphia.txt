@@ -1,0 +1,621 @@
+Fulton v. Philadelphia — No. 19-123 — October Term 2020 — decided 6/17/21 — opinion of the Court — author Roberts (listing code R)
+Citation: 593 U.S. 522
+Source: https://www.supremecourt.gov/opinions/20pdf/593us2r47_8m59.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Chief Justice Roberts delivered the opinion of the
+Court.
+Catholic Social Services is a foster care agency in Philadel-
+phia. The City stopped referring children to CSS upon
+Mike Hunter of Oklahoma, Herbert H. Slatery III of Tennessee, Sean
+Reyes of Utah, and Patrick Morrisey of West Virginia; for the Bruderhof
+et al. by Christopher C. Lund; for Catholic Charities of the Diocese of
+Springfield, Ill., et al. by Thomas Olp, Thomas Brejcha, and Joan M. Man-
+nix; for the Christian Legal Society et al. by Douglas Laycock, Kimberlee
+Wood Colby, Reed N. Smith, and Thomas C. Berg; for the Church of Jesus
+Christ of Latter-day Saints et al. by Alexander Dushku; for the Coalition
+for Jewish Values et al. by Philip D. Williamson; for the Council for
+Christian Colleges and Universities et al. by Gene C. Schaerr, Erik S.
+Jaffe, Hannah C. Smith, and Kathryn E. Tarbert; for Current and Former
+State Legislators by Carson J. Tucker; for Former Foster Children et al.
+by Andrea Picciotti-Bayer; for Generation Justice et al. by Alan Gura; for
+the Great Lakes Justice Center by William Wagner and Erin Elizabeth
+Mersino; for the Institute for Faith and Family et al. by Deborah J. Dew-
+art, Tami Fitzgerald, and Arthur A. Schulcz, Sr.; for the Jewish Coalition
+for Religious Liberty by Howard Slugh; for the Life Legal Defense Foun-
+dation et al. by Catherine W. Short, Thomas P . Monaghan, and Walter M.
+Weber; for the National Jewish Commission on Law and Public Affairs
+et al. by Nathan Lewin, Alyza D. Lewin, and Dennis Rapps; for the New
+Civil Liberties Alliance by Kara Rollins; for New Hope Family Services,
+Inc., et al. by Christopher P . Schandevel, Kristen K. Waggoner, and David
+A. Cortman; for The Rutherford Institute by John W. Whitehead and Mi-
+chael J. Lockerby; for James Blais et al. by Todd McFarland and Andrew
+G. Schultz; for Dorothy Frame et al. by Bruce N. Cameron and Frank D.
+Garrison; for Edwin Meese III by Edward M. Wenger, Gary V. Perko,
+Mohammad O. Jazil, and Edwin Meese, pro se; and for 76 United States
+Senators et al. by Miles E. Coleman.
+Briefs of amici curiae urging affirmance were fled for the Common-
+wealth of Massachusetts et al. by Maura Healey, Attorney General of
+Massachusetts, Elizabeth N. Dewar, State Solicitor, and Abigail B. Taylor,
+Angela R. Brooks, and Joshua Olszewski-Jubelirer, Assistant Attorneys
+General, and by the Attorneys General for their respective jurisdictions
+as follows: Xavier Becerra of California, Philip J. Weiser of Colorado,
+William Tong of Connecticut, Kathleen Jennings of Delaware, Karl A.
+Racine of the District of Columbia, Clare E. Connors of Hawaii, Kwame
+Raoul of Illinois, Aaron M. Frey of Maine, Brian E. Frosh of Maryland,
+Dana Nessel of Michigan, Keith Ellison of Minnesota, Aaron D. Ford of
+discovering that the agency would not certify same-sex
+couples to be foster parents due to its religious beliefs about
+marriage. The City will renew its foster care contract with
+CSS only if the agency agrees to certify same-sex couples.
+Nevada, Gurbir S. Grewal of New Jersey, Hector Balderas of New Mexico,
+Letitia James of New York, Joshua H. Stein of North Carolina, Ellen F.
+Rosenblum of Oregon, Peter F. Neronha of Rhode Island, Thomas J. Don-
+ovan, Jr., of Vermont, Mark R. Herring of Virginia, Robert W. Ferguson
+of Washington, and Joshua L. Kaul of Wisconsin; for the Commonwealth
+of Pennsylvania by Josh Shapiro, Attorney General of Pennsylvania, Mi-
+chael J. Fischer, Chief Deputy Attorney General, Jacob B. Boyer, Deputy
+Attorney General, Gregory G. Schwab , and Doris M. Leisch; for the ADL
+(Anti-Defamation League) et al. by Gilbert R. Serota and Steven M. Free-
+man; for American Atheists, Inc., by Geoffrey T. Blackwell; for the Ameri-
+can Bar Association by Judy Perry Martinez and Douglas Hallward-Drie-
+meier; for the American Psychological Association et al. by Jessica Ring
+Amunson, Emily L. Chapuis, Deanne M. Ottaviano, Nathalie F. P . Gil-
+foyle, and Aaron M. Panner; for the Annie E. Casey Foundation et al. by
+Clifton S. Elgarten, Thomas A. Lorenzen, Amanda Shafer Berman, and
+Leland P . Frost; for the Baptist Joint Committee for Religious Liberty
+et al. by Mark W. Mosier, David M. Zionts, K. Hollyn Hollman, Jennifer
+L. Hawks, Heather E. Kimmel, and Mary E. Kostel; for the Center for the
+Study of Social Policy et al. by Shannon P . Minter, Catherine Sakimura,
+and Julie Wilensky; for Children's Rights et al. by Kendyl T. Hanks and
+Elizabeth Heidi Bloch; for Church-State Scholars by Rachel G. Shalev, E.
+Joshua Rosenkranz, Daniel A. Rubens, and Thomas M. Bondy; for Family
+Equality et al. by Katherine Keating and William J. Hibsher; for First
+Amendment Scholars by Elizabeth B. Wydra, Brianne J. Gorod, David H.
+Gans, and Ashwin P . Phatak; for Former Service Secretaries et al. by
+Michael E. Bern, George C. Chipev, and Peter Perkowski; for FosterClub
+et al. by Jesse R. Loffer, Amanda L. Nelson, and Harper S. Seldin; for
+the Freedom From Religion Foundation et al. by Patrick Elliott and Rebe-
+cca S. Markert; for GLBTQ Legal Advocates & Defenders et al. by Mary
+L. Bonauto, Gary D. Busek, and J. Anthony Downs; for Historians of
+Child Welfare by Chanakya A. Sethi; for KidsVoice by David R. Fine; for
+the Leadership Conference on Civil and Human Rights et al. by Todd
+Anten, Kathleen M. Sullivan, Ellyde R. Thompson, Jomaire A. Crawford,
+Vanita Gupta, Michael Zubrensky, Kristen Clarke, Jon Greenbaum, Da-
+riely Rodriguez, and Noah B. Baron; for Local Governments et al. by
+Richard Dearing, Claude S. Platton, Farimah Faiz Brown, G. Nicholas
+Herman, Keith O. Brenneman, Mark A. Flessner, Benna Ruth Solomon,
+The question presented is whether the actions of Philadel-
+phia violate the First Amendment.
+I
+The Catholic Church has served the needy children of Phil-
+adelphia for over two centuries. In 1798, a priest in the City
+Barbara A. Langhenry, Jessica M. Scheller, Christopher J. Caso, Law-
+rence Garcia, P . Daniel Christ, David S. Williamson, Todd K. Pounds,
+Robert E. Hornik, Jr., Ronald C. Lewis, Charles W. Swanson, Michael N.
+Feuer, Kathleen A. Kenealy, Scott Marcus, Blithe Smith Bock, Roger J.
+Desidero, Kathleen E. Gill, Sean P . Kilkenny, Mark E. Barber, Lyndsey
+M. Olson, Dennis J. Herrera, James R. Williams, Peter S. Holmes, Kath-
+ryn Emmett, Edward M. Pikula, John Morelli, Betsy Cavendish, Michael
+Jenkins, Kimberly Rothenburg, Timothy V. Ramis, Jonathan B. Miller,
+and John Daniel Reaves; for the Lutheran Child and Family Services of
+Ill. by Joseph R. Palmore; for Members of Congress by Peter T. Barbur;
+for the National League of Cities et al. by John J. Korzen and Lisa Soro-
+nen; for the National LGBT Bar Association et al. by Sanford Jay Rosen
+and Michael S. Nunez; for the New York State Bar Association by Scott
+M. Karson, Christopher R. Riano, John P . Drohan III, and Ryan Thore-
+son; for Organizations Servicing LGBTQ Youth by Jennifer C. Pizer; for
+the President of the House of Deputies of the Episcopal Church et al. by
+Jeffrey S. Trachtman, Norman C. Simon, Tobias B. Jacoby, and Jason M.
+Moff; for Prospective Foster Parents Subjected to Religiously Motivated
+Discrimination by Child-Placement Agencies by Richard B. Katskee and
+Kenneth D. Upton, Jr.; for Republican Legislators et al. by James Kim,
+Gregory Fosheim, and Lisa Linsky; for Scholars of the Constitutional
+Rights and Interests of Children by Catherine E. Smith, Lauren Fontana,
+and Angela Onwuachi-Willig; for Scholars Who Study the LGB Popula-
+tion by James E. Tysse and Pratik A. Shah; for Services and Advocacy
+for GLBT Elders et al. by Lauren S. Kuley; for Voice For Adoption et al.
+by Paul R. Q. Wolfson, Elizabeth L. Mitchell, and Alan Schoenfeld; for
+Lee C. Bollinger et al. by Jonathan L. Marcus and Paul M. Kerlin; for
+Alan Brownstein et al. by Carmine D. Boccuzzi, Jr .; for Miguel H. Díaz
+et al. by Leslie C. Griffn and Marci A. Hamilton; for Ira C. Lupu et al.
+by David S. Flugman, Faith E. Gay, and Caitlin J. Halligan; for Law-
+rence G. Sager by Charles A. Rothfeld and Lawrence G. Sager, pro se; and
+for 27 Lay Roman Catholics by James K. Riley.
+Briefs of amici curiae were fled for the Americans for Prosperity Foun-
+dation by Cynthia Fleming Crawford and Casey Mattox; for the Center
+for Constitutional Jurisprudence by R. Shawn Gunnarson, John C. East-
+organized an association to care for orphans whose parents
+had died in a yellow fever epidemic. H. Folks, The Care
+of Destitute, Neglected, and Delinquent Children 10 (1902).
+During the 19th century, nuns ran asylums for orphaned and
+destitute youth. T. Hacsi, Second Home: Orphan Asylums
+and Poor Families in America 24 (1997). When criticism of
+asylums mounted in the Progressive Era, see id., at 37–40,
+the Church established the Catholic Children's Bureau to
+place children in foster homes. Petitioner CSS continues
+that mission today.
+The Philadelphia foster care system depends on coopera-
+tion between the City and private foster agencies like CSS.
+When children cannot remain in their homes, the City's De-
+partment of Human Services assumes custody of them. The
+Department enters standard annual contracts with private
+foster agencies to place some of those children with foster
+families.
+The placement process begins with review of prospective
+foster families. Pennsylvania law gives the authority to cer-
+man, and Anthony T. Caso; for Concerned Women for America et al. by
+Frederick W. Claybrook, Jr., Steven W. Fitschen, James A. Davids, and
+David A. Bruce; for Fifteen Pennsylvania State Senators by Randall L.
+Wenger and Jeremy L. Samek; for the Foundation for Moral Law by John
+A. Eidsmoe; for Indian Law Professors by Jerome C. Roth; for Legal
+Scholars in Support of Equality by Kyle C. Velte, David B. Cruz, and
+Clifford S. Davidson; for the National Association of Evangelicals by Tim-
+othy Belz and Carl H. Esbeck; for the National Women's Law Center et al.
+by Evan Wolfson, Leah R. Bruno, Fatima Goss Graves, Emily Martin,
+Gretchen Borchelt, Sunu P . Chandy, and Michelle Banker; for the Office
+of the Cook County Public Guardian by Charles P . Golbert, Kass A. Plain,
+and Alpa Jayanti Patel; for the Robertson Center for Constitutional Law
+by Mark D. Martin, Bradley J. Lingo, and Kenneth W. Starr; for the
+United States Conference of Catholic Bishops et al. by Eric N. Kniffn;
+for Galen Black by Kelly J. Shackelford, Hiram S. Sasser III, Michael D.
+Berry, and Stephanie N. Taub; for Archbishop Jerome E. Listecki et al.
+by Richard M. Esenberg; for Richard C. Loeb by Cynthia Cook Robertson;
+for Eugene Volokh by Eugene Volokh, pro se; and for 32 Businesses et al.
+by Patricia B. Palacios.
+tify foster families to state-licensed foster agencies like CSS.
+55 Pa. Code § 3700.61 (2020). Before certifying a family, an
+agency must conduct a home study during which it consid-
+ers statutory criteria including the family's “ability to pro-
+vide care, nurturing and supervision to children,” “[e]xisting
+family relationships,” and ability “to work in partnership”
+with a foster agency. § 3700.64. The agency must decide
+whether to “approve, disapprove or provisionally approve
+the foster family.” § 3700.69.
+When the Department seeks to place a child with a foster
+family, it sends its contracted agencies a request, known as a
+referral. The agencies report whether any of their certified
+families are available, and the Department places the child
+with what it regards as the most suitable family. The
+agency continues to support the family throughout the
+placement.
+The religious views of CSS inform its work in this system.
+CSS believes that “marriage is a sacred bond between a man
+and a woman.” App. 171. Because the agency understands
+the certifcation of prospective foster families to be an en-
+dorsement of their relationships, it will not certify unmarried
+couples—regardless of their sexual orientation—or same-sex
+married couples. CSS does not object to certifying gay or
+lesbian individuals as single foster parents or to placing gay
+and lesbian children. No same-sex couple has ever sought
+certifcation from CSS. If one did, CSS would direct the
+couple to one of the more than 20 other agencies in the City,
+all of which currently certify same-sex couples. For over 50
+years, CSS successfully contracted with the City to provide
+foster care services while holding to these beliefs.
+But things changed in 2018. After receiving a complaint
+about a different agency, a newspaper ran a story in which a
+spokesman for the Archdiocese of Philadelphia stated that
+CSS would not be able to consider prospective foster parents
+in same-sex marriages. The City Council called for an in-
+vestigation, saying that the City had “laws in place to pro-
+tect its people from discrimination that occurs under the
+guise of religious freedom.” App. to Pet. for Cert. 147a.
+The Philadelphia Commission on Human Relations launched
+an inquiry. And the Commissioner of the Department of
+Human Services held a meeting with the leadership of CSS.
+She remarked that “things have changed since 100 years
+ago,” and “it would be great if we followed the teachings of
+Pope Francis, the voice of the Catholic Church.” App. 366.
+Immediately after the meeting, the Department informed
+CSS that it would no longer refer children to the agency.
+The City later explained that the refusal of CSS to certify
+same-sex couples violated a non-discrimination provision in
+its contract with the City as well as the non-discrimination
+requirements of the citywide Fair Practices Ordinance. The
+City stated that it would not enter a full foster care contract
+with CSS in the future unless the agency agreed to certify
+same-sex couples.
+CSS and three foster parents affliated with the agency
+fled suit against the City, the Department, and the Commis-
+sion. The Support Center for Child Advocates and Philadel-
+phia Family Pride intervened as defendants. As relevant
+here, CSS alleged that the referral freeze violated the Free
+Exercise and Free Speech Clauses of the First Amendment.
+CSS sought a temporary restraining order and preliminary
+injunction directing the Department to continue referring
+children to CSS without requiring the agency to certify
+same-sex couples.
+The District Court denied preliminary relief. It con-
+cluded that the contractual non-discrimination requirement
+and the Fair Practices Ordinance were neutral and generally
+applicable under Employment Division, Department of
+Human Resources of Oregon v. Smith, 494 U. S. 872 (1990),
+and that the free exercise claim was therefore unlikely to
+succeed. 320 F. Supp. 3d 661, 680–690 (ED Pa. 2018). The
+court also determined that the free speech claims were un-
+likely to succeed because CSS performed certifcations as
+part of a government program. Id., at 695–700.
+The Court of Appeals for the Third Circuit affirmed. Be-
+cause the contract between the parties had expired, the
+court focused on whether the City could insist on the inclu-
+sion of new language forbidding discrimination on the basis
+of sexual orientation as a condition of contract renewal. 922
+F. 3d 140, 153 (2019). The court concluded that the proposed
+contractual terms were a neutral and generally applicable
+policy under Smith. 922 F. 3d, at 152–159. The court re-
+jected the agency's free speech claims on the same grounds
+as the District Court. Id., at 160–162.
+CSS and the foster parents sought review. They chal-
+lenged the Third Circuit's determination that the City's ac-
+tions were permissible under Smith and also asked this
+Court to reconsider that precedent.
+We granted certiorari. 589 U. S. ––– (2020).
+II
+A
+The Free Exercise Clause of the First Amendment, appli-
+cable to the States under the Fourteenth Amendment, pro-
+vides that “Congress shall make no law . . . prohibiting the
+free exercise” of religion. As an initial matter, it is plain
+that the City's actions have burdened CSS's religious exer-
+cise by putting it to the choice of curtailing its mission or
+approving relationships inconsistent with its beliefs. The
+City disagrees. In its view, certifcation reflects only that
+foster parents satisfy the statutory criteria, not that the
+agency endorses their relationships. But CSS believes
+that certifcation is tantamount to endorsement. And “reli-
+gious beliefs need not be acceptable, logical, consistent, or
+comprehensible to others in order to merit First Amendment
+protection.” Thomas v. Review Bd. of Ind. Employment
+Security Div., 450 U. S. 707, 714 (1981). Our task is to de-
+cide whether the burden the City has placed on the religious
+exercise of CSS is constitutionally permissible.
+Smith held that laws incidentally burdening religion are
+ordinarily not subject to strict scrutiny under the Free Exer-
+cise Clause so long as they are neutral and generally applica-
+ble. 494 U. S., at 878–882. CSS urges us to overrule
+Smith, and the concurrences in the judgment argue in favor
+of doing so, see post, p. 545 (opinion of Alito, J.); post, p. 618
+(opinion of Gorsuch, J.). But we need not revisit that deci-
+sion here. This case falls outside Smith because the City
+has burdened the religious exercise of CSS through policies
+that do not meet the requirement of being neutral and gener-
+ally applicable. See Church of Lukumi Babalu Aye, Inc. v.
+Hialeah, 508 U. S. 520, 531–532 (1993).
+Government fails to act neutrally when it proceeds in a
+manner intolerant of religious beliefs or restricts practices
+because of their religious nature. See Masterpiece Cake-
+shop, Ltd. v. Colorado Civil Rights Comm'n, 584 U. S.
+617, 638–639 (2018); Lukumi, 508 U. S., at 533. CSS points
+to evidence in the record that it believes demonstrates that
+the City has transgressed this neutrality standard, but we
+find it more straightforward to resolve this case under the
+rubric of general applicability.
+A law is not generally applicable if it “invite[s]” the
+government to consider the particular reasons for a person's
+conduct by providing “ `a mechanism for individualized ex-
+emptions.' ” Smith, 494 U. S., at 884 (quoting Bowen v. Roy,
+476 U. S. 693, 708 (1986) (opinion of Burger, C. J., joined by
+Powell and Rehnquist, JJ.)). For example, in Sherbert v.
+Verner, 374 U. S. 398 (1963), a Seventh-day Adventist was
+fred because she would not work on Saturdays. Unable to
+find a job that would allow her to keep the Sabbath as her
+faith required, she applied for unemployment benefits. Id.,
+at 399–400. The State denied her application under a law
+prohibiting eligibility to claimants who had “failed, without
+good cause . . . to accept available suitable work.” Id., at
+401 (internal quotation marks omitted). We held that the
+denial infringed her free exercise rights and could be justi-
+fed only by a compelling interest. Id., at 406.
+Smith later explained that the unemployment benefits law
+in Sherbert was not generally applicable because the “good
+cause” standard permitted the government to grant exemp-
+tions based on the circumstances underlying each applica-
+tion. See 494 U. S., at 884 (citing Roy, 476 U. S., at 708;
+Sherbert, 374 U. S., at 401, n. 4). Smith went on to hold
+that “where the State has in place a system of individual
+exemptions, it may not refuse to extend that system to cases
+of `religious hardship' without compelling reason.” 494
+U. S., at 884 (quoting Roy, 476 U. S., at 708); see also Lukumi,
+508 U. S., at 537 (same).
+A law also lacks general applicability if it prohibits reli-
+gious conduct while permitting secular conduct that under-
+mines the government's asserted interests in a similar way.
+See id., at 542–546. In Church of Lukumi Babalu Aye, Inc.
+v. Hialeah, for instance, the City of Hialeah adopted several
+ordinances prohibiting animal sacrifce, a practice of the
+Santeria faith. Id., at 524–528. The City claimed that the
+ordinances were necessary in part to protect public health,
+which was “threatened by the disposal of animal carcasses
+in open public places.” Id., at 544. But the ordinances did
+not regulate hunters' disposal of their kills or improper gar-
+bage disposal by restaurants, both of which posed a similar
+hazard. Id., at 544–545. The Court concluded that this and
+other forms of underinclusiveness meant that the ordinances
+were not generally applicable. Id., at 545–546.
+B
+The City initially argued that CSS's practice violated sec-
+tion 3.21 of its standard foster care contract. We conclude,
+however, that this provision is not generally applicable as
+required by Smith. The current version of section 3.21
+specifies in pertinent part:
+“Rejection of Referral. Provider shall not reject a
+child or family including, but not limited to, . . . prospec-
+tive foster or adoptive parents, for Services based upon
+. . . their . . . sexual orientation . . . unless an exception
+is granted by the Commissioner or the Commissioner's
+designee, in his/her sole discretion.” Supp. App. to
+Brief for City Respondents 16–17.
+This provision requires an agency to provide “Services,”
+defined as “the work to be performed under this Contract,”
+App. 560, to prospective foster parents regardless of their
+sexual orientation.
+Like the good cause provision in Sherbert, section 3.21 in-
+corporates a system of individual exemptions, made available
+in this case at the “sole discretion” of the Commissioner.
+The City has made clear that the Commissioner “has no in-
+tention of granting an exception” to CSS. App. to Pet. for
+Cert. 168a. But the City “may not refuse to extend that
+[exemption] system to cases of `religious hardship' without
+compelling reason.” Smith, 494 U. S., at 884 (quoting Roy,
+476 U. S., at 708).
+The City and intervenor-respondents resist this conclusion
+on several grounds. They first argue that governments
+should enjoy greater leeway under the Free Exercise Clause
+when setting rules for contractors than when regulating the
+general public. The government, they observe, commands
+heightened powers when managing its internal operations.
+See NASA v. Nelson, 562 U. S. 134, 150 (2011); Engquist v.
+Oregon Dept. of Agriculture , 553 U. S. 591, 598–600 (2008).
+And when individuals enter into government employment or
+contracts, they accept certain restrictions on their freedom
+as part of the deal. See Garcetti v. Ceballos, 547 U. S. 410,
+418–420 (2006); Board of Comm'rs, Wabaunsee Cty. v. Um-
+behr, 518 U. S. 668, 677–678 (1996). Given this context, the
+City and intervenor-respondents contend, the government
+should have a freer hand when dealing with contractors
+like CSS.
+These considerations cannot save the City here. As Phil-
+adelphia rightly acknowledges, “principles of neutrality and
+general applicability still constrain the government in its ca-
+pacity as manager.” Brief for City Respondents 11–12. We
+have never suggested that the government may discriminate
+against religion when acting in its managerial role. And
+Smith itself drew support for the neutral and generally ap-
+plicable standard from cases involving internal government
+affairs. See 494 U. S., at 883–885, and n. 2 (citing Lyng
+v. Northwest Indian Cemetery Protective Assn., 485 U. S.
+439 (1988); Roy, 476 U. S. 693). The City and intervenor-
+respondents accordingly ask only that courts apply a more
+deferential approach in determining whether a policy is neu-
+tral and generally applicable in the contracting context. We
+find no need to resolve that narrow issue in this case. No
+matter the level of deference we extend to the City, the inclu-
+sion of a formal system of entirely discretionary exceptions
+in section 3.21 renders the contractual non-discrimination re-
+quirement not generally applicable.
+Perhaps all this explains why the City now contends that
+section 3.21 does not apply to CSS's refusal to certify same-
+sex couples after all. Contrast App. to Pet. for Cert. 167a–
+168a with Brief for City Respondents 35–36. Instead, the
+City says that section 3.21 addresses only “an agency's right
+to refuse `referrals' to place a child with a certified foster
+family.” Brief for City Respondents 36. We think the City
+had it right the first time. Although the section is titled
+“Rejection of Referral,” the text sweeps more broadly, for-
+bidding the rejection of “prospective foster . . . parents” for
+“Services,” without limitation. Supp. App. to Brief for City
+Respondents 16. The City maintains that certifcation is
+one of the services foster agencies are hired to perform,
+so its attempt to backtrack on the reach of section 3.21 is
+unavailing. See A. Scalia & B. Garner, Reading Law: The
+Interpretation of Legal Texts 222 (2012) (“[A] title or head-
+ing should never be allowed to override the plain words of a
+text.”). Moreover, the City adopted the current version of
+section 3.21 shortly after declaring that it would make CSS's
+obligation to certify same-sex couples “explicit” in future
+contracts, App. to Pet. for Cert. 170a, confirming our under-
+standing of the text of the provision.
+The City and intervenor-respondents add that, notwith-
+standing the system of exceptions in section 3.21, a separate
+provision in the contract independently prohibits discrimina-
+tion in the certifcation of foster parents. That provision,
+section 15.1, bars discrimination on the basis of sexual orien-
+tation, and it does not on its face allow for exceptions. See
+Supp. App. to Brief for City Respondents 31. But state law
+makes clear that “one part of a contract cannot be so inter-
+preted as to annul another part.” Shehadi v. Northeastern
+Nat. Bank of Pa., 474 Pa. 232, 236, 378 A. 2d 304, 306 (1977);
+see Commonwealth ex rel. Kane v. UPMC, 634 Pa. 97, 135,
+129 A. 3d 441, 464 (2015). Applying that “fundamental” rule
+here, Shehadi, 474 Pa., at 236, 378 A. 2d, at 306, an exception
+from section 3.21 also must govern the prohibition in section
+15.1, lest the City's reservation of the authority to grant such
+an exception be a nullity. As a result, the contract as a
+whole contains no generally applicable non-discrimination
+requirement.
+Finally, the City and intervenor-respondents contend that
+the availability of exceptions under section 3.21 is irrelevant
+because the Commissioner has never granted one. That
+misapprehends the issue. The creation of a formal mecha-
+nism for granting exceptions renders a policy not generally
+applicable, regardless whether any exceptions have been
+given, because it “invite[s]” the government to decide which
+reasons for not complying with the policy are worthy of solic-
+itude, Smith, 494 U. S., at 884—here, at the Commissioner's
+“sole discretion.”
+The concurrence objects that no party raised these argu-
+ments in this Court. Post, at 623 (opinion of Gorsuch, J.).
+But CSS, supported by the United States, contended that
+the City's “made-for-CSS Section 3.21 permits discretionary
+`exception[s]' from the requirement `not [to] reject a child or
+family' based upon `their . . . sexual orientation,' ” which
+“alone triggers strict scrutiny.” Reply Brief 5 (quoting
+Supp. App. to Brief for City Respondents 16; some alter-
+ations in original); see also Brief for Petitioners 26–27 (sec-
+tion 3.21 triggers strict scrutiny); Brief for United States as
+Amicus Curiae 21–22 (same). The concurrence favors the
+City's reading of section 3.21, see post, at 621–623, but we
+find CSS's position more persuasive.
+C
+In addition to relying on the contract, the City argues that
+CSS's refusal to certify same-sex couples constitutes an
+“Unlawful Public Accommodations Practice[ ]” in violation
+of the Fair Practices Ordinance. That ordinance forbids
+“deny[ing] or interfer[ing] with the public accommodations
+opportunities of an individual or otherwise discriminat[ing]
+based on his or her race, ethnicity, color, sex, sexual orienta-
+tion, . . . disability, marital status, familial status,” or several
+other protected categories. Phila. Code § 9–1106(1) (2016).
+The City contends that foster care agencies are public ac-
+commodations and therefore forbidden from discriminating
+on the basis of sexual orientation when certifying foster
+parents.
+CSS counters that “foster care has never been treated as
+a `public accommodation' in Philadelphia.” Brief for Peti-
+tioners 13. In any event, CSS adds, the ordinance cannot
+qualify as generally applicable because the City allows ex-
+ceptions to it for secular reasons despite denying one for
+CSS's religious exercise. But that constitutional issue
+arises only if the ordinance applies to CSS in the first
+place. We conclude that it does not because foster care
+agencies do not act as public accommodations in performing
+certifcations.
+The ordinance defines a public accommodation in relevant
+part as “[a]ny place, provider or public conveyance, whether
+licensed or not, which solicits or accepts the patronage or
+trade of the public or whose goods, services, facilities, priv-
+ileges, advantages or accommodations are extended, of-
+fered, sold, or otherwise made available to the public.” § 9–
+1102(1)(w). Certification is not “made available to the
+public” in the usual sense of the words. To make a service
+“available” means to make it “accessible, obtainable.”
+Merriam-Webster's Collegiate Dictionary 84 (11th ed. 2005);
+see also 1 Oxford English Dictionary 812 (2d ed. 1989) (“capa-
+ble of being made use of, at one's disposal, within one's
+reach”). Related state law illustrates the same point. A
+Pennsylvania antidiscrimination statute similarly defines a
+public accommodation as an accommodation that is “open to,
+accepts or solicits the patronage of the general public.” Pa.
+Stat. Ann., Tit. 43, § 954( l) (Purdon Cum. Supp. 2009). It
+feshes out that definition with examples like hotels, restau-
+rants, drug stores, swimming pools, barbershops, and public
+conveyances. Ibid. The “common theme” is that a public
+accommodation must “provide a benefit to the general public
+allowing individual members of the general public to avail
+themselves of that benefit if they so desire.” Blizzard v.
+Floyd, 149 Pa. Commw. 503, 506, 613 A. 2d 619, 621 (1992).
+Certifcation as a foster parent, by contrast, is not readily
+accessible to the public. It involves a customized and selec-
+tive assessment that bears little resemblance to staying in a
+hotel, eating at a restaurant, or riding a bus. The process
+takes three to six months. Applicants must pass back-
+ground checks and a medical exam. Foster agencies are re-
+quired to conduct an intensive home study during which they
+evaluate, among other things, applicants' “mental and emo-
+tional adjustment,” “community ties with family, friends and
+neighbors,” and “[e]xisting family relationships, attitudes
+and expectations regarding the applicant's own children and
+parent/child relationships.” 55 Pa. Code § 3700.64. Such
+inquiries would raise eyebrows at the local bus station. And
+agencies understandably approach this sensitive process
+from different angles. As the City itself explains to pro-
+spective foster parents, “[e]ach agency has slightly different
+requirements, specialties, and training programs.” App. to
+Pet. for Cert. 197a. All of this confirms that the one-size-
+fts-all public accommodations model is a poor match for the
+foster care system.
+The City asks us to adhere to the District Court's contrary
+determination that CSS qualifies as a public accommodation
+under the ordinance. The concurrence adopts the City's ar-
+gument, seeing no incongruity in deeming a private religious
+foster agency a public accommodation. See post, at 619–620
+(opinion of Gorsuch, J.). We respectfully disagree with the
+view of the City and the concurrence. Although “we ordi-
+narily defer to lower court constructions of state statutes,
+we do not invariably do so.” Frisby v. Schultz, 487 U. S.
+474, 483 (1988) (citation omitted). Deference would be inap-
+propriate here. The District Court did not take into account
+the uniquely selective nature of the certifcation process,
+which must inform the applicability of the ordinance. We
+agree with CSS's position, which it has maintained from the
+beginning of this dispute, that its “foster services do not con-
+stitute a `public accommodation' under the City's Fair Prac-
+tices Ordinance, and therefore it is not bound by that ordi-
+nance.” App. to Pet. for Cert. 159a. We therefore have no
+need to assess whether the ordinance is generally applicable.
+III
+The contractual non-discrimination requirement imposes a
+burden on CSS's religious exercise and does not qualify as
+generally applicable. The concurrence protests that the
+“Court granted certiorari to decide whether to overrule
+[Smith],” and chides the Court for seeking to “sidestep the
+question.” Post, at 618 (opinion of Gorsuch, J.). But the
+Court also granted review to decide whether Philadelphia's
+actions were permissible under our precedents. See Pet.
+for Cert. i. CSS has demonstrated that the City's actions
+are subject to “the most rigorous of scrutiny” under those
+precedents. Lukumi, 508 U. S., at 546. Because the City's
+actions are therefore examined under the strictest scrutiny
+regardless of Smith, we have no occasion to reconsider that
+decision here.
+A government policy can survive strict scrutiny only if it
+advances “interests of the highest order” and is narrowly
+tailored to achieve those interests. Lukumi, 508 U. S., at
+546 (internal quotation marks omitted). Put another way,
+so long as the government can achieve its interests in a man-
+ner that does not burden religion, it must do so.
+The City asserts that its non-discrimination policies serve
+three compelling interests: maximizing the number of foster
+parents, protecting the City from liability, and ensuring
+equal treatment of prospective foster parents and foster chil-
+dren. The City states these objectives at a high level of
+generality, but the First Amendment demands a more pre-
+cise analysis. See Gonzales v. O Centro Espírita Benef-
+cente União do Vegetal, 546 U. S. 418, 430–432 (2006) (dis-
+cussing the compelling interest test applied in Sherbert and
+Wisconsin v. Yoder, 406 U. S. 205 (1972)). Rather than rely
+on “broadly formulated interests,” courts must “scrutinize[ ]
+the asserted harm of granting specific exemptions to particu-
+lar religious claimants.” O Centro, 546 U. S., at 431. The
+question, then, is not whether the City has a compelling in-
+terest in enforcing its non-discrimination policies generally,
+but whether it has such an interest in denying an exception
+to CSS.
+Once properly narrowed, the City's asserted interests are
+insufficient. Maximizing the number of foster families and
+minimizing liability are important goals, but the City fails to
+show that granting CSS an exception will put those goals at
+risk. If anything, including CSS in the program seems
+likely to increase, not reduce, the number of available foster
+parents. As for liability, the City offers only speculation
+that it might be sued over CSS's certifcation practices.
+Such speculation is insufficient to satisfy strict scrutiny, see
+Brown v. Entertainment Merchants Assn., 564 U. S. 786,
+799–800 (2011), particularly because the authority to certify
+foster families is delegated to agencies by the State, not the
+City, see 55 Pa. Code § 3700.61.
+That leaves the interest of the City in the equal treatment
+of prospective foster parents and foster children. We do not
+doubt that this interest is a weighty one, for “[o]ur society
+has come to the recognition that gay persons and gay couples
+cannot be treated as social outcasts or as inferior in dignity
+and worth.” Masterpiece Cakeshop, 584 U. S., at 631. On
+the facts of this case, however, this interest cannot justify
+denying CSS an exception for its religious exercise. The
+creation of a system of exceptions under the contract under-
+mines the City's contention that its non-discrimination poli-
+cies can brook no departures. See Lukumi, 508 U. S., at
+546–547. The City offers no compelling reason why it has a
+particular interest in denying an exception to CSS while
+making them available to others.
+* * *
+As Philadelphia acknowledges, CSS has “long been a point
+of light in the City's foster-care system.” Brief for City Re-
+spondents 1. CSS seeks only an accommodation that will
+allow it to continue serving the children of Philadelphia in a
+manner consistent with its religious beliefs; it does not seek
+to impose those beliefs on anyone else. The refusal of Phila-
+delphia to contract with CSS for the provision of foster care
+services unless it agrees to certify same-sex couples as foster
+parents cannot survive strict scrutiny, and violates the
+First Amendment.

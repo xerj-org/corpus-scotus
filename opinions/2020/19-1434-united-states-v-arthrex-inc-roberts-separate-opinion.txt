@@ -1,0 +1,147 @@
+United States v. Arthrex, Inc. — No. 19-1434 — October Term 2020 — decided 6/21/21 — Opinion of Roberts, C. J.
+Citation: 594 U.S. 1
+Source: https://www.supremecourt.gov/opinions/20pdf/594us1r50_m6io.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+* * *
+We hold that the unreviewable authority wielded by APJs
+during inter partes review is incompatible with their ap-
+pointment by the Secretary to an inferior office. The princi-
+pal dissent repeatedly charges that we never say whether
+APJs are principal officers who were not appointed in the
+manner required by the Appointments Clause, or instead
+inferior officers exceeding the permissible scope of their du-
+ties under that Clause. See post, at 46, 54, 58–59 (opinion
+of Thomas, J.). But both formulations describe the same
+constitutional violation: Only an officer properly appointed
+to a principal office may issue a final decision binding the
+Executive Branch in the proceeding before us.
+In reaching this conclusion, we do not attempt to “set forth
+an exclusive criterion for distinguishing between principal
+and inferior officers for Appointments Clause purposes.”
+Edmond, 520 U. S., at 661. Many decisions by inferior off-
+cers do not bind the Executive Branch to exercise executive
+power in a particular manner, and we do not address supervi-
+sion outside the context of adjudication. Cf. post, at 56–57
+(opinion of Thomas, J.). Here, however, Congress has as-
+signed APJs “significant authority” in adjudicating the pub-
+lic rights of private parties, while also insulating their deci-
+sions from review and their offices from removal. Buckley,
+424 U. S., at 126.
+III
+We turn now to the appropriate way to resolve this dis-
+pute given this violation of the Appointments Clause. In
+general, “when confronting a constitutional faw in a statute,
+we try to limit the solution to the problem” by disregarding
+the “problematic portions while leaving the remainder in-
+tact.” Ayotte v. Planned Parenthood of Northern New
+Eng., 546 U. S. 320, 328–329 (2006). This approach derives
+from the Judiciary's “negative power to disregard an uncon-
+stitutional enactment” in resolving a legal dispute. Massa-
+chusetts v. Mellon, 262 U. S. 447, 488 (1923). In a case that
+presents a conflict between the Constitution and a statute,
+we give “full effect” to the Constitution and to whatever por-
+tions of the statute are “not repugnant” to the Constitution,
+effectively severing the unconstitutional portion of the stat-
+ute. Bank of Hamilton v. Lessee of Dudley , 2 Pet. 492, 526
+(1829) (Marshall, C. J.). This principle explains our “normal
+rule that partial, rather than facial, invalidation is the re-
+quired course.” Brockett v. Spokane Arcades, Inc., 472 U. S.
+491, 504 (1985).
+Arthrex asks us to hold the entire regime of inter partes
+review unconstitutional. In its view, any more tailored
+declaration of unconstitutionality would necessitate a policy
+decision best left to Congress in the first instance. Because
+the good cannot be separated from the bad, Arthrex contin-
+ues, the appropriate remedy is to order outright dismissal of
+the proceeding below. The partial dissent, similarly for-
+swearing the need to do anything beyond “identifying the
+constitutional violation,” would grant full relief to Arthrex.
+Post, at 32 (Gorsuch, J., concurring in part and dissenting
+in part).
+In our view, however, the structure of the PTO and the
+governing constitutional principles chart a clear course: De-
+cisions by APJs must be subject to review by the Director.
+Congress vested the Director with the “powers and duties”
+of the PTO, 35 U. S. C. § 3(a)(1), tasked him with supervising
+APJs, § 3(a)(2)(A), and placed the PTAB “in” the PTO, § 6(a).
+A single officer has superintended the activities of the PTO
+since the Commissioner of Patents assumed the role of “chief
+officer” of the Patent Office in 1836. § 1, 5 Stat. 117–118.
+The Commissioner long oversaw examiners-in-chief, see 12
+Stat. 246–247, just as the Director today has the responsibil-
+ity to oversee APJs. While shielding the ultimate decisions
+of the 200-plus APJs from review, Congress also provided
+the Director means of control over the institution and con-
+duct of inter partes review. 35 U. S. C. §§ 314(a), 316(a). In
+every respect save the insulation of their decisions from
+review within the Executive Branch, APJs appear to be
+inferior officers—an understanding consistent with their ap-
+pointment in a manner permissible for inferior but not prin-
+cipal officers.
+The America Invents Act insulates APJs from supervision
+through two mechanisms. The statute provides that “each
+. . . inter partes review shall be heard by at least 3 members
+of the [PTAB]” and that “only the [PTAB] may grant rehear-
+ings.” § 6(c). The upshot is that the Director cannot rehear
+and reverse a final decision issued by APJs. If the Director
+were to have the “authority to take control” of a PTAB pro-
+ceeding, APJs would properly function as inferior officers.
+Go-Bart Importing Co. v. United States, 282 U. S. 344, 354
+(1931).
+We conclude that a tailored approach is the appropriate
+one: Section 6(c) cannot constitutionally be enforced to the
+extent that its requirements prevent the Director from re-
+viewing final decisions rendered by APJs. Because Con-
+gress has vested the Director with the “power and duties”
+of the PTO, § 3(a)(1), the Director has the authority to pro-
+vide for a means of reviewing PTAB decisions. See also
+§§ 3(a)(2)(A), 316(a)(4). The Director accordingly may re-
+view final PTAB decisions and, upon review, may issue deci-
+sions himself on behalf of the Board. Section 6(c) otherwise
+remains operative as to the other members of the PTAB.
+This does not result in an incomplete or unworkable statu-
+tory scheme. Cf. United States v. Treasury Employees, 513
+U. S. 454, 479 (1995). To the contrary, review by the Direc-
+tor would follow the almost-universal model of adjudication
+in the Executive Branch, see supra, at 19–20, and aligns the
+PTAB with the other adjudicative body in the PTO, the
+Trademark Trial and Appeal Board, see § 228 of the Trade-
+mark Modernization Act of 2020, 134 Stat. 2209.
+The Government defends the different approach adopted
+by the Federal Circuit. The Court of Appeals held unen-
+forceable APJs' protection against removal except “for such
+cause as will promote the efficiency of the service,” 5 U. S. C.
+§ 7513(a), which applies through 35 U. S. C. § 3(c). See 941
+F. 3d, at 1337, 1340. If the for-cause provision were unen-
+forceable, the Secretary could remove APJs at will. See Ex
+parte Hennen, 13 Pet. 230, 259–260 (1839). The Government
+contends that APJs would then be inferior officers under
+Free Enterprise Fund. But regardless whether the Gov-
+ernment is correct that at-will removal by the Secretary
+would cure the constitutional problem, review by the Direc-
+tor better reflects the structure of supervision within the
+PTO and the nature of APJs' duties, for the reasons we have
+explained. See supra, at 16–17, 24–25.
+In sum, we hold that 35 U. S. C. § 6(c) is unenforceable as
+applied to the Director insofar as it prevents the Director
+from reviewing the decisions of the PTAB on his own. The
+Director may engage in such review and reach his own deci-
+sion. When reviewing such a decision by the Director, a
+court must decide the case “conformably to the constitution,
+disregarding the law” placing restrictions on his review au-
+thority in violation of Article II. Marbury v. Madison, 1
+Cranch 137, 178 (1803). We add that this suit concerns only
+the Director's ability to supervise APJs in adjudicating peti-
+tions for inter partes review. We do not address the Direc-
+tor's supervision over other types of adjudications conducted
+by the PTAB, such as the examination process for which the
+Director has claimed unilateral authority to issue a patent.
+See Reply Brief for Arthrex, Inc. 6.
+We also conclude that the appropriate remedy is a remand
+to the Acting Director for him to decide whether to rehear
+the petition fled by Smith & Nephew. Although the APJs'
+appointment by the Secretary allowed them to lawfully adju-
+dicate the petition in the first instance, see Freytag, 501
+U. S., at 881–882, they lacked the power under the Constitu-
+tion to finally resolve the matter within the Executive
+Branch. Under these circumstances, a limited remand to

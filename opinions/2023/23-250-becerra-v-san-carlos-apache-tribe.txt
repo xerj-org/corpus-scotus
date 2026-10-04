@@ -1,0 +1,607 @@
+Becerra v. San Carlos Apache Tribe — No. 23-250 — October Term 2023 — decided 6/06/24 — opinion of the Court — author Roberts (listing code R)
+Citation: 602 U.S. 222
+Source: https://www.supremecourt.gov/opinions/23pdf/602us1r30_g3bi.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Adam G. Unikowsky argued the cause for respondent in
+No. 23–253. With him on the brief were Keith M. Harper ,
+Charles W. Galbraith , Leonard R. Powell , Geoffrey D.
+Strommer, Caroline P . Mayhew, Stephen D. Osborne, and El-
+liott A. Milhollin. LLoyd B. Miller argued the cause for
+respondent in No. 23–250. With him on the brief were Rebe-
+cca A. Patterson, Whitney A. Leonard, Chloe E. Cotton, Car-
+ter G. Phillips, Virginia A. Seitz, and Eric D. McArthur .*
+Chief Justice Roberts delivered the opinion of the
+Court.
+The Indian Self-Determination and Education Assistance
+Act (ISDA), 88 Stat. 2203, 25 U. S. C. § 5301 et seq., enables
+an Indian tribe to enter into contracts with the Indian Health
+Service (IHS) to assume responsibility for administering the
+healthcare programs that IHS would otherwise operate for
+the tribe. To fund the tribe's administration of such pro-
+grams, IHS must turn over to the tribe the appropriated
+funds the agency would have used to operate the programs,
+as well as an additional sum to cover “contract support
+costs.” § 5325(a). These costs are administrative expenses
+incurred by the tribe that IHS does not incur when it runs
+the programs, typically because the agency can rely on exist-
+ing Government resources unavailable to the tribe. The
+tribe may also collect funds due from third parties—such as
+Medicare, Medicaid, and private insurers—to help finance
+*Briefs of amici curiae urging affirmance in both cases were fled for
+the Coalition of Large Tribes et al. by Jennifer H. Weddle, Troy A. Eid,
+John E. Echohawk, Melody L. McCoy , Kim Jerome Gottschalk, Morgan
+Saunders, Josh Newton, and Howard G. Arnett; for Legal Scholars by Seth
+P . Waxman, Kevin M. Lamb , Laura E. Powell, and Monte Mills, pro se;
+for NAFOA by C. Bryant Rogers, Hyland Hunt, and Ruthanne M. Deutsch;
+for the National Congress of American Indians et al. by Steven D. Gordon,
+Philip M. Baker-Shenk, and James T. Meggesto; and for the National In-
+dian Health Board et al. by Andrew B. Brantingham, Vernle Charles
+(Skip) Durocher, Jr., Anthony Jones, Robert R. Yoder , and Steven Boos.
+the programs. The question before us is whether ISDA re-
+quires IHS to pay contract support costs to support tribal
+programs funded by such third-party payments.
+I
+In 1975, Congress passed ISDA to promote “effective and
+meaningful participation by the Indian people in the plan-
+ning, conduct, and administration” of federal healthcare pro-
+grams. § 5302(b). Such programs provide, for instance,
+hospitals, dental clinics, and ambulance services. After
+ISDA's enactment, a tribe can either continue receiving
+healthcare services directly from the Federal Government
+through IHS, or it can assume responsibility for administer-
+ing those services itself. If a tribe elects the latter route,
+ISDA obligates IHS to enter into a “self-determination con-
+tract” with the tribe. § 5321(a)(1). Under this contract, the
+tribe receives funds to operate federal healthcare programs
+that IHS previously operated for the tribe's members.
+When IHS administers healthcare programs itself, it funds
+its operations through congressional appropriations and
+third-party insurance payments. Historically, IHS's fund-
+ing came from “moneys as Congress may from time to time
+appropriate.” § 13. But in 1976 Congress enacted the In-
+dian Health Care Improvement Act (IHCIA), 90 Stat. 1400,
+25 U. S. C. § 1601 et seq., to create greater parity between
+IHS and other healthcare providers. After IHCIA, when
+IHS provides healthcare services to a tribal member with
+Medicare, Medicaid, or private insurance coverage, IHS may
+collect the funds due from those third-party insurers for the
+services provided to the insured tribal member. See 42
+U. S. C. §§ 1395qq(a), 1396j(a); 25 U. S. C. § 1621e(a). Con-
+gress specified that third-party collections “shall not be con-
+sidered in determining appropriations” for IHS. 25 U. S. C.
+§ 1641(a). Third-party payments now represent a “signif-
+cant portion” of IHS's tribal healthcare budget—over $1.8
+billion in 2024 alone. Dept. of Health and Human Servs.,
+Fiscal Year 2024, Indian Health Service: Justification of Esti-
+mates for Appropriations Committees, p. CJ–193 (2023).
+Healthcare programs administered by tribes under self-
+determination contracts have a parallel funding structure.
+First, IHS provides to the tribes the appropriated funds that
+IHS would have used to operate such programs absent the
+self-determination contract. ISDA specifies that this sum—
+called the Secretarial amount—“shall not be less” than the
+Secretary of Health and Human Services would have other-
+wise allocated for the operation of the programs during the
+period covered by the contract. § 5325(a)(1).
+Second, like IHS when it runs the healthcare programs,
+contracting tribes can collect revenue from third-party pay-
+ers like Medicare, Medicaid, and private insurers. See 42
+U. S. C. §§ 1395qq(a), 1396j(a); 25 U. S. C. § 1621e(a). ISDA
+calls the funds received from third-party payers “program
+income” and requires that tribes use those funds “to fur-
+ther the general purposes of the contract” with IHS.
+§ 5325(m)(1). Just as third-party collections are not consid-
+ered in determining IHS's appropriations, Congress has
+specified that a tribe's program income “shall not be a basis
+for reducing” the Secretarial amount. § 5325(m)(2); see
+§ 1641(a).
+The Secretarial amount from IHS and program income
+from third-party payers do not, however, place contracting
+tribes on equal footing with IHS. Tribes incur overhead
+and administrative expenses that IHS does not incur when
+it runs the healthcare programs. For example, as a federal
+agency, IHS does not have to pay state-mandated workers'
+compensation on the salaries of its doctors—but the tribes
+do. IHS can also rely on other federal agencies, such as the
+Office of Personnel Management, for general administrative
+functions—but the tribes cannot. They have to manage on
+their own dime the auditing, insurance, financial, personnel,
+and other management systems associated with providing
+healthcare under self-determination contracts.
+To address this systematic shortfall in funding, Congress
+amended ISDA to account for “contract support costs.”
+IHS is now required to cover such “reasonable costs
+for activities which must be carried on by a [tribe] as a con-
+tractor to ensure compliance with the terms of the [self-
+determination] contract.” § 5325(a)(2). Contract support
+costs eligible for repayment include “direct program ex-
+penses for the operation of the Federal program” and “any
+additional administrative or . . . overhead expense incurred
+by the [tribe] in connection with the operation of the Federal
+program, function, service, or activity pursuant to the con-
+tract.” § 5325(a)(3)(A). These categories of contract sup-
+port costs are recoverable so long as they do not duplicate
+any funding provided through the Secretarial amount. Ibid.
+Contract support costs are limited, however, to “costs di-
+rectly attributable to” self-determination contracts. § 5326.
+And no funds are available for “costs associated with any
+contract . . . entered into between [a tribe] and any entity
+other than [IHS].” Ibid.
+II
+These cases involve self-determination contracts between
+the IHS and two tribes: The San Carlos Apache Tribe and
+the Northern Arapaho Tribe.
+A
+The San Carlos Apache Tribe is located on the San Carlos
+Apache Indian Reservation, which was established in 1871
+and encompasses 1.8 million acres spanning three counties
+in southeastern Arizona. In 2011, the Tribe entered into
+a three-year self-determination contract with IHS. The
+Tribe agreed to assume control of and manage the Commu-
+nity Health Representative Program, Emergency Medical
+Services Program, Alcohol and Substance Abuse Program,
+Behavioral Health Services Program, Teen Wellness Pro-
+gram, and Health and Human Services. App. 52. In ac-
+cordance with the ISDA “model agreement” set forth in
+Section 5329(c), the Tribe's contract incorporated “[t]he
+provisions of title I of [ISDA],” i. e., the provisions applicable
+to self-determination contracts, and specified that “[e]ach
+provision of [ISDA] and each provision of this Contract shall
+be liberally construed for the benefit of the [Tribe].” Id.,
+at 51.
+In separate annual funding agreements incorporated into
+the contract, the parties specified the amount of funds due
+from IHS to the Tribe each year. The funding agreements
+included a Scope of Work attachment that described the ac-
+tivities the contract required the Tribe to perform. See id.,
+at 99–102 (FY 2013 Scope of Work). The required activities
+included, among other things, “[m]aintain[ing] an efficient
+billing system . . . to maximize third party revenues” from
+“Medicare, [Medicaid], Private Insurance, and IHS Contract
+Health Services” and “[g]enerat[ing] maximum third party
+revenues for all eligible patient transports.” Id., at 101–102.
+In 2019, the Tribe sued the Government for breach of con-
+tract. As relevant, the Tribe contended that although it
+used both the Secretarial amount and program income to op-
+erate its healthcare programs under the self-determination
+contract, IHS failed to pay contract support costs for the
+Tribe's healthcare services to the extent they were funded
+by program income. Id., at 10–11. The Tribe sought
+roughly $3 million in unpaid contract support costs for the
+three-year contract. Id., at 16–17.
+The District Court dismissed the Tribe's claim, observing
+that ISDA's contract support cost provisions in Section
+5325(a) do not mention third-party revenue. San Carlos
+Apache Tribe v. Azar, 482 F. Supp. 3d 932, 934–935 (Ariz.
+2020). The Ninth Circuit reversed and remanded. 53
+F. 4th 1236, 1245 (2022). It reasoned that the Tribe's self-
+determination contract incorporated ISDA, which required
+the Tribe to spend third-party program income on health-
+care. Id., at 1241–1242. Those portions of the Tribe's
+healthcare programs funded by third-party income thus con-
+stituted “activities which must be carried on by [the Tribe]
+as a contractor to ensure compliance with the terms of the
+contract,” § 5325(a)(2), and the contract support costs associ-
+ated with those activities were incurred “in connection with
+the operation of the Federal program,” § 5325(a)(3)(A)(ii).
+Id., at 1241–1242. The text of ISDA, the Court reasoned,
+therefore indicated that IHS was required to reimburse the
+Tribe for those costs. Id., at 1243.
+The Ninth Circuit stated that, at the very least, it could
+not “conclude that § 5325(a) unambiguously excludes [the]
+third-party-revenue-funded portions of the Tribe's health-
+care program from [contract-support-cost] reimbursement.”
+Ibid. (emphasis deleted). The Court was also unable to con-
+clude that Section 5326 “unambiguously” meant that spend-
+ing of third-party insurance receipts was not “directly attrib-
+utable” to the Tribe's self-determination contract. Id., at
+1244. Based on these ambiguities, the Ninth Circuit applied
+the Indian canon and construed the statute in the Tribe's
+favor. Id., at 1244–1245.
+B
+The Northern Arapaho Tribe resides on the Wind River
+Reservation, which covers more than 2.2 million acres in
+west central Wyoming. In 2016, the Tribe entered into a
+self-determination contract with IHS to assume control of
+the reservation's health division, the Wind River Family and
+Community Health Care System. App. 124. In accordance
+with the model agreement, the contract incorporated ISDA's
+Title I provisions and stated that each provision of ISDA and
+of the contract must be “liberally construed for the benefit
+of the [Tribe].” Ibid.
+Like the San Carlos Apache Tribe's contract, the Northern
+Arapaho Tribe's contract also incorporated an annual fund-
+ing agreement and a Scope of Work attachment. Among
+other things, the Scope of Work specified that the Tribe
+would employ experienced individuals, such as “third-party
+claims specialists,” in a financial office; bill and collect “[i]n-
+surance and [t]hird-[p]arty receivables”; “maintain accredita-
+tion standards in order to qualify for funds through third
+party-payers”; secure “Medicare and Medicaid numbers for
+billing purposes”; meet requirements for “periodic renewal
+of accreditation or certifcation” to “maintain eligibility for
+these funds”; use IHS's third-party billing system for one
+year to give the “Tribe time to set up its own function-
+ing . . . third-party billing system”; and conduct “[q]uality
+assurance and all third-party billing processes.” Id., at
+184–186.
+In 2021, the Tribe sued the Government for damages and
+declaratory relief. As relevant, the Tribe alleged that, pur-
+suant to the contract's requirements, it had collected third-
+party revenues and spent them to provide healthcare serv-
+ices, yet IHS had paid no contract support costs for services
+funded by such program income. The Tribe averred that it
+spent all of its program income on activities enumerated in
+the Scope of Work, so the income was spent as “part of the
+Federal program carried out by the Tribe” under the con-
+tract. Id., at 110–111. The Tribe thus contended that Sec-
+tion 5325(a)(3)(A) required payment of contract support costs
+related to the spending of those funds. It sought approxi-
+mately $1.5 million in damages for the two-year period at
+issue. Id., at 116–117.
+The District Court dismissed the complaint. Northern
+Arapaho Tribe v. Cochran, 548 F. Supp. 3d 1134, 1143 (Wyo.
+2021). A divided panel of the Tenth Circuit reversed, with
+each of the three judges writing separately. 61 F. 4th 810
+(2023). Judge Moritz voted to reverse because “the relevant
+statutory provisions are ambiguous, and the Indian canon of
+statutory construction resolves the ambiguity in the Tribe's
+favor.” Id., at 812. Judge Eid also voted to reverse, but in
+her view the statute unambiguously supported the Tribe's
+interpretation. Id., at 823–828 (opinion concurring in judg-
+ment). Judge Baldock dissented in part. Id., at 828–830.
+Although he also viewed the Tribe's contract support costs
+as reimbursable under Section 5325(a), he would nonetheless
+have affirmed the District Court based on the “superseding
+provision” of Section 5326. Id., at 828–829.
+We granted certiorari in both cases. 601 U. S. ––– (2023).
+III
+It is undisputed that IHS must pay the Tribes the Secre-
+tarial amount and the contract support costs associated with
+spending that amount to operate the healthcare programs
+they assumed from IHS. It is also undisputed that the
+Tribes' contracts require them to collect program income and
+that IHS must cover the cost of collecting that income. See
+Brief for Petitioners 21, 38. The only question is whether
+IHS must also cover the contract support costs the Tribes
+incur when they spend program income on the healthcare
+programs.
+A
+The ISDA provisions that govern the amount IHS must
+pay as contract support costs under a self-determination con-
+tract are Sections 5325(a)(2) and (a)(3)(A). Both provisions
+peg the amount to the requirements of the contract. Be-
+cause a self-determination contract requires a tribe to spend
+program income to further the programs transferred to it in
+the contract, these provisions require IHS to pay contract
+support costs when a tribe does so, just as IHS must pay
+contract support costs to support a tribe's spending of the
+Secretarial amount.
+Section 5325(a)(2) defines contract support costs as “con-
+sist[ing]” of “the reasonable costs for activities which must
+be carried on by a tribal organization as a contractor to en-
+sure compliance with the terms of the contract.” 1 The
+1 Section 5325(a)(2) further specifies that contract support costs are for
+activities which “(A) normally are not carried on by [IHS] in [its] direct
+operation of the program; or (B) are provided by [IHS] in support of the
+contracted program from resources other than those under contract.” It
+is undisputed in these cases that the Tribes are seeking contract support
+costs for activities that satisfy Sections 5325(a)(2)(A) and (B). Brief for
+Northern Arapaho Tribe 33.
+touchstone for determining which “activities” must receive
+contract support costs is therefore “the terms of the con-
+tract.” It follows that if a tribe must collect and spend pro-
+gram income to ensure compliance with its contract, then the
+reasonable administrative and overhead costs it incurs
+in doing so are “contract support costs” under Section
+5325(a)(2).
+The Tribes' contracts and ISDA plainly require them to
+collect program income and spend it to comply with their
+contracts. Each self-determination contract entered into
+under ISDA must contain the provisions of the “model agree-
+ment” set forth in Section 5329(c). § 5329(a)(1). The model
+agreement incorporates into the contract “[t]he provisions
+of title I of [ISDA].” § 5329(c) (model agreement § 1(a)(1)).
+Title I of ISDA includes Section 5325(m)(1), which requires
+tribes to use “program income earned . . . in the course of
+carrying out a self-determination contract” to “further the
+general purposes of the contract.”
+The “purposes” of the contract are no mystery. The
+model agreement requires that each self-determination con-
+tract include a “purpose” clause listing the “functions, serv-
+ices, activities, and programs” to be transferred from IHS to
+the tribe. See § 5329(c) (model agreement § 1(a)(2)). Tribes
+are thus contractually required to use program income to
+further the functions, services, activities, and programs
+transferred to them in their contracts. When they do so and
+incur reasonable costs for required support services, those
+costs are “contract support costs” under Section 5325(a)(2).
+In addition to satisfying the definition set forth in Section
+5325(a)(2), those costs are also “eligible costs for the pur-
+poses of receiving funding” under Section 5325(a)(3)(A).
+That provision specifies two types of “reasonable and allow-
+able costs” that may be reimbursed. First, “direct program
+expenses for the operation of the Federal program that is
+the subject of the contract” are covered. § 5325(a)(3)(A)(i).
+“Direct” contract support costs include the support expenses
+of particular programs, such as workers' compensation insur-
+ance for ambulance drivers or training for emergency room
+nurses. See § 5304(c). Second, “any additional administra-
+tive or other expense incurred by the governing body of the
+[tribe] and any overhead expense incurred by the tribal con-
+tractor in connection with the operation of the Federal pro-
+gram, function, service, or activity pursuant to the contract”
+are also eligible for funding. § 5325(a)(3)(A)(ii). Such “indi-
+rect” contract support costs encompass expenses that benefit
+multiple programs, such as auditing infrastructure, person-
+nel systems, and legal services. See § 5304(f).
+Direct contract support costs incurred when using pro-
+gram income are covered because the functions, services, ac-
+tivities, and programs that a tribe agrees to administer in
+IHS's stead under a self-determination contract constitute
+the “Federal program that is the subject of the contract.”
+When IHS administers the Federal program for the tribe's
+members, it uses congressional appropriations and third-
+party insurance payments to do so. See 25 U. S. C. §§ 13,
+1621e(a); 42 U. S. C. §§ 1395qq(a), 1396j(a). IHS must use
+the third-party collections to provide healthcare services.
+See 25 U. S. C. §§ 1621f(a)(1), 1641(c)(1)(B). So IHS's Fed-
+eral program comprises congressionally funded and third-
+party funded healthcare. When that program is transferred
+to the tribe from IHS, the tribe, rather than IHS, becomes
+the entity collecting program income and spending it on the
+Federal program. The tribe's resultant direct contract sup-
+port costs are incurred “for the operation of the Federal
+program that is the subject of the contract.” Those costs
+are thus eligible to receive funding under Section
+5325(a)(3)(A)(i).
+Indirect contract support costs that result from spending
+program income must be covered by IHS for the same rea-
+son. A tribe's self-determination contract requires it to
+spend program income on furthering the Federal programs,
+functions, services, or activities it assumes from IHS.
+§§ 5325(m)(1), 5329(c). When the tribe does so—as IHS did
+when it operated the program, function, service, or activity—
+and incurs administrative and overhead expenses, those ex-
+penses are incurred “in connection with the operation of the
+Federal program, function, service, or activity pursuant to
+the contract.” Such expenses are thus eligible for reim-
+bursement under Section 5325(a)(3)(A)(ii).
+The self-determination contracts of the San Carlos Apache
+Tribe and the Northern Arapaho Tribe go to some length to
+require them to collect program income by maintaining
+third-party billing systems and generating maximum third-
+party revenues. See App. 101–102, 184–186. Once the
+Tribes collect third-party income, they must use it.
+§§ 5325(m)(1), 5329(c). The Tribes aver that they have col-
+lected and spent program income as required by their con-
+tracts to carry out the operations IHS transferred to them.
+Id., at 9–11, 109–115; Brief for Northern Arapaho Tribe 29
+(“Northern Arapaho is prepared to prove that every penny
+of program income was, in fact, spent on activities enumer-
+ated in the contractual scope of work.”). The reasonable di-
+rect and indirect contract support costs they incurred as a
+result are eligible for repayment under Section 5325(a) be-
+cause they were incurred to “ensure compliance with the
+terms of the contract,” § 5325(a)(2), and “for the operation
+of” and “in connection with the operation of” the “Federal
+program” they assumed from IHS, § 5325(a)(3)(A). 2
+2 To the extent that the Tribes spent program income on activities enu-
+merated in their contractual Scope of Work, they spent it on the “Federal
+program” they expressly agreed to assume from IHS. Contract support
+costs incurred in connection with that spending are recoverable.
+§ 5325(a)(3)(A). Although Section 5325(m)(1)'s requirement that the
+Tribes spend program income to further the “general purposes” of their
+self-determination contracts allows them some flexibility in their spending,
+we need not decide the extent of that flexibility in these cases. The only
+question before us now is whether the Tribes can recover contract support
+B
+IHS's obligation to pay contract support costs is limited
+by Section 5326, but the limitations of that provision do not
+preclude payment of costs incurred by the required spending
+of program income under a self-determination contract.
+Section 5326 requires that IHS pay contract support costs
+“only for costs directly attributable to contracts . . . pursuant
+to [ISDA].” It further provides that no funds “shall be
+available for any contract support costs or indirect costs as-
+sociated with any contract, grant, cooperative agreement,
+self-governance compact, or funding agreement entered into
+between [a tribe] and any entity other than [IHS].” § 5326.
+When a tribe spends program income to further the
+healthcare programs it assumes from IHS and incurs con-
+tract support costs, the costs it incurs are “directly attribut-
+able” to the self-determination contract. Contrary to the
+Government's assertion, there is no extended chain of causa-
+tion: The Tribes' self-determination contracts require the
+collection of program income. See supra, at 230, 231–232.
+The self-determination contracts then require the expendi-
+ture of program income. And the self-determination con-
+tracts govern the activities on which that income may be
+spent. The required contract support costs that result are
+“directly attributable” to the binding terms of the contract.
+Nor are such costs “associated with” any contract between
+a tribe and a third party. Those costs are instead associated
+with the contract referred to in the phrase “contract support
+costs.” In other words, the costs are “associated with” the
+“contract” that requires the work that generates the costs—
+the self-determination contract.
+A tribe's contracts with third-party payers are quite dif-
+ferent. A Medicare or Medicaid provider agreement, for
+example, does not generate contract support costs by
+costs at all when they collect and spend program income pursuant to
+their contracts.
+specifying which healthcare services a tribe must provide;
+rather, it simply serves as a predicate for the tribe to collect
+program income after it has already rendered services to a
+tribal member who is a Medicare or Medicaid benefciary.
+And when a tribe bills a private insurance company for serv-
+ices rendered to an insured tribal member, the tribe might
+have no pre-existing and ongoing agreement with the insur-
+ance company at all.
+The history of Section 5326 confirms this analysis. Con-
+gress enacted this provision in 1998 after the Tenth Circuit's
+decision in Ramah Navajo Chapter v. Lujan, 112 F. 3d 1455
+(1997). Ramah involved a Tribe that had self-determination
+contracts with the Bureau of Indian Affairs (BIA) for various
+programs, including law enforcement, and separate contracts
+with the State of New Mexico for criminal justice and juve-
+nile offender restitution programs. Id., at 1458–1459. The
+Tenth Circuit held that the BIA was required to pay the
+Tribe's full indirect contract support costs—not only for the
+programs administered under the BIA contracts, but also for
+those administered under the state contracts. Id., at 1462–
+1463. The Government and the Tribes agree that Congress
+added Section 5326 to override Ramah and clarify that IHS
+may not pay costs incurred to support non-ISDA contracts.
+See Brief for Petitioners 8; Brief for Northern Arapaho
+Tribe 46; Brief for San Carlos Apache Tribe 12–14.
+The direct attribution and association problems present in
+Ramah are not implicated here. In Ramah, the state con-
+tracts, not the BIA contracts, required the activities that
+resulted in the contract support costs for the criminal justice
+and juvenile offender restitution programs. Although those
+costs might have had an attenuated relation to the programs
+operated under the BIA contracts, they were “directly
+attributable” to and “associated with” the state contracts,
+not the BIA self-determination contracts. Here, the self-
+determination contract itself requires tribes to spend
+program income to further healthcare programming. The
+contract support costs tribes incur when they do so are re-
+coverable under Sections 5325(a) and 5326.
+IV
+A
+The Government's arguments to the contrary find no sup-
+port in ISDA's text. The Government begins with the
+premise that Section 5325(a)(2)'s requirement to pay contract
+support costs is “tied to” Section 5325(a)(1)'s Secretarial
+amount. Brief for Petitioners 21. But nothing in Section
+5325(a)(2) suggests that contract support costs are limited
+to programs funded by the Secretarial amount. In fact, Sec-
+tion 5325(a)(2) defines contract support costs as tied to “the
+terms of the contract,” which require tribes to fund pro-
+grams with program income. See §§ 5325(m)(1), 5329(c).
+The Government then attempts to extend its flawed prem-
+ise to Section 5325(a)(3)(A), asserting that the contract sup-
+port costs of spending program income are ineligible for
+repayment under that provision because the “Federal pro-
+gram” comprises only the Secretarial amount. Id., at 22.
+But besides reciting Section 5325(a)(3)(A), the Government
+cites no statutory text to support this assertion. Ibid.
+And Section 5325(a)(3)(A) refers to eligible costs for the op-
+eration of the “Federal program” without limiting that pro-
+gram to the Secretarial amount.
+B
+Leaving the text behind, the Government argues that the
+tribes should not get contract support costs for spending pro-
+gram income because that would give them the flexibility to
+spend such income on a broader range of activities than IHS
+can. Id., at 29. But none of the Government's cited differ-
+ences withstand scrutiny.
+First, the Government says that IHS cannot offer health-
+care services to non-Indians unless the benefciary tribe
+requests it, whereas a tribe running its own programs can
+unilaterally decide to offer such services. Ibid. This dif-
+ference is irrelevant. Before either IHS or a contracting
+tribe may offer healthcare services to non-Indians, both must
+make the same determination: Whether such services will
+result in a denial or diminution of services to eligible Indians.
+§§ 1680c(c)(1)(B), (c)(2). And the fact that the contracting
+tribe can act unilaterally in this regard is the natural result
+of self-determination.
+Next, the Government says that when IHS collects Medi-
+care and Medicaid proceeds, it must “first” use such proceeds
+to ensure compliance with those programs. Id., at 29 (quot-
+ing § 1641(c)(1)(B)). But tribes also have to ensure compli-
+ance with Medicare and Medicaid requirements using pro-
+gram income. § 1641(d)(2)(A).
+Finally, the Government contends that while Congress has
+prohibited IHS from using Medicare and Medicaid proceeds
+to construct new facilities, tribes do not face this prohibition
+and thereby have greater ability to expand their operations.
+Id., at 30. But to the extent that a tribe expands its pro-
+grams beyond the “Federal program,” IHS would not have
+to pay contract support costs for the tribe's new programs.
+Even if there are minor differences between what IHS and
+tribes can do with program income, that should not be sur-
+prising given ISDA's design to provide tribes greater fexi-
+bility in planning and implementing healthcare programs at-
+tuned to the needs of their communities. See § 5302(a).
+The Government points to nothing in ISDA's text to suggest
+that those differences excuse IHS from paying contract sup-
+port costs when tribes spend program income on the pro-
+grams they have assumed from IHS.
+C
+As for the dissent, its central assertion is that the support
+costs tribes incur when they spend program income are
+not incurred in the “performance of their contracts.” Post, at
+248 (opinion of Kavanaugh, J.). But the Tribes' contracts
+plainly require them to collect income from third-party in-
+surers. See supra, at 230, 231–232. And by incorporating
+Section 5325(m)(1), see §§ 5329(a)(1), (c), self-determination
+contracts plainly require tribes to use that income “to fur-
+ther the general purposes of the[ir] contract[s].” The dis-
+sent complains that “the contracts do not address how the
+tribes must spend their third-party income.” Post, at 250.
+But as we have explained, the “purpose” clause of each con-
+tract describes the programs which tribes must further
+using program income. See supra, at 234. The support
+costs tribes incur when they do so are incurred in the “per-
+formance of their contracts” to “ensure compliance with the
+terms of the[ir] contract[s].” Post, at 248; § 5325(a)(2). And
+those costs are “directly attributable” to and “associated
+with” tribes' self-determination contracts. See supra, at
+237. Obfuscating this straightforward reading of the rele-
+vant ISDA provisions, the dissent points to Section 5388(j)
+and the costliness of ISDA's mandates. But Section 5388(j)
+does not apply to self-determination contracts, and com-
+plaints about costs are the domain of Congress, not this
+Court.
+V
+Aside from being inconsistent with the statute's text,
+IHS's failure to cover contract support costs for healthcare
+funded by program income inflicts a penalty on tribes for
+opting in favor of greater self-determination. Congress de-
+signed the statute to avoid such a counterproductive result.
+Underlying ISDA was a congressional finding that federal
+domination of Indian service programs had denied tribes an
+effective voice in the planning and implementation of pro-
+grams responsive to the true needs of their communities.
+See § 5301(a)(1). Congress thus designed ISDA to promote
+“maximum Indian participation” in the administration of
+healthcare programs. § 5302(a). To that end, Congress's
+consistent directive to IHS is to place contracting tribes in
+the same financial position as IHS, so that tribes do not face
+a self-determination penalty when they take control of their
+own healthcare.
+When tribes enter into self-determination contracts and
+assume control of IHS's programs, they receive the same
+amount of congressionally appropriated funds to run the pro-
+grams as IHS would have. See § 5325(a)(1). Congress also
+allows tribes, like IHS, to fund the programs with income
+from third-party payers. See 42 U. S. C. §§ 1395qq(a),
+1396j(a); 25 U. S. C. § 1621e(a). To be clear, IHS needs to
+collect these funds just to cover its obligations to tribal mem-
+bers. Indeed, 60 percent or more of the yearly budget of
+some IHS healthcare facilities relies on third-party revenues.
+Dept. of Health and Human Servs., Fiscal Year 2024, IHS, at
+CJ–193; see also IHS, Indian Health Manual § 5–1.1(B) (2024)
+(“[T]hird-party billing and collections have become critical
+activities for the IHS. . . . Safeguarding this revenue stream
+and related assets is vital to IHS health care programs.”).
+Like IHS, tribes choosing self-determination in healthcare
+need to collect and spend program income if they are to
+maintain the same level of services they received from IHS.
+For that reason, Congress specifically instructed IHS that
+program income “shall not be a basis for reducing” a tribe's
+Secretarial amount. § 5325(m)(2).
+Contract support costs are necessary to prevent a funding
+gap between tribes and IHS. By definition, these are costs
+that IHS does not incur when it provides healthcare services
+funded by congressional appropriations and third-party in-
+come. §§ 5325(a)(2)(A) and (B). But they are costs that
+tribes must bear when they provide, on their own, healthcare
+services funded by the Secretarial amount and program in-
+come. If IHS does not cover costs to support a tribe's ex-
+penditure of program income, the tribe would have to divert
+some program income to pay such costs, or it would have to
+pay them out of its own pocket. Either way, the tribe would

@@ -1,0 +1,670 @@
+Mullin v. Doe — No. 25-1083 — October Term 2025 — decided 6/25/26 — opinion of the Court — author Alito (listing code A)
+Citation: 609 U.S. 324
+Source: https://www.supremecourt.gov/opinions/25pdf/25-1083_f204.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+SUPREME COURT OF THE UNITED STATES
+Nos. 25–1083 and 25–1084
+MARKWAYNE MULLIN, SECRETARY, DEPARTMENT
+OF HOMELAND SECURITY, ET AL., PETITIONERS
+25–1083 v.
+DAHLIA DOE, ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT TO THE UNITED
+STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+DONALD J. TRUMP, PRESIDENT OF THE UNITED
+STATES, ET AL., PETITIONERS
+25–1084 v.
+FRITZ EMMANUEL LESLY MIOT, ET AL.
+ON WRIT OF CERTIORARI BEFORE JUDGMENT TO THE
+UNITED STATES COURT OF APPEALS FOR THE
+DISTRICT OF COLUMBIA CIRCUIT
+[June 25, 2026]
+ JUSTICE ALITO announced the judgment of the Court and
+delivered the opinion of the Court with respect to all but
+Part III–A, and an opinion with respect to Part III–A, in
+which THE CHIEF JUSTICE, JUSTICE THOMAS, and JUSTICE
+KAVANAUGH join.
+In these cases, we consider whether respondents, who
+challenge the termination of Temporary Protected Status
+(TPS) for aliens from Syria and Haiti, are entitled to orders
+postponing the terminations du ring litigation.  We hold
+that they are not.
+The TPS statute plainly bars consideration of respond-
+ents’ non-constitutional claims. It allows “no judicial re-
+view of any determination . . . with respect to the . . . termi-
+nation” of a TPS designation.  8 U. S. C. §1254a(b)(5)(A).
+The term “determination” can be used to describe either an
+
+individual decision or the whole process leading to a final
+decision, and under either understanding of the term,
+§1254a(b)(5)(A) squarely bars all of respondents’ non-con-
+stitutional claims.
+The sole constitutional claim before us will likely fail.
+Citing statements made by President Trump and former
+Secretary of Homeland Security Kristi Noem, one set of re-
+spondents advances an equal pr otection claim that Haiti’s
+TPS designation was terminated because of the racial
+makeup of that country’s population.  But, ironically, one of
+respondents’ other arguments undermines the equal pro-
+tection claim by offering a strong, race-neutral explanation
+for Haiti’s termination: namely, that the current admin-
+istration, which has terminated every TPS designation that
+has come up for renewal, simply opposes the TPS program,
+at least as it has been implemented in the past.
+For these reasons, the Dis trict Courts erred in granting
+interim relief.
+I
+A
+Congress created TPS in 1990 to provide short-term hu-
+manitarian relief for aliens who cannot safely return to
+their home countries due to events such as armed conflict
+or natural disaster. Before  then, the Executive Branch
+sometimes provided similar relief as a matter of discretion
+without any express statutory authorization.  Then, as now,
+the Immigration and Nationality Act (INA) permitted the
+Executive to defer the removal of an alien who agrees to
+leave this country voluntarily.  See 8 U. S. C. §1229c(a)(1);
+§1252(b) (1958 ed.). Before Congress created TPS, aliens
+had 30 days to depart voluntarily, but the Government
+claimed discretionary authority  to extend that deadline
+
+3  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+indefinitely.1  Beginning in 1960, the Government used this
+mechanism to provide humanitarian relief similar to that
+now furnished by TPS.  Under a program that came to be
+known as “Extended Voluntary Departure” (EVD), the Gov-
+ernment authorized deferred de parture for nationals from
+countries where living conditions had become unsafe. EVD
+allowed aliens from those countries to remain in the United
+States until the Government concluded that conditions had
+improved. The Government granted EVD to nationals of at
+least 14 countries.  H. R. Rep. No. 98–1142, p. 4 (1984).
+Under this regime, the grant and termination of human-
+itarian relief was purely a ma tter of executive discretion,
+and judges on the Court of Appeals for the District of Co-
+lumbia Circuit concluded that the Executive’s decision to
+withhold such relief was an unreviewable exercise of prose-
+cutorial discretion. Hotel & Restaurant Employees Union,
+Local 25 v. Smith, 846 F. 2d 1499, 1519–1520 (CADC 1988)
+(opinion of Silberman, J.); see also id., at 1510 (opinion of
+Mikva, J.) (“[T]he court has no meaningful standard against
+which to judge the agency’s exe rcise of discretion to deny
+EVD status in this case”).  Judge Silberman, joined by three
+other judges, observed that review of an EVD decision
+would raise separation-of-powers concerns because “[c]on-
+trol of the country’s policy toward aliens is ‘inherent in the
+executive power to control the foreign affairs of the nation,’”
+id., at 1520 (quoting United States ex rel. Knauff v. Shaugh-
+nessy, 338 U. S. 537, 542 (1950)), and “ ‘[m]atters relating
+“to the conduct of foreign relations . . . are so exclusively en-
+trusted to the political branches of government as to be
+largely immune from judicial inquiry or interference,”’” Ho-
+tel & Restaurant Employees Union , 846 F. 3d, at 1520.
+Judge Silberman therefore concluded that judicial review
+——————
+1 See H. R. Rep. No. 98–1142, p. 4 (1984); L. Oswald, Note, Extended
+Voluntary Departure: Limiting the Attorney General’s Discretion in Im-
+migration Matters, 85 Mich. L. Rev. 152, 155–156 (1986).
+
+would be impermissible “in the absence of an extraordinar-
+ily precise statutory standard against which to measure the
+conduct in question.”  Ibid.
+B
+After critics objected that the Extended Voluntary Depar-
+ture program lacked “ ‘proper guidelines or standards,’ ”2
+Congress created TPS.  This new regime provided stand -
+ards to govern the grant and termination of TPS but main-
+tained core features of the old EVD program.  Three aspects
+of the new regime are noteworthy.
+First, as with EVD, the Executive Branch retains discre-
+tion over whether to designate a country for TPS.  Respon-
+sibility for TPS decisions rests with the Secretary of Home-
+land Security, 6 U. S. C. §§552(d), 557, and the statute
+provides that the Secretary “ may designate” a country for
+TPS “after consultation with appropriate agencies of the
+Government” if certain conditio ns are met.  8 U. S. C.
+§1254a(b)(1) (emphasis added).  These are:
+1. “[T]here is an ongoing armed conflict within the state
+and, due to such conflict, requiring the return of al-
+iens who are nationals of that state to that state (or
+to the part of the state) would pose a serious threat
+to their personal safety;”
+2. “[T]here has been an earthquake, flood, drought, ep-
+idemic, or other environmental disaster in the state
+resulting in a substantial, but temporary, disruption
+of living conditions,” “the foreign state is unable,
+temporarily, to handle adequately” the return of its
+nationals, and the state requests TPS designation;
+or
+3. “[T]here exist extraordinary and temporary condi-
+tions in the foreign state that prevent aliens who are
+——————
+2 Congressional Research Service, J. Wilson, Temporary Protected Sta-
+tus and Deferred Enforced Departure 4 (2025).
+
+5  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+nationals of the state from returning to the state in
+safety, unless the [Secretary] finds that permitting
+the aliens to remain temporarily is contrary to the
+national interest.”  Ibid.
+Once a country receives a TPS designation, certain na-
+tionals of that country living in the United States without
+another lawful immigration status qualify for work author-
+ization and immunity from removal. See §§1254a(a)(1), (c).
+The second notable feature of TPS is that the statute re-
+quires the Government to terminate a country’s TPS desig-
+nation if the Secretary determines that the country “no
+longer continues to meet the conditions for designation.”
+§1254a(b)(3)(B). The Secretary generally makes such de-
+terminations as part of an ongoing review of all TPS desig-
+nations. The Secretary is instructed to review each TPS
+designation at least every 18 months.  §§1254a(b)(2)–(3).
+During this review, the Secreta ry must “consul[t] with ap-
+propriate agencies of the Government” and “determine
+whether the conditions for such designation under this sub-
+section continue to be met.”  §1254a(b)(3)(A). If the Secre-
+tary takes no action, a TPS designation automatically ex-
+tends for another six months.  See §§1254a(b)(2)(B), (3)(C).
+These extensions continue until the Secretary publishes a
+termination notice. Ibid. Terminations take effect at least
+60 days after the notice appears in the Federal Register.
+§1254a(b)(3)(B).
+Finally, the Secretary’s TPS designation decisions are not
+subject to judicial review.  The relevant provision bars “ju-
+dicial review of any determination of the [Secretary of
+Homeland Security] with respect to the designation, or ter-
+mination or extension of a designation, of a foreign state.”
+§1254a(b)(5)(A).
+C
+Although designed to afford “temporary” relief, TPS des-
+ignations in practice have often lasted for decades.  For
+
+example, the Secretary designated Somalia in 1991, and
+that designation remains in effect 35 years later.  See 56
+Fed. Reg. 46805 (1991); African Communities Together v.
+Noem, No. 26–cv–11201, 2026 WL 710666 (D Mass., Mar.
+13, 2026). Three other countries retain designations that
+are more than 25 years old. See 64 Fed. Reg. 526 (1999)
+(Nicaragua); id., at 524 (Honduras); 66 Fed. Reg. 14214
+(2001) (El Salvador).3
+The current administration objects to lengthy TPS desig-
+nations and adopted a new, restricted approach shortly af-
+ter the beginning of President Trump’s second term in of-
+fice. In Executive Order 14159, titled “Protecting the
+American People Against Invasion,” the President directed
+Cabinet officers to “ensur[e] that designations of Tempo-
+rary Protected Status are consistent with the provisions of ”
+the TPS statute and that such designations “are appropri -
+ately limited in scope and made for only so long as may be
+necessary to fulfill the textual requirements of that stat-
+ute.” 90 Fed. Reg. 8446 (2025).  Under this approach, the
+Secretary of Homeland Security has terminated every TPS
+designation that has come up for renewal, 13 in all.  See
+infra, at 22–23.
+Legal challenges to these decisions began almost imme-
+diately. In opposing those challenges, the Government’s
+front line of defense has been the judicial-review bar in
+§1254a(b)(5)(A), but the lower courts have consistently re-
+buffed that argument. The Government once again led with
+that jurisdictional argument in asking us to stay two
+——————
+3 Not all TPS designations have lasted so long.  Presidents Clinton,
+George W. Bush, and Obama terminated some TPS designations much
+more promptly.  See, e.g., 58 Fed. Reg. 7582 (1993) (Lebanon, terminated
+two years after initial designation); 62 Fed. Reg. 33442 (1997) (Rwanda,
+terminated three years after initial designation); 69 Fed. Reg. 40643
+(2004) (Montserrat, terminated less than eight years after initial desig -
+nation); 81 Fed. Reg. 66064 (2016) (G uinea, terminated less than three
+years after initial designation).  None  of these terminations were chal-
+lenged in court.
+
+7  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+District Court orders that po stponed the termination of
+Venezuela’s TPS designation, and we granted those re-
+quests. Noem v. National TPS Alliance , 605 U. S. 909
+(2025) (NTPSA I ); Noem v. National TPS Alliance , 606
+U. S. 1062 (2025) (NTPSA II ). Nevertheless, lower courts,
+including those in the cases now before us, have continued
+to block the Secretary’s attempted terminations of other
+TPS designations. E.g., 1 App. 33 (Syria); id., at 40 (Syria);
+818 F. Supp. 3d 126, 186 (DC 2026) (Haiti); 2 App. 719
+(Haiti); Doe v. Noem, 822 F. Supp. 3d 893, 901 (ND Ill. 2026)
+(Burma); African Communities Together v. Noem, ___
+F. Supp. 3d ___, 2026 WL 948591, *16 (D Mass., Apr. 8,
+2026) (Ethiopia).
+1
+The Secretary designated Syria for TPS in 2012 because
+of “extraordinary and temporary conditions” related to the
+repressive regime of Bashar al-Assad. 77 Fed. Reg. 19027
+(2012). The initial designation notice recounted horrific
+conditions in that country, including use of “excessive force
+against civilians, arbitrary executions, killing and persecu-
+tion of protestors and members of the media, arbitrary de-
+tention, disappearances, torture, and ill-treatment.” Ibid.
+The notice recounted that Syrian military units and merce-
+naries had “terrorized the population, targeting and killing
+small children, women, and other unarmed civilians.”  Ibid.
+These actions led military defectors and members of the
+population into armed resistance and, eventually, civil war.
+Ibid. For these reasons, the Secretary concluded that “Syr -
+ian nationals cannot return to Syria in safety due to ex-
+traordinary and temporary conditions.”  Id., at 19028.  The
+Secretary designated Syria for TPS for an initial period of
+18 months. Ibid. In the 14 years since then, Syria has
+maintained its TPS designation through a series of exten-
+sions and re-designations. See 90 Fed. Reg. 45399 (2025).
+
+In September 2025—several months after we stayed the
+District Court order in NTPSA I , the first case involving
+Venezuela—the Secretary prov ided public notice that
+Syria’s TPS designation would terminate in 60 days.  90
+Fed. Reg. 45402.  She stated that she had “consult[ed] with
+appropriate U. S. Government agencies” and had “reviewed
+country conditions in Syria.”  Id., at 45399. She recognized
+that between 2011 and 2024 the Syrian civil war had
+caused more than 500,000 deaths, the displacement of mil-
+lions, and extensive damage to infrastructure.  Id., at
+45400. But in 2024, the Assad regime fell, and a transi-
+tional government took its place. Ibid. The notice re-
+counted that the United States had normalized relations
+with Syria’s new government and had revoked sanctions.
+Ibid.
+Even so, the termination notice acknowledged that seri-
+ous problems remained.  It noted that localized violence had
+replaced “nationwide hostilities” and that “insurgent flare-
+ups” continued. Ibid. The Secretary also recognized that
+“most Syrians require some form of humanitarian assis-
+tance,” but she found that “this does not prevent nationals
+from returning in safety, as evidenced by the U. N. High
+Commissioner for Refugees’ estimate that ‘since 2024, over
+1.2 million Syrians have returned to Syria.’”  Ibid. In short,
+the termination notice descri bed improved conditions in
+Syria but by no means painted a rosy picture.  Based on her
+review, the Secretary determined that “termination of the
+Syria Temporary Protected St atus designation [was] re-
+quired.” Ibid.
+Asserting claims under the Administrative Procedure Act
+(APA), seven Syrian nationals who benefit from TPS sued
+in the Southern District of New York to stop the termina-
+tion of Syria’s TPS designat ion.  The District Court con-
+cluded that these plaintiffs (respondents in No. 25–1083)
+were entitled to interim relief under 5 U. S. C. §705, which
+authorizes a reviewing court in appropriate circumstances
+
+9  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+to postpone the effective date of agency action. See 1 App.
+6. The court rejected the Government’s jurisdictional argu-
+ment because of the “restrictive manner in which jurisdic-
+tion-stripping provisions are construed.” Id., at 9.  It then
+held that the plaintiffs were likely to succeed on their APA
+claims that the termination of Syria’s TPS designation was
+contrary to law and arbitrary and capricious.  See §706.
+The court claimed not to “opin[e] on the substance of the
+Secretary’s termination decisi on or on her authority to
+make such a decision,” but it proceeded to criticize the Sec-
+retary for “taking a hatchet to the TPS system.”  Id., at 15–
+16. The court found that the Secretary’s decision to termi-
+nate Syria’s TPS designation constituted one aspect of the
+current administration’s “anti-immigrant agenda.”  Id., at
+25. The court then indefinitely postponed the effective date
+of the termination of Syria’s TPS designation and declined
+to stay its own order.
+The Second Circuit also denied the Government’s request
+for a stay. It concluded that it likely had jurisdiction, that
+the challengers had at least one strong APA claim (namely,
+that the Secretary acted contrary to law by failing to engage
+in adequate consultation with other agencies before termi-
+nating TPS), and that the other stay factors were not met.
+Id., at 38–40.
+Following the Second Circuit’s ruling, the Government
+turned to this Court for relief.  We granted certiorari before
+judgment and deferred ruling on the Government’s request
+for a stay. 607 U. S. ___ (2026).
+2
+Haiti received a TPS designation in 2010 after a devas-
+tating earthquake killed or injured hundreds of thousands
+of residents, caused massive property damage, and severely
+worsened living conditions.  75 Fed. Reg. 3477 (2010). The
+Government re-designated Haiti for TPS and extended that
+designation several times. See 90 Fed. Reg. 54734 (2025).
+
+In 2018, the Government attempted to terminate Haiti’s
+TPS designation, but court orders prevented that termina-
+tion from taking effect.  86 Fed. Reg. 41864 (2021). In 2021,
+following a change in administration, the Government re-
+designated Haiti for TPS, citi ng gang-related violence, hu-
+man-rights abuses, poverty, inadequate healthcare, and
+food insecurity. Id., at 41864–41867. Relying on these
+same grounds, the Government continued to extend Haiti’s
+TPS designation.  90 Fed. Reg. 54734.  The net effect was to
+allow Haitians who benefit from TPS to retain that status
+for 16 years.
+In November 2025, the Secretary provided public notice
+that Haiti’s TPS designation would terminate on February
+3, 2026—the last day of the most recent extension. Id., at
+54739. Stating that she had “consult[ed] with appropriate
+U. S. Government agencies,” id., at 54735, she explained
+her assessment of the current situation in Haiti.  “Certain
+conditions,” she acknowledged, “remain[ed] concerning,” es-
+pecially gang violence and its “spillover effects.” Ibid. But
+she asserted that certain areas “of the country [were] suit-
+able to return to” and that the situation would further im-
+prove with the deployment of a multinational gang-sup-
+pression force.  Ibid. Separately, she concluded that the
+ongoing designation of Haiti contravened the United States’
+national interests.  She noted, among other things, that
+many Haitians in the United States had entered illegally,
+that Haitians who came here legally overstayed their visas
+at an exceptionally high rate, and that the Haitian Govern-
+ment was often unable to provide the information needed to
+identify its own nationals’ crimi nal records or gang affilia-
+tions. Id., at 54736–54737.  The notice concluded by noting
+that the United States’ “immigration policy must align with
+our foreign policy vision of a secure, sovereign, and self-re-
+liant Haiti and not a country that Haitian citizens continue
+to leave in large numbers to seek opportunities in the
+United States.” Id., at 54738.
+
+11  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+Before the termination took effect, a group of five Haitian
+nationals with TPS sued in the District Court for the Dis-
+trict of Columbia to stop the termination of Haiti’s designa-
+tion. They asserted claims under the APA and charged that
+the termination of Haiti’s designation violated the constitu-
+tional right to equal protection because it was motivated by
+race. The District Court granted interim relief.  See Miot,
+818 F. Supp. 3d, at 186.  It found that the TPS judicial-re-
+view bar did not apply because plaintiffs challenged “ how
+the Secretary went about making her determination,” not
+the ultimate TPS termination decision itself. Id., at 148
+(emphasis in original). On the merits, the court ruled that
+several of the challengers’ APA claims were likely to suc-
+ceed, including the claim that the Secretary had not
+properly consulted other Government agencies and the
+claim that she had acted arbitrarily and capriciously by ig-
+noring evidence of Haiti’s true country conditions.  The
+court also ruled that the challengers would likely succeed
+on the merits of their equal protection claim because both
+President Trump and Secretary Noem made statements
+that suggested racial animus against “Haitians and other
+nonwhite foreigners.” Id., at 177, 180.  The court did not
+stay its order.
+A divided D. C. Circuit panel likewise declined to issue a
+stay. It noted that many othe r courts had held that they
+had jurisdiction to consider similar claims, and it found that
+the Government had failed to show that it would suffer ir-
+reparable harm. According to the majority, the Govern -
+ment’s assertion that the District Court had intruded on the
+Executive Branch’s foreign-policy prerogatives was a mere
+“‘generalized assertio[n] of injury’ ” and insufficient to sup-
+port a stay. 2 App. 720.
+Judge Walker dissented.  In his view, the court lacked
+jurisdiction, and the Government was irreparably harmed
+by “‘an improper intrusion by a federal court into the work-
+ings of a coordinate branch of the Government.’”  Id., at 726.
+
+After this decision, the Government sought a stay and a
+writ of certiorari before judgment. We granted review, con-
+solidated this case with Doe, and deferred ruling on the stay
+application. 607 U. S. ___ (2026).
+II
+A
+We first consider respondents’ non-constitutional claims
+and conclude that we are barred from reviewing them.  A
+provision of the TPS statute, 8 U. S. C. §1254a(b)(5)(A), pro-
+vides: “There is no judicial review of any determination of
+the [Secretary of Homeland Se curity] with respect to the
+designation, or termination or extension of a designation, of
+a foreign state under this subsection.” This text is clear,
+and its plain meaning is very broad.
+We start with the key term “determination,” which may
+mean several different things.  It may be used as a synonym
+for “decision.” See, e.g., 4 Oxford English Dictionary 548
+(def. 2.b) (2d ed. 1989) (a “decision arrived at or promul-
+gated”); Webster’s Third New International Dictionary 616
+(def. 4a) (1986) (“the act of deciding definitely and firmly”).
+The term may also be used to describe the chain of events
+leading up to a decision. See, e .g., American Heritage Dic-
+tionary 359 (def. 1.a) (1981) (the “act of making or arriving
+at a decision” (emphasis added)); Random House Dictionary
+of the English Language 541 (def. 1) (2d ed. 1987) (the “act
+of coming to a decision or of fixing or settling a purpose”
+(emphasis added)).
+Not only is it common to use the term “determination” in
+this broad sense, but other terms in the judicial-review
+bar—particularly the phrase “with respect to”—support
+this broad understanding. That phrase “generally has a
+broadening effect, ensuring that the scope of a provision co-
+vers not only its subject but also matters relating to that
+subject.” Patel v. Garland, 596 U. S. 328, 339 (2022) (inter-
+nal quotation marks omitted).
+
+13  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+Under either of these definitions, §1254a(b)(5)(A) bars re-
+spondents’ non-constitutional claims.  Each claim concerns
+a discrete decision made by the Secretary—for example, her
+decision to consult the Stat e Department in a particular
+manner and her decision that country conditions in Syria
+and Haiti justified termination of their TPS designations.
+And all those steps were part of the process that led to her
+final decision to terminate these countries’ TPS designa-
+tions. Indeed, the same result would follow if “determina-
+tion” referred only to that final decision.  In that event, all
+the preceding decisions would be “with respect to” that de -
+cision. So, under any dictionary definition of “determina-
+tion,” the judicial-review bar applies to respondents’ non-
+constitutional claims.
+We recognize that “when a statutory provision ‘is reason-
+ably susceptible to divergent interpretation, we adopt the
+reading that accords with’ ” the traditional and basic prin-
+ciple that “‘executive determinations generally are subject
+to judicial review.’”  Guerrero-Lasprilla v. Barr, 589 U. S.
+221, 229 (2020). But here, the text of the TPS judicial-re-
+view bar very clearly overcomes the general presumption in
+favor of judicial review.
+B
+Respondents and the courts below offer several theories
+to overcome the plain meaning of the judicial-review bar,
+but none is sound.
+1
+The most prominent theory is that §1254a(b)(5)(A) ap-
+plies only to substantive claims, not those based on alleged
+procedural errors. 1 App. 10–11; 818 F. Supp. 3d, at 148;
+Brief for Respondents in No. 25–1083, pp. 30–31; Brief for
+Respondents in No. 25–1084, pp. 15–16.  This argument
+finds no support in the language of §1254a(b)(5)(A) because
+a “determination” may concern procedural or substantive
+
+questions. Take Doe respondents’ argument that the Sec-
+retary inadequately consulted the State Department about
+conditions in Syria.  In proceeding as she did, the Secretary,
+either personally or through her subordinates, made a se -
+ries of procedural determinations: to communicate with the
+State Department by email, to send a terse and unspecific
+email, and to proceed to terminate Syria’s TPS designation
+after receiving a laconic answer.
+In attempting to limit §1254a(b)(5)(A) to substantive de-
+terminations, respondents and lower courts have relied not
+on the statutory text but on several of our decisions, chiefly
+McNary v. Haitian Refugee Center, Inc., 498 U. S. 479
+(1991), and Bowen v. Michigan Academy of Family Physi-
+cians, 476 U. S. 667 (1986).  But they read far too much into
+those decisions.
+ McNary  concerned the Special Agricultural Farmworker
+amnesty program. A provision of the governing statute
+barred “review of a determination respecting an application
+for adjustment of status under” that program except in re -
+moval proceedings. §1160(e)(1) (1988 ed.) (emphasis
+added). Because this provision referred to “a single act,”
+i.e., a ruling on an individual application, the Court held
+that alien farmworkers’ broad claims about the procedures
+used in implementing the program could proceed.  McNary,
+498 U. S., at 492.  Thus, the decision turned on the specific
+wording of the provision at issue.  It did not adopt the broad
+principle that the term “determination” applies only to sub-
+stantive matters.
+ Nor does Bowen support respondents’ position. There,
+the Court held that two statutory provisions did not bar ju-
+dicial review of a regulation that provided disparate Medi-
+care Part B payments to allopa thic and other physicians.
+The first provision did not bar review at all.  Instead, it au-
+thorized judicial review of benefits awarded in hearings
+conducted by private insurance carriers. 42 U. S. C.
+§1395ff(b) (1982 ed.). The Government asked the Court to
+
+15  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+infer that this grant of a particular type of review implicitly
+barred review of the challenged regulation.  Bowen , 476
+U. S., at 673. But based on the language of this provision
+and its legislative history, the Court rejected that request.
+Id., at 674–678. The Bowen Court’s refusal to find an im-
+plicit preclusion of review in the specific language and leg-
+islative history of a differently worded provision in a partic-
+ular statutory scheme hardly means that the term
+“determination” in 8 U. S. C. §1254a(b)(5)(A) is limited in
+the way respondents contend and lower courts have ruled.
+The second statutory provision at issue in Bowen is no
+more helpful to respondents than the first provision.  This
+provision in the Medicare Act incorporated a list of sections
+of the Social Security Act, and one of those sections prohib-
+ited certain actions against the Government or its officers.
+See 42 U. S. C. §13955ii (1982 ed., Supp. II) (referencing 42
+U. S. C. §405(h) (1982 ed., Supp. II)).  The Court held that
+this provision did not bar review of the challenged Medicare
+regulation because it was “incorporated mutatis mutandis,”
+i.e., with necessary and appropriate modifications, and be-
+cause legislative history showed that the Medicare Act pro-
+vision was not meant to bar review of important questions
+like the one at issue.  Bowen, 476 U. S., at 680.
+By contrast, the TPS judicial-review bar expressly re-
+stricts review; it is not a string cite that incorporates an-
+other provision to a limited degree.  And even if we were
+disposed to consult legislative history to determine the
+meaning of 8 U. S. C. §1254a(b)(5)(A), the proponents of the
+substance-only interpretation cite no legislative history
+that supports their position.
+2
+Doe respondents, while agreeing that §1254a(b)(5)(A) ap-
+plies to only substantive determinations, advance another
+argument that would reduce the reach of that provision
+even further. In their view, the statutory term
+
+“determination” in the judicial-review bar applies only to
+determinations about conditions in the country designated
+for TPS.
+This argument, which gives the commonly used term “de-
+termination” a special meaning, runs headlong into our
+statutory-interpretation precedents.  We are wary of giving
+common terms technical meanings. See Yellen v. Confeder-
+ated Tribes of Chehalis Reservation , 594 U. S. 338, 353
+(2021). Statutory interpretation proceeds on the assump -
+tion that those who draft and enact a provision generally
+intend its terms to mean what they mean in ordinary usage.
+Without that assumption, the entire endeavor would break
+down. Ordinary people could not understand what the law
+requires of them, and every word in a statute could be an
+unfathomable puzzle. Of course, a statute may provide ex -
+pressly, or may signal in some other clear way, that it em -
+ploys a common term in a way that departs from its ordi-
+nary meaning, but without strong proof of such a departure,
+commonly used terms should be given their common mean-
+ing. Feliciano v. Department of Transp., 605 U. S. 38, 45
+(2025).
+Here, “determination” is a commonly used term, and
+therefore Doe respondents bear the burden of showing that,
+as used in §1254a(b)(5)(A), it carries a technical, TPS-
+specific meaning. But their effort to show that “statutory
+context” dictates adoption of their interpretation, Yellen,
+594 U. S., at 351, falls short because the TPS statute uses
+“determination” in multiple ways that that have nothing to
+do with the assessment of country conditions. For example,
+the very first use of “determination” in the TPS statute re-
+fers to a “determination with respect to the alien’s eligibil-
+ity for . . . benefits.”  §1254a(a)(4)(B).  In another provision,
+the statute refers to the “determination of an alien’s admis-
+sibility.” §1254a(c)(2)(A).  Still another provision describes
+the effect of TPS on discretionary immigration benefits if
+the Secretary “determines that extreme hardship exists.”
+
+17  Cite as: 609 U. S. ____ (2026)
+Opinion of the Court
+§1254a(e). These uses of “det ermination” or “determines”
+are plainly not references to country conditions.
+Doe respondents counter that we need not look to how the
+TPS statute as a whole uses the term “determination” but
+can instead limit our examination to the use of the term in
+subsection (b), which contains the judicial-review bar.  And
+there, they point out, the term refers only to the Secretary’s
+evaluation of country conditions. Brief for Respondents in
+No. 25–1083, pp. 18–22.
+This argument rests on a cramped view of statutory con-
+text. When we consider statutory context, we evaluate the
+provision at issue “with a view to [its] place in the overall
+statutory scheme,” not just in a single subsection.  Utility
+Air Regulatory Group v. EPA, 573 U. S. 302, 320 (2014) (in-
+ternal quotation marks omitted; emphasis added). While
+the use of a term in nearby or closely related provisions may
+be entitled to more weight, there is no justification for lim-
+iting our examination as closely as Doe respondents urge.
+Once we expand our aperture, we see that the TPS statute
+uses “determination” in its ordinary sense, not to denote an
+assessment of country conditions.
+3
+Taking a different tack, respondents argue that only the
+Secretary’s ultimate “determination”—not any subsidiary
+decision, such as whether to consult other agencies—is un-
+reviewable. The dissent makes a similar argument.  Post,
+at 4–6 (opinion of K AGAN, J.). For reasons already ex -
+plained, this argument is inconsistent with the plain mean-
+ing of the statutory text.  And that is true whether the term
+“determination” is understood to mean a discrete decision
+or a process leading up to a final decision.
+This argument also contra dicts general administrative-
+law principles.  In APA cases, an agency’s subsidiary deci-
+sions merge into the final agency action, which is then sub-
+ject to review. See Army Corps of Engineers v. Hawkes Co.,
+
+578 U. S. 590, 597–598 (2016).  If the final agency action is
+unreviewable, then so too are subsidiary determinations.
+See Amgen, Inc. v. Smith, 357 F. 3d 103, 113 (CADC 2004);
+DCH Regional Medical Center  v. Azar, 925 F. 3d 503, 506
+(CADC 2019).  This important principle ensures that chal-
+lengers cannot avoid a judicial-review bar by creative plead-
+ing or clever lawyering.
+Moving beyond the text and precedent, respondents con-
+tend that our interpretation of the judicial-review bar could
+protect many shocking abuses of TPS.  For example, a rogue
+Secretary in one fell swoop could issue a 50-year TPS des-
+ignation, contrary to the 18-month statutory cap.  Or a Sec-
+retary could terminate a TPS designation based on a coin-
+flip. The Government responds to each of respondents’ far-
+fetched hypotheticals and concludes that some but not all
+could in fact be redressed by the courts.  See Reply Brief 9–
+10. But whether or not that assessment is correct, the fact
+remains that if a Secretary engaged in the sort of conduct
+that respondents imagine, Congress would have ample
+means to stop that abuse, including, for example, through
+the annual appropriations process.  “Sometimes Congress
+decides that the political process is the proper forum for
+remedying improper conduct.”  National TPS Alliance v.
+Noem, 169 F. 4th 796, 807 (CA9 2026) (Bumatay, J., dis-
+senting from denial of reh’g en banc).
+* * *
+In sum, we hold that the TPS statute’s judicial-review bar
+applies to all non-constitutional claims.
+III
+We continue with Miot respondents’ equal protection
+claim.4
+——————
+4 Doe respondents brought a similar claim, but the District Court held
+that it was not likely to succeed.  So that claim is not before us.

@@ -1,0 +1,398 @@
+Hewitt v. United States — No. 23-1002 — October Term 2024 — decided 6/26/25 — opinion of the Court — author Jackson (listing code KJ)
+Citation: 606 U.S. 419
+Source: https://www.supremecourt.gov/opinions/24pdf/606us1r61_2dp3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Michael H. McGinley, by invitation of the Court, 603 U. S.
+939, argued the cause and fled a brief as amicus curiae in
+support of the judgment below. With him on the
+brief were Steven A. Engel, M. Scott Proctor , and Brian
+A. Kulp.†
+Justice Jackson delivered the opinion of the Court, ex-
+cept as to Parts IV and V .‡
+Before the First Step Act was enacted in 2018, federal
+judges were required to sentence certain first-time offenders
+convicted of violating 18 U. S. C. § 924(c)—a law that crimi-
+nalizes the possession of a firearm while committing other
+crimes—to “stacked” 25-year periods of incarceration. The
+First Step Act, 132 Stat. 5194, eliminated this harsh manda-
+tory minimum penalty. Congress also made the Act's more
+lenient penalties partially retroactive. Section 403(b) speci-
+fes that the Act applies if a sentence “has not been imposed”
+upon an eligible § 924(c) offender as of the date of the First
+Step Act's enactment. Id., at 5222.
+The question presented here concerns an edge case: What
+penalties apply when a § 924(c) offender had been sentenced
+†Briefs of amici curiae urging reversal were fled for the District of
+Columbia et al. by Brian L. Schwalb, Attorney General of the District
+of Columbia, Caroline S. Van Zile, Solicitor General, Ashwin P . Phatak,
+Principal Deputy Solicitor General, and Sean Frazzette , Assistant Attor-
+ney General, and by the Attorneys General for their respective States as
+follows: Philip J. Weiser of Colorado, Kwame Raoul of Illinois, Aaron M.
+Frey of Maine, Anthony G. Brown of Maryland, Andrea J. Campbell of
+Massachusetts, Keith Ellison of Minnesota, Aaron D. Ford of Nevada,
+Matthew J. Platkin of New Jersey, Letitia James of New York, Ellen F.
+Rosenblum of Oregon, and Charity R. Clark of Vermont; for the American
+Civil Liberties Union et al. by Kevin Poloncarz, Barbara E. Bergman,
+Clark M. Neily III, Shana-Tara O'Toole , David D. Cole , Mary Price ,
+Emma Andersson, Nathan Freed Wessler, Yasmin Cader, and Cecillia D.
+Wang; and for Sen. Richard J. Durbin et al. by Brent J. Gurney.
+‡The Chief Justice and Justice Gorsuch join all but Parts IV and
+V of this opinion.
+as of the Act's enactment, but that sentence was subse-
+quently vacated, such that the offender must face a post-
+Act resentencing? We hold that, under that circumstance, a
+sentence “has not been imposed” for purposes of § 403(b).
+Thus, the First Step Act's more lenient penalties apply.
+I
+Title 18 U. S. C. § 924(c) criminalizes the use or possession
+of a firearm during and in relation to a crime of violence
+or drug-trafficking offense. The statute prescribes a 5-year
+mandatory minimum penalty for any first-time offense,
+which must run consecutively to any other term of imprison-
+ment. §§ 924(c)(1)(A)(i), (c)(1)(D)(ii). Before the First Step
+Act, § 924(c) also contained a recidivism enhancement that
+required imposition of an additional 25 years of imprison-
+ment (on top of the 5-year mandatory minimum) for any
+“second or subsequent conviction under this subsection.”
+§ 924(c)(1)(C)(i) (2006 ed.).
+In Deal v. United States, 508 U. S. 129 (1993), this Court
+interpreted that recidivism-related language to require an
+enhanced penalty for each and every § 924(c) count of convic-
+tion beyond a defendant's first—even if those convictions
+were part of the same criminal prosecution. Id., at 132–137.
+As a result, a first-time offender convicted of two § 924(c)
+counts would receive a mandatory 25-year sentence on the
+second count, “stacked” upon (i. e., running consecutively to)
+the first count's mandatory 5-year sentence, for a total of 30
+years of imprisonment. 1 And each additional § 924(c) count
+would add another 25 years to that defendant's total term of
+incarceration. See id., at 131–132. Under this “stacking”
+interpretation of § 924(c)'s recidivism enhancement, sen-
+1 When this Court decided Deal in 1993, the enhanced mandatory mini-
+mum penalty under § 924(c) was 20 years. See 18 U. S. C. § 924(c) (1988
+ed.). Congress increased the mandatory minimum to 25 years in 1998.
+See § 924(c) (1994 ed., Supp. IV); 112 Stat. 3469.
+tences for § 924(c) offenses ballooned rapidly to span decades
+or even centuries.
+On December 21, 2018, a supermajority of Congress
+enacted the First Step Act, a landmark piece of legislation
+that changed the federal criminal-sentencing system in nu-
+merous respects. See 132 Stat. 5194. Among other things,
+§ 403(a) of the First Step Act “clarif[ed]” that district court
+judges are not required to impose stacked 25-year sentences
+when sentencing first-time § 924(c) offenders. Id., at 5221–
+5222 (capitalization deleted). Abrogating this Court's deci-
+sion in Deal, the statute established instead that, for first-
+time offenders, 5-year mandatory minimums apply to each
+count of conviction.
+The First Step Act also addressed the potential for retro-
+active application of this penalty reduction, by specifically
+identifying the § 924(c) offenders to whom the Act applied.
+Ordinarily, because judges impose sentences based on the
+statutory penalties that exist at the time defendants commit
+their offenses, 1 U. S. C. § 109, statutory changes to federal
+penalties only benefit future offenders. But Congress al-
+tered this default no-retroactivity rule in the Act itself.
+Section 403(b)—titled “ Applicability to Pending
+Cases”—made § 403(a)'s reduced penalties applicable to cer-
+tain existing § 924(c) offenders, as follows:
+“This section, and the amendments made by this section,
+shall apply to any offense that was committed before the
+date of enactment of this Act, if a sentence for the of-
+fense has not been imposed as of such date of enact-
+ment.” § 403(b), 132 Stat. 5222.
+II
+In 2009, petitioners Tony Hewitt, Corey Duffey, and Jarvis
+Ross were convicted of multiple counts of bank robbery and
+conspiracy to commit bank robbery, along with correspond-
+ing § 924(c) offenses for use of a firearm during a crime of
+violence. Each petitioner received a mandatory 5-year sen-
+tence as to their first § 924(c) count of conviction. And, de-
+spite being first-time offenders, each received 25-year man-
+datory sentences on every § 924(c) count beyond their first.
+Thus, in total, each petitioner's sentence exceeded 325 years.
+Roughly 25 of those years were due to the robbery offenses
+themselves, while the rest were attributable to stacked
+§ 924(c) counts.
+Petitioners successfully challenged some of their convic-
+tions on direct appeal, and the Fifth Circuit accordingly va-
+cated petitioners' sentences. 2 In 2012, the District Court
+resentenced each petitioner to between 285 and 305 years on
+the counts that remained—sentences that the Fifth Circuit
+affirmed on direct review. Petitioners also fled postconvic-
+tion motions under 28 U. S. C. § 2255, which were each
+denied.
+After Congress passed the First Step Act in 2018, this
+Court held that the “crime of violence” definition the Gov-
+ernment routinely used to support some § 924(c) convictions
+was unconstitutionally vague. See United States v. Davis,
+588 U. S. 445, 470 (2019). Because that holding potentially
+affected some of petitioners' remaining convictions, the Fifth
+Circuit granted petitioners authorization to fle a second or
+successive postconviction motion under 28 U. S. C. § 2255.
+The District Court then vacated the impacted § 924(c) convic-
+tions, as well as petitioners' sentences.
+When the District Court held resentencings for the re-
+maining convictions, petitioners argued that the First Step
+Act's 5-year—not 25-year—mandatory minimum penalties
+applied. Petitioners argued that they were entitled to ret-
+roactive application of the First Step Act's more lenient pen-
+2 Petitioners were initially convicted of attempted bank robbery, too.
+Those convictions—along with the corresponding § 924(c) counts—were
+vacated following petitioners' successful challenges on direct appeal. See
+United States v. Duffey, 456 Fed. Appx. 434, 444–445 (CA5 2012).
+alties because a vacated prior sentence is not a sentence that
+“has . . . been imposed” for purposes of § 403(b). 3 The Dis-
+trict Court disagreed and resentenced petitioners under the
+pre-Act sentencing scheme, giving them stacked 25-year
+mandatory minimum sentences for each § 924(c) count of con-
+viction beyond their first. Petitioners thus each received
+sentences of 130 years or more—105 years of which were
+attributable to stacked § 924(c) penalties.
+On appeal, petitioners and the Government agreed that
+the First Step Act should have applied at petitioners' resen-
+tencings. The parties thus jointly requested vacatur of peti-
+tioners' sentences, which the Fifth Circuit denied. 92 F. 4th
+304, 310 (2024) (case below). In that court's view, § 403(b)
+applies only “to defendants for whom `a sentence . . . ha[d]
+not been imposed' as of the enactment date.” Ibid. (alter-
+ation in original). Because each petitioner had been sen-
+tenced (twice) prior to the Act's enactment, the panel con-
+cluded that petitioners were not eligible for the First Step
+Act's more lenient mandatory minimums.
+We granted certiorari to decide whether § 403(b) of the
+First Step Act confers the benefit of the Act's more lenient
+penalties to defendants facing post-Act resentencing follow-
+ing vacatur of their pre-Act sentence. 603 U. S. 904 (2024). 4
+3 During Duffey's and Ross's resentencings before the District Court,
+the Government maintained that petitioners were ineligible for First Step
+Act relief. But, by the time of Hewitt's resentencing, the Government
+had changed its position; it supported Hewitt's request for resentencing
+under the Act.
+4 The Courts of Appeals have divided over whether offenders who were
+sentenced pre-Act, but whose sentences were later vacated, are eligible to
+receive First Step Act benefits at their post-Act resentencing. Compare
+United States v. Merrell, 37 F. 4th 571, 577–578 (CA9 2022) (holding that,
+under § 403(b), such an offender benefits from the Act at resentencing),
+and United States v. Mitchell, 38 F. 4th 382, 386–389 (CA3 2022) (same),
+with United States v. Jackson, 995 F. 3d 522, 525–526 (CA6 2021) (holding
+that such an offender does not benefit from the Act at resentencing, if the
+prior sentence was vacated after the Act's enactment); see also United
+States v. Uriarte, 975 F. 3d 596, 601–602, and n. 3 (CA7 2020) (en banc)
+Because the United States agrees with petitioners on the
+merits of their appeals, the Court appointed Michael H. Mc-
+Ginley as amicus curiae to defend the judgment below. 603
+U. S. 939 (2024). He has ably discharged his responsibilities.
+III
+The Fifth Circuit held, and amicus and the dissent con-
+tend, that § 403(b) excludes any defendant who was sen-
+tenced prior to the enactment date of the First Step Act—
+even if his sentence was later vacated. That is so, in their
+view, because the Act applies only “if a sentence for the of-
+fense has not been imposed as of” the Act's enactment date,
+and a sentence “has . . . been imposed” upon that defendant
+as a matter of historical fact. 132 Stat. 5222 (emphasis
+added). But based on the text of § 403(b) and the nature of
+vacatur, we conclude that a sentence has been imposed for
+purposes of that provision if, and only if, the sentence is ex-
+tant—i. e., has not been vacated.
+A
+To understand why this is so, focus first on the language
+Congress used. Most notably, the operative phrase is not
+written in the past-perfect tense, excluding anyone upon
+whom a sentence “had” been imposed. Rather, Congress
+employed the present-perfect tense—thereby requiring eval-
+uation of whether “a sentence . . . has . . . been imposed”
+upon the defendant. § 403(b), 132 Stat. 5222 (emphasis
+added). In this context, that distinction makes a difference.
+See United States v. Wilson, 503 U. S. 329, 333 (1992) (“Con-
+gress' use of a verb tense is significant in construing
+statutes”).
+The present-perfect tense can refer to either (1) “an act,
+state, or condition that is now completed” or (2) “a past ac-
+(holding that such an offender benefits from the Act if his sentence was
+vacated prior to the Act's enactment date, but reserving judgment as to
+postenactment vacatur).
+tion that comes up to and touches the present.” The Chi-
+cago Manual of Style § 5.132, p. 268 (17th ed. 2017) (emphasis
+added). But when used in either sense, the tense simultane-
+ously “involves reference to both past and present.” R.
+Huddleston & G. Pullum, The Cambridge Grammar of the
+English Language 143 (2002). That is, while “the primary
+focus is on the present,” the past maintains “ `current rele-
+vance.' ” Ibid. (confirming that the present-perfect tense
+addresses “a time-span beginning in the past and extending
+up to now”). 5 Thus, one might employ the present-perfect
+tense to describe situations “involv[ing] a specific change of
+state” that produces a “continuing result.” Id., at 145 (bold-
+face deleted).
+Here is an example. Suppose the U. S. Olympic Commit-
+tee enacted a rule stating that athletes may call themselves
+Olympic champions if a gold medal “has been awarded” to
+them. Pursuant to that rule, a U. S. sprinter who took first
+place in the 2016 Summer Olympics' 100-meter fnals could
+validly proclaim—today—that she is “an Olympic champion.”
+The existence of her win as a historical event triggers the
+rule's proper application, because it gives rise to the infer-
+ence that the athlete remains an Olympic gold medalist at
+present, thereby justifying her continued use of the “Olympic
+champion” title. See ibid. (explaining that the relevant
+“connection with the present” here would be “that the resul-
+tant state still obtains now”).
+5 A primary faw of the dissent's textual argument is its failure to ap-
+preciate that, under either meaning of the present perfect, the event in
+question must relate to now. In other words, while the dissent accurately
+observes that the present-perfect tense can be used in one of two ways,
+see post, at 443 (opinion of Alito, J.), it ignores that neither refers to
+circumstances that are wholly in the past. What makes this the present-
+perfect tense is that, in each of its manifestations, there exists a connec-
+tion to the present. See Huddleston, Cambridge Grammar of the English
+Language, at 143 (confirming that references “to times wholly before
+now”—when the present “is explicitly or implicitly excluded”—are largely
+“incompatible with the present perfect”).
+But now imagine that the Olympic Committee stripped
+this sprinter of her medal after discovering that she used
+performance-enhancing drugs during the competition. Can
+that athlete, under the rule, still call herself an Olympic
+champion? The answer is no. Yes, she had been awarded
+such a medal, but it was revoked; the fact that she stood on
+the podium and was declared the winner in 2016 is inapposite
+for purposes of establishing whether she qualifies for
+Olympic-champion bragging rights under the rule today. 6
+When used in this way, the present-perfect tense conveys
+to a listener that the event in question continues to be true
+or valid. The dissent counters that, for purposes of the
+First Step Act, the relevant moment of analysis should not
+be the present, but rather the statute's date of enactment.
+See post, at 444. But that reframing is inconsistent with
+normal understandings of the present-perfect tense, which
+by definition focuses on the present.7 Today, if an event is
+merely a relic of history because it was voided by a subse-
+quent action, the past-perfect (not the present-perfect) tense
+6 The dissent does not dispute that a sprinter who is divested of her gold
+medal no longer qualifies as an “Olympic champion” under the hypothetical
+rule. Nor does the dissent contest that, if the Committee wanted such a
+disqualifed sprinter to be able to still claim the title, it could phrase the
+rule in the past-perfect tense to accomplish that result (i. e., bestowing
+the honorifc if a gold medal “had been awarded” to the athlete). The
+dissent's primary response to this hypothetical is, instead, to zero in on
+“[t]he obvious purpose of the hypothetical rule” and to explain that “the
+meaning of language is heavily dependent on context.” Post, at 449, n. 3.
+Part IV of this opinion fully addresses the context of § 403(b)'s language
+and Congress's primary objectives for enacting that provision—both of
+which support the Court's conclusion in these cases.
+7 And, notably, there is a relevant connection to the present in the opera-
+tion of § 403(b) despite that statute's express reference to the date of the
+Act's enactment: the current occasion of the sentencing of the defendant
+in question. Sentencing courts read statutes at the moment of their appli-
+cation—which, here, would be the moment of resentencing, not the mo-
+ment of enactment. From that proper vantage point, petitioners were
+not subject to a sentence, as any previous sentence had been vacated.
+would usually be the more appropriate verb choice. See B.
+Garner, Modern English Usage 1082 (5th ed. 2022) (explain-
+ing that the past-perfect tense “represents an action as com-
+pleted at some definite time in the past—that is, before some
+other past time referred to”); Chicago Manual of Style
+§ 5.133, at 268 (confirming that the past perfect “refers to an
+act, state, or condition that was completed before another
+specified or implicit past time or past action”). Our disquali-
+fed sprinter could thus still boast of her Olympic-champion
+status if the rule were, instead, that any athlete who
+“had been awarded” a gold medal was entitled to use that
+honorifc.
+The fact that adjacent provisions of § 403 contain past-
+tense verbs only strengthens the conclusion that § 403(b)'s
+use of the present-perfect tense is meaningful. Cf. Barrett
+v. United States, 423 U. S. 212, 217 (1976) (emphasizing when
+Congress “used the present perfect tense . . . in contrast to
+its use of the present tense” elsewhere in the statute). Sec-
+tion 404(c), for example, utilizes the simple past tense to ad-
+dress a defendant's prior sentencing. See 132 Stat. 5222
+(“No court shall entertain a motion made under this section
+to reduce a sentence if the sentence was previously imposed
+or previously reduced in accordance with” the relevant
+amendments (emphasis added)). The past tense also fea-
+tures earlier in § 403(b) itself. See ibid. (covering “any of-
+fense that was committed before the date of enactment of
+[the] Act” (emphasis added)). But the verb tense at issue
+here (“has been”) is conspicuously different—making only
+clearer that a past sentence must have a relevant connection
+to the present for purposes of the retroactivity provision.
+Indeed, amicus and the dissent's historical-fact reading of
+§ 403(b) calls so naturally for the past-perfect tense that ju-
+rists who share this view often employ that tense by default.
+The Fifth Circuit below, for instance, stated that “the First
+Step Act applies to defendants for whom `a sentence . . . ha[d]
+not been imposed' as of the enactment date.” 92 F. 4th, at
+310 (alteration in original). Other courts have construed
+§ 403(b) similarly. See, e. g., United States v. Jackson, 995
+F. 3d 522, 525 (CA6 2021) (noting that “as of December 21,
+2018, a sentence had been imposed” upon the defendant, even
+though it was later vacated). Congress of course “could
+have phrased its requirement in language that looked to the
+past . . . , but it did not choose this readily available option.”
+Gwaltney of Smithfeld, Ltd. v. Chesapeake Bay Founda-
+tion, Inc., 484 U. S. 49, 57 (1987). The natural inference,
+then, is that Congress meant what it said, and, thus, that
+§ 403(b) covers only past sentences with continued legal va-
+lidity, not those that have been vacated.
+B
+Background principles regarding the legal effect of vaca-
+tur confirm that a sentence has been imposed for § 403(b)
+purposes only so long as it remains valid. When interpret-
+ing statutes, we “recogniz[e] that `Congress legislates
+against the backdrop' of certain unexpressed presump-
+tions.” Bond v. United States, 572 U. S. 844, 857 (2014)
+(quoting EEOC v. Arabian American Oil Co., 499 U. S. 244,
+248 (1991)). One such presumption is that vacated court or-
+ders are void ab initio and thus lack any prospective legal
+effect. See United States v. Ayres, 9 Wall. 608, 610 (1870)
+(“[V]acating the former judgment . . . render[s] it null and
+void, and the parties are left in the same situation as if no
+trial had ever taken place in the cause”). By operation of
+legal fiction, the law acts as though the vacated order never
+occurred.
+A criminal defendant whose judgment of conviction has
+been vacated, for example, is to be treated going forward
+as though he were never convicted. See Fiswick v. United
+States, 329 U. S. 211, 223 (1946) (confirming that one whose
+conviction is vacated “stand[s] in the position of any [person]
+who has been accused of a crime but not yet shown to have
+committed it”). Thus, if Congress were to pass a stimulus
+provision that gives checks to any small-business owner who
+“has not been convicted of fraud,” an owner would not be
+rendered ineligible on the basis of a fraud conviction that
+was overturned on appeal. While the owner had been con-
+victed of fraud, that judgment was invalidated and therefore
+became legally inoperable. In other words, that vacated
+conviction is subsequently treated as no conviction at all.
+See North Carolina v. Pearce, 395 U. S. 711, 721 (1969) (veri-
+flying that vacatur causes a conviction to be “wholly nullifed
+and the slate wiped clean”). 8
+Section 403(b) reflects this “common-sense” understanding
+of background vacatur principles. Lewis v. United States,
+445 U. S. 55, 61, n. 5 (1980). Just as defendants with vacated
+prior felony convictions are not precluded from possessing
+weapons under the federal felon-in-possession ban, § 403(b)
+retroactivity does not exclude from its ambit those whose
+prior sentences have been vacated. See ibid.; 18 U. S. C.
+§ 922(g)(1); see also Pepper v. United States, 562 U. S. 476,
+507 (2011) (explaining that vacatur of a criminal sentence
+“wipe[s] the slate clean”).
+8 The dissent erroneously suggests that, under our precedents, a vacated
+sentence continues to exist as a historical fact and thus retains prospective
+legal effect. See post, at 451–453. But the cases it cites do not support
+that contention. In Lewis v. United States, 445 U. S. 55 (1980), for exam-
+ple, we considered whether the invalidity of one's predicate felony convic-
+tion precludes conviction as a felon in possession of a weapon under federal
+law. Id., at 58. We concluded the federal conviction could stand when
+the defendant's prior felony conviction had “never been overturned”—i. e.,
+vacated—at the time he possessed the weapon. Id., at 57. But we dis-
+missed as “extreme” arguments suggesting that a vacated conviction could
+have such prospective legal effect. Id., at 61, n. 5 (confirming the “common-
+sense” notion that “a disability based upon one's status as a convicted
+felon” ceases as a matter of law as soon as “the conviction upon which that
+status depends has been vacated”). Bravo-Fernandez v. United States,
+580 U. S. 5 (2016), is similarly unhelpful. That case concerned issue pre-
+clusion and jury findings and does not stand for the proposition that a
+vacated order itself retains continuing legal effect in the relevant sense.

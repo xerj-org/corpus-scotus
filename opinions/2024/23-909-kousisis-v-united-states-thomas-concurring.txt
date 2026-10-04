@@ -1,0 +1,399 @@
+Kousisis v. United States — No. 23-909 — October Term 2024 — decided 5/22/25 — Thomas, J., concurring
+Citation: 605 U.S. 114
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r32_f2ah.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+“Under the theory,” they say, “every intentional misrepre-
+sentation designed to induce someone to transact in property
+would constitute property fraud.” Brief for Petitioners 40.
+In their view, this result threatens fair notice and, by en-
+croaching into States' police powers, runs headlong into prin-
+ciples of federalism. Id., at 38–39.
+We are not persuaded. The “demanding” materiality re-
+quirement substantially narrows the universe of actionable
+misrepresentations. Universal Health Services, 579 U. S.,
+at 194. And the boundaries of the fraudulent-inducement
+theory are not so imprecise as to risk encroachment on
+States' authority or to “create traps” for the “unwary.”
+Snyder v. United States, 603 U. S. 1, 15 (2024). Rather, the
+theory criminalizes a particular species of fraud: intention-
+ally lying to induce a victim into a transaction that will cost
+her money or property. As Judge Learned Hand put it, “[a]
+man is none the less cheated out of his property, when he is
+induced to part with it by fraud, because he gets a quid pro
+quo of equal value.” United States v. Rowe, 56 F. 2d 747,
+749 (CA2 1932).
+The “language of the wire fraud statute” is undeniably
+“broad.” Pasquantino, 544 U. S., at 372. But Congress
+enacted the wire fraud statute, and it is up to Congress—if
+it so chooses—to change it.
+* * *
+Fraudulent inducement “has long been considered a spe-
+cies of actionable fraud.” United States v. Feldman, 931
+F. 3d 1245, 1270 (CA11 2019) (Pryor, J., concurring). Be-
+cause the Third Circuit's judgment comports with § 1343, we
+affirm it.
+It is so ordered.
+Justice Thomas, concurring.
+Petitioners Stamatios Kousisis and Alpha Painting and
+Construction Co., Inc., ask the Court to add an economic-
+loss requirement to the federal wire-fraud statute, 18 U. S. C.
+§ 1343. The Court correctly rejects that request, and I join
+its opinion in full.
+I write separately to address an issue that the Court re-
+serves: whether petitioners' misstatements were “material,”
+and thus actionable, under § 1343. When the Government
+prosecutes a defendant for wire fraud under a theory of
+fraudulent inducement, the requirement of “materiality” pro-
+vides “the principled basis for distinguishing everyday mis-
+statements from actionable fraud.” Ante, at 131. Because
+petitioners “have not contested that their misrepresenta-
+tions were material,” the Court has no occasion to pass on
+that issue today. Ante, at 132. But, I am skeptical that
+petitioners' misrepresentations were material.
+I
+Petitioners entered into contracts with the Pennsylvania
+Department of Transportation (PennDOT) for the restora-
+tion of two Philadelphia properties, the Girard Point Bridge
+and the 30th Street Station. The purpose of the Girard
+Point Bridge contract was the “preservation of the Girard
+Point Bridge.” App. 108. The 30th Street Station contract
+had a similar goal: the “[r]ehabilitation of bridges.” Id., at
+169. To achieve these goals, the contracts required paint-
+ing, structural steel repairs, roadway reconstruction, and
+other miscellaneous construction projects.
+The contracts for these two jobs totaled more than a thou-
+sand pages and imposed numerous regulatory, technical, and
+ethical obligations. Among other things, the agreements
+required petitioners to abide by the Workmen's Compensa-
+tion Act of 1915; to follow specific “Buy America Provisions”
+that required petitioners to use steel and iron manufactured
+in the United States; to generally avoid using “materials
+produced by convict labor”; and to “not discriminate on the
+basis of race, color, national origin or sex.” See, e. g., App.
+112, 114, 117–119, 173, 175.
+The contracts also required petitioners to “carry out appli-
+cable requirements of 49 C.F.R. Part 26,” id., at 114, 175 (em-
+phasis deleted), which implements the Federal Government's
+Disadvantaged Business Enterprise (DBE) program. The
+DBE program is the Government's “most far-reaching fed-
+eral status-based contracting program.” D. Bernstein, The
+Modern American Law of Race, 94 S. Cal. L. Rev. 171, 208
+(2021) (Bernstein). Established in 1983, it sets a goal that
+at least 10 percent of federal funds authorized for any high-
+way and transit program “be expended with small business
+concerns owned and controlled by socially and economically
+disadvantaged individuals.” Surface Transportation Assist-
+ance Act of 1982, 96 Stat. 2100. Under Department of
+Transportation (DOT) regulations, a small business qualifies
+as a so-called DBE if it is “at least 51 percent owned by one
+or more individuals who are both socially and economically
+disadvantaged,” and managed and controlled “by one or
+more of the socially and economically disadvantaged individ-
+uals who own it.” 49 CFR § 26.5 (2024).
+DOT defines the term “socially and economically disadvan-
+taged” primarily on the basis of race and sex. The program
+“rebuttably presume[s]” that any member of certain enumer-
+ated races “has been subjected to racial or ethnic prejudice
+or cultural bias within American society because of his or
+her identity as a member of a group,” and thus qualifies as a
+“socially and economically disadvantaged individual.” Ibid.
+Among the groups presumptively eligible for DBE benefits
+are “ `Black Americans,' ” “ `Hispanic Americans,' ” “ `Native
+Americans,' ” “ `Asian-Pacifc Americans,' ” and “ `Subconti-
+nent Asian Americans.' ” Ibid. The DBE program also
+provides this favorable presumption to women. Ibid .
+DBE certifers “may not question claims of group member-
+ship as a matter of course.” § 26.67(a)(3). Thus, “[i]n prac-
+tice, being certified as a `minority' to get presumptive status
+as the owner of a disadvantaged business eligible for prefer-
+ences primarily operates on the honor code, as the informa-
+tion is rarely verifed.” Bernstein 223.
+While those excluded from DOT's list of presumptively
+disadvantaged groups may “attempt to prove” sufficient dis-
+advantage, § 26.67(d)(1), the application process is “a high
+hurdle,” Mid-America Milling Co., LLC v. United States
+Dept. of Transp., 2024 WL 4267183, *9 (ED Ky., Sept. 23,
+2024). For example, “[a] White male claiming to have expe-
+rienced employment discrimination” must submit a detailed
+“Personal Narrative” providing evidence that “his employ-
+ment status and/or limited opportunities to earn income re-
+sult from specific prejudicial acts directed at him personally
+because of an [objective distinguishing feature].” § 26.67(d).
+PennDOT incorporated DBE goals into both contracts at
+issue in this case, and, as the majority explains, petitioners
+misrepresented their compliance with those provisions. See
+ante, at 119. The Government prosecuted petitioners under
+18 U. S. C. § 1343, alleging fraudulent inducement. Ante, at
+118. The jury convicted, and petitioner Kousisis was sen-
+tenced to nearly six years in prison.
+II
+Although the Court leaves the question of materiality for
+another day because it was uncontested here, ante, at 131–
+132, materiality is an element that the Government must sat-
+isfy in any federal wire-fraud prosecution. See Neder v.
+United States, 527 U. S. 1, 25 (1999). The Government ar-
+gues that the standard for materiality in this context is the
+one this Court articulated in Universal Health Services, Inc.
+v. United States ex rel. Escobar , 579 U. S. 176 (2016)—
+whether a misrepresentation went to the very “ `essence of
+the bargain,' ” Brief for United States 43 (quoting Universal
+Health Services, 579 U. S., at 194, n. 5). I seriously doubt
+that the DBE provisions can meet this standard.
+A
+Universal Health Services presented the question
+whether “a defendant should face False Claims Act liability
+only if it fails to disclose the violation of a contractual, statu-
+tory, or regulatory provision that the Government expressly
+designated a condition of payment.” Id., at 190. While we
+rejected that limitation, we stressed that “a misrepresenta-
+tion about compliance with a statutory, regulatory, or con-
+tractual requirement must be material to the Government's
+payment decision in order to be actionable” under the False
+Claims Act (FCA). Id., at 192.
+We further observed that, “[u]nder any understanding of
+the concept, materiality `look[s] to the effect on the likely or
+actual behavior of the recipient of the alleged misrepresenta-
+tion.' ” Id., at 193 (quoting 26 R. Lord, Williston on Con-
+tracts § 69:12, p. 549 (4th ed. 2003) (Williston)). In contract-
+ing specifically, “ `[a] misrepresentation is material' only if it
+would `likely . . . induce a reasonable person to manifest his
+assent,' or the defendant `knows that for some special reason
+[the representation] is likely to induce the particular recipi-
+ent to manifest his assent' to the transaction.” 579 U. S., at
+193 (quoting Restatement (Second) of Contracts § 162(2), and
+Comment c, pp. 439, 441 (1979)). Thus, we explained, for a
+contract term to be material, it must go to “ `the very es-
+sence of the bargain.' ” 579 U. S., at 194, n. 5 (quoting Jun-
+ius Constr. Corp. v. Cohen, 257 N. Y . 393, 400, 178 N. E. 672,
+674 (1931)); see also 23 Williston § 63:3, p. 483 (4th ed. 2018)
+(materiality “ `go[es] to the root' ” of the parties' agreement,
+and “touches the fundamental purpose of the contract”).
+This materiality inquiry does not rest solely on a contract's
+labels. Even in the face of contrary contract language, ma-
+teriality “cannot be found where noncompliance is minor or
+insubstantial.” Universal Health Services, 579 U. S., at 194.
+A party's actions may reveal that a contract term is not ma-
+terial even if the contract's language would suggest other-
+wise. For example, “if the Government regularly pays a
+particular type of claim in full despite actual knowledge that
+certain requirements were violated, and has signaled no
+change in position, that is strong evidence that the require-
+ments are not material.” Id., at 195.
+Applying these “familiar and rigorous” principles, ibid.,
+n. 6, we made clear that regulatory requirements in a con-
+tract are not automatically material. We thus rejected the
+Government's contention that, if it “contracts for health
+services and adds a requirement that contractors buy
+American-made staplers, anyone who submits a claim for
+those services but fails to disclose its use of foreign staplers
+violates the False Claims Act.” Id., at 195–196. That logic
+would have meant that, “if the Government required con-
+tractors to aver their compliance with the entire U. S. Code
+and Code of Federal Regulations, . . . failing to mention non-
+compliance with any of those requirements would always be
+material.” Id., at 196. The FCA, we explained, “does not
+adopt such an extraordinarily expansive view of liability.”
+Ibid.1
+The Court reserved the question whether the standard for
+materiality in the FCA context is identical to the standard
+that applies to wire-fraud prosecutions, id., at 192–193, and
+I express no definitive view on that question here. But, the
+standard we articulated in Universal Health Services was a
+1 In my view, the Court's reluctance to presume the materiality of every
+contract provision is particularly appropriate in the context of Govern-
+ment contracting. The Government often tries to use monetary incen-
+tives to advance political objectives. For example, the Government some-
+times seeks to use its spending power to “create incentives for States to
+act in accordance with federal policies.” National Federation of Inde-
+pendent Business v. Sebelius, 567 U. S. 519, 577 (2012) (plurality opinion).
+And, those policies may bear little relation to the expenditure of federal
+funds. See, e. g., South Dakota v. Dole, 483 U. S. 203, 218 (1987) (O'Con-
+nor, J., dissenting) (arguing that “a condition that a State will raise its
+drinking age to 21” exceeded the Government's spending power because
+it could not “fairly be said to be reasonably related to the expenditure of
+funds for highway construction”). In Government contracting, the Gov-
+ernment's inclusion of political or regulatory requirements unrelated to
+the contracts' core purpose might simply reflect the Government's attempt
+to achieve policy goals by leveraging its unmatched bargaining position.
+The DBE provisions' apparent irrelevance to bridge repair seems to ft
+this pattern. See infra, at 141–142.
+“familiar” one that aligned with authoritative treatises and
+the common law. Id., at 195, n. 6. And, particularly in light
+of the Government's endorsement, see Brief for United
+States 43, it, at minimum, provides a useful baseline for eval-
+uating the DBE provisions' materiality.
+B
+The contracts in this case were for bridge repairs, not mi-
+nority hiring. There are several reasons to think that the
+DBE provisions did not go “ `to the very essence of the bar-
+gain.' ” Universal Health Services, 579 U. S., at 194, n. 5.
+First, the DBE provisions were irrelevant to the contracts'
+fundamental purpose—bridge repair—which suggests that
+they were the sort of “minor or insubstantial” conditions that
+cannot count as material. Id., at 194. As the Third Circuit
+recognized below, although petitioners did not meet Penn-
+DOT's DBE conditions, they “delivered the requested work,
+and the quality of the workmanship and materials [was] un-
+contested.” 82 F. 4th 230, 244 (2023).
+If the DBE conditions “ `went to the very essence of the
+[parties'] bargain,' ” Universal Health Services, 579 U. S., at
+194, n. 5, the failure to meet those conditions presumably
+would have had some impact on the final work product. Ac-
+cord, e. g., Cohen, 257 N. Y ., at 400, 178 N. E., at 674 (describ-
+ing term that goes to an agreement's “essence” as one which,
+if not met, would “destroy the [agreement's] value”); 3511
+13th St. Tenants' Assn. v. 3511 13th St., N. W. Residences,
+LLC, 922 A. 2d 439, 445 (D. C. 2007) (“ `For a breach to be
+material, it must be so serious [as] to destroy the essential
+object of the agreement' ”). But, the DBE conditions had no
+bearing on petitioners' ability to complete their projects.
+See 82 F. 4th, at 244. That disconnect tends to support the
+conclusion that those requirements would not meet the “de-
+manding” materiality standard this Court has articulated.
+Universal Health Services, 579 U. S., at 194; accord, e. g.,
+Landmark Health Solutions, LLC v. Not For Proft Hospital
+Corp., 950 F. Supp. 2d 130, 137–138 (DC 2013) (“[C]ompl[i-
+ance] with the District's requirement to be registered and to
+obtain a license” did not go to “the essential purpose” of a
+contract for “providing management consulting and staffng
+services”).
+Second, the DBE provisions appear to have been less im-
+portant than contract terms going to the quality and timeli-
+ness of bridge repair, further indicating that the latter went
+to the essence of the parties' bargain while the former did
+not. The contracts required PennDOT to deduct payments
+due petitioners if the “work . . . on th[e] project[s]” was late
+or unsatisfactory. App. 109, 170. While the contracts la-
+beled the failure to comply with the DBE provisions “a mate-
+rial breach” that “may result in the termination,” id., at 114,
+175 (emphasis added), nothing in the contracts required
+PennDOT to take any action, let alone to withhold or deduct
+payment. Accord, Brief for United States 19 (DBE noncom-
+pliance “could have resulted in corrective action” (emphasis
+added)).
+As we explained in Universal Health Services, while “the
+Government's decision to expressly identify a provision as a
+condition of payment” is not dispositive of materiality, it is
+still relevant evidence that tends to suggest that a particular
+term is material. 579 U. S., at 194. Tethering payment to
+workmanship and timeliness requirements suggests that the
+essence of the parties' contracts was timely and satisfactory
+“work . . . on th[e] project[s]”—that is, “painting, structural
+steel repairs, expansion dam repairs, latex modified concrete
+overlay, and other miscellaneous construction,” or, more gen-
+erally, the “[r]ehabilitation of bridges,” App. 108–109, 169–
+170. Read “with reference to the whole” contract, 11 Willis-
+ton § 32:5, p. 692 (4th ed. 2012), the comparative absence of
+any such express conditions for DBE noncompliance counsels
+against reading those provisions into the contract's “funda-
+mental purpose,” 23 id., § 63:3, at 483.
+Third, we have explained that the Government's decision
+to fulfill its end of a bargain “despite actual knowledge that
+certain requirements were violated” is very “strong evidence
+that those requirements are not material,” Universal Health
+Services, 579 U. S., at 195, and similar logic might apply
+where, as here, contract violations are notorious and wide-
+spread. No one contends that the Government had “actual
+knowledge” of petitioners' fraud when it entered into the
+contracts. Ibid. But, if DBE fraud is so prevalent that the
+Government would have to assume a significant number of
+its contractors violate contract provisions requiring DBE
+compliance, that fact could cast further doubt on those provi-
+sions' materiality.
+Reports of fraud in the Government's small-business-
+contracting programs have “emerge[d] with some regular-
+ity,” making fraud in these programs “a perennial concern
+for Congress and commentators.” Congressional Research
+Service, K. Manuel & E. Lunder, Federal Contracting and
+Subcontracting With Small Businesses: Issues in the 112th
+Congress 33 (2012). The DBE program is no exception:
+Fraudulent DBE schemes where minority and women con-
+tractors are used as “ `false front[s]' ” is “an area with serious
+enforcement and compliance problems that appears to be na-
+tionwide in scope.” Oversight Hearing on the Elimination
+of Waste, Fraud, and Abuse in Mandatory Transportation
+Programs before the House Committee on Transportation
+and Infrastructure, 108th Cong., 1st Sess., 109 (2003) (Over-
+sight Hearing). Legislators have long recognized that DBE
+fraud is a substantial problem, and that “people are just laugh-
+ing about the system” and “gaming the system blatantly.”
+Id., at 38–39; see also id., at 36 (DOT Inspector General testi-
+flying that DBE fraud “is a serious problem”).
+Looking at materiality “from the viewpoint of the [alleg-
+edly misleading statement's] maker,” Restatement (Second)
+of Contracts § 162, Comment c, at 441, knowledge of rampant
+misrepresentations in the DBE program could suggest to a
+reasonable contractor that, contract language notwithstand-
+ing, the Government does not actually consider DBE compli-
+ance essential to its contracts. Pervasive fraud also sug-
+gests that the Government may be continuing performance
+on its contracts despite knowing that its counterparties fre-
+quently violate DBE requirements, further counseling
+against those terms' materiality. See Universal Health
+Services, 579 U. S., at 193–194, n. 5, 195. 2
+Fourth, if complying with the DBE provisions would violate
+the law, it is difficult to see how representing such compliance
+“would be likely to induce a reasonable person to manifest his
+assent.” Restatement (Second) of Contracts § 162, Comment
+c, at 441. Among other things, the DBE program imposes an
+explicitly race-based classification system, see supra, at 137–
+138, which warrants “the strictest judicial scrutiny,” Ada-
+rand Constructors, Inc. v. Peña, 515 U. S. 200, 224 (1995).
+Thus, for the program to survive, the Government would
+need to prove that it addresses “past governmental discrimi-
+nation” that is “concrete and traceable to the de jure segre-
+gated system,” and that the segregated system has “discrete
+and continuing discriminatory effect.” Students for Fair
+Admissions, Inc. v. President and Fellows of Harvard Col-
+lege, 600 U. S. 181, 260 (2023) (Thomas, J., concurring).
+2 Justice Sotomayor observes that “[n]o cited portion of the record”
+shows that PennDOT paid contracts in full despite actual knowledge that
+the DBE terms were being violated. Post, at 163 (opinion concurring in
+judgment). I have recognized as much, see supra, at 143, which is why I
+suggest that my materiality analysis might apply in different DBE-
+compliance prosecutions “where materiality is contested,” infra, at 146.
+For similar reasons, Justice Sotomayor’s critique of “reports from dec-
+ades prior” misses the mark. Post, at 163. The reports and testimony I
+cite provide examples suggesting that, in other DBE-compliance prosecu-
+tions, defendants may be able to build records demonstrating that the
+Government pays contractors despite knowing that they do not comply
+with DBE provisions. Justice Sotomayor does not dispute that, if pre-
+sented, such records would constitute “strong evidence that [DBE] require-
+ments are not material.” Universal Health Services, 579 U. S., at 195.
+I am skeptical that the Government could meet this high
+bar. While the Government has not been put to the test in
+this case, it appears to have elsewhere endorsed the DBE
+program's race-based benefits on the ground that “minorities
+represent more than 20% of the population” yet “own only
+9% of all construction frms and receive only about 5% of
+construction receipts.” Oversight Hearing, at 41. But,
+“ `[p]roving broad sociological propositions by statistics is a
+dubious business, and one that inevitably is in tension with
+the normative philosophy that underlies the Equal Protec-
+tion Clause.' ” Lamprecht v. FCC, 958 F. 2d 382, 398 (CADC
+1992) (Thomas, Cir. J., for the court) (quoting Craig v. Boren,
+429 U. S. 190, 204 (1976)). And, at least one court has pre-
+liminarily enjoined the Government's use of DBE goals be-
+cause the Government could not “justify [the DBE pro-
+gram's] discriminatory policies.” Mid-America Milling Co.,
+2024 WL 4267183, *11.
+It is implausible to think that a “ `reasonable person' ”
+would “ `attach importance' ” to contract provisions that
+mandate constitutional violations. Universal Health Serv-
+ices, 579 U. S., at 193, n. 5. The same intuition applies to
+Government actors. Cf. Postal Service v. Gregory, 534 U. S.
+1, 10 (2001) (“[A] presumption of regularity attaches to the
+actions of Government agencies”). Thus, if the Government
+cannot demonstrate the constitutionality of the DBE pro-
+gram, I doubt that a provision requiring compliance with the
+program could go to the essence of the parties' bargain—
+particularly here, given that the very same provisions re-
+quiring DBE compliance simultaneously prohibit “discrimi-
+nat[ion] on the basis of race, color, national origin or sex.”
+App. 114, 175. 3
+3 “[A] claim of unconstitutionality” will not “excuse a voluntary, deliber-
+ate and calculated course of fraud and deceit,” Dennis v. United States,
+384 U. S. 855, 867 (1966), but the question whether that unconstitutionality
+might contribute to materiality is distinct. No one disputes that petition-
+ers did not “rais[e] a challenge to the DBE program's constitutionality.”
+Post, at 164 (opinion of Sotomayor, J.). But, had petitioners done so, they

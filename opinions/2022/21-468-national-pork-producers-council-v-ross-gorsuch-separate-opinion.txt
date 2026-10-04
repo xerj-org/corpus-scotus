@@ -1,0 +1,330 @@
+National Pork Producers Council v. Ross — No. 21-468 — October Term 2022 — decided 5/11/23 — Opinion of Gorsuch, J.
+Citation: 598 U.S. 356
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r18_g2bh.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+petitioners' claim falls well outside Pike's heartland. That
+is not an auspicious start.
+B
+Matters do not improve from there. While Pike has tra-
+ditionally served as another way to test for purposeful dis-
+crimination against out-of-state economic interests, and
+while some of our cases associated with that line have ex-
+pressed special concern with certain state regulation of the
+instrumentalities of interstate transportation, see n. 2,
+supra, petitioners would have us retool Pike for a much more
+ambitious project. They urge us to read Pike as authorizing
+judges to strike down duly enacted state laws regulating the
+in-state sale of ordinary consumer goods (like pork) based on
+nothing more than their own assessment of the relevant law's
+“costs” and “benefits.”
+That we can hardly do. Whatever other judicial authori-
+ties the Commerce Clause may imply, that kind of freewheel-
+ing power is not among them. Petitioners point to nothing
+in the Constitution's text or history that supports such a
+project. And our cases have expressly cautioned against
+judges using the dormant Commerce Clause as “a roving
+license for federal courts to decide what activities are ap-
+propriate for state and local government to undertake.”
+United Haulers, 550 U. S., at 343. While “[t]here was a time
+when this Court presumed to make such binding judgments
+for society, under the guise of interpreting the Due Process
+Clause,” we have long refused pleas like petitioners' “to re-
+claim that ground” in the name of the dormant Commerce
+Clause. Id., at 347.
+Not only is the task petitioners propose one the Commerce
+Clause does not authorize judges to undertake. This Court
+has also recognized that judges often are “not institutionally
+suited to draw reliable conclusions of the kind that would be
+necessary . . . to satisfy [the] Pike” test as petitioners con-
+ceive it. Davis, 553 U. S., at 353.
+Our case illustrates the problem. On the “cost” side of the
+ledger, petitioners allege they will face increased production
+expenses because of Proposition 12. On the “benefits” side,
+petitioners acknowledge that Californians voted for Proposi-
+tion 12 to vindicate a variety of interests, many noneconomic.
+See App. to Pet. for Cert. 192a (alleging in their complaint
+that “Proposition 12's requirements were driven by [a] con-
+ception of what qualifies as `cruel' animal housing” and by
+the State's concern for the “ `health and safety of California
+consumers' ”). How is a court supposed to compare or weigh
+economic costs (to some) against noneconomic benefits (to
+others)? No neutral legal rule guides the way. The com-
+peting goods before us are insusceptible to resolution by ref-
+erence to any juridical principle. Really, the task is like
+being asked to decide “whether a particular line is longer
+than a particular rock is heavy.” Bendix Autolite Corp. v.
+Midwesco Enterprises, Inc., 486 U. S. 888, 897 (1988) (Sca-
+lia, J., concurring in judgment).
+Faced with this problem, petitioners reply that we should
+heavily discount the benefits of Proposition 12. They say
+that California has little interest in protecting the welfare of
+animals raised elsewhere and the law's health benefits are
+overblown. But along the way, petitioners offer notable
+concessions too. They acknowledge that States may some-
+times ban the in-state sale of products they deem unethical
+or immoral without regard to where those products are made
+(for example, goods manufactured with child labor). See Tr.
+of Oral Arg. 51 (“[A] state is perfectly entitled to enforce its
+morals in state”); see also Western Union Telegraph Co. v.
+James, 162 U. S. 650, 653 (1896) (holding that States may
+enact laws to “promote . . . public morals”). And, at least
+arguably, Proposition 12 works in just this way—banning
+from the State all whole pork products derived from prac-
+tices its voters consider “cruel.” Petitioners also concede
+that States may often adopt laws addressing even “imper-
+fectly understood” health risks associated with goods sold
+within their borders. Reply Brief 13. And, again, no one
+disputes that some who voted for Proposition 12 may have
+done so with just that sort of goal in mind. See, e. g., USDA
+Proposed Rule To Amend Organic Livestock and Poultry
+Production Requirements, 87 Fed. Reg. 48565 (2022) (afford-
+ing animals more space “may result in healthier livestock
+products for human consumption”).
+So even accepting everything petitioners say, we remain
+left with a task no court is equipped to undertake. On the
+one hand, some out-of-state producers who choose to comply
+with Proposition 12 may incur new costs. On the other
+hand, the law serves moral and health interests of some (dis-
+putable) magnitude for in-state residents. Some might rea-
+sonably find one set of concerns more compelling. Others
+might fairly disagree. How should we settle that dispute?
+The competing goods are incommensurable. Your guess is
+as good as ours.
+More accurately, your guess is better than ours. In a func-
+tioning democracy, policy choices like these usually belong
+to the people and their elected representatives. They are
+entitled to weigh the relevant “political and economic” costs
+and benefits for themselves, Moorman Mfg. Co. v. Bair, 437
+U. S. 267, 279 (1978), and “try novel social and economic ex-
+periments” if they wish, New State Ice Co. v. Liebmann, 285
+U. S. 262, 311 (1932) (Brandeis, J., dissenting). Judges can-
+not displace the cost-benefit analyses embodied in democrati-
+cally adopted legislation guided by nothing more than their
+own faith in “Mr. Herbert Spencer's Social Statics,” Lochner
+v. New York, 198 U. S. 45, 75 (1905) (Holmes, J., dissenting)—
+or, for that matter, Mr. Wilson Pond's Pork Production Sys-
+tems, see W. Pond, J. Maner, & D. Harris, Pork Production
+Systems: Efficient Use of Swine and Feed Resources (1991).
+If, as petitioners insist, California's law really does
+threaten a “massive” disruption of the pork industry, see
+Brief for Petitioners 2, 4, 19—if pig husbandry really does
+“ `imperatively demand' ” a single uniform nationwide rule,
+id., at 27—they are free to petition Congress to intervene.
+Under the (wakeful) Commerce Clause, that body enjoys the
+power to adopt federal legislation that may preempt con-
+flicting state laws. That body is better equipped than this
+Court to identify and assess all the pertinent economic and
+political interests at play across the country. And that body
+is certainly better positioned to claim democratic support for
+any policy choice it may make. But so far, Congress has
+declined the producers' sustained entreaties for new legisla-
+tion. See Part I, supra (citing failed efforts). And with
+that history in mind, it is hard not to wonder whether peti-
+tioners have ventured here only because winning a majority
+of a handful of judges may seem easier than marshaling a
+majority of elected representatives across the street.
+C
+Even as petitioners conceive Pike, they face a problem.
+As they read it, Pike requires a plaintiff to plead facts plausi-
+bly showing that a challenged law imposes “substantial bur-
+dens” on interstate commerce before a court may assess the
+law's competing benefits or weigh the two sides against each
+other. Brief for Petitioners 44. And, tellingly, the com-
+plaint before us fails to clear even that bar.
+To appreciate petitioners' problem, compare our case to
+Exxon. That case involved a Maryland law prohibiting pe-
+troleum producers from operating retail gas stations in the
+State. 437 U. S., at 119–121, and n. 1. Because Maryland
+had no in-state petroleum producers, Exxon argued, the
+law's “divestiture requirements” fell “solely on interstate
+companies” and threatened to force some to “withdraw en-
+tirely from the Maryland market” or incur new costs to serve
+that market. Id., at 125–127. All this, the company said,
+amounted to a violation of the dormant Commerce Clause.
+This Court found the allegations in Exxon's complaint in-
+sufficient as a matter of law to demonstrate a substantial
+burden on interstate commerce. Without question, Mary-
+land's law favored one business structure (independent gas
+station retailers) over another (vertically integrated produc-
+tion and retail frms). Ibid. The law also promised to in-
+crease retail gas prices for Maryland consumers, allowing
+some to question its “wisdom.” Id., at 124, 128. But, the
+Court found, Exxon failed to plead facts leading, “either logi-
+cally or as a practical matter, to [the] conclusion that the
+State [was] discriminating against interstate commerce.”
+Id., at 125. The company failed to do so because, on its face,
+Maryland's law welcomed competition from interstate retail
+gas station chains that did not produce petroleum. Id., at
+125–126. And as far as anyone could tell, the law's “practi-
+cal effect” wasn't to protect in-state producers; it was to shift
+market share from one set of out-of-state frms (vertically
+integrated businesses) to another (retail gas station frms).
+Id., at 125, 127. This Court squarely rejected the view that
+this predicted “ `change [in] the market structure' ” would
+“impermissibly burde[n] interstate commerce.” Id., at 127.
+If the dormant Commerce Clause protects the “interstate
+market . . . from prohibitive or burdensome regulations,” the
+Court held, it does not protect “particular . . . frms” or “par-
+ticular structure[s] or methods of operation.” Id., at 127–
+128.
+If Maryland's law did not impose a sufficient burden on
+interstate commerce to warrant further scrutiny, the same
+must be said for Proposition 12. In Exxon, vertically inte-
+grated businesses faced a choice: They could divest their pro-
+duction capacities or withdraw from the local retail market.
+Here, farmers and vertically integrated processors have at
+least as much choice: They may provide all their pigs the
+space the law requires; they may segregate their operations
+to ensure pork products entering California meet its stand-
+ards; or they may withdraw from that State's market. In
+Exxon, the law posed a choice only for out-of-state frms.
+Here, the law presents a choice primarily—but not exclu-
+sively—for out-of-state businesses; California does have
+some pork producers affected by Proposition 12. See App.
+to Pet. for Cert. 205a. In Exxon, as far as anyone could tell,
+the law threatened only to shift market share from one set
+of out-of-state frms to another. Here, the pleadings allow
+for the same possibility—that California market share pre-
+viously enjoyed by one group of proft-seeking, out-of-state
+businesses (farmers who stringently confine pigs and proces-
+sors who decline to segregate their products) will be re-
+placed by another (those who raise and trace Proposition 12-
+compliant pork). In both cases, some may question the
+“wisdom” of a law that threatens to disrupt the existing
+practices of some industry participants and may lead to
+higher consumer prices. 437 U. S., at 128. But the dor-
+mant Commerce Clause does not protect a “particular struc-
+ture or metho[d] of operation.” Id., at 127. That goes for
+pigs no less than gas stations.
+Think of it another way. Petitioners must plead facts
+“plausibly” suggesting a substantial harm to interstate com-
+merce; facts that render that outcome a “speculative” possi-
+bility are not enough. Bell Atlantic Corp. v. Twombly, 550
+U. S. 544, 555, 557 (2007). In an effort to meet this standard,
+petitioners allege facts suggesting that certain out-of-state
+farmers and processing frms will find it difficult to comply
+with Proposition 12 and may choose not to do so. See App.
+to Pet. for Cert. 198a, 208a, 313a. But the complaint also
+acknowledges that many producers have already converted
+to some form of group housing, even if they have not all yet
+met Proposition 12's standards. Id., at 186a. From these
+facts, the complaint plausibly alleges that some out-of-state
+frms may face difficulty complying (or may choose not to
+comply) with Proposition 12. But from all anyone can tell,
+other out-of-state competitors seeking to enhance their own
+profts may choose to modify their existing operations or cre-
+ate new ones to fll the void. 3
+3 Though it is unnecessary to adorn the point, we note that a number of
+smaller out-of-state pork producers have fled an amicus brief in this
+Court hailing the “opportunities” Proposition 12 affords them to compete
+with vertically integrated frms with “ `concentrated market power' ” that
+are wedded to their existing processing practices. Brief for Small and
+Of course, as the complaint alleges, a shift from one set of
+production methods to another promises some costs. Id.,
+at 214a. But the complaint concedes that complying produc-
+ers will be able to “pas[s] along” at least “some” of their
+increased costs to consumers. Id., at 178a. And no one
+thinks that costs ultimately borne by in-state consumers
+thanks to a law they adopted counts as a cognizable harm
+under our dormant Commerce Clause precedents. See
+United Haulers, 550 U. S., at 345 (holding that the dormant
+Commerce Clause is not offended by higher prices “likely to
+fall upon the very people who voted for the [challenged]
+la[w]”). Nor does the complaint allege facts plausibly sug-
+gesting that out-of-state consumers indifferent to pork pro-
+duction methods will have to pick up the tab (let alone ex-
+plain how petitioners might sue to vindicate their interests).
+Instead, at least one declaration incorporated by reference
+into the complaint avers that some out-of-state consumers
+will “not value these changes and will not pay an increased
+price.” App. to Pet. for Cert. 335a; see also Brief for Ag-
+ricultural and Resource Economics Professors as Amici Cu-
+riae 15, 23 (suggesting negligible effect on out-of-state prices
+for consumers not interested in Proposition 12-compliant
+pork). Further experience may yield further facts. But
+the facts pleaded in this complaint merely allege harm to
+Independent Farming Businesses et al. as Amici Curiae 1, 12, 19–20.
+Other amici have noted that even some large vertically integrated proc-
+essing frms have already begun to modify (or else have indicated their
+intention to modify) their operations to comply with Proposition 12. See
+Brief for Perdue Premium Meat Co., Inc., as Amicus Curiae 3–7; see also
+Brief for Economic Research Organizations as Amici Curiae 16–17 (recit-
+ing public statements from Hormel, Smithfeld, and Tyson). Another
+large processing frm, Cargill, has boasted that, “ `[b]efore we sold our
+pork business in 2015, we led the industry in removing gestation stalls to
+house pregnant sows.' ” Id., at 16. Petitioner National Pork Producers
+Council lists Cargill as an “allied industry compan[y].” National Pork
+Producers Council, Pork Alliance Program, https://nppc.org/get-involved/
+join-the-pork-alliance/.
+some producers' favored “methods of operation.” Exxon,
+437 U. S., at 127. A substantial harm to interstate com-
+merce remains nothing more than a speculative possibility.
+Ibid.
+D
+The Chief Justice's concurrence in part and dissent in
+part (call it “the lead dissent”) offers a contrasting view.
+Correctly, it begins by rejecting petitioners' “almost per se”
+rule against laws with extraterritorial effects. Post, at 394.
+And correctly, it disapproves reading Pike to endorse a
+“freewheeling judicial weighing of benefits and burdens.”
+Post, at 395. But for all it gets right, in other respects it
+goes astray. In places, the lead dissent seems to advance
+a reading of Pike that would permit judges to enjoin the
+enforcement of any state law restricting the sale of an ordi-
+nary consumer good if the law threatens an “ `excessive' ”
+“har[m] to the interstate market” for that good. Post, at
+397–403. It is an approach that would go much further than
+our precedents permit. So much further, in fact, that it isn't
+clear what separates the lead dissent's approach from others
+it purports to reject.
+Consider an example. Today, many States prohibit the
+sale of horsemeat for human consumption. See Cavel Int'l,
+Inc. v. Madigan, 500 F. 3d 551, 552–555 (CA7 2007). But
+these prohibitions “har[m] the interstate market” for horse-
+meat by denying outlets for its sale. Not only that, they
+distort the market for animal products more generally by
+pressuring horsemeat manufacturers to transition to differ-
+ent products, ones they can lawfully sell nationwide. Under
+the lead dissent's test, all it would take is one complaint from
+an unhappy out-of-state producer and—presto—the Consti-
+tution would protect the sale of horsemeat. Just find a
+judge anywhere in the country who considers the burden to
+producers “ `excessive.' ” Post, at 402. The same would go
+for all manner of consumer products currently banned by
+some States but not by others—goods ranging from fre-
+works, see, e. g., Mass. Gen. Laws Ann., ch. 148, § 39 (2020),
+to single-use plastic grocery bags, see, e. g., Me. Rev. Stat.
+Ann., Tit. 38, §§ 1611(2)(A), (4) (2022). Rather than respect-
+ing federalism, a rule like that would require any consumer
+good available for sale in one State to be made available in
+every State. In the process, it would essentially replicate
+under Pike's banner petitioners' “almost per se” rule against
+state laws with extraterritorial effects.
+Seeking a way around that problem, the lead dissent stum-
+bles into another. It suggests that the burdens of Proposi-
+tion 12 are particularly “substantial” because California's law
+“carr[ies] implications for producers as far fung as Indiana
+and North Carolina.” Post, at 399–401. Why is that so?
+Justice Kavanaugh's solo concurrence in part and dissent
+in part says the quiet part aloud: California's market is so
+lucrative that almost any in-state measure will influence how
+out-of-state proft-maximizing frms choose to operate.
+Post, at 405–407. But if that makes all the difference, it
+means voters in States with smaller markets are constitu-
+tionally entitled to greater authority to regulate in-state
+sales than voters in States with larger markets. So much
+for the Constitution's “fundamental principle of equal sover-
+eignty among the States.” Shelby County v. Holder, 570
+U. S. 529, 544 (2013) (internal quotation marks omitted).
+The most striking feature of both dissents, however, may
+be another one. They suggest that, in assessing a state
+law's burdens under Pike, courts should take into account
+not just economic harms but also all manner of “derivative
+harms” to out-of-state interests. Post, at 398–399 (opinion
+of Roberts, C. J.). These include social costs that are “dif-
+fcult to quantify” such as (in this case) costs to the “national
+pig population,” “animal husbandry” traditions, and (again)
+“industry practice.” Post, at 399–402; see also post, at 405–
+407 (opinion of Kavanaugh, J.). But not even petitioners
+read Pike so boldly. While petitioners argue that Proposition
+12 does not benefit pigs (as California has asserted), they have

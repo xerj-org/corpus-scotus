@@ -1,0 +1,143 @@
+Villarreal v. Texas — No. 24-557 — October Term 2025 — decided 2/25/26 — Alito, J., concurring
+Citation: 607 U.S. 465
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r16_869c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Alito, concurring.
+I agree that the trial court did not violate petitioner's
+Sixth Amendment right to the assistance of counsel by re-
+stricting consultation with his attorney during an overnight
+midtestimonial recess. I write to set out the framework
+under which courts should analyze limitations on communica-
+tions between a criminal defendant and his attorney during
+a break in the defendant's testimony.
+I
+I begin with a word about the origin and nature of the
+constitutional right that petitioner invokes, that is, the right
+to confer with his attorney during an overnight break in his
+testimony. Petitioner claims that the Sixth Amendment
+right to the assistance of counsel includes this right. When
+the Sixth Amendment was adopted, however, criminal de-
+fendants could not testify in their own defense because they
+were not considered competent witnesses. See Rock v.
+Arkansas, 483 U. S. 44, 49–50 (1987). It follows that a
+defendant could not consult with an attorney about such
+testimony. Most States did not allow defendants to take
+the stand until well into the 19th century, see Ferguson
+v. Georgia, 365 U. S. 570, 576–577, and nn. 5–6 (1961), and
+this Court did not squarely recognize a defendant's constitu-
+tional right to testify in his own defense until its 1987 deci-
+sion in Rock, 483 U. S., at 49. Even then, the Court did not
+hold that the Sixth Amendment alone conferred this right.
+The Court pointed to several possible sources of the right
+but appeared to rely primarily on the Due Process Clause.
+See id., at 51. And the Court made clear that the constitu-
+tional right to testify was subject to limitations designed to
+protect the truth-seeking function of trial. Id., at 55–56,
+and n. 11. Limitations on midtestimonial attorney-client
+communications must therefore be analyzed against this
+backdrop.
+II
+In considering the permissible scope of a defendant's mid-
+testimonial consultation, it is helpful to begin with the base-
+line situation in which a defendant completes both direct and
+cross-examination without any break in the proceedings. In
+that situation, the governing rules allow the jury to hear the
+defendant's story in his own words from his own mouth, not
+a version of that story scripted or choreographed by counsel.
+A defendant may not, for instance, sign and present to the
+jury a carefully crafted affidavit of events written by counsel.
+Nor may the defense show the jury a video in which the
+defendant recites a prepared statement. And when the de-
+fendant is on the stand, defense counsel cannot pass him
+notes or speak to him via an earpiece.
+Instead, the defendant must take the stand and speak di-
+rectly to the jury in his own words. During direct examina-
+tion, defense counsel generally may not lead the witness.
+Fed. Rule Evid. 611(c). That is, counsel may not ask ques-
+tions in a form that suggests the answer that the defendant
+should give. And during cross-examination, counsel's par-
+ticipation is limited to objecting to any improper questions.
+Otherwise, the defendant is on his own.
+A break in the proceeding—either a short break during
+the trial day or an overnight recess—should not fundamen-
+tally alter the rule that the defendant must testify without
+coaching by counsel. That is why we have held that during
+a brief break a trial judge may prohibit all communications
+between the defendant and counsel. Perry v. Leeke, 488
+U. S. 272, 281 (1989). In that situation, we observed, there
+was a “virtual certainty” that any communication between
+the defendant and his attorney would “relate to the ongoing
+testimony.” Id., at 283–284. When a defendant decides to
+take the stand, his testimony is a critical stage of the trial.
+If the jury comes away with a low opinion of his character
+or simply disbelieves his testimony, the chances of conviction
+increase, and if the jury forms a favorable opinion of the
+defendant and believes his testimony, he has a greater chance
+of acquittal. Thus, during this critical phase, counsel will
+almost certainly prioritize bolstering the defendant's testi-
+mony over all other matters. And since a short break gives
+the defendant and counsel little time to converse, they will
+likely discuss only the most urgent topic at hand. With
+much at stake and limited time for consultation, it is almost
+certain that any discussion will concern the remainder of the
+client's make-or-break testimony, not other matters that can
+be discussed after the testimony ends.
+A trial judge could deal with this situation by allowing
+the defendant and counsel to confer but instructing them not
+to talk about the defendant's testimony. But the judge
+would have little ability to determine whether the defendant
+and counsel obeyed this instruction. The judge could not sit
+in on their conversation or later ask them what they said.
+Instead, the judge would have to rely heavily on the attor-
+ney's good faith. Although we may presume that most de-
+fense attorneys would try to follow the judge's instructions,
+our decision in Perry—holding that consultation during a
+short midtestimonial break may be completely barred—elim-
+inates the danger of noncompliance.
+III
+When a defendant's testimony cannot be completed by the
+end of a trial day, the situation is somewhat different. Some
+things remain the same: Because of its centrality, the defend-
+ant's testimony is very likely still the top priority. Accord-
+ingly, counsel's incentive to improve that testimony will re-
+main strong. But because they will have more time, the
+likelihood that the attorney and client will also seek to dis-
+cuss matters unrelated to the defendant's testimony will be
+greater. And particularly if the defendant's testimony is an-
+ticipated to finish before the end of the next trial day, the
+attorney and client might need to discuss other defense wit-
+nesses who will follow the defendant on the stand, as well as
+any rebuttal witnesses the prosecution might call.
+In light of these different circumstances, the Court struck
+a different balance in Geders v. United States, 425 U. S. 80
+(1976), and held that a trial judge may not prohibit all
+attorney-client consultation during an overnight break.
+But that decision did not alter the baseline rule that, if a
+defendant elects to take the stand, the jury is entitled to
+hear the defendant's own story in his own words, not a ver-
+sion crafted or edited by counsel. Thus, during an over-
+night break, a defendant may consult his attorney about mat-
+ters other than the defendant's testimony, but any efforts to
+shape what the defendant will say when he resumes testify-
+ing are improper. And attempts to achieve that end indi-
+rectly are just as improper as attempts to do so directly.
+For example, consider what defense counsel could and
+could not properly say during an overnight break concerning
+the tactical decision whether to seek a plea deal. Counsel
+could say, “Let's discuss what plea terms you would be will-
+ing to agree to,” or, “We should seek a deal because there is
+a strong chance the jury will find you guilty.” But counsel
+could not say: “We will really need to secure a deal unless
+you clean up mistakes A, B, and C that you made today on
+the stand.” Nor could counsel say: “We will really need to
+secure some sort of deal unless, when you return to the stand
+tomorrow, you stop scowling, looking down, and making ner-
+vous gestures with your fngers.” Such efforts would con-
+stitute the sort of improper “coaching” that Geders does not
+allow. They would not be “incidental.” Ante, at 475, 478,
+and n. 5, 479.
+At bottom, a defendant and his counsel may not engage
+in midtestimonial discussions that affect the truth-seeking
+function of trial by improving or shaping the defendant's on-
+going testimony. I join the majority opinion with the under-
+standing that it draws this line.

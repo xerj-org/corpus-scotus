@@ -1,0 +1,638 @@
+Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania — No. 19-431 — October Term 2019 — decided 7/08/20 — Alito, J., concurring
+Citation: 591 U.S. 657
+Source: https://www.supremecourt.gov/opinions/preliminaryprint/591US2PP_web.pdf#page=216 (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+to surrender all for the sake of their brother. “[T]hey com-
+mit to constantly living out a witness that proclaims the
+unique, inviolable dignity of every person, particularly those
+whom others regard as weak or worthless.” Complaint ¶14.
+But for the past seven years, they—like many other religious
+objectors who have participated in the litigation and rule-
+makings leading up to today's decision—have had to fight for
+the ability to continue in their noble work without violating
+their sincerely held religious beliefs. After two decisions
+from this Court and multiple failed regulatory attempts, the
+Federal Government has arrived at a solution that exempts
+the Little Sisters from the source of their complicity-based
+concerns—the administratively imposed contraceptive
+mandate.
+We hold today that the Departments had the statutory au-
+thority to craft that exemption, as well as the contemporane-
+ously issued moral exemption. We further hold that the
+rules promulgating these exemptions are free from proce-
+dural defects. Therefore, we reverse the judgment of the
+Court of Appeals and remand the cases for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+Justice Alito , with whom Justice Gorsuch joins,
+concurring.
+In these cases, the Court of Appeals held, among other
+things, (1) that the Little Sisters of the Poor lacked standing
+to appeal, (2) that the Affordable Care Act (ACA) does not
+permit any exemptions from the so-called contraceptive
+mandate, (3) that the Departments responsible for issuing
+the challenged rule 1 violated the Administrative Procedure
+1 The Health Resources and Services Administration (HRSA), a division
+of the Department of Health and Human Services, creates the “compre-
+hensive guidelines” on “coverage” for “additional preventive care and
+screenings” for women, 42 U. S. C. § 300gg–13(a)(4), but the statute is
+688 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+Act (APA) by failing to provide notice of proposed rule-
+making, and (4) that the final rule creating the current
+exemptions is invalid because the Departments did not
+have an open mind when they considered comments to
+the rule. Based on this analysis, the Court of Appeals af-
+firmed the nationwide injunction issued by the District
+Court.
+This Court now concludes that all the holdings listed above
+were erroneous, and I join the opinion of the Court in full.
+We now send these cases back to the lower courts, where
+the Commonwealth of Pennsylvania and the State of New
+Jersey are all but certain to pursue their argument that the
+current rule is flawed on yet another ground, namely, that it
+is arbitrary and capricious and thus violates the APA. This
+will prolong the legal battle in which the Little Sisters have
+now been engaged for seven years—even though during all
+this time no employee of the Little Sisters has come forward
+with an objection to the Little Sisters' conduct.
+I understand the Court's desire to decide no more than is
+strictly necessary, but under the circumstances here, I would
+decide one additional question: whether the Court of Appeals
+erred in holding that the Religious Freedom Restoration Act
+(RFRA), 42 U. S. C. §§ 2000bb to 2000bb–4, does not compel
+the religious exemption granted by the current rule. If
+RFRA requires this exemption, the Departments did not act
+in an arbitrary and capricious manner in granting it. And
+in my judgment, RFRA compels an exemption for the Little
+Sisters and any other employer with a similar objection to
+what has been called the accommodation to the contracep-
+tive mandate.
+jointly administered and enforced by the Departments of Health and
+Human Services, Labor, and Treasury (collectively Departments), see
+§ 300gg–92; 29 U. S. C. § 1191c; 26 U. S. C. § 9833. The Departments pro-
+mulgated the exemptions at issue here, which were subsequently incorpo-
+rated into the guidelines by HRSA. See 83 Fed. Reg. 57536 (2018); id.,
+at 57592.
+I
+Because the contraceptive mandate has been repeatedly
+modified, a brief recapitulation of this history may be helpful.
+The ACA itself did not require that insurance plans include
+coverage for contraceptives. Instead, the Act provided that
+plans must cover those preventive services found to be ap-
+propriate by HRSA, an agency of the Department of Health
+and Human Services. 42 U. S. C. § 300gg–13(a)(4). In 2011,
+HRSA recommended that plans be required to cover “ `[a]ll
+. . . contraceptive methods' ” approved by the Food and Drug
+Administration. 77 Fed. Reg. 8725 (2012). (I will use the
+term “contraceptive mandate” or simply “mandate” to refer
+to the obligation to provide coverage for contraceptives
+under any of the various regimes that have existed since the
+promulgation of this original rule.) At the direction of the
+relevant Departments, HRSA simultaneously created an ex-
+emption from the mandate for “churches, their integrated
+auxiliaries, and conventions or associations of churches,” as
+well as “the exclusively religious activities of any religious
+order.” 76 Fed. Reg. 46623 (2011); see 77 Fed. Reg. 8726.
+(I will call this the “church exemption.”) This narrow ex-
+emption was met with strong objections on the ground that
+it furnished insufficient protection for religious groups op-
+posed to the use of some or all of the listed contraceptives.
+The Departments responded by issuing a new regulation
+that created an accommodation for certain religious non-
+proft employers. See 78 Fed. Reg. 39892–39898 (2013). (I
+will call this the “accommodation.”) Under this accommoda-
+tion, a covered employer could certify its objection to its in-
+surer (or, if its plan was self-funded, to its third-party plan
+administrator), and the insurer or third-party administrator
+would then proceed to provide contraceptive coverage to the
+objecting entity's employees. Unlike the earlier church ex-
+emption, the accommodation did not exempt these religious
+employers from the contraceptive mandate, but the Depart-
+690 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+ments construed invocation of the accommodation as compli-
+ance with the mandate.
+Meanwhile, the contraceptive mandate was challenged by
+various employers who had religious objections to providing
+coverage for at least some of the listed contraceptives but
+were not covered by the church exemption or the accommo-
+dation. In Burwell v. Hobby Lobby Stores, Inc., 573 U. S.
+682 (2014), we held that RFRA prohibited the application of
+the regulation to closely held, for-proft corporations that fell
+into this category. The Departments responded by issuing
+a new regulation that attempted to codify our holding by
+allowing closely held corporations to utilize the accommoda-
+tion. See 80 Fed. Reg. 41343–41347 (2015). 2
+Although this modification solved one RFRA problem, the
+contraceptive mandate was still objectionable to some reli-
+gious employers, including the Little Sisters. We consid-
+ered those objections in Zubik v. Burwell, 578 U. S. 403
+(2016) (per curiam ), but instead of resolving the legal
+dispute, we vacated the decisions below and remanded, in-
+structing the parties to attempt to come to an agreement.
+Unfortunately, after strenuous efforts, the outgoing adminis-
+tration reported on January 9, 2017, that no reconciliation
+could be reached. 3 The Little Sisters and other employers
+objected to engaging in any conduct that had the effect
+of making contraceptives available to their employees under
+their insurance plans, and no way of providing such cover-
+age to their employees without using their plans could be
+found.
+2 In the regulation, the Departments also responded to our holding in
+Wheaton College v. Burwell, 573 U. S. 958 (2014), by allowing employers
+who invoked the accommodation to notify the Government of their objec-
+tion rather than by filing the objection with their insurer or third-party
+administrator. See 80 Fed. Reg. 41337.
+3 Dept. of Labor, FAQs About Affordable Care Act Implementation
+Part 36 (Jan. 9, 2017), https://www.dol.gov/sites/dolgov/files/EBSA/about-
+ebsa/our-activities/resource-center/faqs/aca-part-36.pdf.
+In 2017, the new administration took up the task of at-
+tempting to find a solution. After receiving more than
+56,000 comments, it issued the rule now before us, which
+made the church exemption available to non-governmental
+employers who object to the provision of some or all contra-
+ceptive services based on sincerely held religious beliefs. 4
+45 CFR § 147.132; see 83 Fed. Reg. 57540, 57590. (The “reli-
+gious exemption.”) The Court of Appeals, as noted, held
+that RFRA did not require this new rule.
+II
+A
+RFRA broadly prohibits the Federal Government from vi-
+olating religious liberty. See 42 U. S. C. § 2000bb–1(a). It
+applies to every “branch, department, agency, [and] instru-
+mentality” of the Federal Government, as well as any “per-
+son acting under color of” federal law. § 2000bb–2(1). And
+this prohibition applies to the “implementation” of federal
+law. § 2000bb–3(a). Thus, unless the ACA or some other
+subsequently enacted statute made RFRA inapplicable to
+the contraceptive mandate, the Departments responsible for
+administering that mandate are obligated to do so in a man-
+ner that complies with RFRA.
+No provision of the ACA abrogates RFRA, and our deci-
+sion in Hobby Lobby, 573 U. S., at 736, established that appli-
+cation of the contraceptive mandate must conform to RFRA's
+demands. Thus, it was incumbent on the Departments to
+ensure that the rules implementing the mandate were con-
+sistent with RFRA, as interpreted in our decision.
+B
+Under RFRA, the Federal Government may not “substan-
+tially burden a person's exercise of religion even if the bur-
+4 A similar exemption was provided for employers with moral objec-
+tions. See 45 CFR § 147.33 (2019).
+692 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+den results from a rule of general applicability,” unless it
+“demonstrates that application of the burden to the person—
+(1) is in furtherance of a compelling governmental interest;
+and (2) is the least restrictive means of furthering that
+compelling governmental interest.” §§ 2000bb–1(a), (b).
+Applying RFRA to the contraceptive mandate thus presents
+three questions. First, would the mandate substantially
+burden an employer's exercise of religion? Second, if the
+mandate would impose such a burden, would it nevertheless
+serve a “compelling interest”? And third, if it serves such
+an interest, would it represent “the least restrictive means
+of furthering” that interest?
+Substantial burden. Under our decision in Hobby Lobby,
+requiring the Little Sisters or any other employer with a
+similar religious objection to comply with the mandate would
+impose a substantial burden. Our analysis of this question
+in Hobby Lobby can be separated into two parts. First,
+would non-compliance have substantial adverse practical
+consequences? 573 U. S., at 720–723. Second, would com-
+pliance cause the objecting party to violate its religious
+beliefs, as it sincerely understands them? Id., at 723–726.
+The answer to the first question is indisputable. If a cov-
+ered employer does not comply with the mandate (by provid-
+ing contraceptive coverage or invoking the accommodation),
+it faces penalties of $100 per day for each of its employees.
+26 U. S. C. § 4980D(b)(1). “And if the employer decides to
+stop providing health insurance altogether and at least one
+full-time employee enrolls in a health plan and qualifies for
+a subsidy on one of the government-run ACA exchanges,
+the employer must pay $2,000 per year for each of its full-
+time employees. §§ 4980H(a), (c)(1).” 573 U. S., at 697. In
+Hobby Lobby, we found these “severe” financial consequences
+sufficient to show that the practical effect of non-compliance
+would be “substantial.” 5 Id., at 720.
+5 This is one of the differences between these cases and Bowen v. Roy,
+476 U. S. 693 (1986). See post, at 727 (Ginsburg , J., dissenting) (relying
+on Bowen to conclude that accommodation was unnecessary). In Bowen,
+Our answer to the second question was also perfectly clear.
+If an employer has a religious objection to the use of a cov-
+ered contraceptive, and if the employer has a sincere reli-
+gious belief that compliance with the mandate makes it com-
+plicit in that conduct, then RFRA requires that the belief be
+honored. Id., at 724–725. We noted that the objection
+raised by the employers in Hobby Lobby “implicate[d] a dif-
+fcult and important question of religion and moral philoso-
+phy, namely, the circumstances under which it is wrong for a
+person to perform an act that is innocent in itself but that
+has the effect of enabling or facilitating the commission of an
+immoral act by another.” Id., at 724. We noted that differ-
+ent individuals have different beliefs on this question, but
+we were clear that “federal courts have no business address-
+ing . . . whether the religious belief asserted in a RFRA case
+is reasonable.” Ibid. Instead, the “ `function' ” of a court is
+“ `narrow' ”: “ `to determine' whether the line drawn reflects
+`an honest conviction.' ” Id., at 725 (quoting Thomas v. Re-
+view Bd. of Ind. Employment Security Div., 450 U. S. 707,
+716 (1981)).
+Applying this holding to the Little Sisters yields an obvi-
+ous answer. It is undisputed that the Little Sisters have a
+sincere religious objection to the use of contraceptives and
+that they also have a sincere religious belief that utilizing
+the accommodation would make them complicit in this con-
+duct. As in Hobby Lobby, “it is not for us to say that their
+religious beliefs are mistaken or insubstantial.” 573 U. S.,
+at 725.
+In reaching a contrary conclusion, the Court of Appeals
+adopted the reasoning of a prior Third Circuit decision hold-
+ing that “ `the submission of the self-certifcation form' ” re-
+quired by the mandate would not “ `trigger or facilitate
+the provision of contraceptive coverage' ” and would not
+make the Little Sisters “ ` “complicit” in the provision' ” of
+the objecting individuals were not faced with penalties or “coerced by the
+Governmen[t] into violating their religious beliefs.” Lyng v. Northwest
+Indian Cemetery Protective Assn., 485 U. S. 439, 449 (1988).
+694 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+objected-to services. 930 F. 3d 543, 573 (2019) (quoting Ge-
+neva College v. Secretary of U. S. Dept. of Health and
+Human Servs., 778 F. 3d 422, 437–438 (CA3 2015), vacated
+and remanded sub nom. Zubik, 578 U. S. 403).
+The position taken by the Third Circuit was similar to that
+of the Government when Zubik was before us. Opposing
+the position taken by the Little Sisters and others, the Gov-
+ernment argued that what the accommodation required was
+not materially different from simply asking that an objecting
+party opt out of providing contraceptive coverage with the
+knowledge that by doing so it would cause a third party to
+provide that coverage. According to the Government, ev-
+erything that occurred following the opt-out was a result of
+governmental action. 6
+Petitioners disagreed. Their concern was not with notify-
+ing the Government that they wished to be exempted from
+complying with the mandate per se,7 but they objected to two
+requirements that they sincerely believe would make them
+complicit in conduct they find immoral. First, they took
+strong exception to the requirement that they maintain and
+pay for a plan under which coverage for contraceptives
+would be provided. As they explained, if they “were willing
+to incur ruinous penalties by dropping their health plans,
+their insurance companies would have no authority or obliga-
+tion to provide or procure the objectionable coverage for
+[their] plan benefciaries.” 8 Second, they also objected to
+submission of the self-certifcation form required by the ac-
+commodation because without that certifcation their plan
+could not be used to provide contraceptive coverage. 9 At
+6 See Brief for Respondents in Zubik v. Burwell, O. T. 2015, Nos. 14–
+1418, 14–1453, 14–1505, 15–35, 15–105, 15–119, 15–191, pp. 35–41.
+7 See Brief for Petitioners in Zubik v. Burwell, O. T. 2015, Nos. 15–35,
+15–105, 15–119, 15–191, p. 45.
+8 Brief for Petitioners in Zubik v. Burwell, O. T. 2015, Nos. 14–1418, 14–
+1453, 14–1505, p. 49.
+9 Brief for Petitioners in Zubik, O. T. 2015, Nos. 15–35, 15–105, 15–119,
+15–191, at 44.
+bottom, then, the Government and the religious objectors
+disagreed about the relationship between what the accom-
+modation demanded and the provision of contraceptive
+coverage.
+Our remand in Zubik put these two conflicting interpreta-
+tions to the test. In response to our request for supplemen-
+tal briefing, petitioners explained their position in the follow-
+ing terms. “[T]heir religious exercise” would not be
+“infringed” if they did not have to do anything “ `more than
+contract for a plan that does not include coverage for some
+or all forms of contraception,' even if their employees re-
+ceive[d] cost-free contraceptive coverage from the same in-
+surance company.” 578 U. S., at 407–408. At the time, the
+Government thought that it might be possible to achieve this
+result under the ACA, id., at 408, but subsequent attempts to
+find a way to do this failed. After great effort, the Govern-
+ment was forced to conclude that it was “not aware of the au-
+thority, or of a practical mechanism,” for providing contracep-
+tive coverage “specifically to persons covered by an objecting
+employer, other than by using the employer's plan, issuer, or
+third party administrator.” 83 Fed. Reg. 57545–57546.
+The inescapable bottom line is that the accommodation de-
+manded that parties like the Little Sisters engage in conduct
+that was a necessary cause of the ultimate conduct to which
+they had strong religious objections. Their situation was
+the same as that of the conscientious objector in Thomas, 450
+U. S., at 715, who refused to participate in the manufacture
+of tanks but did not object to assisting in the production of
+steel used to make the tanks. Where to draw the line in a
+chain of causation that leads to objectionable conduct is a
+difficult moral question, and our cases have made it clear
+that courts cannot override the sincere religious beliefs of an
+objecting party on that question. See Hobby Lobby , 573
+U. S., at 723–726; Thomas, 450 U. S., at 715–716.
+For these reasons, the contraceptive mandate imposes a
+substantial burden on any employer who, like the Little Sis-
+ters, has a sincere religious objection to the use of a listed
+696 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+contraceptive and a sincere religious belief that compliance
+with the mandate (through the accommodation or otherwise)
+makes it complicit in the provision to the employer's workers
+of a contraceptive to which the employer has a religious
+objection.
+Compelling interest. In Hobby Lobby , the Government
+asserted and we assumed for the sake of argument that the
+Government had a compelling interest in “ensuring that all
+women have access to all FDA-approved contraceptives
+without cost sharing.” 573 U. S., at 727. Now, the Govern-
+ment concedes that it lacks a compelling interest in providing
+such access, Reply Brief in No. 19–454, p. 10, and this time,
+the Government is correct.
+In order to show that it has a “compelling interest” within
+the meaning of RFRA, the Government must clear a high
+bar. In Sherbert v. Verner, 374 U. S. 398 (1963), the decision
+that provides the foundation for the rule codified in RFRA,
+we said that “ `[o]nly the gravest abuses, endangering para-
+mount interests,' ” could “ `give occasion for [a] permissible
+limitation' ” on the free exercise of religion. Id., at 406.
+Thus, in order to establish that it has a “compelling interest”
+in providing free contraceptives to all women, the Govern-
+ment would have to show that it would commit one of “the
+gravest abuses” of its responsibilities if it did not furnish free
+contraceptives to all women.
+If we were required to exercise our own judgment on the
+question whether the Government has an obligation to pro-
+vide free contraceptives to all women, we would have to take
+sides in the great national debate about whether the Govern-
+ment should provide free and comprehensive medical care
+for all. Entering that policy debate would be inconsistent
+with our proper role, and RFRA does not call on us to ex-
+press a view on that issue. We can answer the compelling
+interest question simply by asking whether Congress has
+treated the provision of free contraceptives to all women as
+a compelling interest.
+“ `[A] law cannot be regarded as protecting an interest “of
+the highest order” . . . when it leaves appreciable damage
+to that supposedly vital interest unprohibited.' ” Church of
+Lukumi Babalu Aye, Inc. v. Hialeah, 508 U. S. 520, 547
+(1993). Thus, in considering whether Congress has mani-
+fested the view that it has a compelling interest in providing
+free contraceptives to all women, we must take into account
+“exceptions” to this asserted “ `rul[e] of general applicabil-
+ity.' ” Gonzales v. O Centro Espírita Benefcente União do
+Vegetal, 546 U. S. 418, 436 (2006) (quoting § 2000bb–1(a)).
+And here, there are exceptions aplenty. The ACA—which
+fails to ensure that millions of women have access to free
+contraceptives—unmistakably shows that Congress, at least
+to date, has not regarded this interest as compelling.
+First, the ACA does not provide contraceptive coverage
+for women who do not work outside the home. If Congress
+thought that there was a compelling need to make free con-
+traceptives available for all women, why did it make no pro-
+vision for women who do not receive a paycheck? Some of
+these women may have a greater need for free contracep-
+tives than do women in the work force.
+Second, if Congress thought that there was a compelling
+need to provide cost-free contraceptives for all working
+women, why didn't Congress mandate that coverage in the
+ACA itself? Why did it leave it to HRSA to decide whether
+to require such coverage at all?
+Third, the ACA's very incomplete coverage speaks vol-
+umes. The ACA “exempts a great many employers from
+most of its coverage requirements.” Hobby Lobby, 573 U. S.,
+at 699. “[E]mployers with fewer than 50 employees are not
+required to provide” any form of health insurance, and a
+number of large employers with “ `grandfathered' ” plans
+need not comply with the contraceptive mandate. Ibid.; see
+26 U. S. C. § 4980H(c)(2); 42 U. S. C. § 18011. According to
+a recent survey, 13% of the 153 million Americans with
+employer-sponsored health insurance are enrolled in a grand-
+698 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+fathered plan, while only 56% of small frms provide health
+insurance. Kaiser Family Foundation, Employer Health
+Benefits: 2019 Annual Survey 7, 44, 209 (2019). In Hobby
+Lobby, we wrote that “the contraceptive mandate `presently
+does not apply to tens of millions of people,' ” 573 U. S., at
+700, and it appears that this is still true apart from the reli-
+gious exemption.10
+Fourth, the Court's recognition in today's decision that the
+ACA authorizes the creation of exemptions that go beyond
+anything required by the Constitution provides further evi-
+dence that Congress did not regard the provision of cost-free
+contraceptives to all women as a compelling interest.
+Moreover, the regulatory exemptions created by the De-
+partments and HRSA undermine any claim that the agencies
+themselves viewed the provision of contraceptive coverage
+as sufficiently compelling. From the outset, the church ex-
+emption has applied to churches, their integrated auxiliaries,
+and associations. 76 Fed. Reg. 46623. And because of the
+way the accommodation operates under the Employee Re-
+tirement Income Security Act of 1974, the Departments
+treated a number of self-insured non-proft organizations es-
+tablished by churches or associations of churches, including
+religious universities and hospitals, as “effectively ex-
+empted” from the contraceptive mandate as well. Brief for
+Petitioners in No. 19–454, p. 4. The result was a complex
+and sometimes irrational pattern of exemptions.
+The dissent frames the allegedly compelling interest served
+by the mandate in different terms—as an interest in providing
+“seamless” cost-free coverage, post, at 710–711, 723, 729
+(opinion of Ginsburg, J.)––but this is an even weaker argu-
+ment. What “seamless” coverage apparently means is cov-
+10 In contrast, the Departments estimated that plans covering 727,000
+people would take advantage of the religious exemption, and thus that
+between 70,500 and 126,400 women of childbearing age would be affected
+by the religious exemption. 83 Fed. Reg. 57578, 57581.
+erage under the insurance plan furnished by a woman's em-
+ployer. So as applied to the Little Sisters, the dissent
+thinks that it would be a grave abuse if an employee wishing
+to obtain contraceptives had to take any step that would not
+be necessary if she wanted to obtain any other medical serv-
+ice. See post, at 725–726. Apparently, it would not be
+enough if the Government sent her a special card that could
+be presented at a pharmacy to fll a prescription for contra-
+ceptives without any out-of-pocket expense. Nor would it
+be enough if she were informed that she could obtain free
+contraceptives by going to a conveniently located govern-
+ment clinic. Neither of those alternatives would provide
+“seamless coverage,” and thus, according to the dissent, both
+would be insufficient. Nothing short of capitulation on the
+part of the Little Sisters would suffice.
+This argument is inconsistent with any reasonable under-
+standing of the concept of a “compelling interest.” It is un-
+doubtedly convenient for employees to obtain all types of
+medical care and all pharmaceuticals under their general
+health insurance plans, and perhaps there are women whose
+personal situation is such that taking any additional steps to
+secure contraceptives would be a notable burden. But can
+it be said that all women or all working women have a com-
+pelling need for this convenience?
+The ACA does not provide “seamless” coverage for all
+forms of medical care. Take the example of dental care.
+Although lack of dental care can cause great pain and may
+lead to serious health problems, the ACA does not require
+that a plan cover dental services. Millions of employees
+must secure separate dental insurance or pay dentist bills
+out of their own pockets.
+In short, it is undoubtedly true that the contraceptive
+mandate provides a benefit that many women may find
+highly desirable, but Congress's enactments show that it has
+not regarded the provision of free contraceptives or the fur-
+nishing of “seamless” coverage as “compelling.”
+700 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+Least restrictive means. Even if the mandate served a
+compelling interest, the accommodation still would not sat-
+isfy the “exceptionally demanding” least-restrictive-means
+standard. Hobby Lobby , 573 U. S., at 728. To meet this
+standard, the Government must “sho[w] that it lacks other
+means of achieving its desired goal without imposing a sub-
+stantial burden on the exercise of religion.” Ibid.; see also
+Holt v. Hobbs, 574 U. S. 352, 365 (2015) (“ `[I]f a less restric-
+tive means is available for the Government to achieve its
+goals, the Government must use it' ”).
+In Hobby Lobby, we observed that the Government has
+“other means” of providing cost-free contraceptives to
+women “without imposing a substantial burden on the exer-
+cise of religion by the objecting parties.” 573 U. S., at 728.
+“The most straightforward way,” we noted, “would be for
+the Government to assume the cost of providing the . . . con-
+traceptives . . . to any women who are unable to obtain them
+under their health-insurance policies.” Ibid. In the con-
+text of federal funding for health insurance, the cost of such
+a program would be “minor.” Id., at 729. 11
+The Government argued that we should not take this op-
+tion into account because it lacked statutory authority to cre-
+ate such a program, see ibid., but we rejected that argument,
+11 In 2019, the Government is estimated to have spent $737 billion subsi-
+dizing health insurance for individuals under the age of 65; $287 billion of
+that went to employment-related coverage. CBO, Federal Subsidies for
+Health Insurance for People Under Age 65: 2019 to 2029, pp. 15–16 (2019).
+While the cost of contraceptive methods varies, even assuming the most
+expensive options, which range around $1,000 a year, the cost of providing
+this coverage to the 126,400 women who are estimated to be impacted by
+the religious exemption would be $126.4 million. See Kosova, National
+Women's Health Network, How Much Do Different Kinds of Birth Control
+Cost Without Insurance? (Nov. 17, 2017), http://nwhn.org/much-different-
+kinds-birth-control-cost-without-insurance/ (discussing contraceptive
+methods ranging from $240 to $1,000 per year); 83 Fed. Reg. 57581
+(estimating that up to 126,400 women will be affected by the religious
+exemption).
+id., at 729–730. Certainly, Congress could create such a pro-
+gram if it thought that providing cost-free contraceptives to
+all women was a matter of “paramount” concern.
+As the Government now points out, Congress has taken
+steps in this direction. “[E]xisting federal, state, and local
+programs,” including Medicaid, Title X, and Temporary As-
+sistance for Needy Families, already “provide free or subsi-
+dized contraceptives to low-income women.” Brief for Peti-
+tioners in No. 19–454, at 27; see also 83 Fed. Reg. 57548,
+57551 (discussing programs).12 And many women who work
+for employers who have religious objections to the contra-
+ceptive mandate may be able to receive contraceptive cover-
+age through a family member's health insurance plan.
+In sum, the Departments were right to conclude that
+applying the accommodation to sincere religious objectors
+violates RFRA. See id., at 57546. All three prongs of the
+RFRA analysis—substantial burden, compelling interest,
+and least restrictive means—necessitate this answer.
+III
+Once it was apparent that the accommodation ran afoul of
+RFRA, the Government was required to eliminate the viola-
+tion. RFRA does not specify the precise manner in which
+a violation must be remedied; it simply instructs the Govern-
+ment to avoid “substantially burden[ing]” the “exercise of
+religion”—i. e., to eliminate the violation. § 2000bb–1(a); see
+also § 2000bb–1(c) (providing for “appropriate relief ” in judi-
+cial suit). Thus, in Hobby Lobby, once we held that applica-
+12 The Government recently amended the definitions for Title X's family
+planning program to help facilitate access to contraceptives for women
+who work for an employer invoking the religious and moral exemptions.
+See 84 Fed. Reg. 7734 (2019). These definitions now provide that “[f]or the
+purpose of considering payment for contraceptive services only,” a “low
+income family” “includes members of families whose annual income” would
+otherwise exceed the threshold “where a woman has health insurance cov-
+erage through an employer [with] a sincerely held religious or moral objec-
+tion to providing such [contraceptive] coverage.” 42 CFR § 59.2(2) (2019).
+702 LITTLE SISTERS OF THE POOR SAINTS PETER
+AND PAUL HOME v. PENNSYL V ANIA
+Alito, J., concurring
+tion of the mandate to the objecting parties violated RFRA,
+we left it to the Departments to decide how best to rectify
+this problem. See 573 U. S., at 736; 79 Fed. Reg. 51118
+(2014) (proposing to modify the accommodation to extend it
+to closely held corporations in light of Hobby Lobby); 80 Fed.
+Reg. 41324 (final rule explaining that “[t]he Departments be-
+lieve that the definition adopted in these regulations com-
+plies with and goes beyond what is required by RFRA and
+Hobby Lobby”).
+The same principle applies here. Once it is recognized
+that the prior accommodation violated RFRA in some of its
+applications, it was incumbent on the Departments to elimi-
+nate those violations, and they had discretion in crafting
+what they regarded as the best solution.
+The solution they devised cures the problem, and it is not
+clear that any narrower exemption would have been suffi-
+cient with respect to parties with religious objections to the
+accommodation. As noted, after great effort, the Govern-
+ment concluded that it was not possible to solve the problem
+without using an “employer's plan, issuer, or third party ad-
+ministrator.” 83 Fed. Reg. 57546. As a result, the Depart-
+ments turned to the current rule, under which an objecting
+party must certify that it “objects, based on its sincerely held
+religious beliefs, to its establishing, maintaining, providing,
+offering, or arranging for (as applicable)” either “[c]overage or
+payments for some or all contraceptive services” or “[a] plan,
+issuer, or third party administrator that provides or arranges
+such coverage or payments.” 45 CFR §§ 147.132(a)(2)(i)–(ii).
+The States take exception to the new religious rule on
+several grounds. First, they complain that it grants an ex-
+emption to some employers who were satisfied with the prior
+accommodation, but there is little basis for this argument.
+An employer who is satisfied with the accommodation may
+continue to operate under that regime. See §§ 147.131(c)–
+(d); 83 Fed. Reg. 57569–57571. And unless an employer has
+a religious objection to the accommodation, it is unclear why
+an employer would give it up. The accommodation does not
+impose any cost on an employer, and it provides an added
+benefit for the employer's work force.
+The States also object to the new rule because it makes
+exemptions available to publicly traded corporations, but the
+Government is “not aware” of any publicly traded corpora-
+tions that object to compliance with the mandate. Id., at
+57562. For all practical purposes, therefore, it is not clear
+that the new rule's provisions concerning entities that object
+to the mandate on religious grounds go any further than nec-
+essary to bring the mandate into compliance with RFRA.
+In any event, while RFRA requires the Government to
+employ the least restrictive means of furthering a compelling
+interest that burdens religious belief, it does not require the
+converse—that an accommodation of religious belief be nar-
+rowly tailored to further a compelling interest. The latter
+approach, which is advocated by the States, gets RFRA en-
+tirely backwards. See Brief for Respondents 45 (“RFRA
+could require the religious exemption only if it was the least
+restrictive means of furthering [the Government's compel-
+ling interest]”). Nothing in RFRA requires that a violation
+be remedied by the narrowest permissible corrective.
+Needless to say, the remedy for a RFRA problem cannot
+violate the Constitution, but the new rule does not have that
+effect. The Court has held that there is a constitutional
+right to purchase and use contraceptives. Griswold v. Con-
+necticut, 381 U. S. 479 (1965); Carey v. Population Services
+Int'l, 431 U. S. 678 (1977). But the Court has never held
+that there is a constitutional right to free contraceptives.
+The dissent and the court below suggest that the new rule
+is improper because it imposes burdens on the employees of
+entities that the rule exempts, see post, at 723–726; 930 F. 3d,
+at 573–574, 13 but the rule imposes no such burden. A
+13 Both the dissent and the court below refer to the statement in Cutter
+v. Wilkinson, 544 U. S. 709, 720 (2005), that “courts must take adequate
+account of the burdens a requested accommodation may impose on nonben-

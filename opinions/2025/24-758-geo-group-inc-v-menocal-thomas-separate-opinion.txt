@@ -1,0 +1,39 @@
+Geo Group, Inc. v. Menocal — No. 24-758 — October Term 2025 — decided 2/25/26 — Opinion of Thomas, J.
+Citation: 607 U.S. 438
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r15_bqmc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+point is reverse the erroneous liability finding. So the final-
+ity rule of § 1291 precludes interlocutory review of a Year-
+sley denial.5
+For those reasons, we hold that the Court of Appeals
+lacked jurisdiction over GEO's appeal. If eventually found
+liable, GEO may of course appeal the District Court's rejec-
+tion of its asserted Yearsley defense. But GEO must wait
+until then. A Yearsley denial is not appealable before the
+trial court's proceedings have ended.
+We therefore affirm the judgment of the Court of Appeals
+and remand the case for further proceedings consistent with
+this opinion.
+It is so ordered.
+Justice Thomas, concurring in part and concurring in the
+judgment.
+I concur in Parts I and III of the Court's opinion and in
+its judgment. I agree with the Court that Yearsley v. W. A.
+Ross Constr. Co., 309 U. S. 18 (1940), and similar decisions
+establish a defense from liability and not an immunity from
+suit. See ante, at 448–449. Orders rejecting Yearsley de-
+fenses are therefore unlike the orders denying immunities that
+this Court has already held to be immediately appealable.
+Because no other statute or rule authorized an interlocutory
+appeal here, the Court correctly affirms the Tenth Circuit's
+dismissal. I do not join Part II because “[w]e need not, and
+in my view should not, further justify our holding by apply-
+ing” the collateral-order doctrine established by Cohen v.
+Beneficial Industrial Loan Corp., 337 U. S. 541 (1949). Mo-
+hawk Industries, Inc. v. Carpenter, 558 U. S. 100, 115 (2009)
+5 This holding still allows review of a given Yearsley denial by means of
+§ 1292(b)'s separate appeal-certifcation process. Under that provision, a
+district court may find that the special difficulty and importance of an
+otherwise unappealable order counsels in favor of immediate review, and
+an appellate court may accept that determination. Here, though, the Dis-
+trict Court saw no reason to act under § 1292(b).

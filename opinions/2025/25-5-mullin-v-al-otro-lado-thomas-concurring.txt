@@ -1,0 +1,238 @@
+Mullin v. Al Otro Lado — No. 25-5 — October Term 2025 — decided 6/25/26 — THOMAS, J., concurring
+Citation: 609 U.S. 258
+Source: https://www.supremecourt.gov/opinions/25pdf/25-5_86qd.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+
+
+1  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+SUPREME COURT OF THE UNITED STATES
+No. 25–5
+MARKWAYNE MULLIN, SECRETARY OF HOMELAND
+SECURITY, ET AL., PETITIONERS v. AL OTRO LADO,
+A CALIFORNIA CORPORATION, ET AL.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+[June 25, 2026]
+JUSTICE THOMAS, concurring.
+The Court’s opinion correctly holds that an alien “who
+seeks to enter the United States from Mexico” does not “‘ar-
+riv[e] in the United States’ when he or she is still in Mex-
+ico.” Ante, at 1 (footnote omitted). I join it in full.  I write
+separately to address two further problems with the deci-
+sion below. First, the Distri ct Court appeared to effectively
+grant the classwide injunctive relief that Congress has pro-
+hibited in this context.  See 8 U. S. C. §1252(f )(1).  Second,
+the relief that the District Court provided may well have
+unconstitutionally infringed on the President’s inherent au-
+thority to exclude aliens from the country.
+I
+A
+The Immigration and Nationality Act (INA) imposes var-
+ious restrictions on judicial review of immigration enforce -
+ment. As relevant here, §1252(f )(1) provides: “Regardless
+of the nature of the action or claim or of the identity of the
+party or parties bringing the action, no court (other than
+the Supreme Court) shall have jurisdiction or authority to
+enjoin or restrain the operation of ” certain parts of the INA.
+It contains an exception only for relief granted on an indi-
+vidual basis. Ibid.  This provision thus “strips lower courts
+
+of ‘jurisdiction or authority’ to ‘enjoin or restrain the opera-
+tion of ’” these parts of the INA on a classwide basis.  Gar -
+land v. Aleman Gonzalez, 596 U. S. 543, 548 (2022) (quoting
+§1252(f )(1)).  In Aleman Gonzalez , we interpreted this ju -
+risdictional bar to “prohibi[t] lower courts from entering in-
+junctions that order federal officials to take or to refrain
+from taking actions to enforce, implement, or otherwise
+carry out the specified statutory provisions.”  596 U. S., at
+550.
+B
+Respondents sought relief that §1252(f )(1) prohibits.  The
+District Court certified their proposed class of “ ‘all nonciti-
+zens who seek or will seek to access the U.S. asylum process
+by presenting themselves’ ” at a port of entry at the U. S.-
+Mexico border and who “ ‘were or will be denied access to
+the U.S. asylum process by or at the instruction of ’” border
+officials. Al Otro Lado v. Mayorkas, 619 F. Supp. 3d 1029,
+1033, n. 2 (SD Cal. 2022).  They asked the court for an in-
+junction against the Government’s “metering” practice,
+which temporarily prevented class members from entering
+the country to be inspected under §1225.  Id., at 1035–1036;
+see ante, at 4–5. They also asked the court to appoint a
+magistrate judge as a “special master . . . to monitor and
+oversee” the Government’s “implementation of all class-
+wide injunctive relief.” 619 F. Supp. 3d, at 1036.
+The District Court acknowledged that our interpretation
+of §1252(f )(1) in Aleman Gonzalez barred this relief.  619
+F. Supp. 3d, at 1045. 1  It correctly concluded that Aleman
+——————
+1 The District Court followed Aleman Gonzalez’s holding on this point,
+but it expressed its view that “Aleman Gonzalez . . . deflates the histori-
+cal and traditional role of Article III courts” and “undermines” the “fun-
+damental principal of federalism” that “federal agencies and courts are
+bound to give effect to the unambiguously expressed intent of Congress.”
+Al Otro Lado  v. Mayorkas, 619 F. Supp. 3d 1029, 1044 (SD Cal. 2022)
+(internal quotation marks omitted); see also ibid. (expressing its
+
+3  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+Gonzalez “squarely” controls this case, such that the re-
+quested injunctive relief “must be construed as enjoining or
+restraining the operation of §1225 because it would have
+the effect of interfering with the Government’s efforts to op-
+erate §1225.” 619 F. Supp. 3d, at 1045 (internal quotation
+marks omitted; alterations adopted).  After all, by requiring
+border officials to carry out §1225’s inspection and asylum-
+interview procedures for the class members, the requested
+injunction would “order federal officials to take” actions to
+“implement” or “carry out” a covered provision.  Aleman
+Gonzalez, 596 U. S., at 550.
+Nonetheless, the District Court effectively gave Respond-
+ents all that they asked for in the form of nominally declar-
+atory relief. Even after Aleman Gonzalez, the Ninth Circuit
+maintains that §1252(f )(1) allows “classwide declaratory
+relief.” Rodriguez v. Hayes, 591 F. 3d 1105, 1120 (2010); see
+also Al Otro Lado  v. Executive Office for Immigration Re-
+view, 138 F. 4th 1102, 1123–1124 (2025) (case below).  So,
+the District Court issued a declaration that the Govern -
+ment’s metering policy was unlawful. As a source of au -
+thority for this relief, it invoked §706(1) of the Administra -
+tive Procedure Act (APA), which allows courts to “ compel
+agency action unlawfully withheld or unreasonably de-
+layed,” 5 U. S. C. §706(1) (emphasis added).  See 619
+F. Supp. 3d, at 1032, 1049. Citing §706(1) and the Ninth
+Circuit’s precedents authorizing declaratory relief, the Dis-
+trict Court entered a judgment “that, absent any independ-
+ent, express, and lawful statutory authority, Defendants’
+refusal to provide inspection or asylum processing to” aliens
+“who are in the process of arriving in the United States” at
+——————
+displeasure that “ Aleman Gonzalez . . . confers to immigration enforce-
+ment agencies power to unilaterally ignore or deviate from the Congres-
+sional mandates set forth in the removal provisions of the INA”); id., at
+1043 (describing “competing oblig ations” between obeying Supreme
+Court precedent and not “applying §1252(f )(1) in a manner that produces
+absurd results” (internal quotation marks omitted; alteration adopted)).
+
+ports of entry “is unlawful regardless of the purported jus-
+tification for doing so.” Id., at 1049. The Ninth Circuit af-
+firmed. 138 F. 4th, at 1123–1124, 1128.
+II
+In a future case, this Court should address this apparent
+end-run around §1252(f )(1) and Aleman Gonzalez.
+I am skeptical that the relief that the District Court or-
+dered complies with §1252(f )(1).  The statute provides that
+“no court” may “enjoin or restrain the operation of ” §1225,
+subject to limited exceptions. §1252(f )(1) (emphasis
+added). In California v. Grace Brethren Church, 457 U. S.
+393 (1982), decided before §1252(f )(1) was enacted, the
+Court interpreted near-identic al language in the Tax In-
+junction Act to bar all declaratory relief. Compare 28
+U. S. C. §1341 (“district courts shall not enjoin, suspend or
+restrain . . . the collection of ” state taxes) with 8 U. S. C.
+§1252(f )(1) (“no court (other than the Supreme Court) shall
+have jurisdiction or authority to enjoin or restrain the oper-
+ation of ” specified provisions).2  In Grace Brethren Church,
+the plaintiffs sought a “declaratory judgment holding state
+tax laws unconstitutional.” 457 U. S., at 408. Even though
+the plaintiffs did not seek an injunction, the Court held that
+the Act barred granting the declaration.  Id., at 411. It rea-
+soned that “there is little practical difference between in-
+junctive and declaratory relief,” id., at 408, so the declara -
+tion in question was an order to “enjoin, suspend or
+restrain” the collection of taxes and thus barred by the Act,
+28 U. S. C. §1341.3
+——————
+2 Section 1252(f ) was added to the INA as part of the Illegal Immigra-
+tion Reform and Immigrant Responsibility Act of 1996, 110 Stat. 3009–
+611 to 3009–612.
+3 As Judge Fuentes of the Third Circuit has explained, the Court has
+applied this reasoning in other contexts, as well.  Alli v. Decker, 650 F. 3d
+1007, 1018 (2011) (dissenting opinion).  In Samuels v. Mackell, 401 U. S.
+66 (1971), the Court held that a declaratory judgment would have
+
+5  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+The same rationale seems to apply to §1252(f )(1):  Declar-
+atory judgments that immigration enforcement actions are
+unlawful have the practical effect of “restraining” the Gov -
+ernment in the same way that an injunction would.  See Alli
+v. Decker, 650 F. 3d 1007, 1019 (CA3 2011) (Fuentes, J., dis-
+senting). After all, the Government “conform[s] its current
+conduct to what a court has declared to be the law,” just as
+it would under an injunction. Tr. of Oral Arg. 89.  If any-
+thing, §1252(f )(1) more clearly forbids such declaratory re-
+lief than the Tax Injunction Act because it carried over
+nearly the exact words that Grace Brethren Church had al-
+ready interpreted to preclude declaratory relief.  See Wil-
+liams v. Taylor, 529 U. S. 420, 434 (2000); Learning Re-
+sources, Inc. v. Trump, 607 U. S. 229, 344–345 (2026)
+(KAVANAUGH, J., dissenting).
+Even if some declaratory relief were compatible with
+§1252(f )(1), the relief entered here likely is not.  The Gov-
+ernment was subject to a declaration that, under §706(1) of
+the APA, it was illegal for it to withhold inspection from the
+class members. See supra, at 3–4.  The court’s judgment
+was therefore a declaration that the Government’s meter-
+ing policy resulted in “agency action unlawfully withheld or
+unreasonably delayed.”  A §706(1) order, by its plain terms,
+“compel[s]” the agency to carry out the relevant duties un-
+der §1225. So, like the injunction held unlawful in Aleman
+Gonzalez, this judgment under §706(1) appears to “require
+officials to take actions that (in the Government’s view) are
+not required by” covered provisions of the INA, contrary to
+§1252(f )(1).  596 U. S., at 551.
+The Court has repeatedly reserved the question whether
+§1252(f )(1) bars declaratory relief.  Ibid., n. 2; Biden v.
+Texas, 597 U. S. 785, 801, n. 4 (2022).  In this case, the
+——————
+“virtually the same practical impact as a formal injunction,” id., at 72, so
+the holding of Younger v. Harris, 401 U. S. 37 (1971), barring injunctions
+against state criminal proceedings, id., at 41, applied to declaratory judg-
+ments, too.
+
+Government did not press the issue, and the Court correctly
+reverses the Ninth Circuit’s clearly erroneous merits hold-
+ing. The Court should soon address the apparent resistance
+to, and evasion of, §1252(f )(1) in a future case.
+III
+Separately, even if the stat ute authorized the District
+Court’s order effectively requiring executive officials to
+bring certain aliens into the country, it would raise serious
+constitutional questions.
+“[T]he President has inherent authority to exclude aliens
+from the country.” Trump v. Hawaii, 585 U. S. 667, 712
+(2018) (THOMAS, J., concurring). There is “founding-era ev-
+idence” showing “that ‘the executive Power,’ Art. II, §1, in-
+cludes the power to deport aliens.” Sessions v. Dimaya, 584
+U. S. 148, 217 (2018) (T HOMAS, J., dissenting).  For exam-
+ple, William Blackstone explained that the King could send
+alien friends “home whenever the king sees occasion.” 1
+Commentaries on the Laws of England 252 (1765).  And, at
+the time of ratification, Framers of the Constitution argued
+that the President would have the same power.  See Ses-
+sions, 584 U. S., at 218 (collecting sources).
+Congress, for its part, has no enumerated power to re-
+quire the President to bring certain aliens into the country.
+The Constitution grants Cong ress the power to “establish
+an uniform Rule of Naturalization.” Art. I, §8, cl. 4. But,
+the class members in this case are not naturalized or even
+on the path to naturalization.  The Necessary and Proper
+Clause, Art. I, §8, cl. 18, likewise does not give Congress
+this power. Congress may pass laws “which shall be neces-
+sary and proper for carrying into Execution” its powers and
+those of the other branches of the Federal Government.
+Ibid.  But, a law is not “proper” in this sense if it “purports
+to direct another branch’s exerci se of its power,” or, at a
+minimum, “takes one of those actions and the branch to
+which the power is allocated objects to the action.”
+
+7  Cite as: 609 U. S. ____ (2026)
+THOMAS, J., concurring
+Zivotofsky v. Kerry, 576 U. S. 1, 50 (2015) (THOMAS, J., con-
+curring in judgment in part and dissenting in part).  So, any
+statute that forced the President to allow aliens to cross the
+border against his will would appear to exceed Congress’s
+enumerated powers, and a court could not enforce it against
+the President.

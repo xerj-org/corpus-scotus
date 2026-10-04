@@ -1,0 +1,637 @@
+Hencely v. Fluor Corp. — No. 24-924 — October Term 2025 — decided 4/22/26 — Alito, J., dissenting
+Citation: 608 U.S. 31
+Source: https://www.supremecourt.gov/opinions/25pdf/608us1r27_bq7c.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Justice Alito, with whom The Chief Justice and Jus-
+tice Kavanaugh join, dissenting.
+May a State regulate security arrangements on a military
+base in an active warzone? May state judges and juries
+pass judgment on questions that are inextricably tied to mili-
+tary decisions that balance war-related risks against long-
+term strategic objectives? In my judgment, the answer to
+these questions must be “no,” and for that reason, this state-
+law tort case is preempted by the Constitution's grant of war
+powers exclusively to the Federal Government.
+The event that gave rise to this case was a tragic break-
+down in security at Bagram Airfeld in Afghanistan in 2016,
+when the United States military was engaged in combat in
+that theater. Ahmad Nayeb, an Afghan national employed
+to work on the base, detonated a suicide bomb that killed 3
+U. S. soldiers and 2 civilians and injured 17 others.
+In the years before this event, Taliban supporters repeat-
+edly attacked Bagram, but the military nevertheless decided
+for strategic reasons to adopt a policy known as “Afghan
+First,” which required contractors working on the base to
+maximize the employment of Afghans. Under that policy,
+military officials vetted Nayeb, a former Taliban member,
+and cleared him to work on the base. Giving a person with
+Nayeb's background regular access to Bagram presented an
+obvious risk, but the decisionmakers apparently concluded
+that long-term foreign policy and defense objectives justified
+that danger. As a result, a subcontractor for Fluor Corpora-
+tion, a defense contractor engaged in work on the base, em-
+ployed Nayeb. Fluor had responsibility for supervising
+Nayeb's conduct, and Fluor allegedly failed to provide ade-
+quate supervision.
+Among those injured when Nayeb detonated his bomb was
+petitioner, former Army Specialist Winston Tyler Hencely,
+who suffered severe and permanent injuries. Barred by
+sovereign immunity from suing the Federal Government,
+petitioner brought this diversity suit against Fluor and as-
+serted tort claims under South Carolina law. Like all mem-
+bers of the military wounded in the service of our country,
+petitioner deserves a full measure of support from the Amer-
+ican people, who owe him a debt that can never be fully re-
+paid. But this state-law tort suit is not the way to give
+petitioner what he is due.
+Under the Constitution, the power to make war and con-
+duct combat operations is entrusted exclusively to Congress
+and the President. See Art. I, § 8, cls. 1, 11–16; Art. II, § 1,
+cl. 1, § 2, cl. 1. The Constitution expressly excludes the
+States from this feld, Art. I, § 10, cl. 3, and thus no state law,
+including state tort law, may intrude on the Federal Govern-
+ment's authority over combat-related operations.
+This suit violates that cardinal principle. Among other
+concerns, the trial proceedings that will result from today's
+decision are likely to implicate the Government's policy deci-
+sions about the operation of Bagram Airfeld during the War
+on Terror. Fluor has stated that it will attempt to assign
+blame for the bombing to the military. In doing so, Fluor is
+likely to challenge the military's decision to give Nayeb ac-
+cess to the base in the first place, as well as the sufficiency of
+the military's periodic reassessments of his trustworthiness.
+And to support this defense, Fluor may demand discovery of
+sensitive Government documents and may depose and cross-
+examine military commanders about policy decisions that in-
+volved a delicate and contestable balancing of wartime inter-
+ests. In the end, a jury may be asked to decide whether
+petitioner's injuries were caused by the negligence or bad
+judgment of military decisionmakers and the officers respon-
+sible for the operation of the base. And to make matters
+worse, there is a possibility that the case will be decided under
+the principles of Afghan law in effect in 2016, even though sim-
+ply ascertaining those principles would be a daunting task.
+Because petitioner's state-law claims intrude on the Fed-
+eral Government's exclusive power to make war and conduct
+combat operations, the Constitution preempts them.
+I
+A
+The Constitution makes federal law the “supreme Law of
+the Land,” Art. VI, cl. 2, and over the years, this Court has
+identified a variety of circumstances in which federal law
+preempts state law. In this case, the opinion of the Court
+stresses the two situations in which preemption is most evi-
+dent: where a federal law expressly preempts state law and
+where it is impossible for a regulated party to comply with
+both federal and state law. See ante, at 34, 37–38. But
+these two categories do not constitute an exhaustive list.
+Our precedents squarely establish that the Constitution and
+other federal laws may also impliedly preempt state law.
+Kansas v. Garcia, 589 U. S. 191, 202–203 (2020). And most
+pertinent here, we have long recognized that federal law pre-
+empts state laws that intrude on the powers that the Consti-
+tution confers exclusively on the Federal Government, as
+well as laws that substantially interfere with the operation
+of the Federal Government's organs or the work of federal
+officers.
+Our decisions in this vein began at least as early as Mc-
+Culloch v. Maryland, 4 Wheat. 316 (1819), where the Court
+held that Maryland could not tax the Second Bank of the
+United States. Writing for the Court, Chief Justice Mar-
+shall noted that some powers, including control over federal
+instrumentalities like the Bank, belong exclusively to the
+Federal Government. Id., at 429. Thus, Maryland could
+not control the Bank, and because the power to tax could be
+used to control—and indeed destroy—the Bank, the State
+could not tax it. Id., at 431. Chief Justice Marshall stated
+the holding of the Court in unequivocal terms: “[T]he States
+have no power, by taxation or otherwise, to retard, impede,
+burden, or in any manner control, the operations of the con-
+stitutional laws enacted by Congress to carry into execution
+the powers vested in the general government.” Id., at 436.
+That principle doomed Maryland's tax even though no provi-
+sion of federal law expressly preempted the state law and
+even though the Court did not suggest that the Bank was
+incapable of paying the tax. Rather, the Court inferred the
+preemptive effect of federal law from the structure of the
+Constitution. See id., at 430–431.
+Five years later, the Court's decision in another landmark
+case involving the Second Bank of the United States reaf-
+firmed the principle of implied preemption recognized in Mc-
+Culloch. Writing for the Court in Osborn v. Bank of United
+States, 9 Wheat. 738 (1824), Chief Justice Marshall explained
+that some state incursions into federal operations are “so
+objectionable” that federal law need not say anything to pre-
+empt them. Id., at 865. For example, the “collectors of the
+revenue, the carriers of the mail, the mint establishment, and
+all those institutions which are public . . . are protected,
+while in the line of duty; and yet this protection is not ex-
+pressed in any act of Congress.” Ibid. Thus, Ohio, like
+Maryland in McCulloch, was barred from taxing the Bank
+simply because of the Constitution's delineation of federal
+and state authority.
+McCulloch and Osborn were early cases identifying fields
+that are “exclusively federal, because made so by constitu-
+tional or valid congressional command,” or because they “so
+vitally affec[t] interests, powers and relations of the Federal
+Government as to require uniform national disposition.”
+United States v. Standard Oil Co. of Cal., 332 U. S. 301, 307
+(1947). In such areas, this Court does not apply a presump-
+tion against preemption. That presumption is grounded in
+respect for state sovereignty, so it applies to fields the
+“ `States have traditionally occupied.' ” Wyeth v. Levine, 555
+U. S. 555, 565 (2009) (quoting Medtronic, Inc. v. Lohr, 518
+U. S. 470, 485 (1996)). But when state law intrudes in an
+exclusively federal domain, the rationale for the presumption
+does not apply. In those fields, the “conflict with federal pol-
+icy need not be as sharp as that which must exist for ordi-
+nary pre-emption when Congress legislates `in a feld which
+the States have traditionally occupied.' ” Boyle v. United
+Technologies Corp., 487 U. S. 500, 507 (1988) (quoting Rice v.
+Santa Fe Elevator Corp., 331 U. S. 218, 230 (1947)). In
+other words, the “fact that the area in question is one of
+unique federal concern changes what would otherwise be a
+conflict that cannot produce pre-emption into one that can.”
+Boyle, 487 U. S., at 508 (emphasis deleted).
+Osborn, as noted, enumerated several exclusive federal do-
+mains into which States may not intrude, and later cases
+reaffirmed and further developed that list. For example,
+the Court held that States cannot prosecute federal agents
+for their official acts. In re Neagle, 135 U. S. 1, 75–76 (1890);
+see Tennessee v. Davis, 100 U. S. 257, 262–263 (1880) (quoting
+Martin v. Hunter's Lessee, 1 Wheat. 304, 363 (1816) (Johnson,
+J., concurring in judgment)). They cannot impose qualifica-
+tions for membership in Congress that go beyond those set
+out in the Constitution. U. S. Term Limits, Inc. v. Thorn-
+ton, 514 U. S. 779, 806 (1995). Nor can States enact qualifi-
+cations for federal employees that surpass the minimum
+qualifications imposed by federal law. Johnson v. Mary-
+land, 254 U. S. 51, 57 (1920). States are also barred from
+singling out the Federal Government for unfavorable treat-
+ment in contracting. United States v. Washington, 596 U. S.
+832, 839 (2022). They cannot impose tort liability on federal
+contractors for the performance of their contractual duties.
+Yearsley v. W. A. Ross Constr. Co., 309 U. S. 18, 20–21 (1940).
+And they cannot dictate the priority of federal liens that
+arise under a nationwide program. United States v. Kim-
+bell Foods, Inc., 440 U. S. 715, 726 (1979).
+In these situations, the Court found that constitutional
+structure dictated preemption, but today's majority largely
+disregards this body of precedent. The majority is certainly
+correct that “ `[t]here is no federal pre-emption in vacuo ,' ”
+ante, at 38, and preemption cannot be based on “ `some brood-
+ing federal interest' ” or a “ `freewheeling judicial inquiry
+into whether a state statute is in tension with federal objec-
+tives.' ” Garcia, 589 U. S., at 202. We have been presented
+with and have rebuffed preemption arguments that rested
+on such airy grounds. See, e. g., Arizona v. United States,
+567 U. S. 387, 411–415 (2012): id., at 424–426 (Scalia, J., con-
+curring in part and dissenting in part); id., at 437–438
+(Thomas, J., concurring in part and dissenting in part); id.,
+at 441 (Alito, J., concurring in part and dissenting in part). 1
+But any argument that constitutional structure cannot itself
+preempt state law comes more than two centuries too late.
+B
+Preemption based on constitutional structure is especially
+important when state law intrudes upon the Federal Govern-
+ment's exclusive authority to conduct relations with other
+nations or to wage war. As the Court has repeatedly ex-
+plained, the “Federal Government . . . is entrusted with full
+and exclusive responsibility for the conduct of affairs with
+foreign sovereignties.” Hines v. Davidowitz, 312 U. S. 52,
+63 (1941). Indeed, “[o]ur system of government . . . impera-
+tively requires that federal power in the feld affecting for-
+eign relations be left entirely free from local interference.”
+Ibid.; see also United States v. Belmont, 301 U. S. 324, 330–
+1 In that case, a state law required law enforcement officers to contact
+federal authorities regarding the immigration status of a detainee if they
+reasonably suspected that he or she was in this country unlawfully. Ari-
+zona, 567 U. S., at 411. Even if this detention did not exceed the length
+of time permitted by the Fourth Amendment, the Federal Government
+argued that this state-law requirement was preempted because its breadth
+conficted with the Government's enforcement policy, which gave priority
+to the removal of those illegal aliens who had criminal records or pre-
+sented a special danger to the community. See Brief for United States in
+Arizona v. United States, O. T. 2011, No. 11–182, pp. 43–52. Although
+divided on other issues, the Court unanimously rejected that argument.
+Just because the state law might have led to phone calls or emails that
+federal immigration officers did not wish to receive provided no sound
+basis for preemption. See, e. g., Arizona, 567 U. S., at 412–413; id., at
+442–446 (Alito, J ., concurring in part and dissenting in part).
+331 (1937) (“Governmental power over external affairs is not
+distributed, but is vested exclusively in the national govern-
+ment . . . and cannot be subject to any curtailment or inter-
+ference on the part of the several states”); Zschernig v.
+Miller, 389 U. S. 429, 432 (1968) (the Constitution permits no
+“intrusion by the State into the feld of foreign affairs which
+the Constitution entrusts to the President and the Con-
+gress”); Saleh v. Titan Corp., 580 F. 3d 1, 11 (CADC 2009)
+(Silberman, J.) (“The states (and certainly foreign entities)
+constitutionally and traditionally have no involvement in fed-
+eral wartime policy-making”).
+We have applied this principle in numerous preemption
+cases. In Crosby v. National Foreign Trade Council, 530
+U. S. 363 (2000), we held that a federal statute imposing sanc-
+tions on Burma preempted a state law banning the purchase
+of goods produced by companies that did business with that
+nation. Id., at 373–374. We reached that conclusion even
+though it would have been possible to comply with both the
+federal and state laws. Id., at 379–380. Similarly, in
+American Ins. Assn. v. Garamendi, 539 U. S. 396 (2003), we
+held that a federal executive agreement preempted a state
+statute that attempted to facilitate reparations for Holocaust
+survivors. Id., at 419, and n. 11, 427.
+As with foreign affairs more broadly, the Constitution as-
+signs the power to make war exclusively to the Federal Gov-
+ernment. Congress is given the power to declare war, raise
+armies, provide a Navy, and make rules governing the
+Armed Forces. Art. I, § 8, cls. 1, 11–16. And the President
+is made the Commander in Chief of the Armed Forces. Art.
+II, § 2, cl. 1. The Constitution then explicitly strips States
+of any similar powers. States may not “keep Troops, or
+Ships of War in time of Peace,” or “engage in War, unless
+actually invaded, or in such imminent Danger as will not
+admit of delay.” Art. I, § 10, cl. 3. The “Constitution's text,
+across several Articles, strongly suggests a complete delega-
+tion of authority to the Federal Government to provide for
+the common defense.” Torres v. Texas Dept. of Public
+Safety, 597 U. S. 580, 590 (2022). The framing generation
+well understood this point. “The States ultimately ratified
+the Constitution knowing that their sovereignty would give
+way to national military policy.” Id., at 592.
+* * *
+In sum, we have long recognized that the Constitution it-
+self may demand preemption when a state law intrudes upon
+an area of exclusive federal authority. And because the
+Constitution gives the Federal Government exclusive au-
+thority over foreign affairs and the conduct of wars, federal
+law preempts all state law that substantially interferes with
+the Government's exercise of those powers.
+II
+Applying state (or foreign) tort law in this case would sub-
+stantially interfere with the Government's ability to wage
+war and, in particular, with its ability to implement its pre-
+ferred security policies at Bagram Airfeld, which for many
+years had been regularly attacked by Taliban supporters.
+In February 2007, a suicide bombing on the base killed 23
+and injured 20 more. A June 2009 rocket attack killed two
+soldiers and injured at least six others. In May 2010, insur-
+gents wearing U. S. Army uniforms killed an American
+contractor and wounded nine servicemembers. A Novem-
+ber 2013 rocket attack killed two civilian contractors, and
+a December 2015 suicide bombing killed six American
+servicemembers.2
+In light of this history, military planners had strong rea-
+sons to worry about base security, but they also had in mind
+the United States' strategic objectives. 554 F. Supp. 3d 770,
+2 P. Wellman, A Timeline of Important Moments at Bagram Airfeld from
+2001–2021, Stars & Stripes (July 2, 2021), https://www.stripes.com /
+theaters/middle_east/2021-07-02/ bagram-airfield-timeline-of-events-since-
+2001-2026849.html (archived at https://perma.cc/J3Y7-MFNQ).
+776, n. 7 (SC 2021). President George W. Bush laid out those
+aims as follows: “Our goal in Afghanistan is to help the peo-
+ple of that country to defeat the terrorists and establish a
+stable, moderate, and democratic state that respects the
+right of its citizens, governs its territory effectively, and is a
+reliable ally in this war against extremists and terrorists.” 3
+Later, as President Obama looked forward to the day when
+American troops could come home, he added that the United
+States supported “open[ing] the door to those Taliban who
+abandon violence and respect the human rights of their fel-
+low citizens.” 4
+Balancing these strategic objectives and Bagram's security
+needs, military decisionmakers adopted a policy that entailed
+what they must have thought were tolerable and manageable
+risks. The policy manifested trust in the Afghan people,
+sought to promote economic development, and attempted to
+further the process of bringing former Taliban members
+back into the fold.
+This was the military's “Afghan First” policy, which gave
+heavy preference to the hiring of Afghans. In a March 2006
+memorandum, the Commanding General of the Combined
+Forces Coalition in Afghanistan directed all military com-
+manders to “make every attempt, within legal and regula-
+tory limits, to use available Afghan services.” Motion for
+Summary Judgment in No. 6:19–cv–00489 (D SC, Feb. 26,
+2021), ECF Doc. 128–18, Exh. 16, p. 2. The memo added
+that “[w]henever possible, we should plan on providing Af-
+ghans with training which will add marketable skills to the
+3 President Bush Discusses Progress in Afghanistan, Global War on Ter-
+ror (Feb. 15, 2007), https://georgewbush-whitehouse.archives.gov/news /
+releases/2007/02/20070215-1.html (archived at https://perma.cc/A6SK -
+VVBD).
+4 Remarks By the President in Address to the Nation on the Way For-
+ward in Afghanistan and Pakistan (Dec. 1, 2009), https://obamawhitehouse
+.archives.gov/the-press-office/remarks-president-address-nation-way -
+forward-afghanistan-and-pakistan (archived at https://perma.cc/Z3YB -
+M88H).
+population.” Ibid. The memo recognized that this direc-
+tive would risk some adverse consequences, but it justified
+the program on the ground that it would “provide opportuni-
+ties for economic expansion, increased entrepreneurship, and
+skills training for the people of Afghanistan.” Ibid. “As
+long as we can legally hire Afghans to provide services or
+products,” the memo proclaimed, “we shall do so.” Ibid.
+The memo therefore directed military officials to award
+contracts to Afghans, rather than American contractors,
+whenever possible. And when officials awarded contracts to
+American companies like Fluor, the memo stated that “[o]r-
+ders are to be scoped to maximize employment of Afghans.”
+Ibid. Commanders were instructed to set goals and write
+reports regarding the percentage of Afghans employed
+under the contracts they administered, and the memo chal-
+lenged commanders to “be creative and aggressive in carry-
+ing out the Afghan FIRST program.” Id., at 3. The memo
+ended with the proclamation that “[t]his is a powerful way to
+contribute meaningfully to our campaign end state.” Ibid.
+The Afghan First program was incorporated into Fluor's
+contract. Specifically, § 1.07(b) of the relevant task order re-
+quired Fluor to “hire [host nation] personnel and Subcontrac-
+tors to the maximum extent possible.” ECF Doc. 128–19,
+Exh. 17, p. 6. According to Fluor's security director,
+“[p]ractically, this meant that the Military required Fluor to
+use [local nationals]. In fact, if Fluor employed persons
+other than Afghan nationals, the Military usually required
+Fluor to justify its decision.” ECF Doc. 128–7, Exh. 5, p. 17.
+It was under this program that Nayeb was cleared for em-
+ployment on Bagram and then hired by one of Fluor's sub-
+contractors. Because of Nayeb's past Taliban membership,
+clearing him entailed an obvious risk. But the military con-
+cluded that the United States' strategic objectives justified
+that danger. The military relied on Fluor to supervise Na-
+yeb's conduct on the base, and this arrangement led to the
+bombing that seriously injured petitioner.
+Based on what is known about the events leading to the
+bombing, it may well be that both the military and Fluor are
+responsible for petitioner's injuries. Under South Carolina
+law, they could be jointly and severally liable, but because
+the military is shielded by sovereign immunity, Fluor is po-
+tentially liable for all the compensatory damages that peti-
+tioner may be awarded. See Green v. McGee, 446 S. C. 343,
+350, 919 S. E. 2d 903, 906 (2025); 120 F. 4th 412, 424 (CA4
+2024). Any negligence on the part of the military would not
+diminish Fluor's liability for compensatory damages.
+At this point, however, we do not know whether South
+Carolina law will be applied on remand. (I will discuss that
+question below.) But even if the rule of joint and several
+liability applies, Fluor will be free to try to show that the
+military was solely responsible for petitioner's injuries, and
+Fluor has stated that it will pursue that strategy. See id.,
+at 424–425 (Fluor plans to try the military as the “empty
+chair”). Even if this attempt to shift all blame to the Fed-
+eral Government does not work, Fluor could also use evi-
+dence of the military's responsibility as a defense against
+petitioner's claim for punitive damages. See App. to Pet.
+for Cert. 150a. For these reasons, adjudication of Fluor's
+defense is very likely to entail an evaluation of the way the
+Federal Government assessed the risks and benefits of Na-
+yeb's employment, and this would impermissibly intrude on
+the Federal Government's exclusive war powers.
+This suit threatens many other harms to federal interests
+as well. The parties may seek discovery of sensitive docu-
+ments about security threats at Bagram and about the trade-
+offs reflected in setting security policy. The United States
+will have to decide whether public disclosure of such docu-
+ments is consistent with the Nation's defense and foreign
+policy interests, and its only way to resist their disclosure
+may be the invocation of the state-secrets privilege. For
+good reason, the Government does not lightly assert that
+privilege; it is “the option of last resort.” General Dynam-
+ics Corp. v. United States, 563 U. S. 478, 492 (2011). But in
+this case, the Government has not yet ruled it out. Brief
+for United States as Amicus Curiae 21, n. 1.
+Depositions and trial testimony by military officers re-
+sponsible for setting and implementing base security policy
+and protocols may pose similar problems and may also inter-
+fere with these officers' current responsibilities regarding ur-
+gent national security challenges. Members of the military
+who investigated the bombing may likewise be deposed, sub-
+poenaed to testify, and cross-examined about their conclu-
+sions regarding Fluor's conduct, and this could take a toll.
+All these harms will be compounded if active-duty service-
+members can bring state tort suits like petitioner's. Having
+active-duty servicemembers depose their commanders and
+question military judgments could interfere with military
+discipline and the proper chain of command.
+The shadow of state tort liability may also undermine the
+Government's use of contractors to perform tasks that are
+closely related to actual combat operations. See 120 F. 4th,
+at 427 (petitioner has acknowledged that Fluor “was inte-
+grated into combatant activities” on the base (internal quota-
+tion marks omitted)); accord, 554 F. Supp. 3d, at 774. For a
+variety of reasons, federal policy has increased the use of
+contractors to provide security in dangerous locales. And in
+doing so, contractors take directions from the military. But
+“[f]aced with the specter of tort liability, . . . a contractor
+would have to balance battlefeld needs as dictated by mili-
+tary command against what a judge or jury might say years
+after the fact.” Brief for Retired Senior Military Officers
+as Amici Curiae 22. Putting contractors in this conficted
+position could lead to adversarial relationships with mili-
+tary commanders.
+Applying state tort law to events that occur on a military
+base in an active warzone may also lead to vexing choice-of-
+law problems—and those problems are certainly present
+here. This is a diversity case fled in federal court in South
+Carolina, so that State's choice-of-law rules govern. See
+Klaxon Co. v. Stentor Elec. Mfg. Co., 313 U. S. 487, 496 (1941).
+Under those rules, “the substantive law governing a tort ac-
+tion is determined by the lex loci delicti, the law of the state
+in which the injury occurred.” Boone v. Boone, 345 S. C. 8,
+13, 546 S. E. 2d 191, 193 (2001). Hencely's injury occurred
+in Afghanistan. So a routine application of South Carolina's
+lex loci delicti rule5 would call for a trial under Afghan law
+as it existed in 2016. 6 Just identifying the relevant princi-
+ples in that body of law would be a challenge. 7 And if the
+5 The result might be the same under choice of law rules like the
+government-interest test or the test in the Restatement (Second) of Con-
+flict of Laws § 145 (1969). See, e. g., M. M. v. Islamic Republic of Iran,
+708 F. Supp. 3d 22, 47–48 (DC 2023); Sadiqyar v. Mission Essential, LLC ,
+2020 WL 5210850, *4, n. 3 (SD Ohio, Sept. 1, 2020) (“California choice of
+law rules, as stated in the `governmental interests test,' might permit the
+application of Afghan law”).
+6 It is possible that a South Carolina court would not apply the lex loci
+delicti rule. South Carolina courts, like those in many other States, will
+not apply another jurisdiction's law when doing so would contravene their
+own State's public policy. Boone, 345 S. C., at 13, 546 S. E. 2d, at 193.
+But determining whether Afghan law contravenes South Carolina's public
+policy would seem to require the identification of the relevant principles
+of Afghan law. And as petitioner noted at oral argument, some decisions
+“have applied Afghan law in situations like this.” Tr. of Oral Arg. 24; see,
+e. g., M. M., 708 F. Supp. 3d, at 47–48 (suicide bombing involving federal
+contractor); Haskins v. Midwest Air Traffc Control Serv., Inc., 2016 WL
+3653531, *5 (ND Ill., July 8, 2016) (plane crash in Afghanistan involving
+American passenger). In fact, Fluor itself has had to litigate claims under
+Afghan law. Allen v. Fluor Corp., 2017 WL 2618821, *5 (ND Tex., June
+15, 2017). And other decisions have applied Iraqi law to similar tort
+claims against American military contractors. See, e. g., McGee v. Arkel
+Int'l, LLC , 671 F. 3d 539, 543 (CA5 2012); Al-Quraishi v. Nakhla, 728
+F. Supp. 2d 702, 763 (Md. 2010).
+7 Despite its length (2416 Articles), the 1977 Afghan Civil Code gives
+only cursory treatment to standard tort issues and omits discussion of
+some key topics altogether. The Code states simply that “[i]f harm is
+inflicted on another due to . . . fault, the perpetrator shall be obligated to
+pay compensation.” Civil Code of the Republic of Afghanistan, Art.
+776 (1977 Civil Code) (transl. by Afghanistan Legal Education Project
+application of state law would impermissibly intrude in an
+exclusively federal domain, then adjudicating this case under
+foreign law would be even worse.
+III
+Despite this suit's intrusion into a domain of exclusive fed-
+eral authority, petitioner contends that his suit is not pre-
+empted for two main reasons: (1) the Federal Tort Claims
+Act's retention of sovereign immunity for “combatant activi-
+ties . . . during time of war” does not apply here, 28 U. S. C.
+§ 2680(j), and (2) our decision in Boyle does not dictate pre-
+emption. Neither argument provides a ground for reject-
+ing preemption.
+A
+The Federal Tort Claims Act (FTCA) does not help peti-
+tioner because that law simply does not speak to the question
+of preemption. The FTCA provides a limited waiver of the
+United States' sovereign immunity from suit but sets out
+certain exceptions to that waiver, and one of these excep-
+tions covers claims “arising out of the combatant activities
+of the military or naval forces, or the Coast Guard, during
+time of war.” Ibid. This exception protects the Federal
+Government from liability for petitioner's injuries, but its
+terms do not address the question whether state tort law
+applies to a federal contractor carrying out federal wartime
+2014). The Code similarly treats causation and joint and several liability
+in one-sentence provisions. Arts. 783, 789. If these bare-bones provi-
+sions supply insufficient guidance for courts, then the problems multiply.
+Under Afghanistan's now apparently defunct 2004 Constitution, when no
+specific provision of law on a question could be found, courts were in-
+structed to consider “Hanafi jurisprudence”—a Sharia legal tradition—
+and to rule “in a way that attains justice in the best manner.” Art. 130;
+accord, 1977 Civil Code, Art. 2. Cf. Center Khurasan Constr. Co. v. JS
+Int'l, Inc., 2021 WL 5882342, *2 (D Md., Dec. 10, 2021) (“Ascertaining Af-
+ghan law is no simple task”); Global Fleet Sales, LLC v. Delunas, 203
+F. Supp. 3d 789, 805 (ED Mich. 2016) (“[T]he Court would be ill-equipped
+to apply the law of Afghanistan”).
+policies on a military base in theater. Indeed, that provision
+does not even give rise to an inference of non-preemption.
+Since the FTCA concerns the Government's sovereign im-
+munity, and since government contractors enjoy no such im-
+munity, that Act would be a strange place to include a provi-
+sion shielding such contractors from state-law liability. If
+anything, § 2680(j) lends support to preemption because it is
+based on the same strong federal interest that provides the
+basis for preemption here: the exclusive authority of the
+President and Congress to decide how combat-related activi-
+ties should be conducted.
+B
+Boyle, likewise, does not support petitioner's argument.
+Petitioner urges us not to “extend” the holding in Boyle,
+Brief for Petitioner 31, but that argument rests on the false
+premise that Boyle governs the preemption of all tort claims
+against government contractors. Boyle's holding concerns
+the preemption of claims based on a particular federal inter-
+est, namely, the Government's interest in “the performance
+of federal procurement contracts.” 487 U. S., at 506. When
+preemption is sought on the ground that the application of
+state law would impermissibly undermine that interest,
+Boyle provides a test for determining whether application of
+the state law in question would actually have that effect.
+It asks whether “(1) the United States approved reasonably
+precise specifcations; (2) the equipment conformed to those
+specifcations; and (3) the supplier warned the United States
+about the dangers in the use of the equipment that were
+known to the supplier but not to the United States.” Id., at
+512. If all those requirements are met, Boyle infers that
+any dangerous defect in the product “may well reflect a sig-
+nificant policy judgment by Government officials.” Id., at
+513. Therefore, imposing liability on a contractor for an al-
+legedly dangerous feature of the design the Government re-
+quired would pressure contractors to deviate from that de-
+sign, and that would undermine the Government's interest
+in “the performance of federal procurement contracts” in ac-
+cordance with its wishes. Id., at 506.
+The preemption claim in this case rests on a different
+basis. The federal interest at stake is not the performance
+of a procurement contract but the interest in making foreign-
+affairs and strategic military decisions without state inter-
+ference. That interest did not figure in Boyle's preemption
+analysis. As the Court notes, the claim in Boyle did not
+involve combatant activities. Ante, at 38–39. It concerned
+a helicopter crash off the coast of Virginia. Although the
+plaintiff was a Marine and the helicopter was designed for
+military use, the Court treated the contract under which the
+helicopter was procured like any other government con-
+tract. If the helicopter had been designed and procured for
+a civilian agency, the Court's analysis would have been the
+same.
+If anything, Boyle lends support to preemption here be-
+cause it held state law was preempted even in the absence
+of any relevant express preemption provision. And it recog-
+nized that a state tort claim may be preempted if it intrudes
+on an area involving a “uniquely federal interes[t].” 487
+U. S., at 504. But its relevance for present purposes stops
+there.
+C
+One other argument offered by the majority requires a
+response. The majority argues that federal law does not
+preempt all state-law claims “connected to a war zone.”
+Ante, at 45. But the claim here is not simply one with some
+sort of connection to a “zone” in which there was an ongoing
+war. Rather, it is a claim that is intertwined with policy
+decisions regarding the way in which the war in Afghanistan
+should have been conducted.
+The Court suggests that “barring other statutory or con-
+stitutional considerations, plaintiffs have been able to en-
+force their legal rights even when they are violated during
+war.” Ibid. (emphasis added). Here, however, it is pre-
+cisely because of “constitutional considerations” that peti-
+tioner's state-law claims are preempted.
+In support of the proposition that a state-law tort claim
+may by based on war-related conduct, the Court cites three
+cases, but they are all far afield. The first, Penn Dairies,
+Inc. v. Milk Control Comm'n of Pa., 318 U. S. 261 (1943),
+concerned the application of a Pennsylvania milk-control law
+to a base in the State. To state the obvious, state regulation
+of milk prices for a stateside military base presents a far
+lower risk of intrusion into federal war powers than state
+regulation of defense contractors' activities in a foreign
+warzone.
+The other two cases are the products of a bygone legal
+era. See Little v. Barreme, 2 Cranch 170 (1804); Mitchell v.
+Harmony, 13 How. 115 (1852). Both cases predated Erie
+R. Co. v. Tompkins, 304 U. S. 64 (1938), and neither applied
+state law.8 Little involved the seizure of a vessel in the Ca-
+ribbean and appears to have applied admiralty or general
+federal common law. See 2 Cranch, at 179. Mitchell con-
+cerned the seizure of a merchant's personal property in Mex-
+ico during the Mexican-American War. 13 How., at 128. It,
+too, appears to have applied general federal common law.
+See id., at 135–136. 9 Thus, neither case addresses whether
+8 Additionally, both cases arose when the United States had plenary sov-
+ereign immunity from tort suits. During that period, wronged parties
+often obtained judgments against the officers who engaged in the con-
+tested conduct (and did not enjoy qualified immunity), and Congress often
+passed private bills indemnifying the officers. See J. Pfander, Iqbal,
+Bivens, and the Role of Judge-Made Law in Constitutional Adjudication,
+114 Pa. St. L. Rev. 1387, 1394 (2010). That is what appears to have hap-
+pened in these cases. See id., at 1393–1394 (the Court's opinion in Little
+“reflected the Court's perception that Congress bore responsibility for in-
+demnifying Captain Little”).
+9 The majority says that the “source of the tort principles” in Little and
+Mitchell is irrelevant because all tort claims would be preempted under
+Fluor's rule. Ante, at 46, n. 3. But I do not contend that the Constitu-
+tion bars all tort claims against Fluor, regardless of their source. Be-
+cause the Constitution makes war an exclusively federal domain, federal
+the Constitution preempts the application of state tort law
+to those carrying out federal wartime policies on a foreign
+military base.
+* * *
+The Constitution divides authority between the Federal
+Government and the States in many areas, but not when it
+comes to war. War is the exclusive domain of the Federal
+Government, but the Court allows state (or foreign law) to
+encroach on that domain. The Constitution precludes that
+encroachment, and therefore petitioner's suit is preempted.
+Because the Court holds otherwise, I respectfully dissent.
+law—including federal tort law—governs. State tort law, by contrast,
+has no role to play in war. Little and Mitchell are consistent with that
+dichotomy because they applied federal common law, not state law. The
+question of what, if any, federal tort claims Hencely could bring against
+Fluor is not presented here.

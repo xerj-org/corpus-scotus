@@ -1,0 +1,505 @@
+Bittner v. United States — No. 21-1195 — October Term 2022 — decided 2/28/23 — opinion of the Court — author Gorsuch (listing code NG)
+Citation: 598 U.S. 85
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r6_0813.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+88
+ BITTNER v. UNITED STATES
+Opinion of the Court
+whether the Secretary may impose nonwillful penalties on a per-report
+or per-account basis. Pp. 96–101.
+(c) Best read, the BSA treats the failure to fle a legally compliant
+report as one violation carrying a maximum penalty of $10,000.
+Pp. 103–104.
+19 F. 4th 734, reversed and remanded.
+Gorsuch, J., announced the judgment of the Court and delivered the
+opinion of the Court except as to Part II–C. Jackson, J., joined that
+opinion in full, and Roberts, C. J., and Alito and Kavanaugh, JJ., joined
+except for Part II–C. Barrett, J., fled a dissenting opinion, in which
+Thomas, Sotomayor, and Kagan, JJ., joined, post, p. 104.
+Daniel L. Geyser argued the cause for petitioner. With
+him on the briefs were Angela M. Oliver , Rachael E. Ruben-
+stein, and Farley P . Katz.
+Matthew Guarnieri argued the cause for the United
+States. With him on the brief were Solicitor General Pre-
+logar, Deputy Assistant Attorney General Hubbert, Deputy
+Solicitor General Gannon, Francesca Ugolini, Arthur T.
+Catterall, and Paul A. Allulis.*
+Justice Gorsuch announced the judgment of the Court
+and delivered the opinion of the Court with respect to
+Parts I, II–A, II–B, and III, and an opinion with respect to
+Part II–C, in which Justice Jackson joins.
+The Bank Secrecy Act and its implementing regulations
+require certain individuals to fle annual reports with the
+*Briefs of amici curiae urging reversal were fled for the American
+College of Tax Counsel by Caroline D. Ciraolo , Megan L. Brackney , and
+Caroline Rule; for the Center for Taxpayer Rights by Guinevere Moore ,
+Zhanna A. Ziering , Ajay Gupta, and Aaron M. Esman; for the Chamber
+of Commerce of the United States of America by Joseph R. Palmore and
+Edward L. Froelich; and for the National Federation of Independent Busi-
+ness Small Business Legal Center et al. by Arthur G. Sapper, Elizabeth Mil-
+ito, Ellen Steen, Travis Cushman, Thomas Ward, and Angelo I. Amador.
+Stephen M. Kohn and Rachel G. Talay fled a brief of amicus curiae
+urging affirmance for the National Whistleblower Center.
+David E. Sloan fled a brief of amicus curiae for the American College
+of Trust and Estate Counsel.
+89
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+federal government about their foreign bank accounts. The
+statute imposes a maximum $10,000 penalty for nonwillful
+violations of the law. But recently a question has arisen.
+Does someone who fails to fle a timely or accurate annual
+report commit a single violation subject to a single $10,000
+penalty? Or does that person commit separate violations
+and incur separate $10,000 penalties for each account not
+properly recorded within a single report?
+The answer makes a difference, especially for immigrants
+who hold accounts abroad and Americans who make their
+lives outside the country. On one view, penalties accrue on
+a per-report basis. So, for example, a single late-fled report
+disclosing the existence of 10 accounts may yield a maximum
+fne of $10,000. On another view, penalties multiply on a
+per-account basis, so the same report can invite a fne of
+$100,000 even if the individual's foreign holdings or total net
+worth do not approach that amount. Because the Ninth Cir-
+cuit read the law one way and the Fifth Circuit the other,
+we agreed to take this case.
+I
+The Bank Secrecy Act (BSA) does not make it illegal to
+hold foreign accounts. Nor does the BSA tax those ac-
+counts. To the contrary, the federal government has ac-
+knowledged that “U. S. persons maintain overseas financial
+accounts for a variety of legitimate reasons including con-
+venience and access.” IRS Pub. 5569, Report of Foreign
+Bank & Financial Accounts (FBAR) Reference Guide, p. 1
+(Rev. 3–2022). As relevant here, the BSA simply requires
+those who possess foreign accounts with an aggregate bal-
+ance of more than $10,000 to fle an annual report on a form
+known as an “FBAR”—the Report of Foreign Bank and Fi-
+nancial Accounts. 31 U. S. C. § 5314; 31 CFR § 1010.306
+(2021). These reports are designed to help the government
+“trace funds” that may be used for “illicit purposes” and
+identify “unreported income” that may be subject to taxation
+90
+ BITTNER v. UNITED STATES
+Opinion of the Court
+separately under the terms of the Internal Revenue Code.
+FBAR Reference Guide, at 1.
+The facts of the Ninth and Fifth Circuit cases help illumi-
+nate the particular question about the BSA now before us.
+The first dispute involved Jane Boyd, an American citizen
+who held 13 relevant accounts in the United Kingdom. The
+amounts in those accounts increased significantly after her
+father died in 2009 and she deposited her inheritance.
+United States v. Boyd, 991 F. 3d 1077, 1079 (CA9 2021). Be-
+cause the aggregate amount in Ms. Boyd's accounts exceeded
+$10,000 in 2009, she should have fled an FBAR in 2010. Ne-
+glecting to do so, she corrected the error in 2012, submitting
+a complete and accurate report at that time. Ibid. The
+government acknowledged that Ms. Boyd's violation of the
+law was “non-willful.” Still, the government said, it had the
+right to impose a $130,000 penalty—$10,000 for each of her
+13 late-reported accounts. Ibid.
+Ms. Boyd challenged the penalty in court where she ar-
+gued that her failure to fle a single timely FBAR subjected
+her to a single maximum penalty of $10,000. The district
+court rejected that argument and sided with the govern-
+ment. United States v. Boyd, 123 AFTR 2d 2019–1651 (CD
+Cal. 2019). But in time the Ninth Circuit vindicated Ms.
+Boyd's view, holding that the BSA authorizes “only one non-
+willful penalty when an untimely, but accurate, FBAR is
+fled, no matter the number of accounts.” 991 F. 3d, at 1078.
+More recently, the same question arose in the Fifth Circuit
+in a case involving Alexandru Bittner. Born and raised in
+Romania, Mr. Bittner immigrated to the United States at a
+young age in 1982. He worked first as a dishwasher and
+later as a plumber and along the way became a naturalized
+citizen. After the fall of communism, Mr. Bittner returned
+to Romania in 1990 where he launched a successful business
+career. Like many dual citizens, he did not appreciate that
+U. S. law required him to keep the government apprised of
+91
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+his overseas financial accounts even while he lived abroad.
+19 F. 4th 734, 739–740 (CA5 2021). Shortly after returning
+to the United States in 2011, Mr. Bittner learned of his re-
+porting obligations and engaged an accountant to help him
+prepare the required reports—covering fve years, from 2007
+through 2011. Id., at 739.
+But the story did not end there. The government identi-
+fed a problem in the late-fled reports. While those reports
+provided details about Mr. Bittner's largest account, they ne-
+glected to address 25 or more other accounts over which he
+had signatory authority or in which he had a qualifying in-
+terest. Ibid. After the government informed him of this
+deficiency, Mr. Bittner hired a new accountant who helped
+him fle corrected FBARs for each year in question. Ibid.
+Under governing regulations, flers with signatory authority
+over or a qualifying interest in fewer than 25 accounts must
+provide details about each account, but individuals with 25
+or more accounts need only check a box and disclose the total
+number of accounts. 31 CFR § 1010.350(g). Instead of em-
+ploying that expediency, however, Mr. Bittner and his new
+accountant volunteered details for each and every one of his
+accounts—61 accounts in 2007, 51 in 2008, 53 in 2009 and
+2010, and 54 in 2011. 19 F. 4th, at 739–740.
+The question then turned to what penalty Mr. Bittner
+should pay. The government did not contest the accuracy
+of Mr. Bittner's new filings. Nor did the government sug-
+gest that his previous errors were willful. But because the
+government took the view that nonwillful penalties apply to
+each account not accurately or timely reported, and because
+Mr. Bittner's late-fled reports for 2007–2011 collectively in-
+volved 272 accounts, the government thought a fne of $2.72
+million was in order. Id., at 739–740.
+Like Ms. Boyd before him, Mr. Bittner challenged his pen-
+alty in court, arguing that the BSA authorizes a maximum
+penalty for nonwillful violations of $10,000 per report, not
+92
+ BITTNER v. UNITED STATES
+Opinion of the Court
+$10,000 per account. As he put it, an individual's failure to
+fle fve reports in a timely manner might invite a penalty
+of $50,000, but it cannot support a penalty running into the
+millions. The district court agreed with Mr. Bittner's read-
+ing of the law, 469 F. Supp. 3d 709, 724–726 (ED Tex. 2020),
+but the Fifth Circuit upheld the government's assessment,
+19 F. 4th, at 749.
+II
+With those facts in mind, the question before us boils
+down to this: Does the BSA's $10,000 penalty for nonwillful
+violations accrue on a per-report or a per-account basis?
+Mr. Bittner urges us to agree with the Ninth Circuit and
+hold that the law authorizes a single $10,000 fne for each
+untimely or inaccurate report. The government defends the
+judgment of the Fifth Circuit and asks us to hold that a new
+$10,000 penalty attaches to each account not timely or accu-
+rately disclosed within a report.
+A
+To resolve who has the better reading of the law, we begin
+with the terms of the most immediately relevant statutory
+provisions, 31 U. S. C. § 5314 and § 5321. The first delineates
+an individual's legal duties under the BSA, the second out-
+lines the penalties that follow for failing to discharge those
+duties.
+Section 5314 provides that the Secretary of the Treasury
+“shall” require certain persons to “keep records, fle reports,
+or keep records and fle reports” when they “mak[e] a trans-
+action or maintai[n] a relation” with a “foreign financial
+agency.” § 5314(a). When it comes to the duty to fle re-
+ports, the relevant duty in our case, the statute says that
+reports “shall contain” information about “the identity and
+address of participants in a transaction or relationship,” “the
+legal capacity in which a participant is acting,” and “the iden-
+93
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+tity of real parties in interest,” along with a “description of
+the transaction.” §§ 5314(a)(1)–(4). The law also directs
+the Secretary to prescribe “the way and . . . the extent” to
+which reports must be fled. § 5314(a).
+Immediately, one thing becomes clear. Section 5314 does
+not speak of accounts or their number. The word “account”
+does not even appear. Instead, the relevant legal duty is the
+duty to fle reports. Of course, those reports must include
+various kinds of information about an individual's foreign
+“transaction[s] or relationship[s].” But whether a report is
+fled late, whether a timely report contains one mistake
+about the “address of [the] participants in a transaction,” or
+whether a report includes multiple willful errors in its “de-
+scription of . . . transaction[s],” the duty to supply a com-
+pliant report is violated. Put another way, the statutory
+obligation is binary. Either one files a report “in the way
+and to the extent the Secretary prescribes,” or one does not.
+Multiple willful errors about specific accounts in a single re-
+port may confirm a violation of § 5314, but even a single
+nonwillful mistake is enough to pose a problem. One way
+or another, § 5314 is violated. The only distinction the
+law draws between these cases concerns the appropriate
+penalty.
+That's where § 5321 comes in. As a baseline, § 5321(a)(5)
+authorizes the Secretary to impose a civil penalty of up to
+$10,000 for “any violation” of § 5314. 31 U. S. C. §§ 5321(a)
+(5)(A) and (B)(i). Some call this the “nonwillful” penalty
+provision. And here again, one thing is immediately appar-
+ent: The law still does not speak of accounts or their number.
+Instead, the statute pegs the quantity of nonwillful penalties
+to the quantity of “violation[s].” And as we have seen,
+§ 5314 provides that a violation occurs when an individual
+fails to fle a report consistent with the statute's commands.
+So multiple defcient reports may yield multiple $10,000 pen-
+alties, and even a seemingly simple deficiency in a single re-
+94
+ BITTNER v. UNITED STATES
+Opinion of the Court
+port may expose an individual to a $10,000 penalty. But in
+all cases, penalties for nonwillful violations accrue on a per-
+report, not a per-account, basis. 1
+To be sure, the statute's penalty provisions do not stop
+there. Section 5321 goes on to say that if an individual
+“willfully” violates § 5314, he may face a maximum penalty
+of $100,000. § 5321(a)(5)(C)(i)(I). The statute then adds an
+even more specific rule for a subclass of willful violations—
+those that involve “a failure to report the existence of an
+account or any identifying information required to be pro-
+vided with respect to an account.” § 5321(a)(5)(D)(ii). In
+cases like that, the law authorizes the Secretary to impose a
+maximum penalty of either $100,000 or 50% of “the balance
+in the account at the time of the violation”—whichever is
+greater. §§ 5321(a)(5)(C) and (D)(ii). So here, at last, the
+law does tailor penalties to accounts. But the statute does
+so only for a certain category of cases that involve willful
+violations, not for cases like ours that involve only nonwill-
+ful violations.
+No surprise, the government seeks to turn this feature of
+the law to its advantage. Because Congress explicitly au-
+thorized per-account penalties for some willful violations, the
+government asks us to infer that Congress meant to do so
+for analogous nonwillful violations as well. Brief for United
+States 20–23. But, in truth, this line of reasoning cuts
+against the government. When Congress includes particu-
+lar language in one section of a statute but omits it from a
+neighbor, we normally understand that difference in lan-
+guage to convey a difference in meaning (expressio unius est
+exclusio alterius). The government's interpretation defies
+this traditional rule of statutory construction. See, e. g., De-
+partment of Homeland Security v. MacLean, 574 U. S. 383,
+391 (2015); Gallardo v. Marstiller, 596 U. S. –––, –––, –––
+(2022).
+1 What, if any, mens rea the government must prove to impose a “non-
+willful” penalty is not before us.
+95
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+The government's problem repeats itself too. Section
+5321(a)(5)(B)(ii) contains a “[r]easonable cause exception.”
+That exception allows an individual to escape a penalty (say
+for filing late) only if his violation was nonwillful, “due to
+reasonable cause,” and the report he eventually files accu-
+rately reflects each and every account. 2 All of which sup-
+plies further evidence that, when Congress wished to tie
+sanctions to account-level information, it knew exactly how
+to do so. Congress said that penalties for certain willful vio-
+lations may be measured on a per-account basis. Congress
+said that a person may invoke the reasonable cause exception
+only on a showing of per-account accuracy. But the one
+thing Congress did not say is that the government may im-
+pose nonwillful penalties on a per-account basis. Conspicu-
+ously, the one place in the statute where the government
+needs per-account language to appear is the one place it does
+not. In the end, the government's per-account theory faces
+not just a single expressio unius challenge but two. 3
+The dissent founders on the same shoals. It suggests that
+the “pattern” of account-specifc language in the willful pen-
+alty provision and the reasonable cause exception “con-
+not[es]” that the nonwillful penalty provision must operate
+on a per-account basis. Post, at 107, 109–110 (opinion of
+Barrett, J.). But (again), just because two provisions in
+the law are similar does not mean we may ignore differences
+found in a third. Seeking a way around the problem, the
+2 At argument, the government explained that the reasonable cause ex-
+ception works in this fashion to protect those who fle a late FBAR so
+long as the report they eventually fle accurately provides the required
+information. Tr. of Oral Arg. 57–58.
+3 What if an individual (like Mr. Bittner) fails to fle a timely report and
+later files an inaccurate one—would the statute classify that as two viola-
+tions of the duty to fle a statutorily compliant report rather than one?
+The parties do not join issue on the question and we do not pass upon it.
+Nor does the answer matter for present purposes. Either way, the stat-
+ute conditions nonwillful penalties on the number of reports, not on the
+number of accounts.
+96
+ BITTNER v. UNITED STATES
+Opinion of the Court
+dissent points to the fact that even a single qualifying for-
+eign bank account “triggers” the duty to fle a report, and
+the fact that a compliant report must contain a “list of infor-
+mation” about bank addresses and the like. Post, at 105.
+These features of the law, the dissent says, “underscor[e]”
+that nonwillful violations accrue per account. Ibid. But
+that simply does not follow. The fact that a person has a
+duty to fle a report, or provide certain information in a re-
+port, does not tell us whether penalties for nonwillful viola-
+tions accrue per report or multiply per account without re-
+gard to an individual's net worth or foreign holdings. 4
+B
+Widening our view beyond § 5314 and § 5321, we find other
+contextual clues pressing against the government's theory.
+Consider what the government itself has told the public
+about the BSA. In 2010, the Department of the Treasury
+issued a notice of proposed rulemaking warning that, under
+its proposed rules, “[a] person who is required to fle an
+FBAR and fails to properly fle may be subject to a civil
+penalty not to exceed $10,000.” 75 Fed. Reg. 8854 (2010).
+Elsewhere, the government has told suspected FBAR viola-
+tors that “[f]or the failure to fle . . . the penalty cannot ex-
+ceed $10,000.” IRS, Letter 3709, p. 1 (Mar. 2011). Instruc-
+tions included with the FBAR form have cautioned that “[a]
+person who is required to fle an FBAR and fails to properly
+fle may be subject to a civil penalty not to exceed $10,000.”
+4 The dissent also stresses that 31 U. S. C. § 5314 imposes two duties—a
+duty to fle reports and keep records. Post, at 106. From this, the dis-
+sent reasons, “if violations of [the] recordkeeping obligation accrue on a
+per-account basis, the same should be true of violations of [the] obligation
+to fle reports.” Ibid. But the question whether violations of the record-
+keeping duty accrue per account or on some other basis is not before us.
+Nor is it obvious why violations of two separate statutory duties must
+accrue in the same way—especially when the law authorizes the Secretary
+to “prescrib[e]” different “way[s]” the two duties may be discharged.
+§ 5314(a).
+97
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+IRS, Form TD F 90–22.1, p. 8 (Mar. 2011). An IRS “Fact
+Sheet” has advised that, “[f]or the FBAR, the penalty may
+be up to $10,000, if the failure to fle is non-willful.” IRS,
+Offshore Income and Filing Information for Taxpayers with
+Offshore Accounts, FS–2014–7 (June 2014). Ms. Boyd her-
+self received a similarly worded letter alerting her that
+“ `[f]or the failure to fle [the FBAR] . . . the penalty cannot
+exceed $10,000.' ” Boyd, 991 F. 3d, at 1085, n. 11 (alterations
+in original and emphasis deleted).
+None of these representations about the law's operation
+fts easily with the government's current theory. In all of
+these warnings, fact sheets, and instructions, the govern-
+ment seemed to tell the public that the failure to fle a report
+represents a single violation exposing a nonwillful violator
+to one $10,000 penalty. Nowhere in these materials did the
+government announce its current theory that a single def-
+cient or untimely report can give rise to multiple violations,
+that the number of nonwillful penalties may turn on the num-
+ber of accounts, or that the $10,000 maximum penalty may
+be multiplied 272 times or more without respect to an indi-
+vidual's foreign holdings or net worth.
+Doubtless, the government's guidance documents do not
+control our analysis and cannot displace our independent ob-
+ligation to interpret the law. But this Court has long said
+that courts may consider the consistency of an agency's
+views when we weigh the persuasiveness of any interpreta-
+tion it proffers in court. Skidmore v. Swift & Co., 323 U. S.
+134, 140 (1944). Here, the government has repeatedly is-
+sued guidance to the public at odds with the interpretation
+it now asks us to adopt. And surely that counts as one more
+reason yet to question whether its current position repre-
+sents the best view of the law. 5
+5 The dissent expresses “surpris[e]” that we cite the government's guid-
+ance documents. Post, at 111. We don't see why. Our point is not that
+the administrative guidance is controlling. Nor is it that the govern-
+ment's guidance documents have consistently endorsed Mr. Bittner's read-
+98
+ BITTNER v. UNITED STATES
+Opinion of the Court
+The drafting history of the nonwillful penalty provision
+undermines the government's theory too. When Congress
+adopted the BSA in 1970, the law included penalties only for
+willful violations and capped them at $1,000. § 125(a), 84
+Stat. 1117. It took many years before Congress in 1986 au-
+thorized the government to impose penalties on a per-
+account basis for certain willful violations. § 1357(c), 100
+Stat. 3207–25. And it took many years more before Con-
+gress in 2004 amended the law again to authorize penalties
+for nonwillful violations. § 821(a), 118 Stat. 1586. When
+crafting this latest provision, it would have been the simplest
+thing for Congress to model its work on its 1986 amendment
+and authorize per-account penalties for nonwillful violations
+just as it had for certain willful ones. But Congress didn't
+do anything like that. The language it adopted for nonwill-
+ful penalties in 2004 bears scant resemblance to the language
+it used when authorizing per-account penalties for certain
+willful violations in 1986.
+Consider as well Congress's statement of purpose. Con-
+gress has declared that the BSA's “purpose” is “to require”
+certain “reports” or “records” that may assist the govern-
+ment in everything from criminal and tax to intelligence
+and counterintelligence investigations. 31 U. S. C. § 5311. 6
+ing of the law. It is simply that, when the government (or any litigant)
+speaks out of both sides of its mouth, no one should be surprised if its
+latest utterance isn't the most convincing one. This is no new principle
+in the law any more than it is in life. In Skidmore, this Court noted
+that the persuasiveness of an agency's interpretation of the law may be
+undermined by its inconsistency “with earlier [agency] pronouncements.”
+323 U. S., at 140.
+6 “A preamble, purpose clause, or recital is a permissible indicator of
+meaning.” A. Scalia & B. Garner, Reading Law: The Interpretation of
+Legal Texts 217 (2012) (Scalia & Garner). See also 1 J. Story, Commen-
+taries on the Constitution of the United States § 459, p. 443 (1833) (“[T]he
+preamble of a statute is a key to open the mind of the makers, as to the
+mischiefs, which are to be remedied, and the objects, which are to be
+accomplished by the provisions of the statute”).
+99
+Cite as: 598 U. S. 85 (2023)
+Opinion of the Court
+Here we see further evidence that the relevant legal duty
+the BSA establishes is the duty to fle certain reports. We
+see evidence, too, that the point of these reports is to supply
+the government with information potentially relevant to var-
+ious kinds of investigations, criminal and civil alike. But
+what we do not see is any indication that Congress sought
+to maximize penalties for every nonwillful mistake (whether
+a late filing, a transposed account number, or an out-of-date
+bank address). See Brief for American College of Trust and
+Estate Counsel as Amicus Curiae 5–7.7
+The Secretary's regulations implementing the BSA convey
+the same message. Under those regulations, individuals
+with fewer than 25 accounts must provide details about each
+account while those (like Mr. Bittner) with 25 or more
+accounts do not need to list each one or provide account-
+specific details about any of them. 31 CFR § 1010.350(g)(1).
+Instead, flers with 25 or more accounts “need only provide
+the number of financial accounts and certain other basic
+information.” Ibid. Naturally, an individual must sup-
+ply more “detailed information” if the “Secretary or his
+delegate” later chooses to follow up and request it. Ibid.
+But no detailed account-level information is required in
+the fler's initial report. It's yet another feature of the
+BSA and its regulatory scheme that suggests the law aims
+to provide the government with a report sufficient to tip
+it to the need for further investigation, not to ensure the
+presentation of every detail or maximize revenue for each
+mistake.
+7 The dissent insists that its per-account theory would better advance
+“the statute's purpose” of cracking down on criminals and terrorists.
+Post, at 112. But few statutes pursue their stated “ `purpose at all costs.' ”
+Kucana v. Holder, 558 U. S. 233, 252 (2010). Nor is it clear how calculat-
+ing nonwillful penalties on a per-account basis would advance the purpose
+the dissent attributes to the BSA. Are we to imagine that drug cartels
+and terrorists often make innocent mistakes when filing their FBARs?
+100
+ BITTNER v. UNITED STATES
+Opinion of the Court
+The Secretary's regulation also points to some of the
+anomalies that accompany the government's per-account the-
+ory. On the government's telling, an individual with, say,
+three accounts who makes nonwillful errors when providing
+details about these accounts faces a potential penalty of
+$30,000. He faces that penalty no matter how slight his er-
+rors, and regardless whether his foreign holdings (or even
+net worth) approach the same amount. Meanwhile, a person
+with 300 bank accounts runs far less risk of incurring any
+penalty. He doesn't have to provide any detail about his
+accounts, just correctly disclose how many he holds. See
+also Brief for American College of Tax Counsel as Amicus
+Curiae 15–16 (Brief for Tax Counsel).
+Nor is this the only incongruity the government's theory
+invites. Consider someone who has a $10 million balance in
+a single account who nonwillfully fails to report that account.
+Everyone agrees he is subject to a single penalty of $10,000.
+Yet under the government's theory, another person engaging
+in the same nonwillful conduct with respect to a dozen for-
+eign accounts with an aggregate balance of $10,001 would be
+subject to a penalty of $120,000. Id., at 14–15.
+On the government's view, too, those who willfully violate
+the law may face lower penalties than those who violate the
+law nonwillfully. For example, an individual who holds $1
+million in a foreign account during the course of a year but
+withdraws it before the filing deadline and then willfully fails
+to fle an FBAR faces a maximum penalty of $100,000. But
+a person who errs nonwillfully in listing 20 accounts with an
+aggregate balance of $50,000 can face a penalty of up to
+$200,000. Id., at 14. Reading the law to apply nonwillful
+penalties per report invites none of these curiosities; the gov-
+ernment's per-account theory invites them all. 8
+8 The dissent suggests that these examples bear “limited relevance” be-
+cause it is only “natura[l]” that a person “who violates the law many
+times” might incur more penalties. Post, at 112–113. But this assumes

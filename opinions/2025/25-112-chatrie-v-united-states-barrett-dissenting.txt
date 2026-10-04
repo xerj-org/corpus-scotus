@@ -1,0 +1,44 @@
+Chatrie v. United States — No. 25-112 — October Term 2025 — decided 6/29/26 — Barrett, J., dissenting
+Citation: 609 U.S. 605
+Source: https://www.supremecourt.gov/opinions/25pdf/609us2r64_7mio.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+More broadly, where does the boundary between Carpen-
+ter and the third-party doctrine lie after today? Carpenter
+gave “courts and law enforcement officers no indication how
+to determine whether any particular category of information
+falls” on the Carpenter or Miller side of the line, and today's
+decision does no better. Carpenter, 585 U. S., at 340 (Ken-
+nedy, J., dissenting). Do the police need a warrant to obtain
+a person's Amazon purchase history? What about a person's
+Google search history or Venmo transaction log? Those
+kinds of information fall squarely within the third-party doc-
+trine, and today's holding about “cell phone location informa-
+tion” does not ostensibly disturb that fact. Ante, at 638 (in-
+ternal quotation marks omitted). At the same time, those
+data can paint a similarly detailed picture of a person's pri-
+vate life, and law enforcement had no easy way to obtain this
+information in “an earlier age.” 8 Ante, at 626. If the
+Court maintains its unwillingness to engage with such “line-
+drawing questions,” ante, at 630, n. 9, Carpenter's warrant
+requirement might soon come for all forms of digital
+surveillance.
+* * *
+In Carpenter, I worried that we might be “picking up the
+pieces” of our Fourth Amendment doctrine for a long time
+to come. 585 U. S., at 362 (dissenting opinion). Today's de-
+cision all but guarantees that we will be cleaning up debris
+for the foreseeable future.
+Justice Barrett, dissenting.
+I have no quarrel with Carpenter v. United States, 585
+U. S. 296 (2018), or with the Court's decision to grant certio-
+8 Moreover, it is common these days for a single company, such as
+Google, to offer cellular plans, provide location services, maintain payment
+systems, host shopping platforms, and more. Companies have incentives
+to aggregate a user's data across these services, and this tendency will
+further complicate any efforts to draw Fourth Amendment lines among
+different sorts of third-party records.
+rari in this case. But I agree with Justice Alito that
+under our Fourth Amendment precedent, including Carpen-
+ter, Chatrie had no reasonable expectation of privacy in data
+about his public movements that he voluntarily disclosed to
+Google. I therefore respectfully dissent.

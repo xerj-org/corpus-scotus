@@ -1,0 +1,39 @@
+Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos — No. 23-1141 — October Term 2024 — decided 6/05/25 — Thomas, J., concurring
+Citation: 605 U.S. 280
+Source: https://www.supremecourt.gov/opinions/24pdf/605us1r38_j426.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+sellers) from being held “liable for the harm caused by
+those who criminally or unlawfully misuse firearm[s].”
+§ 7901(a)(5). Mexico's suit closely resembles the ones Con-
+gress had in mind: It seeks to recover from American fre-
+arms manufacturers for the downstream damage Mexican
+cartel members wreak with their guns. Of course, the law
+Congress wrote includes the predicate exception, which
+allows some suits falling within PLCAA's general ban to pro-
+ceed. But that exception, if Mexico's suit fell within it,
+would swallow most of the rule. We doubt Congress in-
+tended to draft such a capacious way out of PLCAA, and in
+fact it did not. The predicate exception allows for accom-
+plice liability only when a plaintiff makes a plausible allega-
+tion that a gun manufacturer “participate[d] in” a firearms
+violation “as in something that [it] wishe[d] to bring about”
+and sought to make succeed. Peoni, 100 F. 2d, at 402. Be-
+cause Mexico's complaint fails to do so, the defendant manu-
+facturers retain their PLCAA-granted immunity.
+We therefore reverse the judgment of the Court of Ap-
+peals and remand the case for further proceedings consistent
+with this opinion.
+It is so ordered.
+Justice Thomas, concurring.
+The Court today correctly decides that Mexico has not
+plausibly pleaded that its suit falls under the predicate ex-
+ception to the Protection of Lawful Commerce in Arms Act
+(PLCAA). This exception allows otherwise-prohibited suits
+against gun manufacturers to go forward if, among other re-
+quirements, the manufacturer has “knowingly violated a
+State or Federal statute applicable to the sale or marketing
+of the product.” 15 U. S. C. §§ 7902(a), 7903(5)(A)(iii). I
+write separately to note that the Court's opinion does not
+resolve what a plaintiff must show to establish that the de-
+fendant committed a “violation.” § 7903(5)(A)(iii). It con-
+cludes only that Mexico has not adequately pleaded its the-

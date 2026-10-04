@@ -1,0 +1,299 @@
+Trump v. United States — No. 23-939 — October Term 2023 — decided 7/01/24 — (Jackson, J., concurring). When the President exercises such authority,
+Citation: 603 U.S. 593
+Source: https://www.supremecourt.gov/opinions/23pdf/603us1r57_2dp3.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+(Jackson, J., concurring). When the President exercises such authority,
+Congress cannot act on, and courts cannot examine, the President's ac-
+tions. It follows that an Act of Congress—either a specific one targeted
+at the President or a generally applicable one—may not criminalize the
+President's actions within his exclusive constitutional power. Neither
+may the courts adjudicate a criminal prosecution that examines such
+Presidential actions. The Court thus concludes that the President is
+absolutely immune from criminal prosecution for conduct within his ex-
+clusive sphere of constitutional authority. Pp. 607–609.
+(2) Not all of the President's official acts fall within his “conclusive
+and preclusive” authority. The reasons that justify the President's ab-
+solute immunity from criminal prosecution for acts within the scope of
+his exclusive constitutional authority do not extend to conduct in areas
+where his authority is shared with Congress. To determine the Presi-
+dent's immunity in this context, the Court looks primarily to the Fram-
+ers' design of the Presidency within the separation of powers, precedent
+on Presidential immunity in the civil context, and criminal cases where a
+President resisted prosecutorial demands for documents. Pp. 609–610.
+(i) The Framers designed the Presidency to provide for a “vigor-
+ous” and “energetic” Executive. The Federalist No. 70, pp. 471–472 (J.
+Cooke ed. 1961) (A. Hamilton). They vested the President with “super-
+visory and policy responsibilities of utmost discretion and sensitivity.”
+Nixon v. Fitzgerald, 457 U. S. 731, 750. Appreciating the “unique
+risks” that arise when the President's energies are diverted by proceed-
+ings that might render him “unduly cautious in the discharge of his
+official duties,” the Court has recognized Presidential immunities and
+privileges “rooted in the constitutional tradition of the separation of
+powers and supported by our history.” Id., at 749, 751, 752, n. 32. In
+Fitzgerald, for instance, the Court concluded that a former President is
+entitled to absolute immunity from “damages liability for acts within
+the `outer perimeter' of his official responsibility.” Id., at 756. The
+Court's “dominant concern” was to avoid “diversion of the President's
+attention during the decisionmaking process caused by needless worry
+as to the possibility of damages actions stemming from any particular
+official decision.” Clinton v. Jones, 520 U. S. 681, 694, n. 19.
+By contrast, when prosecutors have sought evidence from the Presi-
+dent, the Court has consistently rejected Presidential claims of absolute
+immunity. During the treason trial of former Vice President Aaron
+Burr, for instance, Chief Justice Marshall rejected President Thomas
+Jefferson's claim that the President could not be subjected to a sub-
+poena. Marshall simultaneously recognized, however, the existence of
+a “privilege” to withhold certain “official paper[s].” United States v.
+Burr, 25 F. Cas. 187, 192 (No. 14,694) (CC Va.). And when a subpoena
+issued to President Richard Nixon, the Court rejected his claim of “ab-
+solute privilege.” United States v. Nixon, 418 U. S. 683, 703. But rec-
+ognizing “the public interest in candid, objective, and even blunt or
+harsh opinions in Presidential decisionmaking,” it held that a “presump-
+tive privilege” protects Presidential communications. Id., at 708. Be-
+cause that privilege “relates to the effective discharge of a President's
+powers,” id., at 711, the Court deemed it “fundamental to the operation
+of Government and inextricably rooted in the separation of powers
+under the Constitution,” id., at 708. Pp. 610–613.
+(ii) Criminally prosecuting a President for official conduct un-
+doubtedly poses a far greater threat of intrusion on the authority and
+functions of the Executive Branch than simply seeking evidence in his
+possession. The danger is greater than what led the Court to recognize
+absolute Presidential immunity from civil damages liability—that the
+President would be chilled from taking the “bold and unhesitating ac-
+tion” required of an independent Executive. Fitzgerald, 457 U. S., at
+745. Although the President might be exposed to fewer criminal prose-
+cutions than civil damages suits, the threat of trial, judgment, and im-
+prisonment is a far greater deterrent and plainly more likely to distort
+Presidential decisionmaking than the potential payment of civil dam-
+ages. The hesitation to execute the duties of his office fearlessly and
+fairly that might result when a President is making decisions under “a
+pall of potential prosecution,” McDonnell v. United States, 579 U. S. 550,
+575, raises “unique risks to the effective functioning of government,”
+Fitzgerald, 457 U. S., at 751. But there is also a compelling “public
+interest in fair and effective law enforcement.” Vance, 591 U. S., at 808.
+Taking into account these competing considerations, the Court con-
+cludes that the separation of powers principles explicated in the Court's
+precedent necessitate at least a presumptive immunity from criminal
+prosecution for a President's acts within the outer perimeter of his off-
+cial responsibility. Such an immunity is required to safeguard the inde-
+pendence and effective functioning of the Executive Branch, and to en-
+able the President to carry out his constitutional duties without undue
+caution. At a minimum, the President must be immune from prosecu-
+tion for an official act unless the Government can show that applying a
+criminal prohibition to that act would pose no “dangers of intrusion on
+the authority and functions of the Executive Branch.” Fitzgerald, 457
+U. S., at 754. Pp. 613–615.
+(3) As for a President's unoffcial acts, there is no immunity. Al-
+though Presidential immunity is required for official actions to ensure
+that the President's decisionmaking is not distorted by the threat of
+future litigation stemming from those actions, that concern does not
+support immunity for unoffcial conduct. Clinton, 520 U. S., at 694,
+and n. 19. The separation of powers does not bar a prosecution predi-
+cated on the President's unoffcial acts. Pp. 615–616.
+(b) The first step in deciding whether a former President is entitled
+to immunity from a particular prosecution is to distinguish his official
+from unoffcial actions. In this case, no court thus far has drawn that
+distinction, in general or with respect to the conduct alleged in particu-
+lar. It is therefore incumbent upon the Court to be mindful that it is
+“a court of final review and not first view.” Zivotofsky v. Clinton, 566
+U. S. 189, 201. Critical threshold issues in this case are how to differen-
+tiate between a President's official and unoffcial actions, and how to do
+so with respect to the indictment's extensive and detailed allegations
+covering a broad range of conduct. The Court offers guidance on those
+issues. Pp. 616–632.
+(1) When the President acts pursuant to “constitutional and statu-
+tory authority,” he takes official action to perform the functions of his
+office. Fitzgerald, 456 U. S., at 757. Determining whether an action is
+covered by immunity thus begins with assessing the President's author-
+ity to take that action. But the breadth of the President's “discretion-
+ary responsibilities” under the Constitution and laws of the United
+States frequently makes it “difficult to determine which of [his] innu-
+merable `functions' encompassed a particular action.” Id., at 756. The
+immunity the Court has recognized therefore extends to the “outer pe-
+rimeter” of the President's official responsibilities, covering actions so
+long as they are “not manifestly or palpably beyond [his] authority.”
+Blassingame v. Trump, 87 F. 4th 1, 13 (CADC).
+In dividing official from unoffcial conduct, courts may not inquire into
+the President's motives. Such a “highly intrusive” inquiry would risk
+exposing even the most obvious instances of official conduct to judicial
+examination on the mere allegation of improper purpose. Fitzgerald,
+457 U. S., at 756. Nor may courts deem an action unoffcial merely be-
+cause it allegedly violates a generally applicable law. Otherwise, Presi-
+dents would be subject to trial on “every allegation that an action was un-
+lawful,” depriving immunity of its intended effect. Ibid. Pp. 617–619.
+(2) With the above principles in mind, the Court turns to the con-
+duct alleged in the indictment. Certain allegations—such as those in-
+volving Trump's discussions with the Acting Attorney General—are
+readily categorized in light of the nature of the President's official rela-
+tionship to the office held by that individual. Other allegations—such
+as those involving Trump's interactions with the Vice President, state
+officials, and certain private parties, and his comments to the general
+public—present more difficult questions. Pp. 619–630.
+(i) The indictment alleges that as part of their conspiracy to over-
+turn the legitimate results of the 2020 Presidential election, Trump and
+his co-conspirators attempted to leverage the Justice Department's
+power and authority to convince certain States to replace their legiti-
+mate electors with Trump's fraudulent slates of electors. According to
+the indictment, Trump met with the Acting Attorney General and other
+senior Justice Department and White House officials to discuss investi-
+gating purported election fraud and sending a letter from the Depart-
+ment to those States regarding such fraud. The indictment further al-
+leges that after the Acting Attorney General resisted Trump's requests,
+Trump repeatedly threatened to replace him.
+The Government does not dispute that the indictment's allegations
+regarding the Justice Department involve Trump's use of official power.
+The allegations in fact plainly implicate Trump's “conclusive and preclu-
+sive” authority. The Executive Branch has “exclusive authority and
+absolute discretion” to decide which crimes to investigate and prosecute,
+including with respect to allegations of election crime. Nixon, 418
+U. S., at 693. And the President's “management of the Executive
+Branch” requires him to have “unrestricted power . . . to remove the
+most important of his subordinates”—such as the Attorney General—
+“in their most important duties.” Fitzgerald, 457 U. S., at 750. The
+indictment's allegations that the requested investigations were shams
+or proposed for an improper purpose do not divest the President of ex-
+clusive authority over the investigative and prosecutorial functions of
+the Justice Department and its officials. Because the President can-
+not be prosecuted for conduct within his exclusive constitutional author-
+ity, Trump is absolutely immune from prosecution for the alleged con-
+duct involving his discussions with Justice Department officials.
+Pp. 619–621.
+(ii) The indictment next alleges that Trump and his co-
+conspirators “attempted to enlist the Vice President to use his ceremo-
+nial role at the January 6 certifcation proceeding to fraudulently alter
+the election results.” App. 187, Indictment ¶10(d). In particular, the
+indictment alleges several conversations in which Trump pressured the
+Vice President to reject States' legitimate electoral votes or send them
+back to state legislatures for review.
+Whenever the President and Vice President discuss their official re-
+sponsibilities, they engage in official conduct. Presiding over the Janu-
+ary 6 certifcation proceeding at which Members of Congress count the
+electoral votes is a constitutional and statutory duty of the Vice Presi-
+dent. Art. II, § 1, cl. 3; Amdt. 12; 3 U. S. C. § 15. The indictment's alle-
+gations that Trump attempted to pressure the Vice President to take
+particular acts in connection with his role at the certifcation proceeding
+thus involve official conduct, and Trump is at least presumptively im-
+mune from prosecution for such conduct.
+The question then becomes whether that presumption of immunity is
+rebutted under the circumstances. It is the Government's burden to
+rebut the presumption of immunity. The Court therefore remands to
+the District Court to assess in the first instance whether a prosecution
+involving Trump's alleged attempts to influence the Vice President's
+oversight of the certifcation proceeding would pose any dangers of
+intrusion on the authority and functions of the Executive Branch.
+Pp. 621–625.
+(iii) The indictment's remaining allegations involve Trump's in-
+teractions with persons outside the Executive Branch: state officials,
+private parties, and the general public. In particular, the indictment
+alleges that Trump and his co-conspirators attempted to convince cer-
+tain state officials that election fraud had tainted the popular vote count
+in their States, and thus electoral votes for Trump's opponent needed to
+be changed to electoral votes for Trump. After Trump failed to convince
+those officials to alter their state processes, he and his co-conspirators al-
+legedly developed and effectuated a plan to submit fraudulent slates of
+Presidential electors to obstruct the certifcation proceeding. On
+Trump's view, the alleged conduct qualifies as official because it was
+undertaken to ensure the integrity and proper administration of the
+federal election. As the Government sees it, however, Trump can point
+to no plausible source of authority enabling the President to take such ac-
+tions. Determining whose characterization may be correct, and with re-
+spect to which conduct, requires a fact-specific analysis of the indictment's
+extensive and interrelated allegations. The Court accordingly remands
+to the District Court to determine in the first instance whether Trump's
+conduct in this area qualifies as official or unoffcial. Pp. 625–628.
+(iv) The indictment also contains various allegations regarding
+Trump's conduct in connection with the events of January 6 itself. The
+alleged conduct largely consists of Trump's communications in the form
+of Tweets and a public address. The President possesses “extraordi-
+nary power to speak to his fellow citizens and on their behalf.” Trump
+v. Hawaii, 585 U. S. 667, 701. So most of a President's public communi-
+cations are likely to fall comfortably within the outer perimeter of his
+official responsibilities. There may, however, be contexts in which the
+President speaks in an unoffcial capacity—perhaps as a candidate for
+office or party leader. To the extent that may be the case, objective
+analysis of “content, form, and context” will necessarily inform the in-
+quiry. Snyder v. Phelps, 562 U. S. 443, 453. Whether the communica-
+tions alleged in the indictment involve official conduct may depend on
+the content and context of each. This necessarily factbound analysis is
+best performed initially by the District Court. The Court therefore
+remands to the District Court to determine in the first instance whether
+this alleged conduct is official or unoffcial. Pp. 628–630.
+(3) Presidents cannot be indicted based on conduct for which they
+are immune from prosecution. On remand, the District Court must
+carefully analyze the indictment's remaining allegations to determine
+whether they too involve conduct for which a President must be immune
+from prosecution. And the parties and the District Court must ensure
+that sufficient allegations support the indictment's charges without such
+conduct. Testimony or private records of the President or his advisers
+probing such conduct may not be admitted as evidence at trial.
+Pp. 630–632.
+(c) Trump asserts a far broader immunity than the limited one the
+Court recognizes, contending that the indictment must be dismissed be-
+cause the Impeachment Judgment Clause requires that impeachment
+and Senate conviction precede a President's criminal prosecution. But
+the text of the Clause does not address whether and on what conduct a
+President may be prosecuted if he was never impeached and convicted.
+See Art. I, § 3, cl. 7. Historical evidence likewise lends little support to
+Trump's position. The Federalist Papers on which Trump relies con-
+cerned the checks available against a sitting President; they did not
+endorse or even consider whether the Impeachment Judgment Clause
+immunizes a former President from prosecution. Transforming the po-
+litical process of impeachment into a necessary step in the enforcement
+of criminal law finds little support in the text of the Constitution or the
+structure of the Nation's Government. Pp. 632–634.
+(d) The Government takes a similarly broad view, contending that the
+President enjoys no immunity from criminal prosecution for any action.
+On its view, as-applied challenges in the course of the trial suffice to
+protect Article II interests, and review of a district court's decisions on
+such challenges should be deferred until after trial. But questions
+about whether the President may be held liable for particular actions,
+consistent with the separation of powers, must be addressed at the out-
+set of a proceeding. Even if the President were ultimately not found
+liable for certain official actions, the possibility of an extended proceed-
+ing alone may render him “unduly cautious in the discharge of his official
+duties.” Fitzgerald, 457 U. S., at 752, n. 32. The Constitution does not
+tolerate such impediments to “the effective functioning of government.”
+Id., at 751. Pp. 634–637.
+(e) This case poses a question of lasting significance: When may a
+former President be prosecuted for official acts taken during his Presi-
+dency? In answering that question, unlike the political branches and
+the public at large, the Court cannot afford to fxate exclusively, or even
+primarily, on present exigencies. Enduring separation of powers prin-
+ciples guide our decision in this case. The President enjoys no immu-
+nity for his unoffcial acts, and not everything the President does is
+official. The President is not above the law. But under our system of
+separated powers, the President may not be prosecuted for exercising
+his core constitutional powers, and he is entitled to at least presumptive
+immunity from prosecution for his official acts. That immunity applies
+equally to all occupants of the Oval Office. Pp. 641–642.
+91 F. 4th 1173, vacated and remanded.
+Roberts, C. J., delivered the opinion of the Court, in which Thomas,
+Alito, Gorsuch, and Kavanaugh, JJ., joined in full, and in which Bar-
+rett, J., joined except as to Part III–C. Thomas, J., fled a concurring
+opinion, post, p. 643. Barrett, J., fled an opinion concurring in part,
+post, p. 650. Sotomayor, J., fled a dissenting opinion, in which Kagan
+and Jackson, JJ., joined, post, p. 657. Jackson, J., fled a dissenting opin-
+ion, post, p. 686.
+D. John Sauer argued the cause for petitioner. With him
+on the briefs were William O. Scharf, Michael E. Talent,
+Kenneth C. Capps, John F. Lauro, and Gregory M. Singer.
+Michael R. Dreeben argued the cause for the United
+States. With him on the brief were Jack L. Smith, J.
+P . Cooney, and James I. Pearce.*
+*Briefs of amici curiae urging reversal were fled for the State of Ala-
+bama et al. by Steve Marshall, Attorney General of Alabama, Edmund G.
+LaCour, Jr., Solicitor General, Robert M. Overing, Deputy Solicitor Gen-
+eral, and Dylan Mauldin, Assistant Solicitor General, and by the Attor-
+neys General for their respective States as follows: Ashley Moody of Flor-
+ida, Raúl R. Labrador of Idaho, Theodore E. Rokita of Indiana, Brenna
+Bird of Iowa, Kris Kobach of Kansas, Liz Murrill of Louisiana, Lynn
+Fitch of Mississippi, Andrew Bailey of Missouri, Austin Knudsen of Mon-
+tana, Michael T. Hilgers of Nebraska, Drew Wrigley of North Dakota,
+Gentner Drummond of Oklahoma, Alan Wilson of South Carolina, Marty
+J. Jackley of South Dakota, Ken Paxton of Texas, Sean D. Reyes of Utah,
+and Patrick Morrisey of West Virginia; for the American Center for Law
+and Justice by Jay Alan Sekulow, Jordan A. Sekulow, Stuart J. Roth,
+Andrew J. Ekonomou, Jane Serene Raskin, Walter M. Weber, and Benja-
+min P . Sisney; for the Christian Family Coalition (CFC) Florida, Inc., by
+Dennis Grossman; for the Coolidge Reagan Foundation et al. by Dan
+Backer; for the Kansas Republican Party by Craig L. Uhrich; for the

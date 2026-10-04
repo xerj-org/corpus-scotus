@@ -1,0 +1,146 @@
+Chiles v. Salazar — No. 24-539 — October Term 2025 — decided 3/31/26 — Kagan, J., concurring
+Citation: 607 U.S. 627
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r24_4315.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+of professional consensus, the First Amendment rests in-
+stead on a simple truth: “[T]he people lose” whenever the
+government transforms prevailing opinion into enforced con-
+formity. Ibid.
+III
+We do not doubt that the question “how best to help mi-
+nors” struggling with issues of gender identity or sexual ori-
+entation is presently a subject of “fierce public debate.”
+Tingley v. Ferguson, 601 U. S. 955, 956 (2023) (Thomas, J.,
+dissenting from denial of certiorari). But Colorado's law ad-
+dressing conversion therapy does not just ban physical inter-
+ventions. In cases like this, it censors speech based on
+viewpoint. Colorado may regard its policy as essential to
+public health and safety. Certainly, censorious governments
+throughout history have believed the same. But the First
+Amendment stands as a shield against any effort to enforce
+orthodoxy in thought or speech in this country. It reflects
+instead a judgment that every American possesses an in-
+alienable right to think and speak freely, and a faith in the
+free marketplace of ideas as the best means for discovering
+truth. However well-intentioned, any law that suppresses
+speech based on viewpoint represents an “egregious” assault
+on both of those commitments. Rosenberger, 515 U. S.,
+at 829.
+The judgment of the Tenth Circuit is reversed, and the
+case remanded for further proceedings consistent with this
+opinion.
+It is so ordered.
+Justice Kagan, with whom Justice Sotomayor joins,
+concurring.
+The Court today decides that the Colorado law challenged
+here, as applied to talk therapy, conflicts with core First
+Amendment principles because it regulates speech based on
+viewpoint. See ante, at 655. I agree. I write only to note
+that if Colorado had instead enacted a content-based but
+viewpoint-neutral law, it would raise a different and more
+difficult question.
+As the Court states, governments must “nearly always”
+abstain from adopting viewpoint-based restrictions. Ante,
+at 641. Those laws represent a particularly “egregious
+form” of content-based regulation, implicating First Amend-
+ment concerns to the highest possible degree. Ibid.; see
+Iancu v. Brunetti, 588 U. S. 388, 393 (2019). A law drawing
+a line based on the “ideology” of the speaker—disadvantag-
+ing one view and advantaging another—skews the market-
+place of ideas our society depends on to discover truth. Ro-
+senberger v. Rector and Visitors of Univ. of Va., 515 U. S.
+819, 829 (1995). And such a law suggests an impermissible
+motive—that the government is regulating speech because
+of its own “hostility” toward the targeted messages. R. A. V.
+v. St. Paul, 505 U. S. 377, 386 (1992). If the First Amend-
+ment prohibits anything, it is the “official suppression of
+ideas.” Id., at 390; see Reed v. Town of Gilbert, 576 U. S.
+155, 181–183 (2015) (Kagan, J., concurring in judgment). Be-
+cause viewpoint-based laws always raise that specter, they
+are the most suspect of all speech regulations. So much so
+that this Court has refused to permit viewpoint discrimina-
+tion even within unprotected categories of speech, like fght-
+ing words or obscenity. See R. A. V., 505 U. S., at 384–390.
+Colorado's law, as applied to talk therapy, regulates based
+on viewpoint, for the reasons the Court gives. See ante,
+at 645–646. The law forbids a counselor to provide therapy
+designed to “change [a minor's] sexual orientation or gender
+identity.” Colo. Rev. Stat. § 12–245–202(3.5)(a) (2025); see
+§ 12–245–224(1)(t)(V). At the same time, the law specifically
+allows a counselor to offer therapy expressing “[a]cceptance,
+support,” and other affrmation of the minor's “identity ex-
+ploration.” § 12–245–202(3.5)(b)(I)–(II). So, for example,
+the law prevents a therapist from saying she can help a
+minor change his same-sex orientation, but permits her to
+say that such a goal is impossible and so she will help him
+accept his gay identity. Colorado does not dispute that
+point. See Tr. of Oral Arg. 78. Nor does it dispute that
+under normal First Amendment principles, that difference
+constitutes viewpoint discrimination. See ibid. Indeed,
+the case is textbook. The law “distinguishes between two
+opposed sets of ideas”—the one resisting, the other refect-
+ing, the State's own view of how to speak with minors about
+sexual orientation and gender identity. Iancu, 588 U. S., at
+394. Or said just a bit differently, the law draws a line based
+on the speaker's “opinion or perspective,” and thus enables
+“speech on only one side”—the State's preferred side—of an
+ideologically charged issue. Rosenberger, 515 U. S., at 829;
+McCullen v. Coakley, 573 U. S. 464, 485 (2014).
+Of course, it does not matter what the State's preferred
+side is. Consider a hypothetical law that is the mirror
+image of Colorado's. Instead of barring talk therapy de-
+signed to change a minor's sexual orientation or gender iden-
+tity, this law bars therapy affirming those things. As Ms.
+Chiles readily acknowledges, the First Amendment would
+apply in the identical way. See Tr. of Oral Arg. 25–26; see
+also id., at 37–38 (United States as amicus curiae agreeing).
+Once again, because the State has suppressed one side of a
+debate, while aiding the other, the constitutional issue is
+straightforward.
+It would, however, be less so if the law under review was
+content based but viewpoint neutral. Such content-based
+laws, as the Court explains, trigger strict scrutiny “[a]s a
+general rule.” Ante, at 640. But our precedents respecting
+those laws recognize complexity and nuance. We apply our
+most demanding standard when there is any “realistic possi-
+bility that official suppression of ideas is afoot”—when, that
+is, a (merely) content-based law may reasonably be thought
+to pose the dangers that viewpoint-based laws always do.
+Davenport v. Washington Ed. Assn., 551 U. S. 177, 189
+(2007); see supra, at 656. But when that is not the case—
+when a law, though based on content, raises no real concern
+that the government is censoring disfavored ideas—then we
+have not infrequently “relax[ed] our guard.” Reed, 576
+U. S., at 183 (opinion of Kagan, J.); see Davenport, 551 U. S.,
+at 188 (noting the “numerous situations in which [the] risk”
+of a content-based law “driv[ing] certain ideas or viewpoints
+from the marketplace” is “attenuated” or “inconsequential,
+so that strict scrutiny is unwarranted”). Just two Terms
+ago, for example, the Court declined to apply strict scrutiny
+to a content-based but viewpoint-neutral trademark restric-
+tion. See Vidal v. Elster, 602 U. S. 286, 295 (2024); id., at
+312 (Barrett, J., concurring in part); id., at 329–330 (Soto-
+mayor, J., concurring in judgment). In the trademark con-
+text, as in some others, experience and reason alike showed
+“no significant danger of idea or viewpoint” bias. R. A. V.,
+505 U. S., at 388.
+The same may well be true of content-based but
+viewpoint-neutral laws regulating speech in doctors' and
+counselors' offices.* Medical care typically involves speech,
+so the regulation of medical care (which is, of course, perva-
+sive) may involve speech restrictions. And those restric-
+tions will generally refer to the speech's content. Cf. Reed,
+576 U. S., at 177 (Breyer, J., concurring in judgment) (noting
+that “[r]egulatory programs” addressing speech “inevitably
+involve content discrimination”). But laws of that kind may
+not pose the risk of censorship—of “official suppression of
+ideas”—that appropriately triggers our most rigorous re-
+view. R. A. V., 505 U. S., at 390. And that means the “dif-
+*Justice Jackson's dissenting opinion claims that this is a small, or
+even nonexistent, category. See post, at 679–680, n. 8. But even her own
+opinion, when listing laws supposedly put at risk today, offers quite a few
+examples. See post, at 689–690, and n. 13. Her view to the contrary
+rests on reimagining—and in that way collapsing—the well-settled distinc-
+tion between viewpoint-based and other content-based speech restrictions.
+See, e. g., Vidal v. Elster, 602 U. S. 286, 292–293 (2024) (explaining the
+difference).

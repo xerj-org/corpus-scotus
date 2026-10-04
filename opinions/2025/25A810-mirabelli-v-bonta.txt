@@ -1,0 +1,214 @@
+Mirabelli v. Bonta — No. 25A810 — October Term 2025 — decided 3/02/26 — opinion of the Court — author Per Curiam (listing code PC)
+Citation: 607 U.S. 492
+Source: https://www.supremecourt.gov/opinions/25pdf/607us2r17_bqmc.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+Invoking the Free Exercise Clause and Due Process Clause, parents of
+California public schoolchildren and teachers in the California public
+school system brought this challenge to a set of statewide student gen-
+der policies. Under these policies, school employees must refer to stu-
+dents by their preferred name and pronouns, and school employees must
+obtain the child's consent before disclosing the child's gender identity to
+his or her parents. The District Court permanently enjoined enforce-
+ment of these policies. The Ninth Circuit stayed the injunction pend-
+ing appeal.
+Held: As to the parents, the application to vacate the Ninth Circuit's stay
+is granted because the stay is not justified under the governing four-
+factor test. See Alabama Assn. of Realtors v. Department of Health
+and Human Servs., 594 U. S. 758 (per curiam ). The parents are likely
+to succeed on the merits of their free exercise claim. California's poli-
+cies likely trigger strict scrutiny because they substantially interfere
+with the “right of parents to guide the religious development of their
+children.” Mahmoud v. Taylor, 606 U. S. 522, 559. The policies likely
+fail strict scrutiny because they cut out the primary protectors of chil-
+dren's best interests: their parents. The parents who object on due
+process grounds are also likely to succeed on the merits. Under long-
+established precedent, parents—not the State—have primary authority
+with respect to “the upbringing and education of children.” Pierce v.
+Society of Sisters, 268 U. S. 510, 534–535. The denial of plaintiffs' con-
+stitutional rights is irreparable harm. See Roman Catholic Diocese of
+Brooklyn v. Cuomo, 592 U. S. 14, 19 (per curiam ). And the equities—
+the most important of which is child safety—favor the parents.
+Application granted in part and denied in part.
+Per Curiam.
+Before us is an application to vacate a Court of Appeals
+order staying a permanent injunction entered by a District
+Court on behalf of parents and teachers who claim that cer-
+tain California policies violate their rights under the Free
+Exercise Clause of the First Amendment and the Due Proc-
+ess Clause of the Fourteenth Amendment. The parents ob-
+ject that these policies prevent schools from telling them
+about their children's efforts to engage in gender transition-
+ing at school unless the children consent to parental notifca-
+tion. The parents also take issue with California's require-
+ment that schools use children's preferred names and
+pronouns regardless of their parents' wishes. The teachers
+object to their compelled participation in the implementation
+of the State's policies.
+I
+This case began in the United States District Court for
+the Southern District of California in 2023 when two teach-
+ers sued seeking an exemption from their school district's
+policies regarding students' gender. During litigation, the
+school district claimed that state law, as interpreted by the
+California attorney general and Department of Education,
+required it to adopt these policies. So the teachers added
+state officials as defendants, and parents of California school-
+children joined the lawsuit as plaintiffs. Relying on their
+own experiences and guidance documents issued by state of-
+ficials, plaintiffs alleged that California's policies permitted
+disclosure of a student's gender transitioning at school only if
+the student consented. Plaintiffs claimed that these policies
+violated their rights under the Free Exercise Clause of the
+First Amendment and the Due Process Clause of the Four-
+teenth Amendment.
+Two of the parent plaintiffs, John and Jane Poe, have reli-
+gious objections to gender transitioning but were not told by
+their daughter's school when she began to present as a boy
+and use a male name and male pronouns during her seventh-
+grade year. In parent-teacher meetings, no one told the
+Poes about their daughter's transitioning or referred to her
+using the male name and pronouns that were used at school.
+At the beginning of their daughter's eighth-grade year, she
+attempted suicide and was hospitalized. Only then did her
+parents learn from a doctor that she had gender dysphoria
+and had been presenting as a boy at school. Just months
+after being discharged, the Poes' daughter was rehospital-
+ized and held there involuntarily because she was at risk for
+self-harm. At a new school in ninth grade, she once again
+began identifying as a boy. Contrary to the Poes' instruc-
+tions, teachers and school officials continued to use a male
+name and pronouns for their daughter, citing their obliga-
+tions under California state law. The Poes have placed their
+daughter in therapy and obtained psychiatric care for her.
+Like the Poes, plaintiffs John and Jane Doe object to gen-
+der transitioning, but since fifth grade, their daughter has
+sometimes identified as a boy. When their daughter was in
+seventh grade, the Does confronted the school principal
+about their daughter's transitioning. They believed the
+school was using a male name and pronouns for their daugh-
+ter behind their backs. The principal explained that state
+law prohibited the school from sharing information about a
+child's transitioning with the child's parents without the
+child's consent. The Does believed that the risk of leaving
+their daughter in that school was too great, so they trans-
+ferred their daughter to a new public school because sending
+her to a private school was fnancially and logistically infeasi-
+ble. The Does have also placed their daughter in therapy.
+In 2025, defendants asserted that the guidance documents
+on which plaintiffs had relied were no longer operative and
+that the claims against certain state defendants should be
+dismissed as moot. But the State had promulgated a new
+required training curriculum that similarly directed teachers
+not to tell parents about their children's gender identity
+without the children's consent. Defendants then withdrew
+their mootness argument, and the District Court declined to
+impose sanctions.
+Later, plaintiffs sought classwide relief, and the District
+Court certified a class with separate subclasses for parents
+and teachers. One subclass of parents comprises all those
+who object to the challenged policies, while a separate sub-
+class is limited to those who seek a religious exemption.
+App. to Emergency Application 90a (App.). Two similar
+subclasses of teachers were also certified. Id., at 89a–90a.
+After discovery, the court granted summary judgment for
+all plaintiffs and entered a permanent injunction in their
+favor. The injunction prevents the schools from “mislead-
+ing” parents about their children's gender presentation at
+school and their social transitioning efforts. Id., at 24a. It
+also requires the schools to follow parents' directions regard-
+ing their children's names and pronouns. And it compels
+defendants to include in state-created or approved instruc-
+tional materials a notice of the rights protected by the
+injunction.
+The Ninth Circuit granted defendants' motion to stay the
+injunction pending appeal. It began by raising procedural
+objections to the District Court's injunction. It claimed
+that the District Court had granted class certifcation with-
+out undertaking the “ `rigorous analysis' ” required by Fed-
+eral Rule of Civil Procedure 23. App. 7a (quoting Wal-Mart
+Stores, Inc. v. Dukes, 564 U. S. 338, 351 (2011)). And it
+stated that the injunction appeared to be overly broad be-
+cause it “covers every parent of California's millions of public
+school students and every public school employee in the
+state.” App. 6a. As a result, it opined, the injunction
+seemed to grant relief to uninjured class members who
+lacked Article III standing.
+The Ninth Circuit also expressed doubts about the District
+Court's decision on the merits. On the free exercise issue,
+it relied on a not-precedential Sixth Circuit decision and
+brushed aside Mahmoud v. Taylor, 606 U. S. 522 (2025), as
+“a narrow decision focused on uniquely coercive `curricular
+requirements.' ” App. 10a–11a (citing Doe No. 1 v. Bethel
+Local School Dist. Bd. of Educ., 2025 WL 2453836, *7 (CA6,
+Aug. 26, 2025)). The Ninth Circuit expressed skepticism
+about the parents' and teachers' Fourteenth Amendment due
+process claim because it viewed those claims as seeking to
+expand the protection afforded by established precedent.
+When the Ninth Circuit stayed the injunction, the parents
+and teachers fled this application seeking vacatur of the
+Ninth Circuit's stay pending appeal.
+II
+We grant the application and vacate the stay with respect
+to the parents because this aspect of the stay is not “justified
+under the governing four-factor test.” Alabama Assn. of
+Realtors v. Department of Health and Human Servs., 594
+U. S. 758, 763 (2021) (per curiam ) (citing Nken v. Holder, 556
+U. S. 418, 434 (2009)).
+Likelihood of success on the merits. We conclude that
+the parents who seek religious exemptions are likely to suc-
+ceed on the merits of their Free Exercise Clause claim. Cal-
+ifornia's policies likely trigger strict scrutiny under that pro-
+vision because they substantially interfere with the “right of
+parents to guide the religious development of their children.”
+Mahmoud, 606 U. S., at 559 (citing Wisconsin v. Yoder, 406
+U. S. 205 (1972)). The parents who assert a free exercise
+claim have sincere religious beliefs about sex and gender,
+and they feel a religious obligation to raise their children in
+accordance with those beliefs. California's policies violate
+those beliefs and “impos[e] the kind of burden on religious
+exercise that Yoder found unacceptable.” 606 U. S., at 550.
+Indeed, the intrusion on parents' free exercise rights here—
+unconsented facilitation of a child's gender transition—is
+greater than the introduction of LGBTQ storybooks we con-
+sidered sufficient to trigger strict scrutiny in Mahmoud.
+See id., at 563.
+California's policies will likely not survive the strict scru-
+tiny that Mahmoud demands. The State argues that its
+policies advance a compelling interest in student safety and
+privacy. But those policies cut out the primary protectors
+of children's best interests: their parents. See Troxel v.
+Granville, 530 U. S. 57, 68–69 (2000) (plurality opinion).
+California's policies also appear to fail the narrow-tailoring
+requirement. The State's interest in safety could be served
+by a policy that allows religious exemptions while precluding
+gender-identity disclosure to parents who would engage in
+abuse. For these reasons, the parents who object to the
+California policies on free exercise grounds are likely to suc-
+ceed on the merits.
+The same is true for the subclass of parents who object to
+those policies on due process grounds. Under long-
+established precedent, parents—not the State—have pri-
+mary authority with respect to “the upbringing and educa-
+tion of children.” Pierce v. Society of Sisters, 268 U. S. 510,
+534–535 (1925); accord, Meyer v. Nebraska, 262 U. S. 390,
+399–400 (1923). The right protected by these precedents in-
+cludes the right not to be shut out of participation in deci-
+sions regarding their children's mental health. Parham v.
+J. R., 442 U. S. 584, 602 (1979). Gender dysphoria is a condi-
+tion that has an important bearing on a child's mental health,
+but when a child exhibits symptoms of gender dysphoria at
+school, California's policies conceal that information from
+parents and facilitate a degree of gender transitioning during
+school hours. These policies likely violate parents' rights to
+direct the upbringing and education of their children.
+Irreparable harm. The denial of plaintiffs' constitutional
+rights during the potentially protracted appellate process
+constitutes irreparable harm. Roman Catholic Diocese of
+Brooklyn v. Cuomo, 592 U. S. 14, 19 (2020) (per curiam ).
+Balance of equities. Finally, the “equities do not justify
+depriving [the parents] of the District Court's judgment in
+their favor.” Alabama Assn. of Realtors, 594 U. S., at 765.
+Everyone agrees that children's safety is the overriding eq-
+uity. And the injunction here promotes child safety by
+guaranteeing ft parents a role in some of the most conse-
+quential decisions in their children's lives. The injunction

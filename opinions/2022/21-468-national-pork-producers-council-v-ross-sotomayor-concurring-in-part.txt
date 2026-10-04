@@ -1,0 +1,74 @@
+National Pork Producers Council v. Ross — No. 21-468 — October Term 2022 — decided 5/11/23 — Sotomayor, J., concurring in part
+Citation: 598 U.S. 356
+Source: https://www.supremecourt.gov/opinions/22pdf/598us2r18_g2bh.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+us prevent a State from regulating the sale of an ordinary
+consumer good within its own borders on nondiscriminatory
+terms—even though the Pike line of cases they invoke has
+never before yielded such a result. Like the courts that
+faced this case before us, we decline both of petitioners' in-
+cautious invitations.
+The judgment of the Ninth Circuit is
+Affirmed.
+Justice Sotomayor , with whom Justice Kagan joins,
+concurring in part.
+I join all but Parts IV–B and IV–D of Justice Gorsuch's
+opinion. Given the fractured nature of Part IV , I write sep-
+arately to clarify my understanding of why petitioners' Pike
+claim fails. In short, I vote to affirm the judgment because
+petitioners fail to allege a substantial burden on interstate
+commerce as required by Pike, not because of any fundamen-
+tal reworking of that doctrine.
+* * *
+In Pike v. Bruce Church, Inc., 397 U. S. 137 (1970), the
+Court distilled a general principle from its prior cases.
+“Where [a] statute regulates even-handedly to effectuate a
+legitimate local public interest, and its effects on interstate
+commerce are only incidental, it will be upheld unless the
+burden imposed on such commerce is clearly excessive in re-
+lation to the putative local benefits.” Id., at 142. Further,
+“the extent of the burden that will be tolerated will of course
+depend on the nature of the local interest involved, and on
+whether it could be promoted as well with a lesser impact
+on interstate activities.” Ibid.
+As the Court's opinion here explains, Pike's balancing and
+tailoring principles are most frequently deployed to detect
+the presence or absence of latent economic protectionism.
+See ante, at 377–380. That is no surprise. Warding off
+state discrimination against interstate commerce is at the
+heart of our dormant Commerce Clause jurisprudence. See
+ante, at 369, 371–373, 377–378.
+As the Court's opinion also acknowledges, however, the
+Court has “generally le[ft] the courtroom door open” to
+claims premised on “even nondiscriminatory burdens.” De-
+partment of Revenue of Ky. v. Davis, 553 U. S. 328, 353
+(2008); see ante, at 379. Indeed, “a small number” of this
+Court's cases in the Pike line “have invalidated state laws
+. . . that appear to have been genuinely nondiscriminatory”
+in nature. General Motors Corp. v. Tracy, 519 U. S. 278, 298,
+n. 12 (1997); see ante, at 379. Often, such cases have ad-
+dressed state laws that impose burdens on the arteries of
+commerce, on “trucks, trains, and the like.” Ibid., n. 2.
+Yet, there is at least one exception to that tradition. See
+Edgar v. MITE Corp., 457 U. S. 624, 643–646 (1982) (invali-
+dating a nondiscriminatory state law that regulated tender
+offers to shareholders).
+Pike claims that do not allege discrimination or a burden
+on an artery of commerce are further from Pike's core. As
+The Chief Justice recognizes, however, the Court today
+does not shut the door on all such Pike claims. See ante, at
+379–380, and n. 2; post, at 395–396. Thus, petitioners' fail-
+ure to allege discrimination or an impact on the instrumen-
+talities of commerce does not doom their Pike claim.
+Nor does a majority of the Court endorse the view that
+judges are not up to the task that Pike prescribes. Justice
+Gorsuch, for a plurality, concludes that petitioners' Pike
+claim fails because courts are incapable of balancing eco-
+nomic burdens against noneconomic benefits. See ante, at
+380–383. I do not join that portion of Justice Gorsuch's
+opinion. I acknowledge that the inquiry is difficult and deli-
+cate, and federal courts are well advised to approach the
+matter with caution. See ante, at 390. Yet, I agree with
+The Chief Justice that courts generally are able to weigh
+disparate burdens and benefits against each other, and that
+they are called on to do so in other areas of the law with

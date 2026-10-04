@@ -1,0 +1,39 @@
+Helix Energy Solutions Group, Inc. v. Hewitt — No. 21-984 — October Term 2022 — decided 2/22/23 — Gorsuch, J., dissenting
+Citation: 598 U.S. 39
+Source: https://www.supremecourt.gov/opinions/22pdf/598us1r4_1a7d.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+itt's compensation did not meet § 604(b)'s conditions, it could
+not count as a salary. So Hewitt was not exempt from the
+FLSA; instead, he was eligible under that statute for over-
+time pay. We accordingly affirm the judgment below.
+It is so ordered.
+Justice Gorsuch, dissenting.
+The Court granted certiorari to answer this question:
+“Whether a supervisor making over $200,000 each year is
+entitled to overtime pay because the standalone regulatory
+exemption set forth in 29 C.F.R. § 541.601 remains subject to
+the detailed requirements of 29 C.F.R. § 541.604 when deter-
+mining whether highly compensated supervisors are exempt
+from the [Fair Labor Standards Act]'s overtime-pay require-
+ments.” Pet. for Cert. i–ii. In other words, we agreed to
+decide which regulations certain well-paid employees must
+satisfy to ft within the overtime-pay exemption. Must they
+satisfy only § 541.601? Or must they satisfy § 541.601 and
+§ 541.604?
+Unfortunately, this case does not tee up that issue in the
+way we hoped. With the benefit of briefing and argument,
+it has become clear that the “critical question here” is not
+how § 541.601 and § 541.604 interact. Ante, at 49. Instead,
+the critical question is an antecedent one—whether Helix
+Energy paid Michael Hewitt, the supervisor at issue in this
+case, “on a salary basis” under § 541.602. As the Court ex-
+plains, the proper interaction between § 541.601 and § 541.604
+matters only if Helix Energy paid Mr. Hewitt on a salary
+basis consistent with the terms of § 541.602. Ante, at 49–50.
+Faced with this development, the Court chooses to take up
+the question whether Mr. Hewitt was paid on a salary basis
+under § 541.602 and holds he was not. Ante, at 50.
+Respectfully, I would dismiss this case as improvidently
+granted. After successfully petitioning the Court to decide
+how § 541.601 relates to § 541.604, Helix Energy assured us
+that “the faw in the decision below has nothing to do with

@@ -1,0 +1,38 @@
+United States v. Zubaydah — No. 20-827 — October Term 2021 — decided 3/03/22 — opinion of the Court — author Breyer (listing code B)
+Citation: 595 U.S. 195
+Source: https://www.supremecourt.gov/opinions/21pdf/595us2r12_1a72.pdf (retrieved 2026-10-04)
+Licence: US Government work / court opinion — public domain (17 U.S.C. § 105; case law not copyrightable)
+sure of classified information in previous litigation on related
+subject matter. See post, at 261 (opinion of Gorsuch, J.)
+(describing protective measures used to prevent disclosure
+of classified information in United States v. Khalid Shaikh
+Mohammad and Salim v. Mitchell , No. 2:15–cv–286
+(ED Wash.)). But the nature of this case (an exclusively
+discovery-related proceeding aimed at producing evidence
+for use by Polish criminal investigators) and the specific dis-
+covery requests before us convince us that these techniques
+would not be effective here. In particular, as we have al-
+ready explained, both the subpoena's language and the Ninth
+Circuit's decision are such that any response to Zubaydah's
+discovery requests would inevitably tend to confirm or deny
+whether the CIA operated a detention site located in Poland.
+Supra, at 206–207. All this is true regardless of protective
+measures that might be employed by the courts below. Of
+course, we need not and do not here decide whether a differ-
+ent discovery request fled by Zubaydah might avoid the
+problems that preclude further litigation regarding the re-
+quests at issue here.
+Finally, Justice Gorsuch ignores the nature of this liti-
+gation. This case arises from Zubaydah's ex parte applica-
+tion for discovery under § 1782. It is a purely evidentiary
+proceeding and thus unlike most litigation, which may, after
+a successful assertion of the state secrets privilege, “con-
+tinue without the government's privileged proof.” Post, at
+260. Here, the privilege blocks Zubaydah's discovery re-
+quests, which are the proceeding's sole object. Given that
+fact, we can see no reason to remand for further proceedings.
+IV
+We reverse the judgment of the Ninth Circuit and remand
+the case with instructions to dismiss Zubaydah's current ap-
+plication for discovery under § 1782.
+It is so ordered.
